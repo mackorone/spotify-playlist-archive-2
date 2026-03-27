@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Wijaya 80, Sal Priadi",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover:  Andi Rianto, Nadhif Basalamah",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 244000,
       "name": "Cinta Tak Berbatas - From Novel \"Bukan Sekadar Cinta\"",
       "url": "https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S"
@@ -2802,6 +2802,24 @@
       "duration_ms": 240800,
       "name": "Dirimu Yang Dulu",
       "url": "https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR"
+    },
+    {
+      "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/5dthffa1xLLD1HFvEWgkNJ"
+      },
+      "artists": [
+        {
+          "name": "Shakirra Vier",
+          "url": "https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156684,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An"
     },
     {
       "album": {
@@ -5244,6 +5262,28 @@
       "duration_ms": 269937,
       "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
       "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
+    },
+    {
+      "album": {
+        "name": "BSS & KITST (Orchestra Version)",
+        "url": "https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc"
+      },
+      "artists": [
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277700,
+      "name": "kota ini tak sama tanpamu - Orchestra Version",
+      "url": "https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5"
     },
     {
       "album": {

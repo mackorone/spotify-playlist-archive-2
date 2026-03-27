@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,907 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,943 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 27 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
 | 28 | [Save Me](https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Save Me](https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte) | 3:32 |
 | 29 | [Hide U](https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI) | [Kosheen](https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Hide U](https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG) | 3:48 |
-| 30 | [Waste my time](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Waste my time](https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY) | 4:28 |
-| 31 | [Like I Do](https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Like I Do](https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA) | 2:38 |
-| 32 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
-| 33 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 |
+| 30 | [Like I Do](https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Like I Do](https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA) | 2:38 |
+| 31 | [Waste my time](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Waste my time](https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY) | 4:28 |
+| 32 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 |
+| 33 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
 | 34 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 35 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 |
 | 36 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 |

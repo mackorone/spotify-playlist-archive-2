@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,050 likes - 249 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,078 likes - 249 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 182 | [Trouble](https://open.spotify.com/track/2nGrU2kUfx9JpSrCFww2k2) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Trouble / Planet Ours](https://open.spotify.com/album/2PrYAP3H4MoJjKZRbD8y9Z) | 3:23 |
 | 183 | [way 2 paradise](https://open.spotify.com/track/3sgoRhmVZj3wtkzFd6hcZb) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [way 2 paradise](https://open.spotify.com/album/3MIL2etNxMIjQIX8glmjni) | 2:45 |
 | 184 | [what you want](https://open.spotify.com/track/0AH7Z2XAyFso21ZlihoPzM) | [marQ](https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC) | [what you want](https://open.spotify.com/album/70406egpfCeHceyC3puJnS) | 2:40 |
-| 185 | [W.T.A.](https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [W.T.A.](https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M) | 3:22 |
+| 185 | [w.t.a.](https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [w.t.a.](https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M) | 3:22 |
 | 186 | [GANG](https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [GANG](https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf) | 3:44 |
 | 187 | [desire.](https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [November Scorpio](https://open.spotify.com/album/5gLta4atMJLFX4HJEFQ9JV) | 3:15 |
 | 188 | [Remedy](https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Remedy](https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV) | 3:13 |

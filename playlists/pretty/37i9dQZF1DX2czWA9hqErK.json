@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1327133,
+  "num_followers": 1327088,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Manning Fireworks",
-        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Joker Lips",
-      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 207242,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Warm on a Cold Night (10 Years)",
-        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 318120,
-      "name": "Warm on a Cold Night (10 Years)",
-      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 217724,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Warm on a Cold Night (10 Years)",
+        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "Warm on a Cold Night (10 Years)",
+      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "The Boy Who Can't Be Named",
-        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
-      },
-      "artists": [
-        {
-          "name": "Grace Gachot",
-          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "The Boy Who Can't Be Named",
-      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+        "name": "The Boy Who Can't Be Named",
+        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Grace Gachot",
+          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
         }
       ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
+      "duration_ms": 211542,
+      "name": "The Boy Who Can't Be Named",
+      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1115,6 +1099,22 @@
       "duration_ms": 185826,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "evergreen",
-        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "evergreen",
-      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 237632,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "the minute you're gone",
-        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "the minute you're gone",
-      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Beautifully Ordinary",
         "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 304812,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "the minute you're gone",
+        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "the minute you're gone",
+      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
     },
     {
       "added_at": "2026-02-20 00:00:16",

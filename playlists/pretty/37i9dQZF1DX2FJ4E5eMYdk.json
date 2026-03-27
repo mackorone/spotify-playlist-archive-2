@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 194127,
+  "num_followers": 194156,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Bottle It In",
-        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Loading Zones",
-      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Brain Cycles",
         "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Bottle It In",
+        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Loading Zones",
+      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -827,6 +827,22 @@
       "duration_ms": 311280,
       "name": "Some Sunsick Day",
       "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -971,22 +987,6 @@
       "duration_ms": 258800,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5D062RPrAS76knCMha1xCw"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Far Out Feeling",
-      "url": "https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ"
     }
   ],
   "unique_name": "Psych & Groove",

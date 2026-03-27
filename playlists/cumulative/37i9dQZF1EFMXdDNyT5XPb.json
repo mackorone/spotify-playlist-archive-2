@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR"
+      },
+      "artists": [
+        {
+          "name": "Dave Lofts",
+          "url": "https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL"
+    },
+    {
+      "album": {
         "name": "Goldrush",
         "url": "https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm"
       },

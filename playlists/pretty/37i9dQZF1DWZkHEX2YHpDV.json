@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 443479,
+  "num_followers": 443471,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Landmines",
-        "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 175767,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "saturate",
+        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "saturate",
+      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "saturate",
-        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "saturate",
-      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 194273,
       "name": "Straight Up (Needy)",
       "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 152101,
-      "name": "I See How It Is",
-      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Beg For More",
-        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
       },
       "artists": [
         {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Beg For More",
-      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1487,18 +1471,34 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
+        "name": "Beg For More",
+        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
         }
       ],
-      "duration_ms": 201085,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
+      "duration_ms": 174000,
+      "name": "Beg For More",
+      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "The Hart",
-        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
       },
       "artists": [
         {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 220096,
-      "name": "Through The Landslide",
-      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
+      "duration_ms": 201085,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
     },
     {
       "added_at": "2026-01-09 05:00:25",

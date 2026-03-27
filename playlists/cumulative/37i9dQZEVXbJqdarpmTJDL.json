@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 210000,
       "name": "Aeroplana",
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
@@ -12102,7 +12102,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 210526,
       "name": "De Tha Figoume",
       "url": "https://open.spotify.com/track/41MrXHzqxIurlZ4HVthHpN"
@@ -15554,7 +15554,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187500,
       "name": "EMMONI IDEA",
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
@@ -18804,7 +18804,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 166666,
       "name": "Friday 13",
       "url": "https://open.spotify.com/track/0HFrdPNAuPtkVGTizWcJyT"
@@ -27570,7 +27570,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -34670,7 +34670,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -34822,7 +34822,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 216272,
       "name": "Mpelas",
       "url": "https://open.spotify.com/track/542hRQCGGdPvkXkkLdoVoF"
@@ -35596,6 +35596,24 @@
       "duration_ms": 196271,
       "name": "NASA",
       "url": "https://open.spotify.com/track/1dBqiQ1TU3MpgnR84gi1BQ"
+    },
+    {
+      "album": {
+        "name": "Natane To 21 (Remastered)",
+        "url": "https://open.spotify.com/album/5mLmTwVJd5U80xSkdqh0bW"
+      },
+      "artists": [
+        {
+          "name": "George Dalaras",
+          "url": "https://open.spotify.com/artist/0eLU3EgFDZOFgd2Dwalfwo"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190653,
+      "name": "Natane To 21",
+      "url": "https://open.spotify.com/track/52xt9mV9RzufSFDczCDfht"
     },
     {
       "album": {
@@ -39432,7 +39450,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 208000,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
@@ -54774,7 +54792,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"

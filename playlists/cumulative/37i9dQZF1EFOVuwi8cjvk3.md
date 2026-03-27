@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-291 songs - 17 hr 15 min
+292 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Friends With Benefits](https://open.spotify.com/track/1zqCcxtHDODySsHnM7lxox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:29 | 2023-12-13 |  |
 | [Fuckin' up the Count](https://open.spotify.com/track/19qoXk7V1Fs3BV5MkCOaA9) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 3:21 | 2023-12-13 | 2025-07-10 |
 | [Fuckin' up the Count](https://open.spotify.com/track/5H0907INfwHs8MnUaDdAv7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/46wJVfjbcZBGZ6Zabex3y9) | 3:21 | 2025-07-09 |  |
-| [Full Time \(feat\. Mitchy Slick\)](https://open.spotify.com/track/57967M1zk0ol9DgNXXZqXx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mitchy Slick](https://open.spotify.com/artist/3uhJHJFmFtFloOhRCDocit) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:11 | 2025-01-20 |  |
+| [Full Time](https://open.spotify.com/track/0B3UG9yeDSTApGF5ZViVWW) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mitchy Slick](https://open.spotify.com/artist/3uhJHJFmFtFloOhRCDocit) | [Slauson Boy 2](https://open.spotify.com/album/1OpyDFeqgKKsyjpmG7grbS) | 3:11 | 2026-03-26 |  |
+| [Full Time \(feat\. Mitchy Slick\)](https://open.spotify.com/track/57967M1zk0ol9DgNXXZqXx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mitchy Slick](https://open.spotify.com/artist/3uhJHJFmFtFloOhRCDocit) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:11 | 2025-01-20 | 2026-03-27 |
 | [Funeral for a Prince](https://open.spotify.com/track/3dl6lR0cug0BPOLeWUvYj8) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 2:53 | 2023-12-13 |  |
 | [Get Krazy](https://open.spotify.com/track/2O3YgsmoPyKvbHCNmRFEOA) | [Bigg Dogg](https://open.spotify.com/artist/2Fsd7VeBkpjuYnPk87X57g) | [The Vaccine](https://open.spotify.com/album/2Uky9NSAp1e9ILVPIBqoLE) | 4:11 | 2025-01-09 | 2025-04-12 |
 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 | 2023-12-13 |  |

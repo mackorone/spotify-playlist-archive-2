@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138218,
+  "num_followers": 138215,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 226603,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 173924,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
         "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 229173,
       "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
       "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
-      },
-      "artists": [
-        {
-          "name": "Colder Shoulders",
-          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
-        }
-      ],
-      "duration_ms": 199595,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "LOVE ALL COVER ALL",
         "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
       },
@@ -1455,22 +1439,34 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Colder Shoulders",
+          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
+      "duration_ms": 199595,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
+        "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
+      },
+      "artists": [
+        {
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "\u5352\u696d\u5199\u771f",
+      "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
-        "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
       },
       "artists": [
         {
-          "name": "Miki Imai",
-          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194400,
-      "name": "\u5352\u696d\u5199\u771f",
-      "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
+      "duration_ms": 206800,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
     },
     {
       "added_at": "2026-03-12 15:00:29",

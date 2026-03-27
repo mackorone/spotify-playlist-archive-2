@@ -8338,7 +8338,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 255652,
       "name": "Rangu Rangu",
       "url": "https://open.spotify.com/track/56tIyvzxbnBCMuNZwspP6G"
@@ -10412,6 +10412,28 @@
       "duration_ms": 151576,
       "name": "Wrong Number",
       "url": "https://open.spotify.com/track/2TeuvUYuC77Q55IGOQV6yj"
+    },
+    {
+      "album": {
+        "name": "Yamuna Theera Vihari",
+        "url": "https://open.spotify.com/album/6vM6PtMDaEMOf5d1oT9zQJ"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Priyadarshan Balasubramanian",
+          "url": "https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Yamuna Theera Vihari",
+      "url": "https://open.spotify.com/track/0qkgjU4Z6mxv4tKzZ4Phon"
     },
     {
       "album": {

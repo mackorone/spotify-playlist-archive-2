@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: HANA",
+  "description": "time to strike a couple of poses. cover: Jaime Cheung",
   "name": "poses",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214045,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
+    },
+    {
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6"
       },
@@ -95,6 +113,24 @@
     },
     {
       "album": {
+        "name": "BURNING UP",
+        "url": "https://open.spotify.com/album/7fXV48Cb6oovOhREBeQgaV"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "BURNING UP",
+      "url": "https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q"
+    },
+    {
+      "album": {
         "name": "Champagne Flying",
         "url": "https://open.spotify.com/album/5aI0h5vWUrm8MWYexYrtdv"
       },
@@ -106,7 +142,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200000,
       "name": "Champagne Flying",
       "url": "https://open.spotify.com/track/2xL8UYp4kVr36tPvtOa7bc"
@@ -160,7 +196,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I"
@@ -185,6 +221,24 @@
     },
     {
       "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161949,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
+    },
+    {
+      "album": {
         "name": "everyday",
         "url": "https://open.spotify.com/album/6CPvnBRpfq9fmozOZByJRa"
       },
@@ -196,7 +250,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 194925,
       "name": "everyday",
       "url": "https://open.spotify.com/track/4AkyoTKbtqT15hUyhuyVTH"
@@ -236,7 +290,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -342,7 +396,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 222666,
       "name": "I Always Knew",
       "url": "https://open.spotify.com/track/3795oPflx7wwOBKJC462ao"
@@ -378,7 +432,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 197996,
       "name": "I could be your indie darling",
       "url": "https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R"
@@ -396,10 +450,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/73PIrL8rN2gr5tvVHmHXC7"
+      },
+      "artists": [
+        {
+          "name": "Krysta Joy",
+          "url": "https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202331,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/7Bnk4aT8KhSeE1bOrQngpx"
     },
     {
       "album": {
@@ -414,7 +486,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 175200,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/5ui8Gewy9y3sCBtuyWqj4t"
@@ -479,6 +551,24 @@
     },
     {
       "album": {
+        "name": "MISUNDERSTANDING",
+        "url": "https://open.spotify.com/album/0yura5TIyIlTbnc6l3mVKz"
+      },
+      "artists": [
+        {
+          "name": "nateli",
+          "url": "https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "MISUNDERSTANDING",
+      "url": "https://open.spotify.com/track/42MfocIhBKWz38bI5bY9GU"
+    },
+    {
+      "album": {
         "name": "PINK NOISE",
         "url": "https://open.spotify.com/album/1Spx1EjMY5TdJCz5s8gDIe"
       },
@@ -490,10 +580,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 165706,
       "name": "Monotarinai",
       "url": "https://open.spotify.com/track/3DyPhi7gjmOHrJ0sWy2EC6"
+    },
+    {
+      "album": {
+        "name": "Moon Or Stars",
+        "url": "https://open.spotify.com/album/2cgcCDBfquJ83iOqEsAWFl"
+      },
+      "artists": [
+        {
+          "name": "J\u016bji",
+          "url": "https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222127,
+      "name": "Moon Or Stars",
+      "url": "https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo"
     },
     {
       "album": {
@@ -508,7 +616,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 203296,
       "name": "My Body",
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
@@ -566,6 +674,42 @@
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
+    },
+    {
+      "album": {
+        "name": "Humanoid Heart",
+        "url": "https://open.spotify.com/album/0dFsMYOJCh20Fk6tvxUcDe"
+      },
+      "artists": [
+        {
+          "name": "MAIVE.",
+          "url": "https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "Ok Not To Be Ok",
+      "url": "https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn"
+    },
+    {
+      "album": {
+        "name": "PICKY",
+        "url": "https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "PICKY",
+      "url": "https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv"
     },
     {
       "album": {
@@ -645,6 +789,28 @@
     },
     {
       "album": {
+        "name": "SALT",
+        "url": "https://open.spotify.com/album/2X0TRakE1zyAoG9zVBLUFj"
+      },
+      "artists": [
+        {
+          "name": "MARICELLE",
+          "url": "https://open.spotify.com/artist/2AOp8ygleWgLQBFlS80McR"
+        },
+        {
+          "name": "leonnutx",
+          "url": "https://open.spotify.com/artist/6NH3eUPgorh9IMqALtDiRt"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171311,
+      "name": "SALT",
+      "url": "https://open.spotify.com/track/5ddjiQQAsw1quLBp22TIox"
+    },
+    {
+      "album": {
         "name": "Save me",
         "url": "https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616"
       },
@@ -700,7 +866,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 116603,
       "name": "SOUR GRAPE",
       "url": "https://open.spotify.com/track/2GgBQrVEjRoIvJO1SFaUA3"
@@ -736,7 +902,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187235,
       "name": "superstitious",
       "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
@@ -867,6 +1033,42 @@
     },
     {
       "album": {
+        "name": "Walk Out The Door",
+        "url": "https://open.spotify.com/album/4Qsom2GJoSMURhcVLNZBSJ"
+      },
+      "artists": [
+        {
+          "name": "Zoe Tan",
+          "url": "https://open.spotify.com/artist/2Wql6Tl6Ex1HglbEEjELvu"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Walk Out The Door",
+      "url": "https://open.spotify.com/track/7dUOHVWJTCs0EF6VlK4Hks"
+    },
+    {
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185994,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"
+    },
+    {
+      "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
       },
@@ -952,6 +1154,24 @@
       "duration_ms": 219112,
       "name": "\u2661Emotion",
       "url": "https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u"
     },
     {
       "album": {

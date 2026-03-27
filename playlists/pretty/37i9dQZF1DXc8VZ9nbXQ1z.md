@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,934 likes - 29 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,034 likes - 29 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 28 | [Lost In Sukupira](https://open.spotify.com/track/3z0t7a94kxRNQYwLyVpRsk) | [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb) | [Lost In Sukupira](https://open.spotify.com/album/4Fx98Oy08FxWMxDAMhecb0) | 3:52 |
 | 29 | [Chased](https://open.spotify.com/track/4ezqlslvOeNNXIxUDaGEo3) | [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX), [Kgzoo](https://open.spotify.com/artist/6CyhiZTvGEhA4E3C4GwQ3B) | [Chased](https://open.spotify.com/album/54yXUXlvSaqAqQdfS5w0Wa) | 6:38 |
 
-Snapshot ID: `AAAAAM4DzfLnpHetCjoEebFHJNLUf2EI`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

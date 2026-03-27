@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 369871,
+  "num_followers": 370014,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAB6C2XsgLJ1n66FUh1WaQf9",
+  "snapshot_id": "acMlgAAAAADRIgziTzV1EL9DYjr9Nn0L",
   "tracks": [
     {
       "added_at": null,
@@ -51,46 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mayor de los Ranas (En Vivo)",
-        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 174037,
-      "name": "El Mayor de los Ranas (En Vivo)",
-      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 154688,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -127,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
       },
@@ -159,6 +99,22 @@
       "duration_ms": 234734,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186758,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
     },
     {
       "added_at": null,
@@ -179,22 +135,6 @@
       "duration_ms": 134624,
       "name": "Modo Maldito",
       "url": "https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186758,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
     },
     {
       "added_at": null,
@@ -239,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mayor de los Ranas (En Vivo)",
+        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "duration_ms": 174037,
+      "name": "El Mayor de los Ranas (En Vivo)",
+      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Guerita",
         "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
       },
@@ -255,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mafiosa",
-        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
       },
       "artists": [
         {
@@ -268,25 +228,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 170237,
-      "name": "Mafiosa",
-      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
+      "duration_ms": 154688,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
     },
     {
       "added_at": null,
@@ -307,6 +251,22 @@
       "duration_ms": 144932,
       "name": "Pobre No",
       "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": null,
@@ -339,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Darme Explicacion",
-        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Sin Darme Explicacion",
-      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MU\u00d1EQUITA",
         "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
       },
@@ -379,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
       },
       "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
     },
     {
       "added_at": null,
@@ -655,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 186142,
-      "name": "Clausurado",
-      "url": "https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Atentos",
         "url": "https://open.spotify.com/album/0zLVv9rORmN7dGEqEql0rK"
       },
@@ -687,6 +611,26 @@
       "duration_ms": 306596,
       "name": "Sigan Atentos",
       "url": "https://open.spotify.com/track/6GrGeO8GtlBe3Nulkv6LMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
     },
     {
       "added_at": null,
@@ -723,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        }
-      ],
-      "duration_ms": 206629,
-      "name": "Emprendedor",
-      "url": "https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Catafixia",
         "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
       },
@@ -775,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -791,26 +731,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Pacas (En Vivo)",
-        "url": "https://open.spotify.com/album/7suo9KoSy5DMOSpAtgVxYn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 161634,
-      "name": "Las Pacas (En Vivo)",
-      "url": "https://open.spotify.com/track/3X1fjWNkSyfMOr4puy5WLD"
     },
     {
       "added_at": null,
@@ -847,22 +767,6 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "7x7",
-      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
     },
     {
       "added_at": null,
@@ -927,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+        "name": "Mafiosa",
+        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
       "artists": [
         {
@@ -936,13 +840,109 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 189754,
-      "name": "El N\u00famero",
-      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
+      "duration_ms": 170237,
+      "name": "Mafiosa",
+      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 163057,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subiendo De Nivel",
+        "url": "https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 110828,
+      "name": "Tu No Eres Lo Que Quer\u00eda",
+      "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/1qbxWcbWtxjohwFQkRQcJA"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "FD",
+      "url": "https://open.spotify.com/track/0CEB9ysT7EzBJypI2jhgSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Destino Nos Separa",
+        "url": "https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 135317,
+      "name": "El Destino Nos Separa",
+      "url": "https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

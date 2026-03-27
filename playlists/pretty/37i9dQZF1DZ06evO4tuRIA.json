@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 102505,
+  "num_followers": 102535,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAABy/60UGG/wO5s386Rp3AKY",
+  "snapshot_id": "acMlgAAAAAAjKm3Z4S2hGfVeobNUWL9X",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 131754,
-      "name": "LOKO",
-      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado 7 En Vivo Desde OK Corral",
         "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 181800,
       "name": "Vida Peligrosa El Solecito (En Vivo)",
       "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 131754,
+      "name": "LOKO",
+      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo A Su Tiempo",
-        "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 217770,
-      "name": "Todo A Su Tiempo",
-      "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo A Su Tiempo",
+        "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 217770,
+      "name": "Todo A Su Tiempo",
+      "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Modo",
-        "url": "https://open.spotify.com/album/7LlceSqFxeLBrJgIMkDo0n"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 154375,
-      "name": "A Mi Modo",
-      "url": "https://open.spotify.com/track/3wgDR3jj9elv01jGkBiVzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 194929,
       "name": "Chevrolet 4X4",
       "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mi Modo",
+        "url": "https://open.spotify.com/album/7LlceSqFxeLBrJgIMkDo0n"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 154375,
+      "name": "A Mi Modo",
+      "url": "https://open.spotify.com/track/3wgDR3jj9elv01jGkBiVzz"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ABUNDANCIA",
-        "url": "https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 167977,
-      "name": "ABUNDANCIA",
-      "url": "https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 172800,
       "name": "Bravo 57",
       "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ABUNDANCIA",
+        "url": "https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 167977,
+      "name": "ABUNDANCIA",
+      "url": "https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El 7 De La Suerte",
+        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "El Chili Willy",
+      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 191652,
       "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El 7 De La Suerte",
-        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "El Chili Willy",
-      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
     },
     {
       "added_at": null,

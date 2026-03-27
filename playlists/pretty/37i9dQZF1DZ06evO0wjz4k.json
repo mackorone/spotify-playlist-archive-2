@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34717,
+  "num_followers": 34725,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADjKFU95SePduH+UNucMY4o",
+  "snapshot_id": "acMlgAAAAABOIsD+BzqjLV8ZrpxloZme",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
-        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 287400,
-      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
-      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
+        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 220240,
-      "name": "The One Before The One",
-      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
+      "duration_ms": 287400,
+      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
+      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
     },
     {
       "added_at": null,

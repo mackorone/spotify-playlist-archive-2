@@ -2365,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "CHERUBIM & SERAPHIM",
+        "url": "https://open.spotify.com/album/40nb190vayLnW6la0nkfHx"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412451,
+      "name": "CHERUBIM & SERAPHIM",
+      "url": "https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a"
+    },
+    {
+      "album": {
         "name": "CHILD OF GRACE (Remix)",
         "url": "https://open.spotify.com/album/5kOWLzTlq5RzGpYpxWqYhK"
       },
@@ -3248,7 +3266,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 173473,
       "name": "E No Dey Finish",
       "url": "https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq"
@@ -11864,6 +11882,28 @@
       "duration_ms": 259588,
       "name": "SEE ME THROUGH (RECOVERY)",
       "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
+    },
+    {
+      "album": {
+        "name": "See My God",
+        "url": "https://open.spotify.com/album/32vQTAl7BAswQnYSQpNkwl"
+      },
+      "artists": [
+        {
+          "name": "BELIVAS",
+          "url": "https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB"
+        },
+        {
+          "name": "SEYHGA",
+          "url": "https://open.spotify.com/artist/6nDYfLpJkJKMVjn9M12Zws"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143149,
+      "name": "See My God",
+      "url": "https://open.spotify.com/track/7gIR3vcK786ZAGSZ3TqaSm"
     },
     {
       "album": {

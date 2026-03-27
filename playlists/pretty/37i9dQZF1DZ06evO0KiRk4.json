@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 582107,
+  "num_followers": 582174,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAwKzT2zrs6d6YUuwrAdc2V",
+  "snapshot_id": "acMlgAAAAABJOkW39aMQw7YSYP+aMl2h",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 213102,
       "name": "Choreomania",
       "url": "https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274853,
-      "name": "No Light, No Light",
-      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 257961,
       "name": "Cassandra",
       "url": "https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274853,
+      "name": "No Light, No Light",
+      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials",
-        "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 248459,
-      "name": "Breath Of Life",
-      "url": "https://open.spotify.com/track/4NMD8KWxZwCrff9uHhVqSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ceremonials",
+        "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 248459,
+      "name": "Breath Of Life",
+      "url": "https://open.spotify.com/track/4NMD8KWxZwCrff9uHhVqSn"
     },
     {
       "added_at": null,

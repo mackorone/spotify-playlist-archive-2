@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3374776,
+  "num_followers": 3374677,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Real Love - From the John Lewis Christmas Advert 2014",
-      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 150781,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Real Love - From the John Lewis Christmas Advert 2014",
+      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
     },
     {
       "added_at": "2022-12-08 16:33:34",

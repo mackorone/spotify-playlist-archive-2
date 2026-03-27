@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,902 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 8 | [Algo de Ti](https://open.spotify.com/track/31CgnJWZGX7t7vuY8kW5V1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:28 |
 | 9 | [La Empiezo a Odiar](https://open.spotify.com/track/121Z8Kad6jL7NHNNT9bs9W) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:33 |
 | 10 | [Televidente](https://open.spotify.com/track/5y9vBsGD9XgtHRJkqQCUYr) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 4:04 |
-| 11 | [No Me Cabe Duda](https://open.spotify.com/track/2U2D67qRXbfG3TVQqtREGV) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 3:34 |
-| 12 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 |
+| 11 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 |
+| 12 | [No Me Cabe Duda](https://open.spotify.com/track/2U2D67qRXbfG3TVQqtREGV) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 3:34 |
 | 13 | [No Quiero Verte Más](https://open.spotify.com/track/42akkxAg640f3JVxiXh86P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:20 |
 | 14 | [A la Droga Dile No](https://open.spotify.com/track/7n1tTMyv5Aqp3bwYOg0PEN) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:31 |
 | 15 | [Y Lloro](https://open.spotify.com/track/2sK7V3dEOks0kZQ0u6qY8T) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [Decías](https://open.spotify.com/track/4nWnodUXqw2QlXYpijAUGI) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 2:02 |
 | 50 | [Niños](https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:32 |
 
-Snapshot ID: `acHUAAAAAACBxCx30VdIE8l2OCrNXU/z`
+Snapshot ID: `acMlgAAAAAANHSf74FG3rb5hgu/7/YxG`

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 294,
+  "num_followers": 295,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI1V/Ic7ykIiiyScaPtPbBW0or3nkH",
+  "snapshot_id": "AAAI2QaWvJZP7R3CYwuiaKc1UJdtbWJk",
   "tracks": [
     {
       "added_at": "2026-03-18 17:33:09",
@@ -35767,6 +35767,42 @@
       "duration_ms": 309190,
       "name": "Little Breaths of Earth",
       "url": "https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ"
+    },
+    {
+      "added_at": "2026-03-26 13:55:55",
+      "album": {
+        "name": "No Surprise",
+        "url": "https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F"
+      },
+      "artists": [
+        {
+          "name": "Oscat!",
+          "url": "https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA"
+        },
+        {
+          "name": "Rebekah",
+          "url": "https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67"
+        }
+      ],
+      "duration_ms": 255428,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj"
+    },
+    {
+      "added_at": "2026-03-27 00:15:03",
+      "album": {
+        "name": "Quiet Saloon",
+        "url": "https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 186279,
+      "name": "Quiet Saloon",
+      "url": "https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

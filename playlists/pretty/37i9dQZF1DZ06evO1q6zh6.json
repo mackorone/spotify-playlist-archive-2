@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 183196,
+  "num_followers": 183207,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADXgCd/plwQbYmTgLN8ffun",
+  "snapshot_id": "acMlgAAAAAC3BhSu97/D6VcIE/dslJz3",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living After Midnight",
-        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "The Hellion / Electric Eye",
-      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin After Sin",
         "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 203533,
       "name": "Diamonds and Rust",
       "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living After Midnight",
+        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "The Hellion / Electric Eye",
+      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance",
-        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 430826,
-      "name": "Prisoner of Your Eyes",
-      "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostradamus",
         "url": "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 268333,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 430826,
+      "name": "Prisoner of Your Eyes",
+      "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
     }
   ],
   "unique_name": "This Is Judas Priest",

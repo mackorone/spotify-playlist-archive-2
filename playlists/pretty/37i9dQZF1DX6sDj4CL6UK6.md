@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Kiara Chettri
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,715 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,723 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 40 | [Cortado](https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL) | [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [Cortado](https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr) | 2:52 |
 | 41 | [Believer's Curse](https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Believer's Curse](https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT) | 2:36 |
 | 42 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
-| 43 | [Keep You](https://open.spotify.com/track/1EY3dZn5z9ZpVCIIh855J2) | [Shrestha D.](https://open.spotify.com/artist/2lmdJPTrldJerZZEMPGYBT), [Hiten Mukherjee](https://open.spotify.com/artist/1NcTcdQoKp0zcJxr7rZVa4), [gaurab gaboo chatterjee](https://open.spotify.com/artist/10e0DmwViaefZxDfwTg7YT), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Sudipto Paul](https://open.spotify.com/artist/0bCsOJ63rO4aP5EWUCV7JG) | [Keep You](https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1) | 5:23 |
-| 44 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
+| 43 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
+| 44 | [Keep You](https://open.spotify.com/track/1EY3dZn5z9ZpVCIIh855J2) | [Shrestha D.](https://open.spotify.com/artist/2lmdJPTrldJerZZEMPGYBT), [Hiten Mukherjee](https://open.spotify.com/artist/1NcTcdQoKp0zcJxr7rZVa4), [gaurab gaboo chatterjee](https://open.spotify.com/artist/10e0DmwViaefZxDfwTg7YT), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Sudipto Paul](https://open.spotify.com/artist/0bCsOJ63rO4aP5EWUCV7JG) | [Keep You](https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1) | 5:23 |
 | 45 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |
 | 46 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
 | 47 | [Wallow](https://open.spotify.com/track/43tDC5J5wzTK4xgQSieZga) | [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Sanoli Chowdhury](https://open.spotify.com/artist/36ZC6sfDiqZdz1aJefbdKl) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:03 |

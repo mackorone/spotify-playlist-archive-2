@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 94983,
+  "num_followers": 95036,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAA7EU3B/0E+LImcJNJCvbFG",
+  "snapshot_id": "acMlgAAAAABkJilCz9+ekOkxZTVTADkh",
   "tracks": [
     {
       "added_at": null,
@@ -919,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avance Sin Fin",
-        "url": "https://open.spotify.com/album/4uG3qJNwJo5yk153qhWtji"
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/00lwONC16IRZSXe2CBNDFr"
       },
       "artists": [
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 166317,
-      "name": "3 En Punto",
-      "url": "https://open.spotify.com/track/79bIiTWFuPBuvaGu24PVQA"
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/5o6QIe2OCatBibTsNCZNoq"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

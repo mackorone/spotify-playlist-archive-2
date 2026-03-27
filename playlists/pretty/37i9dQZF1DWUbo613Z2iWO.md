@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Arin Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,826 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,832 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 42 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 43 | [FLAMED UP](https://open.spotify.com/track/32fiJGuNuLRkBv7s3jyr2o) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [FLAMED UP](https://open.spotify.com/album/6CcPRqZ6Od7auN3pIvyzmX) | 2:31 |
 | 44 | [Relieve You](https://open.spotify.com/track/1EU3lVLX8tA8csI9ScKVaK) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK), [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Relieve You](https://open.spotify.com/album/5z8L50EhRMjgkWbXHlcbDb) | 2:19 |
-| 45 | [W.T.A.](https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [W.T.A.](https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M) | 3:22 |
+| 45 | [w.t.a.](https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [w.t.a.](https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M) | 3:22 |
 | 46 | [Squeeze](https://open.spotify.com/track/0aHUhMAzRF8nRTqInJ3a5U) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Squeeze](https://open.spotify.com/album/0IsElILJfiHY2Jipq4JEst) | 2:59 |
 | 47 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |
 | 48 | [Good](https://open.spotify.com/track/7wfRcPx22jam0dNz8Sw5Ld) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Heaven Ain't Sold](https://open.spotify.com/album/6zCMXqMsxHjn534g67bxVK) | 4:03 |

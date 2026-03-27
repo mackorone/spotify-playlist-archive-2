@@ -1,12 +1,12 @@
 {
   "description": "New music from BigXthaPlug, Yeat, Latto and Mike Will Made-It.",
-  "num_followers": 15767326,
+  "num_followers": 15767452,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEKRjOXdEvahd0i6/kSsdpBagIo3",
+  "snapshot_id": "AAAAALF3oh2q4dxhqVCMTlMcv+uVmZ3t",
   "tracks": [
     {
       "added_at": "2026-03-23 18:52:19",
@@ -167,6 +167,22 @@
       "duration_ms": 197551,
       "name": "FLAMMABLE",
       "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
+    },
+    {
+      "added_at": "2026-03-26 04:00:04",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
       "added_at": "2026-03-23 18:52:19",

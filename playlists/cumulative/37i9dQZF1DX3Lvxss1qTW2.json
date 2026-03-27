@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ"
+      },
+      "artists": [
+        {
+          "name": "Boi Chase",
+          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG"
+    },
+    {
+      "album": {
         "name": "All My Enemies Are Suffering",
         "url": "https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 218666,
       "name": "Are You On The Way",
       "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
@@ -1042,6 +1060,28 @@
       "duration_ms": 124286,
       "name": "Arike",
       "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/6wZV3F5q3vtN1gBA17UR0l"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6p1qrgCy5epVwjlbUXdps4"
     },
     {
       "album": {
@@ -2004,7 +2044,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 130000,
       "name": "Bongolo Cigar",
       "url": "https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK"
@@ -5699,6 +5739,32 @@
     },
     {
       "album": {
+        "name": "WELCOME 2 THE VILLE",
+        "url": "https://open.spotify.com/album/67FvSNo4BQU0I46AuwIbvU"
+      },
+      "artists": [
+        {
+          "name": "Apex Village",
+          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
+        },
+        {
+          "name": "Uloko",
+          "url": "https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP"
+        },
+        {
+          "name": "Marv OTM",
+          "url": "https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "HOW FAR?",
+      "url": "https://open.spotify.com/track/0qRiTOwGSqofLgLKOfclBZ"
+    },
+    {
+      "album": {
         "name": "How I Want It",
         "url": "https://open.spotify.com/album/27ntNIe5RuATV5gXDrmYYV"
       },
@@ -5746,7 +5812,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 207123,
       "name": "I Alone",
       "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
@@ -7698,6 +7764,32 @@
       "duration_ms": 167213,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
+    },
+    {
+      "album": {
+        "name": "make it clap",
+        "url": "https://open.spotify.com/album/4FRQ2S0UXkSxbtOw3uR07U"
+      },
+      "artists": [
+        {
+          "name": "VERBB",
+          "url": "https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b"
+        },
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112954,
+      "name": "make it clap",
+      "url": "https://open.spotify.com/track/49CDc9bUgEg8wyeH9RVPAL"
     },
     {
       "album": {
@@ -10854,7 +10946,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 137142,
       "name": "september rush",
       "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
@@ -11629,6 +11721,24 @@
     },
     {
       "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150873,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
+    },
+    {
+      "album": {
         "name": "Street is My Father",
         "url": "https://open.spotify.com/album/7Bs4UzwSctQ7p9iVvYg4C8"
       },
@@ -11640,7 +11750,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 163307,
       "name": "Street is My Father",
       "url": "https://open.spotify.com/track/64aV2HQXKz5eoZW2kW28bc"

@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Lover Without A Heart",
+        "url": "https://open.spotify.com/album/2gOY5y3FBUgRiJlf9YdiDV"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lover Without A Heart",
+      "url": "https://open.spotify.com/track/6vJpHOvUI6txkR3nSNXICY"
+    },
+    {
+      "album": {
         "name": "Make It Bun Dem After Hours EP",
         "url": "https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP"
       },

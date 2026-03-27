@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "ABCD",
+        "url": "https://open.spotify.com/album/4FRQvt4uqmTIswP3NerIj0"
+      },
+      "artists": [
+        {
+          "name": "Mike Mungu",
+          "url": "https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4"
+        },
+        {
+          "name": "Muema Blessed",
+          "url": "https://open.spotify.com/artist/67kgMC7Q45xv6JsRliQBWQ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/7LZi2twUKdO939aMSu4xHb"
+    },
+    {
+      "album": {
         "name": "Abeeyo",
         "url": "https://open.spotify.com/album/3jApHQPhttpEFWxyx9OnaH"
       },
@@ -238,6 +260,24 @@
       "duration_ms": 132929,
       "name": "After 10:30",
       "url": "https://open.spotify.com/track/14VxAHYAoIxL6OZAhvUnL5"
+    },
+    {
+      "album": {
+        "name": "Poster Boy",
+        "url": "https://open.spotify.com/album/112Gt6F0A8roRYhcRzHa2k"
+      },
+      "artists": [
+        {
+          "name": "Ill Gee",
+          "url": "https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185913,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/5utBkhTZULODs9aVAZrDIT"
     },
     {
       "album": {
@@ -3498,7 +3538,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 138666,
       "name": "Give Me (Story Book Riddim)",
       "url": "https://open.spotify.com/track/1eNE8To9RboIMrdOObfPJd"
@@ -3764,7 +3804,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 185000,
       "name": "Hope & Love",
       "url": "https://open.spotify.com/track/0UVcJBW1VTyZdatMIIZDSm"
@@ -4796,6 +4836,24 @@
       "duration_ms": 216237,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/37HNXhFT6fkI3Fu1iUHpkZ"
+    },
+    {
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/24UmvZYmg3SjlDXroy760t"
+      },
+      "artists": [
+        {
+          "name": "Aaronx",
+          "url": "https://open.spotify.com/artist/0xugx9prgn4pE8t7iZNk2W"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/0P3gJ2csdkEecglQ0kW86g"
     },
     {
       "album": {
@@ -7888,7 +7946,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 154078,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/6aO0r4j8XzHVQ2wEAGCO8t"
@@ -9709,6 +9767,28 @@
     },
     {
       "album": {
+        "name": "Tonalaba",
+        "url": "https://open.spotify.com/album/5ONL2pLRZJpbFgHCKActmW"
+      },
+      "artists": [
+        {
+          "name": "Tracy Melon",
+          "url": "https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp"
+        },
+        {
+          "name": "Mojo",
+          "url": "https://open.spotify.com/artist/4eD6fI7A4KRt2T8HZaXJ7n"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Tonalaba",
+      "url": "https://open.spotify.com/track/0zyvr9G5PrfuvhqlCKMh4O"
+    },
+    {
+      "album": {
         "name": "Tonsaana",
         "url": "https://open.spotify.com/album/1djPO5uShTNZQOI7JvAIFN"
       },
@@ -10372,7 +10452,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 176326,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/7Gk8W2kM7t4XTadF6L8Qts"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Mitty",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Blaame",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/1WaPwxnP5bXaQOhLPZRHan"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135493,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/2bgvaT8tWrRFKUdq5YcQ1q"
+    },
+    {
+      "album": {
         "name": "crever toute la nuit",
         "url": "https://open.spotify.com/album/49PTTEem5m1njsHXx9QijX"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 205200,
       "name": "Distancer",
       "url": "https://open.spotify.com/track/6jRXFZfoodiKfSTbfWXxhG"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 193794,
       "name": "En Sentido Contrario",
       "url": "https://open.spotify.com/track/4khRClTR8t347HO18rAOmf"
@@ -2430,6 +2448,24 @@
       "duration_ms": 186632,
       "name": "Focused",
       "url": "https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq"
+    },
+    {
+      "album": {
+        "name": "D\u00e9collage",
+        "url": "https://open.spotify.com/album/7gmQgiup3PRcGbw97xelQH"
+      },
+      "artists": [
+        {
+          "name": "Requin Chagrin",
+          "url": "https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/26mrGVfb3bbXUP1ktG4oNZ"
     },
     {
       "album": {
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 154192,
       "name": "Les limbes",
       "url": "https://open.spotify.com/track/3qg2qAGEgFVPjov9Rx9fb8"
@@ -8176,6 +8212,24 @@
       "duration_ms": 178602,
       "name": "Xanax mon amour",
       "url": "https://open.spotify.com/track/6FvzF6lcbZw1W3L0Tn4dD3"
+    },
+    {
+      "album": {
+        "name": "Y'a Quoi",
+        "url": "https://open.spotify.com/album/07R3fl5CTughBLkCiWsz3t"
+      },
+      "artists": [
+        {
+          "name": "Blaame",
+          "url": "https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140133,
+      "name": "Y'a Quoi",
+      "url": "https://open.spotify.com/track/1w6kUNvQFldF0bm4WSVVg2"
     },
     {
       "album": {

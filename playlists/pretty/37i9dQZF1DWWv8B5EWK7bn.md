@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,789 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,809 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 96 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 |
 | 97 | [Highlight](https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Highlight](https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU) | 3:17 |
 | 98 | [watch it burn](https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Yuga Cohler](https://open.spotify.com/artist/1RXmpUqrMHVgk9nTiShX0P), [Zacari](https://open.spotify.com/artist/3SiMMVtpcfKwyXIed0LC2c) | [isomonstrosity](https://open.spotify.com/album/4Zu4oPIIukPnJaVSlOMBzr) | 3:43 |
-| 99 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
+| 99 | [Estarán aparcando](https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Estarán aparcando](https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ) | 2:20 |
 | 100 | [Situation](https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Unfamiliar Minds](https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0) | 3:00 |
 
 Snapshot ID: `AAAAAL+VE5ve48KhceemIjn2nXnb7fz3`

@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-450 songs - 1 day 23 hr 48 min
+454 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq) | [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv) | 3:55 | 2024-04-19 | 2024-08-23 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [To The Deep](https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [To The Deep](https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33) | 5:49 | 2025-09-19 | 2025-11-21 |
+| [Track 1](https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj) | [Universal Catholic Church Choir](https://open.spotify.com/artist/5GZuDd422CdJBsCUNgiC6J) | [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/album/4G91WtwfW9HhhqwMYn7F4j) | 0:00 | 2026-03-27 |  |
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-05-30 |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-10-31 |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 |  |
@@ -395,6 +396,7 @@
 | [Uthando Lwakhe \(Medley 8\) \- Jehovah Wase Mandulo](https://open.spotify.com/track/3nZzeBYFUzraylvt8RERKq) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakhe \(Medley 8\) \[Jehovah Wase Mandulo\]](https://open.spotify.com/album/3gvnYd70HXpkj8MrvF4Q8k) | 5:11 | 2024-11-22 | 2025-02-28 |
 | [Uthando Lwakho Luyangengama](https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakho Luyangengama](https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg) | 4:28 | 2023-10-27 | 2025-02-14 |
 | [UThixo Babhem](https://open.spotify.com/track/6hohFbVUUZ8nLXwVFzQcyh) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U) | [UThixo Babhem](https://open.spotify.com/album/0ziZSA0rjmw4O0hIuNeT3G) | 4:10 | 2023-05-05 | 2023-06-09 |
+| [Uya Mangadza Yeso \- Live](https://open.spotify.com/track/2Sq6Dz0ARNawM0tQFKGh7X) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction S2](https://open.spotify.com/album/165Ml0Eqg19O3YgZr85vhU) | 6:40 | 2026-03-27 |  |
 | [Uyababazeka \- Live At The Emperors Palace / 2023](https://open.spotify.com/track/0MpjhG8rrfTfk2QNi3Q7wg) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 27: Hope \(Live At The Emperors Palace / 2023\)](https://open.spotify.com/album/6bfNOervCMHAuhPxEwcR8y) | 7:09 | 2024-03-29 | 2024-04-05 |
 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 | 2024-08-23 | 2025-03-21 |
 | [Uyalalela \(Live\)](https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Uyalalela \(Live\)](https://open.spotify.com/album/7hP10amvzadvsSXDc19vdG) | 10:30 | 2024-11-15 | 2025-03-07 |
@@ -448,6 +450,8 @@
 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 | 2020-05-21 | 2024-02-02 |
 | [YOU ARE EVERYTHING TO ME](https://open.spotify.com/track/0CjeHeCPyQbNVKLfcxlUJE) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [YOU ARE EVERYTHING TO ME](https://open.spotify.com/album/4OyGyalIuyJlCNJjJPl0nJ) | 7:45 | 2026-02-27 |  |
 | [You Are Good](https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7) | [Alexandrah](https://open.spotify.com/artist/0e3Clj8aoKy6OVMXB2OLKw) | [You Are Good](https://open.spotify.com/album/6JXr5LCZGSdxvucaw1Ckj8) | 11:37 | 2023-06-16 | 2023-09-15 |
+| [You Are Good](https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [You Are Good](https://open.spotify.com/album/0aBb8Xrz2ESrNGYoXmvruV) | 9:09 | 2026-03-27 |  |
+| [You Are The One \(Live at Heartfelt Arena, December 2025\) \(feat\. Yanga & Ntokozo Mbambo\)](https://open.spotify.com/track/7bLdVqTgfe3BPBHj7Q6Roi) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Yanga](https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [The Holy One \(Live at Heartfelt Arena, December 2025\)](https://open.spotify.com/album/3oFcMU3vxJdkZhOYn67iWG) | 9:32 | 2026-03-27 |  |
 | [You Deserve It](https://open.spotify.com/track/2bpHQbGBRy1qoRRCmYhD5J) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Deserve It](https://open.spotify.com/album/56kZ4Ecv5uLYBpwwCsImma) | 9:56 | 2022-04-14 | 2023-03-18 |
 | [You Fight for Me](https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6) | 4:39 | 2020-02-13 | 2023-06-16 |
 | [You Fight for Me](https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj) | 4:39 | 2020-02-13 | 2022-10-17 |

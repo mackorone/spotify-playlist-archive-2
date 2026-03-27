@@ -4,7 +4,7 @@
 
 > 🍾
 
-275 songs - 15 hr 39 min
+277 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,8 @@
 | [Can't Be Like This Forever](https://open.spotify.com/track/0I7b20a8AINmUdJiBkA0Bg) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Can't Be Like This Forever](https://open.spotify.com/album/2tEaVnYsGVvYpmZwQQ4n7s) | 3:41 | 2025-05-30 | 2025-07-04 |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-27 | 2025-02-15 |
 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 | 2024-06-21 |  |
+| [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 | 2026-03-26 |  |
+| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-26 |  |
 | [Celebrate](https://open.spotify.com/track/1zlclNkERGFrCxznXOgkD3) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:46 | 2023-01-04 | 2024-04-19 |
 | [Celebrate](https://open.spotify.com/track/29bFmmZdmYstqJeEOweJoI) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/6xNFuLOko8gjxi5kUAyGyM) | 3:46 | 2024-03-22 | 2024-09-21 |
 | [Changes](https://open.spotify.com/track/60yKLmHERaj5dSqHHc8HKh) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:28 | 2023-12-01 |  |
@@ -152,7 +154,7 @@
 | [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 | 2025-11-14 | 2026-02-28 |
 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 | 2023-01-04 | 2024-06-22 |
 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 | 2022-12-08 | 2023-06-10 |
-| [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-02 |  |
+| [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-02 | 2026-03-27 |
 | [Lost](https://open.spotify.com/track/2P008xRvFjXgzOK7OUUVyS) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Lost](https://open.spotify.com/album/6baHRhSnqtzgOo4uPhMAVO) | 3:28 | 2022-12-08 | 2023-06-10 |
 | [LOST IN SPACE](https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [LOST IN SPACE](https://open.spotify.com/album/3uU3DdiyrUrGjOEparOAfZ) | 2:55 | 2022-12-08 | 2023-07-29 |
 | [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 | 2026-03-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277441,
+  "num_followers": 277457,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "El Destino Nos Separa",
         "url": "https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 135317,
       "name": "El Destino Nos Separa",
       "url": "https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "AMIGOS PARA QU\u00c9",
-        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 192091,
-      "name": "AMIGOS PARA QU\u00c9",
-      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 214357,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "AMIGOS PARA QU\u00c9",
+        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 192091,
+      "name": "AMIGOS PARA QU\u00c9",
+      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Quienes Somos",
-        "url": "https://open.spotify.com/album/3A20APioynHFJaz8sItaP1"
-      },
-      "artists": [
-        {
-          "name": "INSPIRACION COLOMBIANA",
-          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "El Paso Del Gigante (Remix)",
         "url": "https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 194520,
       "name": "El Paso Del Gigante - Remix",
       "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Quienes Somos",
+        "url": "https://open.spotify.com/album/3A20APioynHFJaz8sItaP1"
+      },
+      "artists": [
+        {
+          "name": "INSPIRACION COLOMBIANA",
+          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Una como T\u00fa",
-        "url": "https://open.spotify.com/album/41iwKSqnLP40egtF3BRkBN"
-      },
-      "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Una como T\u00fa",
-      "url": "https://open.spotify.com/track/424DheuFy5UkJdTYvDKfC5"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Niveleando Cuh II",
         "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 223125,
       "name": "La Indicada",
       "url": "https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "Una como T\u00fa",
+        "url": "https://open.spotify.com/album/41iwKSqnLP40egtF3BRkBN"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Una como T\u00fa",
+      "url": "https://open.spotify.com/track/424DheuFy5UkJdTYvDKfC5"
     },
     {
       "added_at": "2026-01-24 00:41:13",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Cumbia y Amor",
+        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 173430,
+      "name": "Si A Todo",
+      "url": "https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "Cu\u00e9ntale",
         "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 161214,
       "name": "Cu\u00e9ntale",
       "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
-        "name": "Cumbia y Amor",
-        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 173430,
-      "name": "Si A Todo",
-      "url": "https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL"
     }
   ],
   "unique_name": "Super Cumbias",

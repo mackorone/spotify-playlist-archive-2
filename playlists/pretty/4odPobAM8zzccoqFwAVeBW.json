@@ -6,8 +6,76 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABLRk3S0dW2B0pnBNqmk2Xyw6jBGnBG",
+  "snapshot_id": "AABLT34Okv0/KGD1otIedthmWJ0jUijV",
   "tracks": [
+    {
+      "added_at": "2026-03-26 16:31:12",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/1eyMKdfYex3Gf8ihENKyx8"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        },
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/0XT9XNl0wtsEVKezuyhxKe"
+    },
+    {
+      "added_at": "2026-03-26 16:30:01",
+      "album": {
+        "name": "Stranger in a Strange Land",
+        "url": "https://open.spotify.com/album/368xffAEuU4P0ob15BINP0"
+      },
+      "artists": [
+        {
+          "name": "Rabit",
+          "url": "https://open.spotify.com/artist/2X3e2rDdxibDfJGv0CwS7A"
+        }
+      ],
+      "duration_ms": 168116,
+      "name": "narcotic",
+      "url": "https://open.spotify.com/track/15Wyi9ahHelxHmJNWiFFdJ"
+    },
+    {
+      "added_at": "2026-03-26 16:30:49",
+      "album": {
+        "name": "Fluxstrata",
+        "url": "https://open.spotify.com/album/27OMrpVIC6T0DUuo60QwVW"
+      },
+      "artists": [
+        {
+          "name": "Late Bush",
+          "url": "https://open.spotify.com/artist/5Jg86pGLGrRujmqeBCoGEQ"
+        }
+      ],
+      "duration_ms": 321062,
+      "name": "Fluxstrata",
+      "url": "https://open.spotify.com/track/1pm88qwmlhZzygeu79YTaC"
+    },
+    {
+      "added_at": "2026-03-26 16:31:44",
+      "album": {
+        "name": "Chekhov's Bordello",
+        "url": "https://open.spotify.com/album/1HAmWkbHstSJBDX6da4fyU"
+      },
+      "artists": [
+        {
+          "name": "David Cronenberg's Wife",
+          "url": "https://open.spotify.com/artist/7C3DYH8eNyONYDHJWZjQn1"
+        }
+      ],
+      "duration_ms": 228701,
+      "name": "Chekhov's Bordello",
+      "url": "https://open.spotify.com/track/60rXEJFpwHdXpVJIEUUCmY"
+    },
     {
       "added_at": "2026-03-20 14:40:03",
       "album": {
@@ -1021,22 +1089,6 @@
       "url": "https://open.spotify.com/track/5dkE1hDM7trNGMoBab1K62"
     },
     {
-      "added_at": "2026-02-06 08:15:44",
-      "album": {
-        "name": "Chappy Digital presents The Rarities",
-        "url": "https://open.spotify.com/album/079LQ7MlMNXe2qLuHCuZoa"
-      },
-      "artists": [
-        {
-          "name": "Chappy Digital",
-          "url": "https://open.spotify.com/artist/7dJ2BtYYhxCzML98rQqUch"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "diskoteka",
-      "url": "https://open.spotify.com/track/0QLPDhzRKEzxMixBap9MIm"
-    },
-    {
       "added_at": "2026-02-06 08:16:45",
       "album": {
         "name": "Sea Fever",
@@ -1067,38 +1119,6 @@
       "duration_ms": 172804,
       "name": "Ghoulish Socket Vapor ! Voltage Phantasm Uprising",
       "url": "https://open.spotify.com/track/4Mj6XzQWwRnC6gHHxIVEb2"
-    },
-    {
-      "added_at": "2026-02-06 08:18:04",
-      "album": {
-        "name": "Imbalance",
-        "url": "https://open.spotify.com/album/14JpZHSrAc1BPrueBgo4Qk"
-      },
-      "artists": [
-        {
-          "name": "Entracte",
-          "url": "https://open.spotify.com/artist/2xElPdjEbXNvMdPsKtKAmU"
-        }
-      ],
-      "duration_ms": 265732,
-      "name": "Shifting Views",
-      "url": "https://open.spotify.com/track/3n7Gq9BnMQFaQgfC7yTioo"
-    },
-    {
-      "added_at": "2026-02-06 08:19:33",
-      "album": {
-        "name": "Buddy",
-        "url": "https://open.spotify.com/album/0G9oiIxg6wL8LHkobc2DSI"
-      },
-      "artists": [
-        {
-          "name": "Trader",
-          "url": "https://open.spotify.com/artist/1i0Add0rJDkz2TwcYKxUx2"
-        }
-      ],
-      "duration_ms": 139077,
-      "name": "Buddy",
-      "url": "https://open.spotify.com/track/0FURSdkLhnblh9teyx9FZz"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

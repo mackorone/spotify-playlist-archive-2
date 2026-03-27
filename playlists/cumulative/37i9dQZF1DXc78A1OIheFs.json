@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 178062,
       "name": "Crazy Dream - Edit",
       "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 201000,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 164999,
       "name": "Didn't Change A Thing",
       "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "distance",
       "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
@@ -1694,10 +1694,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 160573,
       "name": "Escape From Planet Earth",
       "url": "https://open.spotify.com/track/6bMrpe8vPc5c5sPP0OPIVN"
+    },
+    {
+      "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "album": {
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 214624,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 152603,
       "name": "Holding Your Hand",
       "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 191133,
       "name": "Home",
       "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 197840,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
@@ -2994,6 +3012,24 @@
       "duration_ms": 162352,
       "name": "Let Me Be Yours",
       "url": "https://open.spotify.com/track/6z1mfrdITyt4CGfed0zI1T"
+    },
+    {
+      "album": {
+        "name": "Letting Love Die",
+        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
+      },
+      "artists": [
+        {
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Letting Love Die",
+      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
     },
     {
       "album": {
@@ -3370,7 +3406,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
@@ -3636,7 +3672,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
@@ -4120,7 +4156,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 176706,
       "name": "Older",
       "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
@@ -4146,6 +4182,24 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+    },
+    {
+      "album": {
+        "name": "One Stop",
+        "url": "https://open.spotify.com/album/62vLY3CSQPy0uBR7CPjJEY"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210012,
+      "name": "One Stop",
+      "url": "https://open.spotify.com/track/0GCUxw7uzhyMUvSph5FWpu"
     },
     {
       "album": {
@@ -4308,7 +4362,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 272933,
       "name": "Politix",
       "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
@@ -4464,7 +4518,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 169200,
       "name": "Princess",
       "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
@@ -4602,7 +4656,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 251575,
       "name": "Reggae Revival - Revival 2.0",
       "url": "https://open.spotify.com/track/0ASUvTVvEApBOGAV9O3mIg"
@@ -4812,7 +4866,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
@@ -5080,7 +5134,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
@@ -5308,7 +5362,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 184133,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
@@ -5370,6 +5424,28 @@
       "duration_ms": 259482,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/3kG1mS66M8EluvWLdtFql1"
+    },
+    {
+      "album": {
+        "name": "talk is cheap",
+        "url": "https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR"
+      },
+      "artists": [
+        {
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+        },
+        {
+          "name": "Bam Marley",
+          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "talk is cheap",
+      "url": "https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf"
     },
     {
       "album": {
@@ -5500,7 +5576,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196533,
       "name": "The Question",
       "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
@@ -5594,7 +5670,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 218033,
       "name": "Tief Im Wald",
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
@@ -5648,7 +5724,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196267,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
@@ -6026,7 +6102,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 233000,
       "name": "What Do We Ever Really Know?",
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
@@ -6120,7 +6196,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
@@ -6156,7 +6232,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"

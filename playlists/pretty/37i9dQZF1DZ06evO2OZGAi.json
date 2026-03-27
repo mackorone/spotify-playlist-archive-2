@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7054,
+  "num_followers": 7053,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAACQ8ztmXQgyKEQNwtoA76ER",
+  "snapshot_id": "acMlgAAAAAA0reN89de01+Ck9CMkTdk0",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Caras Maquilladas",
-      "url": "https://open.spotify.com/track/4QoVwlrgC6oWfiJFMS0y4I"
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 248784,
-      "name": "Los Finos",
-      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
+      "duration_ms": 212453,
+      "name": "Caras Maquilladas",
+      "url": "https://open.spotify.com/track/4QoVwlrgC6oWfiJFMS0y4I"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
+      "duration_ms": 215813,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Dosis",
-      "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 216500,
       "name": "Love N' Shit",
       "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 136081,
       "name": "No S\u00e9 por Qu\u00e9",
       "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rutas",
-        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 256092,
-      "name": "Rutas",
-      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 221425,
       "name": "Paz",
       "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rutas",
+        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Rutas",
+      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
     },
     {
       "added_at": null,

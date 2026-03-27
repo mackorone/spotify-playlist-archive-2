@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-367 songs - 20 hr 27 min
+368 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [La Morocha](https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [La Morocha](https://open.spotify.com/album/059QWHlbZgszSAf3rQ50Ag) | 2:17 | 2024-03-08 | 2024-03-16 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 | 2024-03-06 |
 | [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 | 2025-07-25 |  |
-| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 |  |
+| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 | 2026-03-27 |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-03-05 |  |
 | [La Que Quiero](https://open.spotify.com/track/1H69uZDuS45Am8HF5CFXnx) | [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [La Que Quiero](https://open.spotify.com/album/4asWvx1PseI23skzfVbDkr) | 2:43 | 2023-11-17 | 2023-11-25 |
 | [La Ranchada](https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [La Ranchada](https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH) | 7:33 | 2023-09-22 | 2023-09-30 |
@@ -323,6 +323,7 @@
 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 | 2024-03-05 |  |
 | [Te Fuiste De Gira](https://open.spotify.com/track/1hiIFZciaCbhgCvwxHGT7P) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Fuiste De Gira](https://open.spotify.com/album/3RkhjlXDIeMAnsSzpdIucJ) | 3:06 | 2024-06-28 | 2024-08-30 |
 | [Te Llevás Todo](https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS) | [Los Chicos de la Vía](https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl) | [Por la Vía Rápida](https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3) | 3:47 | 2024-03-05 |  |
+| [Te Robas Mis Suspiros](https://open.spotify.com/track/5BQnViSKPHwCeHnMqVFDZH) | [Sonido Basico](https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA) | [Evolución](https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB) | 3:11 | 2026-02-13 |  |
 | [Tengo en Venta el Corazon](https://open.spotify.com/track/6rZZPJBaR0FyK54DZRH316) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Tengo en venta el corazon](https://open.spotify.com/album/126FOQKMNASd7nY3vTVtXq) | 3:30 | 2023-10-13 | 2023-10-21 |
 | [Tengo La Primicia](https://open.spotify.com/track/58lg8t1vkiFF7TKa9bMt5e) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Tengo La Primicia](https://open.spotify.com/album/5IhVFvT73oIh05LkASAYhI) | 2:24 | 2024-06-07 | 2024-06-29 |
 | [TENGO SED](https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [TENGO SED](https://open.spotify.com/album/5aOflrqr7UamTVWOuTLykX) | 3:29 | 2024-02-09 | 2024-03-06 |

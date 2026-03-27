@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 418274,
+  "num_followers": 418322,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "OCANV (Cap. I)",
+        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Onde Existe Amor",
+      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "OCANV (Cap. I)",
-        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Onde Existe Amor",
-      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
     },
     {
       "added_at": "2026-01-09 03:01:26",

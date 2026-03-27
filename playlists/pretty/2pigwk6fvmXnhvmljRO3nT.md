@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,413 songs - 21 day 10 hr 43 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,415 songs - 21 day 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8421,5 +8421,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8411 | [KUMAMIKO DANCING](https://open.spotify.com/track/3mpNg304TzVaDJ6F8xUWor) | [雨宿まち（CV:日岡なつみ）](https://open.spotify.com/artist/19W9l69LDPZfrVD4AOqcOR), [ナツ\(CV:安元洋貴\)](https://open.spotify.com/artist/7vE81dGj0NbXErfHB9WbtZ), [熊出村のみなさん](https://open.spotify.com/artist/5MJN2p1GTtkv2ovbgrDXvB) | [ENDING THEME FROM TV SERIES ”KUMAMIKO” KUMAMIKO DANCING](https://open.spotify.com/album/5CktALOZ84E4MmdmesgWbL) | 4:21 |
 | 8412 | [Morning Glory](https://open.spotify.com/track/2HqZntbPX2Zme30DPFao0V) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「サクラクエスト」CD\-BOX『SAKURA QUEST ”BEST”』](https://open.spotify.com/album/3lSBXkScB6r1Pu7sYaYhoI) | 3:43 |
 | 8413 | [ぐーちょきパレード](https://open.spotify.com/track/3lhB3JMbl5jECvNCt3r4u5) | [とりぷる▲ふぃーりんぐ](https://open.spotify.com/artist/1uaTtaIyAn1qNSXcNpZiDY) | [ぐーちょきパレード\(TVアニメ「三者三葉」エンディング・テーマ\)](https://open.spotify.com/album/6ZealGNHaE3aj2oa2uiY6Z) | 4:23 |
+| 8414 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
+| 8415 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
 
-Snapshot ID: `AAALeh1/0JjDcDqupHEQhVVGRM4wVdbu`
+Snapshot ID: `AAALfOO2r9pzg0tfSFfIc8ed2LJO1F9D`

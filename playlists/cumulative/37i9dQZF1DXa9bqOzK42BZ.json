@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/3OQhPS52juljB5hPz0lm8O"
+      },
+      "artists": [
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570048,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/2q6d3jUYtq6jcJLRNCdTZL"
+    },
+    {
+      "album": {
         "name": "Nimekutana Na Yesu",
         "url": "https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3"
       },
@@ -1256,6 +1274,24 @@
       "duration_ms": 257036,
       "name": "Hakawii",
       "url": "https://open.spotify.com/track/0Y0wxp8SGWwAkfa3wRwgke"
+    },
+    {
+      "album": {
+        "name": "Hakuna Jambo",
+        "url": "https://open.spotify.com/album/4TIqbHg2aBn6BRpQjuqudg"
+      },
+      "artists": [
+        {
+          "name": "Karura Voices",
+          "url": "https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422263,
+      "name": "Hakuna Jambo",
+      "url": "https://open.spotify.com/track/6jKksLPcFzE2JvFQENhpn7"
     },
     {
       "album": {

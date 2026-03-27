@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,618 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,634 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 81 | [Love on a Lonely Street](https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Love on a Lonely Street](https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer) | 3:03 |
 | 82 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 |
 
-Snapshot ID: `AAAAAFLOE7NiAekemCgdZBcbz5k3J6aT`
+Snapshot ID: `AAAAACvnNNSHon5Rv1PTaYClkUgLdndD`

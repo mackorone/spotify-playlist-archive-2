@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,767 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,779 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 |
 | 2 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 |
-| 3 | [Undelivered](https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg) | [nib](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [Undelivered](https://open.spotify.com/album/6SRWV3F4mdqKNu5czq34XT) | 2:24 |
-| 4 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 |
-| 5 | [Traveler](https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Traveler](https://open.spotify.com/album/68cUet7KWWm4U1ageThcKz) | 4:12 |
-| 6 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 |
+| 3 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 |
+| 4 | [Traveler](https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Traveler](https://open.spotify.com/album/68cUet7KWWm4U1ageThcKz) | 4:12 |
+| 5 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 |
+| 6 | [Undelivered](https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg) | [nib](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [Undelivered](https://open.spotify.com/album/6SRWV3F4mdqKNu5czq34XT) | 2:24 |
 | 7 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 8 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 9 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 47 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 48 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
 | 49 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
-| 50 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
 
-Snapshot ID: `AAAAADMsNHUDALG16f28bjvp0/iZU8MN`
+Snapshot ID: `AAAAAAF89+baT1llTQ/kpdaEsqJ7Hj83`

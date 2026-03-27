@@ -4504,7 +4504,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 137727,
       "name": "Eye Open",
       "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
@@ -9340,7 +9340,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 121348,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq"
@@ -11471,6 +11471,24 @@
     },
     {
       "album": {
+        "name": "PopStar",
+        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "PopStar",
+      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
       },
@@ -12216,7 +12234,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 171026,
       "name": "Rukie",
       "url": "https://open.spotify.com/track/4JEMur4guMi4LNXR0Qff0q"
@@ -14789,6 +14807,24 @@
     },
     {
       "album": {
+        "name": "Jigi Jigi Vol. 2",
+        "url": "https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
+    },
+    {
+      "album": {
         "name": "Tracking You",
         "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
       },
@@ -14848,6 +14884,24 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/3N4ErCHXXwH7cYTi8YFOdT"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/4Sl4Hz5BYEzotrTCMMNf8z"
     },
     {
       "album": {

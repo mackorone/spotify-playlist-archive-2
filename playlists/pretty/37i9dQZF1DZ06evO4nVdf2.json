@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 65673,
+  "num_followers": 65679,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADI84EiXhXGPzIM3MMIWpEd",
+  "snapshot_id": "acMlgAAAAABxSzh5Ha9IrCwpG+uh2AVB",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N.I.T.",
+        "url": "https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE"
+      },
+      "artists": [
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 209220,
+      "name": "N.I.T.",
+      "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feliz Breakup",
         "url": "https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0"
       },
@@ -691,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N.I.T.",
-        "url": "https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE"
+        "name": "Se Ha Acabado El Show",
+        "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
       },
       "artists": [
         {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
         },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 209220,
-      "name": "N.I.T.",
-      "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
+      "duration_ms": 162984,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4AvK7PLWMgFTAvI22i21Bi"
     },
     {
       "added_at": null,
@@ -767,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ha Acabado El Show",
-        "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 162984,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4AvK7PLWMgFTAvI22i21Bi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Adolescente",
         "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 175113,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217168,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Se Va",
         "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": null,

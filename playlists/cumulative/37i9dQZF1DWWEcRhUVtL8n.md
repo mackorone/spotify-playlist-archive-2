@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcolm Todd
 
-2,345 songs - 5 day 4 hr 54 min
+2,346 songs - 5 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [Fuzzy](https://open.spotify.com/track/6js5G0CuansIF9BHyXk4uV) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Fuzzy](https://open.spotify.com/album/0lBPwTENDt5aDVWCfizuGU) | 2:37 | 2021-07-02 | 2022-04-08 |
 | [Gambling Addiction / eleven elevens](https://open.spotify.com/track/1ffUWQfh7ErLeD2Tzhcl5x) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:07 | 2022-03-04 | 2022-04-21 |
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2021-05-05 | 2022-04-14 |
+| [Games](https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Games](https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z) | 2:45 | 2026-03-20 |  |
 | [Garden](https://open.spotify.com/track/0oRKaRJ4wIj7Rh29xRCLyK) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Garden](https://open.spotify.com/album/0dG5hvAPBxw6YpcGXujBUo) | 2:46 | 2021-02-25 | 2021-02-26 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-02-08 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/5tVbKij7vNLI0psFkkzyew) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:13 | 2020-10-20 | 2021-06-03 |
@@ -1660,7 +1661,7 @@
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-25 | 2021-10-14 |
 | [Prom](https://open.spotify.com/track/0jDly7CyGCcPWGw5LNr7KL) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Prom](https://open.spotify.com/album/0NB5k9Uopjw1Fxg5wjISAk) | 4:09 | 2021-05-08 | 2022-04-16 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2021-03-06 | 2022-04-06 |
-| [Promise](https://open.spotify.com/track/7fVzvxyIZtUKB85yjGHdXK) | [People I’ve Met](https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi) | [Promise](https://open.spotify.com/album/2dabxlmiE2lPhYvNEB7yGl) | 3:34 | 2025-12-12 |  |
+| [Promise](https://open.spotify.com/track/7fVzvxyIZtUKB85yjGHdXK) | [People I’ve Met](https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi) | [Promise](https://open.spotify.com/album/2dabxlmiE2lPhYvNEB7yGl) | 3:34 | 2025-12-12 | 2026-03-27 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2024-01-25 |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-06-04 | 2022-10-18 |
 | [Puppet](https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Puppet](https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx) | 3:17 | 2023-11-17 | 2024-01-28 |

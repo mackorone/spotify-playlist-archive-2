@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124171,
+  "num_followers": 124164,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVPxD7JXYQNuWHZ1vmBXVllvnH5PLp",
+  "snapshot_id": "AAAVQNGTnNGKpQWSJBS27UeBxAtntuW4",
   "tracks": [
+    {
+      "added_at": "2026-03-26 16:15:48",
+      "album": {
+        "name": "Look At Me Now",
+        "url": "https://open.spotify.com/album/1iLkcAxnDp88Qut1FmWF8U"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        }
+      ],
+      "duration_ms": 217687,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5Iby2CpAUke1noXR6mg51K"
+    },
     {
       "added_at": "2026-03-25 17:14:27",
       "album": {

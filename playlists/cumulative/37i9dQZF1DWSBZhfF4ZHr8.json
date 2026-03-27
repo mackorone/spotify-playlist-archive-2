@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Amel Bent\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Louane\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 147026,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/1gCloDmEV2A6r0acZ3UogQ"
@@ -1330,6 +1330,24 @@
       "duration_ms": 192120,
       "name": "Compl\u00e9mentaires",
       "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+    },
+    {
+      "album": {
+        "name": "Conduire",
+        "url": "https://open.spotify.com/album/4oM56AR6sAOblRejJhCaEB"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170221,
+      "name": "Conduire",
+      "url": "https://open.spotify.com/track/1jhvR9vk43uqt5n4XTCTfN"
     },
     {
       "album": {
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180880,
       "name": "Femmes",
       "url": "https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw"
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 164346,
       "name": "Les rues de Paris",
       "url": "https://open.spotify.com/track/5a5XnQJtLLWdvuNRh2ESBS"
@@ -6335,6 +6353,24 @@
     },
     {
       "album": {
+        "name": "Pourquoi tu m'aimes ?",
+        "url": "https://open.spotify.com/album/4nzCs9Ub1F8BKG7aDwofdE"
+      },
+      "artists": [
+        {
+          "name": "EMA",
+          "url": "https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pourquoi tu m'aimes ?",
+      "url": "https://open.spotify.com/track/3QHijDVJc8IoanrBD1J2Ha"
+    },
+    {
+      "album": {
         "name": "MINUIT UNE",
         "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
       },
@@ -6952,6 +6988,24 @@
       "duration_ms": 160586,
       "name": "Sans vous",
       "url": "https://open.spotify.com/track/3i0STV9zBlqhMKZQTgcIJ0"
+    },
+    {
+      "album": {
+        "name": "Sens dessus dessous",
+        "url": "https://open.spotify.com/album/5e1MaVHLp37jBhIv7Zn6A6"
+      },
+      "artists": [
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151931,
+      "name": "Sens dessus dessous",
+      "url": "https://open.spotify.com/track/1eys5uEsHHVbrlIFGWVD0s"
     },
     {
       "album": {
@@ -8189,6 +8243,24 @@
     },
     {
       "album": {
+        "name": "Vivement les Vacances",
+        "url": "https://open.spotify.com/album/6CZrubwro9lWP1eB8pnylt"
+      },
+      "artists": [
+        {
+          "name": "Achile",
+          "url": "https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Venise",
+      "url": "https://open.spotify.com/track/0fVe3hxRuNrSl7wnxUSTZj"
+    },
+    {
+      "album": {
         "name": "Vice Versa",
         "url": "https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH"
       },
@@ -8424,7 +8496,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 150133,
       "name": "Y'a moi",
       "url": "https://open.spotify.com/track/7vx0yky7eHmrvWe6d4Za77"

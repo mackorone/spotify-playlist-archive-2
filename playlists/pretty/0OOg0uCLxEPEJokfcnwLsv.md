@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 839 likes - 89 songs - 5 hr 29 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 841 likes - 91 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 87 | [Happy In Stereo](https://open.spotify.com/track/408GJ4bXMavwxdFKSxaUW4) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Happy In Stereo](https://open.spotify.com/album/0ei3pdiUssJx4oQzpDV21M) | 3:09 |
 | 88 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 |
 | 89 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 |
+| 90 | [Timewaster](https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk) | [PØRTERS](https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q) | [Timewaster](https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE) | 3:35 |
+| 91 | [La Loca Con Ancla](https://open.spotify.com/track/1x582FY63ErBAC5CafxTnM) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [ACT](https://open.spotify.com/album/2T0zUxpubg0QwiCn8NTiRZ) | 3:58 |
 
-Snapshot ID: `AAAFhIM/s9cfbCP7qkTc+XJMKroBIRoy`
+Snapshot ID: `AAAFhm+tkzq+1kC7huRKujGrwaQO2ofH`

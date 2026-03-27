@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 134773,
+  "num_followers": 134819,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Be the One",
-        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 202914,
-      "name": "Be the One",
-      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 242160,
       "name": "What Dreams Are Made Of",
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Be the One",
+        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 202914,
+      "name": "Be the One",
+      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Love. Angel. Music. Baby.",
-        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
+      "duration_ms": 189333,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -539,6 +523,22 @@
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Exposed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS"
-      },
-      "artists": [
-        {
-          "name": "Kristinia DeBarge",
-          "url": "https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Froot",
         "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 331324,
       "name": "Froot",
       "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Exposed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS"
+      },
+      "artists": [
+        {
+          "name": "Kristinia DeBarge",
+          "url": "https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
     },
     {
       "added_at": "2024-06-02 21:23:10",

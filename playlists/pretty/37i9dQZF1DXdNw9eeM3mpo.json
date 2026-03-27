@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Kapanga y Milo J en portada.",
-  "num_followers": 487307,
+  "num_followers": 487357,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Contigo Me Encontr\u00e9",
         "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 202946,
       "name": "Contigo Me Encontr\u00e9",
       "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2026-02-06 06:00:21",

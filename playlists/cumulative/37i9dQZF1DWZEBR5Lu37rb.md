@@ -2,7 +2,7 @@
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> You still believe in love, grand gestures, and songs that feel like a slow dance in the rain.
+> You have loved, you have lost, and you survived with your headphones on.
 
 324 songs - 21 hr 26 min
 

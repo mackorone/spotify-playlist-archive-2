@@ -4,10 +4,11 @@
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
 
-202 songs - 14 hr 25 min
+215 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [I Do](https://open.spotify.com/track/0SXRPH2xsb2KEcuyoYNM08) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:36 | 2026-03-26 |  |
 | [Mine Mine](https://open.spotify.com/track/2ICnuqiUVa2XgHOt7rp44R) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [驚嘆號](https://open.spotify.com/album/6lLNsexBsSeTUcrC5nJF7I) | 4:28 | 2023-12-21 | 2024-04-19 |
 | [Mine Mine](https://open.spotify.com/track/6LU0pu1R5lbzXofbq5HQzj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [驚嘆號](https://open.spotify.com/album/2P1g6pMd57brcxfpBcb1cM) | 4:28 | 2023-12-21 |  |
 | [Mojito](https://open.spotify.com/track/2RvetPNMoaOJbBo7FtCV0J) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:05 | 2023-12-21 | 2024-04-19 |
@@ -16,6 +17,7 @@
 | [一路向北](https://open.spotify.com/track/7KoqEF76fGnDYdxTSHLxcm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 4:54 | 2023-12-21 | 2024-04-19 |
 | [一點點](https://open.spotify.com/track/5rQPgfJMJ7yhsEr0HwTA77) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 3:41 | 2023-12-21 |  |
 | [一點點](https://open.spotify.com/track/6P1jjWiVDL2UJDFLQOfPFr) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 3:41 | 2023-12-21 | 2024-04-19 |
+| [七月的極光](https://open.spotify.com/track/5Yldd3TzBRAnZIxssvGTHl) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:13 | 2026-03-26 |  |
 | [七里香](https://open.spotify.com/track/3kwqNLXvsjSrIXbVsRBj8q) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 4:55 | 2023-12-21 |  |
 | [七里香](https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 4:57 | 2023-12-21 | 2024-04-19 |
 | [上海 一九四三](https://open.spotify.com/track/4ftRDMcfzj5RefjAN1e9X5) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 3:15 | 2023-12-21 | 2024-04-19 |
@@ -58,6 +60,8 @@
 | [夜的第七章](https://open.spotify.com/track/1IqO5tjlh7uSkstlaFCQke) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/2BvDgFjuzq0BCZOPBeDd1E) | 3:48 | 2023-12-21 | 2024-04-19 |
 | [大笨鐘](https://open.spotify.com/track/2PMO9wtlM3O4HXGmkIXFEs) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [十二新作](https://open.spotify.com/album/5Ld4kLIL16CwUAx7IbxtIQ) | 4:02 | 2023-12-21 |  |
 | [大笨鐘](https://open.spotify.com/track/7L43l7R1WUX9VROiSHwwvZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [十二新作](https://open.spotify.com/album/6n2mXP41BEn7b3FXX3Hcc9) | 4:02 | 2023-12-21 | 2024-04-19 |
+| [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 | 2026-03-26 |  |
+| [女兒殿下](https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:44 | 2026-03-26 |  |
 | [她的睫毛](https://open.spotify.com/track/2JnamB6EQVscDH3np6HQvN) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 3:52 | 2023-12-21 | 2024-04-19 |
 | [她的睫毛](https://open.spotify.com/track/2ViIUQkG08b0WBmxJWDGBd) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 3:52 | 2023-12-21 |  |
 | [好久不見](https://open.spotify.com/track/2RjH2irYXHgci3RvTFKOyf) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:10 | 2023-12-21 |  |
@@ -79,6 +83,7 @@
 | [愛在西元前](https://open.spotify.com/track/5xiVa4bNFIMP6dYNm2Ri9m) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 3:54 | 2023-12-21 | 2024-04-19 |
 | [愛情廢柴](https://open.spotify.com/track/1IuFmoB065q05ePcxknzCG) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 4:45 | 2023-12-21 | 2024-04-19 |
 | [愛情廢柴](https://open.spotify.com/track/4zWz6OmFpyXIgQCxAS5yQb) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 4:45 | 2023-12-21 |  |
+| [愛琴海](https://open.spotify.com/track/3lzHO8msJ0ykGa0v8s4vu0) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:34 | 2026-03-26 |  |
 | [愛的飛行日記](https://open.spotify.com/track/1ILwI5d4fRL2XvVVuTL9Wq) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:12 | 2023-12-21 |  |
 | [愛的飛行日記](https://open.spotify.com/track/54DriLwbOZvH7CZXeOs7mt) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/284sMgc5vlNarGC1QgL2gp) | 4:14 | 2023-12-21 | 2024-04-19 |
 | [我不配](https://open.spotify.com/track/7G7ao6iFuNIn2k9cZhO5lP) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 4:46 | 2023-12-21 |  |
@@ -119,6 +124,8 @@
 | [止戰之殤](https://open.spotify.com/track/5OQKKCm4Yn6uK6ou6tRSYb) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 4:34 | 2023-12-21 | 2024-04-19 |
 | [浪漫手機](https://open.spotify.com/track/4ofmSKnAYj295dE0klRGQx) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 3:58 | 2023-12-21 |  |
 | [浪漫手機](https://open.spotify.com/track/1yLMAXDPaiAc99lz1m6KCJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 4:00 | 2023-12-21 | 2024-04-19 |
+| [淘金小鎮](https://open.spotify.com/track/6TK8UMYTqZ4ZIqRVLa8A0a) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:10 | 2026-03-26 |  |
+| [湘女多情](https://open.spotify.com/track/2B8vNkGx8sXH6U9bugIEqJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:58 | 2026-03-26 |  |
 | [煙花易冷](https://open.spotify.com/track/0UY2GoaZvTI29l64yp8yAK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:21 | 2023-12-21 |  |
 | [煙花易冷](https://open.spotify.com/track/24beWW0pQCJEF3IVSpIryu) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/284sMgc5vlNarGC1QgL2gp) | 4:23 | 2023-12-21 | 2024-04-19 |
 | [爸 我回來了](https://open.spotify.com/track/75KljiZZB2VloSKFqfESTk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 3:55 | 2023-12-21 | 2024-04-19 |
@@ -152,6 +159,8 @@
 | [紅顏如霜](https://open.spotify.com/track/43akgDMLN4GPHx4VdlbHtC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:17 | 2023-12-21 | 2024-04-19 |
 | [給我一首歌的時間](https://open.spotify.com/track/1H1Su2z86EDS2KQ1nhMmWA) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 4:13 | 2023-12-21 | 2024-04-19 |
 | [給我一首歌的時間](https://open.spotify.com/track/3PM4u9Z8d3IMVsBlFPID2J) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/2SrwWoOk7egNTcaJcb4tuO) | 4:13 | 2023-12-21 |  |
+| [聖徒](https://open.spotify.com/track/1bpFHVwe2a3tKbaw0agIGk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 2:55 | 2026-03-26 |  |
+| [聖誕星](https://open.spotify.com/track/74xnjSoKQjeKaj4zMH1s5T) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:01 | 2026-03-26 |  |
 | [聖誕星](https://open.spotify.com/track/0QZ5ixTvCuUbqfRN7x5jK4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [聖誕星](https://open.spotify.com/album/0btE4CEOFvogF0mBkIvv9p) | 3:02 | 2023-12-21 | 2024-04-19 |
 | [聖誕星 \(feat\. 楊瑞代\)](https://open.spotify.com/track/6IHerlmqWsMK5pfEGMBnAY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [聖誕星 \(feat\. 楊瑞代\)](https://open.spotify.com/album/4rg2QiBWFYBzKtdcJeHnP7) | 3:02 | 2023-12-21 |  |
 | [聽媽媽的話](https://open.spotify.com/track/14YooSSTGCikWjqD0e5r4j) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/15CNwI7alagWFBSj5EPmvV) | 4:23 | 2023-12-21 |  |
@@ -172,12 +181,14 @@
 | [蘭亭序](https://open.spotify.com/track/0nFB06940icgftyz7019el) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 4:13 | 2023-12-21 | 2024-04-19 |
 | [蝸牛](https://open.spotify.com/track/0QJ00XF8jm6b0mklxG51ad) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫范特西](https://open.spotify.com/album/6Dm5P51VOuA93Og2cXFTDP) | 3:58 | 2023-12-21 |  |
 | [蝸牛](https://open.spotify.com/track/1MkYzRrjKanzw7dgO6g5iw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2moxByOJokXC5eMNNBS5vg) | 3:58 | 2023-12-21 | 2024-04-19 |
+| [西西里](https://open.spotify.com/track/51d6dBUY3Dczsl2DdHu6EP) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:49 | 2026-03-26 |  |
 | [說了再見](https://open.spotify.com/track/2jlT98PnJTq5uwo8AdTpa7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:40 | 2023-12-21 |  |
 | [說了再見](https://open.spotify.com/track/4BlnR7y7sDouqBggjzuZxR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/284sMgc5vlNarGC1QgL2gp) | 4:42 | 2023-12-21 | 2024-04-19 |
 | [說好不哭](https://open.spotify.com/track/39tEWctWn3a4fmocz97cXg) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B) | 3:40 | 2023-12-21 |  |
 | [說好不哭](https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:40 | 2023-12-21 | 2024-04-19 |
 | [說好的幸福呢](https://open.spotify.com/track/6W2tmkeuHKaedHhdTPnyVs) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB) | 4:14 | 2023-12-21 |  |
 | [說好的幸福呢](https://open.spotify.com/track/4OoExItZJ0jePoCZDbHx4t) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 4:16 | 2023-12-21 | 2024-04-19 |
+| [誰稀罕](https://open.spotify.com/track/3VdNjKwpNm6rVRSjeL2Ucq) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:22 | 2026-03-26 |  |
 | [超人不會飛](https://open.spotify.com/track/4bXZMhpcle6e1PzCUquYEF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/284sMgc5vlNarGC1QgL2gp) | 4:59 | 2023-12-21 | 2024-04-19 |
 | [超人不會飛](https://open.spotify.com/track/7qfAfl5pbXRFxSfE32e7i4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:59 | 2023-12-21 |  |
 | [軌跡](https://open.spotify.com/track/2PHJSiIQQgVAuHqSxEp6F9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [尋找周杰倫](https://open.spotify.com/album/1frU5PezpjokLBrfy7l4i1) | 5:22 | 2023-12-21 |  |
@@ -186,6 +197,8 @@
 | [退後](https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:21 | 2023-12-21 |  |
 | [還在流浪](https://open.spotify.com/track/08lvLdFzi5oNDhWVn58RWO) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:25 | 2023-12-21 | 2024-04-19 |
 | [還在流浪](https://open.spotify.com/track/0ATZVWuix4MxihrbCnZBfy) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B) | 4:25 | 2023-12-21 |  |
+| [那天下雨了](https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:43 | 2026-03-26 |  |
+| [鄉間的路](https://open.spotify.com/track/2zGfjphwTvRKcQ8tunAmsa) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:22 | 2026-03-26 |  |
 | [錯過的煙火](https://open.spotify.com/track/4wxyFIwiADGOR81d8pwcvj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B) | 4:17 | 2023-12-21 |  |
 | [錯過的煙火](https://open.spotify.com/track/1CY4lmzJoGBWB8FJD5tmX2) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:17 | 2023-12-21 | 2024-04-19 |
 | [開不了口](https://open.spotify.com/track/0JB2nnrP35zVYnQcYpAnCb) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 4:44 | 2023-12-21 |  |

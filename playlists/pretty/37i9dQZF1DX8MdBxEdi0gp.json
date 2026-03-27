@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 174843,
+  "num_followers": 174886,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Porque te vas",
+      "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "L\u00ednea Azul - Vol IV - Amigo",
         "url": "https://open.spotify.com/album/5rvgKyUOHvy6tTwv5hUTdJ"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Porque te vas",
-      "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Cierro mis ojos",
-      "url": "https://open.spotify.com/track/1lIoDQMqHnqrztP5rnk296"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 130066,
       "name": "Amor de Estudiante",
       "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Cierro mis ojos",
+      "url": "https://open.spotify.com/track/1lIoDQMqHnqrztP5rnk296"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Recuerdos de una Noche",
-      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Todo... Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 182666,
       "name": "Juguete Caro - Remastered",
       "url": "https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Recuerdos de una Noche",
+      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
-      "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Lo Mejor de Ivan",
         "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 233160,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
+      "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 223573,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/4LY4j1ziOoVQm8beWBRYVN"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El cari\u00f1o que perd\u00ed",
-      "url": "https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 169240,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "El cari\u00f1o que perd\u00ed",
+      "url": "https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 175266,
       "name": "Te regalo mis ojos",
       "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Mano A Mano Volumen 1",
         "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 190773,
       "name": "Por Que Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
     },
     {
       "added_at": "2024-07-11 01:42:53",

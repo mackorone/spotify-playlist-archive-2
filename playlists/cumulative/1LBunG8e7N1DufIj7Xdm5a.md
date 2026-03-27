@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,186 songs - 9 day 6 hr 57 min
+4,187 songs - 9 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1795,6 +1795,7 @@
 | [Il Solito Disastro](https://open.spotify.com/track/6R6g3tUGbmOgMlPNXgyemC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 2:14 | 2025-09-14 |  |
 | [Il Solito Disastro \(another\)](https://open.spotify.com/track/5SamlRekgVlvihUA6L2jjT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 1:59 | 2025-09-14 |  |
 | [Il Timbro](https://open.spotify.com/track/4ek1sWFRJB6IfXKWRMraBW) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [CRINGE](https://open.spotify.com/album/5tmgSk2cwKZEne551QfWWE) | 1:26 | 2025-05-12 |  |
+| [Il Tuo Gioco](https://open.spotify.com/track/1ZvYrIlWiAbBjzT7NN7AYi) | [Muretto](https://open.spotify.com/artist/7bJj1R9syw3GyPfJZV78ES) | [Il Tuo Gioco](https://open.spotify.com/album/4oDCtSUPhzsmh6ySx5CQim) | 3:40 | 2026-03-26 |  |
 | [Il vaccino e' vicino](https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Il vaccino e' vicino](https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS) | 2:38 | 2025-10-02 |  |
 | [Il viaggio](https://open.spotify.com/track/4UpqmoDP124ECdmzw5sgnY) | [Marco Tobia](https://open.spotify.com/artist/03GV1BPNJYaXeo748CRhn8) | [11 novembre](https://open.spotify.com/album/1WJtkZgT9lAIGoF4MVX243) | 3:01 | 2025-06-07 |  |
 | [Il Vile](https://open.spotify.com/track/5MMqBozGEtEJJK1mCGKs6b) | [Marlene Kuntz](https://open.spotify.com/artist/1koU3PYin1x0g79oU9VB4A) | [Il Vile](https://open.spotify.com/album/4WeDUjjk869VuMeeX9IsLW) | 5:30 | 2025-11-12 |  |

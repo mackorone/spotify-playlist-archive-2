@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 131407,
+  "num_followers": 131427,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAD6H4kzEeWV3cWN6Im38p3K",
+  "snapshot_id": "acMlgAAAAADPXbZfMDFSjqW5d40kUTHL",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 111716,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
+      "duration_ms": 244765,
+      "name": "The Hidden River of My Life",
+      "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 244765,
-      "name": "The Hidden River of My Life",
-      "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
+      "duration_ms": 111716,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Delighted People",
-        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Enchanting Ghost",
-      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
+      "duration_ms": 153693,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+        "name": "All Delighted People",
+        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 153693,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
+      "duration_ms": 219453,
+      "name": "Enchanting Ghost",
+      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
     },
     {
       "added_at": null,

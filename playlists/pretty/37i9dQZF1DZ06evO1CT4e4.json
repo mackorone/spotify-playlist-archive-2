@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10628,
+  "num_followers": 10637,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADV4V+WvDCxcrX7kuC0Mu6K",
+  "snapshot_id": "acMlgAAAAAC+xhQpKoix3CnH9Fb7FCZO",
   "tracks": [
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 128866,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 4, Tanz der Entenk\u00fcken",
-      "url": "https://open.spotify.com/track/1xUwdWqIcAuGtOrIwbbdLF"
+      "duration_ms": 105973,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
+      "url": "https://open.spotify.com/track/4V7MrRNDrlco73oxU09tgz"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
       "duration_ms": 374506,
       "name": "Cantus In Memoriam Benjamin Britten",
       "url": "https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -847,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 105973,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
-      "url": "https://open.spotify.com/track/4V7MrRNDrlco73oxU09tgz"
+      "duration_ms": 128866,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 4, Tanz der Entenk\u00fcken",
+      "url": "https://open.spotify.com/track/1xUwdWqIcAuGtOrIwbbdLF"
     },
     {
       "added_at": null,
@@ -931,6 +931,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 43093,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
+      "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -959,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
       "artists": [
         {
@@ -968,33 +1008,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 43093,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
-      "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
         },
         {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
+      "duration_ms": 348080,
+      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
+      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
     },
     {
       "added_at": null,
@@ -1019,30 +1043,6 @@
       "duration_ms": 490920,
       "name": "And One of the Pharisees...",
       "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 348080,
-      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
-      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
     },
     {
       "added_at": null,
@@ -1087,30 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes of Time",
-        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Lisa Batiashvili",
-          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 621160,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Symphonies",
         "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 488706,
       "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
       "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes of Time",
+        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Lisa Batiashvili",
+          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 621160,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
     },
     {
       "added_at": null,

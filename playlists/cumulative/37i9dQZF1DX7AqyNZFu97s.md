@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: FIZA
 
-3,550 songs - 7 day 19 hr 13 min
+3,551 songs - 7 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2738,7 +2738,7 @@
 | [See You](https://open.spotify.com/track/3MIIOWKkWySNmVe0v8JYQs) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [See You](https://open.spotify.com/album/3jSx2lc7LRk5KqQ3eDWhBQ) | 3:52 | 2022-02-16 | 2022-04-07 |
 | [See You Later \(maybe never\)](https://open.spotify.com/track/4Rsy5ST2olSWRlbsjlRlI2) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [See You Later \(maybe never\)](https://open.spotify.com/album/3qhTDNrJ33i7xph9YGEDcv) | 2:53 | 2025-07-22 | 2025-08-28 |
 | [Sefton in the Summertime](https://open.spotify.com/track/0bz4B5C6ZtusODmKgRubhn) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sefton in the Summertime](https://open.spotify.com/album/3fJaGz6Iqb5Yd8mPvfSCKz) | 2:58 | 2022-02-09 | 2022-04-07 |
-| [selene](https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg) | [junechi](https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ) | [selene](https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo) | 3:52 | 2026-02-11 |  |
+| [SELENE](https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg) | [junechi](https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ) | [SELENE](https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo) | 3:52 | 2026-02-11 |  |
 | [Self Confessions](https://open.spotify.com/track/4SjHi8UKiEQFeikPErlcR2) | [Tally Spear](https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp) | [Self Confessions](https://open.spotify.com/album/6Ya7gGfagnQgsX04iqxjWz) | 2:40 | 2024-08-06 | 2024-09-11 |
 | [Self Made](https://open.spotify.com/track/6TzZr61mw0MOz7QcRtl9Av) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Self Made](https://open.spotify.com/album/1RCUPTvbqRhiC2T1TDo395) | 2:40 | 2023-11-15 | 2024-01-24 |
 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 | 2024-11-13 | 2024-12-05 |
@@ -2755,6 +2755,7 @@
 | [Serpentine Dream](https://open.spotify.com/track/2iWQXvY6u2j2h0YMnaDDTK) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [Serpentine Dream](https://open.spotify.com/album/389XCBIkqLtVIf0jyd2xmn) | 4:29 | 2025-02-12 | 2025-03-12 |
 | [Set In Stone](https://open.spotify.com/track/5ccaCw09zfglS85RBybUrG) | [Matty Barclay](https://open.spotify.com/artist/7GwEVM79rkhWyWEgkK5u47) | [Set In Stone](https://open.spotify.com/album/6hRMKe6t8yIkd0Dv7dKjl3) | 3:33 | 2024-04-16 | 2024-05-22 |
 | [Set Me Alight](https://open.spotify.com/track/5WS35Oz9TzEJQeObhJrtBZ) | [Weston Loney](https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt) | [Set Me Alight](https://open.spotify.com/album/46SwKo7dXcBwUYZzaJd6xx) | 4:05 | 2025-09-09 | 2025-10-16 |
+| [SET ME FREE](https://open.spotify.com/track/78QkphRTDf4v56ukEVzpLg) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [SET ME FREE](https://open.spotify.com/album/608WanTETSMRCF4FOpffBV) | 2:44 | 2026-03-25 |  |
 | [Set The Night On Fire](https://open.spotify.com/track/3sjmxgdvg8jUNMaIa1iVc4) | [Solar Eyes](https://open.spotify.com/artist/3URpZl3dmqlpHjahPTwaio) | [Set The Night On Fire](https://open.spotify.com/album/3halQAcpZ4DGAFOdEJIAe3) | 3:14 | 2025-09-16 | 2025-10-22 |
 | [Setting Sun](https://open.spotify.com/track/1HUtIs3uMgdNnWMrfkk3Z9) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:06 | 2024-02-28 | 2025-01-08 |
 | [Seven Lives](https://open.spotify.com/track/3qw51wIssbVNhcPiJTTdBo) | [Ben Murphy](https://open.spotify.com/artist/3I5XPVXJ2zdVP5X1wTnWs3) | [Seven Lives](https://open.spotify.com/album/4LbMooshZbgoTBRu36Enhh) | 3:39 | 2024-12-04 | 2025-01-08 |

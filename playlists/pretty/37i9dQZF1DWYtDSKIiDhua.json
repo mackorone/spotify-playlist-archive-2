@@ -1,13 +1,161 @@
 {
-  "description": "R&B and good vibe tracks for your current mood. Cover: 6LACK",
-  "num_followers": 149042,
+  "description": "R&B and good vibe tracks for your current mood. Cover: Jenevieve, Jordan Ward",
+  "num_followers": 149041,
   "original_name": "mood. ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNwkaBRmp6bS2DIlu6IHpfPEsdy",
+  "snapshot_id": "AAAAAOys1SQb3KI+ciPwLmzefqtAbhlp",
   "tracks": [
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 199859,
+      "name": "Lie With Me",
+      "url": "https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "Soundtrack 2 Get Her Back",
+        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "True 2 Me",
+      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "$TILL PAID",
+        "url": "https://open.spotify.com/album/2HrOxwGUV3bk56mynG4NpK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "HOT N $WEET",
+      "url": "https://open.spotify.com/track/3BPZX5XTDcJuG75JJbb7is"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "Worth the Wait",
+        "url": "https://open.spotify.com/album/410y1qS0wrjA31DizNrXVx"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Worth the Wait",
+      "url": "https://open.spotify.com/track/5R9CFDXzXok5hKsDUlDaRz"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "He's Not All That",
+        "url": "https://open.spotify.com/album/5ox7vc3X9DRBZb8r9IiOta"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "He's Not All That",
+      "url": "https://open.spotify.com/track/01HKbGG3qQdMsTQav30R9z"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/08Qh2ZB44AvDW9N7gyg8XA"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "I BROUGHT U FLOWERS",
+      "url": "https://open.spotify.com/track/4eyyerE9QXgNuonGVHMVFA"
+    },
+    {
+      "added_at": "2026-03-27 01:00:13",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/0hZQAfI8flXYmK4PgonzzI"
+      },
+      "artists": [
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0Zrz6L9L4tPxsxLvOU22iZ"
+    },
     {
       "added_at": "2026-03-19 17:00:30",
       "album": {
@@ -1067,22 +1215,6 @@
     {
       "added_at": "2026-03-19 17:00:30",
       "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/1XxMq180amXp4C0A9mYpYH"
-      },
-      "artists": [
-        {
-          "name": "Tabitha Nauser",
-          "url": "https://open.spotify.com/artist/7EY3xvBhvVnAGIN4hyGIUk"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/1bZRSFQocYan966Ye7GPI7"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs"
       },
@@ -1259,38 +1391,6 @@
     {
       "added_at": "2026-03-19 17:00:30",
       "album": {
-        "name": "Bet",
-        "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Bet",
-      "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/3Jge97aDjxTviMZsnhI5J4"
-      },
-      "artists": [
-        {
-          "name": "Jamegolotus",
-          "url": "https://open.spotify.com/artist/4WJHHbKaR6ZuhBrenMOj41"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6XJkUNg0IJB014weMpIkcv"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
       },
@@ -1307,26 +1407,6 @@
     {
       "added_at": "2026-03-19 17:00:30",
       "album": {
-        "name": "Chicken Crisp (FKD Remix)",
-        "url": "https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek"
-      },
-      "artists": [
-        {
-          "name": "HALLEY",
-          "url": "https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2"
-        },
-        {
-          "name": "FKD",
-          "url": "https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM"
-        }
-      ],
-      "duration_ms": 266500,
-      "name": "Chicken Crisp - FKD Remix",
-      "url": "https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
         "name": "Feline's Return",
         "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
       },
@@ -1339,22 +1419,6 @@
       "duration_ms": 224498,
       "name": "Sofa Joy",
       "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
-        "name": "i see red",
-        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 176138,
-      "name": "i see red",
-      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
     },
     {
       "added_at": "2026-03-19 17:00:30",
@@ -1475,22 +1539,6 @@
     {
       "added_at": "2026-03-19 17:00:30",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/6GvnZpdbFQO56a4FhErijP"
-      },
-      "artists": [
-        {
-          "name": "Jane B",
-          "url": "https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1"
-        }
-      ],
-      "duration_ms": 174995,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/0M0f0dMOxWn1l9SM3ZU67M"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/5xLNXjrIKQsSl07l6WrWW1"
       },
@@ -1535,30 +1583,6 @@
       "duration_ms": 196875,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4wZ4Mb2u58AcVPbNNXKQwL"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
-        "name": "Up From Here",
-        "url": "https://open.spotify.com/album/4CIK0AoMAdzQksAD6Jio4n"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 258181,
-      "name": "Up From Here",
-      "url": "https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT"
     },
     {
       "added_at": "2026-03-19 17:00:30",
@@ -1611,26 +1635,6 @@
     {
       "added_at": "2026-03-19 17:00:30",
       "album": {
-        "name": "Convertible",
-        "url": "https://open.spotify.com/album/5RyXmD3EHen3PFELGPOqkV"
-      },
-      "artists": [
-        {
-          "name": "Cyprus",
-          "url": "https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv"
-        },
-        {
-          "name": "Kenya Fujita",
-          "url": "https://open.spotify.com/artist/4QrvjmMlCOF9jmEJzSv7EC"
-        }
-      ],
-      "duration_ms": 256781,
-      "name": "Convertible",
-      "url": "https://open.spotify.com/track/4KvVxT2A1rtKryZZdfhXms"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7vulueHhGo64AVnt88kcxd"
       },
@@ -1663,38 +1667,6 @@
       "duration_ms": 176986,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
-    },
-    {
-      "added_at": "2026-03-19 17:00:30",
-      "album": {
-        "name": "My people",
-        "url": "https://open.spotify.com/album/0PaQXhs5b80k8iGUkTcQZg"
-      },
-      "artists": [
-        {
-          "name": "Shingo Suzuki",
-          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
-        },
-        {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
-        },
-        {
-          "name": "\u6e21\u8fba\u7fd4\u592a",
-          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
-        },
-        {
-          "name": "\u5b88\u771f\u4eba",
-          "url": "https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB"
-        },
-        {
-          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
-          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
-        }
-      ],
-      "duration_ms": 236096,
-      "name": "My people",
-      "url": "https://open.spotify.com/track/5LugbTIL82nL9ZxOzRUyrN"
     },
     {
       "added_at": "2026-03-19 17:00:30",

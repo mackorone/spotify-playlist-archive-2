@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45592,
+  "num_followers": 45609,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADqvSV/FPsW/5Fus1g011LO",
+  "snapshot_id": "acMlgAAAAAAAdLYgVlRzigYT38g5epjJ",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 142287,
-      "name": "Freestyle 3",
-      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
+      "duration_ms": 166863,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
+      "duration_ms": 142287,
+      "name": "Freestyle 3",
+      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,

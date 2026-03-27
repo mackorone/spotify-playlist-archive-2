@@ -394,10 +394,28 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "album": {
@@ -3583,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Road, Vol. 2",
+        "url": "https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP"
+    },
+    {
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/1boryF8Znj8KXWvXbTlO8k"
       },
@@ -4026,7 +4062,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"

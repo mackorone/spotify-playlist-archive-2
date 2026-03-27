@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 367000,
+  "num_followers": 367036,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
+        "name": "Tender Is The Quiet",
+        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
+      },
+      "artists": [
+        {
+          "name": "Aliz Uveges",
+          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Tender Is The Quiet",
+      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
         "name": "New Years Ahead",
         "url": "https://open.spotify.com/album/4dwpRqG7JlbdAYkXIpGdDF"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Everyone Will Know",
-        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
-      },
-      "artists": [
-        {
-          "name": "Hveiti Brauo",
-          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
-        }
-      ],
-      "duration_ms": 173318,
-      "name": "Everyone Will Know",
-      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Sk\u00f3gafoss",
         "url": "https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 201315,
       "name": "Sk\u00f3gafoss",
       "url": "https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "The sound of waiting",
+        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "duration_ms": 157044,
+      "name": "The sound of waiting",
+      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -475,22 +491,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Tender Is The Quiet",
-        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
-      },
-      "artists": [
-        {
-          "name": "Aliz Uveges",
-          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Tender Is The Quiet",
-      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Passing Time",
         "url": "https://open.spotify.com/album/0Had12L7iHS4sg3ZH9INvc"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 124897,
       "name": "Passing Time",
       "url": "https://open.spotify.com/track/7JCZMTeSLF2VgXGFSQxrS8"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
-        "name": "The sound of waiting",
-        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
-      },
-      "artists": [
-        {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
-        }
-      ],
-      "duration_ms": 157044,
-      "name": "The sound of waiting",
-      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -583,6 +567,22 @@
       "duration_ms": 142977,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Everyone Will Know",
+        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "duration_ms": 173318,
+      "name": "Everyone Will Know",
+      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/3PBFlBto2ZZIusYAWgxSEE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Collins",
-          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Seat for Two",
         "url": "https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Too Close for Comfort",
-        "url": "https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/3PBFlBto2ZZIusYAWgxSEE"
       },
       "artists": [
         {
-          "name": "Santi Bordera",
-          "url": "https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb"
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Too Close for Comfort",
-      "url": "https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG"
+      "duration_ms": 174106,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -775,6 +759,22 @@
       "duration_ms": 155466,
       "name": "The Night Forgot Our Names",
       "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Too Close for Comfort",
+        "url": "https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV"
+      },
+      "artists": [
+        {
+          "name": "Santi Bordera",
+          "url": "https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Too Close for Comfort",
+      "url": "https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "A Trip Down Memory Lane",
-        "url": "https://open.spotify.com/album/5imUoAQsH4jj4sBpG4oG5c"
-      },
-      "artists": [
-        {
-          "name": "Nicola Gisin",
-          "url": "https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "A Trip Down Memory Lane",
-      "url": "https://open.spotify.com/track/5vu73iGAuH5Lm5TYnEG46U"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Leave Us Fonder",
         "url": "https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 125000,
       "name": "Leave Us Fonder",
       "url": "https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "A Trip Down Memory Lane",
+        "url": "https://open.spotify.com/album/5imUoAQsH4jj4sBpG4oG5c"
+      },
+      "artists": [
+        {
+          "name": "Nicola Gisin",
+          "url": "https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "A Trip Down Memory Lane",
+      "url": "https://open.spotify.com/track/5vu73iGAuH5Lm5TYnEG46U"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Fading Skies",
-        "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
-      },
-      "artists": [
-        {
-          "name": "Brandy Charles",
-          "url": "https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Fading Skies",
-      "url": "https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 159615,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Fading Skies",
+        "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
+      },
+      "artists": [
+        {
+          "name": "Brandy Charles",
+          "url": "https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Fading Skies",
+      "url": "https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Grindavik",
-        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
-      },
-      "artists": [
-        {
-          "name": "Haukur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
-        }
-      ],
-      "duration_ms": 184272,
-      "name": "Grindavik",
-      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Moonlit Moods",
         "url": "https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls"
       },
@@ -1163,34 +1147,18 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "A Phonecall Away",
-        "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
+        "name": "Grindavik",
+        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
       },
       "artists": [
         {
-          "name": "Goratie",
-          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+          "name": "Haukur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
         }
       ],
-      "duration_ms": 152733,
-      "name": "A Phonecall Away",
-      "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
-        "name": "A forgotten love",
-        "url": "https://open.spotify.com/album/7kzdaMOWgM4zQBx8Fvlz6d"
-      },
-      "artists": [
-        {
-          "name": "Art Beckett",
-          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "A forgotten love",
-      "url": "https://open.spotify.com/track/15CzeZ2i4g2DtEw170jUId"
+      "duration_ms": 184272,
+      "name": "Grindavik",
+      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1211,6 +1179,38 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
+        "name": "A forgotten love",
+        "url": "https://open.spotify.com/album/7kzdaMOWgM4zQBx8Fvlz6d"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "A forgotten love",
+      "url": "https://open.spotify.com/track/15CzeZ2i4g2DtEw170jUId"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "A Phonecall Away",
+        "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "A Phonecall Away",
+      "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
         "name": "An Evening Walk",
         "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Time to Go Home",
-        "url": "https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu"
-      },
-      "artists": [
-        {
-          "name": "Morgan Meir",
-          "url": "https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9"
-        }
-      ],
-      "duration_ms": 201196,
-      "name": "Time to Go Home",
-      "url": "https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Right Up",
         "url": "https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192798,
       "name": "Right Up",
       "url": "https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Time to Go Home",
+        "url": "https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Meir",
+          "url": "https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9"
+        }
+      ],
+      "duration_ms": 201196,
+      "name": "Time to Go Home",
+      "url": "https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5"
     },
     {
       "added_at": "2026-02-27 04:00:17",

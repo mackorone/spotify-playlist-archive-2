@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,424 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,481 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 38 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
 | 39 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
 | 40 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
-| 41 | [Yo Vengo de Cuba](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
-| 42 | [Prohibido](https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Prohibido](https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM) | 4:25 |
+| 41 | [Prohibido](https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Prohibido](https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM) | 4:25 |
+| 42 | [Yo Vengo de Cuba](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
 | 43 | [Havana City](https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF) | [Havana NRG](https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp) | [Camino al Cielo](https://open.spotify.com/album/72Tes06RKTTqOuImJivudD) | 5:30 |
 | 44 | [¡Ay! Ay Amor](https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Lo Mejor de la Charanga](https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S) | 5:24 |
 | 45 | [La borrachera](https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Pupy y Los que Son Son Best Of](https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi) | 5:41 |

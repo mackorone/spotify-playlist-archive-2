@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 144040,
       "name": "Devils",
       "url": "https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk"
@@ -2665,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+    },
+    {
+      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -3372,6 +3390,28 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "album": {
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "album": {
@@ -4204,7 +4244,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 380160,
       "name": "Will There Be Enough Water?",
       "url": "https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP"

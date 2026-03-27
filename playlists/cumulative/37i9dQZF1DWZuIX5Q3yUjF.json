@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "AIN\u00c9, Lauryyn e Filippo Bubbico in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Saintess in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 215094,
       "name": "Buio Mare (feat. Martina May & Kuban)",
       "url": "https://open.spotify.com/track/2cq3MwF9tXyPzKiqixFCzC"
@@ -7144,7 +7144,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 234698,
       "name": "GiornoNo",
       "url": "https://open.spotify.com/track/4aFrGlIis9x0yjhxw4Jz9u"
@@ -9175,6 +9175,24 @@
     },
     {
       "album": {
+        "name": "Lasciarti Andare",
+        "url": "https://open.spotify.com/album/5TvAH5riZF2V91pjCblemZ"
+      },
+      "artists": [
+        {
+          "name": "sadbrodino",
+          "url": "https://open.spotify.com/artist/59X6ZWuzBRU0aaqXLIQkCi"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183547,
+      "name": "Lasciarti Andare",
+      "url": "https://open.spotify.com/track/7sVxGSgOq12U2dnCvPM6hH"
+    },
+    {
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/34AA6adf7MYb5Jnp6PeNWo"
       },
@@ -9248,7 +9266,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 191461,
       "name": "LE STORIE DEGLI ALTRI",
       "url": "https://open.spotify.com/track/77JflGtg6RqMX54rXZiEX5"
@@ -12910,7 +12928,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187424,
       "name": "Onda",
       "url": "https://open.spotify.com/track/4NQCi2TcGOd2WX289S4oGH"
@@ -13068,6 +13086,36 @@
       "duration_ms": 169600,
       "name": "Ora per Ora",
       "url": "https://open.spotify.com/track/3AE0cJVoZIjDdTpOT7B2ZX"
+    },
+    {
+      "album": {
+        "name": "LUNA PIENA",
+        "url": "https://open.spotify.com/album/7jWOlLgPDo2EANEgwWaZc7"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        },
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Daniele Germani",
+          "url": "https://open.spotify.com/artist/0YbAEM99fLHGGQETEJqwwM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219854,
+      "name": "Orbita",
+      "url": "https://open.spotify.com/track/65Z5r2lQMIZkAmjdap5xkh"
     },
     {
       "album": {
@@ -13951,6 +13999,24 @@
     },
     {
       "album": {
+        "name": "Poco da dire",
+        "url": "https://open.spotify.com/album/3ntgAUqPHCUmrqQUk1lCEL"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA FLORA",
+          "url": "https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151936,
+      "name": "Poco da dire",
+      "url": "https://open.spotify.com/track/7gCaqIrZr92YES8K7qiBiG"
+    },
+    {
+      "album": {
         "name": "Originali",
         "url": "https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU"
       },
@@ -14328,6 +14394,24 @@
       "duration_ms": 166200,
       "name": "Quello che mi resta",
       "url": "https://open.spotify.com/track/6bLYtUqGI4gjSaqgpEqoVl"
+    },
+    {
+      "album": {
+        "name": "Questa fretta ci fotte",
+        "url": "https://open.spotify.com/album/7IBjgClTNk8O89DCx9cpDj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Roberts",
+          "url": "https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Questa fretta ci fotte",
+      "url": "https://open.spotify.com/track/18iUlpqoCK0CTecz34vh2g"
     },
     {
       "album": {
@@ -16166,6 +16250,28 @@
       "duration_ms": 205487,
       "name": "Si potesse tornare",
       "url": "https://open.spotify.com/track/51IzBNnJ0MZgdQLrrBuuv7"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa Me Miras",
+        "url": "https://open.spotify.com/album/6UQk16kmpy8m7zZcz5zQJ9"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Si T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5jJlUvC1w6X5QzxslIlrJf"
     },
     {
       "album": {
@@ -18836,7 +18942,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 214705,
       "name": "Una vita a tre",
       "url": "https://open.spotify.com/track/69EKJCPJu7Q6UB7UPCDMRN"

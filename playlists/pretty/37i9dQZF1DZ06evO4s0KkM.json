@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126232,
+  "num_followers": 126248,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAJX3tVhFVckQigTx2lAAXZ",
+  "snapshot_id": "acMlgAAAAACf7Oz0PivFXH0W2UqYwOHm",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Going Out In Style",
+      "url": "https://open.spotify.com/track/6fUSDXwV5OqMev2kLhNM2e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Citizen I.C.E.",
         "url": "https://open.spotify.com/album/0a8UXVBxYkdx4KmYkjMamt"
       },
@@ -223,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -232,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Going Out In Style",
-      "url": "https://open.spotify.com/track/6fUSDXwV5OqMev2kLhNM2e"
+      "duration_ms": 264473,
+      "name": "Fields of Athenry",
+      "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
       "duration_ms": 270827,
       "name": "Chesterfields and Aftershave",
       "url": "https://open.spotify.com/track/1iL1Uu7Mxi2S8HD3dAXcEn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "Fields of Athenry",
-      "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 191415,
+      "name": "Always By My Side",
+      "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Meanest of Times (Limited Edition)",
         "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 166973,
       "name": "Famous For Nothing",
       "url": "https://open.spotify.com/track/01EUW7oVCUNwnBV1yRb3dE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
-      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 191415,
-      "name": "Always By My Side",
-      "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
+      "duration_ms": 283680,
+      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
+      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

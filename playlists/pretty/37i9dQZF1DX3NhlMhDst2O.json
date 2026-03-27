@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 165372,
+  "num_followers": 165438,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Mi Amiga, Mi Esposa, Mi Amante",
-      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 234493,
       "name": "Mi Forma De Sentir",
       "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Mi Amiga, Mi Esposa, Mi Amante",
+      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "No Son Palabritas",
-      "url": "https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 186400,
       "name": "Espejismo",
       "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "No Son Palabritas",
+      "url": "https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Generacion 2000",
-          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
-        }
-      ],
-      "duration_ms": 140653,
-      "name": "T\u00fa Eres",
-      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Coleccion Suprema Plus- Los Polifaceticos",
         "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 187173,
       "name": "Cuatro Lagrimas",
       "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Generacion 2000",
+          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "T\u00fa Eres",
+      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 179986,
       "name": "Coraz\u00f3n Limpio",
       "url": "https://open.spotify.com/track/2oziP5rlqR0kKHbGzIOL0b"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Los \u00c9xitos De Los Terricolas",
-        "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Luto En Mi Alma",
-      "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Como No Voy a Quererte",
         "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 185573,
       "name": "Como No Voy a Quererte",
       "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Los \u00c9xitos De Los Terricolas",
+        "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Luto En Mi Alma",
+      "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 228925,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 158493,
       "name": "D\u00e9jenme llorar",
       "url": "https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 228925,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Una Carta",
-      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 168320,
       "name": "Tu inolvidable sonrisa",
       "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Una Carta",
+      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
     },
     {
       "added_at": "2025-01-28 15:41:46",

@@ -6,8 +6,40 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARP2MCz1xYjMiU9khKpSk/V/5mFZzy",
+  "snapshot_id": "AAARQbvbBUNgWuVYceRsQQizSjmSQxfZ",
   "tracks": [
+    {
+      "added_at": "2026-03-26 23:00:09",
+      "album": {
+        "name": "Electro",
+        "url": "https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "Electro",
+      "url": "https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3"
+    },
+    {
+      "added_at": "2026-03-26 23:00:15",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/4MPhN02Pi6NpO9qcDdsGHf"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 180140,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1"
+    },
     {
       "added_at": "2026-03-19 23:00:16",
       "album": {

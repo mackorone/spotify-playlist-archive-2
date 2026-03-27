@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Merro8",
+  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Zuloo",
   "name": "rap dk",
   "tracks": [
     {
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 114357,
       "name": "Clean",
       "url": "https://open.spotify.com/track/5ema5NZYuNZq32lRGss7N0"
@@ -4382,6 +4382,24 @@
       "duration_ms": 178072,
       "name": "Hilarious",
       "url": "https://open.spotify.com/track/5NwEy8KC8yeLTAI0RF3N5R"
+    },
+    {
+      "album": {
+        "name": "HIMMELSENDT",
+        "url": "https://open.spotify.com/album/1SLP82qp6FDgLFmCJGiqjN"
+      },
+      "artists": [
+        {
+          "name": "Zuloo",
+          "url": "https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133254,
+      "name": "HIMMELSENDT",
+      "url": "https://open.spotify.com/track/3RTfF3z9LBQReOjWYBVcDO"
     },
     {
       "album": {
@@ -7265,6 +7283,28 @@
     },
     {
       "album": {
+        "name": "Planet",
+        "url": "https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233758,
+      "name": "Planet",
+      "url": "https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu"
+    },
+    {
+      "album": {
         "name": "Guld & Gr\u00f8nne",
         "url": "https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT"
       },
@@ -9517,6 +9557,28 @@
     },
     {
       "album": {
+        "name": "Vent lige",
+        "url": "https://open.spotify.com/album/4M9yCfMHyFm5AR9NqaRBzp"
+      },
+      "artists": [
+        {
+          "name": "Tan",
+          "url": "https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh"
+        },
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149747,
+      "name": "Vent lige",
+      "url": "https://open.spotify.com/track/7gA0kHyHP31uM1CITkwCuD"
+    },
+    {
+      "album": {
         "name": "Vent P\u00e5 Mig",
         "url": "https://open.spotify.com/album/35r8asFSRukDUjobenm0J2"
       },
@@ -9746,6 +9808,24 @@
       "duration_ms": 118400,
       "name": "W",
       "url": "https://open.spotify.com/track/2DZJFfxCJZj6YZGkswBtnR"
+    },
+    {
+      "album": {
+        "name": "Walo",
+        "url": "https://open.spotify.com/album/7wqu8glYkOk1hzqp2qCQDr"
+      },
+      "artists": [
+        {
+          "name": "ZUUZ",
+          "url": "https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118056,
+      "name": "Walo",
+      "url": "https://open.spotify.com/track/5lt9tqbYBlVJnYcHlrcTN6"
     },
     {
       "album": {

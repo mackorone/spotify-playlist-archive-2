@@ -2428,6 +2428,32 @@
     {
       "album": {
         "name": "Pr\u00f3spera",
+        "url": "https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Preta Ary",
+          "url": "https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263586,
+      "name": "Shonda - Remix",
+      "url": "https://open.spotify.com/track/2bVLOEyG9K8RuOSh6pM5hf"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3spera",
         "url": "https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK"
       },
       "artists": [
@@ -2472,7 +2498,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 263586,
       "name": "Shonda - RMX",
       "url": "https://open.spotify.com/track/6qwFSSA7ZQBY3e1Yythyr0"

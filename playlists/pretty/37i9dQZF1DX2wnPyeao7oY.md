@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Night Rider
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Maphra
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,448 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,507 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [A Place For Those Who Suffer, Alone](https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j) | [Survivalist](https://open.spotify.com/artist/4H5Sej01zQdVBms4iFMTmA) | [A Place For Those Who Suffer, Alone](https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd) | 3:45 |
 | 50 | [THE FIRE IN MY NAME](https://open.spotify.com/track/2mhf3Gou2ifwxXwG3VIHYp) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [THE FIRE IN MY NAME](https://open.spotify.com/album/35j2MCL7aM8PgvugKb0vZB) | 2:53 |
 
-Snapshot ID: `AAAAAETa4De7d1zitGopjHFdy3m/SDZw`
+Snapshot ID: `AAAAAF80uOoGgKMSzGpBeldAzkxcoKNM`

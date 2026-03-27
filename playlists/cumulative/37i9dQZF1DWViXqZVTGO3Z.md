@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
 517 songs - 1 day 9 hr 29 min
 
@@ -72,7 +72,7 @@
 | [Christmas Eve](https://open.spotify.com/track/4MNCKUrCsv7VDNabmXCAnv) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Christmas Eve](https://open.spotify.com/album/6MIp6XJV6GWHaVoJ0G1bY8) | 2:51 | 2023-12-15 |  |
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-11-03 | 2024-02-12 |
 | [Christmas Hallelujah](https://open.spotify.com/track/6uFEobKlJuKOMjPl4m9pWe) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Christ Is Born](https://open.spotify.com/album/3oOgSv4nf72OEPyLdehYbB) | 4:21 | 2024-11-23 | 2025-11-17 |
-| [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-11 | 2026-03-25 |
+| [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-11 |  |
 | [Christmas In Florida](https://open.spotify.com/track/6uWrLoPQ9S7l06AJJthPbc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Christmas In Florida](https://open.spotify.com/album/2z0Jy5xSewbiOcaxlMzDea) | 2:47 | 2021-12-24 | 2022-07-28 |
 | [Christmas in the Mountains](https://open.spotify.com/track/0wfzeSobPJiekeAWgBQhE9) | [The Primitive Quartet](https://open.spotify.com/artist/3iqTj2ISCCfGIAN2ZyggJO) | [Through the Years, Christmas](https://open.spotify.com/album/5drZy0K2aXgwzbZOvoE4ut) | 1:58 | 2021-12-24 | 2022-07-29 |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2021-12-24 |  |
@@ -473,7 +473,7 @@
 | [The Wonder Of Christmas](https://open.spotify.com/track/0cRiBccuvenzqWMxDzzEcG) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [The Wonder Of Christmas](https://open.spotify.com/album/66gYMzgSXUu3dPUJk5wvKM) | 3:22 | 2024-11-23 | 2025-11-06 |
 | [There Came A Light / O Holy Night](https://open.spotify.com/track/0I6EVjdooFsWZ5pO3prUJm) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Christmas In The Midwest EP](https://open.spotify.com/album/2In4og6Mtb3bExPHlEHPzy) | 4:33 | 2024-11-17 | 2025-12-16 |
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |
-| [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/3EEWajIld20vCAPfRkXh1S) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 |  |
+| [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/3EEWajIld20vCAPfRkXh1S) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 | 2026-03-27 |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 | 2026-03-10 |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 | 2024-04-02 |

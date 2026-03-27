@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: horsegiirL
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 92,984 likes - 100 songs - 5 hr 29 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 92,983 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 46 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 47 | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/track/71Zw15qOwDpmQTPbFVPp13) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Come Find Me](https://open.spotify.com/album/6N1oJNIThtU27PDGpo0Fnw) | 3:27 |
 | 48 | [Zouki](https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Zouki](https://open.spotify.com/album/3riFmoDuxNNUwMa4pZtIdS) | 2:38 |
-| 49 | [Run With The Sun \(feat\. Bryce Vine\)](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
+| 49 | [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
 | 50 | [Can't Let Go](https://open.spotify.com/track/5bW0EIhvYV7vzoy19T7kD3) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Heartbeat](https://open.spotify.com/album/39vHs1PksXp1j0tc65Qr9q) | 4:30 |
 | 51 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
 | 52 | [Crazy \(Nobody Else\)](https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo \(25th Anniversary Edition\)](https://open.spotify.com/album/5hAy2eMkeCVt128x6Ypqd6) | 4:15 |

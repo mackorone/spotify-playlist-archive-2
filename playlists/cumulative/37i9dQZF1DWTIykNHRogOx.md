@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Camélia Jordana
+> Les  meilleures nouveautés de la chanson française avec Manon Lisa
 
-299 songs - 16 hr 22 min
+301 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ami Amour](https://open.spotify.com/track/72IpO8YdavUCpqTsqh0FRM) | [Anjaa](https://open.spotify.com/artist/59bBzMdhPynQmBjE3dyrTz) | [Les Météores](https://open.spotify.com/album/07ya5hGHzB0hBzwVdOAiCV) | 3:16 | 2025-06-19 | 2025-11-21 |
 | [Amnésie](https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Amnésie](https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP) | 3:31 | 2025-11-06 | 2026-03-20 |
 | [Amnésie \- November Ultra Version](https://open.spotify.com/track/3qgaBkvgxkWscBdYQlkvQt) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Amnésie \(November Ultra Version\)](https://open.spotify.com/album/5s4XbCLJIbcAxLBarsmmdH) | 3:51 | 2026-03-19 |  |
-| [Amor à mort](https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [\(Re\)commencement](https://open.spotify.com/album/66PFQJXeRUIBc9IiPYAKvg) | 2:59 | 2025-11-27 |  |
+| [Amor à mort](https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [\(Re\)commencement](https://open.spotify.com/album/66PFQJXeRUIBc9IiPYAKvg) | 2:59 | 2025-11-27 | 2026-03-27 |
 | [AMOUR IMMENSE](https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [AMOUR IMMENSE](https://open.spotify.com/album/4LcZY5g6zmDp93dh5PFUkd) | 2:17 | 2026-03-19 |  |
 | [Amoureux](https://open.spotify.com/track/3JxtG6e9K7OXltofy3Z56G) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Amoureux](https://open.spotify.com/album/6j14PbhFhETS2yt7yene9b) | 2:58 | 2025-10-09 | 2025-11-21 |
 | [AMOURFOU](https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [APRÈS DEUIL\(S\)](https://open.spotify.com/album/0ZpYSAaOfQvIo55zbEx4ly) | 3:36 | 2024-06-27 | 2024-09-20 |
@@ -68,7 +68,7 @@
 | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 | 2026-02-19 |  |
 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 | 2024-06-27 | 2024-08-30 |
 | [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-28 | 2025-04-25 |
-| [Envole\-toi](https://open.spotify.com/track/31CkkXtupjdTpHhZLJv8aF) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Envole\-toi](https://open.spotify.com/album/1nett9I4qlSeqnAmeUYhcu) | 3:48 | 2025-11-20 |  |
+| [Envole\-toi](https://open.spotify.com/track/31CkkXtupjdTpHhZLJv8aF) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Envole\-toi](https://open.spotify.com/album/1nett9I4qlSeqnAmeUYhcu) | 3:48 | 2025-11-20 | 2026-03-27 |
 | [Ex æquo](https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz) | 3:57 | 2025-02-20 | 2025-07-11 |
 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 | 2024-08-29 | 2025-01-17 |
 | [facilement](https://open.spotify.com/track/4uf3w3CXmwSA2sK6pLH82s) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:41 | 2025-06-12 | 2025-11-14 |
@@ -125,6 +125,7 @@
 | [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau \(promis\)](https://open.spotify.com/album/3xpX4ziPYvlQnFDHKP26wW) | 3:49 | 2025-11-13 | 2026-02-20 |
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 | 2025-09-12 |
 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 | 2025-10-17 |
+| [La nuit](https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [La nuit](https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5) | 3:27 | 2026-03-26 |  |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
 | [La nuit n'est pas prêteuse](https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [After Summer](https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy) | 3:03 | 2025-09-25 | 2026-02-06 |
 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 | 2025-09-20 |
@@ -135,6 +136,7 @@
 | [La souterraine](https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La souterraine](https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv) | 4:29 | 2024-09-05 | 2025-01-10 |
 | [La sublime solitude](https://open.spotify.com/track/2j7W51fI2zpTfOkAigFJTX) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La sublime solitude](https://open.spotify.com/album/7relapF4f8EZZISJH5IkQG) | 3:12 | 2025-03-20 | 2025-06-20 |
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 | 2024-08-30 |
+| [La Terre](https://open.spotify.com/track/4UMZbcLubBbdJsnRVuHQzZ) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [La Terre](https://open.spotify.com/album/1YWPJAYtkXfL0WbmKmp1ov) | 3:00 | 2026-03-26 |  |
 | [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
 | [La vie d'adulte](https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [La vie d'adulte](https://open.spotify.com/album/4EakoUqcLXYKZm1peyxirG) | 2:51 | 2026-03-05 |  |
 | [la vie est belle](https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [les choses de la vie](https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i) | 3:13 | 2026-03-12 |  |

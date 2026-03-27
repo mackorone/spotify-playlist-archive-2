@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 228002,
       "name": "Broken High Heels",
       "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
@@ -645,6 +645,36 @@
     },
     {
       "album": {
+        "name": "Basie Swings The Blues",
+        "url": "https://open.spotify.com/album/7cNYq2vwnvRkoi9g1eAl0d"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298984,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/12hDJoPtsQCVIKmK7jWBpG"
+    },
+    {
+      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
       },
@@ -668,7 +698,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
@@ -1324,7 +1354,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Tee Tot Payne",
       "url": "https://open.spotify.com/track/4Rj0alinvWWuxkNfmZAxM8"

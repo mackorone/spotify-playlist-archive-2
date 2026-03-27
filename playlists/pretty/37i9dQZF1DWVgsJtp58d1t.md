@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:4Z8MrrKMBHMPa8d04Ivur8">Bella Kay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,805 likes - 126 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,888 likes - 126 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: HOSHI\)
 
-904 songs - 1 day 23 hr 45 min
+905 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Bonnie & Clyde](https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [American Gothic](https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ) | 3:12 | 2022-04-19 | 2022-07-29 |
 | [Boyhood \(Feat\. VVON, DANA\)](https://open.spotify.com/track/4mjHZGcLuttpM6upxu35mP) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [DANA](https://open.spotify.com/artist/2XcNpF7crTNlL3XEoU4PT9) | [Ones left behind](https://open.spotify.com/album/5F12jY2brlUyryOPSzxCiG) | 2:58 | 2023-05-03 | 2023-05-16 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-09-28 | 2022-10-01 |
+| [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 | 2026-03-26 |  |
 | [Broken Love](https://open.spotify.com/track/5I3YKXTo2b6L1IFq8nwtfe) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/4yA4rbocHJnZuDoDiSVD3A) | 2:53 | 2022-04-19 | 2022-07-27 |
 | [Broken Love](https://open.spotify.com/track/6GehOJs060WzAi78QArj7p) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd) | 2:53 | 2022-08-02 | 2023-08-22 |
 | [Burn it \(feat\. DEAN\)](https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 3:31 | 2024-11-14 | 2025-03-08 |
@@ -176,7 +177,7 @@
 | [Collagen \(Feat\. Sylo\)](https://open.spotify.com/track/1f4Ra2jxRY5pIbh9oFulhK) | [ditch david](https://open.spotify.com/artist/3AMjDzr2vPow8zzuNWIy8Z), [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Collagen](https://open.spotify.com/album/4E7Uq0mhghm2RhUJatT7mh) | 2:38 | 2022-06-03 | 2022-06-17 |
 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 | 2022-06-23 | 2022-09-28 |
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-22 | 2022-12-10 |
-| [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 |  |
+| [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2026-03-27 |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2022-08-02 |
 | [COMFY](https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3) | [SEOA](https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF), [SZN](https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5) | [COMFY](https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S) | 3:45 | 2023-01-23 | 2023-02-15 |
 | [Coming Back](https://open.spotify.com/track/5n0PncWY6GO1YNzxradkfR) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Coming Back](https://open.spotify.com/album/3jeYPsm9JCCHxxqp2uC3DH) | 3:08 | 2022-04-19 | 2022-06-09 |

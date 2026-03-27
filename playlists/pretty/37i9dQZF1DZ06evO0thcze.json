@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57567,
+  "num_followers": 57579,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAACJ2eb3IB0CVEhC/ueErTRo",
+  "snapshot_id": "acMlgAAAAADoqBl7tpBMbk2vjQUY09mV",
   "tracks": [
     {
       "added_at": null,
@@ -1043,6 +1043,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "BALANCE [PARTE DOS]",
+        "url": "https://open.spotify.com/album/15oEMpjJsVVnQQRdATYnJN"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 198507,
+      "name": "Hag\u00e1moslo",
+      "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eres Ese Algo 2.0",
+        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Eres Ese Algo 2.0",
+      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caricatura",
         "url": "https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb"
       },
@@ -1095,30 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eres Ese Algo 2.0",
-        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Keith Nieto",
-          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Eres Ese Algo 2.0",
-      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0IZVbbPAIaQaFqDYTOyljc"
       },
@@ -1147,6 +1167,42 @@
       "duration_ms": 345652,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1yuSIU8jZxvoXX1QERfWKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alzypher Vol. 3",
+        "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Malucci",
+          "url": "https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Alzypher Vol. 3",
+      "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
     },
     {
       "added_at": null,
@@ -1191,42 +1247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alzypher Vol. 3",
-        "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
-      },
-      "artists": [
-        {
-          "name": "Alzada",
-          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Malucci",
-          "url": "https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Alzypher Vol. 3",
-      "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 232500,
       "name": "Alguien Que Me Cure",
       "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BALANCE [PARTE DOS]",
-        "url": "https://open.spotify.com/album/15oEMpjJsVVnQQRdATYnJN"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 198507,
-      "name": "Hag\u00e1moslo",
-      "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
     },
     {
       "added_at": null,
@@ -1331,22 +1331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "que mach\u00edn la cagaste",
-        "url": "https://open.spotify.com/album/3FS9HfjLDPZ6sQ00Csk0vk"
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
       "artists": [
         {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 222000,
-      "name": "que mach\u00edn la cagaste",
-      "url": "https://open.spotify.com/track/48Eac78I4uzj7O5zkApfdA"
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

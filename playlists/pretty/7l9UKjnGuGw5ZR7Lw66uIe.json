@@ -1,12 +1,12 @@
 {
   "description": "neler ya\u015fam\u0131\u015f\u0131m ben ya...",
-  "num_followers": 353,
+  "num_followers": 352,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "\u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAArh0m1R0iJ1o7ePRPV8I+slJQvCzW",
+  "snapshot_id": "AAAAsciRQ4d5ZudK7e2iLVFhliYJZGeZ",
   "tracks": [
     {
       "added_at": "2026-03-12 22:05:52",
@@ -73,10 +73,10 @@
       "url": "https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF"
     },
     {
-      "added_at": "2025-06-27 10:44:04",
+      "added_at": "2025-11-06 21:23:03",
       "album": {
-        "name": "Pi\u015fman\u0131m",
-        "url": "https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ"
+        "name": "Y\u0131k\u0131lana Kadar",
+        "url": "https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg"
       },
       "artists": [
         {
@@ -84,25 +84,9 @@
           "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
         }
       ],
-      "duration_ms": 137625,
-      "name": "Pi\u015fman\u0131m",
-      "url": "https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1"
-    },
-    {
-      "added_at": "2022-07-27 11:18:26",
-      "album": {
-        "name": "Harbi G\u00fczel",
-        "url": "https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW"
-      },
-      "artists": [
-        {
-          "name": "Murat Boz",
-          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
-        }
-      ],
-      "duration_ms": 175821,
-      "name": "Harbi G\u00fczel",
-      "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
+      "duration_ms": 180800,
+      "name": "Y\u0131k\u0131lana Kadar",
+      "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
     },
     {
       "added_at": "2025-09-26 00:16:50",
@@ -121,6 +105,38 @@
       "url": "https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl"
     },
     {
+      "added_at": "2022-07-27 11:18:26",
+      "album": {
+        "name": "Harbi G\u00fczel",
+        "url": "https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW"
+      },
+      "artists": [
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "duration_ms": 175821,
+      "name": "Harbi G\u00fczel",
+      "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
+    },
+    {
+      "added_at": "2025-06-27 10:44:04",
+      "album": {
+        "name": "Pi\u015fman\u0131m",
+        "url": "https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 137625,
+      "name": "Pi\u015fman\u0131m",
+      "url": "https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1"
+    },
+    {
       "added_at": "2023-10-12 23:35:23",
       "album": {
         "name": "Al\u0131\u015ft\u0131m Zehrine",
@@ -135,22 +151,6 @@
       "duration_ms": 159586,
       "name": "Al\u0131\u015ft\u0131m Zehrine",
       "url": "https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD"
-    },
-    {
-      "added_at": "2025-11-06 21:23:03",
-      "album": {
-        "name": "Y\u0131k\u0131lana Kadar",
-        "url": "https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg"
-      },
-      "artists": [
-        {
-          "name": "\u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Y\u0131k\u0131lana Kadar",
-      "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
     },
     {
       "added_at": "2023-06-24 08:47:54",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : La Mano 1.9 x Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 153520,
       "name": "4H Du Mat (feat. Singuila)",
       "url": "https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187080,
       "name": "Baby Boy (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
@@ -1661,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2T9WB3WMwBagwSUq7h3D9u"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165504,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/63JfofSUuCDQ2qWZRydJOH"
+    },
+    {
+      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/4oVJWi6TrzezKEUJC32gBM"
       },
@@ -2091,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Cod\u00e9",
+        "url": "https://open.spotify.com/album/65AD2s4mW1cz4f10JEEUvu"
+      },
+      "artists": [
+        {
+          "name": "Bryans",
+          "url": "https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Cod\u00e9",
+      "url": "https://open.spotify.com/track/6i2PUBNIUizHQUC2jai2gD"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/78VRTJHZufFmwD16lwpT3p"
       },
@@ -2450,7 +2486,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 177680,
       "name": "Confiance aux femmes",
       "url": "https://open.spotify.com/track/1TqB2ryrDVbwQrSHElWAEw"
@@ -2494,6 +2530,28 @@
       "duration_ms": 169142,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/3CFKsMaBP9XXAfGkjS2udj"
+    },
+    {
+      "album": {
+        "name": "Couleur Caf\u00e9",
+        "url": "https://open.spotify.com/album/7ulE9YAocFc1VzzBblh7SH"
+      },
+      "artists": [
+        {
+          "name": "C2AM",
+          "url": "https://open.spotify.com/artist/1acO9gERaiQD0BiOOdBrlG"
+        },
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/3tsgXW0J2AhnaKh9hTnT3W"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Couleur caf\u00e9",
+      "url": "https://open.spotify.com/track/383s7QR6hrLyrakpScbgdw"
     },
     {
       "album": {
@@ -2552,7 +2610,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 210653,
       "name": "C\u0153ur de pirate",
       "url": "https://open.spotify.com/track/7tToaH0IEXI6sm7ka7zHNM"
@@ -4474,7 +4532,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 188953,
       "name": "Grand Spectacle",
       "url": "https://open.spotify.com/track/19ugVSsCGrQFSR6YAkH78k"
@@ -5170,6 +5228,28 @@
       "duration_ms": 169289,
       "name": "J'la connais, Pt. 2 - Jamais",
       "url": "https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP"
+    },
+    {
+      "album": {
+        "name": "My Eyes Only - Flashback",
+        "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131439,
+      "name": "J'PENSE \u00c0 TOI",
+      "url": "https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx"
     },
     {
       "album": {
@@ -5910,7 +5990,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 233866,
       "name": "LA NUIT",
       "url": "https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw"
@@ -6134,7 +6214,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 206255,
       "name": "Les mots",
       "url": "https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi"
@@ -7545,6 +7625,24 @@
     },
     {
       "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/2TWHFZsUnZTO7R0kqrIjLe"
+      },
+      "artists": [
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/44ga4npdjaqD4WGUt8oXXV"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/1g1SMWacpyZngg5vjLV7ae"
+    },
+    {
+      "album": {
         "name": "My Eyes Only",
         "url": "https://open.spotify.com/album/096KAIqQBU6VAIoslHuybX"
       },
@@ -8687,6 +8785,28 @@
     },
     {
       "album": {
+        "name": "Pas comme moi",
+        "url": "https://open.spotify.com/album/4Z7rvNms3Gtk1g8BNxejoz"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "Pas comme moi",
+      "url": "https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4"
+    },
+    {
+      "album": {
         "name": "Pas d'accord",
         "url": "https://open.spotify.com/album/5ETFy3y8bcBlYdTVmypJfu"
       },
@@ -8996,6 +9116,24 @@
       "duration_ms": 156946,
       "name": "Piqu\u00e9",
       "url": "https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n"
+    },
+    {
+      "album": {
+        "name": "PI\u00c9G\u00c9E",
+        "url": "https://open.spotify.com/album/3ORR4VyFHZcOaFS5rNqrrW"
+      },
+      "artists": [
+        {
+          "name": "Dioo",
+          "url": "https://open.spotify.com/artist/6n8tHRFjXKVv3b7WmWLr9a"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "PI\u00c9G\u00c9E",
+      "url": "https://open.spotify.com/track/5qaki2VIHtWEMECn1LJuH5"
     },
     {
       "album": {
@@ -10036,7 +10174,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168000,
       "name": "Roses et Orties",
       "url": "https://open.spotify.com/track/6Cf5R5fTKwLT6U7v1juMPl"
@@ -10615,6 +10753,46 @@
     },
     {
       "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/1BOcfpzanvhwblouD5Fa3m"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/3nkVSeaL5M6II2uHQHRuYM"
+    },
+    {
+      "album": {
+        "name": "SHENSYA",
+        "url": "https://open.spotify.com/album/7tziZvgjPcCvXK0ITzEIYM"
+      },
+      "artists": [
+        {
+          "name": "Yardenn",
+          "url": "https://open.spotify.com/artist/28Ne64DUH2VrQ6WrvPuzpv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "SHENSYA",
+      "url": "https://open.spotify.com/track/2v7vhGto0KbCz1WmDfCAAm"
+    },
+    {
+      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/11dur3MuAfGH3vZ30jYKnk"
       },
@@ -10828,7 +11006,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 212400,
       "name": "Solide",
       "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"

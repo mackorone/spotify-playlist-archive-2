@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-576 songs - 1 day 11 hr 29 min
+580 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Call On Me](https://open.spotify.com/track/4PupCImDzC6MoXNogI4wtF) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:40 | 2024-05-07 |  |
 | [Callin' All Dancers](https://open.spotify.com/track/3xvRZdaD1RcSclqj3KmF1O) | [Dryman](https://open.spotify.com/artist/4vkf3qpJLRwhb07HXVE1RE), [Sirmo](https://open.spotify.com/artist/76DLAKD5U9Lh0koE3YLwTV) | [Around The World In UKG, Vol\. 3](https://open.spotify.com/album/5ZffUddGMdn62hoLi79Zv0) | 4:37 | 2023-04-30 | 2023-05-23 |
 | [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 | 2023-06-30 | 2024-08-17 |
+| [Calor que No Digo](https://open.spotify.com/track/0uuRVVhu5wQ5hwMwbV7ZUV) | [Leo Effe](https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M) | [Calor que No Digo](https://open.spotify.com/album/5N3ZdRNufl8YhQOXlo7Eu1) | 3:14 | 2026-03-26 |  |
 | [Can't Be Me](https://open.spotify.com/track/1kqmG7Yohi5Kce049vnYZe) | [Nick Raff](https://open.spotify.com/artist/5RKz5nG67MROnbKyfbIQYF) | [Can't Be Me](https://open.spotify.com/album/1A4WZFYoCbyi0AX31CGX0P) | 3:15 | 2023-09-24 | 2023-12-14 |
 | [Catwalk](https://open.spotify.com/track/5gaVKMc6nadZFqZEf59guL) | [Kaishi](https://open.spotify.com/artist/6fasy0xC15SV7Z5yWnJtZI) | [Catwalk](https://open.spotify.com/album/2k9LatThz4DjlduXaQ2XOk) | 3:04 | 2023-08-20 | 2023-09-26 |
 | [Cerco il Nirvana](https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Cerco il Nirvana](https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T) | 3:20 | 2025-12-06 | 2026-01-03 |
@@ -182,6 +183,7 @@
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-24 | 2023-12-14 |
 | [Fantasy](https://open.spotify.com/track/0F1OJm1TvEJWrB0p3jbk01) | [ISSA \(BR\)](https://open.spotify.com/artist/6HLLZWMPaNgwJJ8UsnlcpJ), [GADELHA](https://open.spotify.com/artist/4eiBj8M536PZYheVAgk8J4) | [Fantasy](https://open.spotify.com/album/4LNSeysWGFiBaJpcxZs6nT) | 3:12 | 2024-04-14 | 2024-07-08 |
 | [Feel Alive](https://open.spotify.com/track/2viyo7eQgnreJ1YNzQIr1N) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh), [Movha](https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN) | [Feel Alive](https://open.spotify.com/album/1pXvQPpR6Fsv2Wk2jMlbGx) | 3:29 | 2025-12-15 | 2026-01-03 |
+| [Feel Ya](https://open.spotify.com/track/5LHMNUlZhXiNQl1uDZ5P4A) | [Bizu Pawa](https://open.spotify.com/artist/1d8mMbsdV0DpQNKKsb5Wiu) | [Feel Ya](https://open.spotify.com/album/3z8ZFf8P3HHwKIHBLoajPi) | 2:46 | 2026-03-26 |  |
 | [Ferda](https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw) | [Avenue](https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3), [SADYOUTH](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Ferda](https://open.spotify.com/album/6F1ehz6wqX9Cxrg3jidwtW) | 3:46 | 2023-03-19 | 2023-04-10 |
 | [Fever](https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fever](https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM) | 2:52 | 2023-04-09 | 2023-05-01 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-16 | 2023-08-09 |
@@ -252,6 +254,7 @@
 | [House Y'all](https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [House Y'all](https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty) | 2:35 | 2023-09-24 | 2023-12-14 |
 | [How We Get Down](https://open.spotify.com/track/7wLTQOUSE3sH3QsY6TI1Zx) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [How We Get Down](https://open.spotify.com/album/3LXZzUYOfJZHR8UkVvNTUA) | 3:18 | 2023-02-19 | 2023-03-13 |
 | [Hypnotic](https://open.spotify.com/track/0WtQ8FhsYSnFiV5Z79wJNM) | [One Step](https://open.spotify.com/artist/3CWZfKJb8q2nr7yPfIwPyM) | [Hypnotic](https://open.spotify.com/album/3BXld0CZE76eYK0QVhNl5W) | 3:02 | 2026-03-13 |  |
+| [I Am the Fleeting Dance Between Them](https://open.spotify.com/track/6Fwd6XI6pnxPQ2HFwUZhcI) | [DJ MARC ASTELL](https://open.spotify.com/artist/2laMIA9iOtGhKmy8OmiEQZ) | [I Am the Fleeting Dance Between Them](https://open.spotify.com/album/5ifKo0WbyCb5BgQvwR3rj9) | 5:14 | 2026-03-26 |  |
 | [I Bet](https://open.spotify.com/track/0Eb9EhGnrvmGSQfUaWR0ap) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW) | [Mother F\*ck EP](https://open.spotify.com/album/2QGaeAUXVkLuWdDSpMiI1f) | 5:18 | 2023-08-13 | 2023-09-26 |
 | [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2023-12-10 | 2024-02-19 |
 | [I Dont Need That](https://open.spotify.com/track/10DFJjhf353hgaOvCfXy4p) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [I Don't Need That](https://open.spotify.com/album/162TXv6fgowsryzr3Z7jxx) | 2:25 | 2024-07-07 |  |
@@ -305,6 +308,7 @@
 | [Less That](https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [No Break](https://open.spotify.com/artist/4mZ0SNrLR1DPVB86E8iLqQ) | [Less That](https://open.spotify.com/album/4R7gY27TiEhuGPNO5wJknN) | 3:10 | 2023-01-22 | 2023-02-13 |
 | [Let Go](https://open.spotify.com/track/1CYsrtqOAPIS8lmfkWa6z9) | [Lucio Momo](https://open.spotify.com/artist/38gaYwGmxGHKk52MVhWMqb), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Let Go](https://open.spotify.com/album/1L0lgzWz7pvDjPwYovZ1RM) | 5:22 | 2026-03-03 |  |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-04 | 2024-03-25 |
+| [Let's have some fun](https://open.spotify.com/track/4iEP6Bn4Nem8k9sTohGTDA) | [RobiBang](https://open.spotify.com/artist/0xEo1A3ol26F9Ld1GO3fBI) | [Let's have some fun](https://open.spotify.com/album/28mXbzzHVE6qjRxd4kDIgF) | 2:48 | 2026-03-26 |  |
 | [Letters in Static](https://open.spotify.com/track/1wCbdUmXHP0d0OkwSC8wl4) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Parallel Skies: Future Garage & Cinematic Bass \(Vol\. 1\)](https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB) | 4:10 | 2026-03-23 |  |
 | [Let´ s go with the first](https://open.spotify.com/track/4bnqk2vaEJSFFQRB1WOJKd) | [BEAT MOTION](https://open.spotify.com/artist/1kBrqqDw14ez06tsyOozBF) | [Let´ s go with the first](https://open.spotify.com/album/3vjEW77nDDoackyfc7TlI4) | 8:00 | 2026-03-20 |  |
 | [Liberty](https://open.spotify.com/track/64vnvKNR4XDM2DoFxBwAH0) | [Capitan Anderson](https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4) | [Liberty / Equanimity](https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4) | 5:40 | 2026-02-14 | 2026-02-23 |

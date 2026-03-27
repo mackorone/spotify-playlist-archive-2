@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Ty Myers
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,086 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,123 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 17 | [No Need For Leavin'](https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [No Need For Leavin'](https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6) | 3:35 |
 | 18 | [Morning Coffee](https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Morning Coffee](https://open.spotify.com/album/0bi4ncyJTGZvi4eP8PIZFn) | 3:02 |
 | 19 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 |
-| 20 | [W.T.A.](https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [W.T.A.](https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M) | 3:22 |
+| 20 | [w.t.a.](https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [w.t.a.](https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M) | 3:22 |
 | 21 | [Feeling On My Body](https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80) | [Taffy](https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Feeling On My Body](https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq) | 2:37 |
 | 22 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 |
 | 23 | [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 |

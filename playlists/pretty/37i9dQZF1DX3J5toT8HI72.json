@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 832946,
+  "num_followers": 833006,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-13 19:14:40",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
-    },
-    {
-      "added_at": "2026-03-13 19:14:40",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 223808,
       "name": "Do Que \u00e9 Feito o Amor?",
       "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
+    },
+    {
+      "added_at": "2026-03-13 19:14:40",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2026-03-13 19:14:40",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-13 19:14:40",
       "album": {
-        "name": "AMAReS\u00d3 (Ao Vivo Com Orquestra)",
-        "url": "https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "AMAReS\u00d3 - Ao Vivo Com Orquestra",
-      "url": "https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o"
-    },
-    {
-      "added_at": "2026-03-13 19:14:40",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 134755,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
+    },
+    {
+      "added_at": "2026-03-13 19:14:40",
+      "album": {
+        "name": "AMAReS\u00d3 (Ao Vivo Com Orquestra)",
+        "url": "https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "AMAReS\u00d3 - Ao Vivo Com Orquestra",
+      "url": "https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o"
     },
     {
       "added_at": "2026-03-13 19:14:40",

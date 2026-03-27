@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166886,
+  "num_followers": 166888,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Hard Fought Hallelujah (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 316002,
-      "name": "Hard Fought Hallelujah (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
+      },
+      "artists": [
+        {
+          "name": "Jayme Lawson",
+          "url": "https://open.spotify.com/artist/6sjYs9G2TY5CqCxp3N9XmK"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Pale, Pale Moon",
+      "url": "https://open.spotify.com/track/3gpofCUBcNhtLy2mN0ioE5"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Let The Church Sing",
         "url": "https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 240520,
       "name": "The Birds Don't Sing",
       "url": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Sinners (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
-      },
-      "artists": [
-        {
-          "name": "Jayme Lawson",
-          "url": "https://open.spotify.com/artist/6sjYs9G2TY5CqCxp3N9XmK"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "Pale, Pale Moon",
-      "url": "https://open.spotify.com/track/3gpofCUBcNhtLy2mN0ioE5"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "\u00bfY ahora qu\u00e9?",
-        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Wild and Clear and Blue",
         "url": "https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 214762,
       "name": "Ancient Light",
       "url": "https://open.spotify.com/track/7zW1oZZy5m8zpJZfRfwGKv"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "\u00bfY ahora qu\u00e9?",
+        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
     },
     {
       "added_at": "2025-11-12 17:50:29",

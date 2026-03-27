@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 50509,
+  "num_followers": 50518,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "1000 Watts",
         "url": "https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 199077,
       "name": "Chambac\u00fa",
       "url": "https://open.spotify.com/track/5R2hXwoRB4gIgoNXoUuK51"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Los Olvidados",
-      "url": "https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mar Iguana",
         "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
       },
@@ -859,22 +839,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Caminito de mi Pueblo",
         "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
@@ -891,6 +855,42 @@
       "duration_ms": 243114,
       "name": "Caminito de mi Pueblo",
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Los Olvidados",
+      "url": "https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Churro Vs. Crow",
-        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Churro Vs. Crow",
-      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mary Sol",
         "url": "https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 250000,
       "name": "Mary Sol",
       "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Churro Vs. Crow",
+        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Churro Vs. Crow",
+      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La Era del GigaHertz",
         "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 306689,
       "name": "La Era del GigaHertz",
       "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
+      },
+      "artists": [
+        {
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
+        }
+      ],
+      "duration_ms": 160067,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
         "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 216826,
       "name": "Abducci\u00f3n Amazonica, Lamento en la Selva - Remix",
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 160067,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
         }
       ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
+      "duration_ms": 204693,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
     }
   ],
   "unique_name": "TROPILOCO",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Artie 5ive in cover della playlist urban pi\u00f9 grande d'Italia \ud83c\udfba",
+  "description": "Madame in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -483,6 +483,32 @@
     },
     {
       "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "200 MOTIVI (feat. Ernia)",
+      "url": "https://open.spotify.com/track/4YdanSko5467SjOaVKWlxJ"
+    },
+    {
+      "album": {
         "name": "UFORIA",
         "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
       },
@@ -498,6 +524,24 @@
       "duration_ms": 163939,
       "name": "2000 Pensieri",
       "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
+    },
+    {
+      "album": {
+        "name": "2K LACRIME",
+        "url": "https://open.spotify.com/album/4iX4AusBaJ2cpRHonGTk0L"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "2K LACRIME",
+      "url": "https://open.spotify.com/track/110Ws37zgNXkjalo9p21Ql"
     },
     {
       "album": {
@@ -612,6 +656,28 @@
       "duration_ms": 122076,
       "name": "3SOME (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB"
+    },
+    {
+      "album": {
+        "name": "4 Gambe",
+        "url": "https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141802,
+      "name": "4 Gambe",
+      "url": "https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY"
     },
     {
       "album": {
@@ -1448,7 +1514,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 184803,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
@@ -1940,7 +2006,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 132666,
       "name": "Art Attack",
       "url": "https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj"
@@ -4618,7 +4684,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 203859,
       "name": "CHANELINA SOUBRETTE (feat. Disme & Ele A)",
       "url": "https://open.spotify.com/track/5CZOHxLhZohdhmUotp8SHR"
@@ -6496,7 +6562,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 138947,
       "name": "DRIP DROP",
       "url": "https://open.spotify.com/track/2G6evQinarS5tPBgU9Zh89"
@@ -7576,7 +7642,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 178934,
       "name": "FINALE DIVERSO (feat. Shiva)",
       "url": "https://open.spotify.com/track/5fJioNT3gcSavYrplGXmqF"
@@ -8401,6 +8467,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160964,
+      "name": "Gilgamesh",
+      "url": "https://open.spotify.com/track/09wmUkefYD7B2IWpHP6v3P"
+    },
+    {
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -8728,7 +8812,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187868,
       "name": "GRANATA (feat. 22Simba)",
       "url": "https://open.spotify.com/track/0ECuLZrYdjiIGbZgqtCKXb"
@@ -12077,6 +12161,24 @@
     },
     {
       "album": {
+        "name": "MAN OF THE YEAR",
+        "url": "https://open.spotify.com/album/3y1OgsNyu0BzU0PCNdCNTR"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183999,
+      "name": "MAN OF THE YEAR",
+      "url": "https://open.spotify.com/track/5GnxXxy4SSSpWZjhURler1"
+    },
+    {
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -14408,7 +14510,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168000,
       "name": "NON SEMBRIAMO FELICI",
       "url": "https://open.spotify.com/track/3FCiuvma5oIbrIPS05LyPQ"
@@ -14999,6 +15101,24 @@
     },
     {
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0gHO8mZTMTQMNRxQgZrwuD"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4Omankg1sEMCJEieJGduI8"
+    },
+    {
+      "album": {
         "name": "okk@pp@",
         "url": "https://open.spotify.com/album/2Ev7vWEFWmMsWdiZZKgVR1"
       },
@@ -15254,6 +15374,32 @@
       "duration_ms": 200357,
       "name": "Orange",
       "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
+    },
+    {
+      "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "ORDINARIA FOLLIA (feat. Franco126)",
+      "url": "https://open.spotify.com/track/2rqxTIXwORh2uvyJzGoMQR"
     },
     {
       "album": {
@@ -18022,7 +18168,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 156342,
       "name": "Rivincita",
       "url": "https://open.spotify.com/track/58IaLYnyQ787qajqSBVHFq"
@@ -19888,6 +20034,24 @@
       "duration_ms": 138869,
       "name": "Stare Senza (feat. Fashion Forty)",
       "url": "https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt"
+    },
+    {
+      "album": {
+        "name": "STATI D'ANIMO",
+        "url": "https://open.spotify.com/album/1B6AdxZ6xbLjnCaUwUN8oT"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "STATI D'ANIMO",
+      "url": "https://open.spotify.com/track/73OPvX1jBGbNAe71YE2fws"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Nala Sinephro. The essential tracks, all in one playlist.",
-  "num_followers": 994,
+  "num_followers": 996,
   "original_name": "This Is Nala Sinephro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADzUc+37FPXV3awlc9yccQ0",
+  "snapshot_id": "acMlgAAAAAB8Wv4n0v4lxYh0Q4wt59B4",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 75000,
-      "name": "The High",
-      "url": "https://open.spotify.com/track/6v3dhvL7kU8wPd6HESPS35"
+      "duration_ms": 103750,
+      "name": "Mark",
+      "url": "https://open.spotify.com/track/5m436FJqMOFUn6u00CPcnM"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 103750,
-      "name": "Mark",
-      "url": "https://open.spotify.com/track/5m436FJqMOFUn6u00CPcnM"
+      "duration_ms": 75000,
+      "name": "The High",
+      "url": "https://open.spotify.com/track/6v3dhvL7kU8wPd6HESPS35"
     },
     {
       "added_at": null,

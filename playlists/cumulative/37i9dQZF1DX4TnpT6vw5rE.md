@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-422 songs - 23 hr 11 min
+423 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [After 4AM](https://open.spotify.com/track/7JfqZOTWsA8pNtGrsaPHhU) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA) | [The Branches](https://open.spotify.com/album/0uxx3Q7y6wLjUnvzamYOCR) | 6:42 | 2020-12-08\* | 2021-03-06 |
 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 | 2025-07-15 | 2025-10-02 |
 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 | 2021-07-24 |  |
-| [Algific](https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Algific](https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe) | 3:04 | 2024-06-10 |  |
+| [Algific](https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Algific](https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe) | 3:04 | 2024-06-10 | 2026-03-27 |
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [amber leaf](https://open.spotify.com/track/2n4hOki9aAelRqsVEXxaI0) | [allbelow](https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4) | [amber leaf](https://open.spotify.com/album/1YgrJbcX5jzBFhNSLiuIOg) | 2:04 | 2025-12-10 | 2026-02-13 |
 | [Among The Stars](https://open.spotify.com/track/7axkIOMIOCYECef9H6HbTs) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Among The Stars](https://open.spotify.com/album/6AtGi9oQpMuRBp43ugdxr4) | 2:58 | 2025-10-01 |  |
@@ -144,6 +144,7 @@
 | [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 | 2026-02-13 |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2025-07-16 |
 | [Endless Horizons](https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Endless Horizons](https://open.spotify.com/album/616Kuhwk6PUqLzZwInp9yW) | 2:22 | 2025-02-26 |  |
+| [Endless Sky](https://open.spotify.com/track/07uOWWv9HviCYCc0D6xE2A) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Endless Sky](https://open.spotify.com/album/5FP33gbyS9UDYVK5viOH2O) | 3:01 | 2026-02-12 |  |
 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 | 2026-03-05 |
 | [Envision](https://open.spotify.com/track/3QG6JoaGwxU2zNUDg0Zcac) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Envision](https://open.spotify.com/album/2IgSdhA4y6Dv3D7q54OyT0) | 2:34 | 2023-07-28 | 2023-10-24 |
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-16 | 2025-09-18 |

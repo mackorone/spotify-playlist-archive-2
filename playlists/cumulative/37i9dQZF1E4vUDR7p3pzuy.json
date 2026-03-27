@@ -598,7 +598,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 238437,
       "name": "Fake Love - Rock Remix",
       "url": "https://open.spotify.com/track/1ljd5NB7YLcUBMiA5f3eEF"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 136000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6yxiMSrPbysUBvl3EKeww3"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 277974,
       "name": "Inch",
       "url": "https://open.spotify.com/track/0MVryPCDR3AENhSadZOSyh"
@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 230952,
       "name": "Juicy Lucy",
       "url": "https://open.spotify.com/track/2p3uS5Tx2LcCYHXX3WT4Kh"
@@ -5183,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "Magick Knives",
+        "url": "https://open.spotify.com/album/4dVtNNTvEqKboGUihfnQ12"
+      },
+      "artists": [
+        {
+          "name": "Magick Knives",
+          "url": "https://open.spotify.com/artist/0ymV9NRQGJOfWWVTi5OosO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318634,
+      "name": "Me vs You",
+      "url": "https://open.spotify.com/track/7syrqaq98tcJGwSgCEOs60"
+    },
+    {
+      "album": {
         "name": "Men Putting Words in the Mouths of Gods (Judas and the Pilot Remix)",
         "url": "https://open.spotify.com/album/2DLxnzMFqSUZCG8TCevIOr"
       },
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5544,7 +5562,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
@@ -5888,7 +5906,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 213937,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/4OIDgQifs1MGAsjeFNnF6R"
@@ -6162,7 +6180,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Politics of Love",
       "url": "https://open.spotify.com/track/6WxM7FGGsL2CZvgZEXmGzw"
@@ -6770,7 +6788,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Sanguine",
       "url": "https://open.spotify.com/track/7rARuszC0Pa239vUm2JZoV"
@@ -8130,7 +8148,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 208993,
       "name": "The Crushed",
       "url": "https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo"
@@ -8152,6 +8170,24 @@
       "duration_ms": 464842,
       "name": "The Crypt Of Misery",
       "url": "https://open.spotify.com/track/7pKgnTEzbreTiEWGbWwjWZ"
+    },
+    {
+      "album": {
+        "name": "The Pink Mist",
+        "url": "https://open.spotify.com/album/36hyhTd2dbynl7bE8SgC6A"
+      },
+      "artists": [
+        {
+          "name": "The Pink Mist",
+          "url": "https://open.spotify.com/artist/3VOZc48Si8bpz4iiitt59o"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257309,
+      "name": "The Day After",
+      "url": "https://open.spotify.com/track/1USFHPbSX1xxLcmvdCkwDi"
     },
     {
       "album": {
@@ -8310,7 +8346,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 185961,
       "name": "The Outlaw's Bride",
       "url": "https://open.spotify.com/track/5KpPAWapq4upDFsi313P2v"

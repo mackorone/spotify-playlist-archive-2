@@ -4,7 +4,7 @@
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-137 songs - 7 hr 25 min
+138 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [I Can't Hold Out \(Talk To Me Baby\) \- Live](https://open.spotify.com/track/3h9L1ZMNCKnovn4FQOO2Tb) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Shape I'm In \(Live Boston '73\)](https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3) | 4:49 | 2022-10-20 | 2022-10-22 |
 | [I Can't Stop Loving You \- Live](https://open.spotify.com/track/3fUhPjw5vgRRpTLBRBFlxx) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Shape I'm In \(Live Boston '73\)](https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3) | 4:13 | 2023-12-31 | 2024-03-13 |
 | [I Didn't Mean to Hurt Your Feelings \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 5:34 | 2024-07-01 | 2024-11-16 |
-| [I Didn't Mean to Hurt Your Feelings \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:34 | 2026-03-23 | 2026-03-26 |
+| [I Didn't Mean to Hurt Your Feelings \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:34 | 2026-03-23 |  |
 | [I Got A Woman](https://open.spotify.com/track/7n5v9vXPBb9CLg23gyC6sI) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames \(25 Blues Originals\)](https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM) | 3:23 | 2022-08-14 | 2022-10-01 |
 | [I Have A Little Girl \- Single Version](https://open.spotify.com/track/1CDPjRMffgPz67MgGySoRy) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:34 | 2022-08-05 | 2024-07-23 |
 | [I Smell A Rat](https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Message To The Young](https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ) | 2:41 | 2024-04-08 |  |
@@ -88,6 +88,7 @@
 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 | 2022-08-05 |  |
 | [Louise](https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:45 | 2022-08-05 |  |
 | [Love Me \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/24WvMZQn89ClIfzNvWvMac) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 6:27 | 2024-07-03 | 2024-11-03 |
+| [Love Me Darling \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/2RmWAVjMZAJ87jnTEjYQkN) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 6:28 | 2026-03-27 |  |
 | [Moanin' At Midnight](https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:56 | 2022-08-08 | 2024-07-19 |
 | [Moanin' For My Baby](https://open.spotify.com/track/3GVbKBdl5s9ZqSONTBCf9H) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:51 | 2022-08-05 | 2024-05-16 |
 | [Moving](https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:47 | 2022-08-05 |  |

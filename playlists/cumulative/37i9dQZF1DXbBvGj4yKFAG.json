@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 84500,
       "name": "(dream) - remaster",
       "url": "https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz"
@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "disappear",
+        "url": "https://open.spotify.com/album/4mPSNiCimAu1Kw8uXaQmiJ"
+      },
+      "artists": [
+        {
+          "name": "ps goner",
+          "url": "https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274411,
+      "name": "disappear",
+      "url": "https://open.spotify.com/track/2pxvXh3qnfN8wOVcJtlMDt"
+    },
+    {
+      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 203625,
       "name": "Falling Apart Without You",
       "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
@@ -4140,6 +4158,24 @@
       "duration_ms": 194430,
       "name": "To Death",
       "url": "https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE"
+    },
+    {
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
     },
     {
       "album": {

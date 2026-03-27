@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Batuflex",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: UZI x Arem Ozguc x Arman Aydin",
   "name": "NKVT",
   "tracks": [
     {
@@ -116,6 +116,28 @@
       "duration_ms": 141570,
       "name": "10.000 Par\u00e7a",
       "url": "https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O"
+    },
+    {
+      "album": {
+        "name": "1000 VOLT",
+        "url": "https://open.spotify.com/album/5QLTUhPTeFeE6KtkFFJ8qu"
+      },
+      "artists": [
+        {
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        },
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "1000 VOLT",
+      "url": "https://open.spotify.com/track/3kQamEOjqu3IeMQheWiyyk"
     },
     {
       "album": {
@@ -265,6 +287,28 @@
     },
     {
       "album": {
+        "name": "57",
+        "url": "https://open.spotify.com/album/7A4B937zdGSlOdZAc5oQCh"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "57",
+      "url": "https://open.spotify.com/track/6n6Qy0b2bNrRsAS5bU1pqd"
+    },
+    {
+      "album": {
         "name": "6.4 MM",
         "url": "https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo"
       },
@@ -382,7 +426,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 169601,
       "name": "9. SENFON\u0130",
       "url": "https://open.spotify.com/track/5HjteTM5JZ7fZSm6dupnm9"
@@ -914,6 +958,24 @@
       "duration_ms": 176862,
       "name": "Alpi",
       "url": "https://open.spotify.com/track/0Qswuc7isupiZ5DGxYsRvA"
+    },
+    {
+      "album": {
+        "name": "Alt\u0131n Kafes",
+        "url": "https://open.spotify.com/album/6z3Nn6YDXswawyLJ1KjAI4"
+      },
+      "artists": [
+        {
+          "name": "Mode XL",
+          "url": "https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "Alt\u0131n Kafes",
+      "url": "https://open.spotify.com/track/3Cckv6NnTgFCvWxa8hCLPk"
     },
     {
       "album": {
@@ -2202,7 +2264,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 166560,
       "name": "BARRYTONE FREESTYLE",
       "url": "https://open.spotify.com/track/6jSlbOKx2ICTbmyYAjMypX"
@@ -6080,7 +6142,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 169846,
       "name": "ge\u00e7mez sand\u0131n",
       "url": "https://open.spotify.com/track/0lYbYWxjplgUPgSCg6cO7y"
@@ -7306,7 +7368,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 159840,
       "name": "herhalde",
       "url": "https://open.spotify.com/track/2vi7n71iNVeKG8LDKfdLFE"
@@ -9743,6 +9805,32 @@
     },
     {
       "album": {
+        "name": "KONSEY",
+        "url": "https://open.spotify.com/album/0zK8oweUTB0PqFvwLc1ljf"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132020,
+      "name": "KONSEY",
+      "url": "https://open.spotify.com/track/2DDpNQhaJIuGJH3BYK6fYg"
+    },
+    {
+      "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
       },
@@ -9820,7 +9908,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 183750,
       "name": "KORK",
       "url": "https://open.spotify.com/track/7amjrJygBsvIVFqfaTs5Rs"
@@ -13690,7 +13778,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 138004,
       "name": "R&J",
       "url": "https://open.spotify.com/track/20zqmQ8vsWM0Fraotr2lAI"
@@ -14050,7 +14138,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 173164,
       "name": "Rodman Dennis",
       "url": "https://open.spotify.com/track/0OWGvNtLbF24rWytqMJzdn"
@@ -14278,6 +14366,24 @@
       "duration_ms": 142135,
       "name": "R\u00dcSVA",
       "url": "https://open.spotify.com/track/53skOuhGEV38Z8qX8ZsOW1"
+    },
+    {
+      "album": {
+        "name": "R\u00fcya Gibiydin",
+        "url": "https://open.spotify.com/album/1boVHfsKiExh1Pe6zDo2Jl"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179657,
+      "name": "R\u00fcya Gibiydin",
+      "url": "https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw"
     },
     {
       "album": {
@@ -15031,6 +15137,28 @@
     },
     {
       "album": {
+        "name": "sensiz",
+        "url": "https://open.spotify.com/album/0UBo52io946Rt1ac9FjAbw"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Waxy",
+          "url": "https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "sensiz",
+      "url": "https://open.spotify.com/track/4cCNcPm558Y2uRuFUbQjtW"
+    },
+    {
+      "album": {
         "name": "serseri g\u00fcnl\u00fc\u011f\u00fc",
         "url": "https://open.spotify.com/album/56ROwQJPLeqJnm2ickGSEt"
       },
@@ -15158,7 +15286,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/7qvOPqDhi5dv3qpHONKtvd"
@@ -16229,6 +16357,28 @@
     },
     {
       "album": {
+        "name": "Tanr\u0131 \u015eahidim",
+        "url": "https://open.spotify.com/album/0wrOprvdXYjaHSsy6GhIvK"
+      },
+      "artists": [
+        {
+          "name": "Bekom",
+          "url": "https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy"
+        },
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Tanr\u0131 \u015eahidim",
+      "url": "https://open.spotify.com/track/05iZG2c93wgIZd3LSr6fl6"
+    },
+    {
+      "album": {
         "name": "Tarifi Yok",
         "url": "https://open.spotify.com/album/5j5pCGgJyR72vHnSIbRBcK"
       },
@@ -16500,6 +16650,24 @@
       "duration_ms": 94285,
       "name": "Tom&Jerry - Walk And Flow",
       "url": "https://open.spotify.com/track/3xo2UqVRVmjSXtlN83y2Ty"
+    },
+    {
+      "album": {
+        "name": "Klasik Part 3 : \u00c7i\u00e7ek B\u00f6cek",
+        "url": "https://open.spotify.com/album/6DnYAMzGPGlko2hLIqZ5rs"
+      },
+      "artists": [
+        {
+          "name": "\u00c7a\u011fr\u0131 Sinci",
+          "url": "https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7"
     },
     {
       "album": {
@@ -17510,7 +17678,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 193333,
       "name": "Yalanlar",
       "url": "https://open.spotify.com/track/3hmIAuBnYZrPzFNu0x0K0A"
@@ -17802,6 +17970,24 @@
       "duration_ms": 143999,
       "name": "yar\u0131na kadar",
       "url": "https://open.spotify.com/track/6vlXoQbbKPl1uDXnTOCCZQ"
+    },
+    {
+      "album": {
+        "name": "Ya\u015fanmayana",
+        "url": "https://open.spotify.com/album/4mZGtJiPkELUT51OYLTMuT"
+      },
+      "artists": [
+        {
+          "name": "La\u00e7in",
+          "url": "https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141502,
+      "name": "Ya\u015fanmayana",
+      "url": "https://open.spotify.com/track/4cOc2v9ofIpklWZUTn6l2m"
     },
     {
       "album": {
@@ -18222,6 +18408,24 @@
       "duration_ms": 132260,
       "name": "Y\u00dcKSEK",
       "url": "https://open.spotify.com/track/55gtNEkxnIKu6LE2AuX09M"
+    },
+    {
+      "album": {
+        "name": "Y\u0131ld\u0131z",
+        "url": "https://open.spotify.com/album/3d2u80ZPa6fgQVaphJ9K8o"
+      },
+      "artists": [
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82500,
+      "name": "Y\u0131ld\u0131z",
+      "url": "https://open.spotify.com/track/4XY3xDMhubN6cUF5OITpdA"
     },
     {
       "album": {
@@ -18910,7 +19114,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 156831,
       "name": "\u015eans & Para",
       "url": "https://open.spotify.com/track/1ygSfFq5dgWAsAZ9n6cmFR"

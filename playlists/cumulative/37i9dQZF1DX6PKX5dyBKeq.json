@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Central Cee",
   "name": "Rap UK",
   "tracks": [
     {
@@ -20787,6 +20787,24 @@
     },
     {
       "album": {
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+    },
+    {
+      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
@@ -22105,6 +22123,24 @@
     },
     {
       "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/2q1IGT2c4uzBSikM239eZQ"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211003,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/5dNJKE7Ck8UGnjAv7C4X2t"
+    },
+    {
+      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/1DWWezFubs1rV18mrg4F4F"
       },
@@ -22382,7 +22418,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 109581,
       "name": "Kat Slater - Native Remedies Remix",
       "url": "https://open.spotify.com/track/0lkEQmDMMgoNIKL7drwOzA"
@@ -25122,7 +25158,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -29568,7 +29604,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 198256,
       "name": "No Weapons (feat. Jim Legxacy)",
       "url": "https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt"
@@ -42467,6 +42503,24 @@
     },
     {
       "album": {
+        "name": "NO SLEEP",
+        "url": "https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F"
+    },
+    {
+      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/3QyY7JuRAUb9TPTRL26ccs"
       },
@@ -44240,6 +44294,24 @@
       "duration_ms": 116879,
       "name": "Wagashi",
       "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
+    },
+    {
+      "album": {
+        "name": "ALL ROADS LEAD HOME",
+        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
     },
     {
       "album": {

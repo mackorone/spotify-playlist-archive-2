@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Sleeping With Sirens",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Future Palace",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
+    },
+    {
+      "album": {
+        "name": "21 Demons (Boom Boom!)",
+        "url": "https://open.spotify.com/album/53ENzaJ0tLcBV9HBqJEx7l"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153146,
+      "name": "21 Demons (Boom Boom!)",
+      "url": "https://open.spotify.com/track/4FGoBJ8EV9fCDmfu7EEVQa"
     },
     {
       "album": {
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 205963,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4cImz6ALStITqRds60YUmF"
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 172759,
       "name": "For You",
       "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
@@ -5698,7 +5716,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 188750,
       "name": "Ghost in the Water",
       "url": "https://open.spotify.com/track/3Bl3vrLROHU1JYAIVHKOGJ"
@@ -6376,7 +6394,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 100677,
       "name": "HAPPINESS IS A LIE",
       "url": "https://open.spotify.com/track/066zNHL0jnl0dUkBAf5hfY"
@@ -6800,7 +6818,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
@@ -8166,7 +8184,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 238276,
       "name": "Let There Be Shred",
       "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
@@ -9254,6 +9272,24 @@
       "duration_ms": 177789,
       "name": "Mental Hoax (H\u00f6rt auf eure V\u00e4ter)",
       "url": "https://open.spotify.com/track/33KYr5L8wMpXpFUFB4hbkC"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229227,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL"
     },
     {
       "album": {
@@ -10464,7 +10500,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 160025,
       "name": "Only The Strong",
       "url": "https://open.spotify.com/track/01PYqCU3EQi8jketudOH7h"
@@ -13479,6 +13515,24 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/6JI4VtCLlJMIu3SPyxsJsc"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246714,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2gMRPkCqwH7ckgzFfjAF3d"
+    },
+    {
+      "album": {
         "name": "Swallow This",
         "url": "https://open.spotify.com/album/5Qs7xaSy2n64WKlwe8bA3H"
       },
@@ -14439,6 +14493,24 @@
     },
     {
       "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/3HPls3SkpDmwve8gJuDfFG"
+      },
+      "artists": [
+        {
+          "name": "Slope",
+          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/5189VQ1JN5I2PItGNmOebP"
+    },
+    {
+      "album": {
         "name": "Time Bomb",
         "url": "https://open.spotify.com/album/4gyN1dpfEzQBnSYRBk2NZl"
       },
@@ -14659,6 +14731,42 @@
     },
     {
       "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/2MQ39rksQixYxqoLj51SeC"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/41lWYRIVm2DUFIfrx1TAwN"
+    },
+    {
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/1hBfXWZiB3PewI8a2LKhGB"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/0a9xuyOkF7uIaEX7bgxZsb"
+    },
+    {
+      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8"
       },
@@ -14782,6 +14890,28 @@
       "duration_ms": 274000,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
+    },
+    {
+      "album": {
+        "name": "Nightmare Tripping",
+        "url": "https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212287,
+      "name": "True Believers (Feat. Sam Carter)",
+      "url": "https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN"
     },
     {
       "album": {
@@ -15010,7 +15140,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 175446,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
@@ -15277,6 +15407,32 @@
     },
     {
       "album": {
+        "name": "Villainous (feat. Maria Brink of In This Moment)",
+        "url": "https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Maria Brink",
+          "url": "https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR"
+        },
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "Villainous (feat. Maria Brink of In This Moment)",
+      "url": "https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X"
+    },
+    {
+      "album": {
         "name": "Violence (feat. As December Falls)",
         "url": "https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1"
       },
@@ -15422,7 +15578,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 254796,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/0xA9lVFIMEVMx3XY6B9DVj"
@@ -15654,7 +15810,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,364 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,369 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 39 | [Just Such Beauty](https://open.spotify.com/track/11XUNxCy1Ry7lAPMCMHsZW) | [Paul Adams](https://open.spotify.com/artist/5qEDGvC2RIXBDMQ9vRjgp5), [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe), [Elizabeth Geyer](https://open.spotify.com/artist/1NfXeYNUy4x1LF6AYfqLRM) | [Imaginings](https://open.spotify.com/album/0bSGln3ne5RW6ri7ScrAYD) | 4:58 |
 | 40 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
 | 41 | [Ka Karoon Sajni \- Instrumental](https://open.spotify.com/track/70ryK0jYDmnsVhk3DlevQR) | [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Soulful Indian Flute Instrumentals](https://open.spotify.com/album/4GfgmRpUSyBlomg4N8oUQy) | 4:20 |
-| 42 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
-| 43 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
+| 42 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
+| 43 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
 | 44 | [Mountain Bird](https://open.spotify.com/track/4EaPLCrLWM8PdFNjvXf3iE) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Flutetronics](https://open.spotify.com/album/5LVsH3zmGKsvGypCeVMIHF) | 4:59 |
 | 45 | [Between Thoughts](https://open.spotify.com/track/1CRP3o6j10DCJ4HMbBQvnj) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Flute For Thought](https://open.spotify.com/album/5SSsDneKbYQb2blJsE49Xe) | 10:09 |
 | 46 | [Pyar Mein Kabhi Kabhi \- Unwind Instrumental](https://open.spotify.com/track/3MFpFBCBzQMhA9yTdQq8q4) | [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Soulful Indian Flute Instrumentals](https://open.spotify.com/album/4GfgmRpUSyBlomg4N8oUQy) | 3:37 |

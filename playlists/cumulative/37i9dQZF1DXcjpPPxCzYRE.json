@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245711,
       "name": "(ecco) - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6goFl44nCkfcZ6ZTyA8DmT"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 213359,
       "name": "Bajo este sol",
       "url": "https://open.spotify.com/track/0ER1mvGhvfhY1d4wQwUphT"
@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156478,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "album": {
         "name": "Brilla el sol",
         "url": "https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 202025,
       "name": "Brilla el sol",
       "url": "https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 216108,
       "name": "Caminar Sobre la Luna",
       "url": "https://open.spotify.com/track/2ETIE8drnfLbnj12WuvvcT"
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
@@ -2042,6 +2060,24 @@
       "duration_ms": 173333,
       "name": "DeSAFINADO",
       "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
+    },
+    {
+      "album": {
+        "name": "DESAYUNO",
+        "url": "https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147001,
+      "name": "DESAYUNO",
+      "url": "https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE"
     },
     {
       "album": {
@@ -2456,6 +2492,24 @@
       "duration_ms": 160695,
       "name": "el sur",
       "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
+    },
+    {
+      "album": {
+        "name": "El tiempo en que te vas",
+        "url": "https://open.spotify.com/album/2lcsIit738Oeo1pSppvoji"
+      },
+      "artists": [
+        {
+          "name": "Elena Carat",
+          "url": "https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "El tiempo en que te vas",
+      "url": "https://open.spotify.com/track/4jEPLg82tsyjSYy7H61FXQ"
     },
     {
       "album": {
@@ -4918,7 +4972,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
@@ -5788,7 +5842,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 253536,
       "name": "no fue real",
       "url": "https://open.spotify.com/track/6DGqrsX9qHiD9zwSV4qhZS"
@@ -5850,6 +5904,24 @@
       "duration_ms": 193731,
       "name": "No me dejes caer",
       "url": "https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl"
+    },
+    {
+      "album": {
+        "name": "no me importa",
+        "url": "https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200767,
+      "name": "no me importa",
+      "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
     },
     {
       "album": {
@@ -5980,6 +6052,24 @@
       "duration_ms": 212571,
       "name": "No tenemos tiempo",
       "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "album": {
+        "name": "Dollhouse",
+        "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176517,
+      "name": "No volver\u00e1n",
+      "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
     },
     {
       "album": {
@@ -6298,6 +6388,24 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddame",
+        "url": "https://open.spotify.com/album/7AL0d8NdaW52RzqyKrFNtV"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9 Llergo",
+          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270146,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/23mKr8PzAUn0xIe5UTry9F"
     },
     {
       "album": {
@@ -6836,7 +6944,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 146654,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
@@ -7320,7 +7428,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 161444,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/12ioDClbTNNgKPWDCWvqRp"
@@ -8110,6 +8218,24 @@
       "duration_ms": 183231,
       "name": "T'estimo tant",
       "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
+    },
+    {
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Carnaval \ud83d\udcf8",
-  "num_followers": 1299984,
+  "num_followers": 1300045,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "El Amor No Es Suficiente",
-        "url": "https://open.spotify.com/album/61jmwGb6asWDDtAghH1r03"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "El Amor No Es Suficiente",
-      "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "En Coma Inducido",
         "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Chalupas y buenas",
-        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
+        "name": "El Amor No Es Suficiente",
+        "url": "https://open.spotify.com/album/61jmwGb6asWDDtAghH1r03"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 156893,
-      "name": "Chalupas y buenas",
-      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
+      "duration_ms": 177533,
+      "name": "El Amor No Es Suficiente",
+      "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -647,6 +631,22 @@
       "duration_ms": 199066,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/1yGk4QwKxCHS5iXssJnvKE"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Chalupas y buenas",
+        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Chalupas y buenas",
+      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "La Dama",
-        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/3bV7v8bZVap0ziLBiAQe44"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 183565,
-      "name": "La Dama",
-      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
+      "duration_ms": 235408,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UKK4rrKtAZuMi0u0cUreX"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/3bV7v8bZVap0ziLBiAQe44"
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 235408,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UKK4rrKtAZuMi0u0cUreX"
+      "duration_ms": 183565,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Lo Veras de Lejos",
-        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Lo Veras de Lejos",
-      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "Me Esta Doliendo",
         "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 182582,
       "name": "Me Esta Doliendo",
       "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Lo Veras de Lejos",
+        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Lo Veras de Lejos",
+      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "De Nuestro Amor No Queda Nada",
-        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
         }
       ],
-      "duration_ms": 215364,
-      "name": "De Nuestro Amor No Queda Nada",
-      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+      "duration_ms": 217000,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1351,34 +1351,18 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
+        "name": "De Nuestro Amor No Queda Nada",
+        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
       },
       "artists": [
         {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
-        "name": "Mi \u00danico Camino",
-        "url": "https://open.spotify.com/album/4BqEDNUq6ZvSR3NpSMe8Jz"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 150204,
-      "name": "Mi \u00danico Camino",
-      "url": "https://open.spotify.com/track/6iJuKL7CZGJXAAv56HbH8q"
+      "duration_ms": 215364,
+      "name": "De Nuestro Amor No Queda Nada",
+      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
+        "name": "Mi \u00danico Camino",
+        "url": "https://open.spotify.com/album/4BqEDNUq6ZvSR3NpSMe8Jz"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 150204,
+      "name": "Mi \u00danico Camino",
+      "url": "https://open.spotify.com/track/6iJuKL7CZGJXAAv56HbH8q"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
         "name": "Los Que Amo",
         "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 206878,
       "name": "Los Que Amo",
       "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
-        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
-        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
-      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1451,6 +1435,22 @@
       "duration_ms": 264000,
       "name": "Ausencia Eterna",
       "url": "https://open.spotify.com/track/5vIQ3OpHYWtFfwzjoLovdZ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/656laHh59exvEFd0Ploq8K"
-      },
-      "artists": [
-        {
-          "name": "Banda 3 Rios",
-          "url": "https://open.spotify.com/artist/4z83zwAK572NpPQFQu7Jgv"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Para Toda La Vida",
-      "url": "https://open.spotify.com/track/4vdCYL6S8koDV3h3e9UlhY"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "Si No Te Tengo",
         "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 206193,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/656laHh59exvEFd0Ploq8K"
+      },
+      "artists": [
+        {
+          "name": "Banda 3 Rios",
+          "url": "https://open.spotify.com/artist/4z83zwAK572NpPQFQu7Jgv"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Para Toda La Vida",
+      "url": "https://open.spotify.com/track/4vdCYL6S8koDV3h3e9UlhY"
     },
     {
       "added_at": "2026-03-13 06:00:08",

@@ -5705,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "every!",
+        "url": "https://open.spotify.com/album/7122PHX1bTKPAOraFHwBlz"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207376,
+      "name": "every!",
+      "url": "https://open.spotify.com/track/7zUjMWNCguvdc3UTwysjSF"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/1lzsxFXavvdyNsoBuFE2ci"
       },
@@ -12692,7 +12710,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 167999,
       "name": "Microhabitat (feat. Kim gyeol)",
       "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"

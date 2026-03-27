@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 13 min
+101 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Cien Anos](https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 | 2022-06-01 |  |
 | [Como Estas Tú](https://open.spotify.com/track/0Bl6AJ3Ub5tXB0MyaJmwbK) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Fiesta de Cumbias Norteñas](https://open.spotify.com/album/7wvtD2pITOn1yjvtBWdoAX) | 2:49 | 2024-02-23 | 2024-04-10 |
 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 | 2022-06-01 | 2024-09-15 |
-| [Corazon de Vecindad](https://open.spotify.com/track/5Pfz4iOYQZc0ZOrkF5qX0W) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:09 | 2026-03-05 |  |
+| [Corazon de Vecindad](https://open.spotify.com/track/5Pfz4iOYQZc0ZOrkF5qX0W) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:09 | 2026-03-05 | 2026-03-27 |
 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 | 2022-06-01 |  |
 | [Creí \- Mariachi](https://open.spotify.com/track/4m0RdfKa9DcrhjdRJ00Iaz) | [Mariachi Monumental de America de Juan Jose Almaguer](https://open.spotify.com/artist/7nXvS0SJ0VDjfFF1T7Uqqw), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Creí \(Mariachi\)](https://open.spotify.com/album/3UoiTiRgEpwKYAjVkVrxM5) | 3:20 | 2022-06-01 | 2022-10-13 |
 | [Cuando Sola Estes](https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:07 | 2022-06-01 |  |
@@ -99,6 +99,7 @@
 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 | 2022-06-01 |  |
 | [Soy Un Idiota](https://open.spotify.com/track/3yXnPAGiq8MKG3Iyoi6m4t) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Recordando El Rey del Jaripeo](https://open.spotify.com/album/56kxugaFhb0Xb4siHyFNz9) | 3:30 | 2022-06-01 | 2022-10-26 |
 | [Te Pido y Te Ruego](https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Asomate a Mi Alma](https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph) | 2:54 | 2022-06-01 |  |
+| [Tierra Mala](https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:35 | 2026-03-27 |  |
 | [Tragos Amargos](https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:44 | 2022-06-01 |  |
 | [Tu Maldad](https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:15 | 2024-04-07 | 2026-03-25 |
 | [Un Dia A La Vez](https://open.spotify.com/track/238h81I9omBWy5aOI79iuJ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:17 | 2022-12-12 | 2023-01-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown emerging pop \ud83c\udf19\ncover: Kerr Mercer",
+  "description": "Homegrown emerging pop \ud83c\udf19\ncover: Arthur Hill",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/43bTJHnpLJxAFLzNLgylD0"
+      },
+      "artists": [
+        {
+          "name": "Grace Moore",
+          "url": "https://open.spotify.com/artist/5ex6gd5RBq3Og9mpptxChc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179286,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/1IIZBcfIXorlGDLxZBpsJp"
+    },
+    {
+      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy"
       },
@@ -2362,6 +2380,24 @@
       "duration_ms": 205110,
       "name": "borderline",
       "url": "https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK"
+    },
+    {
+      "album": {
+        "name": "Bottlemouth",
+        "url": "https://open.spotify.com/album/1ag5hxHZmZCU5NaUPkIh5Z"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Bottlemouth",
+      "url": "https://open.spotify.com/track/7AtSJqgvCDWnARg2GkCalv"
     },
     {
       "album": {
@@ -3248,6 +3284,24 @@
       "duration_ms": 182616,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT"
+    },
+    {
+      "album": {
+        "name": "The Carousel",
+        "url": "https://open.spotify.com/album/0UGI2VAN8jVKcJQCR1m8Km"
+      },
+      "artists": [
+        {
+          "name": "Michael Aldag",
+          "url": "https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170203,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/0zWS4KlUKrl2pV8up9JuOl"
     },
     {
       "album": {
@@ -5698,7 +5752,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 173485,
       "name": "Ends In Y",
       "url": "https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg"
@@ -6282,7 +6336,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 204505,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/1xoVeOqloSMv4hlcmRtAkk"
@@ -7492,7 +7546,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 204001,
       "name": "Goodbye Goodmorning",
       "url": "https://open.spotify.com/track/3tT0G35LmYq159xYGCBGSU"
@@ -10338,7 +10392,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 141453,
       "name": "Lauren",
       "url": "https://open.spotify.com/track/2k3gOKaOwWcERPQCeUWhxD"
@@ -12970,7 +13024,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 185227,
       "name": "Out Of Wine",
       "url": "https://open.spotify.com/track/3GmBZBdFrcipnjygnZkLkq"
@@ -13114,7 +13168,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 203400,
       "name": "Paracosm",
       "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
@@ -18537,6 +18591,24 @@
     },
     {
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/50j3DRgyvFOAMQg7CzpAkY"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213382,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/1ebgWRO8x7cJ7fLGg78hQ1"
+    },
+    {
+      "album": {
         "name": "Waiting For The Walls To Change",
         "url": "https://open.spotify.com/album/3AuI4FInQDWRBtAlp6Y496"
       },
@@ -19005,6 +19077,24 @@
     },
     {
       "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/5NfPxUyF5DdtKsOaynSLPK"
+      },
+      "artists": [
+        {
+          "name": "Dominic Wright",
+          "url": "https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182117,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6Epqcacr6V1DpxG00SoK22"
+    },
+    {
+      "album": {
         "name": "Woah Man!",
         "url": "https://open.spotify.com/album/6vVz2NNu2eqBZ7TKE1eCBZ"
       },
@@ -19074,6 +19164,24 @@
       "duration_ms": 207823,
       "name": "Woodwork",
       "url": "https://open.spotify.com/track/022LRJVvrMvlQme5saFlyL"
+    },
+    {
+      "album": {
+        "name": "Working On It",
+        "url": "https://open.spotify.com/album/51lHh1YbnV4PMww52y2A0L"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186959,
+      "name": "Working On It",
+      "url": "https://open.spotify.com/track/5OvP9Gtnk2zEuy7q4cxiLx"
     },
     {
       "album": {

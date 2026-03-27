@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 700906,
+  "num_followers": 701089,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,26 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "COLOGNE",
-        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
+        "name": "Getting There From Here (with Todd Edwards)",
+        "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
         }
       ],
-      "duration_ms": 200000,
-      "name": "COLOGNE",
-      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
+      "duration_ms": 248666,
+      "name": "Getting There From Here (with Todd Edwards)",
+      "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -599,26 +607,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Getting There From Here (with Todd Edwards)",
-        "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
+        "name": "COLOGNE",
+        "url": "https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 248666,
-      "name": "Getting There From Here (with Todd Edwards)",
-      "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
+      "duration_ms": 200000,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 276000,
       "name": "That's Right - Edit",
       "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 196773,
       "name": "Only For Tonight",
       "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 195944,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
-      },
-      "artists": [
-        {
-          "name": "DE SOFFER",
-          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
+      },
+      "artists": [
+        {
+          "name": "DE SOFFER",
+          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1379,18 +1395,26 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+        "name": "Please Be Mine",
+        "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Club Azur",
+          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
         }
       ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
+      "duration_ms": 193885,
+      "name": "Please Be Mine",
+      "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1415,30 +1439,6 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Please Be Mine",
-        "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Club Azur",
-          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
-        }
-      ],
-      "duration_ms": 193885,
-      "name": "Please Be Mine",
-      "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 167805,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -2047,30 +2047,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 166341,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Hey Baby",
         "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
       },
@@ -2099,6 +2075,30 @@
       "duration_ms": 157906,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 166341,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "SUBURBIA (after dark)",
         "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
       },
@@ -2255,26 +2275,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Papooz & Friends",
-        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Hugo Hamlet",
-          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
-        }
-      ],
-      "duration_ms": 165707,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Ol\u00e9 Maca",
         "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
       },
@@ -2287,46 +2287,6 @@
       "duration_ms": 279036,
       "name": "Letras",
       "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 159498,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -2351,6 +2311,46 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 159498,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Papooz & Friends",
+        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Hugo Hamlet",
+          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
+        }
+      ],
+      "duration_ms": 165707,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "Let It Go, Baby",
         "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
       },
@@ -2367,22 +2367,6 @@
       "duration_ms": 149374,
       "name": "Let It Go, Baby",
       "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Swiss Sensation",
-        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 227214,
-      "name": "Swiss Sensation",
-      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -2427,6 +2411,22 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Swiss Sensation",
+        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 227214,
+      "name": "Swiss Sensation",
+      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
     }
   ],
   "unique_name": "Poolside Disco",

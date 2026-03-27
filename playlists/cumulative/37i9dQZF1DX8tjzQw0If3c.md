@@ -4,7 +4,7 @@
 
 > Listen to the future\. Cover: Dominic Chin
 
-271 songs - 14 hr 50 min
+272 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-05-01 |  |
 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 | 2024-06-27 | 2024-12-05 |
 | [Infatuated](https://open.spotify.com/track/5e9ecyMtZkutM6KpFrqbv2) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 3:46 | 2025-09-08 | 2025-10-17 |
+| [Infiniti \- Kita Up \- With PUBG MOBILE](https://open.spotify.com/track/31z3l66d3BsegFeUdqLGYU) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Infiniti \- Kita Up \(With PUBG MOBILE\)](https://open.spotify.com/album/1hx79XY2B7kSU08oIpEfUE) | 4:05 | 2026-03-27 |  |
 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 3:34 | 2025-11-13 |  |
 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 | 2024-06-27 | 2025-04-16 |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2025-09-08 | 2025-10-17 |

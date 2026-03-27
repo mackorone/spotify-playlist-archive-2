@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Ibiza Vibes : Sunset to Sunrise \(House, Afro house\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Sunset to Sunrise \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> Music around the world ✈️
+> To travel between house, deep house and positive vibes !
 
-204 songs - 11 hr 58 min
+205 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 | 2026-02-19 |  |
 | [Flying Away With You \- andhim Remix](https://open.spotify.com/track/4q8UvHlqTqrnFLdYhZfEK2) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Flying Away With You \(andhim Remix\)](https://open.spotify.com/album/5PjAFRVzQixkIj2yzSOklb) | 4:19 | 2026-02-19 |  |
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 | 2022-07-28 |
+| [Four Women \- DESIREE Remix](https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Four Women \(DESIREE Remix\)](https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe) | 4:08 | 2026-03-26 |  |
 | [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |
 | [Friday](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 | 2022-08-22 | 2022-11-19 |
 | [Galangal](https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Galangal](https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV) | 2:48 | 2022-07-13 | 2022-09-29 |

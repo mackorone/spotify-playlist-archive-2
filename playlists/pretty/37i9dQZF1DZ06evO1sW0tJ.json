@@ -1,13 +1,33 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1439,
+  "num_followers": 1445,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAo875laALYceBhFcfDTqNL",
+  "snapshot_id": "acMlgAAAAAAo7vBO3cYkh/Nmd6N7AaK1",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "C. Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
+        "url": "https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Magdalena Hoffmann",
+          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
+        }
+      ],
+      "duration_ms": 318213,
+      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
+      "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 178947,
       "name": "3 Romances for Violin and Piano, Op. 22: I. Andante molto",
       "url": "https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C. Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
-        "url": "https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Magdalena Hoffmann",
-          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
-      "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
     },
     {
       "added_at": null,
@@ -123,26 +123,6 @@
       "duration_ms": 102000,
       "name": "Romanze: from Piano Concerto in A Minor Op.7",
       "url": "https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Clara",
-        "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Carl Schwarz",
-          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Romance, Op. 22: No. 1, Andante Molto",
-      "url": "https://open.spotify.com/track/4Tz0FtkyqRLCwmSrrPgYQi"
     },
     {
       "added_at": null,
@@ -347,26 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturnes Part: 4",
-        "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
       },
       "artists": [
-        {
-          "name": "Bart Van Oort",
-          "url": "https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1"
-        },
         {
           "name": "Clara Schumann",
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Peter Arts",
-          "url": "https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO"
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
         }
       ],
-      "duration_ms": 307500,
-      "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
-      "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
+      "duration_ms": 190960,
+      "name": "Romance, Op. 22: No. 1, Andante Molto",
+      "url": "https://open.spotify.com/track/4Tz0FtkyqRLCwmSrrPgYQi"
     },
     {
       "added_at": null,
@@ -391,18 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+        "name": "Nocturnes Part: 4",
+        "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
       },
       "artists": [
         {
+          "name": "Bart Van Oort",
+          "url": "https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1"
+        },
+        {
           "name": "Clara Schumann",
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Peter Arts",
+          "url": "https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO"
         }
       ],
-      "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives (Nr 1 Larghetto)",
-      "url": "https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1"
+      "duration_ms": 307500,
+      "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
+      "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 73433,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 3",
       "url": "https://open.spotify.com/track/7wtj7MLTrsLUkyd2Xgmpuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Quatre Pi\u00e8ces fugitives (Nr 1 Larghetto)",
+      "url": "https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 82384,
-      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
-      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 58093,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 4",
       "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 82384,
+      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
+      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 70585,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
+      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 363560,
       "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
       "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Echoes of Women - International Women's Day 2024",
-        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 70585,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
-      "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 60147,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 5",
+      "url": "https://open.spotify.com/track/4soPH2kdUzvS9A9aZfs00v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 631906,
       "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
       "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Echoes of Women - International Women's Day 2024",
-        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 60147,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 5",
-      "url": "https://open.spotify.com/track/4soPH2kdUzvS9A9aZfs00v"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
       "duration_ms": 235728,
       "name": "Drei Romanzen, Opus 21 Nr 3 Agitato - Piano",
       "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Original Classics, Vol. 421: Clara Schumann, Voice of the Heart",
+        "url": "https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klaus Reimann",
+          "url": "https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "\u201cIch Stand In Dunkeln Tr\u00e4umen\u201d (Heine)",
+      "url": "https://open.spotify.com/track/5Xnsf6WaZz3aDb57vvvy22"
     },
     {
       "added_at": null,

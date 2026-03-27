@@ -1,12 +1,12 @@
 {
   "description": "This is Westlife. The essential tracks, all in one playlist.",
-  "num_followers": 495269,
+  "num_followers": 495292,
   "original_name": "This Is Westlife",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADEsWuvOIMeYq5MB4uMpAmh",
+  "snapshot_id": "acMlgAAAAABVEl5Iap9MCiBS7DqFpYLU",
   "tracks": [
     {
       "added_at": null,
@@ -353,7 +353,7 @@
         },
         {
           "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+          "url": "https://open.spotify.com/artist/4HQPu8xlD0YTKmUhCsty3a"
         }
       ],
       "duration_ms": 230400,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Love Album",
-        "url": "https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "All or Nothing",
-      "url": "https://open.spotify.com/track/4IQjCesN2jGNEGY0TViB9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where We Are",
         "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 237773,
       "name": "Where We Are",
       "url": "https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Love Album",
+        "url": "https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/4IQjCesN2jGNEGY0TViB9E"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Written in the Stars",
-      "url": "https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0zfK1gyZipv83K4v8phlpH"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235186,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1ZmRSjt13LUbA96RbRtA0j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Written in the Stars",
+      "url": "https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/51Jg1cyS6FNx1H87waLmXH"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/5OTsspiqZPQPPuouZtjykB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0zfK1gyZipv83K4v8phlpH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 234733,
       "name": "Safe",
       "url": "https://open.spotify.com/track/0w7HAln6DBh3YAYmROLHqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/51Jg1cyS6FNx1H87waLmXH"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/5OTsspiqZPQPPuouZtjykB"
     },
     {
       "added_at": null,

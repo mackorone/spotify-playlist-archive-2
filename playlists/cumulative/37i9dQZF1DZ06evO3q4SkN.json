@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 167483,
       "name": "Fire and Ice",
       "url": "https://open.spotify.com/track/6ORJOggTLQzfF8I5dsR5av"
@@ -1050,6 +1050,24 @@
       "duration_ms": 85173,
       "name": "George At The Derby",
       "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
+    },
+    {
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43440,
+      "name": "George Enters Castleland",
+      "url": "https://open.spotify.com/track/7KK62PyW3ul0If2xoO3OQm"
     },
     {
       "album": {
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168021,
       "name": "Mother Daughter Theme - Orchestral Version",
       "url": "https://open.spotify.com/track/21FirqPq32vKDVLC029oKT"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 93546,
       "name": "Ted's TV Realization",
       "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"

@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43528,
+  "num_followers": 43535,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 210706,
       "name": "Ser Humano",
       "url": "https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -239,22 +239,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+        "name": "Viuda e Hijas de Roque Enroll",
+        "url": "https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Viuda e Hijas de Roque Enroll",
+          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
         }
       ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+      "duration_ms": 136933,
+      "name": "Estoy Tocando Fondo",
+      "url": "https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -275,18 +271,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Viuda e Hijas de Roque Enroll",
-        "url": "https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9"
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
       "artists": [
         {
-          "name": "Viuda e Hijas de Roque Enroll",
-          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 136933,
-      "name": "Estoy Tocando Fondo",
-      "url": "https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8"
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 174336,
       "name": "Tuya",
       "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
-      },
-      "artists": [
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
-      },
-      "artists": [
-        {
-          "name": "Maria Gabriela Epumer",
-          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
-        }
-      ],
-      "duration_ms": 291280,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/2XAhGSAp42H2jDQDENR1km"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 149940,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/1kGqlaGvaha8qOMIVO1VIX"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
+      },
+      "artists": [
+        {
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+        }
+      ],
+      "duration_ms": 291280,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 283380,
-      "name": "Desordenar",
-      "url": "https://open.spotify.com/track/1FAht60T3avEUv7qG058Um"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 259659,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 283380,
+      "name": "Desordenar",
+      "url": "https://open.spotify.com/track/1FAht60T3avEUv7qG058Um"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "beso despedida",
-        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
-      },
-      "artists": [
-        {
-          "name": "Ernestina",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
-        }
-      ],
-      "duration_ms": 136364,
-      "name": "beso despedida",
-      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+        "name": "beso despedida",
+        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Ernestina",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
         }
       ],
-      "duration_ms": 319743,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+      "duration_ms": 136364,
+      "name": "beso despedida",
+      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -871,6 +855,22 @@
       "duration_ms": 169581,
       "name": "General Paz",
       "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 211614,
       "name": "Girando",
       "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
-      },
-      "artists": [
-        {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Para Olvidarte",
         "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 207669,
       "name": "Todo el mundo miente",
       "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+      },
+      "artists": [
+        {
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Autodefensa",
-        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
-      },
-      "artists": [
-        {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
-        }
-      ],
-      "duration_ms": 180277,
-      "name": "Autodefensa",
-      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Huir",
         "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 256200,
       "name": "Huir",
       "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
+      },
+      "artists": [
+        {
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+        }
+      ],
+      "duration_ms": 180277,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Sola y Feliz",
-        "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
       },
       "artists": [
         {
-          "name": "Tiburona",
-          "url": "https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3"
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 188861,
-      "name": "Sola y Feliz",
-      "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1375,6 +1359,22 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Sola y Feliz",
+        "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
+      },
+      "artists": [
+        {
+          "name": "Tiburona",
+          "url": "https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Sola y Feliz",
+      "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Stallone",
+        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
+      },
+      "artists": [
+        {
+          "name": "Stallone",
+          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
+        }
+      ],
+      "duration_ms": 340856,
+      "name": "Drowned",
+      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Tanta Data",
         "url": "https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Stallone",
-        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
+        "name": "Mil Gritos Tiene la Noche, Vol. 1",
+        "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
       },
       "artists": [
         {
-          "name": "Stallone",
-          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm"
         }
       ],
-      "duration_ms": 340856,
-      "name": "Drowned",
-      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+      "duration_ms": 269305,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1535,22 +1551,6 @@
       "duration_ms": 182400,
       "name": "Perro",
       "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Mil Gritos Tiene la Noche, Vol. 1",
-        "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm"
-        }
-      ],
-      "duration_ms": 269305,
-      "name": "Infierno",
-      "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
     },
     {
       "added_at": "2025-06-26 15:52:01",

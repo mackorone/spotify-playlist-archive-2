@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OTZILgBWtT.md) - [plain]
 
 > enjoy the Dynamicduo concert \[가끔씩 오래 보자\] LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 \[가끔씩 오래 보자\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 612 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 614 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OTZILgBWtT.md) - [plain]
 | 27 | [BAAAM \(Feat\. Muzie of UV\)](https://open.spotify.com/track/1Zhu3hBdD87txCgJvj3jrU) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [LUCKYNUMBERS](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) | 3:40 |
 | 28 | [question mark \(Feat\. CHOIZA Of Dynamicduo, Zion.T\)](https://open.spotify.com/track/3y1Aq9UzyzhMGuVaS8i2oA) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Primary And The Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:14 |
 | 29 | [Seethru \(Feat\. Zion.T, Gaeko Of Dynamicduo\)](https://open.spotify.com/track/1qCHUbe8BuHymkHuzHEYoi) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Primary And The Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:33 |
-| 30 | [서커스 \(Feat\. Dok2, RO HONG CHUL\)](https://open.spotify.com/track/4sFcvoCCBnY8leAXlhHnz7) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Double Dynamite](https://open.spotify.com/album/2oHuPOq6vuhx8mJkaZUnae) | 4:22 |
+| 30 | [서커스 \(Feat\. Dok2, RO HONG CHUL\)](https://open.spotify.com/track/4sFcvoCCBnY8leAXlhHnz7) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Double Dynamite](https://open.spotify.com/album/2oHuPOq6vuhx8mJkaZUnae) | 4:22 |
 | 31 | [MENT 7](https://open.spotify.com/track/3IZHKo31498pbCnymKm5WF) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Dynamicduo concert \[In The Long Run\]](https://open.spotify.com/album/5eFkpZ4qPvX2rSLD7wrYXL) | 0:14 |
 | 32 | [Ring My Bell \(Feat\. 나얼 Of Brown Eyed Soul\)](https://open.spotify.com/track/0TrFFNooB7sE7ye9vKri52) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Taxi Driver](https://open.spotify.com/album/4xN7vgVNxSdPPswb9pWlCM) | 3:47 |
 | 33 | [Friday Night](https://open.spotify.com/track/6taaPcd1yroEhGVWHtr7d9) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [DYNAMICDUO 6th DIGILOG 1/2](https://open.spotify.com/album/0820v5cltCHxKXVUc2YRtk) | 4:00 |

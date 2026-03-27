@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 528424,
+  "num_followers": 528481,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        }
+      ],
+      "duration_ms": 265639,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Yo Vengo de Cuba",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        }
-      ],
-      "duration_ms": 265639,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
     },
     {
       "added_at": "2025-03-07 06:00:25",

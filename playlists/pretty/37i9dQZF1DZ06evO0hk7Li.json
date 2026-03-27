@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40216,
+  "num_followers": 40218,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADH5EHX3pCV1Ls78PCrjP2Z",
+  "snapshot_id": "acMlgAAAAADrAFX7CHnPKhQyX/y58YGF",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm A Dream",
-        "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 259986,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 147360,
       "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm A Dream",
+        "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 259986,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ"
     },
     {
       "added_at": null,

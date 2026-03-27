@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: Cina Soul",
+  "description": "The hottest and recent Ghana party starters. Cover: Fameye",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -4475,6 +4475,28 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2IKB7t0Km4iR0YCxHihynL"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/2Nhk8yilokkaKKgWX1FtTL"
+    },
+    {
+      "album": {
         "name": "Madina to the Universe",
         "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
       },
@@ -6984,7 +7006,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 208566,
       "name": "Mek\u0254n Ad\u0254",
       "url": "https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk"
@@ -7024,7 +7046,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 144243,
       "name": "Mhmm",
       "url": "https://open.spotify.com/track/6ohlaQjkpb0cMzaMF0VWfd"
@@ -9233,6 +9255,24 @@
     },
     {
       "album": {
+        "name": "PopStar",
+        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "PopStar",
+      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
+    },
+    {
+      "album": {
         "name": "PRACTICE",
         "url": "https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY"
       },
@@ -10034,7 +10074,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 129923,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/6v0ipIa8GlGXd6kkzYiaYn"
@@ -11567,6 +11607,28 @@
     },
     {
       "album": {
+        "name": "Toma Song II",
+        "url": "https://open.spotify.com/album/7HBnn6oZr7PtBo7MGoSmJW"
+      },
+      "artists": [
+        {
+          "name": "Mike Akox",
+          "url": "https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "Toma Song II",
+      "url": "https://open.spotify.com/track/6Rd6QPDtl2MW6eO4dkv7Bo"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk"
       },
@@ -11662,6 +11724,24 @@
       "duration_ms": 165000,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "album": {
+        "name": "Jigi Jigi Vol. 2",
+        "url": "https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
     },
     {
       "album": {
@@ -12890,7 +12970,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 175841,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/5WLQv9nYwTjnSOsSLCLp4p"

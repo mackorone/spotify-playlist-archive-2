@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum"
+      },
+      "artists": [
+        {
+          "name": "Liquid Monk",
+          "url": "https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178005,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv"
+    },
+    {
+      "album": {
         "name": "Alive On Arrival",
         "url": "https://open.spotify.com/album/3ysx7tS96uHjOAzUjam9wI"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 241241,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/7AHrsYHtLvLoFe6eG71RaO"
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 269662,
       "name": "BULLET TRAIN",
       "url": "https://open.spotify.com/track/40JexWGrRvie4K1JsJUKEI"
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168616,
       "name": "Chipped Away",
       "url": "https://open.spotify.com/track/3zzwxNLC5eKFXTw5qyFW9r"
@@ -6978,7 +6996,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 174500,
       "name": "Furniture",
       "url": "https://open.spotify.com/track/4lckdJHmR40Y3klxjP24LQ"
@@ -7356,7 +7374,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 88000,
       "name": "God",
       "url": "https://open.spotify.com/track/3iFTpTDilpiS43YPVoiGZ1"
@@ -7680,7 +7698,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 178112,
       "name": "Halloween Night",
       "url": "https://open.spotify.com/track/39egeiZo32iVl7GkJXRIU0"
@@ -9274,7 +9292,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 189250,
       "name": "In This State",
       "url": "https://open.spotify.com/track/67TBz4hsUn1BaPGzvUxkBT"
@@ -11210,7 +11228,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 177720,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1JyTISB7tyTTDBZIYL23ty"
@@ -11330,7 +11348,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 184691,
       "name": "Me Love",
       "url": "https://open.spotify.com/track/5K5Vkd3FySN5uptRfna2aK"
@@ -12058,7 +12076,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 134821,
       "name": "My Time",
       "url": "https://open.spotify.com/track/0XC2aYLgjVTUkDkZSV7Njf"
@@ -12494,7 +12512,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 277291,
       "name": "No Time Left",
       "url": "https://open.spotify.com/track/19ETTZ36aLHXEPrAy6WoV2"
@@ -12930,7 +12948,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 224210,
       "name": "on the mend",
       "url": "https://open.spotify.com/track/1dIHISHteCYUFGhEj6bDAP"
@@ -14963,6 +14981,24 @@
     },
     {
       "album": {
+        "name": "Roadkill Restaurant",
+        "url": "https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn"
+      },
+      "artists": [
+        {
+          "name": "Parlour Creepers",
+          "url": "https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184257,
+      "name": "Roadkill Restaurant",
+      "url": "https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI"
+    },
+    {
+      "album": {
         "name": "Robot Queen",
         "url": "https://open.spotify.com/album/41oyEEMYRWnVlItzeEpH8o"
       },
@@ -16226,6 +16262,24 @@
       "duration_ms": 210000,
       "name": "Sk8er Boi",
       "url": "https://open.spotify.com/track/0nl2HbKhvPc7uot3ikqGnX"
+    },
+    {
+      "album": {
+        "name": "Skateboard & Rain",
+        "url": "https://open.spotify.com/album/5hZXtecf1A9dGLHmPk3ZUS"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Skateboard & Rain",
+      "url": "https://open.spotify.com/track/1iAmluI90IYFBf07lwF16h"
     },
     {
       "album": {
@@ -17610,7 +17664,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 184625,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/0z344XByFFX3tIl6Rx7pbP"
@@ -17700,7 +17754,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 209596,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN"
@@ -18664,7 +18718,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 219648,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/52Ewu34tEpgvra33JFbsRR"
@@ -19298,7 +19352,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200991,
       "name": "Top of the Pyramid",
       "url": "https://open.spotify.com/track/5Pr813gmP7nzTR8o2OrD3f"
@@ -19734,7 +19788,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 147116,
       "name": "Varmint",
       "url": "https://open.spotify.com/track/4P0RSEtEaYlQo8Max87Ty2"

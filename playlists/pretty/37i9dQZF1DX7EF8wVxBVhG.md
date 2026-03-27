@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,731 likes - 110 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,068 likes - 110 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 76 | [Beta Work Flow 156.8 Hz \- 172.8 Hz](https://open.spotify.com/track/0B9ONjRWE9KxHbIL8AgBRQ) | [Otherlands](https://open.spotify.com/artist/6tr3xlB4iAHlWfB4iw5Dx2) | [Beta Work Flow 156.8 Hz \- 172.8 Hz](https://open.spotify.com/album/5Q17f9uI3LFOgqrbkXg7lv) | 3:18 |
 | 77 | [Binaural Algorithms Beta 15Hz](https://open.spotify.com/track/753yBTnJhDhE8zDOtNRQN8) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Binaural Algorithms](https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1) | 2:19 |
 | 78 | [Insight \(Binaural Alpha 87.4 Hz \- 97.6 Hz\)](https://open.spotify.com/track/5jR5ZB1sEGpsGGtJoe7MD5) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Insight \(Binaural Alpha 87.4 Hz \- 97.6 Hz\)](https://open.spotify.com/album/6JEqqVtUdD1TpeIi1aSnxA) | 3:10 |
-| 79 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 |
+| 79 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/1bIaco5UqfyolBRCxOj3bV) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 |
 | 80 | [Flow State Alpha 203.6 Hz \- 211.6 Hz](https://open.spotify.com/track/6uHO5Hny65EWQAG4NszwUC) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Flow State Alpha 203.6 Hz \- 211.6 Hz](https://open.spotify.com/album/3ksbVv7yjql4kTeqqMdsnF) | 2:42 |
 | 81 | [Alpha Binaural Lucid Waves](https://open.spotify.com/track/40d0yZvwlmtPpickh7spI5) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Alpha Binaural Lucid Waves](https://open.spotify.com/album/2xfSOQ79YGAwGt13uZAceT) | 2:49 |
 | 82 | [Synchronized Pulse \(Alpha 58\-66Hz\)](https://open.spotify.com/track/3ikICHPP1yJARp6vV77ZXf) | [Inner Fields](https://open.spotify.com/artist/59lPrWSxyDbKksxOkFNRwH) | [Synchronized Pulse \(Alpha 58\-66Hz\)](https://open.spotify.com/album/5qg8AdXxjLivK8klGEdbwP) | 2:23 |

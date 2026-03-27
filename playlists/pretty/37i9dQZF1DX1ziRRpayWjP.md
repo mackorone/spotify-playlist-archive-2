@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziRRpayWjP.md) - [plain](/playlists/plain/37i9dQZF1DX1ziRRpayWjP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ziRRpayWjP)
 
-### [Women in Entertainment \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX1ziRRpayWjP)
+### [Women in Entertainment](https://open.spotify.com/playlist/37i9dQZF1DX1ziRRpayWjP)
 
 > 
 

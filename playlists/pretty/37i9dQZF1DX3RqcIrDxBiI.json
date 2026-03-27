@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 154681,
+  "num_followers": 154688,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 302600,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
     },
     {
       "added_at": "2026-02-06 18:20:07",

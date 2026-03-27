@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Kethan",
+  "description": "What is your love language? Say it in Swahili.  Cover: Lony Bway",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196838,
       "name": "Mahaba",
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
@@ -3290,6 +3290,24 @@
       "duration_ms": 175500,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq"
+    },
+    {
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/3YnzIAt9m9SJt039NYW7Gs"
+      },
+      "artists": [
+        {
+          "name": "Lony Bway",
+          "url": "https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "Moyo",
+      "url": "https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs"
     },
     {
       "album": {
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 217061,
       "name": "Nibusu (feat. Yammi & Mbosso)",
       "url": "https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt"
@@ -4471,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "Nisamehe",
+        "url": "https://open.spotify.com/album/2eRNVAGYAXIXo7VCz6CGPF"
+      },
+      "artists": [
+        {
+          "name": "D Love",
+          "url": "https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "Nisamehe",
+      "url": "https://open.spotify.com/track/7gCNxAoiZ3IuVwzPlDE4rt"
+    },
+    {
+      "album": {
         "name": "Nishazoea",
         "url": "https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu"
       },
@@ -4500,7 +4536,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 189176,
       "name": "Nisiulizwe",
       "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
@@ -6413,6 +6449,24 @@
     },
     {
       "album": {
+        "name": "Wange",
+        "url": "https://open.spotify.com/album/35FjBLon7dtFYhsWJXtR8t"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169477,
+      "name": "Wange",
+      "url": "https://open.spotify.com/track/6xAiy56e2VZxSsWT7EKx2A"
+    },
+    {
+      "album": {
         "name": "Wangu",
         "url": "https://open.spotify.com/album/6oQFivXTgklnz7mHzjQkab"
       },
@@ -6424,7 +6478,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 210000,
       "name": "Wangu",
       "url": "https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe"
@@ -6512,6 +6566,24 @@
       "duration_ms": 190689,
       "name": "Wawili",
       "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
+    },
+    {
+      "album": {
+        "name": "Wewe",
+        "url": "https://open.spotify.com/album/6pGLKEtnPe2caApnGszFEX"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210103,
+      "name": "Wewe",
+      "url": "https://open.spotify.com/track/0lubOWkxW8XzWHvn05W9h9"
     },
     {
       "album": {

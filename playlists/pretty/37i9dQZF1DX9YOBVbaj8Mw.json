@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19292,
+  "num_followers": 19293,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Kasia i B\u0142a\u017cej",
-        "url": "https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        },
-        {
-          "name": "B\u0142a\u017cej Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Mo\u017cna",
-      "url": "https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Kasia i B\u0142a\u017cej",
+        "url": "https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        },
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Mo\u017cna",
+      "url": "https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -775,34 +775,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "DOMINIKA DANIELA",
-        "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        },
-        {
-          "name": "DZIARMA",
-          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "ciiicho",
-          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "PRZYJED\u0179",
-      "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
       },
@@ -831,6 +803,34 @@
       "duration_ms": 358666,
       "name": "Fearflood",
       "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "DOMINIKA DANIELA",
+        "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "ciiicho",
+          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "PRZYJED\u0179",
+      "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
     },
     {
       "added_at": "2025-04-06 08:27:45",

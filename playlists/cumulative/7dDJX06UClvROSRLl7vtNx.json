@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Break You Too",
+        "url": "https://open.spotify.com/album/3Y4QrRNAQ9RxYWmw2zec0g"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170215,
+      "name": "Break You Too",
+      "url": "https://open.spotify.com/track/4em6m28N7Va4dMZDeoESix"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2oONqv7gpHaweACmIxM75A"
       },
@@ -10874,6 +10892,32 @@
       "duration_ms": 132571,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/2yPbjRmigNaQCvK6brJEfL"
+    },
+    {
+      "album": {
+        "name": "I Need To Know",
+        "url": "https://open.spotify.com/album/36WEmDHsRSJ1a7SF39Xo3L"
+      },
+      "artists": [
+        {
+          "name": "Sax'Appeal",
+          "url": "https://open.spotify.com/artist/4bAREk3cDlzskT2ILU8bBG"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "Sydney Ferrier",
+          "url": "https://open.spotify.com/artist/0rYPVM3R5i0ei5Et6caX92"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151398,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/7o3ExI8VjcaFY3Kq30runZ"
     },
     {
       "album": {

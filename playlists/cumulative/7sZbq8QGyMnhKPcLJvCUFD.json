@@ -14241,6 +14241,28 @@
     },
     {
       "album": {
+        "name": "Slip Thru",
+        "url": "https://open.spotify.com/album/5Hb2ezxF0Y3qcifH7iUE4o"
+      },
+      "artists": [
+        {
+          "name": "Barren Gates",
+          "url": "https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F"
+        },
+        {
+          "name": "Taylor Ravenna",
+          "url": "https://open.spotify.com/artist/5OFQZg9Q0gwOeQuuDlzlhl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278857,
+      "name": "Slip Thru",
+      "url": "https://open.spotify.com/track/3NKq4zqnqlVsNZ8g2Dy896"
+    },
+    {
+      "album": {
         "name": "snake eyes",
         "url": "https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5"
       },

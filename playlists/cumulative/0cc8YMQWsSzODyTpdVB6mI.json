@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Music around the world \u2708\ufe0f",
-  "name": "Ibiza Vibes : Sunset to Sunrise (House, Afro house)",
+  "description": "To travel between house, deep house and positive vibes !",
+  "name": "Sunset to Sunrise (2026)",
   "tracks": [
     {
       "album": {
@@ -1026,6 +1026,28 @@
       "duration_ms": 209988,
       "name": "for the rest of my life",
       "url": "https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I"
+    },
+    {
+      "album": {
+        "name": "Four Women (DESIREE Remix)",
+        "url": "https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248290,
+      "name": "Four Women - DESIREE Remix",
+      "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
     },
     {
       "album": {

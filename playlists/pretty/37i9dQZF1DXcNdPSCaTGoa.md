@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > A celebration of classics, curated by Kwesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903 likes - 32 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 921 likes - 32 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

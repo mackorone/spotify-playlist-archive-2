@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADcyUqc5N4WYUFmAU2BlliG",
+  "snapshot_id": "acMlgAAAAAAiflIbRwoYQrxvHKBvxcH2",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black History Always / Music For the Movement Vol. 2",
         "url": "https://open.spotify.com/album/14PYt4FQmKarrCYOLnw7ng"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 244551,
       "name": "Outside Myself",
       "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 250509,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity Song LIVE",
         "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 246788,
       "name": "EOS Brussels - Live",
       "url": "https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 250509,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
     },
     {
       "added_at": null,
@@ -588,22 +588,6 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
       "duration_ms": 234356,
       "name": "Raindrops Keep Falling On My Head",
       "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Walking in Your Eternal Love",
-      "url": "https://open.spotify.com/track/6SIfERtNKaRiinslahFDce"
+      "duration_ms": 245133,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 269909,
       "name": "Love Is Watching",
       "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity's Song",
+        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walking in Your Eternal Love",
+      "url": "https://open.spotify.com/track/6SIfERtNKaRiinslahFDce"
     }
   ],
   "unique_name": "This Is Infinity Song",

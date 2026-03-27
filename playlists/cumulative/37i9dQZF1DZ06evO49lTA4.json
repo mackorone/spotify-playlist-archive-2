@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 238826,
       "name": "Can I Get an Outlaw",
       "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 189918,
       "name": "Can't Tell Me I'm Wrong",
       "url": "https://open.spotify.com/track/72r9NIGJo9Sx0kkQ8M4xCw"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 232595,
       "name": "Growin' Up and Gettin' Old",
       "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245501,
+      "name": "See Me Now",
+      "url": "https://open.spotify.com/track/5WxQEQJtrOYzobMBTsdPBb"
+    },
+    {
+      "album": {
         "name": "Seven Bridges Road",
         "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
       },
@@ -1484,6 +1502,24 @@
       "duration_ms": 171864,
       "name": "South On Ya",
       "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
+    },
+    {
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221756,
+      "name": "Tell 'Em About Tonight",
+      "url": "https://open.spotify.com/track/6OxutlGyuRP0sWs9BbcIES"
     },
     {
       "album": {

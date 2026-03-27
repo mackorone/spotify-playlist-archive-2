@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-403 songs - 22 hr 37 min
+404 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-01-29 | 2026-03-03 |
 | [Life to the End](https://open.spotify.com/track/6jJz7ivhfDOITkDRe6lw3v) | [Brene Wilson](https://open.spotify.com/artist/6xKFlWtI3CkiqpFEzkchZj) | [Trial and Error Session](https://open.spotify.com/album/1uW561qp8DOm8Ey7tgzLUv) | 4:16 | 2025-11-10 | 2025-12-01 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-19 | 2026-01-05 |
+| [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 | 2026-03-26 |  |
 | [Lilith](https://open.spotify.com/track/0iAb1Wzx7oyN0jOw0xcS4P) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Lilith](https://open.spotify.com/album/3wHDXFR9OO8hfUkyWgY0dz) | 3:34 | 2025-11-22 | 2026-01-05 |
 | [Live Without](https://open.spotify.com/track/7GN43Hf3xR9gKfmxOxeOVW) | [SHVŃ](https://open.spotify.com/artist/2CLwDrIXLw3BIXIptDDt0M) | [Live Without](https://open.spotify.com/album/22uIKfBeybDR8pR6RwgJfx) | 2:54 | 2026-03-09 |  |
 | [Loca Con Disfraces](https://open.spotify.com/track/0k9MPiVrhuIbbk4Cibg11N) | [Fzuay](https://open.spotify.com/artist/4UpgZJzWHD9Y2TO9nrET7J) | [747](https://open.spotify.com/album/1dFQYd1BNdhrQvEedM5mJ9) | 3:18 | 2026-03-09 |  |

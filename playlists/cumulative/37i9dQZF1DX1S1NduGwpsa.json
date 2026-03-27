@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jill Scott",
+  "description": "The best jazz new releases. Cover: Tom Misch",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 233208,
       "name": "Carinhoso",
       "url": "https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 257000,
       "name": "Carnaval de Barranquilla Radio Edit",
       "url": "https://open.spotify.com/track/1B9puk4a8v3SPB1kxQqyEz"
@@ -4346,7 +4346,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 376600,
       "name": "Dis, quand reviendras-tu ?",
       "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
@@ -9843,6 +9843,24 @@
     },
     {
       "album": {
+        "name": "Liza (All The Clouds'll Roll Away)",
+        "url": "https://open.spotify.com/album/52upjY3j9rWBk5f0AVwbs8"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262385,
+      "name": "Liza (All The Clouds'll Roll Away) - Live",
+      "url": "https://open.spotify.com/track/29p85dCbk8cNSVlCxmY30o"
+    },
+    {
+      "album": {
         "name": "Lokum",
         "url": "https://open.spotify.com/album/13WbmvW5c2LWLczF2Fygxf"
       },
@@ -9962,6 +9980,24 @@
       "duration_ms": 222973,
       "name": "Longest Way Round",
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
+    },
+    {
+      "album": {
+        "name": "Lookie",
+        "url": "https://open.spotify.com/album/04HsNmVtCaxxTACAV2lz9R"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298593,
+      "name": "Lookie",
+      "url": "https://open.spotify.com/track/0FRGC4Qk2RlVVorFg1uUqP"
     },
     {
       "album": {
@@ -11191,6 +11227,28 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363791,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "album": {
         "name": "TAKE 01",
         "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
       },
@@ -11370,6 +11428,24 @@
       "duration_ms": 231800,
       "name": "More Understanding Than A Man",
       "url": "https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy"
+    },
+    {
+      "album": {
+        "name": "i-330",
+        "url": "https://open.spotify.com/album/4SgAcpXTi7WhIygmuUDax9"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233800,
+      "name": "More Understanding Than A Man",
+      "url": "https://open.spotify.com/track/6qDxPyJ23qb7t7PFPTntfD"
     },
     {
       "album": {
@@ -15063,6 +15139,28 @@
     },
     {
       "album": {
+        "name": "Song of Storms (from The Legend of Zelda: Ocarina of Time)",
+        "url": "https://open.spotify.com/album/1JB7EwRhYsQC6H2njNB3Ph"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Josh Harmon",
+          "url": "https://open.spotify.com/artist/3JKUGYtpuP0wUHgYpt9R7N"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91690,
+      "name": "Song of Storms - from The Legend of Zelda: Ocarina of Time",
+      "url": "https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi"
+    },
+    {
+      "album": {
         "name": "Soon As I Can",
         "url": "https://open.spotify.com/album/2w8f9kV5iT5uRHzoX8N4ZJ"
       },
@@ -16220,7 +16318,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 351666,
       "name": "Tears in Delhi's Fog - Radio Edit",
       "url": "https://open.spotify.com/track/27R6UGCSRTmzGUpm4zeoNd"
@@ -18040,7 +18138,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245670,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/3iFmz0nwf8t0Z1NQC9KpDr"

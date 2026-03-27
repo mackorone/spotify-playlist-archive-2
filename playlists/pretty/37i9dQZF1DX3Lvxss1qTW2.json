@@ -1,215 +1,15 @@
 {
   "description": "The future hits of today. Up Next: Balloranking",
-  "num_followers": 110111,
+  "num_followers": 110179,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPu32z8oWk77s24vZjm/qvXY4q8Z",
+  "snapshot_id": "AAAAAPNFx/djkfO4MY5LISuu39ce10K2",
   "tracks": [
     {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "IDI AMIN",
-        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "IDI AMIN",
-      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Realness",
-      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
-      },
-      "artists": [
-        {
-          "name": "Kwartengg",
-          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
-        }
-      ],
-      "duration_ms": 165782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "IRON ORE",
-        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "CATALYST",
-      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
-        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 293877,
-      "name": "Suppressed Desires",
-      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "SAILOR (with Oxlade)",
-        "url": "https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "SAILOR (with Oxlade)",
-      "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Only Sad People Smile: Only Hurt People Heal",
-        "url": "https://open.spotify.com/album/7xjzOqRfqawB6xVeUn6mFj"
-      },
-      "artists": [
-        {
-          "name": "Salle",
-          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Bongolo Cigar",
-      "url": "https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "10 MINUTES",
-        "url": "https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "10 MINUTES",
-      "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Jembe / 14DRoad",
-        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 138208,
-      "name": "Jembe",
-      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Big Bum Bum",
         "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
@@ -229,7 +29,159 @@
       "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Akonuche (Remix)",
+        "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 176530,
+      "name": "Akonuche - Remix",
+      "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "TENSION",
+        "url": "https://open.spotify.com/album/5hx5Ho1iwisBv0CL1WuxEW"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "TENSION",
+      "url": "https://open.spotify.com/track/2zL3mQUgNwlCNZMgOE98pu"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "WELCOME 2 THE VILLE",
+        "url": "https://open.spotify.com/album/67FvSNo4BQU0I46AuwIbvU"
+      },
+      "artists": [
+        {
+          "name": "Apex Village",
+          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
+        },
+        {
+          "name": "Uloko",
+          "url": "https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP"
+        },
+        {
+          "name": "Marv OTM",
+          "url": "https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "HOW FAR?",
+      "url": "https://open.spotify.com/track/0qRiTOwGSqofLgLKOfclBZ"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 150873,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
@@ -253,23 +205,135 @@
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "EGER",
-        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+        "name": "Shakabulizzy (Remix)",
+        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
       },
       "artists": [
         {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Obokhian",
-      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
+      "duration_ms": 175000,
+      "name": "Shakabulizzy - Remix",
+      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "LAMEDA / AWAY",
+        "url": "https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky"
+      },
+      "artists": [
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        }
+      ],
+      "duration_ms": 136621,
+      "name": "Lameda",
+      "url": "https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/6wZV3F5q3vtN1gBA17UR0l"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6p1qrgCy5epVwjlbUXdps4"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Akonuche",
+        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Akonuche",
+      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "10 MINUTES",
+        "url": "https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "10 MINUTES",
+      "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
+        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 293877,
+      "name": "Suppressed Desires",
+      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Aimoye",
         "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
@@ -285,43 +349,43 @@
       "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Gated Community",
-        "url": "https://open.spotify.com/album/4ICMNWmZNDphwugXPedUy1"
+        "name": "IDI AMIN",
+        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
       },
       "artists": [
         {
-          "name": "Haeven",
-          "url": "https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H"
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Gated Community",
-      "url": "https://open.spotify.com/track/459tlRYmJbqHJW0aqFtnNp"
+      "duration_ms": 136470,
+      "name": "IDI AMIN",
+      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "september rush",
-        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+        "name": "MANY GIRLS",
+        "url": "https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t"
       },
       "artists": [
         {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
         },
         {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+          "name": "BRUME",
+          "url": "https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1"
         }
       ],
-      "duration_ms": 137142,
-      "name": "september rush",
-      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
+      "duration_ms": 179333,
+      "name": "MANY GIRLS",
+      "url": "https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "TRU$T FUND",
         "url": "https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ"
@@ -349,43 +413,59 @@
       "url": "https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ"
       },
       "artists": [
         {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+          "name": "Boi Chase",
+          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Are You On The Way",
-      "url": "https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER"
+      "duration_ms": 153142,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Coconut Cream",
-        "url": "https://open.spotify.com/album/7i1yZ6WL8S8ORA1MqVmm0e"
+        "name": "SAILOR (with Oxlade)",
+        "url": "https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB"
       },
       "artists": [
         {
-          "name": "Aema",
-          "url": "https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2"
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
         },
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 188903,
-      "name": "Coconut Cream",
-      "url": "https://open.spotify.com/track/7kR5jVONjEK3MOlf0RV6AH"
+      "duration_ms": 184583,
+      "name": "SAILOR (with Oxlade)",
+      "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
+      },
+      "artists": [
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Wahala Princess",
         "url": "https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2"
@@ -409,63 +489,63 @@
       "url": "https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
       "artists": [
         {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "then 1t g0t crazier",
-        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
           "name": "Mavo",
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Wuse Tu",
-      "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "FLAKO",
+        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "FLAKO",
+      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "HOW FAR / SHIMA II",
         "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
@@ -489,259 +569,31 @@
       "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+        "name": "make it clap",
+        "url": "https://open.spotify.com/album/4FRQ2S0UXkSxbtOw3uR07U"
       },
       "artists": [
         {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+          "name": "VERBB",
+          "url": "https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b"
         },
         {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Lala",
-        "url": "https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Lala",
-      "url": "https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Amuni",
-        "url": "https://open.spotify.com/album/3N5IJC3q2cl4nwlY3W0Z8H"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        }
-      ],
-      "duration_ms": 140198,
-      "name": "Amuni",
-      "url": "https://open.spotify.com/track/73KsdVMaEzGA7tJUam4rTq"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "MANY GIRLS",
-        "url": "https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t"
-      },
-      "artists": [
-        {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
         },
         {
-          "name": "BRUME",
-          "url": "https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1"
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
         }
       ],
-      "duration_ms": 179333,
-      "name": "MANY GIRLS",
-      "url": "https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE"
+      "duration_ms": 112954,
+      "name": "make it clap",
+      "url": "https://open.spotify.com/track/49CDc9bUgEg8wyeH9RVPAL"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Young Poet",
-        "url": "https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q"
-      },
-      "artists": [
-        {
-          "name": "Champz",
-          "url": "https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs"
-        },
-        {
-          "name": "Paranormal Dj",
-          "url": "https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68"
-        }
-      ],
-      "duration_ms": 153720,
-      "name": "Bad Guyz",
-      "url": "https://open.spotify.com/track/2ldT01LXWYnfhqnwidnEgG"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Shakabulizzy (Remix)",
-        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Shakabulizzy - Remix",
-      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "LAMEDA / AWAY",
-        "url": "https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky"
-      },
-      "artists": [
-        {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        }
-      ],
-      "duration_ms": 136621,
-      "name": "Lameda",
-      "url": "https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "TENSION",
-        "url": "https://open.spotify.com/album/5hx5Ho1iwisBv0CL1WuxEW"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "TENSION",
-      "url": "https://open.spotify.com/track/2zL3mQUgNwlCNZMgOE98pu"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Akonuche (Remix)",
-        "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 176530,
-      "name": "Akonuche - Remix",
-      "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Akonuche",
-        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Akonuche",
-      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "FLAKO",
-        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "FLAKO",
-      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 207123,
-      "name": "I Alone",
-      "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Sorry I'm Busy",
         "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
@@ -757,7 +609,7 @@
       "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "From The Soil (Deluxe)",
         "url": "https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO"
@@ -773,23 +625,43 @@
       "url": "https://open.spotify.com/track/2oVWSaSh3dw89y3D7gE5OS"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Run Come",
-        "url": "https://open.spotify.com/album/2I0NuFOCyZD02VpnrFfkQL"
+        "name": "then 1t g0t crazier",
+        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
       "artists": [
         {
-          "name": "siicie",
-          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Run Come",
-      "url": "https://open.spotify.com/track/6bEbkwhV5OzOMfmoHb1EcE"
+      "duration_ms": 147692,
+      "name": "Wuse Tu",
+      "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Coco Samba",
         "url": "https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5"
@@ -809,71 +681,7 @@
       "url": "https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 196202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Do Not Disturb (DND)",
-        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Do Not Disturb (DND)",
-      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Muzz",
-        "url": "https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Muzz",
-      "url": "https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "Scenes",
         "url": "https://open.spotify.com/album/7g9b1do5f5rJOybiCgCbBN"
@@ -905,7 +713,83 @@
       "url": "https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Young Poet",
+        "url": "https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q"
+      },
+      "artists": [
+        {
+          "name": "Champz",
+          "url": "https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs"
+        },
+        {
+          "name": "Paranormal Dj",
+          "url": "https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68"
+        }
+      ],
+      "duration_ms": 153720,
+      "name": "Bad Guyz",
+      "url": "https://open.spotify.com/track/2ldT01LXWYnfhqnwidnEgG"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Run Come",
+        "url": "https://open.spotify.com/album/2I0NuFOCyZD02VpnrFfkQL"
+      },
+      "artists": [
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Run Come",
+      "url": "https://open.spotify.com/track/6bEbkwhV5OzOMfmoHb1EcE"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "IRON ORE",
+        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
       "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
@@ -925,20 +809,152 @@
       "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
     },
     {
-      "added_at": "2026-03-20 00:01:29",
+      "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Street is My Father",
-        "url": "https://open.spotify.com/album/7Bs4UzwSctQ7p9iVvYg4C8"
+        "name": "Do Not Disturb (DND)",
+        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
       },
       "artists": [
         {
-          "name": "Baba Tundey",
-          "url": "https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC"
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
         }
       ],
-      "duration_ms": 163307,
-      "name": "Street is My Father",
-      "url": "https://open.spotify.com/track/64aV2HQXKz5eoZW2kW28bc"
+      "duration_ms": 172035,
+      "name": "Do Not Disturb (DND)",
+      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Amuni",
+        "url": "https://open.spotify.com/album/3N5IJC3q2cl4nwlY3W0Z8H"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Amuni",
+      "url": "https://open.spotify.com/track/73KsdVMaEzGA7tJUam4rTq"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Muzz",
+        "url": "https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Muzz",
+      "url": "https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
+      },
+      "artists": [
+        {
+          "name": "Kwartengg",
+          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
+        }
+      ],
+      "duration_ms": 165782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "EGER",
+        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+      },
+      "artists": [
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Obokhian",
+      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Gated Community",
+        "url": "https://open.spotify.com/album/4ICMNWmZNDphwugXPedUy1"
+      },
+      "artists": [
+        {
+          "name": "Haeven",
+          "url": "https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Gated Community",
+      "url": "https://open.spotify.com/track/459tlRYmJbqHJW0aqFtnNp"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Coconut Cream",
+        "url": "https://open.spotify.com/album/7i1yZ6WL8S8ORA1MqVmm0e"
+      },
+      "artists": [
+        {
+          "name": "Aema",
+          "url": "https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "Coconut Cream",
+      "url": "https://open.spotify.com/track/7kR5jVONjEK3MOlf0RV6AH"
     }
   ],
   "unique_name": "NXT",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,928,120 likes - 173 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,928,812 likes - 173 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 153 | [Shimmers Galore](https://open.spotify.com/track/3To56W9ZSbqO7jh3U2X4pP) | [Nevulas](https://open.spotify.com/artist/6kYjIQsMfq45BuA5OGYxH9) | [Shimmers Galore](https://open.spotify.com/album/65CXaZXxgATaBeWuyE8JVP) | 2:47 |
 | 154 | [Equivalence](https://open.spotify.com/track/2tDjsli7vCql7vIzu5Gq3W) | [All the World](https://open.spotify.com/artist/35PSTSmNbbdeF2CQi8HRVG) | [Equivalence](https://open.spotify.com/album/6nBBbzZ0cCk2e9fqJeUCu4) | 2:24 |
 | 155 | [Crystal Blue](https://open.spotify.com/track/3jFnntpywiVy0xcqxD2XWq) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [Crystal Blue](https://open.spotify.com/album/3FWSDapDRgbt7LkRxGao7M) | 2:25 |
-| 156 | [Lerone Gios \- North Of Here.wav](https://open.spotify.com/track/099WpHvgNrPDQjiCOHUtVO) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [North Of Here](https://open.spotify.com/album/0fyAugeK0zG8Ciyk4tQtjH) | 2:28 |
+| 156 | [North Of Here](https://open.spotify.com/track/099WpHvgNrPDQjiCOHUtVO) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [North Of Here](https://open.spotify.com/album/0fyAugeK0zG8Ciyk4tQtjH) | 2:28 |
 | 157 | [Supernova](https://open.spotify.com/track/67tYSmfEqkMp0HZJ0MysNk) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Supernova](https://open.spotify.com/album/0IHvZvxIkwk65WcXi347bU) | 2:23 |
 | 158 | [Sustain](https://open.spotify.com/track/08QgXdDVmDMnfNdUWJzB7l) | [Cashmere Cove](https://open.spotify.com/artist/1d8UQ5LUSa8Zv6HuM6LRHi) | [Sustain](https://open.spotify.com/album/1EirkowfQjoex0sSIDyiyp) | 2:28 |
 | 159 | [Anytime](https://open.spotify.com/track/2OYda4XgQRSNIvWY6XKoXr) | [Teyio River](https://open.spotify.com/artist/6nAbxVAvyaqe1OUdmlW0hO) | [Anytime](https://open.spotify.com/album/1PBYRBcLQCVxIrlmKC828J) | 2:10 |

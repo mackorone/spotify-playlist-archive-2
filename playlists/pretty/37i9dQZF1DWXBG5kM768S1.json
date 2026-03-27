@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80741,
+  "num_followers": 80751,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Kniven i hjertet",
-        "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
       },
       "artists": [
         {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        },
-        {
-          "name": "Forsvarets Stabsmusikkorps",
-          "url": "https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U"
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
         }
       ],
-      "duration_ms": 182316,
-      "name": "Kniven i hjertet",
-      "url": "https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6"
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -231,18 +223,26 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "S\u00f8vnlaus",
-        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+        "name": "Kniven i hjertet",
+        "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
       },
       "artists": [
         {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Forsvarets Stabsmusikkorps",
+          "url": "https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U"
         }
       ],
-      "duration_ms": 246626,
-      "name": "20 \u00e5r p\u00e5 vegen",
-      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
+      "duration_ms": 182316,
+      "name": "Kniven i hjertet",
+      "url": "https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
         "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 193079,
       "name": "Det begynner \u00e5 bli et liv",
       "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260779,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
         "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
       },
@@ -807,8 +791,24 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Eg vil ikkje d\u00f8",
-        "url": "https://open.spotify.com/album/3loCnhfuuWSN39QmcQ7C40"
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 260779,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         }
       ],
-      "duration_ms": 209427,
-      "name": "Eg vil ikkje d\u00f8",
-      "url": "https://open.spotify.com/track/0k8NqYHm1GkQcyI8SHKPeP"
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2026-03-12 23:00:43",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Team Paiya",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : DJ KEROZEN",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Anitch\u00e9 deh",
+        "url": "https://open.spotify.com/album/2y98G94gTdhvqn8zNvltOn"
+      },
+      "artists": [
+        {
+          "name": "Mille Etoil",
+          "url": "https://open.spotify.com/artist/5zN4AUBgav2DbSsVsw0ATF"
+        },
+        {
+          "name": "Jolina Verdigo",
+          "url": "https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171636,
+      "name": "Anitch\u00e9 deh",
+      "url": "https://open.spotify.com/track/3YefD0JOpz43dj1AnmVn9m"
+    },
+    {
+      "album": {
         "name": "Appeler Appeler",
         "url": "https://open.spotify.com/album/7mNUfx1TmPTuryh4qsqqIU"
       },
@@ -468,6 +490,28 @@
       "duration_ms": 171783,
       "name": "Appr\u00eatez-vous",
       "url": "https://open.spotify.com/track/5oliKkUCzfhFbHc6U1FRcg"
+    },
+    {
+      "album": {
+        "name": "Ap\u00f4tch\u00f4",
+        "url": "https://open.spotify.com/album/70dZVZWSeXhvJUdt00YhIz"
+      },
+      "artists": [
+        {
+          "name": "Ramses Tikaya",
+          "url": "https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1"
+        },
+        {
+          "name": "Jolina Verdigo",
+          "url": "https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176158,
+      "name": "Ap\u00f4tch\u00f4",
+      "url": "https://open.spotify.com/track/2SkrRuM4NEHxe385pfqFlA"
     },
     {
       "album": {
@@ -747,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Bognan",
+        "url": "https://open.spotify.com/album/3I15rmPBXgkWJPgChEFrSn"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        },
+        {
+          "name": "Pat Sako",
+          "url": "https://open.spotify.com/artist/1wDatgjRhoId4v1tdyEnKe"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Bognan",
+      "url": "https://open.spotify.com/track/6nkibasAMIKpBHeRMKW9xm"
+    },
+    {
+      "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
       },
@@ -914,7 +980,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 238400,
       "name": "C'EST SON TEMPS",
       "url": "https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb"
@@ -1266,6 +1332,24 @@
       "duration_ms": 174589,
       "name": "Coup du marteau",
       "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
+    },
+    {
+      "album": {
+        "name": "C'EST BIAMA QUI COORDONNE",
+        "url": "https://open.spotify.com/album/5zOLgXEs8SSMtt1K88ksM6"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180018,
+      "name": "COUPER-COUPER",
+      "url": "https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V"
     },
     {
       "album": {
@@ -2784,7 +2868,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 199271,
       "name": "Je veux voir quelque chose",
       "url": "https://open.spotify.com/track/0WplMmXy3DpHzKa8L73aGi"
@@ -2802,7 +2886,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 143105,
       "name": "Jersey Biama",
       "url": "https://open.spotify.com/track/6cWMNjt5AM2ZSIEGU1ydZI"
@@ -5240,7 +5324,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 179030,
       "name": "TU PRENDS ET PUIS TU LAISSES",
       "url": "https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao"
@@ -5284,7 +5368,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 148401,
       "name": "Tu veux g\u00e2ter ?",
       "url": "https://open.spotify.com/track/7IEJeRkgjVNp1CtkU0Pr12"
@@ -5412,6 +5496,24 @@
       "duration_ms": 188133,
       "name": "Winhou",
       "url": "https://open.spotify.com/track/0eSWaBiMsXeu6NIodT22AU"
+    },
+    {
+      "album": {
+        "name": "WonWon",
+        "url": "https://open.spotify.com/album/6xuiYrOgPClmsDgiaohTPW"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "WonWon",
+      "url": "https://open.spotify.com/track/4i89emqjbz4c4K4PNImqGC"
     },
     {
       "album": {

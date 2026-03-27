@@ -1,6 +1,6 @@
 {
   "description": "Recordamos la voz y personalidad de Dulce \ud83d\udd4a\ufe0f",
-  "num_followers": 209944,
+  "num_followers": 210051,
   "original_name": "Las Estrellas ",
   "owner": {
     "name": "Spotify",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
     },
     {
-      "added_at": "2025-01-03 04:11:23",
-      "album": {
-        "name": "Triunfador de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB"
-    },
-    {
       "added_at": "2021-12-21 16:52:55",
       "album": {
         "name": "Mujer De Todos Mujer De Nadie",
@@ -763,6 +747,22 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2025-01-03 04:11:23",
+      "album": {
+        "name": "Triunfador de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 279000,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lo Mejor De Mi",
         "url": "https://open.spotify.com/album/4k5g8lCMPYaAdjc7Urzz4Z"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 235093,
       "name": "Lo Mejor de Mi",
       "url": "https://open.spotify.com/track/3deEKI2RwUPAvKEZrXJrD4"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "La Historia De Magneto",
         "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 209146,
       "name": "Reconquistarte",
       "url": "https://open.spotify.com/track/7EyOWIqpFSHgK5Qs3HpDrU"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "HEY!",
-        "url": "https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mocedades 5",
         "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 187000,
       "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "HEY!",
+        "url": "https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Veinte Millas",
-      "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 290133,
       "name": "Volveras",
       "url": "https://open.spotify.com/track/0HBBLo3stGC04YBtVb43fG"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Veinte Millas",
+      "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Solo Lo Mejor",
-        "url": "https://open.spotify.com/album/3e46Eikg0L550c67joreHb"
-      },
-      "artists": [
-        {
-          "name": "Ednita Nazario",
-          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
-        }
-      ],
-      "duration_ms": 279906,
-      "name": "Lo Que Son Las Cosas",
-      "url": "https://open.spotify.com/track/2SYYgNrzGeDrrARWb7Lqk6"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "El Sonido Vol. 2",
         "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 233325,
       "name": "A Mi Amiga",
       "url": "https://open.spotify.com/track/2edz95SpNQ7dQ8rIfmoSCK"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Solo Lo Mejor",
+        "url": "https://open.spotify.com/album/3e46Eikg0L550c67joreHb"
+      },
+      "artists": [
+        {
+          "name": "Ednita Nazario",
+          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
+        }
+      ],
+      "duration_ms": 279906,
+      "name": "Lo Que Son Las Cosas",
+      "url": "https://open.spotify.com/track/2SYYgNrzGeDrrARWb7Lqk6"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Te Voy a Ense\u00f1ar a Querer",
-      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "La Chica Dorada",
         "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 234106,
       "name": "Amor De Mujer",
       "url": "https://open.spotify.com/track/6pDLcXSrOUrstNjLribvJL"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Te Voy a Ense\u00f1ar a Querer",
+      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Si T\u00fa Eres Mi Hombre y Yo Tu Mujer - The Power Of Love",
-      "url": "https://open.spotify.com/track/483lAqPysPKoI3swMcwAlz"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 234946,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/1phObKvh7T5uSypQ11RXHl"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Si T\u00fa Eres Mi Hombre y Yo Tu Mujer - The Power Of Love",
+      "url": "https://open.spotify.com/track/483lAqPysPKoI3swMcwAlz"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2795,6 +2795,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Quiero Escaparme De Ti",
+      "url": "https://open.spotify.com/track/0T4foqM5NWaO1eiaR7pn1G"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
       },
@@ -2823,22 +2839,6 @@
       "duration_ms": 181053,
       "name": "Con el Viento a Tu Favor",
       "url": "https://open.spotify.com/track/25U61HewnPiN12BaBYrqQL"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Quiero Escaparme De Ti",
-      "url": "https://open.spotify.com/track/0T4foqM5NWaO1eiaR7pn1G"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3055,22 +3055,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Sentidos Opuestos",
         "url": "https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64"
       },
@@ -3087,18 +3071,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Si Me Llevas Contigo",
-        "url": "https://open.spotify.com/album/3vwxHo7e2kW7r2hG8WjbbC"
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Si Me Llevas Contigo",
-      "url": "https://open.spotify.com/track/1qT0L6pthEl5rabF7KrqyP"
+      "duration_ms": 204160,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3115,6 +3099,22 @@
       "duration_ms": 293600,
       "name": "Leona Dormida",
       "url": "https://open.spotify.com/track/5GVJtEbJm9Im1HrCdWR5JY"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Si Me Llevas Contigo",
+        "url": "https://open.spotify.com/album/3vwxHo7e2kW7r2hG8WjbbC"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Si Me Llevas Contigo",
+      "url": "https://open.spotify.com/track/1qT0L6pthEl5rabF7KrqyP"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Sasha",
-        "url": "https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh"
-      },
-      "artists": [
-        {
-          "name": "Sasha Sokol",
-          "url": "https://open.spotify.com/artist/36Wnz8AZ8DFZ7C0QQhlQdx"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "No Me Extra\u00f1a Nada",
-      "url": "https://open.spotify.com/track/7HWtDAojEbWb3Av3eSuc1s"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Revelaciones",
         "url": "https://open.spotify.com/album/7Grag5NulktBfsSGZhPIFu"
       },
@@ -3199,6 +3183,38 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Sasha",
+        "url": "https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh"
+      },
+      "artists": [
+        {
+          "name": "Sasha Sokol",
+          "url": "https://open.spotify.com/artist/36Wnz8AZ8DFZ7C0QQhlQdx"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "No Me Extra\u00f1a Nada",
+      "url": "https://open.spotify.com/track/7HWtDAojEbWb3Av3eSuc1s"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Soy rebelde",
+      "url": "https://open.spotify.com/track/7bK8EUCNYTfVAh92mnH7wo"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Lila Deneken......Por Cobard\u00eda",
         "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
       },
@@ -3211,22 +3227,6 @@
       "duration_ms": 284440,
       "name": "Por Cobard\u00eda",
       "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Armando Manzanero",
-        "url": "https://open.spotify.com/album/0n7JfwQrT508Hsg3sSDeTM"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/05CfvXFk8iDBJpxYHi8Kpq"
     },
     {
       "added_at": "2021-12-21 16:52:55",

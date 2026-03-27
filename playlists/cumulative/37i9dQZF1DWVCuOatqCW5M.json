@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Aditya Rikhari, Ravator, Akashdeep Sengupta and more.",
+  "description": "Latest music from Zack Knight, Priyanshi Srivastava, Deedar Kaur and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -3422,6 +3422,28 @@
       "duration_ms": 132451,
       "name": "Babumoshai - From \"Made in India\"",
       "url": "https://open.spotify.com/track/4gBCkOT2Tm1GPA10HtHtst"
+    },
+    {
+      "album": {
+        "name": "Badal Gya",
+        "url": "https://open.spotify.com/album/0qEWN2arM4F1SzIL6Qz5jt"
+      },
+      "artists": [
+        {
+          "name": "Arshaan",
+          "url": "https://open.spotify.com/artist/1vxsrY2Jh6mxNkQmXlV3Zr"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Badal Gya",
+      "url": "https://open.spotify.com/track/1QyUebXlm3gnaPSw3omRMW"
     },
     {
       "album": {
@@ -10489,6 +10511,32 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/1RyZAlvby4JqWjSFbacLLp"
+      },
+      "artists": [
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194651,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/2Zn3ALsgLJ6WJcmRWvbY07"
+    },
+    {
+      "album": {
         "name": "Enna Yaad",
         "url": "https://open.spotify.com/album/5G1UIEpLAdfixST5nBT3Oq"
       },
@@ -11642,6 +11690,24 @@
       "duration_ms": 168000,
       "name": "Gulabi Gaal",
       "url": "https://open.spotify.com/track/6ltkS7WVQfOmnKx7BXXBDI"
+    },
+    {
+      "album": {
+        "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/3Re9vlX5wIp2BsWQJbmcSv"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191118,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/6gG0DORD3lrsrnXDLKQIPt"
     },
     {
       "album": {
@@ -15218,7 +15284,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 243054,
       "name": "Jaan Kehte They",
       "url": "https://open.spotify.com/track/5Ii8bwz1KikZUouVHtBJJX"
@@ -19794,7 +19860,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 228795,
       "name": "Koi Naam",
       "url": "https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR"
@@ -21420,6 +21486,24 @@
       "duration_ms": 150637,
       "name": "MAHARANI",
       "url": "https://open.spotify.com/track/6lDfLFiLuu1X326XudETOm"
+    },
+    {
+      "album": {
+        "name": "Mahfooz",
+        "url": "https://open.spotify.com/album/4ub8gIyOeECq4ozJSWVp54"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206971,
+      "name": "Mahfooz",
+      "url": "https://open.spotify.com/track/66bOMWZ3vrXz3OBKPLTppQ"
     },
     {
       "album": {
@@ -26410,7 +26494,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245177,
       "name": "Pari",
       "url": "https://open.spotify.com/track/7puxdj9sb3JMDfH4aSnAb5"
@@ -31970,7 +32054,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 205189,
       "name": "Sohneya",
       "url": "https://open.spotify.com/track/16GbQga1KdwbYPDoIBnok5"
@@ -33122,6 +33206,28 @@
       "duration_ms": 150322,
       "name": "Tarse Jiya",
       "url": "https://open.spotify.com/track/4awiGalBUrW2cGvuLdKDli"
+    },
+    {
+      "album": {
+        "name": "Tauba",
+        "url": "https://open.spotify.com/album/6HKrPUgo4uVtv1Qfzs4ntK"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Tauba",
+      "url": "https://open.spotify.com/track/4QKT1WE079EqMAWC8S0MEJ"
     },
     {
       "album": {

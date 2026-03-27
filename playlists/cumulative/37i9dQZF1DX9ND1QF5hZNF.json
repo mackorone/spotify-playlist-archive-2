@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 148000,
       "name": "HOLD ME AGAIN",
       "url": "https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX"
@@ -3630,6 +3630,24 @@
       "duration_ms": 146500,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1So10NR5uEGx28mRSHpwxT"
+    },
+    {
+      "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
     },
     {
       "album": {
@@ -5864,7 +5882,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 195323,
       "name": "Regarder la nuit, les \u00e9toiles",
       "url": "https://open.spotify.com/track/1Cr1Bp48qrk0lxKxCanrZl"
@@ -5926,7 +5944,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 269221,
       "name": "Running In A Dream",
       "url": "https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs"
@@ -6311,6 +6329,28 @@
     },
     {
       "album": {
+        "name": "Sign (Revision)",
+        "url": "https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186340,
+      "name": "Sign (Revision)",
+      "url": "https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8"
       },
@@ -6594,6 +6634,24 @@
       "duration_ms": 144180,
       "name": "Sous Le Soleil",
       "url": "https://open.spotify.com/track/2yrQw5WdgYXfH78fy19lNj"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4IDityJPrbAPBQe53fb90X"
+      },
+      "artists": [
+        {
+          "name": "Bleu nuage",
+          "url": "https://open.spotify.com/artist/4PSY0dGrFXLJvR9vuNYTq2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/5GngRaL5Vtz1LC0ZAmZfVs"
     },
     {
       "album": {

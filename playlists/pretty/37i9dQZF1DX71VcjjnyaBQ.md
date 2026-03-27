@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,013 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,066 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 4 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 |
 | 5 | [Fair Weather](https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Fair Weather](https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd) | 4:44 |
 | 6 | [Where We Used to Live](https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Tuesday Wonderland](https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y) | 4:27 |
-| 7 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 |
-| 8 | [Memory Lane](https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Memory Lane](https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x) | 3:46 |
-| 9 | [Riders On The Storm](https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 5:33 |
-| 10 | [The Dreamer](https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 3:37 |
+| 7 | [Memory Lane](https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Memory Lane](https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x) | 3:46 |
+| 8 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 |
+| 9 | [The Dreamer](https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 3:37 |
+| 10 | [Riders On The Storm](https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 5:33 |
 | 11 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 |
 | 12 | [Frere Jacques](https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 3:09 |
 | 13 | [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 |

@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 182708,
       "name": "Hey Honey (fra filmen Honey)",
       "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 192818,
       "name": "How I Love You",
       "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
@@ -5951,6 +5951,24 @@
     },
     {
       "album": {
+        "name": "Skyklapper",
+        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173259,
+      "name": "Skyklapper",
+      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK"
       },
@@ -6020,6 +6038,24 @@
       "duration_ms": 211613,
       "name": "Slow Fade",
       "url": "https://open.spotify.com/track/25aILAMvglYwkk4QkbfAxV"
+    },
+    {
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
     },
     {
       "album": {
@@ -6471,6 +6507,24 @@
     },
     {
       "album": {
+        "name": "Superlim",
+        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185355,
+      "name": "Superlim",
+      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
+    },
+    {
+      "album": {
         "name": "F\u00e5nga mig n\u00e4r jag faller",
         "url": "https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu"
       },
@@ -6750,6 +6804,24 @@
       "duration_ms": 231453,
       "name": "The One Who Truly Loves Me",
       "url": "https://open.spotify.com/track/4QhGhhrzlNlPzXfV7m7y38"
+    },
+    {
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "album": {
@@ -7296,7 +7368,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 188493,
       "name": "Until The Morning Light",
       "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
@@ -7646,7 +7718,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"

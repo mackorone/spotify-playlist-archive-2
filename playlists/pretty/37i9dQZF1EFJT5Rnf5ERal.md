@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661 likes - 277 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660 likes - 277 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 139 | [From the Jump \(feat\. Tay Keith\)](https://open.spotify.com/track/2CGjYkr9fe9I6cJ7nHDDa7) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Big Grim Reaper](https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w) | 2:08 |
 | 140 | [Sno Cone \(feat\. Quavo & Gucci Mane\)](https://open.spotify.com/track/3n1nexKECrkHZPyAJgUSmC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 3:10 |
 | 141 | [Lullaby](https://open.spotify.com/track/60wjsG8f8obJuJL24EkEhe) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:15 |
-| 142 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
-| 143 | [Spinnin \(feat\. Tay Keith\)](https://open.spotify.com/track/0WRXHGJI23n8jqiOrOOzZT) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Rookie Of The Year](https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB) | 2:13 |
+| 142 | [Spinnin \(feat\. Tay Keith\)](https://open.spotify.com/track/0WRXHGJI23n8jqiOrOOzZT) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Rookie Of The Year](https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB) | 2:13 |
+| 143 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
 | 144 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 |
 | 145 | [Bottom](https://open.spotify.com/track/0PcCC6A17tbBckIM4q5Q1L) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 3:25 |
 | 146 | [Blow the Pickle \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3e6FIuzEBiseLJIK0mB1T8) | [Ambjaay](https://open.spotify.com/artist/3BbPRvYQ0M9SFmhkHXozLm), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [It Cost To Live Like This Pt\. 2](https://open.spotify.com/album/6veRHR6PSNEVog2EBrmK4H) | 2:15 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 276 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 277 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `AcNG9AAAAAAk4socPEKJrjrv7qixnOBw`
+Snapshot ID: `AcNMgAAAAAAY2IevjbSmz5ZonezpEJGw`

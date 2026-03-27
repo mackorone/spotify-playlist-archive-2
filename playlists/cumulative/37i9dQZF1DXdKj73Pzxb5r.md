@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Orkes Bada Isya
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: MAIVE
 
-497 songs - 1 day 7 hr 46 min
+504 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fantasi](https://open.spotify.com/track/2gd4rxTdI3eDWJDJO55dQj) | [Crayon Cosmos](https://open.spotify.com/artist/22iWhjjaX8kiL2HcPEwdvt) | [Fantasi](https://open.spotify.com/album/4s9KCrpNlQoEJ1WG1qHuqw) | 2:33 | 2025-07-17 | 2025-10-24 |
 | [Fatamorgana](https://open.spotify.com/track/4rqEnEq8CQzOzjwU2iCHxn) | [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ) | [Fatamorgana](https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo) | 3:37 | 2024-09-13 | 2024-11-29 |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-05 |
+| [Fell 4 U](https://open.spotify.com/track/2NW2dhhqVi2zyWWrht0Yxh) | [Alika](https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5) | [Fell 4 U](https://open.spotify.com/album/4sMOy7wGvjBKFurJBcfa5F) | 3:24 | 2026-03-26 |  |
 | [Fermeture](https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 1:04 | 2024-07-16 | 2024-08-30 |
 | [fianeruuu](https://open.spotify.com/track/79dQWTaS9Ws5xNP5fX7KWp) | [funeruuu](https://open.spotify.com/artist/4GSDhPmvDagdbT7iNFUxST), [Aliefia Augustine](https://open.spotify.com/artist/4M2zJEbOzkpDZICzlTTknN) | [funeruuu dan teman\-teman funeruuu](https://open.spotify.com/album/0oCeD9Z2IbzIZCvtB0FqKG) | 4:15 | 2024-10-07 | 2025-02-01 |
 | [Filsafat Cinta](https://open.spotify.com/track/3TzsJgxnPv3yZiRMlzXx41) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filsafat Cinta](https://open.spotify.com/album/619Kne2BRlX23Zd2TD1ioc) | 3:02 | 2025-06-19 |  |
@@ -163,6 +164,7 @@
 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-04 | 2024-11-29 |
 | [Gumam](https://open.spotify.com/track/7kGQoEXrUR7aBIkgJCwEnZ) | [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy) | [VIS A VIS](https://open.spotify.com/album/0dC1ZaxZ1BCEM3C5Au8yeX) | 4:32 | 2025-03-06 | 2025-05-23 |
 | [Gundah](https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Aprilia Apsari](https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B) | [Gundah](https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z) | 4:46 | 2025-09-18 | 2026-02-06 |
+| [Had Enough](https://open.spotify.com/track/6hWP8Bt2AaJG6SZgyZ9Vve) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [On Me](https://open.spotify.com/album/60u16N14Yno47bQNlYo4jw) | 3:28 | 2026-03-26 |  |
 | [Harap](https://open.spotify.com/track/6Chsst9NID5A8otlE0Gacz) | [Mountain Moves](https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV) | [Mountain Moves](https://open.spotify.com/album/2QrkEaT5wxdCrAiG1QLoDz) | 3:05 | 2024-10-31 | 2025-01-03 |
 | [Harapan, Pt\. 3](https://open.spotify.com/track/42stYHbwsVEe8hpgoiHozN) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [Harapan](https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ) | 4:26 | 2024-06-27 | 2024-09-06 |
 | [Hari Hari Musik](https://open.spotify.com/track/33CQlRUmCOYQS7dQCMHpDw) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Hari Hari Musik](https://open.spotify.com/album/43MqWpLfqpeVs6EBYmhEwi) | 4:46 | 2024-06-27 | 2024-08-02 |
@@ -310,6 +312,7 @@
 | [MNSF](https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [MNSF](https://open.spotify.com/album/1zEvKoMzRqXIRM9RnAzi84) | 3:13 | 2024-06-27 | 2024-07-05 |
 | [Mohon Maaf](https://open.spotify.com/track/4Fe6hYyWpcTKHOrWCoQp5e) | [Good Ol' Dreams](https://open.spotify.com/artist/79q9reqE7oBuRsYVubsrYN) | [Untuk Pengantin](https://open.spotify.com/album/2cwYJmPEAyOEwvvgh2T2t3) | 4:12 | 2024-06-27 | 2024-08-30 |
 | [Monopolar](https://open.spotify.com/track/7FsylnthYpfFkOnFj8xBT5) | [Strange Fruit](https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy) | [Monopolar](https://open.spotify.com/album/2xIr4lTHFOX24DssyuvO0R) | 5:21 | 2026-02-05 |  |
+| [More Time](https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [More Time](https://open.spotify.com/album/6oLAT3dtRuQAjauvm72BHp) | 3:25 | 2026-03-26 |  |
 | [Mr\. Sunflower \(Noni's Lullaby\)](https://open.spotify.com/track/4qwPIkxPgdbkSiNMiLhUM9) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b) | [Mr\. Sunflower \(Noni's Lullaby\)](https://open.spotify.com/album/0UG7d1uq3pw6hN6KqYb8K7) | 3:44 | 2025-08-21 | 2026-01-15 |
 | [Mungkin Saja](https://open.spotify.com/track/0P9SQLVE76N3QX4AkiyuM7) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Mungkin Saja](https://open.spotify.com/album/4simdciqfJWcdZHk1URkfW) | 2:15 | 2024-06-27 | 2024-08-17 |
 | [Musim Baru](https://open.spotify.com/track/6Q87aGLVnjoODeJXyKr57x) | [Mafia Pemantik Qolbu](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom) | [Musim Baru](https://open.spotify.com/album/53Yc1DEooyuh6WEN4Ad50E) | 4:27 | 2024-06-27 | 2024-07-12 |
@@ -333,6 +336,7 @@
 | [Nyali](https://open.spotify.com/track/5Xefj8Ap90LSfZCazbCk8R) | [Manjakani](https://open.spotify.com/artist/6bITofkrePxaLEJf90JjvX) | [Nyali](https://open.spotify.com/album/1IvsI2LopbvtDVu3uqKKpq) | 3:50 | 2025-02-13 | 2025-04-26 |
 | [Ode to an Old Man](https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA) | [Gonggo Sound](https://open.spotify.com/album/05zhGBYMnpmqGFeVAeJOnx) | 2:01 | 2024-06-27 | 2024-11-01 |
 | [Oh Mengapa](https://open.spotify.com/track/3YdLD1PnI21Xsa8Nax9tGh) | [Sinajimasi](https://open.spotify.com/artist/5kyl7OeHkW1ZYHNpHDKtxD) | [Oh Mengapa](https://open.spotify.com/album/6xFlvBuwlGRgSGYkttTQk6) | 3:51 | 2024-06-27 | 2024-08-02 |
+| [Ok Not To Be Ok](https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Humanoid Heart](https://open.spotify.com/album/0dFsMYOJCh20Fk6tvxUcDe) | 3:12 | 2026-03-26 |  |
 | [One](https://open.spotify.com/track/0qN7L2WWTpsttXkzLmDBk5) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [One](https://open.spotify.com/album/3cW95hOPGDFrBfUGnaSoO0) | 3:36 | 2025-10-02 | 2025-11-07 |
 | [Padam, Hadirmu Lentera](https://open.spotify.com/track/0tzteHtQzkR58XkA7bDzHL) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Padam, Hadirmu Lentera](https://open.spotify.com/album/6Pgg7VZpg1Cqap7WUs0C5p) | 3:35 | 2024-06-27 | 2024-07-27 |
 | [Paint](https://open.spotify.com/track/64X0jkriPbZFq6psHQZ0av) | [Patras](https://open.spotify.com/artist/3oq19Oviwg8G6VSQCINN6z) | [Paint](https://open.spotify.com/album/4tLhCY9PwFZAVs0aJafiW4) | 3:21 | 2025-09-11 | 2025-11-29 |
@@ -374,6 +378,7 @@
 | [Regret](https://open.spotify.com/track/4agohq4gXxIT5ZuJYWgq9y) | [Comatra](https://open.spotify.com/artist/0wQG0wMIyif5vczfspwiE6) | [Regret](https://open.spotify.com/album/7Hroty9MCvq3NvzhfiOnsU) | 4:23 | 2025-10-23 | 2026-02-13 |
 | [Reminisce](https://open.spotify.com/track/0In5ZycueEeUggbEQOvXo7) | [Lucien Sunmoon](https://open.spotify.com/artist/1iyZiDBthvSTIdAhg1TLAb) | [Reminisce](https://open.spotify.com/album/5PteZJZXJXkJEzwTOD1j4p) | 4:12 | 2024-06-27 | 2024-07-27 |
 | [Ride The Lightning Boarding School](https://open.spotify.com/track/1VPj2ZGy3plU9N9gKJMhAp) | [Teenage Death Star](https://open.spotify.com/artist/0IawwTkzo4Y48AuJawFBCE), [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [Ride The Lightning Boarding School](https://open.spotify.com/album/4rv3qg4CQyDATaYXOXrv3E) | 3:01 | 2025-01-23 | 2025-04-26 |
+| [Ridin' in My Car](https://open.spotify.com/track/1Al0oRPSWznrW4EWyLsKRR) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Ridin' in My Car](https://open.spotify.com/album/7ufytMfxSiMDdQgZgB2ZgN) | 3:15 | 2026-03-26 |  |
 | [Rindu Lintas Ruang dan Waktu](https://open.spotify.com/track/4ooJqu9HGsltS46D2R1dvn) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Gelora Asa](https://open.spotify.com/album/3afU8y2wEbUKFQDYeYVI0p) | 2:49 | 2025-11-06 | 2026-02-13 |
 | [Riot Angels](https://open.spotify.com/track/2dyO7E1uadz2d5LRbfhW1P) | [The Hydrant](https://open.spotify.com/artist/7JbyDoxuSWVvH1IvrNj2Dd) | [Riot Angels](https://open.spotify.com/album/7M3flwCd0kAKZ7RT596Xwp) | 3:17 | 2025-01-02 | 2025-02-21 |
 | [Romansa Romansaan](https://open.spotify.com/track/1KNcfSeKP1PyhRot4ylMC0) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Romansa Romansaan](https://open.spotify.com/album/7MqEdqGfiVkNHjOT2avUiy) | 2:25 | 2024-07-25 | 2025-10-03 |
@@ -384,6 +389,7 @@
 | [Salah](https://open.spotify.com/track/2u5tz3X8WN5SLJMUVKoVvP) | [Domestique Club](https://open.spotify.com/artist/2MsAZb3nzWesXFJ0NwVNcN) | [Salah](https://open.spotify.com/album/1tyGKn3ddpRAcTYwP2t1nA) | 5:03 | 2024-06-27 | 2024-07-19 |
 | [Salahkah](https://open.spotify.com/track/2M1fu2RYxPGZ0jwogMR0UX) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [LEVITASI](https://open.spotify.com/album/12y9mwCN7sJaQmcQlyS5V2) | 3:31 | 2026-01-16 | 2026-02-06 |
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-09-26 | 2025-03-21 |
+| [Sampai Mati](https://open.spotify.com/track/4brgarWvSnBR9NNWg7awHr) | [Pringgo](https://open.spotify.com/artist/4M0E2npFl5HMq0g8vFYfpc) | [Sampai Mati](https://open.spotify.com/album/49YPTNhFkjcCRRLjcv4rVH) | 3:58 | 2026-03-26 |  |
 | [Sang Air](https://open.spotify.com/track/5y4Kgbn16NbHqd5hsWIqsa) | [Dialog Dini Hari](https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149), [Khita](https://open.spotify.com/artist/2mMf1BdJ0cc6IW2n4YiAEM) | [Sang Air](https://open.spotify.com/album/0eapVoaliAzU6N8g1r4kHn) | 3:58 | 2024-06-27 | 2024-08-02 |
 | [Saran & Keluhan](https://open.spotify.com/track/7yxdf4zMOl0hh4n4lxidXh) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b) | [Saran & Keluhan](https://open.spotify.com/album/6f9JUnA7IGBKlDZdLACvjq) | 6:12 | 2025-05-22 | 2025-08-22 |
 | [Satu per Satu](https://open.spotify.com/track/7hnWGKq424gn5t6qba2eKu) | [Olski](https://open.spotify.com/artist/4R0IfHszLiWGOgtqlyuY71), [Hifdzikhoir](https://open.spotify.com/artist/58C6H14yuEB7fMu5lninwB) | [Satu per Satu](https://open.spotify.com/album/5qCGnSC8Pwdj4LzTCpMAWg) | 3:32 | 2025-05-08 | 2025-08-15 |
@@ -424,6 +430,7 @@
 | [Sofa](https://open.spotify.com/track/6T0TCXAjAClGjtRrtXNCCj) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Sofa](https://open.spotify.com/album/3As3ggTCinS2YTULKru48j) | 4:54 | 2025-02-20 |  |
 | [Some Things Change](https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Awkward Pop Music](https://open.spotify.com/album/70Br2gTCCJoO7hYQfH6Mvt) | 2:18 | 2025-05-16 | 2025-07-04 |
 | [Somebody](https://open.spotify.com/track/2pEQ9g8Onxp3cxK6DMpln5) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Somebody](https://open.spotify.com/album/6xG1Tz7Li6xSmdJJHClCxk) | 3:18 | 2025-11-06 | 2026-01-15 |
+| [Somebody to Love](https://open.spotify.com/track/7cGivVuKgxzPEncphBHK4F) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Somebody to Love](https://open.spotify.com/album/4Q6vt0pyZkJ0YR3Cx1y9fA) | 3:17 | 2026-03-26 |  |
 | [Someone Made For Me](https://open.spotify.com/track/1E38mDGZntSrz0dot6A6y1) | [Asteriska](https://open.spotify.com/artist/24j6RDsf06YOAKudHmvPry) | [Someone Made For Me](https://open.spotify.com/album/3l7dUQ6SNnMVkqJWKJvL2G) | 3:04 | 2025-04-25 | 2025-06-20 |
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-13 | 2025-02-21 |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-12 |
@@ -484,7 +491,7 @@
 | [Vom](https://open.spotify.com/track/6Kq42y6TC92XYhvObBQAO7) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Vom](https://open.spotify.com/album/0y2gdrV2oqEF2sE24Zxuny) | 1:59 | 2024-06-27 | 2024-08-30 |
 | [Wahai Kau](https://open.spotify.com/track/1CDC40cmf5EBqJBwC586zi) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Wahai Kau](https://open.spotify.com/album/76BF66VPRzxHj1m8GvxFvq) | 4:08 | 2024-08-29 | 2025-10-24 |
 | [waiting game](https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [waiting game](https://open.spotify.com/album/2VzlrNdjwTkLzMocNcQwzE) | 3:09 | 2024-06-27 | 2024-07-05 |
-| [Walau Berantakan](https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Walau Berantakan](https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP) | 3:12 | 2024-10-31 |  |
+| [Walau Berantakan](https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Walau Berantakan](https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP) | 3:12 | 2024-10-31 | 2026-03-27 |
 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-13 | 2024-12-14 |
 | [Wedjangan](https://open.spotify.com/track/3n6f7f6MujxaKhMBR4rfI5) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Wedjangan](https://open.spotify.com/album/66Uh7fP6lDfcQ5FycNCyzs) | 3:40 | 2024-07-25 | 2024-10-11 |
 | [Well, dadah](https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Well, dadah](https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI) | 3:17 | 2025-08-14 |  |

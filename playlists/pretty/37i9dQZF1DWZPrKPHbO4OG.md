@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,644 likes - 43 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,660 likes - 43 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Baaygo Baaygo](https://open.spotify.com/track/5Hwba9pAPtFKrEPsupYmvM) | [Ajay](https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH), [Atul Gogavale](https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob) | [Ringa Ringa](https://open.spotify.com/album/0unnoqFH7KO7kXaDV68BvL) | 4:32 |
 | 43 | [Aika Dajiba](https://open.spotify.com/track/5FjtI1VamgonPsylqnQWNZ) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Aika Dajiba](https://open.spotify.com/album/2W0MLcqkRs0DbS3kXq4d7C) | 4:45 |
 
-Snapshot ID: `AAAAACibchnZFkPAU6TQFcQSpAiMm7mc`
+Snapshot ID: `AAAAAKOrAIxKk9bPGPHTSf5TKDGvNdyW`

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 141190,
+  "num_followers": 141198,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAnAqvI9hLroxJ60JM43MfP",
+  "snapshot_id": "acMlgAAAAAAEQMyHcu0XIooXO8X426Tu",
   "tracks": [
     {
       "added_at": null,
@@ -331,38 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat To The Beat",
-        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 238060,
-      "name": "Shayla",
-      "url": "https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parallel Lines",
-        "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 200864,
-      "name": "11:59",
-      "url": "https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -383,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+        "name": "Parallel Lines",
+        "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
       "artists": [
         {
@@ -392,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 365693,
-      "name": "Good Boys - Blow-Up Mix / Remastered",
-      "url": "https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a"
+      "duration_ms": 200864,
+      "name": "11:59",
+      "url": "https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz"
     },
     {
       "added_at": null,
@@ -408,15 +376,15 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 253631,
-      "name": "Accidents Never Happen",
-      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
+      "duration_ms": 238060,
+      "name": "Shayla",
+      "url": "https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
       "artists": [
         {
@@ -424,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 148979,
-      "name": "Detroit 442 - Remastered",
-      "url": "https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG"
+      "duration_ms": 365693,
+      "name": "Good Boys - Blow-Up Mix / Remastered",
+      "url": "https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a"
     },
     {
       "added_at": null,
@@ -447,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
       "artists": [
         {
@@ -456,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 230240,
-      "name": "Island Of Lost Souls",
-      "url": "https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN"
+      "duration_ms": 168360,
+      "name": "Bermuda Triangle Blues - Remastered",
+      "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
     },
     {
       "added_at": null,
@@ -472,15 +440,15 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 222600,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
+      "duration_ms": 253631,
+      "name": "Accidents Never Happen",
+      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
       "artists": [
         {
@@ -488,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Bermuda Triangle Blues - Remastered",
-      "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
+      "duration_ms": 230240,
+      "name": "Island Of Lost Souls",
+      "url": "https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN"
     },
     {
       "added_at": null,
@@ -511,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 148979,
+      "name": "Detroit 442 - Remastered",
+      "url": "https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat To The Beat",
+        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 239573,
       "name": "End To End",
       "url": "https://open.spotify.com/track/3Tl6l1nAmOcmpbx3ODqLkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Man Overboard - Remastered 2001",
+      "url": "https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Man Overboard - Remastered 2001",
-      "url": "https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -587,38 +587,6 @@
       "duration_ms": 174639,
       "name": "Doom or Destiny",
       "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Angels On The Balcony - Remastered 2001",
-      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Contact In Red Square - Remastered",
-      "url": "https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4"
     },
     {
       "added_at": null,
@@ -639,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Girl",
-        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Sunday Girl - French Version",
-      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -671,6 +623,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Contact In Red Square - Remastered",
+      "url": "https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Girl",
+        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Sunday Girl - French Version",
+      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 380480,
       "name": "Ll\u00e1mame (Call Me)",
       "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Angels On The Balcony - Remastered 2001",
+      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Live It Up - Remastered 2001",
-      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Exit",
         "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193173,
       "name": "Nothing Is Real but the Girl",
       "url": "https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Live It Up - Remastered 2001",
+      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Walk Like Me - Remastered 2001",
-      "url": "https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunter",
         "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 187400,
       "name": "For Your Eyes Only - Remastered",
       "url": "https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Walk Like Me - Remastered 2001",
+      "url": "https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN"
     }
   ],
   "unique_name": "This Is Blondie",

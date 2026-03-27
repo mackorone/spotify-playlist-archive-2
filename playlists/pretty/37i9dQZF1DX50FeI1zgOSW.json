@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sarah Black",
-  "num_followers": 18845,
+  "num_followers": 18862,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABL/bFUR7QZ2F55JnOrWAbjADiAn",
+  "snapshot_id": "AAAAACy+dnpbVZvvv2rA45OVn4TXKTiO",
   "tracks": [
     {
       "added_at": "2026-03-02 06:00:24",
@@ -181,6 +181,22 @@
       "url": "https://open.spotify.com/track/0qVlF5XwVtBqiOUvBB6qso"
     },
     {
+      "added_at": "2026-02-26 04:01:08",
+      "album": {
+        "name": "Sorgame Stun Aagum",
+        "url": "https://open.spotify.com/album/0slcTlopbFcegmXRBLbBqx"
+      },
+      "artists": [
+        {
+          "name": "Arun VT",
+          "url": "https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf"
+        }
+      ],
+      "duration_ms": 183636,
+      "name": "Sorgame Stun Aagum",
+      "url": "https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy"
+    },
+    {
       "added_at": "2026-02-23 12:41:36",
       "album": {
         "name": "En Kadhalum",
@@ -201,20 +217,48 @@
       "url": "https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no"
     },
     {
-      "added_at": "2026-02-26 04:01:08",
+      "added_at": "2026-03-26 06:36:16",
       "album": {
-        "name": "Sorgame Stun Aagum",
-        "url": "https://open.spotify.com/album/0slcTlopbFcegmXRBLbBqx"
+        "name": "Kannal Kadhal Kolludhadi (From \"Imir Music\")",
+        "url": "https://open.spotify.com/album/1uqC8tEdebgdnblIKbKtq5"
       },
       "artists": [
         {
-          "name": "Arun VT",
-          "url": "https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf"
+          "name": "Ajmal Khan",
+          "url": "https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR"
+        },
+        {
+          "name": "Nithesh Dhakshin",
+          "url": "https://open.spotify.com/artist/3A8FtmRPlshsKsFLN70tZv"
         }
       ],
-      "duration_ms": 183636,
-      "name": "Sorgame Stun Aagum",
-      "url": "https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy"
+      "duration_ms": 139393,
+      "name": "Kannal Kadhal Kolludhadi (From \"Imir Music\")",
+      "url": "https://open.spotify.com/track/7zHudAKNGkZEMHRXQim6mk"
+    },
+    {
+      "added_at": "2026-03-26 06:28:43",
+      "album": {
+        "name": "Ondu Rendu",
+        "url": "https://open.spotify.com/album/279b9lCdoSdo3B0G0aPvPY"
+      },
+      "artists": [
+        {
+          "name": "Ashnaa",
+          "url": "https://open.spotify.com/artist/2XrbuKCQpeSCmR8lViu8aK"
+        },
+        {
+          "name": "Bups Saggu",
+          "url": "https://open.spotify.com/artist/4OnbPgq5lRZJdbvYT7dwZD"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        }
+      ],
+      "duration_ms": 210433,
+      "name": "Ondu Rendu",
+      "url": "https://open.spotify.com/track/26j5TqO25YifNx5kpAE6N1"
     },
     {
       "added_at": "2026-03-11 11:06:32",
@@ -239,6 +283,42 @@
       "duration_ms": 278117,
       "name": "Mudhal Kadhal",
       "url": "https://open.spotify.com/track/2Xc5tsdj047m83rVvWRM9p"
+    },
+    {
+      "added_at": "2026-03-26 13:45:35",
+      "album": {
+        "name": "Na Varanja Oviyam",
+        "url": "https://open.spotify.com/album/2t4mJmS7vJuxmucYqGeEfJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan",
+          "url": "https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT"
+        },
+        {
+          "name": "Atiium",
+          "url": "https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Na Varanja Oviyam",
+      "url": "https://open.spotify.com/track/5dV4lDy8gEgRrQXipmD2v6"
+    },
+    {
+      "added_at": "2026-03-26 06:36:16",
+      "album": {
+        "name": "Paarthale Pathikichu",
+        "url": "https://open.spotify.com/album/2Io8UHL52heJPiEXFxAHrg"
+      },
+      "artists": [
+        {
+          "name": "Naveed Rehman",
+          "url": "https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq"
+        }
+      ],
+      "duration_ms": 168545,
+      "name": "Paarthale Pathikichu",
+      "url": "https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5"
     },
     {
       "added_at": "2026-03-24 07:17:34",
@@ -367,6 +447,26 @@
       "duration_ms": 192000,
       "name": "VANTHA RAJA",
       "url": "https://open.spotify.com/track/3HQWGzhjyfTSYAkYTaNJKS"
+    },
+    {
+      "added_at": "2026-03-26 13:45:35",
+      "album": {
+        "name": "Pogum Idame",
+        "url": "https://open.spotify.com/album/1HfH2YoKmPuotkTE9d3a2i"
+      },
+      "artists": [
+        {
+          "name": "Murali Gunasekaran",
+          "url": "https://open.spotify.com/artist/5chCsRDtovQiVt3szfPxpK"
+        },
+        {
+          "name": "Rajnivel",
+          "url": "https://open.spotify.com/artist/2oTIkLwKleKb6bZ5f1bqiZ"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Pogum Idame",
+      "url": "https://open.spotify.com/track/0aFrjcbjAoANHWEZHv1RAS"
     },
     {
       "added_at": "2026-03-05 10:00:17",
@@ -1547,22 +1647,6 @@
       "duration_ms": 219318,
       "name": "Vidavaa Vidavaa",
       "url": "https://open.spotify.com/track/4NYqc7Sgx07u5awh3H1yHP"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "ATMA",
-        "url": "https://open.spotify.com/album/5fgQTko22Vt1yXZ84yW6Sf"
-      },
-      "artists": [
-        {
-          "name": "PAX DHARMA",
-          "url": "https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ"
-        }
-      ],
-      "duration_ms": 185711,
-      "name": "ATMA",
-      "url": "https://open.spotify.com/track/3TLUrerWmrfDo6CnxKwS4u"
     },
     {
       "added_at": "2026-01-09 19:30:11",

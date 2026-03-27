@@ -2,9 +2,9 @@
 
 ### [mint Japan](https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco)
 
-> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Kungs, Boys Noize
+> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Icona Pop, Daya
 
-752 songs - 1 day 14 hr 45 min
+753 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-03-16 | 2023-06-09 |
 | [Rhythm of the Night](https://open.spotify.com/track/4GsFcpSiUAbFKa1CPFWuEN) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [Rhythm of the Night](https://open.spotify.com/album/3FtmWt1bHNU0Mow9dCOiHJ) | 3:10 | 2024-08-08 | 2024-09-06 |
 | [Right Now](https://open.spotify.com/track/5mobDbNXNDmjAa0vfiAbB4) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Right Now](https://open.spotify.com/album/5ou0IPh4SoYYIY6WDaP4iP) | 4:00 | 2025-10-02 | 2025-10-24 |
+| [Ritual](https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Ritual](https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72) | 3:01 | 2026-03-26 |  |
 | [Role Model](https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c) | [Role Model](https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm) | 3:26 | 2024-05-16 | 2024-06-01 |
 | [Rollin](https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Rollin](https://open.spotify.com/album/7AHHVt5bV0J8C3gkdDB3Se) | 2:05 | 2026-02-19 | 2026-03-13 |
 | [Rumors](https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Rumors](https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN) | 2:15 | 2025-07-03 | 2025-07-11 |
@@ -671,7 +672,7 @@
 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2024-08-01 | 2024-08-23 |
 | [The Way I Are](https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [The Way I Are](https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW) | 3:06 | 2025-06-05 | 2026-02-13 |
 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-15 |  |
-| [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-05-01 |  |
+| [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-05-01 | 2026-03-27 |
 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-23 | 2024-06-01 |
 | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 | 2025-11-13 | 2025-12-24 |
 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 | 2025-10-09 | 2026-02-06 |

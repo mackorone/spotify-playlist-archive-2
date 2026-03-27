@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 17099,
+  "num_followers": 17108,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "REBIRTH (Mary's Child)",
         "url": "https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 259752,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Sing",
-        "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Mile (I Know)",
         "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 342685,
       "name": "Mile (I Know)",
       "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
-      },
-      "artists": [
-        {
-          "name": "Neqta",
-          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
-        }
-      ],
-      "duration_ms": 209004,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 274599,
       "name": "Se Mekume Ho",
       "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
+      },
+      "artists": [
+        {
+          "name": "Neqta",
+          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
+        }
+      ],
+      "duration_ms": 209004,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
     },
     {
       "added_at": "2026-03-12 23:38:53",

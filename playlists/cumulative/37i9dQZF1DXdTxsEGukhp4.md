@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 宝鐘マリン & 星街すいせい
 
-576 songs - 1 day 8 hr 44 min
+577 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [INTERNET YAMERO](https://open.spotify.com/track/4F2NudCv50tC2Bqc3dgn9v) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [INTERNET YAMERO](https://open.spotify.com/album/5TYShHQcZ3IpmwFec9tFmr) | 4:01 | 2023-03-30 | 2023-06-09 |
 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 | 2024-03-07 | 2024-04-02 |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-07 | 2025-03-09 |
-| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 | 2026-03-27 |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-26 | 2023-03-03 |
 | [Izakaya](https://open.spotify.com/track/5t190cnf3LUsfBkMWOftGM) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [Tokkuri](https://open.spotify.com/artist/724wxQ10xPdROLwDew8ypc) | [Transform \-Charcoal side\-](https://open.spotify.com/album/5vd4jDH69qUuwHgCSzDjyY) | 3:14 | 2024-02-08 | 2024-04-19 |
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-23 | 2023-05-12 |
@@ -216,6 +216,7 @@
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-04-01 | 2025-09-19 |
 | [My Beautiful Life](https://open.spotify.com/track/6Il0TOAUXXIDxQwkaWXG1k) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:21 | 2023-08-01 | 2023-09-02 |
 | [My Life](https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I'll Be Cute When You See Me](https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg) | 3:21 | 2024-01-19 | 2024-04-19 |
+| [My SunShine](https://open.spotify.com/track/5AplfXQJgaj3lsGj1ShWAW) | [ROCK'A'TRENCH](https://open.spotify.com/artist/1kWzWCT81LMI1c5FpWPc4u) | [ACTION!](https://open.spotify.com/album/5yKG9a1Z9PWFgB9UEJGx8s) | 4:27 | 2026-03-26 |  |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 | 2023-10-06 |
 | [NaNaNa Tokyo](https://open.spotify.com/track/1wj4yYURESSkb67NIxxm8m) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [NaNaNa Tokyo](https://open.spotify.com/album/5ZtzL00EDIBLZQho1vKQ49) | 3:15 | 2023-04-06 | 2023-05-26 |
 | [Nanoka](https://open.spotify.com/track/1Dleg5YF90D0sLPgusv0DB) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Arutokoroni no Teiri](https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie) | 6:32 | 2023-11-09 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Isab\u00e8l Usher",
+  "description": "Frisse Nederlandse pop. Cover: Russo & Emma Heesters",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -5594,7 +5594,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 162451,
       "name": "dit is later.",
       "url": "https://open.spotify.com/track/3Z94R5TBHyNSwSQseHSQPD"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180053,
       "name": "DNA",
       "url": "https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0"
@@ -6100,7 +6100,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 190499,
       "name": "Droom Jij Over Mij Vannacht",
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
@@ -6212,7 +6212,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 161481,
       "name": "Eb & Vloed",
       "url": "https://open.spotify.com/track/2HaOEZq3sSUHGdZZQg6xzy"
@@ -6284,7 +6284,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 178477,
       "name": "Echte Liefde Is Te Koop - Spotify Singles",
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
@@ -7390,7 +7390,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 195366,
       "name": "Gevonden Door Jou",
       "url": "https://open.spotify.com/track/5vGy3LRBbJljTBqe6S8vcq"
@@ -8200,7 +8200,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 162785,
       "name": "Heel Mijn Hart",
       "url": "https://open.spotify.com/track/6uSd26D2cZ1YM4cEQExaA0"
@@ -10045,6 +10045,28 @@
     },
     {
       "album": {
+        "name": "Ik Ben Niet Meer Bang",
+        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181326,
+      "name": "Ik Ben Niet Meer Bang",
+      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
+    },
+    {
+      "album": {
         "name": "F*** DE REST EN SHAKE",
         "url": "https://open.spotify.com/album/1zi0saa4UIsGpKSf954TxW"
       },
@@ -10198,6 +10220,24 @@
       "duration_ms": 154624,
       "name": "Ik Haat Hem Voor Jou",
       "url": "https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF"
+    },
+    {
+      "album": {
+        "name": "Ik Heb Gedanst",
+        "url": "https://open.spotify.com/album/1L0ki6ITtIOuIfMRZ72GmM"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158343,
+      "name": "Ik Heb Gedanst",
+      "url": "https://open.spotify.com/track/2iVaoOaqNKuSuc0nuhNOeY"
     },
     {
       "album": {
@@ -10654,6 +10694,24 @@
       "duration_ms": 149700,
       "name": "In Het Licht",
       "url": "https://open.spotify.com/track/1OhdiixXL81GSl6G5SLgf2"
+    },
+    {
+      "album": {
+        "name": "In Je Hoek",
+        "url": "https://open.spotify.com/album/4R4UjiDPSy31mPFDMukybB"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209930,
+      "name": "In Je Hoek",
+      "url": "https://open.spotify.com/track/75snVU5TWO4KbkIBbNITxq"
     },
     {
       "album": {
@@ -11322,6 +11380,24 @@
       "duration_ms": 159562,
       "name": "Kaarslicht",
       "url": "https://open.spotify.com/track/3zhKEoZJ2BBabaClXLxiB3"
+    },
+    {
+      "album": {
+        "name": "Kaartenspel",
+        "url": "https://open.spotify.com/album/21i6gb2GtYc8qTICYo8mxL"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189703,
+      "name": "Kaartenspel",
+      "url": "https://open.spotify.com/track/6CUnn1kZU7v9mmADfraQsx"
     },
     {
       "album": {
@@ -12983,6 +13059,28 @@
     },
     {
       "album": {
+        "name": "Liefdesverdriet",
+        "url": "https://open.spotify.com/album/3pObjYeEC5hk7c5sbnh4Ly"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180545,
+      "name": "Liefdesverdriet",
+      "url": "https://open.spotify.com/track/2GMVReNSsJhHds116zpLXQ"
+    },
+    {
+      "album": {
         "name": "Liefste",
         "url": "https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse"
       },
@@ -13891,6 +13989,24 @@
     },
     {
       "album": {
+        "name": "Met de tijd",
+        "url": "https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW"
+      },
+      "artists": [
+        {
+          "name": "Anouk & Yora",
+          "url": "https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211140,
+      "name": "Met de tijd",
+      "url": "https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA"
+    },
+    {
+      "album": {
         "name": "Met Een Reden",
         "url": "https://open.spotify.com/album/4Vzj0KkxkpkIIeWSkl4tLr"
       },
@@ -14026,7 +14142,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 171916,
       "name": "Midnight Cruiser",
       "url": "https://open.spotify.com/track/26JzuZWfTUNxnzyNoqtVHC"
@@ -19823,6 +19939,24 @@
     },
     {
       "album": {
+        "name": "Hardop",
+        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ"
+    },
+    {
+      "album": {
         "name": "Tranen Om Te Lachen",
         "url": "https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp"
       },
@@ -21183,6 +21317,24 @@
     },
     {
       "album": {
+        "name": "Voor Eens En Voor Altijd",
+        "url": "https://open.spotify.com/album/6NHCzmgrUetDvbzdGhd7j1"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166366,
+      "name": "Voor Eens En Voor Altijd",
+      "url": "https://open.spotify.com/track/1AWW0BLQ9lf2nkyAgXoC0V"
+    },
+    {
+      "album": {
         "name": "Voor Even Is Het Goed",
         "url": "https://open.spotify.com/album/1ugArcMJsgmLjeAXaea2Ia"
       },
@@ -21380,6 +21532,24 @@
       "duration_ms": 180984,
       "name": "Vrij Zijn",
       "url": "https://open.spotify.com/track/3rLZSLUZVZTcEVRgGjKPPF"
+    },
+    {
+      "album": {
+        "name": "Vrijdag",
+        "url": "https://open.spotify.com/album/4ErVLyZ9dccD3rjeNz6skm"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149073,
+      "name": "Vrijdag",
+      "url": "https://open.spotify.com/track/1prlNZt7NUi58uqzIAsgrR"
     },
     {
       "album": {
@@ -23002,7 +23172,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 208477,
       "name": "Zij is voor mij",
       "url": "https://open.spotify.com/track/1TvSpaz6QZnepK4J0k9C5i"

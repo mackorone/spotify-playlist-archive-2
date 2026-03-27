@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,477 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,013 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
 | 24 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
 | 25 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |
-| 26 | [Again](https://open.spotify.com/track/1fbMPyPcqNJjpPPvmcjhzJ) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Why, Why](https://open.spotify.com/album/0WDjHyGh6JjGnnuLf61gMs) | 3:49 |
-| 27 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/7LyJ6qAXj3m3MoLWF6WHLZ) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Das Leben ist schön](https://open.spotify.com/album/5lXNBt6jCFso3HJf2hewul) | 3:25 |
+| 26 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/7LyJ6qAXj3m3MoLWF6WHLZ) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Das Leben ist schön](https://open.spotify.com/album/5lXNBt6jCFso3HJf2hewul) | 3:25 |
+| 27 | [Again](https://open.spotify.com/track/1fbMPyPcqNJjpPPvmcjhzJ) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Why, Why](https://open.spotify.com/album/0WDjHyGh6JjGnnuLf61gMs) | 3:49 |
 | 28 | [Free.](https://open.spotify.com/track/4o6EyGHwAnL5f4j21XTZRy) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 2:25 |
 | 29 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
 | 30 | [FCK DICH](https://open.spotify.com/track/2IvXVKvfksfnn8JYfH6iRd) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [FCK DICH](https://open.spotify.com/album/0CEwbiRPYrvpVlOIy7WIKL) | 2:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 55 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
 | 56 | [Mad](https://open.spotify.com/track/5rG3r8mGTeTlFugpIgMg8E) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:22 |
 | 57 | [Just Keep Swimming](https://open.spotify.com/track/5e30L2Uds20ufO2pjaMhQP) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:23 |
-| 58 | [TWTC](https://open.spotify.com/track/7baC81sEbLdJkwHDthWr9d) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/6Fs9Xeqb26W6hdTktFBku9) | 3:24 |
-| 59 | [Casa Blanca](https://open.spotify.com/track/2KYJMtVbGpcKGLdkz542tG) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [Welcome 2 Agrabah](https://open.spotify.com/album/4dLEnsVcHm1ifApARNWpo5) | 2:19 |
-| 60 | [Broken Promises](https://open.spotify.com/track/6Q5E8MoiU2dnDaCEL8Np0E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Ein Schluck](https://open.spotify.com/album/09wYmnTsAyblTmYlbcr0Ck) | 1:51 |
+| 58 | [Broken Promises](https://open.spotify.com/track/6Q5E8MoiU2dnDaCEL8Np0E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Ein Schluck](https://open.spotify.com/album/09wYmnTsAyblTmYlbcr0Ck) | 1:51 |
+| 59 | [TWTC](https://open.spotify.com/track/7baC81sEbLdJkwHDthWr9d) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/6Fs9Xeqb26W6hdTktFBku9) | 3:24 |
+| 60 | [Casa Blanca](https://open.spotify.com/track/2KYJMtVbGpcKGLdkz542tG) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [Welcome 2 Agrabah](https://open.spotify.com/album/4dLEnsVcHm1ifApARNWpo5) | 2:19 |
 
 Snapshot ID: `AAAAAL/VOHLzHr6r0nDJG3C+J31PwSfb`

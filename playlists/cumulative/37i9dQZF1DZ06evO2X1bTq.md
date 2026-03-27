@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-108 songs - 7 hr 50 min
+109 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [I'll Go Crazy If I Don't Go Crazy Tonight](https://open.spotify.com/track/6Bxd6SGnWO0bTWCDYh4ZWk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 4:13 | 2022-10-24 | 2022-11-15 |
 | [If God Will Send His Angels](https://open.spotify.com/track/3VefJ4Kkzy8zeOFK8omiOd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:22 | 2022-10-24 | 2022-11-22 |
 | [In A Little While](https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:40 | 2022-10-24 |  |
-| [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 | 2022-10-24 |  |
+| [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 | 2022-10-24 | 2026-03-27 |
+| [In God's Country \- Remastered 2007](https://open.spotify.com/track/1jNWu1c5ilLHUHT0DhLOQB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 2:56 | 2026-03-27 |  |
 | [Invisible \- \(RED\) Edit](https://open.spotify.com/track/1zU1hssVqbyepuLza1qmgO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Invisible \- \(RED\) Edit](https://open.spotify.com/album/6aGUWIKg6BA37SB3gwOAUZ) | 3:46 | 2022-11-17 | 2023-03-20 |
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-19 | 2024-05-17 |
 | [Iris \(Hold Me Close\)](https://open.spotify.com/track/7kbQE1Xbyf7kvcn4DVICiR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS) | 5:19 | 2022-12-12 | 2023-02-24 |

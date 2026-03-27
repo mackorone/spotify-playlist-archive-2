@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,105 songs - 2 day 8 hr 56 min
+1,107 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 | 2024-04-12 | 2024-04-26 |
 | [Ecstacy \(with you\)](https://open.spotify.com/track/26on0YEtY5029hZA2au0QK) | [DOT5](https://open.spotify.com/artist/7yDOyFzK9Mpm18M7cjk6YX) | [Couleurs](https://open.spotify.com/album/2WCq3heZSYl7IHre2rPgtr) | 3:04 | 2024-12-05 |  |
 | [El Ritmo](https://open.spotify.com/track/58bu9nSS6GAOgBQJJsDVVm) | [Laurent Simeca](https://open.spotify.com/artist/4siciMJGHAZA1jVYWUr4Vv) | [El Ritmo](https://open.spotify.com/album/7q5o59k8Jw2GPCokAfk3i9) | 2:46 | 2023-03-24 | 2023-04-15 |
+| [Electro](https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [Electro](https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x) | 2:53 | 2026-03-26 |  |
 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 | 2023-08-31 | 2023-12-23 |
 | [Elevate Your Love](https://open.spotify.com/track/6GiZMMByquYTUYtsVsoVD4) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Elevate Your Love](https://open.spotify.com/album/5IPHtrVFhktYAo1A7M5LSF) | 2:20 | 2024-01-19 | 2024-09-26 |
 | [En El Party](https://open.spotify.com/track/5kfGxBTuS10GawxZJn8nJe) | [Kide \(IT\)](https://open.spotify.com/artist/3clh5nUUfRr2oB9FCBP8CU), [Enrey](https://open.spotify.com/artist/3QfW1vNOZSUUE1aQeOAC8X) | [En El Party](https://open.spotify.com/album/7Byx9IkZ0ockhmVczj3HTL) | 2:38 | 2023-11-03 | 2024-09-26 |
@@ -707,6 +708,7 @@
 | [On The Floor](https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [On The Floor](https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM) | 2:41 | 2025-10-03 | 2026-02-14 |
 | [On The Floor](https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [HOLA!](https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI) | [On The Floor](https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8) | 2:08 | 2023-05-24 | 2023-08-02 |
 | [On The Floor](https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7) | [On The Floor](https://open.spotify.com/album/18ZbDpZU7YUMgBCMokC4uL) | 2:49 | 2023-06-01 | 2023-12-14 |
+| [On Your Mind](https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [On Your Mind](https://open.spotify.com/album/4MPhN02Pi6NpO9qcDdsGHf) | 3:00 | 2026-03-26 |  |
 | [One & Done](https://open.spotify.com/track/0JIsLfm6Dr3xleH5IcVsjv) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Jayelle](https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV) | [One & Done](https://open.spotify.com/album/4hyodRzXa3EUCvaIUtXMT5) | 2:53 | 2025-10-17 |  |
 | [One Last Time](https://open.spotify.com/track/08tTt843cOMuw82FqfpXMa) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t) | [One Last Time](https://open.spotify.com/album/2MX8S6PTLQ2J0mhyRgFFNh) | 3:05 | 2026-01-30 |  |
 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-09-25 | 2023-12-14 |

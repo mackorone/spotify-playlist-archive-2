@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Malcolm Todd",
-  "num_followers": 1673046,
+  "num_followers": 1673102,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "Soft 2",
+        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 230521,
+      "name": "When Did You Stop Loving Me?",
+      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "lucre",
         "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Soft 2",
-        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 230521,
-      "name": "When Did You Stop Loving Me?",
-      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Days Of Us",
         "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
       },
@@ -499,22 +483,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "dirty wedding dress",
-        "url": "https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 289424,
-      "name": "dirty wedding dress",
-      "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "I Did This To Myself",
         "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "dirty wedding dress",
+        "url": "https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 289424,
+      "name": "dirty wedding dress",
+      "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 263228,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "L.U.C.K.Y",
         "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 263228,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Vampire Bat",
-        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 206652,
-      "name": "Vampire Bat",
-      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 207500,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Vampire Bat",
+        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 206652,
+      "name": "Vampire Bat",
+      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "That's My Girl",
         "url": "https://open.spotify.com/album/0E2xTVpLqdXz4xyVYXKwBs"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 176546,
       "name": "That's My Girl",
       "url": "https://open.spotify.com/track/6oM46RZxmCvcaaHP3n5TXX"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Paradise Now & Forever",
         "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 215531,
       "name": "Lipdance",
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1211,22 +1227,6 @@
       "duration_ms": 180056,
       "name": "Jelly",
       "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Rabbits Can Swim",
-        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 253675,
-      "name": "Rabbits Can Swim",
-      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "auburn",
+        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "auburn",
+      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "Is This Love??",
         "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 221152,
       "name": "Silverlake Baby",
       "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "auburn",
-        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 209591,
-      "name": "auburn",
-      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Maybe I'm the Reason / Be Cool",
-        "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 174128,
-      "name": "Maybe I'm the Reason",
-      "url": "https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 201999,
       "name": "Fine",
       "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Maybe I'm the Reason / Be Cool",
+        "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 174128,
+      "name": "Maybe I'm the Reason",
+      "url": "https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "She Is A Time I'm Living In",
-        "url": "https://open.spotify.com/album/6NKhW70LnZUz93Rq7inNfz"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 207077,
-      "name": "She Is A Time I'm Living In",
-      "url": "https://open.spotify.com/track/29s94jrXC8pP1BYeQyoyZq"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "just friends",
         "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 208363,
       "name": "just friends",
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "She Is A Time I'm Living In",
+        "url": "https://open.spotify.com/album/6NKhW70LnZUz93Rq7inNfz"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 207077,
+      "name": "She Is A Time I'm Living In",
+      "url": "https://open.spotify.com/track/29s94jrXC8pP1BYeQyoyZq"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/2dabxlmiE2lPhYvNEB7yGl"
+        "name": "Games",
+        "url": "https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z"
       },
       "artists": [
         {
-          "name": "People I\u2019ve Met",
-          "url": "https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi"
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
         }
       ],
-      "duration_ms": 214558,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/7fVzvxyIZtUKB85yjGHdXK"
+      "duration_ms": 165714,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq"
     }
   ],
   "unique_name": "Indie Pop",

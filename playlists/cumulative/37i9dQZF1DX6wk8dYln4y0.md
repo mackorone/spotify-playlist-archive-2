@@ -2,7 +2,7 @@
 
 ### [\*hits different\*](https://open.spotify.com/playlist/37i9dQZF1DX6wk8dYln4y0)
 
-> music that just \*hits different\* Cover: Olivia C\. Dacal
+> music that just \*hits different\* Cover: CHIRAI
 
 677 songs - 1 day 12 hr 32 min
 

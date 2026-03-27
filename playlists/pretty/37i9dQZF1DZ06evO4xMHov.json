@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAD+OBO0r0WIl15o14/Qp9QL",
+  "snapshot_id": "acMlgAAAAACnCBWF3cxOiuUlF38+5E39",
   "tracks": [
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Rei",
         "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 244720,
       "name": "Eu Cantarei",
       "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
     },
     {
       "added_at": null,

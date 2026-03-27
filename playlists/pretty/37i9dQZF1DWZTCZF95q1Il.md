@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,653 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,662 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

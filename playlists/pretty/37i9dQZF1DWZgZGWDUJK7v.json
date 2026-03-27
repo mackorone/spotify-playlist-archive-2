@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: \ud654\uc0b0\uadc0\ud658 (Return of the Blossoming Blade)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 119538,
+  "num_followers": 119531,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Shinbi's Haunted House 10th Anniversary Movie: Summon Once More (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/51R5nkqZVhVz8OzJz0X6Nl"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/2bRPbkNMOKK1FJuCnkvePP"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "A goodbye to yesterday, a hello to tomorrow",
-      "url": "https://open.spotify.com/track/5dinXnjyThireuP9bk7EnY"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7DbEJaAcgnbnYEEbX4A9OO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 257519,
       "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/382vwoXF6ksNuaPbMYiQy6"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Shinbi's Haunted House 10th Anniversary Movie: Summon Once More (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/51R5nkqZVhVz8OzJz0X6Nl"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/2bRPbkNMOKK1FJuCnkvePP"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "A goodbye to yesterday, a hello to tomorrow",
+      "url": "https://open.spotify.com/track/5dinXnjyThireuP9bk7EnY"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
+        "name": "Fox Rain (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Fox Rain (The Moon during the Day)",
+      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
         "name": "You, you (Nth Romance X Whee In)",
         "url": "https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 199850,
       "name": "Bomb Bomb",
       "url": "https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
-        "name": "Fox Rain (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Fox Rain (The Moon during the Day)",
-      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "True Love (Secret Relationships X LEECHANGSUB)",
-        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
         "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 207760,
       "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "True Love (Secret Relationships X LEECHANGSUB)",
+        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
-        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
-      },
-      "artists": [
-        {
-          "name": "Minhyun",
-          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
-      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "HAVE A GOODNIGHT (She is My Type\u2661 X SHOWNU (MONSTA X), MINHYUK (MONSTA X))",
         "url": "https://open.spotify.com/album/0B5AVDaRE8cGY071a2kiSm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 212360,
       "name": "HAVE A GOODNIGHT (She is My Type\u2661 X SHOWNU (MONSTA X), MINHYUK (MONSTA X))",
       "url": "https://open.spotify.com/track/72AuI3170zfskntKsfaDwR"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
+        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
+      },
+      "artists": [
+        {
+          "name": "Minhyun",
+          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "Better for Me (Nth Romance X MeloMance)",
         "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 239853,
       "name": "Better for Me (Nth Romance X MeloMance)",
       "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
+        "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        }
+      ],
+      "duration_ms": 176711,
+      "name": "I'M BACK",
+      "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4aiCefbVcnbq90DAWD1O3W"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 250211,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
-        "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
-        "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
-      },
-      "artists": [
-        {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        }
-      ],
-      "duration_ms": 176711,
-      "name": "I'M BACK",
-      "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
     },
     {
       "added_at": "2026-02-26 06:24:55",

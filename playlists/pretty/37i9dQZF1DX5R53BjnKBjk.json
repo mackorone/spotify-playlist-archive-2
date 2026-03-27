@@ -351,30 +351,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "N\u00e3o Perde",
-        "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        },
-        {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "N\u00e3o Perde",
-      "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "\u00c1GUA DE COCO",
         "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
@@ -411,22 +387,26 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "Voc\u00ea Sabe Tudo Pela Metade",
-        "url": "https://open.spotify.com/album/7B8MA87nlF4fTEmbgPaf1C"
+        "name": "N\u00e3o Perde",
+        "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
       },
       "artists": [
         {
-          "name": "Rafa Canovas",
-          "url": "https://open.spotify.com/artist/4bwXauSZTnrlZLw47HkDuD"
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
         },
         {
-          "name": "Quiriku",
-          "url": "https://open.spotify.com/artist/1yez2LsZPGg0UkaMtCeUhw"
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
         }
       ],
-      "duration_ms": 227755,
-      "name": "Voc\u00ea Sabe Tudo Pela Metade",
-      "url": "https://open.spotify.com/track/70Gyc0ylgaU7iwaXKZFsTC"
+      "duration_ms": 140869,
+      "name": "N\u00e3o Perde",
+      "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -447,6 +427,26 @@
       "duration_ms": 195428,
       "name": "Fumando Kunk",
       "url": "https://open.spotify.com/track/6edQHkCYmSEhCYSnzpK1rL"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "Voc\u00ea Sabe Tudo Pela Metade",
+        "url": "https://open.spotify.com/album/7B8MA87nlF4fTEmbgPaf1C"
+      },
+      "artists": [
+        {
+          "name": "Rafa Canovas",
+          "url": "https://open.spotify.com/artist/4bwXauSZTnrlZLw47HkDuD"
+        },
+        {
+          "name": "Quiriku",
+          "url": "https://open.spotify.com/artist/1yez2LsZPGg0UkaMtCeUhw"
+        }
+      ],
+      "duration_ms": 227755,
+      "name": "Voc\u00ea Sabe Tudo Pela Metade",
+      "url": "https://open.spotify.com/track/70Gyc0ylgaU7iwaXKZFsTC"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -567,6 +567,42 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
+        "name": "VICIADO",
+        "url": "https://open.spotify.com/album/3ZAbEGPGyjSpWow34CfFQx"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "duration_ms": 213857,
+      "name": "VICIADO",
+      "url": "https://open.spotify.com/track/6XvlV70mYDJewt6BsEN5UW"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
         "name": "Bloco na Rua",
         "url": "https://open.spotify.com/album/6fZ0tPpa5oU0X6qotDArHu"
       },
@@ -599,42 +635,6 @@
       "duration_ms": 105772,
       "name": "Barracumbia",
       "url": "https://open.spotify.com/track/6G4L8mZDaowS6Fxn85FyNY"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
-        "name": "VICIADO",
-        "url": "https://open.spotify.com/album/3ZAbEGPGyjSpWow34CfFQx"
-      },
-      "artists": [
-        {
-          "name": "Breno Branches",
-          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
-        }
-      ],
-      "duration_ms": 213857,
-      "name": "VICIADO",
-      "url": "https://open.spotify.com/track/6XvlV70mYDJewt6BsEN5UW"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
         "name": "UNDERGROUND / EU SOU O MEU MAIOR NEG\u00d3CIO",
         "url": "https://open.spotify.com/album/7IodVAQyx30PaNsAkohhLi"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 147692,
       "name": "UNDERGROUND",
       "url": "https://open.spotify.com/track/16XmpQUpFIDULxeKCTfeDc"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-03-09 19:20:59",

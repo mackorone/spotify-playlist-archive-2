@@ -650,10 +650,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 176596,
       "name": "In God's Country",
       "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176600,
+      "name": "In God's Country - Remastered 2007",
+      "url": "https://open.spotify.com/track/1jNWu1c5ilLHUHT0DhLOQB"
     },
     {
       "album": {

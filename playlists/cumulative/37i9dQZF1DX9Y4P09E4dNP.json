@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: R2Bees",
+  "description": "The big Hip-Life hits rn. Cover: Black Sherif",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 148363,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/2tDYu64ZvvrKhkbIPUaz1w"
@@ -2282,6 +2282,28 @@
       "duration_ms": 162687,
       "name": "Game Changer (Dike)",
       "url": "https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS"
+    },
+    {
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2IKB7t0Km4iR0YCxHihynL"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/2Nhk8yilokkaKKgWX1FtTL"
     },
     {
       "album": {
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 353572,
       "name": "MILLIONS ii",
       "url": "https://open.spotify.com/track/50IzCGQidECh5zojglWB6w"
@@ -4754,6 +4776,24 @@
       "duration_ms": 308688,
       "name": "Police Abaa",
       "url": "https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL"
+    },
+    {
+      "album": {
+        "name": "PopStar",
+        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "PopStar",
+      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
     },
     {
       "album": {

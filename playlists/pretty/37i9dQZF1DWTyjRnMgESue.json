@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 87932,
+  "num_followers": 87951,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190944,
-      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Blue Ridge Run",
         "url": "https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 185226,
       "name": "Blue Ridge Run",
       "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "What Are You Thinking Of?",
-        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 198646,
-      "name": "What Are You Thinking Of?",
-      "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "What Are You Thinking Of?",
+        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 198646,
+      "name": "What Are You Thinking Of?",
+      "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "hands to myself",
-        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
       },
       "artists": [
         {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
         }
       ],
-      "duration_ms": 160491,
-      "name": "hands to myself",
-      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1363,34 +1363,18 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+        "name": "hands to myself",
+        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
       },
       "artists": [
         {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
         }
       ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "happy ending",
-        "url": "https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL"
-      },
-      "artists": [
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "happy ending",
-      "url": "https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd"
+      "duration_ms": 160491,
+      "name": "hands to myself",
+      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "happy ending",
+        "url": "https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL"
+      },
+      "artists": [
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "happy ending",
+      "url": "https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Wild One",
         "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
       },
@@ -1423,6 +1423,38 @@
       "duration_ms": 142489,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Collarbones",
+        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+      },
+      "artists": [
+        {
+          "name": "Anna Hamilton",
+          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+        }
+      ],
+      "duration_ms": 180947,
+      "name": "Collarbones",
+      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1459,38 +1491,6 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "Collarbones",
-        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
-      },
-      "artists": [
-        {
-          "name": "Anna Hamilton",
-          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
-        }
-      ],
-      "duration_ms": 180947,
-      "name": "Collarbones",
-      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "That's Gonna Leave a Mark",
+        "url": "https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "That's Gonna Leave a Mark",
+      "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Alan Sparhawk with Trampled by Turtles",
         "url": "https://open.spotify.com/album/1x0de2EjrGot84ocdigfUa"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 202839,
       "name": "Not Broken",
       "url": "https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "That's Gonna Leave a Mark",
-        "url": "https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "That's Gonna Leave a Mark",
-      "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

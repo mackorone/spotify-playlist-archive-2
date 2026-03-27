@@ -1,13 +1,109 @@
 {
-  "description": "Latest music from Aditya Rikhari, Ravator, Akashdeep Sengupta and more.",
-  "num_followers": 89951,
+  "description": "Latest music from Zack Knight, Priyanshi Srivastava, Deedar Kaur and more.",
+  "num_followers": 90005,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjisjGERPc/l4rH/h/+v1cBkRzB",
+  "snapshot_id": "AAAAAGkYpBYFyuPymnhxzW9NMHlf8XLh",
   "tracks": [
+    {
+      "added_at": "2026-03-27 00:46:13",
+      "album": {
+        "name": "Tauba",
+        "url": "https://open.spotify.com/album/6HKrPUgo4uVtv1Qfzs4ntK"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Tauba",
+      "url": "https://open.spotify.com/track/4QKT1WE079EqMAWC8S0MEJ"
+    },
+    {
+      "added_at": "2026-03-27 00:46:13",
+      "album": {
+        "name": "Badal Gya",
+        "url": "https://open.spotify.com/album/0qEWN2arM4F1SzIL6Qz5jt"
+      },
+      "artists": [
+        {
+          "name": "Arshaan",
+          "url": "https://open.spotify.com/artist/1vxsrY2Jh6mxNkQmXlV3Zr"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Badal Gya",
+      "url": "https://open.spotify.com/track/1QyUebXlm3gnaPSw3omRMW"
+    },
+    {
+      "added_at": "2026-03-27 00:46:13",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/1RyZAlvby4JqWjSFbacLLp"
+      },
+      "artists": [
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        }
+      ],
+      "duration_ms": 194651,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/2Zn3ALsgLJ6WJcmRWvbY07"
+    },
+    {
+      "added_at": "2026-03-27 00:46:13",
+      "album": {
+        "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/3Re9vlX5wIp2BsWQJbmcSv"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 191118,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/6gG0DORD3lrsrnXDLKQIPt"
+    },
+    {
+      "added_at": "2026-03-27 00:46:13",
+      "album": {
+        "name": "Mahfooz",
+        "url": "https://open.spotify.com/album/4ub8gIyOeECq4ozJSWVp54"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "duration_ms": 206971,
+      "name": "Mahfooz",
+      "url": "https://open.spotify.com/track/66bOMWZ3vrXz3OBKPLTppQ"
+    },
     {
       "added_at": "2026-03-20 06:06:00",
       "album": {
@@ -855,26 +951,6 @@
     {
       "added_at": "2026-03-20 06:06:00",
       "album": {
-        "name": "Pagalpan - The Album",
-        "url": "https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Akshay Tripathi AKS",
-          "url": "https://open.spotify.com/artist/5OTeIPtpp5yTmG2JmzofRY"
-        }
-      ],
-      "duration_ms": 245177,
-      "name": "Pari",
-      "url": "https://open.spotify.com/track/7puxdj9sb3JMDfH4aSnAb5"
-    },
-    {
-      "added_at": "2026-03-20 06:06:00",
-      "album": {
         "name": "Pyar Se",
         "url": "https://open.spotify.com/album/1RpjHqJ8iU602vplOTYxMA"
       },
@@ -1047,70 +1123,6 @@
       "duration_ms": 171023,
       "name": "Haaniya",
       "url": "https://open.spotify.com/track/3gqcwatdbF2uDJVJ9Emfmb"
-    },
-    {
-      "added_at": "2026-03-20 06:06:00",
-      "album": {
-        "name": "Jaan Kehte They",
-        "url": "https://open.spotify.com/album/3du5cYbyEVF2LYEnZyvzZx"
-      },
-      "artists": [
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        },
-        {
-          "name": "Bismil",
-          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
-        },
-        {
-          "name": "Aditya Dev",
-          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
-        }
-      ],
-      "duration_ms": 243054,
-      "name": "Jaan Kehte They",
-      "url": "https://open.spotify.com/track/5Ii8bwz1KikZUouVHtBJJX"
-    },
-    {
-      "added_at": "2026-03-20 06:06:00",
-      "album": {
-        "name": "Koi Naam",
-        "url": "https://open.spotify.com/album/0yEvTMsYDemfZ75FmcB6hY"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Aditya Sharma",
-          "url": "https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl"
-        }
-      ],
-      "duration_ms": 228795,
-      "name": "Koi Naam",
-      "url": "https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR"
-    },
-    {
-      "added_at": "2026-03-20 06:06:00",
-      "album": {
-        "name": "Sohneya",
-        "url": "https://open.spotify.com/album/5G9CL3D2fG2NzlGc93fbin"
-      },
-      "artists": [
-        {
-          "name": "Laqshay Kapoor",
-          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
-        },
-        {
-          "name": "Suniil Rao",
-          "url": "https://open.spotify.com/artist/3Jk2kOTIDixrXv04oyFl3y"
-        }
-      ],
-      "duration_ms": 205189,
-      "name": "Sohneya",
-      "url": "https://open.spotify.com/track/16GbQga1KdwbYPDoIBnok5"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

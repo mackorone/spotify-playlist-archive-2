@@ -2,7 +2,7 @@
 
 ### [Shisha Club](https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre)
 
-> Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
+> Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
 460 songs - 19 hr 26 min
 

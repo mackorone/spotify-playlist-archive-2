@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,272 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,278 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 39 | [Hello Brother \- Single Version](https://open.spotify.com/track/0bhczlo67Yc6LqMWYqDHyo) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:31 |
 | 40 | [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 |
 | 41 | [Cold Cold Heart](https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:10 |
-| 42 | [Only You](https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:10 |
-| 43 | [Sincerely](https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sonny Burke & His Orchestra](https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 2:57 |
+| 42 | [Sincerely](https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sonny Burke & His Orchestra](https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 2:57 |
+| 43 | [Only You](https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:10 |
 | 44 | [That Lucky Old Sun \(Just Rolls Around Heaven All Day\) \- Single Version](https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins Orchestra And Choir](https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I) | [Satchmo In Style \(Expanded Edition\)](https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7) | 3:02 |
 | 45 | [Solitude](https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:57 |
-| 46 | [Cabaret \- Single Version](https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:45 |
-| 47 | [Kiss Of Fire](https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 3:06 |
+| 46 | [Kiss Of Fire](https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 3:06 |
+| 47 | [Cabaret \- Single Version](https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:45 |
 | 48 | [When It's Sleepy Time Down South](https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins And Orchestra](https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK) | [Satchmo In Style \(Expanded Edition\)](https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7) | 3:14 |
 | 49 | [Mood Indigo](https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Complete Louis Armstrong \- Duke Ellington Sessions](https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF) | 4:00 |
-| 50 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
+| 50 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
 
-Snapshot ID: `acHUAAAAAAA2Ev6P7G430SuCwwTs2Hr9`
+Snapshot ID: `acMlgAAAAABOVD+o1r0KQ1bgnVcCExD1`

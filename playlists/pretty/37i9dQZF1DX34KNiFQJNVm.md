@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus Fernades com Grupo Menos é Mais, BTS, Alok com Khalid,  Budah com Duquesa, Dilsinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,270,050 likes - 82 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,270,193 likes - 82 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

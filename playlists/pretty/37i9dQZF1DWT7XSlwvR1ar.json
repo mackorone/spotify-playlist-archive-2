@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2117919,
+  "num_followers": 2117970,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Sweet Unknown",
+      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 246506,
       "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
       "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Sweet Unknown",
-      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "German Cars",
         "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201453,
       "name": "German Cars",
       "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-03-06 05:00:27",

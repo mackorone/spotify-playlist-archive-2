@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: So!YoON!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,034 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,035 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 51 | [Birthday Song](https://open.spotify.com/track/2h6aWrQegkTFL1XyIXHZpT) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Birthday Song](https://open.spotify.com/album/3Ss1DQmaGehLA3yD3UMMKE) | 2:48 |
 | 52 | [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 |
 
-Snapshot ID: `AAAAAKw+pXGdw75c8olmZXj3Ge/lHQX2`
+Snapshot ID: `AAAAAO3O8jkqbm/H2T+Xycea4OoymnlO`

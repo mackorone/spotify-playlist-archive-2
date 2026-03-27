@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-117 songs - 7 hr 42 min
+118 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [any if](https://open.spotify.com/track/5WBJlbCA4pVJsiqgv4m4eV) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [any if](https://open.spotify.com/album/0doWXzxJFB95BZXT2Qh65Y) | 4:34 | 2025-10-07 | 2025-11-06 |
 | [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2022-12-23 | 2023-03-28 |
 | [Blue Velvet \- from CrosSing](https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- from CrosSing](https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh) | 3:54 | 2023-03-27 |  |
-| [BYERONY](https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:04 | 2022-10-13 | 2026-03-18 |
+| [BYERONY](https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:04 | 2022-10-13 |  |
 | [Canvas](https://open.spotify.com/track/5xhViwVtq5XPIGfe0vrdfO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/0jY5AnyprRBeYUabUXOSUH) | 3:58 | 2024-08-30 | 2024-09-27 |
 | [Closer](https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr) | 3:18 | 2022-09-22 | 2025-01-18 |
 | [Closer](https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 3:18 | 2022-06-09 |  |
@@ -67,7 +67,8 @@
 | [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 | 2024-11-11 | 2025-08-01 |
 | [Haremachi Note](https://open.spotify.com/track/5HE3LrVAHKRSQkr1Wi9uPR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 4:37 | 2024-09-25 | 2025-08-19 |
 | [Haremachinote](https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:37 | 2022-06-09 | 2024-07-08 |
-| [HYPE ALIVE](https://open.spotify.com/track/28L7x5dJ7BmMUkieFUdCep) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [光よ、僕に。](https://open.spotify.com/album/3Ai4Zc0mhEjrTS4pVOQ6U3) | 3:00 | 2026-02-27 |  |
+| [HYPE ALIVE](https://open.spotify.com/track/1jsVXC1HPMtL6hYvOw96Ej) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Light Me Up](https://open.spotify.com/album/5APG9tmgTjocMcFYvzucxV) | 3:00 | 2026-03-27 |  |
+| [HYPE ALIVE](https://open.spotify.com/track/28L7x5dJ7BmMUkieFUdCep) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [光よ、僕に。](https://open.spotify.com/album/3Ai4Zc0mhEjrTS4pVOQ6U3) | 3:00 | 2026-02-27 | 2026-03-27 |
 | [illminate](https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 4:13 | 2022-10-13 |  |
 | [INNOCENT](https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:01 | 2022-06-16 |  |
 | [Kimi no Tonaride](https://open.spotify.com/track/6S1hf9077yCXY9T40wS1fM) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 4:34 | 2024-02-01 |  |
@@ -87,7 +88,7 @@
 | [Opening Live at Nagoyashikoukaidou 2020/10/3](https://open.spotify.com/track/0Qt7w8kDyLveYA9tdHQUWO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Akari Kito 1st Live Tour "Colorful Closet" Stream Selection](https://open.spotify.com/album/2mUd07vO5fluRbzbey70kw) | 1:32 | 2025-02-21 | 2025-08-10 |
 | [OPENING Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 1:32 | 2022-06-11 | 2025-12-27 |
 | [Oxidation](https://open.spotify.com/track/60rUiT9ULfiz0VnGXpnZba) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 3:24 | 2025-04-09 | 2025-05-07 |
-| [Oxidation](https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:24 | 2022-10-13 |  |
+| [Oxidation](https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:24 | 2022-10-13 | 2026-03-27 |
 | [Refrain to Sound Tomorrow \- P's GROOVE Ver.](https://open.spotify.com/track/1eGjT5Sa6zdMtQa2y9E9lY) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S), [Yurika Kubo](https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS), [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [Hina Tachibana](https://open.spotify.com/artist/6xQYIwKKbmfafw5eHtghdt), [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi), [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0), [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt), [稗田寧々 from DIALOGUE+](https://open.spotify.com/artist/1elIH0yJTLlee5ntfYLFDg), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [守屋亨香 from DIALOGUE+](https://open.spotify.com/artist/0cerIM0Rbng5biYTcSQh83) | [Refrain to Sound Tomorrow \(P's GROOVE Ver.\)](https://open.spotify.com/album/1AeHWx31cAgO9lbpXU7pvc) | 4:19 | 2025-02-21 | 2025-05-07 |
 | [Rock the Floor](https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:36 | 2024-08-30 |  |
 | [Star Arc](https://open.spotify.com/track/2Mst4G1cUGZVO5O11PsFCg) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:20 | 2023-02-14 | 2023-03-13 |

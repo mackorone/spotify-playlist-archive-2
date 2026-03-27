@@ -4,7 +4,7 @@
 
 > New music from BigXthaPlug, Yeat, Latto and Mike Will Made\-It.
 
-2,700 songs - 5 day 20 hr 6 min
+2,701 songs - 5 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2584,6 +2584,7 @@
 | [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 | 2025-12-05 | 2025-12-13 |
 | [What That Speed Bout!?](https://open.spotify.com/track/5iZ5wjTTxSIv8Cfrhj6Jla) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [What That Speed Bout!?](https://open.spotify.com/album/2MkgW6dUMTOkCXAbQSUDG5) | 2:51 | 2020-11-06 | 2020-12-11 |
 | [What Would Pluto Do](https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:02 | 2023-10-06 | 2023-10-14 |
+| [What You Know](https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:34 | 2026-03-26 |  |
 | [What You Need](https://open.spotify.com/track/6LcX2hBbXaJcK4AuefE936) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [What You Need](https://open.spotify.com/album/73woFqDhh7dKipDzYyHJwZ) | 3:37 | 2021-05-05 | 2021-08-21 |
 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2025-12-26 |  |
 | [WHAT'S HAPPENIN' \(feat\. Latto & Coupe\)](https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [PARADISE](https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD) | 3:21 | 2025-08-09 | 2025-11-29 |

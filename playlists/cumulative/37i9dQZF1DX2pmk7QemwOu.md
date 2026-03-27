@@ -4,7 +4,7 @@
 
 > ONE DREAM with TXT!
 
-154 songs - 8 hr 0 min
+155 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blue Orangeade](https://open.spotify.com/track/7C31PdvTuSvEFqn2sKISsX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg) | 3:05 | 2022-05-12 |  |
 | [Blue Spring](https://open.spotify.com/track/7o3sxXABQ4VacMPDa6hUFO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:05 | 2023-11-03 |  |
 | [Boyfriend](https://open.spotify.com/track/7dk7jxKBun1JQ2pPPBxDYl) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Cinderella at 2AM OST Part 4](https://open.spotify.com/album/6gmq8wZ2p5mFkg8DRyvZcE) | 3:22 | 2024-09-21 |  |
+| [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 | 2026-03-26 |  |
 | [Can't We Just Leave The Monster Alive?](https://open.spotify.com/track/1cTghWvaY20Vm2jkBZecZN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:50 | 2022-05-12 |  |
 | [Can't We Just Leave the Monster Alive?](https://open.spotify.com/track/4O7sUONPtqPBUKXuAMsoak) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:50 | 2022-05-12 | 2024-04-19 |
 | [Can't You See Me?](https://open.spotify.com/track/2ecGP5xUE5126x6yHa7J6E) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:21 | 2022-05-12 | 2024-04-19 |

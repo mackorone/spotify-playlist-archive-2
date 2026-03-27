@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: Shakira",
-  "num_followers": 115380,
+  "num_followers": 115406,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "FX De La Rose",
-        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "ALL TIME",
-      "url": "https://open.spotify.com/track/7lKEEchVEUdxZUJrqNbnUN"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "FEMME FATALE",
         "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "Elsa y Elmar (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         }
       ],
-      "duration_ms": 287328,
-      "name": "Grecia - Spotify Sessions",
-      "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
+      "duration_ms": 174293,
+      "name": "ALL TIME",
+      "url": "https://open.spotify.com/track/7lKEEchVEUdxZUJrqNbnUN"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -1167,6 +1147,26 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 287328,
+      "name": "Grecia - Spotify Sessions",
+      "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
     },
     {
       "added_at": "2026-03-06 15:26:08",

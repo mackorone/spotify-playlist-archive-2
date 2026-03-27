@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Tegi Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,125 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,123 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 6 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 |
 | 7 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
 | 8 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
-| 9 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
-| 10 | [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 |
+| 9 | [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 |
+| 10 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
 | 11 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
 | 12 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
 | 13 | [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 20 | [just busiNESS \(feat\. Kalisway\)](https://open.spotify.com/track/00VNNaPRpJCGiV4T1LRuyL) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [INSECURE](https://open.spotify.com/album/3aIMsGenEfDKTS2Cco1JP8) | 2:54 |
 | 21 | [عيون طبعه](https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v) | [Bandar Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [عيون طبعه](https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7) | 3:27 |
 
-Snapshot ID: `AAAAAO6rryhbo1nUlRjDoZvl4akUwHeo`
+Snapshot ID: `AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf`

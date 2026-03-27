@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 101277,
+  "num_followers": 101369,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAABd5nDe4L9X28z8sntITzs0",
+  "snapshot_id": "acMlgAAAAABvwclJPzvMMxiRLcPiMIur",
   "tracks": [
     {
       "added_at": null,
@@ -243,34 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doggy (feat. Love Spells and Truly Young)",
-        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
       },
       "artists": [
         {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        },
-        {
-          "name": "Truly Young",
-          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
         }
       ],
-      "duration_ms": 172359,
-      "name": "Doggy (feat. Love Spells and Truly Young)",
-      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
+      "duration_ms": 209970,
+      "name": "Photo ID (with Dominic Fike)",
+      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
     },
     {
       "added_at": null,
@@ -323,22 +311,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+        "name": "Doggy (feat. Love Spells and Truly Young)",
+        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        },
+        {
+          "name": "Truly Young",
+          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
         }
       ],
-      "duration_ms": 209970,
-      "name": "Photo ID (with Dominic Fike)",
-      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
+      "duration_ms": 172359,
+      "name": "Doggy (feat. Love Spells and Truly Young)",
+      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
     },
     {
       "added_at": null,

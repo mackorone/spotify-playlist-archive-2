@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 173414,
       "name": "backbone",
       "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Black & White Movie",
+        "url": "https://open.spotify.com/album/667wEshq0rExIu8xYIMfrP"
+      },
+      "artists": [
+        {
+          "name": "Ella Xylour",
+          "url": "https://open.spotify.com/artist/2k98nLSwJfN6ZDug9Hjx8G"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162004,
+      "name": "Black & White Movie",
+      "url": "https://open.spotify.com/track/25NzjKXpXyOrUF0ulEHz8g"
+    },
+    {
+      "album": {
         "name": "Arthouse",
         "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
       },
@@ -856,6 +874,24 @@
       "duration_ms": 209875,
       "name": "Blessings und Blessure",
       "url": "https://open.spotify.com/track/6v5Aj0LxIKrTn7qsOiQ7Cr"
+    },
+    {
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "album": {
@@ -1022,6 +1058,28 @@
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+    },
+    {
+      "album": {
+        "name": "Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Marc Storace",
+          "url": "https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186175,
+      "name": "Born With A Broken Heart",
+      "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
     },
     {
       "album": {
@@ -1421,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Caught",
+        "url": "https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190593,
+      "name": "Caught",
+      "url": "https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl"
+    },
+    {
+      "album": {
         "name": "cause of death",
         "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
       },
@@ -1486,7 +1562,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180590,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
@@ -3171,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Handwritten Vol. 1",
+        "url": "https://open.spotify.com/album/7eqCRq2p8mCQQMiupOaNMQ"
+      },
+      "artists": [
+        {
+          "name": "Naeman",
+          "url": "https://open.spotify.com/artist/2hIvmgGacBSX5BgmHiQHrX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "goodbye i still love you",
+      "url": "https://open.spotify.com/track/0sanfabbL9bYB0H9XI9jBf"
+    },
+    {
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/7JZSZvM0rik8GhhP1bD9EP"
       },
@@ -4283,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "inspiration gun",
+        "url": "https://open.spotify.com/album/1vVBNy9XPW8QXaIscxadMF"
+      },
+      "artists": [
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215274,
+      "name": "inspiration gun",
+      "url": "https://open.spotify.com/track/2SlAJ9ULBRhkp2pFg4oPap"
+    },
+    {
+      "album": {
         "name": "Intimate",
         "url": "https://open.spotify.com/album/0frY0qBrBAQo1zXmUrhoLS"
       },
@@ -4702,7 +4814,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 220488,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
@@ -5206,7 +5318,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
@@ -5478,7 +5590,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 184578,
       "name": "Mindreader",
       "url": "https://open.spotify.com/track/5wcA85plXK7wQuQRafrCob"
@@ -6028,7 +6140,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 241440,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4AWFh3cTZCljM7ol6hW4Iq"
@@ -6589,6 +6701,24 @@
     },
     {
       "album": {
+        "name": "Backyard By The River",
+        "url": "https://open.spotify.com/album/7kdKVcRUFsPY4AagcozeXt"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
+    },
+    {
+      "album": {
         "name": "Roccastrada",
         "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
       },
@@ -7088,6 +7218,24 @@
       "duration_ms": 165573,
       "name": "si tu me demandes",
       "url": "https://open.spotify.com/track/6N9wdVht1PjAnt4AZq9Nou"
+    },
+    {
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/6aDqBN54TRlVhN4hdoPyF7"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/71sJonMpsxAnCGNJdCEjXU"
     },
     {
       "album": {
@@ -7868,7 +8016,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 171800,
       "name": "that life",
       "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"

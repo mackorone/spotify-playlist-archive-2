@@ -1265,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "BERLUSCONI",
+        "url": "https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "NiceKidd",
+          "url": "https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126947,
+      "name": "BERLUSCONI",
+      "url": "https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4"
+    },
+    {
+      "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
       },
@@ -12074,6 +12096,28 @@
       "duration_ms": 82962,
       "name": "Val Na Miserij",
       "url": "https://open.spotify.com/track/3Uz3qWnbqPugLsD3BoHt34"
+    },
+    {
+      "album": {
+        "name": "Vallanzasca",
+        "url": "https://open.spotify.com/album/7innyXuv3lBLAqrqV9s4xu"
+      },
+      "artists": [
+        {
+          "name": "DDM 80146",
+          "url": "https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV"
+        },
+        {
+          "name": "Whizy",
+          "url": "https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Vallanzasca",
+      "url": "https://open.spotify.com/track/2W20JFYn1SWeum3tc8VvDo"
     },
     {
       "album": {

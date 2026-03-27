@@ -2,9 +2,9 @@
 
 ### [R&B Magic](https://open.spotify.com/playlist/37i9dQZF1DX1aA8os1ylFZ)
 
-> Nieuwe R&B releases \| Cover: Noha Saré
+> Nieuwe R&B releases \| Cover: Neema Nekesa
 
-724 songs - 1 day 13 hr 19 min
+726 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2021-12-16 | 2023-05-13 |
 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 | 2024-11-21 | 2025-08-15 |
 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 | 2021-12-16 | 2023-01-13 |
-| [Controlla](https://open.spotify.com/track/0jzR2lKHqWIz7i14BwvOJu) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Controlla](https://open.spotify.com/album/39hz0QNUoYRNDwxxY0LNYh) | 1:55 | 2025-08-14 |  |
+| [Controlla](https://open.spotify.com/track/0jzR2lKHqWIz7i14BwvOJu) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Controlla](https://open.spotify.com/album/39hz0QNUoYRNDwxxY0LNYh) | 1:55 | 2025-08-14 | 2026-03-27 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-12-16 | 2023-01-13 |
 | [cracks beneath my skin](https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [cracks beneath my skin](https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B) | 3:05 | 2026-03-19 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 | 2024-08-01 | 2025-06-19 |
@@ -420,7 +420,7 @@
 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 | 2023-08-31 | 2024-09-28 |
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-09-05 | 2025-03-21 |
 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 | 2025-03-20 | 2025-06-28 |
-| [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 |  |
+| [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 | 2026-03-27 |
 | [My Favourite Mistake](https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [My Favourite Mistake](https://open.spotify.com/album/3H56yRhrGZ90lrsxKpijXH) | 3:39 | 2021-12-16 | 2022-06-10 |
 | [N.M.N](https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Why Do Feelings Matter Anyway](https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M) | 3:00 | 2026-02-03 |  |
 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 | 2024-07-12 | 2025-03-08 |
@@ -637,7 +637,9 @@
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-12-16 | 2022-03-26 |
 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 | 2024-11-21 | 2025-11-12 |
 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 | 2024-03-13 | 2025-02-06 |
+| [Tomorrow](https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Tomorrow](https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot) | 1:58 | 2026-03-26 |  |
 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 | 2024-11-21 | 2025-11-21 |
+| [Track 10](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 0:00 | 2026-03-26 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-21 | 2025-03-08 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2023-01-12 | 2023-06-16 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-01 | 2023-07-08 |

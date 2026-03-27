@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Filipe Sambado",
+  "description": "A tua alternativa ao mainstream. Os \u00faltimos concertos europeus do MARO acontecem em Portugal esta semana.",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200424,
       "name": "bruta",
       "url": "https://open.spotify.com/track/3W2nYdyaR8r74R2mkeP6FL"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "SO MUCH HAS CHANGED",
+        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233287,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp"
+    },
+    {
+      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -2552,6 +2570,24 @@
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "album": {
+        "name": "ensina-me a gostar",
+        "url": "https://open.spotify.com/album/5orb9dTAqz9RIiSX4z3R21"
+      },
+      "artists": [
+        {
+          "name": "Capital da Bulg\u00e1ria",
+          "url": "https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204340,
+      "name": "ensina-me a gostar",
+      "url": "https://open.spotify.com/track/04otGsW7VUReRQmo9Jfz3s"
     },
     {
       "album": {
@@ -2989,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Fumo",
+        "url": "https://open.spotify.com/album/4lfKZr9jd1KQMTbv31Td8F"
+      },
+      "artists": [
+        {
+          "name": "Nunca Mates o Mandarim",
+          "url": "https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Fumo",
+      "url": "https://open.spotify.com/track/6WvB4vTyN4GMI4BL4xVmpI"
+    },
+    {
+      "album": {
         "name": "Desert of Fools",
         "url": "https://open.spotify.com/album/48xTxqfAczqymZYB5dX1ZN"
       },
@@ -3314,7 +3368,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196697,
       "name": "Hemingway",
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
@@ -3610,7 +3664,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/3pPZKLw59zl82hsxRqGxrw"
@@ -4822,7 +4876,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 206733,
       "name": "Meu amor quando eu morrer",
       "url": "https://open.spotify.com/track/0OW6EghV8JFR3ZcOFO3E3T"
@@ -6382,7 +6436,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 205733,
       "name": "Relento",
       "url": "https://open.spotify.com/track/0awyiXfbl4RH3DFiFXfWgv"
@@ -7979,6 +8033,24 @@
     },
     {
       "album": {
+        "name": "escrevi can\u00e7\u00f5es e s\u00e3o todas iguais",
+        "url": "https://open.spotify.com/album/12S42c1GgDl8gkDpRxjuyN"
+      },
+      "artists": [
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/7AdFZaaQbSzJdpU0JtnRMm"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -8020,7 +8092,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245240,
       "name": "Tr\u00f3pico Paran\u00f3ia",
       "url": "https://open.spotify.com/track/0RBiY7ty9QrIvCAubAebmI"
@@ -8318,6 +8390,24 @@
       "duration_ms": 163868,
       "name": "VEM C\u00c1",
       "url": "https://open.spotify.com/track/4U2BWOlHeTSgfNL4xFpt6B"
+    },
+    {
+      "album": {
+        "name": "Vento Dentro de Casa",
+        "url": "https://open.spotify.com/album/4ct13N2iGIAdyoEx6GJije"
+      },
+      "artists": [
+        {
+          "name": "Tiago Alvarez",
+          "url": "https://open.spotify.com/artist/3qGDFQE44WwaI9C1fWKAza"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209839,
+      "name": "Vento Dentro de Casa",
+      "url": "https://open.spotify.com/track/0K8HL5zq7JAwzUO0MzjXh2"
     },
     {
       "album": {

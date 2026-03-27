@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: SYCLES
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Shinichi Atobe
 
-2,069 songs - 6 day 7 hr 37 min
+2,070 songs - 6 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1862,6 +1862,7 @@
 | [Treat Mode](https://open.spotify.com/track/4YIJn9SGCIVzTb1j2jKgVC) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Treat Mode](https://open.spotify.com/album/1o6vtDTsMO1gwHhF91EPOC) | 5:57 | 2025-03-29 | 2025-05-02 |
 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 | 2025-02-21 | 2025-03-07 |
 | [TRISHA](https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [TRISHA](https://open.spotify.com/album/62H21Ioh6LEd8jq0ABjLRP) | 4:22 | 2024-06-27 | 2024-08-30 |
+| [TRNS](https://open.spotify.com/track/7qAHnqzfocGSbUdfoObkBR) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Silent Way](https://open.spotify.com/album/0VNrAhVsTuL1RLopapcQFE) | 8:56 | 2026-03-26 |  |
 | [Tropical Island](https://open.spotify.com/track/0r3uoHwJv5tNzyKMl3I80B) | [BUDDHAHOUSE](https://open.spotify.com/artist/1fLTr6ZFLSt0FvPf0anapn) | [Tropical Island](https://open.spotify.com/album/02kASMYDZO4Ddq53cF9xE7) | 3:17 | 2024-07-04 | 2024-08-30 |
 | [Turn Back Time](https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Turn Back Time](https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp) | 3:51 | 2023-07-27 | 2023-09-22 |
 | [Turn Me On](https://open.spotify.com/track/4o6Tp7gBYGSvcHIJGGMr4Z) | [Stupid Kozo](https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF), [Pharakami Sanders](https://open.spotify.com/artist/2a2vCEOdNU9AIJRKEjsASY) | [Turn Me On](https://open.spotify.com/album/5H4uzbsjRgLh7GDYkyfrq7) | 4:33 | 2025-11-28 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Killa Fonic",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Grasu XXL",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 172552,
       "name": "BMW",
       "url": "https://open.spotify.com/track/0aCuYXYaCGlf5vmrJBpIGm"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 147421,
       "name": "Fete rele",
       "url": "https://open.spotify.com/track/3vA1qdAmYgwD6rRRBgNWw8"
@@ -1940,6 +1940,24 @@
       "duration_ms": 174545,
       "name": "FLOTARI",
       "url": "https://open.spotify.com/track/6QaKF9W05z0sZpMeigJLbS"
+    },
+    {
+      "album": {
+        "name": "Flow Gr\u0103san",
+        "url": "https://open.spotify.com/album/2zKRB30umnOovNff0etdJG"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209578,
+      "name": "Flow Gr\u0103san",
+      "url": "https://open.spotify.com/track/4z6qfeqKoTnzTjXG4GhdvX"
     },
     {
       "album": {
@@ -3662,7 +3680,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Poate",
       "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"

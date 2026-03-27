@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 159000,
       "name": "112",
       "url": "https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 175677,
       "name": "Boom Kah 2.0",
       "url": "https://open.spotify.com/track/4we0IaQqOwFJlYIiCKvVFt"
@@ -6441,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "Huolimieli",
+        "url": "https://open.spotify.com/album/2A0XtOcNax1g9jdVIKFVP9"
+      },
+      "artists": [
+        {
+          "name": "Ellis",
+          "url": "https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154984,
+      "name": "Huolimieli",
+      "url": "https://open.spotify.com/track/3qJTAEKkgb7BvcuGoGPpk7"
+    },
+    {
+      "album": {
         "name": "Huominen ei l\u00f6yd\u00e4 meit\u00e4",
         "url": "https://open.spotify.com/album/7EJUoQ0NHlrlvxEUzr5M6p"
       },
@@ -7380,7 +7398,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 163647,
       "name": "Ilmaa",
       "url": "https://open.spotify.com/track/7uMpPXrjRVAerTwnsnj7DO"
@@ -9209,6 +9227,24 @@
     },
     {
       "album": {
+        "name": "kun joskus en muista",
+        "url": "https://open.spotify.com/album/3uPLeYP2pyFQdKzYEZi2uu"
+      },
+      "artists": [
+        {
+          "name": "emmi lorentzen",
+          "url": "https://open.spotify.com/artist/11qrI1NOKcoogzUwXdAHtz"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192621,
+      "name": "kun joskus en muista",
+      "url": "https://open.spotify.com/track/1Gp19g5YxFjMkU95DbsJhW"
+    },
+    {
+      "album": {
         "name": "Kun tulee pimee",
         "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
       },
@@ -9936,6 +9972,24 @@
       "duration_ms": 172850,
       "name": "Liike on l\u00e4\u00e4ke",
       "url": "https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr"
+    },
+    {
+      "album": {
+        "name": "Limee ja suolaa",
+        "url": "https://open.spotify.com/album/3Pl188gepWX1HVKonTwAUl"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193947,
+      "name": "Limee ja suolaa",
+      "url": "https://open.spotify.com/track/7Lg9ofCGw4UUYXPKyTpzRp"
     },
     {
       "album": {
@@ -13706,7 +13760,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 155704,
       "name": "Oulu",
       "url": "https://open.spotify.com/track/643eEKPaQKeIidBzPKvpOK"
@@ -16269,6 +16323,24 @@
     },
     {
       "album": {
+        "name": "Se ei ollu min\u00e4",
+        "url": "https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130423,
+      "name": "Se ei ollu min\u00e4",
+      "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
+    },
+    {
+      "album": {
         "name": "Se Mit\u00e4 S\u00e4 Oot",
         "url": "https://open.spotify.com/album/5zR3zSZCAKtKh3xILB7Kwo"
       },
@@ -16824,6 +16896,24 @@
       "duration_ms": 172347,
       "name": "Sirkus",
       "url": "https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY"
+    },
+    {
+      "album": {
+        "name": "Sirpaleita",
+        "url": "https://open.spotify.com/album/40upQoMaQapqLUXfqbECFf"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164897,
+      "name": "Sirpaleita",
+      "url": "https://open.spotify.com/track/0KztoXKIxfYYCC0E7XyI2w"
     },
     {
       "album": {
@@ -17724,7 +17814,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 195080,
       "name": "Susta l\u00f6ysin kodin",
       "url": "https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z"
@@ -18282,6 +18372,24 @@
       "duration_ms": 209484,
       "name": "Taivaisiin - Vain el\u00e4m\u00e4\u00e4 kausi 15",
       "url": "https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF"
+    },
+    {
+      "album": {
+        "name": "Takas Anjosiin",
+        "url": "https://open.spotify.com/album/5CNnCKszlux6dVNinRec3b"
+      },
+      "artists": [
+        {
+          "name": "Jennika Vikman",
+          "url": "https://open.spotify.com/artist/7GVpPjlP6LVjlTZXvDmRFU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Takas Anjosiin",
+      "url": "https://open.spotify.com/track/6kubpCpaUteSsuDJftAvb3"
     },
     {
       "album": {
@@ -19262,7 +19370,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
@@ -19506,7 +19614,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 160372,
       "name": "Tulta ja tuhkaa",
       "url": "https://open.spotify.com/track/0bfsTbOkMkyW7pfys8Cb2x"
@@ -20638,7 +20746,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 157866,
       "name": "Viesti sun nykyiselle",
       "url": "https://open.spotify.com/track/7KASd6otM3G4S6OjBi8EFZ"
@@ -21391,6 +21499,24 @@
     },
     {
       "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
@@ -22008,6 +22134,24 @@
       "duration_ms": 165243,
       "name": "\u00c4l\u00e4 rakasta mun rakasta",
       "url": "https://open.spotify.com/track/287Vj7UcE3KgsWr0XS8MPE"
+    },
+    {
+      "album": {
+        "name": "\u00e4l\u00e4 sano mit\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/54aZUuQeQDcC0viMJY61O2"
+      },
+      "artists": [
+        {
+          "name": "dreamilla",
+          "url": "https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182125,
+      "name": "\u00e4l\u00e4 sano mit\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/1JvOQjASrjSV2ysLqED3Qf"
     },
     {
       "album": {

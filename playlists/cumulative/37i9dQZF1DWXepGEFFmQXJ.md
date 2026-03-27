@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Morgan Evans
+> The cream of today's country crop\. Cover: Kacey Musgraves
 
-1,146 songs - 2 day 14 hr 48 min
+1,149 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Blue Eyes](https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21) | [Brook Chivell](https://open.spotify.com/artist/6LnqkQnFsNP3bdPLzQ8rYQ) | [Blue Eyes](https://open.spotify.com/album/1EXlMdfR3WjiZUeQMwfkzL) | 4:06 | 2023-05-18 | 2023-06-16 |
 | [Blue Guitar](https://open.spotify.com/track/6Ckb5FMJHjZh2dFFyfn4RP) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Blue Guitar](https://open.spotify.com/album/7p8eJUdGjDoKuwDNGAu1Wn) | 3:30 | 2022-08-05 | 2022-12-09 |
 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-01-30 | 2025-04-11 |
-| [Boat Named After You](https://open.spotify.com/track/04MDXwZ7JPyf1NGB8CNjPV) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Boat Named After You](https://open.spotify.com/album/3B3bBKTlR45AgSI26GVsjv) | 3:56 | 2026-02-26 |  |
+| [Boat Named After You](https://open.spotify.com/track/04MDXwZ7JPyf1NGB8CNjPV) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Boat Named After You](https://open.spotify.com/album/3B3bBKTlR45AgSI26GVsjv) | 3:56 | 2026-02-26 | 2026-03-27 |
 | [Bones](https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Bones](https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn) | 2:53 | 2024-07-11 | 2024-10-25 |
 | [BOOTS 'N ALL](https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm) | 2:45 | 2023-02-02 | 2023-09-08 |
 | [Boots Off](https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 2:41 | 2025-04-10 | 2025-07-04 |
@@ -265,6 +265,7 @@
 | [Dead To Me](https://open.spotify.com/track/4i2O11UnrFyCvW1X4aZT28) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Dead To Me](https://open.spotify.com/album/07VQaRYNPQrX5q74HYMlqF) | 2:58 | 2022-10-13 | 2023-04-21 |
 | [Dear Life](https://open.spotify.com/track/6tlCs1MOqB8KML7KJqggZm) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Dear Life](https://open.spotify.com/album/5MyRxVJOCQTdWvqM333hxx) | 3:20 | 2024-06-21 | 2024-07-27 |
 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 | 2025-02-12 | 2025-05-16 |
+| [Deep Blue](https://open.spotify.com/track/19z7vqa3x0LOGPCFRIv6QF) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Deep Blue](https://open.spotify.com/album/6yjMAa5hW9tTXxwKZTBfa6) | 3:17 | 2026-03-26 |  |
 | [Deep Cuts](https://open.spotify.com/track/1LEOSfKAoEFCjQPiF44kqI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Deep Cuts](https://open.spotify.com/album/6ZD2LgmUGRKzXWaJGf1nBM) | 4:05 | 2023-01-19 | 2023-05-05 |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-15 |
 | [Denim](https://open.spotify.com/track/0Dk5xQrlWrw6vA8jbMZX2S) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK), [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [The Drifter](https://open.spotify.com/album/3nLdEGyeELJw1NGvibc9PZ) | 3:51 | 2025-01-16 | 2025-03-21 |
@@ -276,6 +277,7 @@
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 | 2024-10-25 |
 | [Different Dreams](https://open.spotify.com/track/48YqA2znPD02vKyWHxRFTP) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Different Dreams](https://open.spotify.com/album/3oY4wpZLHeAS61Zku5nFha) | 2:56 | 2024-10-17 | 2024-10-22 |
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2022-03-31 | 2022-08-12 |
+| [DO YOU PLAY ANY COUNTRY](https://open.spotify.com/track/5XQAeqCYvoeYqQ5C9gnfuo) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [DO YOU PLAY ANY COUNTRY](https://open.spotify.com/album/6LOfcXCk4j1OWE8OEehC3L) | 2:39 | 2026-03-26 |  |
 | [Dog Years](https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dog Years](https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI) | 4:16 | 2025-09-18 | 2025-11-14 |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-30 | 2022-06-24 |
 | [Don't Get Me Started](https://open.spotify.com/track/3fdwhx6RKaFMel5bpdj0cs) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Don't Get Me Started](https://open.spotify.com/album/5IvrTsSLiDHS9eUWRCe8yr) | 2:48 | 2024-05-23 | 2024-08-23 |
@@ -780,7 +782,7 @@
 | [Pretty Doesn't Make You Good](https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Pretty Doesn't Make You Good](https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN) | 2:53 | 2023-05-18 | 2023-07-07 |
 | [Pretty Little Liar](https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Pretty Little Liar](https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um) | 4:02 | 2025-10-09 | 2025-11-14 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-05-25 | 2023-09-22 |
-| [Pretty Little Thing Called Jane](https://open.spotify.com/track/5qeT14ciFI4PDM4G96BC69) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Pretty Little Thing Called Jane](https://open.spotify.com/album/154tiwUGtIRAdm5XI0r3ob) | 2:47 | 2026-01-29 |  |
+| [Pretty Little Thing Called Jane](https://open.spotify.com/track/5qeT14ciFI4PDM4G96BC69) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Pretty Little Thing Called Jane](https://open.spotify.com/album/154tiwUGtIRAdm5XI0r3ob) | 2:47 | 2026-01-29 | 2026-03-27 |
 | [Problem](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:34 | 2025-11-13 | 2026-03-20 |
 | [Prodigal Daughter \(feat\. Molly Tuttle\)](https://open.spotify.com/track/2mNoj9OifJiGe7aC35paQX) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Prodigal Daughter](https://open.spotify.com/album/1voXBL0YbqcFfskir9BoUp) | 3:26 | 2025-02-20 | 2025-03-28 |
 | [Proving Me Right](https://open.spotify.com/track/5cMXjUFvxrppQsmeXoJ2tt) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Proving Me Right](https://open.spotify.com/album/4Sy5ZQvGVhxbVZDUPY4UC2) | 2:54 | 2025-12-04 | 2026-03-13 |
@@ -795,7 +797,7 @@
 | [Real Good Cookin'](https://open.spotify.com/track/0Cm54OFxMpEjPCV8JoEGwZ) | [Sweet Talk](https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi) | [Real Good Cookin'](https://open.spotify.com/album/4nCAdiW5a0XBGWRIpT0YEb) | 3:31 | 2024-05-23 | 2024-06-28 |
 | [Real Man](https://open.spotify.com/track/0sEdnshFRFL1sEC9EC074a) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Real Man](https://open.spotify.com/album/1SXuOk9M9j4nDlPwS0fdyw) | 3:28 | 2023-08-03 | 2023-11-10 |
 | [Real Real](https://open.spotify.com/track/7E6VIMHlOBokbisOThuQ7J) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [On The Back Of My Dreams](https://open.spotify.com/album/58OONWKDrW7oJHfWUy68Vc) | 3:34 | 2024-09-05 | 2025-01-10 |
-| [Real Slow](https://open.spotify.com/track/4Zjgytx3EiFQueXvNQwIAg) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Real Slow](https://open.spotify.com/album/5mjmdgrdIuMqMJulbVo8lg) | 3:22 | 2026-03-12 |  |
+| [Real Slow](https://open.spotify.com/track/4Zjgytx3EiFQueXvNQwIAg) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Real Slow](https://open.spotify.com/album/5mjmdgrdIuMqMJulbVo8lg) | 3:22 | 2026-03-12 | 2026-03-27 |
 | [Really Don't Love Me](https://open.spotify.com/track/3m9mWLjQ7kkTZhzlc1OvTy) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Can't Just Be Me](https://open.spotify.com/album/7yV8AyLdPAquTjQ27qETI3) | 3:17 | 2024-05-23 | 2024-08-23 |
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 | 2023-01-19 | 2023-07-18 |
 | [Red Dirt ROCKNROLL](https://open.spotify.com/track/6CjCyi9eNve4rNilYJDDzM) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Dangerous In Denim](https://open.spotify.com/album/621TgI7x6jd4HryLw33N2x) | 3:50 | 2026-03-12 |  |
@@ -1050,6 +1052,7 @@
 | [Unapologetic](https://open.spotify.com/track/3vjwV75w8uaS0SKc8E0Xb1) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Unapologetic](https://open.spotify.com/album/65HwKxgRkQhhfZ45h2IDsz) | 3:09 | 2025-11-27 | 2026-03-13 |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-01-27 | 2022-04-22 |
 | [Unforgivingly Me](https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Unforgivingly Me](https://open.spotify.com/album/01hoYJaRqNuMi06xhfvcLF) | 2:56 | 2023-03-30 | 2023-06-16 |
+| [Unglued](https://open.spotify.com/track/0a4LBxkuNMw8SMj5vX2EiM) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Work of Heart](https://open.spotify.com/album/54R9tAXXFNij2gxlcKnvdG) | 3:54 | 2026-03-26 |  |
 | [Unspoken](https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Unspoken](https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB) | 2:39 | 2025-10-02 | 2026-02-13 |
 | [Until You](https://open.spotify.com/track/6b1nfXTSLwlgQGr5KRzIJZ) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [FALL](https://open.spotify.com/album/7LG72lIxM7uhlen8GyWmrz) | 3:17 | 2024-11-14 | 2025-02-07 |
 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-15 | 2024-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > neler yaşamışım ben ya...
 
-[Çodur](https://open.spotify.com/user/mertcodur) - 353 likes - 32 songs - 1 hr 29 min
+[Çodur](https://open.spotify.com/user/mertcodur) - 352 likes - 32 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 2 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 3 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 |
 | 4 | [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 |
-| 5 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 |
-| 6 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 |
-| 7 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 |
-| 8 | [Alıştım Zehrine](https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Alıştım Zehrine](https://open.spotify.com/album/6xL4FouxMMHxeQjbMJZNn0) | 2:39 |
-| 9 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 |
+| 5 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 |
+| 6 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 |
+| 7 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 |
+| 8 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 |
+| 9 | [Alıştım Zehrine](https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Alıştım Zehrine](https://open.spotify.com/album/6xL4FouxMMHxeQjbMJZNn0) | 2:39 |
 | 10 | [Derin Mevzular](https://open.spotify.com/track/65jBnp5troNslpir74QATL) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Derin Mevzular](https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX) | 2:51 |
 | 11 | [Güzelimden](https://open.spotify.com/track/2aiG5yDdWiokTwi2d0Y03G) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Güzelimden](https://open.spotify.com/album/33XqJ0Ris5B2aQUua7t5Vz) | 3:23 |
 | 12 | [Zilli](https://open.spotify.com/track/4UKyuJy0GqMDrcg3IkddDi) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Zilli](https://open.spotify.com/album/0Qjs9wm0hCo0MKA6b8RYnX) | 2:12 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 31 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
 | 32 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
 
-Snapshot ID: `AAAArh0m1R0iJ1o7ePRPV8I+slJQvCzW`
+Snapshot ID: `AAAAsciRQ4d5ZudK7e2iLVFhliYJZGeZ`

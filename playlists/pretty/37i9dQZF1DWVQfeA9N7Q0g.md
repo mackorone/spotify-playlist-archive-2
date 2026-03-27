@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 
 > Sal Da Vinci ha vinto il festival di Sanremo 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,841 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,906 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 4 | [Che fastidio!](https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Che fastidio!](https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u) | 3:14 |
 | 5 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
 | 6 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
-| 7 | [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 |
-| 8 | [ITALIA STARTER PACK](https://open.spotify.com/track/4ZAjcfbt84O79SGc0jWqu7) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [ITALIA STARTER PACK](https://open.spotify.com/album/4M05X6484OBedfXnueiugs) | 2:50 |
+| 7 | [ITALIA STARTER PACK](https://open.spotify.com/track/4ZAjcfbt84O79SGc0jWqu7) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [ITALIA STARTER PACK](https://open.spotify.com/album/4M05X6484OBedfXnueiugs) | 2:50 |
+| 8 | [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 |
 | 9 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
 | 10 | [Voilà](https://open.spotify.com/track/6IhEd41nfdL7qG4MVfZVAp) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Voilà](https://open.spotify.com/album/1sPD0TpvV5Q62TCnyijamW) | 3:12 |
 | 11 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 |
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 15 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
 | 16 | [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 |
 | 17 | [AI AI](https://open.spotify.com/track/5NON0GOPoWxkTK6Hi4JDZi) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [AI AI](https://open.spotify.com/album/5IsG2C8McNwN5HkoUFwER5) | 3:23 |
-| 18 | [Stella stellina](https://open.spotify.com/track/2wNoBWBMt1bpoAzPX2lAi0) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Stella stellina](https://open.spotify.com/album/0wVfHOSUm3hEgjPL3VtnvS) | 3:18 |
-| 19 | [Prima o poi](https://open.spotify.com/track/4j88Y86NDJvbioBEZTxQeO) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Prima o poi](https://open.spotify.com/album/4Fb9DNUREs5AuHdozPCGYH) | 3:08 |
-| 20 | [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 |
-| 21 | [animali notturni](https://open.spotify.com/track/2qkSLhQ0w3R02XzC5zwkr7) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [animali notturni](https://open.spotify.com/album/3R7kykqgx5rGBRxzUzfbrb) | 2:58 |
-| 22 | [SEI TU](https://open.spotify.com/track/1MXiEYzY1u2DEfh2cRITv9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SEI TU](https://open.spotify.com/album/1D50lfiYDTVclwpb7iThC2) | 3:31 |
-| 23 | [Avvoltoi](https://open.spotify.com/track/3ByNcS81LqRYUvJjpWhZ7T) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Avvoltoi](https://open.spotify.com/album/2Pm3fClssWE7Bhnijoi7E1) | 2:45 |
-| 24 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 |
-| 25 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 |
-| 26 | [Ogni volta che non so volare](https://open.spotify.com/track/5COJWRcIcK8Wn2u5G18BA5) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [Ogni volta che non so volare](https://open.spotify.com/album/40I1qR34JcDpxsshanuV3K) | 3:00 |
+| 18 | [Prima o poi](https://open.spotify.com/track/4j88Y86NDJvbioBEZTxQeO) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Prima o poi](https://open.spotify.com/album/4Fb9DNUREs5AuHdozPCGYH) | 3:08 |
+| 19 | [le cose che non sai di me](https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [le cose che non sai di me](https://open.spotify.com/album/60St94B0YIRu0Ja3xxwe2k) | 3:24 |
+| 20 | [animali notturni](https://open.spotify.com/track/2qkSLhQ0w3R02XzC5zwkr7) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [animali notturni](https://open.spotify.com/album/3R7kykqgx5rGBRxzUzfbrb) | 2:58 |
+| 21 | [SEI TU](https://open.spotify.com/track/1MXiEYzY1u2DEfh2cRITv9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SEI TU](https://open.spotify.com/album/1D50lfiYDTVclwpb7iThC2) | 3:31 |
+| 22 | [Avvoltoi](https://open.spotify.com/track/3ByNcS81LqRYUvJjpWhZ7T) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Avvoltoi](https://open.spotify.com/album/2Pm3fClssWE7Bhnijoi7E1) | 2:45 |
+| 23 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 |
+| 24 | [Ogni volta che non so volare](https://open.spotify.com/track/5COJWRcIcK8Wn2u5G18BA5) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [Ogni volta che non so volare](https://open.spotify.com/album/40I1qR34JcDpxsshanuV3K) | 3:00 |
+| 25 | [Stella stellina](https://open.spotify.com/track/2wNoBWBMt1bpoAzPX2lAi0) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Stella stellina](https://open.spotify.com/album/0wVfHOSUm3hEgjPL3VtnvS) | 3:18 |
+| 26 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 |
 | 27 | [Ora e per sempre](https://open.spotify.com/track/229IXngdEIWPyJZuk58stZ) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Ora e per sempre](https://open.spotify.com/album/2Xvid6ftFmGKrVVFrDLAdn) | 3:16 |
 | 28 | [NATURALE](https://open.spotify.com/track/4pvQiqOrowCEHeCpIDKQyP) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [NATURALE](https://open.spotify.com/album/5jn5yKOtZjpgrBk2Z6UxqK) | 3:02 |
 | 29 | [Il meglio di me](https://open.spotify.com/track/4cvOQtYVSPe1Tv4T4R34IC) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Il meglio di me](https://open.spotify.com/album/7tz6PDG1tpEZcmXdAmeDeV) | 2:47 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 57 | [Nei miei DM](https://open.spotify.com/track/2CvhzdXKzJ90JQj6iLg5qI) | [Blind](https://open.spotify.com/artist/5OHbkBRl9kGeloz8JjAwDP), [EL MA](https://open.spotify.com/artist/3UNrwyIzyGeIc8xXFYInEM), [SONIKO](https://open.spotify.com/artist/73DHfRZvWObprsw4AJV2bS) | [Nei miei DM](https://open.spotify.com/album/1Wp7sg5ihwxmd0DTVU9k9n) | 3:03 |
 | 58 | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/track/4CVzKDQSP7dZOzca7vQvsH) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/album/15FtREzDJ4JZLRFxMMmeY3) | 3:04 |
 
-Snapshot ID: `AAAAAM6kVUxr9EgBfRmYTF04J7LDeX/L`
+Snapshot ID: `AAAAAPJdy86VaG2lWyc7A4w94zWCLb4E`

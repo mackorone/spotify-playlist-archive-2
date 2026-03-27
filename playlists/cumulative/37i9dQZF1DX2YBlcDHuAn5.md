@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-290 songs - 17 hr 0 min
+291 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Silver Morning](https://open.spotify.com/track/7nSE52gSLazh76G7wzGGLt) | [Dan Tuffy](https://open.spotify.com/artist/7E3jTzEtqouFXINhlSgHiy), [Song Crew](https://open.spotify.com/artist/4BgaiIVWUFTGvJ0Pu1ax83), [Zlaya Loud](https://open.spotify.com/artist/4wD0BJ41uvaqif4jwDNP6D) | [Silver Morning](https://open.spotify.com/album/6t0tEMqPYhvwygv6RP4w6p) | 3:01 | 2023-06-02 | 2023-07-07 |
 | [Singing In Chains](https://open.spotify.com/track/3kvj57IUgYsSngGL9to7pf) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 3:33 | 2025-12-18 | 2026-01-15 |
 | [Siren Song](https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Siren Song](https://open.spotify.com/album/0thadAuJeTfxPx5FJ9qjim) | 4:09 | 2023-09-14 | 2024-11-15 |
+| [Six O'Clock News](https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE) | [Brennan Wedl](https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Six O'Clock News](https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl) | 4:32 | 2026-03-26 |  |
 | [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 | 2026-02-13 |  |
 | [Someone You Love](https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Someone You Love](https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT) | 4:14 | 2023-02-23 | 2024-06-28 |
 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 | 2025-04-25 | 2025-09-19 |
@@ -245,7 +246,7 @@
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 | 2024-09-13 |
 | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-02-23 | 2024-01-09 |
-| [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 | 2025-02-27 |  |
+| [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 | 2025-02-27 | 2026-03-27 |
 | [The Kids Are All Grown \- Blackbird Version](https://open.spotify.com/track/04R0IH9gPAMwpyNWrRYPg4) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [The Kids Are All Grown \(Blackbird Version\)](https://open.spotify.com/album/3hdDyWKULmmDVjpgxAZVp1) | 4:35 | 2023-09-07 | 2023-12-04 |
 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 | 2023-02-23 | 2023-06-23 |
 | [The Longest Journey](https://open.spotify.com/track/6OjJ5LKp4HX7IvQ5alO34f) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/0kttObNMrwBQFyDGBKiuSW) | 3:48 | 2023-08-31 | 2023-09-02 |

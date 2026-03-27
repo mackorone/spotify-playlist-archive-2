@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 de største nye rap hits i dk 🔥 cover: Merro8
+> 🔥 de største nye rap hits i dk 🔥 cover: Zuloo
 
-512 songs - 21 hr 50 min
+516 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Christopher Nolan](https://open.spotify.com/track/1grqsdlUGsZTWZtCWkFwlc) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Christopher Nolan](https://open.spotify.com/album/1c5G0v0IQRGziB4LpatXyx) | 2:43 | 2025-08-07 | 2025-08-22 |
 | [CHU CHU CHA](https://open.spotify.com/track/3EfyNPxKn8PmM6ivb29yvf) | [NS Gang](https://open.spotify.com/artist/7dqU1R2GEszJk2C0ScnwQW) | [CHU CHU CHA](https://open.spotify.com/album/7pxcGrZXxHn8ihWZKcrHHZ) | 2:30 | 2025-04-24 | 2025-05-30 |
 | [Cinema](https://open.spotify.com/track/0uvfJzdcz7rKBlDshVco6M) | [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Cinema](https://open.spotify.com/album/5mtaGoCppxoFcyZ7B02wiV) | 2:54 | 2024-12-05 | 2025-04-18 |
-| [Clean](https://open.spotify.com/track/5ema5NZYuNZq32lRGss7N0) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [ScandiPacc](https://open.spotify.com/album/4nNMcP9D0VgqdfoWDShV0Q) | 1:54 | 2026-03-12 |  |
+| [Clean](https://open.spotify.com/track/5ema5NZYuNZq32lRGss7N0) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [ScandiPacc](https://open.spotify.com/album/4nNMcP9D0VgqdfoWDShV0Q) | 1:54 | 2026-03-12 | 2026-03-27 |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-03 |  |
 | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL) | 2:41 | 2026-01-08 |  |
 | [Coconut Dreams](https://open.spotify.com/track/6s5fTvO1t80qZ61xjeCv9m) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Coconut Dreams](https://open.spotify.com/album/3RmzF1NpJTdGoBcHHg9WYF) | 2:54 | 2024-06-06 | 2024-11-08 |
@@ -228,6 +228,7 @@
 | [Helwa \(feat\. PAY & Xabski\)](https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Ny Art](https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z) | 3:09 | 2023-09-21 | 2023-11-11 |
 | [Highest In The Room](https://open.spotify.com/track/7oPdKR5JekuBHmnJp2qGn6) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Highest In The Room](https://open.spotify.com/album/3zWUkrpEZnrwQwptDimlcE) | 2:00 | 2025-08-21 | 2025-09-19 |
 | [Hilarious](https://open.spotify.com/track/5NwEy8KC8yeLTAI0RF3N5R) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Hilarious](https://open.spotify.com/album/1W3PAKQfnoTXPeOtsLPzZC) | 2:58 | 2025-10-23 | 2025-11-21 |
+| [HIMMELSENDT](https://open.spotify.com/track/3RTfF3z9LBQReOjWYBVcDO) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [HIMMELSENDT](https://open.spotify.com/album/1SLP82qp6FDgLFmCJGiqjN) | 2:13 | 2026-03-26 |  |
 | [Hjerteløs](https://open.spotify.com/track/3sSfUjDLfhIKtu7dMGIkRd) | [Rune Kuda](https://open.spotify.com/artist/1bmeYQ1w5TJEymee7OLanY) | [Hjerteløs](https://open.spotify.com/album/5JQd4EsXN0K5OeQD7FjCsm) | 3:06 | 2025-11-27 | 2026-01-02 |
 | [Hold Min Hånd \(feat\. Samantha Mercano\)](https://open.spotify.com/track/67Kp3OAGSki4Lwr5anakFm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Samantha Mercano](https://open.spotify.com/artist/3u2H4dlFdANrLKQlnnL9iE) | [Hold Min Hånd \(feat\. Samantha Mercano\)](https://open.spotify.com/album/2R0CMpfP5zQTRZ6MyN7JFD) | 3:21 | 2025-05-29 | 2025-07-11 |
 | [Holddamagle](https://open.spotify.com/track/6mCX1dL0vG71HxcI1OdRBe) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PÅ GEN5YN](https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x) | 1:52 | 2024-06-27 | 2024-09-13 |
@@ -374,6 +375,7 @@
 | [Payback \(feat\. RH\)](https://open.spotify.com/track/01oiNNLfj1N5n8McYBq3kt) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Payback \(feat\. RH\)](https://open.spotify.com/album/77T0zKbTYx05Fcb5qIeFNB) | 2:29 | 2023-09-29 | 2024-04-05 |
 | [Piger \(feat\. ICEKIID\)](https://open.spotify.com/track/2krMpiq40MNAIo6weIBonY) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:24 | 2026-02-12 |  |
 | [Pilot](https://open.spotify.com/track/4bdhr8csdbOX690DKsBOnH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Pilot](https://open.spotify.com/album/5MacHtaCqoCziU1bOY8bu2) | 3:00 | 2025-03-13 | 2025-06-13 |
+| [Planet](https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Planet](https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi) | 3:53 | 2026-03-26 |  |
 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 | 2025-06-19 |  |
 | [Poison Ivy](https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Poison Ivy](https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5) | 2:21 | 2024-03-07 | 2024-05-14 |
 | [Problemer Med Staten](https://open.spotify.com/track/1fLjOQjzHITpaRkVyouKGA) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Problemer Med Staten](https://open.spotify.com/album/7CgCHtxQ8L7bfst8Y43tAM) | 2:03 | 2025-09-25 | 2025-10-10 |
@@ -488,6 +490,7 @@
 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 | 2024-01-16 | 2024-03-08 |
 | [Vejen Hjem Til Dig](https://open.spotify.com/track/53lXPicp2LuvmWcH5KoQfW) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Vejen Hjem Til Dig](https://open.spotify.com/album/3QkI3gLeecBzmxK9gMUvUe) | 2:15 | 2025-07-10 | 2025-08-08 |
 | [VEND OM](https://open.spotify.com/track/3v18HYLfMVttHbUEfOwbMb) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [VEND OM](https://open.spotify.com/album/27ztKpAJgGgqF7db7syLIs) | 3:30 | 2024-06-06 | 2025-01-10 |
+| [Vent lige](https://open.spotify.com/track/7gA0kHyHP31uM1CITkwCuD) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Vent lige](https://open.spotify.com/album/4M9yCfMHyFm5AR9NqaRBzp) | 2:29 | 2026-03-26 |  |
 | [Vent På Mig](https://open.spotify.com/track/19AESr4lB9GpTJtJbwkTJA) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z), [Darsha](https://open.spotify.com/artist/3CXYkk3JZTFzfMlxOLs6Ix) | [Vent På Mig](https://open.spotify.com/album/35r8asFSRukDUjobenm0J2) | 2:49 | 2026-01-29 | 2026-03-06 |
 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 | 2024-05-23 | 2025-01-10 |
 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 | 2025-11-13 |  |
@@ -500,6 +503,7 @@
 | [VIP!](https://open.spotify.com/track/1pr286IhjshR9JEbhqP0gs) | [K4BZ](https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1) | [G44JO](https://open.spotify.com/album/5yZOICEU5FPCNpkConunz5) | 1:37 | 2025-12-04 | 2026-01-02 |
 | [VÅGEN](https://open.spotify.com/track/0imtF0Mddv5FVKQUUgcG3R) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [VÅGEN](https://open.spotify.com/album/14UkKDJNK0LOqFWJvlg3LL) | 2:43 | 2024-12-12 | 2025-01-17 |
 | [W](https://open.spotify.com/track/2DZJFfxCJZj6YZGkswBtnR) | [WESTA](https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb) | [W](https://open.spotify.com/album/1axcTAynm6Yok4kSOwkAOf) | 1:58 | 2026-01-22 | 2026-01-30 |
+| [Walo](https://open.spotify.com/track/5lt9tqbYBlVJnYcHlrcTN6) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Walo](https://open.spotify.com/album/7wqu8glYkOk1hzqp2qCQDr) | 1:58 | 2026-03-26 |  |
 | [Walou](https://open.spotify.com/track/0eaaE2OY5LpxlaSx6GRLZv) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Walou](https://open.spotify.com/album/3zUevQMRs1Z1cFWV4O08Rw) | 2:33 | 2026-02-12 | 2026-02-27 |
 | [Wanna Be My Lady](https://open.spotify.com/track/2bsgTepwbSPYAS0gvlHUw7) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Wanna Be My Lady](https://open.spotify.com/album/5om9PmQ26QpvX2nSxVrcQB) | 1:58 | 2026-01-22 | 2026-02-27 |
 | [Welcome To The Party](https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Welcome To The Party](https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX) | 2:35 | 2023-12-08 | 2024-05-14 |

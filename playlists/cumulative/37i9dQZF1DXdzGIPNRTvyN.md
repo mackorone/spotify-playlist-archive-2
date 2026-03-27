@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-450 songs - 21 hr 10 min
+451 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Fresh Air](https://open.spotify.com/track/2MysoZkOGxCtx3ZFVmi6zN) | [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [Fresh Air](https://open.spotify.com/album/0K6cL3Fea7z1aT5YxrNwnl) | 2:28 | 2026-03-16 |  |
 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
 | [From a Hill](https://open.spotify.com/track/4bvGaHgG1z0uLX5kItReO2) | [Azure Aura](https://open.spotify.com/artist/6mBfByzjieXdCvg1gTm0TR) | [From a Hill](https://open.spotify.com/album/1d9k3ldWgjuHRxOPO91zUA) | 2:33 | 2025-10-01 |  |
+| [Garden of Hope](https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Garden of Hope](https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc) | 2:56 | 2026-03-16 |  |
 | [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-18 | 2026-03-17 |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-04-11 | 2026-03-17 |
 | [Gentle Reflections](https://open.spotify.com/track/36IHCuPESIozkc5HqauNxl) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Gentle Reflections](https://open.spotify.com/album/685evcbNM8dVvZReGt0RBf) | 3:16 | 2024-03-05 | 2026-03-15 |
@@ -252,7 +253,7 @@
 | [Moonlit Koi](https://open.spotify.com/track/7uDrQQez6FNJANlnDDPw3h) | [Ashmorn](https://open.spotify.com/artist/2QgzDh0JIEFaby6C3RTaNL) | [Moonlit Koi](https://open.spotify.com/album/3o4LCbPn6YH2EERJaE9nHd) | 2:28 | 2026-02-11 |  |
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 | 2024-11-12 |
 | [Morning Serenity](https://open.spotify.com/track/1f0Xfxjv0ClqY4PGedSAoq) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Morning Serenity](https://open.spotify.com/album/61PBagExiEvzSCp7H4hKbC) | 2:22 | 2026-03-06 |  |
-| [morning sun](https://open.spotify.com/track/6zH8CCVRoPEdnC609EHiim) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [morning sun](https://open.spotify.com/album/4Ihr8c62YpsHpRouNOheTZ) | 3:09 | 2025-07-01 |  |
+| [morning sun](https://open.spotify.com/track/6zH8CCVRoPEdnC609EHiim) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [morning sun](https://open.spotify.com/album/4Ihr8c62YpsHpRouNOheTZ) | 3:09 | 2025-07-01 | 2026-03-27 |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-03-13 | 2025-04-02 |
 | [Motion](https://open.spotify.com/track/5Y3GhXRH3wfUGzsq8IAfQA) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Motion](https://open.spotify.com/album/1S2gpUQc7spDKkgly5pws3) | 2:39 | 2025-02-26 | 2026-03-17 |
 | [Mountain Streams](https://open.spotify.com/track/3GzWxvQYJYwvUR3t84Fr2D) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Mountain Streams](https://open.spotify.com/album/77vCHsHSqYLFrh7RRm7EwB) | 2:18 | 2024-09-06 | 2026-03-17 |

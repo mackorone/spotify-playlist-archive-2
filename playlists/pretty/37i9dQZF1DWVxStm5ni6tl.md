@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: Tallulah Argue, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,412 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,425 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 12 | [breathe](https://open.spotify.com/track/4TDVVe5jqspajdVDg8GYJF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [breathe](https://open.spotify.com/album/0wfUkmhfadrvXWdN58N8Hi) | 2:35 |
 | 13 | [Dying2Live \- Live](https://open.spotify.com/track/5tb1SQ8HOeKwleGbe7p8Aw) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [08 JETTA: Road 2 Glory Cut](https://open.spotify.com/album/5orhntE3On6xoTEW0PR3IR) | 3:36 |
 | 14 | [Worship](https://open.spotify.com/track/03N9OR43va8nurQNeUDcgR) | [Bree Taylor](https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA) | [Worship](https://open.spotify.com/album/6t9CeR0AjMnqJn5NxMzE8N) | 3:01 |
-| 15 | [That's Real](https://open.spotify.com/track/3RTRXQTbK2i3G8WWwoLw68) | [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [THAT'S REAL](https://open.spotify.com/album/2fWHBXYVvaQU2ggqmEDev7) | 2:13 |
+| 15 | [THAT'S REAL](https://open.spotify.com/track/3RTRXQTbK2i3G8WWwoLw68) | [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [THAT'S REAL](https://open.spotify.com/album/2fWHBXYVvaQU2ggqmEDev7) | 2:13 |
 | 16 | [Daddy's Girl](https://open.spotify.com/track/0WPjWu2c0cHs4J5tFC4MKx) | [Dayside](https://open.spotify.com/artist/1yzJ27db2mGyeQeOGJ2cbl), [Guffchild](https://open.spotify.com/artist/4MBIiX7dMqa1xDwDNZDhMR), [Pope Silk](https://open.spotify.com/artist/37GtR4WbOKgdYkM1n733Df), [Mosez Jones](https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp) | [Daddy's Girl: The Remixes](https://open.spotify.com/album/5ixoM10AgZP3SOtLTYvNn7) | 2:04 |
 | 17 | [Can't Go On](https://open.spotify.com/track/0nNNVoqcAeo7uC86FAxi07) | [Arial Ten](https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf) | [Can't Go On](https://open.spotify.com/album/4kQNsCZdGG0931c23KY3zz) | 2:09 |
 | 18 | [Too Much](https://open.spotify.com/track/2mJ79JQZAXsXWZ95DZzs9j) | [DAPHNE](https://open.spotify.com/artist/6rufuQR0qbkAvaiNPnWBxi) | [Too Much](https://open.spotify.com/album/7fNna6jFS0w8CYjY6z3H8l) | 3:22 |

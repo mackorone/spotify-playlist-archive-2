@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Killa Fonic
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Grasu XXL
 
-250 songs - 12 hr 10 min
+251 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bilateral](https://open.spotify.com/track/5tsdJCTthJlYcLRpEL80qm) | [libEluLLah](https://open.spotify.com/artist/47s4jfzj4DOUP5zj53qHJv), [A.U.G.](https://open.spotify.com/artist/7lc9emmSaHSmjEKbqLtYxE) | [Bilateral](https://open.spotify.com/album/6e3RHMdj3iGViUgzm7d9d9) | 2:56 | 2024-06-27 | 2024-09-20 |
 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 | 2024-06-27 |  |
 | [Bla, Bla, Bla](https://open.spotify.com/track/40lv4CAoxlYj4QGYV6NCGz) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Bla, Bla, Bla](https://open.spotify.com/album/3AmYiPfTpQ42v2keyIjejm) | 2:49 | 2024-06-27 | 2024-07-05 |
-| [BMW](https://open.spotify.com/track/0aCuYXYaCGlf5vmrJBpIGm) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Lino Golden](https://open.spotify.com/artist/1FLxXnFMMpCQYzHTIYtYLH) | [BMW](https://open.spotify.com/album/2ioNfug2yjskefdNkMJ1s0) | 2:52 | 2025-11-20 |  |
+| [BMW](https://open.spotify.com/track/0aCuYXYaCGlf5vmrJBpIGm) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Lino Golden](https://open.spotify.com/artist/1FLxXnFMMpCQYzHTIYtYLH) | [BMW](https://open.spotify.com/album/2ioNfug2yjskefdNkMJ1s0) | 2:52 | 2025-11-20 | 2026-03-27 |
 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 | 2024-10-10 | 2025-12-13 |
 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 | 2024-09-19 | 2025-06-06 |
 | [București](https://open.spotify.com/track/4EcRuuGCmMEhNsBstYdeUs) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [București](https://open.spotify.com/album/1RSypn6d43zURQPdz5zKJO) | 2:48 | 2024-06-27 | 2024-07-05 |
@@ -95,10 +95,11 @@
 | [FAM.](https://open.spotify.com/track/3wZoC2EWRgxoQt97yyREMe) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [DUPĂ FAIMĂ DEVII NAȘPA](https://open.spotify.com/album/4Z9peZjxxJXovjzYrtdb5R) | 3:24 | 2026-02-12 | 2026-03-07 |
 | [Faruri](https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B), [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Faruri](https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg) | 3:10 | 2024-11-07 | 2025-01-17 |
 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 | 2024-06-27 | 2025-10-07 |
-| [Fete rele](https://open.spotify.com/track/3vA1qdAmYgwD6rRRBgNWw8) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Fete rele](https://open.spotify.com/album/4Hhi0pp0VfMIx77NcKYG7z) | 2:27 | 2026-03-06 |  |
+| [Fete rele](https://open.spotify.com/track/3vA1qdAmYgwD6rRRBgNWw8) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Fete rele](https://open.spotify.com/album/4Hhi0pp0VfMIx77NcKYG7z) | 2:27 | 2026-03-06 | 2026-03-27 |
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-04 | 2025-06-27 |
 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
 | [FLOTARI](https://open.spotify.com/track/6QaKF9W05z0sZpMeigJLbS) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DUBLU BOSS \(Chapter 1: Born To Be a King\)](https://open.spotify.com/album/22lwh8bY01H01EVgnVj9c3) | 2:54 | 2025-07-10 | 2025-09-26 |
+| [Flow Grăsan](https://open.spotify.com/track/4z6qfeqKoTnzTjXG4GhdvX) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Flow Grăsan](https://open.spotify.com/album/2zKRB30umnOovNff0etdJG) | 3:29 | 2026-03-26 |  |
 | [FRACTAL](https://open.spotify.com/track/1MaUiJzcCGlU0o5WrfdYCs) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [ASTROACVATICO](https://open.spotify.com/album/4xMZLdJo69xQIXX6fiaYTU) | 2:37 | 2026-03-12 |  |
 | [FREESTYLE PÂNĂ LA D.F.D.N.](https://open.spotify.com/track/7HZP8qPQPCZiQdh2ptePLZ) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [FREESTYLE PÂNĂ LA D.F.D.N.](https://open.spotify.com/album/4GSVFm4e1yKbw1KUw388FH) | 4:29 | 2025-12-18 | 2026-02-13 |
 | [Fricile](https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Fricile](https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf) | 3:31 | 2024-12-05 | 2025-01-24 |
@@ -179,7 +180,7 @@
 | [Piesa de masina](https://open.spotify.com/track/0KqldOyqf87zR2rail9Yxi) | [Skizzo Skillz](https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Rapper pana gasesc un job serios](https://open.spotify.com/album/5iVZCzBpqzpaXE25k4kLxi) | 4:35 | 2025-07-10 | 2025-10-24 |
 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 | 2024-06-27 |  |
 | [PM AM](https://open.spotify.com/track/1HeonIzy7Pic6n0GjK8leX) | [FRAXU](https://open.spotify.com/artist/2raLNB0A17S6DfYuQfv4jb), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [PM AM](https://open.spotify.com/album/3e6SEz3zGQjWoj3dVvizE6) | 2:00 | 2024-07-04 | 2024-07-27 |
-| [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 | 2026-03-20 |
+| [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 |  |
 | [Poseidon](https://open.spotify.com/track/1DWHungfvvL0Olwu1tSrBO) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Poseidon](https://open.spotify.com/album/4o3Qn53H6XlU1KSDM1YaYV) | 2:40 | 2025-06-26 | 2025-07-19 |
 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 | 2025-09-25 |  |
 | [POVESTEA NOASTRA](https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [POVESTEA NOASTRA](https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd) | 3:46 | 2025-04-10 | 2025-06-06 |

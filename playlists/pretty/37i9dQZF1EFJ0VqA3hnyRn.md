@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606 likes - 281 songs - 16 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 610 likes - 281 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 148 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 149 | [Brown Skin Girl \(feat\. Sean Paul\)](https://open.spotify.com/track/037FXn5nBi0wMkAue12Jke) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 4:13 |
 | 150 | [Checking For You](https://open.spotify.com/track/19Qduas1mZwiAr4yUuBZXC) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:34 |
-| 151 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 |
-| 152 | [Rock Star](https://open.spotify.com/track/1IqrCzyf2sr6TpTeIxJ6b8) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:36 |
+| 151 | [Rock Star](https://open.spotify.com/track/1IqrCzyf2sr6TpTeIxJ6b8) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:36 |
+| 152 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 |
 | 153 | [Blow It All](https://open.spotify.com/track/3A88PZgZXXeacwWhwwtZdR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:58 |
 | 154 | [Secrets](https://open.spotify.com/track/5pAaXHSlxNLfS6RQBrpjm5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Secrets](https://open.spotify.com/album/3ETzU5ugHCLSTN2xCgfoBK) | 3:46 |
 | 155 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 252 | [Der Schlumpfenbeat](https://open.spotify.com/track/21l8z5LyBjT0nfynKJfvtX) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Die Hits der Schlümpfe](https://open.spotify.com/album/5GDFUh4vZFYXzUtoOb93VS) | 3:13 |
 | 253 | [Neighborhood \(feat\. Kent Jamz & Nick Grant\)](https://open.spotify.com/track/6uZRRwpvuMP4jKo0O0FxRp) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Village Days](https://open.spotify.com/album/5UgntWXasSNmI0s3O8rS6b) | 5:00 |
 | 254 | [Final Warning](https://open.spotify.com/track/74T44FOeJJIQgaYtA5itIt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Global](https://open.spotify.com/album/1AAvLa465c3cBOaRBrOjw1) | 4:16 |
-| 255 | [Hustle \(feat\. Turf Talk & R\. City\)](https://open.spotify.com/track/2Ciludxr3qvZ0Qo1FeDfXF) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Turf Talk](https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM) | [The Ball Street Journal \(Explicit Version\)](https://open.spotify.com/album/0BQ8wXGS0WNrNiTEQpJDwv) | 4:17 |
-| 256 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
+| 255 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
+| 256 | [Hustle \(feat\. Turf Talk & R\. City\)](https://open.spotify.com/track/2Ciludxr3qvZ0Qo1FeDfXF) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Turf Talk](https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM) | [The Ball Street Journal \(Explicit Version\)](https://open.spotify.com/album/0BQ8wXGS0WNrNiTEQpJDwv) | 4:17 |
 | 257 | [Silhouettes](https://open.spotify.com/track/5aKRDpKlSC2pqttYNpRnJW) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Silhouettes](https://open.spotify.com/album/0IXu79KUBiVlBwg9W68Vgv) | 3:32 |
 | 258 | [Locked Away](https://open.spotify.com/track/1tmtNTFj5e1lOZ5FF5D1uD) | [The New Releases](https://open.spotify.com/artist/0KcrR46L75FgSR7uRuIwqB) | [Straight from the Studio: The Hits January 2016](https://open.spotify.com/album/3xpISCse4tIpurM2nfaQDu) | 3:47 |
 | 259 | [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/2BE8RCIL9G9XvW81tnqLlY) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/2N5vfKSQ6dvGGl9hB0Fpnc) | 3:35 |
@@ -290,4 +290,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 280 | [Get Spooky](https://open.spotify.com/track/0n6S7kvJmwFBzjjh5qqaD0) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:29 |
 | 281 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcNG9AAAAACNRIh1ibJy8UP0zynuGQye`
+Snapshot ID: `AcNMlAAAAAANGV253rlmF1NZtb/j8HNG`

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 796683,
+  "num_followers": 796774,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 286306,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 286306,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
         }
       ],
-      "duration_ms": 233325,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI"
+      "duration_ms": 321706,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
     }
   ],
   "unique_name": "Salsa: Los 90s",

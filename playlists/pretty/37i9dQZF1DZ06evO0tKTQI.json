@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13793,
+  "num_followers": 13795,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADrxDasfkL3mMXAOPdhurJE",
+  "snapshot_id": "acMlgAAAAAD45iBp03P6htzKEDL/wOV0",
   "tracks": [
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "tdbn (Deluxe)",
-        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 231400,
-      "name": "tiempo",
-      "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
+      "duration_ms": 238533,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "tdbn (Deluxe)",
+        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
       },
       "artists": [
         {
@@ -640,29 +640,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "lo q yo por ti",
-        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 173421,
-      "name": "lo q yo por ti",
-      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
+      "duration_ms": 231400,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
       "duration_ms": 181384,
       "name": "Chocolate y Nata",
       "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lo q yo por ti",
+        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "lo q yo por ti",
+      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Hazme Saber",
+      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
         "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 155520,
       "name": "Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Hazme Saber",
-      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
     },
     {
       "added_at": null,

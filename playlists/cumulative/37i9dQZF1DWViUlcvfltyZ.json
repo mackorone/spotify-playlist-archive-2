@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Fight Pausa in cover (circondato da cuscini)",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Quercia in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -5903,6 +5903,24 @@
     },
     {
       "album": {
+        "name": "FIGLIA",
+        "url": "https://open.spotify.com/album/3y1TWeOz7IUald9GEkTDaT"
+      },
+      "artists": [
+        {
+          "name": "Leyla El Abiri",
+          "url": "https://open.spotify.com/artist/3E7G9DQhR8ftQDt18ieMVZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208208,
+      "name": "citt\u00e0",
+      "url": "https://open.spotify.com/track/4KoPm3cwmckbzKktGxnkjr"
+    },
+    {
+      "album": {
         "name": "Citt\u00e0 foresta",
         "url": "https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w"
       },
@@ -7440,7 +7458,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 145411,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/7o3F7Q0AHlWZdrjpmsUg6P"
@@ -7592,7 +7610,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196374,
       "name": "Delaware",
       "url": "https://open.spotify.com/track/4NTvQXxKbhIBKw0resK0Vm"
@@ -8094,6 +8112,24 @@
       "duration_ms": 178773,
       "name": "Disordine",
       "url": "https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV"
+    },
+    {
+      "album": {
+        "name": "Dissacrante",
+        "url": "https://open.spotify.com/album/4fv8Owfn2yKg8Vkn8zpbwi"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Dissacrante",
+      "url": "https://open.spotify.com/track/5ZV2ObM0F03iGTQZWhR7nQ"
     },
     {
       "album": {
@@ -10294,7 +10330,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 157329,
       "name": "Fiducia nel Buio",
       "url": "https://open.spotify.com/track/0Q2R9r59oN7Lmo8AnzdkV4"
@@ -13575,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "I Won't Give Up",
+        "url": "https://open.spotify.com/album/6a3jWiyOJr3UCOXg908udZ"
+      },
+      "artists": [
+        {
+          "name": "Radio Days",
+          "url": "https://open.spotify.com/artist/7LM0cY0xBymEhYollo3Zc6"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150493,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/2tS1ua5WnmQ2qvQGj1ZwyZ"
+    },
+    {
+      "album": {
         "name": "FOREVER PART ONE",
         "url": "https://open.spotify.com/album/2bXaWCdUz5Hm1ue2Zg9lAJ"
       },
@@ -13792,7 +13846,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 243256,
       "name": "If People Were Drunk",
       "url": "https://open.spotify.com/track/6wzZrdUtrMQTAuRfOuLbmF"
@@ -19260,7 +19314,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 209829,
       "name": "Mi fa schifo tutto oggi",
       "url": "https://open.spotify.com/track/0cYrl3QCvwZy9dE4p3g9Za"
@@ -20248,7 +20302,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 225365,
       "name": "Nati Inciampati",
       "url": "https://open.spotify.com/track/0mF3hBVmWoJj0JFpGXfxwh"
@@ -20720,7 +20774,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 171546,
       "name": "New Life (Berto)",
       "url": "https://open.spotify.com/track/6wpb0WWJFei3wDIulhtEJI"
@@ -21813,6 +21867,24 @@
     },
     {
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/1EUQXou8NYiZ508c6CkUiv"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156995,
+      "name": "Nuda ma alla Moda",
+      "url": "https://open.spotify.com/track/1H8U4KJR2ZRJadajrxupwe"
+    },
+    {
+      "album": {
         "name": "Dmfl",
         "url": "https://open.spotify.com/album/1GGgNyorw5yOKWWmoCB9FQ"
       },
@@ -22607,6 +22679,24 @@
     },
     {
       "album": {
+        "name": "Atabasca",
+        "url": "https://open.spotify.com/album/1oYySd0dqIgl5od4m3rzhQ"
+      },
+      "artists": [
+        {
+          "name": "Atabasca",
+          "url": "https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267761,
+      "name": "Paco",
+      "url": "https://open.spotify.com/track/6dEoXCNuX0OVn2XENTjbuM"
+    },
+    {
+      "album": {
         "name": "Padrone",
         "url": "https://open.spotify.com/album/0qmhJD0fuuLIQz0LXQ1DX6"
       },
@@ -22640,6 +22730,24 @@
       "duration_ms": 200475,
       "name": "Palle piene",
       "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
+    },
+    {
+      "album": {
+        "name": "Palpebre",
+        "url": "https://open.spotify.com/album/2saSDC93zaXVE9wO6YfJUg"
+      },
+      "artists": [
+        {
+          "name": "Interno 4",
+          "url": "https://open.spotify.com/artist/2OO3RlHtCNO8kiZZatnkOB"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170263,
+      "name": "Palpebre",
+      "url": "https://open.spotify.com/track/0gNrm5y8qGnhaGlj1QwA9i"
     },
     {
       "album": {
@@ -24478,7 +24586,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 213900,
       "name": "Posologia",
       "url": "https://open.spotify.com/track/7B0hS58plfR4gSwQLr4JJk"
@@ -25301,6 +25409,24 @@
     },
     {
       "album": {
+        "name": "quando fuori piove",
+        "url": "https://open.spotify.com/album/3d8hGmIc4viXQhavoREVu1"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Apathy",
+          "url": "https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184601,
+      "name": "quando fuori piove",
+      "url": "https://open.spotify.com/track/5xCr99MqAQVGRHUv2XECdr"
+    },
+    {
+      "album": {
         "name": "Sogno #3",
         "url": "https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn"
       },
@@ -25446,6 +25572,24 @@
       "duration_ms": 287477,
       "name": "Questi giorni",
       "url": "https://open.spotify.com/track/0llVjRE5N3vFYieobSpQKU"
+    },
+    {
+      "album": {
+        "name": "DECADENTE",
+        "url": "https://open.spotify.com/album/2ArFJGztnRTZoZrI3ss12x"
+      },
+      "artists": [
+        {
+          "name": "Bruuno",
+          "url": "https://open.spotify.com/artist/0oHCCcCDY1GC6EPcxoG9Lv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164961,
+      "name": "Rabbia contro le macchine",
+      "url": "https://open.spotify.com/track/4YzaTJnx2OHGNV7WGKOaOc"
     },
     {
       "album": {
@@ -25652,6 +25796,28 @@
       "duration_ms": 164919,
       "name": "Rampicanti",
       "url": "https://open.spotify.com/track/53A1OWZenFhTVhzuGHi6fG"
+    },
+    {
+      "album": {
+        "name": "Rane 'n' Roll",
+        "url": "https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT"
+      },
+      "artists": [
+        {
+          "name": "Joe Perrino",
+          "url": "https://open.spotify.com/artist/6RczSd4yiRlgv7hWhSe7tg"
+        },
+        {
+          "name": "Tre Allegri Ragazzi Morti",
+          "url": "https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208905,
+      "name": "Rane 'n' Roll",
+      "url": "https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A"
     },
     {
       "album": {
@@ -26525,6 +26691,24 @@
     },
     {
       "album": {
+        "name": "Sacerdotessa",
+        "url": "https://open.spotify.com/album/1AOvjX9ghkFrj13G0ac1R1"
+      },
+      "artists": [
+        {
+          "name": "Reira dimentica il presente",
+          "url": "https://open.spotify.com/artist/6PWt1sx8cjSnXDNX35vyWX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213598,
+      "name": "Sacerdotessa",
+      "url": "https://open.spotify.com/track/3zWVUssMeSXvAgmiy4aqZT"
+    },
+    {
+      "album": {
         "name": "Eterna Lotta",
         "url": "https://open.spotify.com/album/2uivRgw9ExCDf2THnM9Yuk"
       },
@@ -26860,7 +27044,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 300653,
       "name": "Scars",
       "url": "https://open.spotify.com/track/1XxbCCDX1NtoajhOONMtEj"
@@ -27784,7 +27968,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 262314,
       "name": "Showgirl",
       "url": "https://open.spotify.com/track/4lEUVtZDJIUcl8gnpVlLpQ"
@@ -29336,7 +29520,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 131568,
       "name": "stop pipping boy it's just music",
       "url": "https://open.spotify.com/track/31pdNl590xWGj4qH5SWzuV"
@@ -30262,6 +30446,24 @@
       "duration_ms": 150940,
       "name": "Terra violenta",
       "url": "https://open.spotify.com/track/234PBjEdgCALR3xigJOKnj"
+    },
+    {
+      "album": {
+        "name": "Tersicore",
+        "url": "https://open.spotify.com/album/5a8jCIJaZd0wSr63b4eIr9"
+      },
+      "artists": [
+        {
+          "name": "c\u00f3lgate",
+          "url": "https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235817,
+      "name": "Tersicore",
+      "url": "https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl"
     },
     {
       "album": {
@@ -31856,7 +32058,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 143455,
       "name": "Tua da far paura (feat. Lamante)",
       "url": "https://open.spotify.com/track/7yfxKv9zbcJmtHtGwUqtG2"
@@ -33767,6 +33969,24 @@
     },
     {
       "album": {
+        "name": "voice jumps during a math lesson",
+        "url": "https://open.spotify.com/album/5knhhH5hGnCH99pMmRCLSG"
+      },
+      "artists": [
+        {
+          "name": "CORE MATO",
+          "url": "https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "voice jumps during a math lesson",
+      "url": "https://open.spotify.com/track/1KAQ2KBRY7PzySaymTS4gb"
+    },
+    {
+      "album": {
         "name": "VOIL\u00c0!",
         "url": "https://open.spotify.com/album/69rTszItyhHXdGtjQzTfNm"
       },
@@ -34254,7 +34474,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 176625,
       "name": "what the fuck kind of world do we live in?",
       "url": "https://open.spotify.com/track/6W8DGZRkoktKT8WPNr0HWM"
@@ -34860,6 +35080,24 @@
       "duration_ms": 211712,
       "name": "\u00c8 solo un momento",
       "url": "https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF"
+    },
+    {
+      "album": {
+        "name": "\u00c8 un serpente che si morde la coda",
+        "url": "https://open.spotify.com/album/0Tic83z39SpwwDNS6zqQYd"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114559,
+      "name": "\u00c8 un serpente che si morde la coda",
+      "url": "https://open.spotify.com/track/35GIRhsGH6ZO9hLir3sX4d"
     },
     {
       "album": {

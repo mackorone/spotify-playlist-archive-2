@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Ride",
+        "url": "https://open.spotify.com/album/41ylB3dOvQtGuzLjr8y78g"
+      },
+      "artists": [
+        {
+          "name": "Attara",
+          "url": "https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN"
+        },
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210191,
+      "name": "Beautiful Ride",
+      "url": "https://open.spotify.com/track/4UXE6268V5xBQN0A4MVEVI"
+    },
+    {
+      "album": {
         "name": "BETTERTHAN",
         "url": "https://open.spotify.com/album/0brOHImSzfnvoVssrwRRHn"
       },
@@ -768,7 +790,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 174421,
       "name": "Early Mornings",
       "url": "https://open.spotify.com/track/4wQXb2vjlr938qkhlixzc9"
@@ -2662,7 +2684,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 209610,
       "name": "Table",
       "url": "https://open.spotify.com/track/7xz2qqAFgzUSRtz6ZtasVl"
@@ -3174,6 +3196,28 @@
       "duration_ms": 126200,
       "name": "Why Can't I?",
       "url": "https://open.spotify.com/track/3cj1ujseKewMHkoAY4RLPD"
+    },
+    {
+      "album": {
+        "name": "Wish Away",
+        "url": "https://open.spotify.com/album/244zvOtWhV8oXkVNV1x9Dv"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Zawadi Mukami",
+          "url": "https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "Wish Away",
+      "url": "https://open.spotify.com/track/3VUHqEbK9uZd9aNAOfCikR"
     },
     {
       "album": {

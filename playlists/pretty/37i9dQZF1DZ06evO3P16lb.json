@@ -1,13 +1,29 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 800,
+  "num_followers": 801,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAAy2J8V23t+J8lsZ04tRGS",
+  "snapshot_id": "acMlgAAAAADCQVZFjz2dcbpujWabEFNW",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Todo Respeto",
+        "url": "https://open.spotify.com/album/0ByqK7yZiZDWF4iZty9bAl"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 169183,
+      "name": "Con Todo Respeto",
+      "url": "https://open.spotify.com/track/5oreXMQKsPW3duvPMx3zrg"
+    },
     {
       "added_at": null,
       "album": {
@@ -87,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo Respeto",
-        "url": "https://open.spotify.com/album/0ByqK7yZiZDWF4iZty9bAl"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 169183,
-      "name": "Con Todo Respeto",
-      "url": "https://open.spotify.com/track/5oreXMQKsPW3duvPMx3zrg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amorcito Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70"
       },
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Ya Ni Me Acuerdo",
+      "url": "https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful City",
         "url": "https://open.spotify.com/album/3Fb5AZkT4XuFHctZ07Kvor"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 259150,
       "name": "Beautiful City",
       "url": "https://open.spotify.com/track/1pGyDZVBQCBKCC8JfO92iR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Ya Ni Me Acuerdo",
-      "url": "https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "Cien A\u00f1os - En Vivo",
+      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo (En Vivo)",
         "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 193631,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 194705,
-      "name": "Cien A\u00f1os - En Vivo",
-      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
     },
     {
       "added_at": null,

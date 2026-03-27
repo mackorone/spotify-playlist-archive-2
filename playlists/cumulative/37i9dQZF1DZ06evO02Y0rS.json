@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 164490,
       "name": "Beyond the Sky",
       "url": "https://open.spotify.com/track/7H5qbikaaCPS1BcuivRZSB"
@@ -1832,6 +1832,24 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393533,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/4Uiia5NmkyHEjHLK0IfwVK"
     },
     {
       "album": {

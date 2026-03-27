@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "album": {
         "name": "BACK IN THE DAY",
         "url": "https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP"
       },
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 272492,
       "name": "Feel So Good Around U",
       "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 215602,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR"
@@ -4754,7 +4772,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 252894,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
@@ -6205,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "Must Be",
+        "url": "https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Must Be",
+      "url": "https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9"
+    },
+    {
+      "album": {
         "name": "My Baby's Place",
         "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
       },
@@ -6880,6 +6916,24 @@
       "duration_ms": 142125,
       "name": "One Sugar",
       "url": "https://open.spotify.com/track/0i3h0cgoRs6klKV7jXEPty"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282062,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
     },
     {
       "album": {
@@ -9404,7 +9458,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 239173,
       "name": "Terrestrials",
       "url": "https://open.spotify.com/track/0Rz8hTX3IDEzJnsraQSYJG"
@@ -9854,6 +9908,28 @@
       "duration_ms": 177582,
       "name": "Thought You'd Know By Now",
       "url": "https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6"
+    },
+    {
+      "album": {
+        "name": "Thrills",
+        "url": "https://open.spotify.com/album/2NaHPoiajNRF1peImCGK9E"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186184,
+      "name": "Thrills",
+      "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
     },
     {
       "album": {

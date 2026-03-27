@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,197 songs - 2 day 18 hr 43 min
+1,198 songs - 2 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Lonely](https://open.spotify.com/track/2c6PNDLjisZLJe08W3j3PU) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Lonely](https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe) | 2:19 | 2024-09-12 | 2024-12-06 |
 | [Long Ago](https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE) | [Wassu](https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Long Ago](https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y) | 4:20 | 2023-03-01 | 2023-05-30 |
 | [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 | 2026-01-19 |  |
+| [Look At Me Now](https://open.spotify.com/track/5Iby2CpAUke1noXR6mg51K) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Look At Me Now](https://open.spotify.com/album/1iLkcAxnDp88Qut1FmWF8U) | 3:37 | 2026-03-26 |  |
 | [Looking for the Light](https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Space Boy](https://open.spotify.com/album/4Qa2yBO6R4r5g9mhSu4TVN) | 3:35 | 2022-04-25 | 2022-07-07 |
 | [Lose Our Minds](https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lose Our Minds](https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E) | 2:37 | 2022-08-16 | 2022-11-01 |
 | [Losing Control](https://open.spotify.com/track/4deqAXqtabM0PUskQUelxt) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Losing Control](https://open.spotify.com/album/281n7TlRzznNkJFlQDa3yg) | 3:43 | 2021-11-19 | 2022-02-15 |

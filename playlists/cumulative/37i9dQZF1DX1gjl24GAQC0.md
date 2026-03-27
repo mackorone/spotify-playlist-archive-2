@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: LNGSHOT\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-838 songs - 1 day 21 hr 25 min
+839 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 | 2025-12-03 | 2026-02-02 |
 | [FREAK ALARM](https://open.spotify.com/track/4LYM1IwuTq6b5vqTdQTbag) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5KjSbhl2qMeU6Ux7h4Wk0W) | 3:08 | 2026-01-14 | 2026-03-07 |
 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-26 | 2023-06-10 |
+| [Free Falling](https://open.spotify.com/track/2CZnvlQO93I54pvFsu9Ky8) | [KANGMIN](https://open.spotify.com/artist/7uJ4GsUkf4bFDKK2PVwOZP) | [Free Falling](https://open.spotify.com/album/0G2AFxDKATGvqzJocmA75H) | 2:41 | 2026-03-26 |  |
 | [Free Pass](https://open.spotify.com/track/5z0EvFqwl5fqJ2dDdwQRfs) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 1st Single Album \[Free Pass\]](https://open.spotify.com/album/6bTEGLbyWMOVvZc7MexlgS) | 3:11 | 2022-04-04 | 2022-04-09 |
 | [FREEZE](https://open.spotify.com/track/5nLO95KDAQirZuJb0o1iW9) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/27PLYKscFH6cHY3KfVzcwy) | 2:36 | 2025-05-26 | 2025-07-12 |
 | [Freeze \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 1\)](https://open.spotify.com/track/3qIuTjIdhQq8fEiYCQXcUl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Freeze \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 1\)](https://open.spotify.com/album/3XrSErc5uByu9CygnAaGgY) | 2:58 | 2022-03-22 | 2022-07-17 |
@@ -754,7 +755,7 @@
 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 | 2025-03-28 |  |
 | [Tug of War](https://open.spotify.com/track/6clIbMbca7szZquD4XeIdK) | [V01D](https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw) | [01](https://open.spotify.com/album/7A1G3vWg6UQ2TO59iaGX9t) | 3:17 | 2026-03-13 | 2026-03-21 |
 | [Tulips](https://open.spotify.com/track/1qISta7z0s8B6zc1awcCVU) | [SNUPER](https://open.spotify.com/artist/3RkN2CENR9zgHLKn2H3hcI) | [BLOSSOM](https://open.spotify.com/album/7beQFEkNFuQ8q39fp2psKX) | 3:09 | 2022-03-31 | 2022-04-13 |
-| [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 | 2026-03-10 |  |
+| [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 | 2026-03-10 | 2026-03-27 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-02-24 | 2025-03-18 |
 | [Twilight](https://open.spotify.com/track/5DG7DFtTUyTPyg5hTVtTtQ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [RAISE US](https://open.spotify.com/album/4SKt8BtRB2nr6YAyH2Iy1n) | 3:37 | 2022-03-22 | 2022-04-21 |
 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2023-05-09 | 2023-06-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1167,
+  "num_followers": 1168,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANyMfuEI3FTGaF0BkumpBTNIobPilT",
+  "snapshot_id": "AAANz1NQQjDSJa0vbja+dbR+zLl0HiSV",
   "tracks": [
     {
       "added_at": "2026-02-06 22:26:26",
@@ -1719,6 +1719,118 @@
       "duration_ms": 213418,
       "name": "Come on Home",
       "url": "https://open.spotify.com/track/5NUz4rCdmgCTGtD6o1Qk5D"
+    },
+    {
+      "added_at": "2026-03-26 12:55:00",
+      "album": {
+        "name": "Help",
+        "url": "https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6"
+      },
+      "artists": [
+        {
+          "name": "JaShaku",
+          "url": "https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge"
+        }
+      ],
+      "duration_ms": 198787,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp"
+    },
+    {
+      "added_at": "2026-03-26 12:55:50",
+      "album": {
+        "name": "Please Don't Go (Because I Said No)",
+        "url": "https://open.spotify.com/album/0upU91StxEwO874hng87uN"
+      },
+      "artists": [
+        {
+          "name": "Fiery Gizzard",
+          "url": "https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q"
+        }
+      ],
+      "duration_ms": 172337,
+      "name": "Please Don't Go (Because I Said No)",
+      "url": "https://open.spotify.com/track/2a5P1JUuU4eTizy9pgcYZ7"
+    },
+    {
+      "added_at": "2026-03-26 15:20:17",
+      "album": {
+        "name": "Raus",
+        "url": "https://open.spotify.com/album/2OMxNLz9muDtVN280h3FEf"
+      },
+      "artists": [
+        {
+          "name": "FeurigSeinPeter",
+          "url": "https://open.spotify.com/artist/3fRgqO0ZWF9QIrecV5gRnE"
+        }
+      ],
+      "duration_ms": 173751,
+      "name": "Raus",
+      "url": "https://open.spotify.com/track/2Luvadk0jM5Y0B7OHNbayv"
+    },
+    {
+      "added_at": "2026-03-26 15:20:32",
+      "album": {
+        "name": "The Very Best of Tara Turner",
+        "url": "https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE"
+      },
+      "artists": [
+        {
+          "name": "GM Jon",
+          "url": "https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "Grandmaster Rock/Rap",
+      "url": "https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP"
+    },
+    {
+      "added_at": "2026-03-26 15:21:28",
+      "album": {
+        "name": "Learning to Love",
+        "url": "https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d"
+      },
+      "artists": [
+        {
+          "name": "Lisha Sebastian",
+          "url": "https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Flames From Ashes",
+      "url": "https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ"
+    },
+    {
+      "added_at": "2026-03-26 15:22:54",
+      "album": {
+        "name": "Dread I",
+        "url": "https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR"
+      },
+      "artists": [
+        {
+          "name": "The Dreamers Roots",
+          "url": "https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb"
+        }
+      ],
+      "duration_ms": 231064,
+      "name": "Dread I",
+      "url": "https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj"
+    },
+    {
+      "added_at": "2026-03-26 15:23:26",
+      "album": {
+        "name": "PROM",
+        "url": "https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg"
+      },
+      "artists": [
+        {
+          "name": "Royal Fools",
+          "url": "https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Madaket",
+      "url": "https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

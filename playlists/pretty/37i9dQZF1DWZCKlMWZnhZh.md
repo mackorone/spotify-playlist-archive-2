@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCKlMWZnhZh.md) - [plain]
 
 > The get to your feet moments in all our favorite shows\. Cover: WICKED
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,100 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,120 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Defying Gravity \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked](https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR) | 5:53 |
+| 1 | [Defying Gravity](https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR) | 5:53 |
 | 2 | [And I Am Telling You I'm Not Going \- Original Broadway Cast/1982](https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 4:04 |
 | 3 | [It's Quiet Uptown](https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:30 |
 | 4 | [On My Own](https://open.spotify.com/track/0XLXG7LJ8jLMhHC5qH9rq6) | [Frances Ruffelle](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) | [Les Misérables \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) | 4:11 |

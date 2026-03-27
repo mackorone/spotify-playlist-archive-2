@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,809 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,816 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 93 | [My Heart Aches](https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r) | [Eliza Gilkyson](https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG) | [2020](https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6) | 3:49 |
 | 94 | [IOU](https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [IOU](https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF) | 4:03 |
 | 95 | [Worried Mind](https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 2:43 |
-| 96 | [I Will Be Your Shield](https://open.spotify.com/track/4RvvquKe1Ohb2eU4d3eJWn) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [I Will Be Your Shield](https://open.spotify.com/album/1rcdnPaa79UeiOmkLHbDGU) | 3:31 |
-| 97 | [Eye to Eye](https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Eye to Eye](https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW) | 3:51 |
+| 96 | [Eye to Eye](https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Eye to Eye](https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW) | 3:51 |
+| 97 | [I Will Be Your Shield](https://open.spotify.com/track/4RvvquKe1Ohb2eU4d3eJWn) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [I Will Be Your Shield](https://open.spotify.com/album/1rcdnPaa79UeiOmkLHbDGU) | 3:31 |
 | 98 | [Candy Man](https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh) | [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Music from The American Epic Sessions \(Deluxe\)](https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP) | 2:52 |
 | 99 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
-| 100 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB) | 3:49 |
+| 100 | [Valley Of Tears](https://open.spotify.com/track/0Zn1G3kuPFWI49YA8ULVEN) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 1](https://open.spotify.com/album/7ku4wGBtFXYISQhh612mak) | 3:15 |
 
 Snapshot ID: `AAAAANDBTEyk7n2/rkrWiHJfqVrwe2L+`

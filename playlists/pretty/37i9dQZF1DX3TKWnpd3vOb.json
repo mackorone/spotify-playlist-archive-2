@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Triciclo Parlante",
-  "num_followers": 186998,
+  "num_followers": 186997,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-03-19 21:00:35",
       "album": {
+        "name": "Revuelta En Vivo",
+        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 291621,
+      "name": "Un Amor Violento (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I"
+    },
+    {
+      "added_at": "2026-03-19 21:00:35",
+      "album": {
         "name": "LA WE\u00c1",
         "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 170328,
       "name": "LA WE\u00c1",
       "url": "https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk"
-    },
-    {
-      "added_at": "2026-03-19 21:00:35",
-      "album": {
-        "name": "Revuelta En Vivo",
-        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 291621,
-      "name": "Un Amor Violento (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I"
     },
     {
       "added_at": "2026-03-19 21:00:35",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-03-19 21:00:35",
       "album": {
+        "name": "Revuelta En Vivo",
+        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 276465,
+      "name": "He barrido el sol (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
+    },
+    {
+      "added_at": "2026-03-19 21:00:35",
+      "album": {
         "name": "Te van a olvidar",
         "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 241651,
       "name": "Te van a olvidar",
       "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
-    },
-    {
-      "added_at": "2026-03-19 21:00:35",
-      "album": {
-        "name": "Revuelta En Vivo",
-        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 276465,
-      "name": "He barrido el sol (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
     },
     {
       "added_at": "2026-03-19 21:00:35",

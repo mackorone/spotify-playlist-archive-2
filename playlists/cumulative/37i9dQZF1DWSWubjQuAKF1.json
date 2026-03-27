@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Alicja",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Iga Jaworska",
   "name": "up next",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 166000,
       "name": "Akcja",
       "url": "https://open.spotify.com/track/4j3RJxrX8VQVhzXZj5Xdwz"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 133687,
       "name": "Avewaw",
       "url": "https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 186674,
       "name": "baza",
       "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "Linie czasu",
+        "url": "https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Co\u015b mi jeszcze opowiedz",
+      "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
+    },
+    {
+      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
       },
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 135428,
       "name": "Dotyk",
       "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
@@ -5961,6 +5979,28 @@
     },
     {
       "album": {
+        "name": "Kumple <3 (MAVOOI Remix)",
+        "url": "https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        },
+        {
+          "name": "MAVOOI",
+          "url": "https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131661,
+      "name": "Kumple <3 - MAVOOI Remix",
+      "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
+    },
+    {
+      "album": {
         "name": "Kurz",
         "url": "https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg"
       },
@@ -6078,7 +6118,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 299749,
       "name": "Lato",
       "url": "https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9"
@@ -9337,6 +9377,28 @@
     },
     {
       "album": {
+        "name": "PAMI\u0118TAJ",
+        "url": "https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "PAMI\u0118TAJ",
+      "url": "https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW"
+    },
+    {
+      "album": {
         "name": "Pami\u0119tasz nas?",
         "url": "https://open.spotify.com/album/7c9gbhkW4siOnhnezkPV64"
       },
@@ -9498,6 +9560,24 @@
       "duration_ms": 131152,
       "name": "PASSPORT",
       "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
+    },
+    {
+      "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "PASTEL SKIES",
+      "url": "https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH"
     },
     {
       "album": {
@@ -11611,6 +11691,24 @@
     },
     {
       "album": {
+        "name": "a couple minutes out",
+        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206022,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
+    },
+    {
+      "album": {
         "name": "Stokrotka",
         "url": "https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm"
       },
@@ -12808,7 +12906,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 224146,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8"
@@ -13014,6 +13112,24 @@
       "duration_ms": 198400,
       "name": "Udawaj do rana",
       "url": "https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6"
+    },
+    {
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133686,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-584 songs - 1 day 0 hr 18 min
+585 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Life moves fast, so take my hand.](https://open.spotify.com/track/67N6n2BFVxoZJ085I7UwpN) | [pigbaby](https://open.spotify.com/artist/6bY6N1PHP9mSt8fZ1V2hHd) | [Life moves fast, so take my hand.](https://open.spotify.com/album/17EqbqNeKeVznFr0Z7uxoF) | 3:19 | 2024-04-12 | 2024-04-29 |
 | [Lofi Just Colleagues](https://open.spotify.com/track/2kTCoVdNSA48FZH8lV3xAR) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Just Colleagues](https://open.spotify.com/album/4evSVnCgwLIdxp2DOXsoiI) | 3:20 | 2019-06-14 | 2019-08-13 |
 | [Lofi Keanu Level Lonely](https://open.spotify.com/track/2I5Gnq6Cbws0Sw2AFNWrGP) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Keanu Level Lonely](https://open.spotify.com/album/3gVRNPuo2EiUZiIcPT2IK4) | 2:53 | 2020-11-06 | 2022-07-08 |
-| [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 | 2020-03-27 |  |
+| [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 | 2020-03-27 | 2026-03-27 |
 | [Lokki](https://open.spotify.com/track/1sI1lOqe40lScdPpRd6Rp8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Lokki](https://open.spotify.com/album/1sy0P5fxTPTuNENrPb2sEv) | 3:20 | 2022-02-24 | 2022-07-29 |
 | [Loose 90](https://open.spotify.com/track/07AYryCqAxeiqUGVkt7TP3) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Loose 90](https://open.spotify.com/album/0g7gWPmZRYHLvN9sI4kEyC) | 2:12 | 2019-05-26\* | 2022-04-19 |
 | [Lotus Lake](https://open.spotify.com/track/7gMaYxpTpNIhJXjZYAGX9D) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Lotus Lake](https://open.spotify.com/album/1xpUOi63PRKviztUFM7Jv2) | 1:57 | 2020-06-29 | 2021-10-24 |
@@ -433,6 +433,7 @@
 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 | 2020-06-19 | 2022-11-20 |
 | [Safe ground \(homage of luz by haruka nakamura\)](https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw) | [Nitsua](https://open.spotify.com/artist/04aAAEbkuy8tC8xmaE0CcQ), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [soul of the sky](https://open.spotify.com/album/6oZXZY2VH2AqLkYdPT6iQV) | 3:02 | 2024-11-15 |  |
 | [Sakura Bloom](https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz) | [MrSuperCraft](https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sakura Bloom](https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM) | 2:02 | 2024-10-26 |  |
+| [Sanctuary](https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Sanctuary](https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy) | 2:19 | 2026-03-25 |  |
 | [Sangria in Spain](https://open.spotify.com/track/6MLcmv9xFPlzsnLQ6xkWlo) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sangria in Spain](https://open.spotify.com/album/0qK8hpdvwMVyTsi147Jyzp) | 2:21 | 2020-07-11 | 2020-11-06 |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-04-04 |  |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-06-19 | 2020-10-21 |

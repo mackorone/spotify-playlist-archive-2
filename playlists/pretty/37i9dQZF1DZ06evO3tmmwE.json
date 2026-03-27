@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAABIMDDffmR+C4CoZUP/R1/z",
+  "snapshot_id": "acMlgAAAAAAc5URyjretABQNN4nVjdEg",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramon Ayala (feat. Bo Bundy)",
-        "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
+        "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
+        "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 167766,
-      "name": "Ramon Ayala (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
+      "duration_ms": 246000,
+      "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
+      "url": "https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S"
     },
     {
       "added_at": null,
@@ -91,34 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
-        "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
+        "name": "Ramon Ayala (feat. Bo Bundy)",
+        "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
       },
       "artists": [
         {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        },
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
-      "url": "https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S"
+      "duration_ms": 167766,
+      "name": "Ramon Ayala (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
+        "name": "Con Un Toque",
+        "url": "https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 155928,
-      "name": "Cassius Clay",
-      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
+      "duration_ms": 173848,
+      "name": "Con Un Toque",
+      "url": "https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Toque",
-        "url": "https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB"
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 173848,
-      "name": "Con Un Toque",
-      "url": "https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG"
+      "duration_ms": 155928,
+      "name": "Cassius Clay",
+      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
       "duration_ms": 133241,
       "name": "Nawfside",
       "url": "https://open.spotify.com/track/1EmRFtS35fBaJs89E5m3uD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Izzy93",
-          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Mexicanos",
-      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
     },
     {
       "added_at": null,
@@ -507,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 687",
-        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 207230,
-      "name": "Nave 687",
-      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+      "duration_ms": 107000,
+      "name": "Mexicanos",
+      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
     },
     {
       "added_at": null,
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 159712,
-      "name": "Touring Tx",
-      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 198164,
       "name": "Alpaca Hearts",
       "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terp Wars DELUXE",
+        "url": "https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ"
+      },
+      "artists": [
+        {
+          "name": "TheWaterBoyz710",
+          "url": "https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 146357,
+      "name": "Bo Bundy In Japan",
+      "url": "https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -687,30 +707,6 @@
       "duration_ms": 261407,
       "name": "Pa Mi Gente",
       "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL RODEO",
-        "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
-      },
-      "artists": [
-        {
-          "name": "Rap Geekz",
-          "url": "https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O"
-        },
-        {
-          "name": "Gringo the MC",
-          "url": "https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 226528,
-      "name": "EL RODEO",
-      "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
     },
     {
       "added_at": null,
@@ -739,6 +735,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL RODEO",
+        "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
+      },
+      "artists": [
+        {
+          "name": "Rap Geekz",
+          "url": "https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O"
+        },
+        {
+          "name": "Gringo the MC",
+          "url": "https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 226528,
+      "name": "EL RODEO",
+      "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuerno De Chivo",
         "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 155376,
       "name": "Cuerno De Chivo",
       "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terp Wars DELUXE",
-        "url": "https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ"
-      },
-      "artists": [
-        {
-          "name": "TheWaterBoyz710",
-          "url": "https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 146357,
-      "name": "Bo Bundy In Japan",
-      "url": "https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ"
     },
     {
       "added_at": null,

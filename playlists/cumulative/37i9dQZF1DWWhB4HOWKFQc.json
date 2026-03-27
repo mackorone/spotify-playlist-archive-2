@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Sal Priadi",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: HONNE",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 259769,
       "name": "A Sorrowful Reunion",
       "url": "https://open.spotify.com/track/1aoN2IqlLDCqbeqLylN7BQ"
@@ -4559,6 +4559,28 @@
     },
     {
       "album": {
+        "name": "Cerita Indah",
+        "url": "https://open.spotify.com/album/0s7h2HVPyoPcQcueUuYES1"
+      },
+      "artists": [
+        {
+          "name": "Vicky Salamor",
+          "url": "https://open.spotify.com/artist/12aiEPhUk121kZIkekGjNl"
+        },
+        {
+          "name": "Fresly Nikijuluw",
+          "url": "https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323382,
+      "name": "Cerita Indah",
+      "url": "https://open.spotify.com/track/7lJ65t2wlllIkHWPrRklBF"
+    },
+    {
+      "album": {
         "name": "Cerita Tiba Tiba",
         "url": "https://open.spotify.com/album/32knHChZrwD05dXjg3Ul1u"
       },
@@ -4588,7 +4610,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 172992,
       "name": "Champion",
       "url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX"
@@ -7223,6 +7245,28 @@
     },
     {
       "album": {
+        "name": "Dua Rasa Jadi Satu",
+        "url": "https://open.spotify.com/album/2tcNM2NvPmZ9V5uYthmuwu"
+      },
+      "artists": [
+        {
+          "name": "Niky Putra",
+          "url": "https://open.spotify.com/artist/5b8rBEeqtJSKawLZCLazVD"
+        },
+        {
+          "name": "Mario Caesar",
+          "url": "https://open.spotify.com/artist/6WJfhZQVJ3JK2lZxwMPMva"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129391,
+      "name": "Dua Rasa Jadi Satu",
+      "url": "https://open.spotify.com/track/3jUSRri5r4jIQ63EoeCRMP"
+    },
+    {
+      "album": {
         "name": "Dulu Memang Cinta",
         "url": "https://open.spotify.com/album/29KrA0ucg3agGF6CZZcfrN"
       },
@@ -8812,7 +8856,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 300583,
       "name": "Gemilang",
       "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
@@ -9678,7 +9722,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 232727,
       "name": "Harus Terpisah",
       "url": "https://open.spotify.com/track/4h5HFfqHYTtZRIIecbFqj6"
@@ -10336,6 +10380,28 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
+        "name": "Home (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Home (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
     },
     {
       "album": {
@@ -11505,6 +11571,24 @@
     },
     {
       "album": {
+        "name": "Memorandum",
+        "url": "https://open.spotify.com/album/5kMUjEYuu9ms8xLlk2b0V4"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Ini Abadi",
+      "url": "https://open.spotify.com/track/6v5RJuJ9yhvaXkMXMeMZBw"
+    },
+    {
+      "album": {
         "name": "Ini Rayuku",
         "url": "https://open.spotify.com/album/3nB2cBT7uURE6EQxsSlrbv"
       },
@@ -12158,7 +12242,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196434,
       "name": "Kacamata",
       "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
@@ -14167,6 +14251,28 @@
     },
     {
       "album": {
+        "name": "Location Unknown feat. NIKI (10 Years)",
+        "url": "https://open.spotify.com/album/49QKEYpomW6vxriaJM2xYM"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331866,
+      "name": "Location Unknown - feat. NIKI (10 Years)",
+      "url": "https://open.spotify.com/track/4NWrXSfKtXX5FCPqwpCuwT"
+    },
+    {
+      "album": {
         "name": "Love Me / Love Me Not (Sessions)",
         "url": "https://open.spotify.com/album/74nLAOXgk7p5ujlR5RYZ03"
       },
@@ -14906,7 +15012,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 268300,
       "name": "Makin Aku Cinta",
       "url": "https://open.spotify.com/track/5CtyREB80zdg676XLxgqEb"
@@ -20539,6 +20645,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
@@ -21070,7 +21194,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 235784,
       "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
       "url": "https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4"
@@ -21822,6 +21946,24 @@
       "duration_ms": 117250,
       "name": "Selesaikan Masa Lalumu Dulu",
       "url": "https://open.spotify.com/track/2o0zyc2cQ3gWXsBVpSl6Cn"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "album": {
@@ -24601,6 +24743,24 @@
     },
     {
       "album": {
+        "name": "Takbir Terdengar Kejam",
+        "url": "https://open.spotify.com/album/5eWIvRYmwWeZ8mS5qC6Qt8"
+      },
+      "artists": [
+        {
+          "name": "Dongker",
+          "url": "https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199783,
+      "name": "Takbir Terdengar Kejam",
+      "url": "https://open.spotify.com/track/5s53GI8rkbUKpc0vxVidNs"
+    },
+    {
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj"
       },
@@ -25080,7 +25240,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 207600,
       "name": "Teganya Kau",
       "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
@@ -26322,7 +26482,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245462,
       "name": "Titik Nadir (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p"
@@ -27038,7 +27198,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 284000,
       "name": "Untuk Yang Bersama Nya",
       "url": "https://open.spotify.com/track/1KEVZhP8y9bMMyTDs0gaLk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- LØLØ on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,195 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,171 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 64 | [AMERICAN GIRL](https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [AMERICAN GIRL](https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev) | 2:56 |
 | 65 | [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 |
 
-Snapshot ID: `AAAAAAGxVrERpPJtuF2Jc74d2XwYF38n`
+Snapshot ID: `AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU`

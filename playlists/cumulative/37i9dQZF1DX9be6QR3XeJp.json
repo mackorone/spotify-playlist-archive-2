@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: deary",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Pollyfromthedirt",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -632,6 +632,24 @@
       "duration_ms": 163750,
       "name": "Black",
       "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
+    },
+    {
+      "album": {
+        "name": "The dirt pt. 2",
+        "url": "https://open.spotify.com/album/2GCJ2Q2vB526WoqL1q8O1e"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Blow my lid",
+      "url": "https://open.spotify.com/track/6dIqq1fS01fSAHxKuOXHsb"
     },
     {
       "album": {

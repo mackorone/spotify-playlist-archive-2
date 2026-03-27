@@ -5401,6 +5401,28 @@
     },
     {
       "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI"
+    },
+    {
+      "album": {
         "name": "Changes Deluxe",
         "url": "https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc"
       },
@@ -8772,6 +8794,28 @@
       "duration_ms": 186240,
       "name": "Momentary High",
       "url": "https://open.spotify.com/track/6pHaKDW4zbCJ5UFzhrHnKY"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363791,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
     },
     {
       "album": {
@@ -13442,7 +13486,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 296607,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
@@ -13508,6 +13552,28 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
+        "name": "The Bounce",
+        "url": "https://open.spotify.com/album/1aYF4Hueds5ABpZsLrDe0k"
+      },
+      "artists": [
+        {
+          "name": "Jon Onabowu",
+          "url": "https://open.spotify.com/artist/1B3fZSaCWJ9RkCUH2ZgYlu"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248602,
+      "name": "The Bounce",
+      "url": "https://open.spotify.com/track/6SQV0gvucW9KhzREeDngOO"
     },
     {
       "album": {
@@ -15252,7 +15318,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 291250,
       "name": "We're Not Free",
       "url": "https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9"
@@ -15930,7 +15996,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 207209,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY"

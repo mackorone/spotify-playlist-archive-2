@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Julliany Souza, L\u00e9o Brand\u00e3o",
-  "num_followers": 1213185,
+  "num_followers": 1213279,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276453,
-      "name": "Ovelhinha (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
         "name": "IMPERFEITO",
         "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276453,
+      "name": "Ovelhinha (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
     },
     {
       "added_at": "2026-03-09 17:49:40",
@@ -692,7 +692,7 @@
           "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         },
         {
-          "name": "jorge.",
+          "name": "Jorge",
           "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
-        "name": "Melhor Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 340540,
-      "name": "Melhor Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
         "name": "Na Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 349217,
       "name": "Na Fenda da Rocha - Ao Vivo",
       "url": "https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
+        "name": "Melhor Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 340540,
+      "name": "Melhor Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
     },
     {
       "added_at": "2026-03-09 17:49:40",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
         "name": "Tinta de Sangue (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZWneGI8ohbeRsv3NrvLyp"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 383378,
       "name": "Tinta de Sangue - Ao Vivo",
       "url": "https://open.spotify.com/track/4uScqisKtC90tHXg6lNq5I"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
     },
     {
       "added_at": "2026-03-09 17:49:40",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
+        "name": "Estou Te Esperando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 411745,
+      "name": "Estou Te Esperando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
         "name": "O Grande Banquete",
         "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 315943,
       "name": "Au\u00ea (A F\u00e9 Ganhou)",
       "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 411745,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
     },
     {
       "added_at": "2026-03-09 17:49:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 416842,
-      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
         "name": "O Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 426022,
       "name": "O Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 416842,
+      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
     },
     {
       "added_at": "2026-03-09 17:49:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
         "name": "Ele Cumprir\u00e1",
         "url": "https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 456654,
       "name": "Ele Cumprir\u00e1",
       "url": "https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley)",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
       "added_at": "2026-03-09 17:49:40",

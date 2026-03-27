@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Rosie Carney
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,594 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,598 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 69 | [round in circles](https://open.spotify.com/track/1oBZNwVCmIUBw4ZaPED0VE) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [round in circles](https://open.spotify.com/album/2WalztsJFp48MzjYLow60C) | 2:54 |
 | 70 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
 
-Snapshot ID: `AAAAAO3JkpL46BmAalT4HrIMH55wWcSV`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

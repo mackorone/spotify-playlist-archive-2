@@ -4,7 +4,7 @@
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 45 min
+25 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Donnie and Laurie](https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV), [Don Christensen](https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm) | [Donnie & Laurie](https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC) | 5:24 | 2026-03-04 |  |
 | [Drums](https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:09 | 2026-03-12 |  |
 | [Finding Voice](https://open.spotify.com/track/4qignkPNvo2z2pbjHKBcoL) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 2:45 | 2026-03-04 |  |
+| [FlyBy](https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Prsnt](https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4) | 0:35 | 2026-03-27 |  |
 | [From a Harmonic Algorithm](https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 2:55 | 2026-03-04 |  |
 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 | 2026-03-04 |  |
 | [Old Wave](https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:53 | 2026-03-04 |  |

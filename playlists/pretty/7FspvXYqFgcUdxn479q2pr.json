@@ -6,8 +6,76 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAviQgk56o9j7k5LjAcxCXJb6e9kYBM",
+  "snapshot_id": "AAAvjb//IB+DunYZsSzVQxGlKyqtEaPR",
   "tracks": [
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "Not A Place (feat. Oaks)",
+        "url": "https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Not A Place (feat. Oaks)",
+      "url": "https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
+        "name": "Electro",
+        "url": "https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "Electro",
+      "url": "https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3"
+    },
+    {
+      "added_at": "2026-03-26 23:00:11",
+      "album": {
+        "name": "Pull Me Away",
+        "url": "https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Pull Me Away",
+      "url": "https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql"
+    },
+    {
+      "added_at": "2026-03-26 23:00:15",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/4MPhN02Pi6NpO9qcDdsGHf"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 180140,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1"
+    },
     {
       "added_at": "2026-03-20 20:21:51",
       "album": {

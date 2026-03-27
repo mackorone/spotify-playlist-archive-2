@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1919610,
+  "num_followers": 1919720,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAGPhcBTyQCTyVc51eoq1Ju",
+  "snapshot_id": "acMlgAAAAACB+k8tmaBe71+X8/+O6LcP",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i",
+        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "i",
+      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "i",
-        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 231933,
-      "name": "i",
-      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
+      "duration_ms": 210226,
+      "name": "The Greatest (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "The Greatest (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 266072,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "untitled unmastered.",
-        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "untitled 08 | 09.06.2014.",
-      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "untitled unmastered.",
+        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "untitled 08 | 09.06.2014.",
+      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me Home",
         "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 245466,
       "name": "Hood Gone Love It (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
     },
     {
       "added_at": null,

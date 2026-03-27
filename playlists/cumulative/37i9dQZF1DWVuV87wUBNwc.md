@@ -2,9 +2,9 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Zaho & MC Solaar au sommet de la première playlist de France.
+> Bebe Rexha & Faithless au sommet de la première playlist de France.
 
-447 songs - 22 hr 39 min
+449 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 | 2023-11-09 | 2024-01-05 |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-22 | 2024-04-05 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-08-03 | 2024-02-02 |
-| [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2026-01-01 |  |
+| [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2026-01-01 | 2026-03-27 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-29 | 2025-04-18 |
 | [Dis Moi Tout](https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [EQUATEUR](https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR) | 2:52 | 2023-07-27 | 2023-11-10 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-12-05 | 2025-02-21 |
@@ -230,7 +230,7 @@
 | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 | 2025-03-13 | 2025-06-27 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-11-09 | 2024-07-05 |
 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 | 2023-07-27 | 2023-10-27 |
-| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-26 |  |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-26 | 2026-03-27 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2024-01-25 | 2024-03-15 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-04 | 2024-03-15 |
 | [M'envoler](https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [M'envoler](https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8) | 3:09 | 2025-02-20 | 2025-07-11 |
@@ -289,6 +289,7 @@
 | [OHMA TOKITA](https://open.spotify.com/track/0M3oxmcIljJfjIPhpEwcyH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/5TsaiWJfttKj1tITQ2ISlL) | 2:15 | 2024-10-31 | 2025-01-17 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-10-12 | 2024-03-22 |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-17 | 2023-11-10 |
+| [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 | 2026-03-26 |  |
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-12-04 |  |
 | [Open Hearts \- Single Version](https://open.spotify.com/track/72fcuveJcHQ61u25WHQhjw) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Open Hearts](https://open.spotify.com/album/6VfBBrRc9CiWisIAoBeTqs) | 3:31 | 2025-06-05 | 2025-07-11 |
 | [Orchestra \- 20th Anniversary Version](https://open.spotify.com/track/62eKaBn3ahoFQHIyqaAZk7) | [Dan Black](https://open.spotify.com/artist/5kW3q7Vywlw24apaeufin6), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Orchestra \(20th Anniversary Version\)](https://open.spotify.com/album/621OFXEcgE8XGkXDEok1fT) | 3:25 | 2025-07-31 | 2025-12-19 |
@@ -314,6 +315,7 @@
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-04-24 | 2025-05-23 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-05-15 | 2025-08-23 |
 | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Adryano](https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk) | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea) | 2:54 | 2024-08-29 | 2024-11-15 |
+| [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 | 2026-03-26 |  |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2023-09-07 | 2024-04-12 |
 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-03-28 | 2024-09-27 |
 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-10-10 | 2025-04-04 |

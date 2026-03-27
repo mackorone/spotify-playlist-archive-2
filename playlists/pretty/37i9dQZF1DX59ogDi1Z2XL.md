@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,851 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,845 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 24 | [FASHURE](https://open.spotify.com/track/5bZJ1ELkJM6dLWtk54T1uY) | [Bijaan](https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [FASHURE](https://open.spotify.com/album/5L0DcJZj8K8UtOTN556VXz) | 3:14 |
 | 25 | [Pickup](https://open.spotify.com/track/3gAC0FGwgRuwM97G1OM69F) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Pickup](https://open.spotify.com/album/1MupQK4McEeoPyRXJs3wmv) | 2:34 |
 | 26 | [AIN'T SAFE](https://open.spotify.com/track/0xtMQv07ssSnF5VanYyKOW) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa), [Klee 013](https://open.spotify.com/artist/0aNtPiu2JBVTCYCZdRqdhM) | [AIN'T SAFE](https://open.spotify.com/album/27MZi0bZX5ddMaPdHmH0Rj) | 2:12 |
-| 27 | [That's Real](https://open.spotify.com/track/3RTRXQTbK2i3G8WWwoLw68) | [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [THAT'S REAL](https://open.spotify.com/album/2fWHBXYVvaQU2ggqmEDev7) | 2:13 |
+| 27 | [THAT'S REAL](https://open.spotify.com/track/3RTRXQTbK2i3G8WWwoLw68) | [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [THAT'S REAL](https://open.spotify.com/album/2fWHBXYVvaQU2ggqmEDev7) | 2:13 |
 | 28 | [Callin'](https://open.spotify.com/track/50wdFEgYTQGEd3zN9Pw7MX) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Callin'](https://open.spotify.com/album/1Qq2YoKjwEi4T5DXvehEQ0) | 3:09 |
 | 29 | [\*HOMICIDE HOTLINE](https://open.spotify.com/track/1vQtkW1fgzY0hwVKJOhxuK) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [\*HOMICIDE HOTLINE](https://open.spotify.com/album/28aGrjkynYNQdNv3fEZ6Gn) | 2:35 |
 | 30 | [67](https://open.spotify.com/track/50A5P0eRJStPGiEPnmoI5w) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [67](https://open.spotify.com/album/7GHDw6jBzxvvdqho4toGJX) | 1:57 |

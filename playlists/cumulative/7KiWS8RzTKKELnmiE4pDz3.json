@@ -5313,6 +5313,24 @@
     },
     {
       "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/44k1aegQDc03y66kpRoWKt"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184405,
+      "name": "Cosmo Freestyle",
+      "url": "https://open.spotify.com/track/7rOMXlhgozetHpzmJciBjm"
+    },
+    {
+      "album": {
         "name": "Lord Willin'",
         "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
       },
@@ -14728,6 +14746,24 @@
       "duration_ms": 137158,
       "name": "Magic Johnson",
       "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
+    },
+    {
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246235,
+      "name": "Make Something Up",
+      "url": "https://open.spotify.com/track/64OIDldq25VvelMStZiDvy"
     },
     {
       "album": {

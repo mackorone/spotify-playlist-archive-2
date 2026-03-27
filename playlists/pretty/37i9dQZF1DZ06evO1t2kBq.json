@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 85083,
+  "num_followers": 85103,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAACGEX+9m061iMfm+wg5E8Uj",
+  "snapshot_id": "acMlgAAAAAD1J6Q5qitI0laGrAVEB6vz",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Generator",
-        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Atomic Garden",
-      "url": "https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 100693,
       "name": "Automatic Man",
       "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Atomic Garden",
+      "url": "https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+      "duration_ms": 161546,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 177680,
       "name": "All There Is",
       "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 84026,
-      "name": "Turn On the Light",
-      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 105826,
       "name": "Do The Paranoid Style",
       "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Help your faith keep up with these gas prices. ",
-  "num_followers": 252561,
+  "num_followers": 252660,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
+        "name": "Stand My Ground",
+        "url": "https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 175394,
+      "name": "Stand My Ground",
+      "url": "https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/21WbEejZ6Bp1mlAbd4qzdq"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 210991,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/2rB7wo5WpVwCY1Ewcr1kc6"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
-        "name": "Stand My Ground",
-        "url": "https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 175394,
-      "name": "Stand My Ground",
-      "url": "https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "The Hero & The Villain",
-        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Reaching For The Light",
-      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Way back",
         "url": "https://open.spotify.com/album/4cPUhTixpDCnoTsxQjDU8O"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 159357,
       "name": "Way back",
       "url": "https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "The Hero & The Villain",
+        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Reaching For The Light",
+      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 167065,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
+      "duration_ms": 175770,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 175770,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
+      "duration_ms": 167065,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
-      },
-      "artists": [
-        {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Where Would I Be",
         "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 192445,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "oasis for my soul",
-        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
         }
       ],
-      "duration_ms": 136839,
-      "name": "oasis for my soul",
-      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
+      "duration_ms": 153237,
+      "name": "Higher Places",
+      "url": "https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Higher Places",
-        "url": "https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf"
+        "name": "oasis for my soul",
+        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
       },
       "artists": [
         {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 153237,
-      "name": "Higher Places",
-      "url": "https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI"
+      "duration_ms": 136839,
+      "name": "oasis for my soul",
+      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 122391,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "God's Child",
         "url": "https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 122391,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
+        "name": "I'm Here For You",
+        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 209951,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
         "name": "These Are The Days (feat. Blessing Offor)",
         "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
-        "name": "I'm Here For You",
-        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 209951,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Years and Years",
-        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
-      },
-      "artists": [
-        {
-          "name": "Northwest Stories",
-          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Years and Years",
-      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 185874,
       "name": "Brighter Days - New Day Edition",
       "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "Years and Years",
+        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Years and Years",
+      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "We Could Run Away",
-      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "We Could Run Away",
+      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
         "name": "Again Again",
         "url": "https://open.spotify.com/album/2wLpi3IwFOp9GoSTHn4CnE"
       },
@@ -1615,26 +1615,6 @@
       "duration_ms": 167000,
       "name": "Again Again",
       "url": "https://open.spotify.com/track/61deV82ORZt06deZ42I4Ur"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1659,22 +1639,22 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Bitter Cup",
-        "url": "https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
       },
       "artists": [
         {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
         },
         {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 156612,
-      "name": "Bitter Cup",
-      "url": "https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C"
+      "duration_ms": 120000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1699,6 +1679,26 @@
       "duration_ms": 154231,
       "name": "I'd Be Lying",
       "url": "https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "Bitter Cup",
+        "url": "https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        },
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "duration_ms": 156612,
+      "name": "Bitter Cup",
+      "url": "https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C"
     },
     {
       "added_at": "2026-03-23 14:32:10",

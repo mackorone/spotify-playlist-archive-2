@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-219 songs - 12 hr 25 min
+221 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 | 2024-07-01 | 2025-01-24 |
 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 | 2026-01-23 |  |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-07-29 | 2025-04-25 |
-| [Caroline](https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:20 | 2025-05-09 |  |
+| [Caroline](https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:20 | 2025-05-09 | 2026-03-27 |
+| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-26 |  |
 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 | 2025-04-04 | 2025-12-05 |
 | [Catch It Alive](https://open.spotify.com/track/1zGHG90IrbVAgwfvMPzhk3) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Catch It Alive](https://open.spotify.com/album/1K3STjN129PSyjtYPpbJtV) | 3:39 | 2025-06-19 | 2025-08-30 |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2024-07-01 | 2024-11-08 |
@@ -201,6 +202,7 @@
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2024-07-01 | 2024-12-21 |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2024-07-01 | 2024-11-29 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2024-07-01 | 2024-09-27 |
+| [Track 8](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 0:00 | 2026-03-26 |  |
 | [Truth](https://open.spotify.com/track/5PIVsmRNAY3Jm4rjiZF4Wy) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Truth](https://open.spotify.com/album/1boryF8Znj8KXWvXbTlO8k) | 4:21 | 2026-03-19 |  |
 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 | 2025-10-07 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2024-07-01 | 2025-01-07 |
@@ -225,7 +227,7 @@
 | [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 | 2025-02-17 | 2025-09-16 |
 | [You Got Me Hurt](https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt](https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI) | 3:29 | 2025-10-02 |  |
 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 | 2024-09-26 | 2025-05-16 |
-| [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-06-19 |  |
+| [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-06-19 | 2026-03-27 |
 | [your opinion](https://open.spotify.com/track/4ujzt2xbe6cqhE4wK9ImkR) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [your opinion](https://open.spotify.com/album/1vheuh1Y2cI2JFfKciRJut) | 2:49 | 2025-05-22 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

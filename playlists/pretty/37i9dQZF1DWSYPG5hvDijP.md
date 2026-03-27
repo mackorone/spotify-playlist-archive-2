@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Flyboy S
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,646 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,711 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 69 | [Pen & Paper](https://open.spotify.com/track/4RGpt6OhEMTtCwkopnaQNP) | [Peacex](https://open.spotify.com/artist/3HcQryIBoj0vwUGQdbhqUC) | [Pen & Paper](https://open.spotify.com/album/4pokSjF2wWdSBTHimFhw2y) | 2:38 |
 | 70 | [RADE RAPATE](https://open.spotify.com/track/7CE7aGWKmQ1oqATMZkDsFf) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Starboibeatz](https://open.spotify.com/artist/5SirFvTDNWgsbbLcg5Fx7p) | [RADE RAPATE](https://open.spotify.com/album/4raVai78vXNZ8dIOEMBLGz) | 2:46 |
 | 71 | [Closer](https://open.spotify.com/track/6RFL6grMkKay758A4zrUsP) | [mohit](https://open.spotify.com/artist/4UubVINfHiZxIV8k2PechF), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [JVSTSAYIN](https://open.spotify.com/artist/4UIYMPMvaFK6GKzsINqoto) | [Closer](https://open.spotify.com/album/15UaJttTTIDU49VRsx6Nqt) | 2:03 |
-| 72 | [Paisa Chahiye](https://open.spotify.com/track/4fPAWL9DwMJJIzX2icL7CX) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Paisa Chahiye](https://open.spotify.com/album/4hZTaa1y7feIAT6GzUYjox) | 3:03 |
+| 72 | [Paisa Chahiye](https://open.spotify.com/track/4fPAWL9DwMJJIzX2icL7CX) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH), [Khushi Verma](https://open.spotify.com/artist/3Xcg4XJ1UZwahsukC9APfb) | [Paisa Chahiye](https://open.spotify.com/album/4hZTaa1y7feIAT6GzUYjox) | 3:03 |
 | 73 | [Destiny \- Mann Atkeya](https://open.spotify.com/track/6za0VNkFezXamgUjJi1nMx) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Vaibhav Gupta](https://open.spotify.com/artist/72M9WwyFJkcQVhrun1xGTd), [Shahzad Ali](https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5) | [Dhurandhar The Revenge](https://open.spotify.com/album/7eMMfuSyi30y0vNn2Vd0H4) | 3:46 |
 | 74 | [Neelam Aur Neeli](https://open.spotify.com/track/11zMV2mHVbjGX6NdSqjBXU) | [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [Bhaskar](https://open.spotify.com/artist/6WlM9OTz4gFXoyU0QYgs9F), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [EE](https://open.spotify.com/album/4niW0sRJO9LJMlV3VX4ejd) | 4:24 |
 | 75 | [Move On](https://open.spotify.com/track/1Q2lbPDiH7ScJdNOAjwwQB) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Move On](https://open.spotify.com/album/2MH8AvJIlRGTMAj6gOtBIm) | 2:19 |

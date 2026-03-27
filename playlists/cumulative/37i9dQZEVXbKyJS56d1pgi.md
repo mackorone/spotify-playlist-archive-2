@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,946 songs - 4 day 11 hr 13 min
+1,947 songs - 4 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-21 | 2026-03-23 |
 | [Body to Body](https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 | 2026-03-22 |  |
 | [BOKeTE](https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:35 | 2025-01-11 | 2025-01-24 |
+| [Bola Uma Vela \(Trava Chip\)](https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Bola Uma Vela \(Trava Chip\)](https://open.spotify.com/album/4VqvH1Is9WcgpuO2Jfisre) | 1:39 | 2026-03-26 |  |
 | [Bombonzinho \- Ao Vivo](https://open.spotify.com/track/0SCMVUZ21uYYB8cc0ScfbV) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:34 | 2023-04-21 | 2023-04-23 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-10-12 | 2022-12-03 |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2021-03-27\* | 2022-10-20 |
@@ -1945,7 +1946,7 @@
 | [¡ +1 !](https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [¡ +1 !](https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx) | 3:54 | 2025-10-09 | 2025-10-20 |
 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 | 2023-11-25 | 2023-11-30 |
 | [Álcool & Prazer](https://open.spotify.com/track/2qBcNRJBCID8n68NZWbh1S) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Álcool & Prazer](https://open.spotify.com/album/0XeovriAuYVi3f2yyHGv70) | 4:23 | 2025-05-03 | 2025-05-10 |
-| [Álcool & Prazer](https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Reservado](https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM) | 4:23 | 2025-05-10 |  |
+| [Álcool & Prazer](https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Reservado](https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM) | 4:23 | 2025-05-10 | 2026-03-27 |
 | [É Que Eu Sofri Demais](https://open.spotify.com/track/6Hp39ODlBU7yusKfv3s0zP) | [Kleyton Souza](https://open.spotify.com/artist/4gikWg6CUo6uwHkGMXFPuf) | [É Que Eu Sofri Demais](https://open.spotify.com/album/4syWsB5Z8JBvM3ftwGWMBX) | 3:10 | 2024-12-10 | 2024-12-12 |
 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 | 2022-12-11 | 2023-01-13 |
 | [ÍCONE FASHION](https://open.spotify.com/track/6IQnS5jbctbXMd6TOeEYaz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [XTRANHO](https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB) | 2:32 | 2025-12-12 | 2025-12-14 |

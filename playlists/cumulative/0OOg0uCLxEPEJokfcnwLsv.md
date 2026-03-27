@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-386 songs - 1 day 0 hr 2 min
+388 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 | 2025-11-22 |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-02-04 | 2026-02-23 |
+| [La Loca Con Ancla](https://open.spotify.com/track/1x582FY63ErBAC5CafxTnM) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [ACT](https://open.spotify.com/album/2T0zUxpubg0QwiCn8NTiRZ) | 3:58 | 2026-03-27 |  |
 | [Last Chance](https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Last Chance](https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D) | 3:09 | 2026-03-20 |  |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-11 | 2025-12-12 |
 | [Leave Me Alone](https://open.spotify.com/track/73bDmL5oyycUsoeUWoNQQv) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Cold, Drunk & Stoned](https://open.spotify.com/album/1T7O1DrMZ7QmAAN9p16YN2) | 3:55 | 2026-03-20 |  |
@@ -349,6 +350,7 @@
 | [Time](https://open.spotify.com/track/2hBxN7mxucA30ccsF4N4kU) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Time](https://open.spotify.com/album/6c9xrA8wqpxuHRr9Q6nL3W) | 4:24 | 2026-02-04 | 2026-02-23 |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-17 |  |
 | [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 | 2025-12-03 | 2025-12-28 |
+| [Timewaster](https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk) | [PØRTERS](https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q) | [Timewaster](https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE) | 3:35 | 2026-03-26 |  |
 | [To Rule the Ashes](https://open.spotify.com/track/77e04bK25khHgiScrDOY0i) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Over the Target](https://open.spotify.com/album/2Lf8xmMCpCFEZgg45lbt7l) | 2:36 | 2026-01-15 | 2026-02-18 |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 |  |
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 | 2026-01-21 |

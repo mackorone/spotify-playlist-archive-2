@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 79384,
+  "num_followers": 79452,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAA1kuE9n0yhL2iJzJcgEshu",
+  "snapshot_id": "acMlgAAAAABHTa3kLWAvls4OslvWNV19",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 128573,
       "name": "6WA",
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "Change Me",
-      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 133002,
       "name": "Change",
       "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 136866,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Deluxe)",
         "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 122266,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 241335,
       "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
     },
     {
       "added_at": null,
@@ -955,17 +955,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEET THE 6IXERS",
-        "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Yung Hood",
-          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
         },
         {
           "name": "Ro$ama",
@@ -976,9 +972,9 @@
           "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
       ],
-      "duration_ms": 137896,
-      "name": "Meet The 6ixers",
-      "url": "https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5"
+      "duration_ms": 130386,
+      "name": "LONG LIVE FRESH",
+      "url": "https://open.spotify.com/track/4E2kL6H0tH2xZJUplNZIiS"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

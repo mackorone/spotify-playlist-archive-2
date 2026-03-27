@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > chiello ti pensiamo sempre, soprattutto ascoltando l'album nuovo 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,261 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,251 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 74 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
 | 75 | [Dentro al fumo](https://open.spotify.com/track/52XbuKouJsjUpTzBiPXMQg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 2:35 |
 
-Snapshot ID: `AAAAAEFvKoYNFNxaeymAD6qJxGj6Uc9O`
+Snapshot ID: `AAAAACVAh0hu6UoPB0KHNZNXwPgpmROC`

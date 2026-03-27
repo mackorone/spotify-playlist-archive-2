@@ -17830,7 +17830,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
@@ -27464,7 +27464,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 235000,
       "name": "Eu almejava t\u00e3o pouco",
       "url": "https://open.spotify.com/track/4SN9gRKuOAsOQbsUA86n26"
@@ -57740,7 +57740,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 135925,
       "name": "N\u00e3o Namora - Ao Vivo",
       "url": "https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx"
@@ -74212,6 +74212,24 @@
       "duration_ms": 112528,
       "name": "SEM FRESCURA SEM PIRRACA, SEM MIMIMI",
       "url": "https://open.spotify.com/track/75kl8rgxgkMlqK216dxxtW"
+    },
+    {
+      "album": {
+        "name": "SEM MALDADE",
+        "url": "https://open.spotify.com/album/5Xr6QWfzzGr00aBgPsBXUQ"
+      },
+      "artists": [
+        {
+          "name": "Lunaughty",
+          "url": "https://open.spotify.com/artist/0O9n0NuIFwNDYEShIu1W2Z"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141977,
+      "name": "SEM MALDADE",
+      "url": "https://open.spotify.com/track/7kHc1ZuwA5jpzTENyRKcFF"
     },
     {
       "album": {

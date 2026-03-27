@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-639 songs - 1 day 12 hr 24 min
+640 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Kannalli Ninna Bimba](https://open.spotify.com/track/6BqMKYbSjJBpQpsrnOuC8a) | [Swaroop Gowda](https://open.spotify.com/artist/3bFw4ORSKHbD4FsdzuUN7Z) | [Kannalli Ninna Bimba](https://open.spotify.com/album/6KDyzptbF0rjVMRkFxTxbP) | 3:37 | 2026-02-25 |  |
 | [Karedaaga Ninna](https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G) | 2:09 | 2023-12-11 | 2024-06-29 |
 | [Karedaaga Ninna](https://open.spotify.com/track/1QsjxwZlmNea67Js4XAiNg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/4xv9R4Z0Y3oMYhruPheWne) | 2:09 | 2023-12-11 | 2024-04-19 |
+| [Kareyole](https://open.spotify.com/track/41poRcXRASGAqDinA3b0Vo) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Kareyole](https://open.spotify.com/album/2rcaCvSIHM78sM8GiRp9mQ) | 3:14 | 2026-03-26 |  |
 | [Karma](https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Karma](https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9) | 1:25 | 2023-07-17 | 2024-01-19 |
 | [Karunada Rajakumara](https://open.spotify.com/track/46kuuT29cpKKYe4UDHnz8U) | [Pranav Satish](https://open.spotify.com/artist/2dxv96rKJF5dYWQ9Kbt961), [Pruthuviraj Sanki](https://open.spotify.com/artist/01XlfcAXv2vz5or291EVjv), [Shanmukha Govindaraj](https://open.spotify.com/artist/6zgQiJjYwOhpZS1MULEmef) | [Karunada Rajakumara](https://open.spotify.com/album/0zIYEfryqVg73pCF4Q932C) | 4:12 | 2024-03-19 | 2024-08-08 |
 | [KATHE](https://open.spotify.com/track/4f3zywcq8Iloc0zof3grWz) | [Darshan Shet](https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q) | [KATHE](https://open.spotify.com/album/0DbWaw4SJM8OQN6GKs78wM) | 2:34 | 2025-11-03 |  |
@@ -414,7 +415,7 @@
 | [Nanne Marethe](https://open.spotify.com/track/3RbxYSwVXgxn4nifFQxWIP) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [M.M.Nadaf](https://open.spotify.com/artist/36D2R8MIVTMDjellXJMSWM), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Nanne Marethe](https://open.spotify.com/album/2fdwYQ6gPqqRkBWmRA3360) | 3:01 | 2022-12-19 | 2023-08-22 |
 | [Nannee Hrudayava](https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Raveendra Muddi](https://open.spotify.com/artist/4JwXnFTEc2FiSnCkPCiICf) | [Nannee Hrudayava](https://open.spotify.com/album/4DJjMnY5H3xx0IKu0cqyXo) | 3:12 | 2023-06-13 | 2023-07-06 |
 | [Nannobba Driver Ni Nanna Lover](https://open.spotify.com/track/0ExGMAndtP2aY9XLhzHCQe) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Nannobba Driver Ni Nanna Lover](https://open.spotify.com/album/3JMDS8RMXFvdF7253hBfby) | 4:36 | 2025-03-17 | 2025-10-10 |
-| [Nannolage](https://open.spotify.com/track/1ZGRnNXkG2l6nWOnZYXHke) | [Arun Chandrashekaran](https://open.spotify.com/artist/5abQ9L0NKyiH8Q2E3MKZXh), [Subramany Manjithaya](https://open.spotify.com/artist/3fXE923vgjDpO81sPli8uz) | [Nannolage](https://open.spotify.com/album/0QFQcRCZEeqTSIhCBo8h96) | 1:41 | 2025-11-03 |  |
+| [Nannolage](https://open.spotify.com/track/1ZGRnNXkG2l6nWOnZYXHke) | [Arun Chandrashekaran](https://open.spotify.com/artist/5abQ9L0NKyiH8Q2E3MKZXh), [Subramany Manjithaya](https://open.spotify.com/artist/3fXE923vgjDpO81sPli8uz) | [Nannolage](https://open.spotify.com/album/0QFQcRCZEeqTSIhCBo8h96) | 1:41 | 2025-11-03 | 2026-03-27 |
 | [Nannusire](https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech) | [Subhash Aras](https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ), [Sharath](https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup) | [Nannusire](https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT) | 3:56 | 2023-01-04 | 2023-07-04 |
 | [Nanomme Ninnodane](https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN), [Sakshi Hiremath](https://open.spotify.com/artist/2sKHLb9k9XLMegvuRA1AIU) | [Nanomme Ninnodane](https://open.spotify.com/album/62ytPu2CdgYgwBcXFpqdDW) | 4:09 | 2024-01-30 | 2024-07-06 |
 | [Nanu Nanna Papu](https://open.spotify.com/track/3McYQVjsObXDi1LtlB1rN2) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro), [Venkatesh Marakamdinni](https://open.spotify.com/artist/7GQH3o4GA4CUn2mNZQK22C) | [Nanu Nanna Papu](https://open.spotify.com/album/6D0Na9HcJwiUYrxRNvqzd0) | 4:24 | 2025-07-22 | 2026-01-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Pond
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,579 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,585 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 98 | [HEADSPINNER](https://open.spotify.com/track/1TOHLrOndix1KzXjHTG87L) | [CHEAP\-SKATE](https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC) | [HEADSPINNER](https://open.spotify.com/album/33Oa0iAkQPifKKUWADF8lY) | 2:42 |
 | 99 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
 
-Snapshot ID: `AAAAAISrvPB7Xa9jE5HmAgNQmLnbfDeq`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

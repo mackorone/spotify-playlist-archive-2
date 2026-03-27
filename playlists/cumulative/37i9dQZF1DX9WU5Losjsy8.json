@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
@@ -405,6 +405,36 @@
     },
     {
       "album": {
+        "name": "Bauhaus",
+        "url": "https://open.spotify.com/album/4RMLEbit75WMCpuZKmfPy9"
+      },
+      "artists": [
+        {
+          "name": "Calvin Kleinen",
+          "url": "https://open.spotify.com/artist/2iVvuS4ESGMD3pcjEcg2MW"
+        },
+        {
+          "name": "Malin Brown",
+          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        },
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160251,
+      "name": "Bauhaus",
+      "url": "https://open.spotify.com/track/4e4WJLzCEjYuUyPNkO9LV3"
+    },
+    {
+      "album": {
         "name": "Zwischenlandung",
         "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
       },
@@ -642,6 +672,24 @@
       "duration_ms": 172034,
       "name": "Bock auf Bier",
       "url": "https://open.spotify.com/track/6MvRkE1BZHAEg92WQcR9Pw"
+    },
+    {
+      "album": {
+        "name": "Bonnie und Clyde",
+        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200046,
+      "name": "Bonnie und Clyde",
+      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
     },
     {
       "album": {
@@ -1026,7 +1074,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 161711,
       "name": "Die l\u00e4ngste Nacht der Welt",
       "url": "https://open.spotify.com/track/5AJhnZPDr8kQ3NqtNGzYWr"
@@ -1533,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Geisteskranker Haufen",
+        "url": "https://open.spotify.com/album/5INhHwNPLlGBcsZXbfRk6A"
+      },
+      "artists": [
+        {
+          "name": "Die T\u00fcnnesse",
+          "url": "https://open.spotify.com/artist/2U9pUM1f7HoVw11R1qhb6J"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Geisteskranker Haufen",
+      "url": "https://open.spotify.com/track/3S2zPnLSrx0CvEHGMMkUXc"
+    },
+    {
+      "album": {
         "name": "Gianna",
         "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
       },
@@ -2002,7 +2068,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 143199,
       "name": "Ich baller mich weg (Abenteuerland)",
       "url": "https://open.spotify.com/track/0AXsiY78vugu5757hO62w6"
@@ -2214,7 +2280,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 141593,
       "name": "INSELBANDE",
       "url": "https://open.spotify.com/track/16OpcUzFLKdf6wmDQsHcNg"
@@ -2496,7 +2562,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 183672,
       "name": "Krabbe",
       "url": "https://open.spotify.com/track/5ZuLaxMmOpOFK6b2AcwN0s"
@@ -2532,7 +2598,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 145341,
       "name": "Lampen an",
       "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
@@ -2686,7 +2752,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 131461,
       "name": "Malle Allez",
       "url": "https://open.spotify.com/track/3kpEEofRzKYQtyd0ER4uvL"
@@ -2734,10 +2800,32 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 170571,
       "name": "Malle ist mein Dorf",
       "url": "https://open.spotify.com/track/372dChgGrNan4Nl3lvCZS2"
+    },
+    {
+      "album": {
+        "name": "Malle Modus",
+        "url": "https://open.spotify.com/album/4SqOC4BxArrCun8KoxQCBp"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Starsplash",
+          "url": "https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184558,
+      "name": "Malle Modus",
+      "url": "https://open.spotify.com/track/1UlxNsiK2DJJLZ2qsY6hR4"
     },
     {
       "album": {
@@ -2976,6 +3064,32 @@
       "duration_ms": 207554,
       "name": "Midnight Lady",
       "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
+      },
+      "artists": [
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "Aditotoro",
+          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
+        },
+        {
+          "name": "Paul Frege",
+          "url": "https://open.spotify.com/artist/5fk2jh0KFCJ6LTTkZhRjMt"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182968,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
     },
     {
       "album": {
@@ -3300,6 +3414,28 @@
       "duration_ms": 274914,
       "name": "Ouzo",
       "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+    },
+    {
+      "album": {
+        "name": "Party an der Playa",
+        "url": "https://open.spotify.com/album/6aViVujDMvECQnaLcr9mmo"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        },
+        {
+          "name": "CubaAusLibre",
+          "url": "https://open.spotify.com/artist/03tlHZxWzLGbqd2C9Eqf2J"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149154,
+      "name": "Party an der Playa",
+      "url": "https://open.spotify.com/track/1HGKb7j5qq1ybstSB2LZo0"
     },
     {
       "album": {
@@ -3760,7 +3896,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
@@ -4288,7 +4424,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"

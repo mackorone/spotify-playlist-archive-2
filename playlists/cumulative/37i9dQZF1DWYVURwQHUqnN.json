@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : PLK",
+  "description": "Photo : Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 155076,
       "name": "+33",
       "url": "https://open.spotify.com/track/7cPBRMHQq1wrCgY2gnW5HK"
@@ -909,6 +909,32 @@
     },
     {
       "album": {
+        "name": "Bin Edek",
+        "url": "https://open.spotify.com/album/5BopMqq8tTt6RJsOpnR9Yn"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "Bin Edek",
+      "url": "https://open.spotify.com/track/5aC5rm1B1AX9472QmUxflW"
+    },
+    {
+      "album": {
         "name": "DNK (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
       },
@@ -1018,7 +1044,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 201103,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
@@ -1098,7 +1124,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 141122,
       "name": "BODY",
       "url": "https://open.spotify.com/track/13K7l7B8xbX8GIaxMRQrYf"
@@ -1120,7 +1146,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 164805,
       "name": "Bon plavon",
       "url": "https://open.spotify.com/track/1SAiF8ocrolbKyfCe8rKpW"
@@ -1654,7 +1680,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 125621,
       "name": "Calle",
       "url": "https://open.spotify.com/track/2MObjNQYsu62Ma91SiFZ8Z"
@@ -1694,7 +1720,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 130960,
       "name": "CAPITANA",
       "url": "https://open.spotify.com/track/7yJ2uhn6oqPPAjJfIRuuFC"
@@ -2152,7 +2178,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 159562,
       "name": "CONVOI",
       "url": "https://open.spotify.com/track/1CADNs84nrrvCfGLsbX4mG"
@@ -2947,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "My Eyes Only - Flashback",
+        "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "ELLE VOULAIT",
+      "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
+    },
+    {
+      "album": {
         "name": "En Italie",
         "url": "https://open.spotify.com/album/0BOIJuh67tLPyIpDXNzcE7"
       },
@@ -3195,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "FENTY BEAUTY",
+        "url": "https://open.spotify.com/album/5VOr3DSFhTpFsHLR8MGRm8"
+      },
+      "artists": [
+        {
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235086,
+      "name": "FENTY BEAUTY",
+      "url": "https://open.spotify.com/track/3LRf1vZiVsMa2owX8qfDX8"
+    },
+    {
+      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/0MoAHQf1Ab3jxrsXM3oyrV"
       },
@@ -3322,6 +3384,24 @@
       "duration_ms": 179933,
       "name": "Full",
       "url": "https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR"
+    },
+    {
+      "album": {
+        "name": "Full Black / +33 / Aventador\u00e9 / Cardio",
+        "url": "https://open.spotify.com/album/0GpkDjwPJ773tQzFvHWFsM"
+      },
+      "artists": [
+        {
+          "name": "HT",
+          "url": "https://open.spotify.com/artist/50pqrGq4DqUlNmsaCfRexx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Full Black",
+      "url": "https://open.spotify.com/track/3EQ0R4utw7aQ7am2Btehjn"
     },
     {
       "album": {
@@ -4255,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "La petite",
+        "url": "https://open.spotify.com/album/0mfKX4oD2HDZlPnVeo1ru9"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134076,
+      "name": "La petite",
+      "url": "https://open.spotify.com/track/7mt0CL6tQwdtnB7d5QhcBe"
+    },
+    {
+      "album": {
         "name": "La Strada (Bonus Track)",
         "url": "https://open.spotify.com/album/5TfDu427kiS2oPApySQQGt"
       },
@@ -5064,6 +5162,24 @@
       "duration_ms": 176326,
       "name": "MA\u00d1ANA",
       "url": "https://open.spotify.com/track/4DUWkGJrfXx0DHPAKlrE9p"
+    },
+    {
+      "album": {
+        "name": "\u00c9difices 4",
+        "url": "https://open.spotify.com/album/0Oss586yrhHowRmySVPGgG"
+      },
+      "artists": [
+        {
+          "name": "Yaro",
+          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154301,
+      "name": "Mecano",
+      "url": "https://open.spotify.com/track/4Zoi2S2LdW9NZiF13E4OPa"
     },
     {
       "album": {
@@ -6373,6 +6489,28 @@
     },
     {
       "album": {
+        "name": "Pas Changer",
+        "url": "https://open.spotify.com/album/2XMtidA1dIJjjeZpRgVtZP"
+      },
+      "artists": [
+        {
+          "name": "DJ Flash",
+          "url": "https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW"
+        },
+        {
+          "name": "HOUZ",
+          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Pas Changer",
+      "url": "https://open.spotify.com/track/470Tgxw94PIHrvOZp7NizG"
+    },
+    {
+      "album": {
         "name": "Pas les mots",
         "url": "https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa"
       },
@@ -6422,6 +6560,28 @@
       "duration_ms": 143773,
       "name": "Pas les m\u00eames go",
       "url": "https://open.spotify.com/track/2bCT9q1I962xiq1nVg2Vr0"
+    },
+    {
+      "album": {
+        "name": "Gringa",
+        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142585,
+      "name": "Passe par chez moi",
+      "url": "https://open.spotify.com/track/0HTDatGUTDNG31SUpTVXMV"
     },
     {
       "album": {
@@ -6552,7 +6712,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 153230,
       "name": "Phuket",
       "url": "https://open.spotify.com/track/5cr2IR72Kz5i1BN239nYCC"
@@ -7508,6 +7668,24 @@
       "duration_ms": 154488,
       "name": "R\u00eaves de gosse",
       "url": "https://open.spotify.com/track/6vmIRK3rnKhfiCo0fLb2UL"
+    },
+    {
+      "album": {
+        "name": "Sac \u00e0 dos",
+        "url": "https://open.spotify.com/album/1TBUdEYEK8shdOeOuask4T"
+      },
+      "artists": [
+        {
+          "name": "Marou Chenko",
+          "url": "https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171210,
+      "name": "Sac \u00e0 dos",
+      "url": "https://open.spotify.com/track/3JqEr5WsfuAnrYsXiqLVXI"
     },
     {
       "album": {
@@ -8930,7 +9108,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 198693,
       "name": "Toute la nuit",
       "url": "https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : TKS 2G",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Shenseea",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168011,
       "name": "4X4",
       "url": "https://open.spotify.com/track/68SAoISwZDahthtP7XSPar"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 143285,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6K3vqC8YOIZt9O78JqSCz4"
@@ -567,6 +567,50 @@
     },
     {
       "album": {
+        "name": "All\u00e9 Hop",
+        "url": "https://open.spotify.com/album/0huYLqC2k280Qe1cPnIFbS"
+      },
+      "artists": [
+        {
+          "name": "Mafio House",
+          "url": "https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw"
+        },
+        {
+          "name": "Ta\u00ef J",
+          "url": "https://open.spotify.com/artist/1y3mhLrDfacRRIIlv3XTwr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133338,
+      "name": "All\u00e9 Hop",
+      "url": "https://open.spotify.com/track/0ZXBzjV57KeOOshMq85yXO"
+    },
+    {
+      "album": {
+        "name": "ALORS (Remix Mikado)",
+        "url": "https://open.spotify.com/album/1YLtvV7Uk8S4xB4TJVzKQq"
+      },
+      "artists": [
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "ALORS - Remix Mikado",
+      "url": "https://open.spotify.com/track/0FNUrVbL9xGC4I7WPYjP3x"
+    },
+    {
+      "album": {
         "name": "J'AI MENTI.",
         "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
       },
@@ -658,7 +702,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 142222,
       "name": "AN LO MAL",
       "url": "https://open.spotify.com/track/3fyKsTRWonY7B32d39wJYA"
@@ -684,6 +728,28 @@
       "duration_ms": 169158,
       "name": "An sa",
       "url": "https://open.spotify.com/track/0tPgk22Kp8pdcmYt9Pu8Bd"
+    },
+    {
+      "album": {
+        "name": "An Sav Ni Anlo",
+        "url": "https://open.spotify.com/album/6ifhWkqugEVdFtil5VxpsA"
+      },
+      "artists": [
+        {
+          "name": "Dj Wycked",
+          "url": "https://open.spotify.com/artist/5iVBgUUfoM6U8z0WZyj8q8"
+        },
+        {
+          "name": "Ph\u00e9no",
+          "url": "https://open.spotify.com/artist/3pYEsQmBEFB5729odpEjLS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122399,
+      "name": "An Sav Ni Anlo",
+      "url": "https://open.spotify.com/track/1xXKUNKanZCa7DVJUEiOx5"
     },
     {
       "album": {
@@ -1276,7 +1342,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 170721,
       "name": "BAD GYAL II",
       "url": "https://open.spotify.com/track/59p3IN6uGof2KWjuuLsHcu"
@@ -2867,6 +2933,32 @@
     },
     {
       "album": {
+        "name": "Bubble Up",
+        "url": "https://open.spotify.com/album/1JFojYC4fdU4W1v7Ypyt4J"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Rytikal",
+          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
+        },
+        {
+          "name": "Crawba Genius",
+          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159196,
+      "name": "Bubble Up",
+      "url": "https://open.spotify.com/track/5q0V6V7XNxeB6QfHOf1iAw"
+    },
+    {
+      "album": {
         "name": "Bubble Up !",
         "url": "https://open.spotify.com/album/7dlETfhOIDydsAnR8QBbfu"
       },
@@ -3008,6 +3100,28 @@
       "duration_ms": 139952,
       "name": "Bun Up Di Dancehall",
       "url": "https://open.spotify.com/track/2bV9J4Ry71ZAZB5qMc5jEk"
+    },
+    {
+      "album": {
+        "name": "BusinessGyal",
+        "url": "https://open.spotify.com/album/4oih1QUhqe2aiuBmrOKUjk"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132692,
+      "name": "BusinessGyal",
+      "url": "https://open.spotify.com/track/38LFUdKLInTzQ5fPu9PoAf"
     },
     {
       "album": {
@@ -3166,7 +3280,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 136650,
       "name": "C'est gagn\u00e9",
       "url": "https://open.spotify.com/track/2zhmlsguDARe5S6lSMXjs6"
@@ -3638,7 +3752,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 192000,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/3TDytTZlC10HuaIRxRT2OR"
@@ -4155,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/09HGiyKqOJxAv1TmDFIzrt"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9 Will & Deuspi",
+          "url": "https://open.spotify.com/artist/1DaLT7Mgy04h833FKXKGO0"
+        },
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173809,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/5HJDoVd8mrxw8TzGozCJKN"
+    },
+    {
+      "album": {
         "name": "Mi",
         "url": "https://open.spotify.com/album/2fjGy1iLpQXKvT6QR1LXE2"
       },
@@ -4382,6 +4518,32 @@
       "duration_ms": 203576,
       "name": "Dancehall Nice Again - Basik Riddim",
       "url": "https://open.spotify.com/track/2lBhYqRXgb8HaiF8nbpQtF"
+    },
+    {
+      "album": {
+        "name": "Dancehall Party",
+        "url": "https://open.spotify.com/album/1iL0L4tRNwRkzFq6jhXhR6"
+      },
+      "artists": [
+        {
+          "name": "Basta Lion",
+          "url": "https://open.spotify.com/artist/0QhsKMpgJqVMX95TI4yvFE"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        },
+        {
+          "name": "Little Lion Sound",
+          "url": "https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Dancehall Party",
+      "url": "https://open.spotify.com/track/0c9kTekqlovCtGQ62UJXKw"
     },
     {
       "album": {
@@ -5223,6 +5385,28 @@
     },
     {
       "album": {
+        "name": "Elle est bonne sa m\u00e8re",
+        "url": "https://open.spotify.com/album/3rD8aC26nToFlwMXsOmR40"
+      },
+      "artists": [
+        {
+          "name": "DJ Ramses",
+          "url": "https://open.spotify.com/artist/5A1Lk3WRlRE67ua5B0zelb"
+        },
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129557,
+      "name": "Elle est bonne sa m\u00e8re",
+      "url": "https://open.spotify.com/track/3pesGoAsjVAXkfXt2hlO5U"
+    },
+    {
+      "album": {
         "name": "Elles veulent twerker !",
         "url": "https://open.spotify.com/album/7zVzecXPNXSm41yz0PT6tg"
       },
@@ -6045,6 +6229,36 @@
     },
     {
       "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/0YLzxjZSxykzdzHr8NGDWg"
+      },
+      "artists": [
+        {
+          "name": "Saa'Turn",
+          "url": "https://open.spotify.com/artist/79oiLTBpm8FkKnqWHmtr1Z"
+        },
+        {
+          "name": "DJ Vtrine",
+          "url": "https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2"
+        },
+        {
+          "name": "Mafio House",
+          "url": "https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw"
+        },
+        {
+          "name": "Gyzmo",
+          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122857,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/112ercrJdxGKErOHBzEuyi"
+    },
+    {
+      "album": {
         "name": "Fury II",
         "url": "https://open.spotify.com/album/6oV3ZQPR1IrBILziRMRBPB"
       },
@@ -6564,7 +6778,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 126000,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/0q7uVgjdJUZ49PTmu40Wsq"
@@ -6688,7 +6902,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 148124,
       "name": "Goumen",
       "url": "https://open.spotify.com/track/71y8qO7t9vztkis7DfEuDV"
@@ -7022,6 +7236,32 @@
       "duration_ms": 163882,
       "name": "HAMMA",
       "url": "https://open.spotify.com/track/63xYkQNeCb7EYyBFqoJVmK"
+    },
+    {
+      "album": {
+        "name": "Handle Anything",
+        "url": "https://open.spotify.com/album/1dr3F7eA7I5IFNVQdCP0G5"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Handle Anything",
+      "url": "https://open.spotify.com/track/4vJB8cej2Q8HhzX244fcfV"
     },
     {
       "album": {
@@ -7514,7 +7754,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 115828,
       "name": "Hot Party",
       "url": "https://open.spotify.com/track/1Va709QUeX9N3uJkha906v"
@@ -9770,7 +10010,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 123822,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
@@ -9940,6 +10180,24 @@
       "duration_ms": 129056,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/4XCH4Yn6rZYIZ4z1qykE5S"
+    },
+    {
+      "album": {
+        "name": "MAMAN M'A DIT NON",
+        "url": "https://open.spotify.com/album/0yAHn2c8wQZHnO70o4xNvQ"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114946,
+      "name": "MAMAN M'A DIT NON",
+      "url": "https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL"
     },
     {
       "album": {
@@ -11730,7 +11988,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 165333,
       "name": "O nivo",
       "url": "https://open.spotify.com/track/2l2QSJZ7iGWDc7q6en3S39"
@@ -12335,6 +12593,24 @@
     },
     {
       "album": {
+        "name": "Par Habitude",
+        "url": "https://open.spotify.com/album/6Zr0HTBPWut2IpubIY0AgG"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Par Habitude",
+      "url": "https://open.spotify.com/track/4oMo6RrewHe7NMDj6RAvIt"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/1TmdeuQRqc6b9VH8CfjMVH"
       },
@@ -12754,6 +13030,28 @@
       "duration_ms": 120006,
       "name": "Pineco",
       "url": "https://open.spotify.com/track/4qDJJtpkWQae89a2P7qb90"
+    },
+    {
+      "album": {
+        "name": "PING PONG",
+        "url": "https://open.spotify.com/album/71UVTu4VrnGCX6Pc2WPwCz"
+      },
+      "artists": [
+        {
+          "name": "Yo Joshy",
+          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
+        },
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131967,
+      "name": "PING PONG",
+      "url": "https://open.spotify.com/track/1MSmSDRkcOWrVZHT0cr2WT"
     },
     {
       "album": {
@@ -13590,7 +13888,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 172394,
       "name": "REA",
       "url": "https://open.spotify.com/track/1g3yIWam89f8hZR1VPZs0p"
@@ -13652,7 +13950,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 207789,
       "name": "Ready for the Ride",
       "url": "https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ"
@@ -14338,7 +14636,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 129615,
       "name": "Sexy Mimi",
       "url": "https://open.spotify.com/track/2vhw69TwH9tzIQHuMXQzUt"
@@ -15709,6 +16007,32 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nuh",
+        "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126042,
+      "name": "Talk To Me Nuh",
+      "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "album": {
         "name": "Talk Truth",
         "url": "https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS"
       },
@@ -16228,6 +16552,36 @@
       "duration_ms": 155036,
       "name": "Tikitak - King Doudou Remix",
       "url": "https://open.spotify.com/track/7qsdoNZe697QPnZxyea39I"
+    },
+    {
+      "album": {
+        "name": "Tip",
+        "url": "https://open.spotify.com/album/6viWTONT4zqHiNU7eg0nS8"
+      },
+      "artists": [
+        {
+          "name": "JUGGLERZ",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Tip",
+      "url": "https://open.spotify.com/track/3Vmss3HuDLPmPi8mBpvgpY"
     },
     {
       "album": {
@@ -17246,7 +17600,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 171554,
       "name": "Wakanda",
       "url": "https://open.spotify.com/track/01fIWkztmElx4gI5yb22Pw"
@@ -18028,7 +18382,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 161908,
       "name": "YPLM",
       "url": "https://open.spotify.com/track/7BaKftv6PK1JUxe3kQa5vJ"

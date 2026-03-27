@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-184 songs - 10 hr 19 min
+185 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Lost In The Rhythm](https://open.spotify.com/track/35nsl8YiBIYw1YdNmkmhnk) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Lost In The Rhythm](https://open.spotify.com/album/7rKr9KQYB6yL64A5WRUXhH) | 3:06 | 2019-05-27 |  |
 | [Love Is On Fire](https://open.spotify.com/track/5ceGFJCn4Ir0KZmVm9xonz) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Stamp!](https://open.spotify.com/album/1PgDR5x7Mz2TALhgnutCWe) | 3:23 | 2018-12-06 |  |
 | [Love Simulation](https://open.spotify.com/track/0mJvHsIWnq6EfXiNa3JPAG) | [TOFUKU](https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW) | [Frequency Blitz 6](https://open.spotify.com/album/50esKbs7DktpRYUs4FBOyn) | 5:16 | 2025-01-25 |  |
+| [Lover Without A Heart](https://open.spotify.com/track/6vJpHOvUI6txkR3nSNXICY) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Lover Without A Heart](https://open.spotify.com/album/2gOY5y3FBUgRiJlf9YdiDV) | 2:24 | 2026-03-27 |  |
 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 | 2018-12-06 |  |
 | [Memoirs of a Broken Heart](https://open.spotify.com/track/44C8FYheNySeFlFB237FGb) | [Fendi](https://open.spotify.com/artist/13WJi88MJHlOwbcw116QwI) | [Memoirs of a Broken Heart](https://open.spotify.com/album/1xWhpeTqIWE8dzgduk7Yli) | 2:53 | 2019-11-21 |  |
 | [Minecraft: Lava Chicken \(Original Game Soundtrack\)](https://open.spotify.com/track/6iCoY53P4R77dumdFyic9H) | [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h), [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV) | [Minecraft: Lava Chicken \(Original Game Soundtrack\)](https://open.spotify.com/album/41A9LlTh3wWwS4JjolfaBZ) | 2:14 | 2025-06-25 |  |

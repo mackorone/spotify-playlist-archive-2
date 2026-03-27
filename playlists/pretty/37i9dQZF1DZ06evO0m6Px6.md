@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 486 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 22 | [A View From The Sky](https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:25 |
 | 23 | [Lotus](https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:03 |
 | 24 | [Pocket Dial](https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:28 |
-| 25 | [Sorry](https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg) | 2:00 |
+| 25 | [By Myself](https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 2:35 |
 | 26 | [7PM](https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:31 |
-| 27 | [By Myself](https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 2:35 |
+| 27 | [Sorry](https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg) | 2:00 |
 | 28 | [Wavestation](https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:44 |
 | 29 | [Checkpoint Titanium](https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:44 |
 | 30 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 42 | [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:00 |
 | 43 | [So Far From Home](https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [GUV](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:14 |
 
-Snapshot ID: `acHUAAAAAABx3UZO1J62mjDdc6QvcTCT`
+Snapshot ID: `acMlgAAAAACgNxuvQzp+PiJIGbJh/tkC`

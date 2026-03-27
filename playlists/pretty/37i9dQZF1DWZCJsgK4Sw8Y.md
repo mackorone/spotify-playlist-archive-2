@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,950 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,974 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 26 | [Already Over](https://open.spotify.com/track/3SP1LUtLle97QNFvFFopnG) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 4:24 |
 | 27 | [Dear X, You Don't Own Me](https://open.spotify.com/track/3WbjKX2tEaI5N5ptKtW3P8) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Horseshoes & Handgrenades](https://open.spotify.com/album/5PWFFSbPkgS9UUFhmE5U2g) | 3:34 |
 | 28 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
-| 29 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 |
-| 30 | [Fading](https://open.spotify.com/track/6JvEDa0gyoQ6XkmUrLpMwU) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 4:11 |
+| 29 | [Fading](https://open.spotify.com/track/6JvEDa0gyoQ6XkmUrLpMwU) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 4:11 |
+| 30 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 |
 | 31 | [Kings & Queens](https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Kings & Queens](https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d) | 3:49 |
 | 32 | [To Hell with the Devil](https://open.spotify.com/track/4t8OmZERfkdkRr4aoYa2h1) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [To Hell With The Devil](https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm) | 4:04 |
 | 33 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 36 | [I Get Wicked \- Reignited](https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [I Get Wicked](https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V) | 3:33 |
 | 37 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 |
 | 38 | [Suspension](https://open.spotify.com/track/2F2BqlVi9YWOSrCeHGSCOX) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [The Everglow](https://open.spotify.com/album/2p44huLsquBxzop7L8e5kk) | 4:00 |
-| 39 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 |
-| 40 | [Yours Truly](https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Magdalene Rose](https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX) | [Fractured Paradise](https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck) | 3:34 |
+| 39 | [Yours Truly](https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Magdalene Rose](https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX) | [Fractured Paradise](https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck) | 3:34 |
+| 40 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 |
 | 41 | [Glitch In The Matrix](https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt) | 2:42 |
 | 42 | [Horizon](https://open.spotify.com/track/78nsDXdPdsSEgQ7uE8o1JU) | [38th Parallel](https://open.spotify.com/artist/7iKsdIqgy2s5xMbKiVafjv) | [Turn The Tides](https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo) | 3:53 |
 | 43 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |

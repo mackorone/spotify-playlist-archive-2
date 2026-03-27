@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-555 songs - 1 day 3 hr 32 min
+558 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 | 2024-10-25 | 2024-11-01 |
 | [BACK WHEN YOU WERE MINE](https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BACK WHEN YOU WERE MINE](https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k) | 2:41 | 2026-01-01 |  |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-16 | 2024-09-20 |
+| [Backseat](https://open.spotify.com/track/3vjHprAZlF1x3OgsjBTG0S) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Backseat](https://open.spotify.com/album/3QmVaQTUcHCXebPUSseFcG) | 2:33 | 2026-03-26 |  |
 | [BAD BOYZ I NØRREBRO](https://open.spotify.com/track/39MnVqoagdJMP1xiKiisc1) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S), [Udenzi](https://open.spotify.com/artist/3fcXJDohuzXUFFSGjtoYAD) | [BAD BOYZ I NØRREBRO](https://open.spotify.com/album/6BEgLJykNGVFFgEevOeWtO) | 2:22 | 2024-09-19 | 2024-10-04 |
 | [BAD FOR BUSINESS \(feat\. Roc Boyz\)](https://open.spotify.com/track/3qvfx3mCtMXz9qARxMHQKx) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [BAD FOR BUSINESS \(feat\. Roc Boyz\)](https://open.spotify.com/album/1uPbzyCa9oEtRqsjZBK2Fv) | 2:39 | 2026-03-19 |  |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-06 | 2025-11-28 |
@@ -331,6 +332,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-05 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2024-11-01 |
 | [Marokkansk](https://open.spotify.com/track/2oRbqKvN9sR8fakOSBi6LF) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Marokkansk](https://open.spotify.com/album/1SQLH0FVtcfzkYYwQCLHNY) | 1:54 | 2026-02-26 | 2026-03-13 |
+| [Martyr](https://open.spotify.com/track/3RTNOSKmr1g5G4JzeQpyim) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Martyr](https://open.spotify.com/album/1g2rawjED5a1KUgdkk0jCX) | 2:49 | 2026-03-26 |  |
 | [Maskulin](https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Maskulin](https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX) | 3:03 | 2025-06-05 |  |
 | [Matters](https://open.spotify.com/track/3IfRPSK5GjUjRoo00THzAB) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Matters](https://open.spotify.com/album/1ZPosSa7xr3XB2LfiSD6LM) | 2:25 | 2025-04-30 | 2025-05-23 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2024-11-14 | 2025-01-27 |
@@ -474,6 +476,7 @@
 | [Stuck Cat](https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Stuck Cat](https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV) | 3:16 | 2025-04-30 |  |
 | [Støkk i En Fantasi](https://open.spotify.com/track/2xaZeW9xctSFOagxlYhx0m) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Støkk i En Fantasi](https://open.spotify.com/album/3pDCiasvbCNoO4CrwwBmOU) | 2:51 | 2024-08-08 | 2024-08-23 |
 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 | 2026-01-01 |  |
+| [Sucker For Love](https://open.spotify.com/track/5O8GYy3zDYonQno0UWYc9n) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 | 2026-03-26 |  |
 | [Suddiga tankar](https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Suddiga tankar](https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR) | 3:28 | 2025-05-22 | 2025-09-05 |
 | [Sunshine Baby](https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Sunshine Baby](https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E) | 2:59 | 2025-09-18 |  |
 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 | 2026-01-22 |  |

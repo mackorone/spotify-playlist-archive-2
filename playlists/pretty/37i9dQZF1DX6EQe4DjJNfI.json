@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Duquesa",
-  "num_followers": 186390,
+  "num_followers": 186423,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,30 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Tira minha paz",
+      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
+    },
+    {
+      "added_at": "2026-03-20 03:01:04",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -623,30 +647,6 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": "2026-03-20 03:01:04",
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Tira minha paz",
-      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
     },
     {
       "added_at": "2026-03-20 03:01:04",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
-        "name": "n\u00e3o dou valor",
-        "url": "https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV"
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
       "artists": [
         {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
         },
         {
-          "name": "REAL PS",
-          "url": "https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I"
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
         }
       ],
-      "duration_ms": 148283,
-      "name": "n\u00e3o dou valor",
-      "url": "https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0"
+      "duration_ms": 120000,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
     },
     {
       "added_at": "2026-03-20 03:01:04",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
-        "name": "Melanina",
-        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
+        "name": "n\u00e3o dou valor",
+        "url": "https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV"
       },
       "artists": [
         {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
         },
         {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+          "name": "REAL PS",
+          "url": "https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Melanina",
-      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
+      "duration_ms": 148283,
+      "name": "n\u00e3o dou valor",
+      "url": "https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0"
     },
     {
       "added_at": "2026-03-20 03:01:04",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2026-03-20 03:01:04",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-03-20 03:01:04",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2026-03-20 03:01:04",

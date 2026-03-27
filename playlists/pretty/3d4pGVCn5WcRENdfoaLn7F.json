@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 589,
+  "num_followers": 588,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADDrsq/VEAgTVHhYvpUYvAcaYQVbrq",
+  "snapshot_id": "AAADH2fU4PycTKaY8RkIJtPN593F3Cqe",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
     },
     {
-      "added_at": "2026-02-15 17:36:03",
-      "album": {
-        "name": "Sotto Controllo",
-        "url": "https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE"
-      },
-      "artists": [
-        {
-          "name": "Rockify",
-          "url": "https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "Sotto Controllo",
-      "url": "https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m"
-    },
-    {
       "added_at": "2026-02-16 15:27:33",
       "album": {
         "name": "Happy Pills",
@@ -505,54 +489,6 @@
       "url": "https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3"
     },
     {
-      "added_at": "2026-02-16 16:20:25",
-      "album": {
-        "name": "Sleeping With Ghosts Again",
-        "url": "https://open.spotify.com/album/1T05DF1XwIItiPWIHJZUX9"
-      },
-      "artists": [
-        {
-          "name": "Houseworth",
-          "url": "https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx"
-        }
-      ],
-      "duration_ms": 210850,
-      "name": "Wichita Sky",
-      "url": "https://open.spotify.com/track/780PMXdbbSVcPc9pD75SWj"
-    },
-    {
-      "added_at": "2026-02-16 16:59:05",
-      "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL"
-      },
-      "artists": [
-        {
-          "name": "Tina Debs",
-          "url": "https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe"
-        }
-      ],
-      "duration_ms": 226171,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh"
-    },
-    {
-      "added_at": "2026-02-16 17:07:24",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo"
-      },
-      "artists": [
-        {
-          "name": "Stopgap Solution",
-          "url": "https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ"
-    },
-    {
       "added_at": "2026-01-11 13:10:27",
       "album": {
         "name": "Just A Good Time 80s Jam",
@@ -567,70 +503,6 @@
       "duration_ms": 154376,
       "name": "Just A Good Time 80s Jam",
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
-    },
-    {
-      "added_at": "2026-02-16 17:09:58",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/27Izr5KOpRmTUpSoMrhZju"
-      },
-      "artists": [
-        {
-          "name": "DEBRISON",
-          "url": "https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/7bmKxJAlunqOEFpcPLpzP1"
-    },
-    {
-      "added_at": "2026-02-16 21:49:27",
-      "album": {
-        "name": "Let's Do It Again",
-        "url": "https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL"
-      },
-      "artists": [
-        {
-          "name": "Pink Cliffs",
-          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
-        }
-      ],
-      "duration_ms": 268933,
-      "name": "Let's Do It Again",
-      "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
-    },
-    {
-      "added_at": "2026-02-18 03:25:24",
-      "album": {
-        "name": "Choke On Shame",
-        "url": "https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM"
-      },
-      "artists": [
-        {
-          "name": "Wildchains",
-          "url": "https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8"
-        }
-      ],
-      "duration_ms": 315389,
-      "name": "Choke On Shame",
-      "url": "https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H"
-    },
-    {
-      "added_at": "2026-02-19 03:18:18",
-      "album": {
-        "name": "If I Was God",
-        "url": "https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB"
-      },
-      "artists": [
-        {
-          "name": "Upwood Avenue",
-          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
-        }
-      ],
-      "duration_ms": 222273,
-      "name": "If I Was God",
-      "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
     },
     {
       "added_at": "2026-02-19 16:02:49",
@@ -649,38 +521,6 @@
       "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
     },
     {
-      "added_at": "2026-02-20 01:52:13",
-      "album": {
-        "name": "Warrior Chords\"",
-        "url": "https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO"
-      },
-      "artists": [
-        {
-          "name": "Armen Matevosyan",
-          "url": "https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Warrior Chords\"",
-      "url": "https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF"
-    },
-    {
-      "added_at": "2026-02-20 02:20:45",
-      "album": {
-        "name": "\u043d\u0435\u0442 \u043c\u0435\u043d\u044f",
-        "url": "https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA"
-      },
-      "artists": [
-        {
-          "name": "W\u0142adek Sheen",
-          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
-        }
-      ],
-      "duration_ms": 177218,
-      "name": "\u043d\u0430\u043c \u043d\u0435 \u043d\u0443\u0436\u043d\u044b \u0434\u0440\u0443\u0437\u044c\u044f 2",
-      "url": "https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0"
-    },
-    {
       "added_at": "2026-02-20 02:27:05",
       "album": {
         "name": "Eighty-Six",
@@ -697,22 +537,6 @@
       "url": "https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf"
     },
     {
-      "added_at": "2026-02-20 02:32:52",
-      "album": {
-        "name": "Noches sin Luna",
-        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
-      },
-      "artists": [
-        {
-          "name": "La Mercury Punk",
-          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Noches sin Luna",
-      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
-    },
-    {
       "added_at": "2026-02-23 15:22:02",
       "album": {
         "name": "The Winter Sloths",
@@ -727,54 +551,6 @@
       "duration_ms": 229833,
       "name": "Dark Echoes",
       "url": "https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK"
-    },
-    {
-      "added_at": "2026-02-26 15:47:43",
-      "album": {
-        "name": "EQUINOCCIO",
-        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
-      },
-      "artists": [
-        {
-          "name": "Rodeo Manhattan",
-          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "No Queda Mas",
-      "url": "https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy"
-    },
-    {
-      "added_at": "2026-02-26 15:56:06",
-      "album": {
-        "name": "Consumer Unit",
-        "url": "https://open.spotify.com/album/0bBXbmdNWYauccx4abtnGU"
-      },
-      "artists": [
-        {
-          "name": "Captain Side Eye",
-          "url": "https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Consumer Unit",
-      "url": "https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp"
-    },
-    {
-      "added_at": "2026-02-26 15:58:43",
-      "album": {
-        "name": "Fool Me Once",
-        "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
-      },
-      "artists": [
-        {
-          "name": "Sean Blu",
-          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
-        }
-      ],
-      "duration_ms": 165651,
-      "name": "Fool Me Once",
-      "url": "https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts"
     },
     {
       "added_at": "2026-02-28 15:36:22",
@@ -825,38 +601,6 @@
       "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
     },
     {
-      "added_at": "2025-10-21 18:29:01",
-      "album": {
-        "name": "Sign Of The Horns",
-        "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 187778,
-      "name": "Sign Of The Horns",
-      "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
-    },
-    {
-      "added_at": "2026-03-06 15:46:16",
-      "album": {
-        "name": "My Body Says",
-        "url": "https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE"
-      },
-      "artists": [
-        {
-          "name": "Pink Cliffs",
-          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
-        }
-      ],
-      "duration_ms": 235453,
-      "name": "My Body Says",
-      "url": "https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ"
-    },
-    {
       "added_at": "2026-03-07 18:58:19",
       "album": {
         "name": "Concrete",
@@ -889,22 +633,6 @@
       "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
     },
     {
-      "added_at": "2026-03-08 15:50:26",
-      "album": {
-        "name": "The Time Will Come",
-        "url": "https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC"
-      },
-      "artists": [
-        {
-          "name": "Kevin ISM",
-          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "The Time Will Come",
-      "url": "https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw"
-    },
-    {
       "added_at": "2026-03-11 00:37:05",
       "album": {
         "name": "Synth Noise",
@@ -935,6 +663,22 @@
       "duration_ms": 254421,
       "name": "Age Of Innocence",
       "url": "https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby"
+    },
+    {
+      "added_at": "2025-10-21 18:29:01",
+      "album": {
+        "name": "Sign Of The Horns",
+        "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 187778,
+      "name": "Sign Of The Horns",
+      "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
     },
     {
       "added_at": "2026-03-11 01:48:42",

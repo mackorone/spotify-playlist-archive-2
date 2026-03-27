@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,373 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,392 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 57 | [La Sandunguera](https://open.spotify.com/track/3xQ254OSkFQBk1F69d3Gwc) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Sandunguera](https://open.spotify.com/album/0wJRHjnCyxwKkeY2zFRMUQ) | 3:25 |
 | 58 | [Shotgun](https://open.spotify.com/track/0MfNPl9hLTZ92vJGD6uI2t) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:08 |
 | 59 | [storyman\*](https://open.spotify.com/track/42rZe586CdvyvzQP2EM21A) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [fujiBouyon](https://open.spotify.com/album/2PAVYusQaqinxooK4hkqpL) | 2:28 |
-| 60 | [Iskhath' Sam Manje \(Jik'izinto\)](https://open.spotify.com/track/2vluFXvcxewxMqGhHEyvap) | [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [TheBlvckGuy](https://open.spotify.com/artist/2QFKpIdg7zgz1CxP3tAAT1) | [Iskhath' Sam Manje \(Jik'izinto\)](https://open.spotify.com/album/1ZANadhygbMXxBeDudZ8O2) | 3:49 |
-| 61 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |
+| 60 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |
+| 61 | [Iskhath' Sam Manje \(Jik'izinto\)](https://open.spotify.com/track/2vluFXvcxewxMqGhHEyvap) | [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [TheBlvckGuy](https://open.spotify.com/artist/2QFKpIdg7zgz1CxP3tAAT1) | [Iskhath' Sam Manje \(Jik'izinto\)](https://open.spotify.com/album/1ZANadhygbMXxBeDudZ8O2) | 3:49 |
 | 62 | [Talking Too Much](https://open.spotify.com/track/7944xUFsCEivN3zFMZXmTt) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 3:14 |
 | 63 | [Me Sabe Mal](https://open.spotify.com/track/5hcPfsdrll5xNkY8W2kxhn) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 3:16 |
 | 64 | [LA REINA](https://open.spotify.com/track/6qlP9ZUxLXGsb4R7gPNpeQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:30 |

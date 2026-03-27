@@ -1,12 +1,12 @@
 {
   "description": "recent trending tracks in rock, alt, metal, and punk.",
-  "num_followers": 172191,
+  "num_followers": 172240,
   "original_name": "Viral Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPvSbv0Dr8P1PZD7u+yzJscL1YW",
+  "snapshot_id": "AAAAABcPySq1kUzmaLfKMBOc3gTPDf+w",
   "tracks": [
     {
       "added_at": "2026-03-23 17:19:45",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX"
     },
     {
+      "added_at": "2026-03-26 03:00:18",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
+    },
+    {
       "added_at": "2026-03-23 17:19:45",
       "album": {
         "name": "Restless",
@@ -171,6 +187,22 @@
       "duration_ms": 236160,
       "name": "So Far So Fake",
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
+    },
+    {
+      "added_at": "2026-03-26 03:00:18",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko"
+      },
+      "artists": [
+        {
+          "name": "Maphra",
+          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+        }
+      ],
+      "duration_ms": 275102,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
     },
     {
       "added_at": "2026-03-25 20:35:09",
@@ -575,22 +607,6 @@
     {
       "added_at": "2026-03-23 17:19:45",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2026-03-23 17:19:45",
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-03-23 17:19:45",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Chop Suey!",
-      "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
-    },
-    {
-      "added_at": "2026-03-23 17:19:45",
-      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2026-03-23 17:19:45",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 131950,
-      "name": "the prom",
-      "url": "https://open.spotify.com/track/2WFNSeBczMYbMnGkDW7LyR"
     },
     {
       "added_at": "2026-03-23 17:19:45",

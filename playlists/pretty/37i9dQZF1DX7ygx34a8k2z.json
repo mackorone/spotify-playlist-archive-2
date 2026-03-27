@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 309863,
+  "num_followers": 309969,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -235,24 +235,8 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -299,6 +283,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Sex And Candy",
         "url": "https://open.spotify.com/album/4pyyHKijB2gcv3L26Hn4YC"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+      "duration_ms": 264066,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Ladies and gentlemen we are floating in space",
-        "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Ladies and gentlemen we are floating in space",
-      "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Stoned and Dethroned (Expanded Version)",
         "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Ladies and gentlemen we are floating in space",
+        "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Ladies and gentlemen we are floating in space",
+      "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Heroin Girl",
-      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Desperate Youth, Blood Thirsty Babes",
         "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 206986,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Heroin Girl",
+      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
     },
     {
       "added_at": "2025-01-15 04:11:50",

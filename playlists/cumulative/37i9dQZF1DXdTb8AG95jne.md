@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학 \(Gogohawk\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,289 songs - 3 day 5 hr 59 min
+1,290 songs - 3 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX) | 3:04 | 2025-04-09 | 2025-04-11 |
 | [Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2024-04-04 | 2024-11-07 |
 | [Every moment I love you \(Vocal\. Jungmi\)](https://open.spotify.com/track/2MU397brSaHDInIX3GQxHa) | [Iony](https://open.spotify.com/artist/2RR1uB9PpnHP715OJwuc3M), [정미](https://open.spotify.com/artist/3yjSnXK7X8xcXl0A7w9Cp2) | [Every moment I love you](https://open.spotify.com/album/7vXbsn5HkkjqJP3LA3hfyi) | 2:58 | 2022-03-31 | 2022-04-18 |
+| [every!](https://open.spotify.com/track/7zUjMWNCguvdc3UTwysjSF) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [every!](https://open.spotify.com/album/7122PHX1bTKPAOraFHwBlz) | 3:27 | 2026-03-26 |  |
 | [Everyday](https://open.spotify.com/track/2i7P8keTV3Z7XsOEF5pAul) | [Chung Kyung\-Ho](https://open.spotify.com/artist/0dTV9RVJ7pIvxTUVsaGUeA) | [Everyday](https://open.spotify.com/album/1lzsxFXavvdyNsoBuFE2ci) | 4:05 | 2022-03-31 | 2022-04-12 |
 | [Everyday i felt the same](https://open.spotify.com/track/4pbVHxFnF0b2ZFKCYx96M4) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [pool vol\. 5 \- Everyday i felt the same](https://open.spotify.com/album/6kT4QgbZ9fFMXB6iPdjhB2) | 3:21 | 2025-04-14 | 2025-05-17 |
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-03-31 | 2022-07-23 |
@@ -684,7 +685,7 @@
 | [Memory Romanticize](https://open.spotify.com/track/2mPP1mApGGvXWSLgIDqtZC) | [Vahn](https://open.spotify.com/artist/5snxmL23WuzHdNccHE7qvN) | [Memory Romanticize](https://open.spotify.com/album/6t5SZcjGngcGnTUZgkryhH) | 2:34 | 2024-11-20 | 2025-01-31 |
 | [Menu1 \- Puzzle](https://open.spotify.com/track/4ChK2jPITE9IQYVDaN6hAZ) | [Mellow Café](https://open.spotify.com/artist/1uKPonn1NSj61TEDqT8fEy), [Mu.B](https://open.spotify.com/artist/22gznBrS5T86XQnsX1BHbK) | [Menu1 \- Puzzle](https://open.spotify.com/album/0SunxBI28Tc6rtFxrv1p27) | 3:40 | 2022-03-31 | 2022-04-09 |
 | [Mermaid](https://open.spotify.com/track/2HpiCVq8cCc0T2YFf4nMiR) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Mermaid](https://open.spotify.com/album/0G7mGBC8pHJoEAYqy5o1Uy) | 3:00 | 2021-12-21 | 2022-06-21 |
-| [Microhabitat \(feat\. Kim gyeol\)](https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Microhabitat](https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY) | 2:47 | 2026-02-23 |  |
+| [Microhabitat \(feat\. Kim gyeol\)](https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Microhabitat](https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY) | 2:47 | 2026-02-23 | 2026-03-27 |
 | [middle of spring](https://open.spotify.com/track/4BMrgGbljFu36w6LvSzYHO) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [middle of spring](https://open.spotify.com/album/49CZNDFeNsjbaN9lBW0hpC) | 3:15 | 2022-03-31 | 2022-04-21 |
 | [Midnight Air \(Feat\. 104, OUREALGOAT\)](https://open.spotify.com/track/4ObR6UfLweNDPrYqo4B3vS) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Midnight Air](https://open.spotify.com/album/7pYzsqvDEmNP2m2jvG4y1E) | 4:36 | 2025-09-04 | 2025-10-02 |
 | [Milan Blue](https://open.spotify.com/track/2B64LQET1AVf85fVJDTOXD) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Milan Blue](https://open.spotify.com/album/48HY4uejjgB10O0dIRcxDB) | 4:50 | 2022-02-18 | 2022-07-24 |

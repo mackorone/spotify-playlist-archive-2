@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Saahel, Mary Ann Alexander and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Raghav Meattle, Kamakshi Khanna, Bulli Bainbridge and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -428,6 +428,32 @@
       "duration_ms": 254347,
       "name": "Aag",
       "url": "https://open.spotify.com/track/0mSyeDL1A1LGgF71G1H5yi"
+    },
+    {
+      "album": {
+        "name": "Aage Peeche",
+        "url": "https://open.spotify.com/album/1XHOZh8EcCdSOnsTrg09Hq"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        },
+        {
+          "name": "Bulli Bainbridge",
+          "url": "https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "Aage Peeche",
+      "url": "https://open.spotify.com/track/0zbCeeFZeXaLGzzPhRoJfJ"
     },
     {
       "album": {
@@ -3470,7 +3496,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 174497,
       "name": "Behisaab",
       "url": "https://open.spotify.com/track/3j2aNckJSXNJ56gpKmmfvm"
@@ -4248,6 +4274,28 @@
       "duration_ms": 189600,
       "name": "Birha",
       "url": "https://open.spotify.com/track/15m1kmdQrnlfkwT8N30UmG"
+    },
+    {
+      "album": {
+        "name": "Birha",
+        "url": "https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157931,
+      "name": "Birha",
+      "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
     },
     {
       "album": {
@@ -6928,7 +6976,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200020,
       "name": "Don't Wanna Be",
       "url": "https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399"
@@ -8724,6 +8772,24 @@
     {
       "album": {
         "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/3Re9vlX5wIp2BsWQJbmcSv"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191118,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/6gG0DORD3lrsrnXDLKQIPt"
+    },
+    {
+      "album": {
+        "name": "Gumshuda",
         "url": "https://open.spotify.com/album/4RqnpqHnMOiO7xSYjceKVw"
       },
       "artists": [
@@ -9546,7 +9612,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 217500,
       "name": "Hona Likha Tha",
       "url": "https://open.spotify.com/track/6xvYu1IXEpxo6JC0MY0YDx"
@@ -13217,6 +13283,28 @@
     },
     {
       "album": {
+        "name": "Rukna Nahin Hai",
+        "url": "https://open.spotify.com/album/74WJ5nG7ARx3K701tMFvh4"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247674,
+      "name": "Khamakha",
+      "url": "https://open.spotify.com/track/6irnzSUk0cnooiIf8zjbaR"
+    },
+    {
+      "album": {
         "name": "Khamakha",
         "url": "https://open.spotify.com/album/0QTTNX9Ltv63Sm7uf5UGJa"
       },
@@ -13316,6 +13404,28 @@
       "duration_ms": 250500,
       "name": "Khata",
       "url": "https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5"
+    },
+    {
+      "album": {
+        "name": "Khatt 2.0",
+        "url": "https://open.spotify.com/album/0Fsud8vJ0tkYHeoiycAan6"
+      },
+      "artists": [
+        {
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        },
+        {
+          "name": "Mir Tafazul",
+          "url": "https://open.spotify.com/artist/0jBzewdASgiYJ1O059T3Om"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297894,
+      "name": "Khatt 2.0",
+      "url": "https://open.spotify.com/track/0eFGZK6gRMBTIyG5qhy5hG"
     },
     {
       "album": {
@@ -17020,7 +17130,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 161739,
       "name": "Mere Maahiya",
       "url": "https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf"
@@ -25058,7 +25168,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 202628,
       "name": "Tere Hi Ho Gaye",
       "url": "https://open.spotify.com/track/5eLxew7YHYs4NgXhMsthCD"

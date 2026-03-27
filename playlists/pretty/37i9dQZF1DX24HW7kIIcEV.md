@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > 20 years of hannah montana, say whaaat?
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,612 likes - 92 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,500 likes - 92 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

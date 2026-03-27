@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 486763,
+  "num_followers": 486960,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAABNol6uBKDDxPnN1epsuwxP",
+  "snapshot_id": "acMlgAAAAACEh2lmiitlgoycQpQY5z72",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 188266,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Engine No. 9",
-      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 287840,
       "name": "Beauty School",
       "url": "https://open.spotify.com/track/5sUCU4eiyf0pplIJ7OGEoc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Engine No. 9",
+      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gore",
-        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "Phantom Bride",
-      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deftones",
         "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 203066,
       "name": "Needles and Pins",
       "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "Phantom Bride",
+      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
     },
     {
       "added_at": null,

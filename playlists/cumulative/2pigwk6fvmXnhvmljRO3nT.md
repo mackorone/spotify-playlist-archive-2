@@ -4,7 +4,7 @@
 
 > 
 
-8,568 songs - 21 day 19 hr 56 min
+8,570 songs - 21 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2204,6 +2204,7 @@
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-25 |  |
 | [Foolish love](https://open.spotify.com/track/6j6DIMn0dNIAgENJXyzqep) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Life Sentence](https://open.spotify.com/album/4OHf2kGbaAy2a2aduTNN1z) | 4:21 | 2025-04-20 |  |
 | [Foolish Love](https://open.spotify.com/track/7I7TTfKcDDAeSf6HPgbdPT) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 3:32 | 2025-03-24 |  |
+| [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2026-03-26 |  |
 | [For Hot 97](https://open.spotify.com/track/0qCJuVo2eL3wMBVqL3oTjD) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Jban$2Turnt](https://open.spotify.com/artist/4U6245OE6dlqMEOjDpWJzn), [Byou](https://open.spotify.com/artist/2XhCPdbPDFJ3dfXVFsDAB2), [Big Brutha Chubba](https://open.spotify.com/artist/6qsoy8HNmFFELDgvwFAUj8) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 3:15 | 2025-01-03 |  |
 | [For However Long](https://open.spotify.com/track/5g30WoqK1Dv5Bnwpusp2vk) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 2:04 | 2024-12-10 |  |
 | [For Lovers](https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 1:15 | 2025-01-03 |  |
@@ -3049,6 +3050,7 @@
 | [I Think I Like When It Rains](https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/0rLXT7k0bitHIkYLWrXIq5) | 4:38 | 2025-03-30 |  |
 | [I Think They Call This Love](https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu) | 3:13 | 2025-05-08 |  |
 | [I Thought About Killing You](https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:34 | 2025-01-03 |  |
+| [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 | 2026-03-26 |  |
 | [I Thought It Was Love.](https://open.spotify.com/track/2k51JpmC8P0TfYfYD0mNh5) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I Thought It Was Love.](https://open.spotify.com/album/6eQzmy9XDZ7hQTnxgkw2iI) | 4:00 | 2025-07-27 |  |
 | [I Tried Loving](https://open.spotify.com/track/2vgZx9rE4a3fqG6Y7jFYMC) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 3:13 | 2025-01-15 |  |
 | [I Tried Loving](https://open.spotify.com/track/7uenITonAmg7wXmFd3kkms) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 3:13 | 2025-01-15 |  |

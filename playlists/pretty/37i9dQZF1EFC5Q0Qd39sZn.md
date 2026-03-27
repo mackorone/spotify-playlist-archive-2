@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,399 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,408 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 197 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
 | 198 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
 | 199 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
-| 200 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
-| 201 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 200 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 201 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
 | 202 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
 | 203 | [Does Anybody Really Fall in Love Anymore](https://open.spotify.com/track/0kKIjuEgtE5J930ugt5iJd) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:25 |
 | 204 | [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcNG9AAAAAC6g/CWaHTKg02u9/ILJge2`
+Snapshot ID: `AcNMlAAAAADEG6/7q1VFnvgtHhWp6TjD`

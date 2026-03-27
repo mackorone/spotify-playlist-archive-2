@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Drug Church",
-  "num_followers": 494406,
+  "num_followers": 494386,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 132476,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "I Don't Belong Here",
         "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 204500,
       "name": "Hereditary",
       "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Unravel",
-        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 175446,
-      "name": "Unravel",
-      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Pain Is A Must",
         "url": "https://open.spotify.com/album/2lWJXMUqoP0IP0loTZ453q"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 144306,
       "name": "Pain Is A Must",
       "url": "https://open.spotify.com/track/0wL1k37TOX2ej1eCMpA3io"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175446,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
+        "name": "God Save The Gun",
+        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
       },
       "artists": [
         {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
         }
       ],
-      "duration_ms": 269318,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
+      "duration_ms": 229334,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "God Save The Gun",
-        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
       },
       "artists": [
         {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 229334,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
+      "duration_ms": 269318,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
+        "name": "Violent Obsession",
+        "url": "https://open.spotify.com/album/6HzUhdKOTsP078MiVMNeHx"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Violent Obsession",
+      "url": "https://open.spotify.com/track/4a6irBo5JD7ktrmE3K1EvD"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
         "name": "Fight Like A Girl (feat. K.Flay)",
         "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
-        "name": "Violent Obsession",
-        "url": "https://open.spotify.com/album/6HzUhdKOTsP078MiVMNeHx"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Violent Obsession",
-      "url": "https://open.spotify.com/track/4a6irBo5JD7ktrmE3K1EvD"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "duration_ms": 212215,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
         "name": "Feed (feat. DeathbyRomy)",
         "url": "https://open.spotify.com/album/2IUSxKWwBUjG0sCnlKTxWa"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4"
-      },
-      "artists": [
-        {
-          "name": "Death Lens",
-          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
-        }
-      ],
-      "duration_ms": 212215,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Trickle Down",
         "url": "https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Gladrags",
-        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "Gladrags",
-      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Wrath",
         "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Gladrags",
+        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "Gladrags",
+      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Thoroughbreds",
-        "url": "https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g"
-      },
-      "artists": [
-        {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Thoroughbreds",
-      "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Silent Divide",
         "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 303832,
       "name": "Silent Divide",
       "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Thoroughbreds",
+        "url": "https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Thoroughbreds",
+      "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
     },
     {
       "added_at": "2026-03-13 14:04:55",

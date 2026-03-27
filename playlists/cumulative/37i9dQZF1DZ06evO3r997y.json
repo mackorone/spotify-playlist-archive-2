@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "BYERONY",
       "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/5APG9tmgTjocMcFYvzucxV"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "HYPE ALIVE",
+      "url": "https://open.spotify.com/track/1jsVXC1HPMtL6hYvOw96Ej"
+    },
+    {
+      "album": {
         "name": "\u5149\u3088\u3001\u50d5\u306b\u3002",
         "url": "https://open.spotify.com/album/3Ai4Zc0mhEjrTS4pVOQ6U3"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180480,
       "name": "HYPE ALIVE",
       "url": "https://open.spotify.com/track/28L7x5dJ7BmMUkieFUdCep"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 204986,
       "name": "Oxidation",
       "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"

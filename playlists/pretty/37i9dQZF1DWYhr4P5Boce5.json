@@ -27,6 +27,26 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/40FxlXi5FH0r5q3Wz0F8a1"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
         "name": "Ever & Ever Before",
         "url": "https://open.spotify.com/album/6Ib03CnwNxVNok7OahkFwd"
       },
@@ -47,26 +67,6 @@
       "duration_ms": 230263,
       "name": "Ever & Ever Before",
       "url": "https://open.spotify.com/track/4YhMnXwp2khsqK05irNhDp"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/40FxlXi5FH0r5q3Wz0F8a1"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "Dell Mac",
-          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
+        "name": "Pray With",
+        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        }
+      ],
+      "duration_ms": 159166,
+      "name": "Pray With",
+      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
         "name": "This Is a Winter EP",
         "url": "https://open.spotify.com/album/4C63x0vvIMgqdx2ZdIdjRa"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 208163,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/7Jog4oLDP1ls1gqEBsaBkf"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
-        "name": "Pray With",
-        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
-      },
-      "artists": [
-        {
-          "name": "Justin Radford",
-          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
-        }
-      ],
-      "duration_ms": 159166,
-      "name": "Pray With",
-      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "Just Too Good",
-        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 203268,
-      "name": "Just Too Good",
-      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "i do",
         "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "Just Too Good",
+        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 203268,
+      "name": "Just Too Good",
+      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "Made In Heaven Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/68b8pjMbSWisa3rUrf0DO7"
-      },
-      "artists": [
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Made In Heaven Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/2EKGFtmVUOSdkWss5fXAJR"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 201526,
       "name": "Look At Love",
       "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "Made In Heaven Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/68b8pjMbSWisa3rUrf0DO7"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Made In Heaven Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/2EKGFtmVUOSdkWss5fXAJR"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "If It Wasn't You",
-        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
-      },
-      "artists": [
-        {
-          "name": "Airr",
-          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
-        }
-      ],
-      "duration_ms": 186473,
-      "name": "If It Wasn't You",
-      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "fall (when we fell in love)",
         "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 157990,
       "name": "fall (when we fell in love)",
       "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "If It Wasn't You",
+        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
+      },
+      "artists": [
+        {
+          "name": "Airr",
+          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
+        }
+      ],
+      "duration_ms": 186473,
+      "name": "If It Wasn't You",
+      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2026-03-23 15:10:16",
-      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1431,22 +1415,18 @@
     {
       "added_at": "2026-03-23 15:10:16",
       "album": {
-        "name": "Loving Me Like Jesus",
-        "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
       "artists": [
         {
-          "name": "Franchesca",
-          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
-        },
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Loving Me Like Jesus",
-      "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2026-03-23 15:10:16",
@@ -1463,6 +1443,26 @@
       "duration_ms": 203699,
       "name": "A Red, Red Rose",
       "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
+    },
+    {
+      "added_at": "2026-03-23 15:10:16",
+      "album": {
+        "name": "Loving Me Like Jesus",
+        "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
+      },
+      "artists": [
+        {
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        },
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Loving Me Like Jesus",
+      "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
     },
     {
       "added_at": "2026-03-23 15:10:16",

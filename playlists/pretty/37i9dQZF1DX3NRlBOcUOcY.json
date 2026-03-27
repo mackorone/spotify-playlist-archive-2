@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 445029,
+  "num_followers": 445050,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2026-03-20 04:00:46",
       "album": {
-        "name": "SOLEAO",
-        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "SOLEAO",
-      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
-    },
-    {
-      "added_at": "2026-03-20 04:00:46",
-      "album": {
         "name": "ori\u00f3N",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+    },
+    {
+      "added_at": "2026-03-20 04:00:46",
+      "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
       "added_at": "2026-03-20 04:00:46",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-03-20 04:00:46",
       "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "added_at": "2026-03-20 04:00:46",
+      "album": {
         "name": "AyMami",
         "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 164131,
       "name": "AyMami",
       "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
-    },
-    {
-      "added_at": "2026-03-20 04:00:46",
-      "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
     },
     {
       "added_at": "2026-03-20 04:00:46",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2026-03-20 04:00:46",
       "album": {
-        "name": "Acapulco (feat. Fede Vigevani)",
-        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        }
-      ],
-      "duration_ms": 211463,
-      "name": "Acapulco (feat. Fede Vigevani)",
-      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
-    },
-    {
-      "added_at": "2026-03-20 04:00:46",
-      "album": {
         "name": "Anoche",
         "url": "https://open.spotify.com/album/6sj1zdh540uTNRdHyUNOLu"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 144950,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/58Jy5NMhkBLzE8Au5KFqLT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:46",
+      "album": {
+        "name": "Acapulco (feat. Fede Vigevani)",
+        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        }
+      ],
+      "duration_ms": 211463,
+      "name": "Acapulco (feat. Fede Vigevani)",
+      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
     },
     {
       "added_at": "2026-03-20 04:00:46",

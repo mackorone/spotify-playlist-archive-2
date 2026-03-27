@@ -4,7 +4,7 @@
 
 > 
 
-1,409 songs - 3 day 2 hr 35 min
+1,411 songs - 3 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Cooties](https://open.spotify.com/track/6B7FWe7D3c4LKO5cSz19iD) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:52 | 2024-03-04 | 2024-11-06 |
 | [Copy My Flow](https://open.spotify.com/track/63l7bSuyNl1rRDNR4RrpbY) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [BABY WHOA](https://open.spotify.com/album/4LwBYHKVRaFll4wNsVA2TV) | 1:18 | 2023-01-03 | 2023-05-09 |
 | [Cosmo Freestyle](https://open.spotify.com/track/29hATL1N9JGEtS8HpxRjcN) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 3:04 | 2024-11-02 | 2025-05-21 |
+| [Cosmo Freestyle](https://open.spotify.com/track/7rOMXlhgozetHpzmJciBjm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/44k1aegQDc03y66kpRoWKt) | 3:04 | 2026-03-26 |  |
 | [Cot Damn \(feat\. Ab\-Liva & Rosco P\. Coldchain\)](https://open.spotify.com/track/3LPNfzKa0VYlNedCY4MuBy) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Ab\-Liva](https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 5:01 | 2025-08-15 | 2026-03-08 |
 | [Couch](https://open.spotify.com/track/0VLkwjIaeJM5KMjcVVybBp) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [The Life Of Pi'erre 5](https://open.spotify.com/album/2i5NyX1puwpGt7tmaP5sEg) | 4:23 | 2023-03-20 | 2023-12-14 |
 | [Count Up](https://open.spotify.com/track/14DzT6SHiJpd807lo41KK4) | [Summr Rino Archived](https://open.spotify.com/artist/140a3K2cLncsfwQpvsv2IO) | [Count Up](https://open.spotify.com/album/2Sa3gbJyCO9nM7b7TRKgJp) | 2:34 | 2022-07-28 | 2023-12-14 |
@@ -749,6 +750,7 @@
 | [Mad bout that](https://open.spotify.com/track/7nZwBbH8F8FqArrVIe8Zl4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:10 | 2023-01-10 | 2023-05-09 |
 | [Madder](https://open.spotify.com/track/3DNcciGBNSVIyIZYsIumZu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 2:49 | 2025-05-01 | 2026-02-08 |
 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 | 2024-06-24 | 2024-11-06 |
+| [Make Something Up](https://open.spotify.com/track/64OIDldq25VvelMStZiDvy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 4:06 | 2026-03-26 |  |
 | [Make Your Mind Up](https://open.spotify.com/track/2H3Ee8gYFvCZ2ivuOl5wwI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 3:50 | 2025-12-15 | 2026-03-08 |
 | [Making Moves with Puff](https://open.spotify.com/track/4UmOTj2C2RIYvTWk5HqOf2) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf) | [Project: Funk Da World](https://open.spotify.com/album/6BtFnL80q39q0OcSBroqwy) | 4:24 | 2025-12-15 | 2026-03-08 |
 | [Man Down \(feat\. Big Noyd\)](https://open.spotify.com/track/37Pu8DAHAtReIr4SAqqDxV) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Big Noyd](https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 5:02 | 2024-05-23 | 2024-11-06 |

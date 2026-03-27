@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 125535,
+  "num_followers": 125545,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAI5d3LZ6Zks5+IOoxa2hSw",
+  "snapshot_id": "acMlgAAAAACHQVH3r/Cn7rvL0CaJ1JhK",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nat King Cole's 8 Top Pops",
-        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Walkin' My Baby Back Home",
-      "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Face The Music (Expanded Edition)",
         "url": "https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 226666,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nat King Cole's 8 Top Pops",
+        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Indie that hits different ](https://open.spotify.com/playlist/37i9dQZF1DXad2sxzzYX1N)
 
-> The indie viral hits you can't escape\. Cover: Djo
+> The indie viral hits you can't escape\. Cover: The Long Faces
 
 220 songs - 12 hr 46 min
 

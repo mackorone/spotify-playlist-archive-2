@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1296615,
+  "num_followers": 1296644,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
-        "name": "Around The City",
-        "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Save Your Love For Me",
-      "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
-    },
-    {
-      "added_at": "2026-03-20 08:09:29",
-      "album": {
         "name": "Signature",
         "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 185733,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
+    },
+    {
+      "added_at": "2026-03-20 08:09:29",
+      "album": {
+        "name": "Around The City",
+        "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Save Your Love For Me",
+      "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
     },
     {
       "added_at": "2026-03-20 08:09:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
-        "name": "Stella Cole (Extended Version)",
-        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "I Could Have Danced All Night",
-      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
-    },
-    {
-      "added_at": "2026-03-20 08:09:29",
-      "album": {
         "name": "First Conversation",
         "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-03-20 08:09:29",
+      "album": {
+        "name": "Stella Cole (Extended Version)",
+        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
     },
     {
       "added_at": "2026-03-20 08:09:29",

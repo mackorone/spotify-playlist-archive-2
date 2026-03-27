@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 30 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 |
 | 31 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 32 | [Bar In Baton Rouge](https://open.spotify.com/track/3a8kDfg6wJNGM6KDmLr78p) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 5:07 |
-| 33 | [Bad Guy](https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [PB2](https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1) | 2:47 |
-| 34 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
+| 33 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
+| 34 | [Bad Guy](https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [PB2](https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1) | 2:47 |
 | 35 | [State I'm In](https://open.spotify.com/track/2R4XnAFX66OTlH5fV0GnxN) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [State I'm In](https://open.spotify.com/album/5sMj5tKwmgu1phh50Br17S) | 2:52 |
 | 36 | [Girl to Girl](https://open.spotify.com/track/1fx6jheBK4WWQAI2fShdh1) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:12 |
 | 37 | [Fall](https://open.spotify.com/track/5h2GybdgAmcJEAY9kRLCXs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test \(Deluxe Edition\)](https://open.spotify.com/album/0lAZGWg1Br8CNbarSBSOF9) | 3:53 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 91 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
 | 92 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
 | 93 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
-| 94 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 |
-| 95 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
+| 94 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
+| 95 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 |
 | 96 | [99 Bottles](https://open.spotify.com/track/6XdPUABmGiRnQzP171vyhk) | [TracieLynn](https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v) | [99 Bottles](https://open.spotify.com/album/78yVqDRZaD4YFgrgPBWPt3) | 3:35 |
 | 97 | [Rosalee](https://open.spotify.com/track/1dlddvHp5NcSIQB8XMaMDf) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:53 |
 | 98 | [As Far as Love Goes](https://open.spotify.com/track/5Kcq1DpTCfcce85latUZRp) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y) | [Strong](https://open.spotify.com/album/0C3XW8l5BNv8dUHuEuDDSf) | 3:10 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 126 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcNG9AAAAABaXuL2TENsbtLljsBjG/RW`
+Snapshot ID: `AcNMlAAAAAA222tLoEhLtz+NfaqR6GW+`

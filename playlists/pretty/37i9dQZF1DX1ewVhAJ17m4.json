@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 601890,
+  "num_followers": 601901,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,30 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
+        "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Spencer Charnas",
+          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
         "name": "Irreversible",
         "url": "https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5"
       },
@@ -955,30 +979,6 @@
       "duration_ms": 174634,
       "name": "Rejects",
       "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
-        "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB"
-      },
-      "artists": [
-        {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Spencer Charnas",
-          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "NORTHERN LIGHTS//",
-        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "NORTHERN LIGHTS//",
-      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "Burst & Decay (Volume III)",
         "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
+        "name": "NORTHERN LIGHTS//",
+        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 280065,
+      "name": "NORTHERN LIGHTS//",
+      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
         "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
         "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "BETTER",
-        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 155668,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "Sandbox",
         "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
       },
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "BLINK AND YOU'LL MISS IT//",
-        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
         }
       ],
-      "duration_ms": 168975,
-      "name": "MARRY KILL F*CK//",
-      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+      "duration_ms": 155668,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -1303,6 +1283,26 @@
       "duration_ms": 173842,
       "name": "77 - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "BLINK AND YOU'LL MISS IT//",
+        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "MARRY KILL F*CK//",
+      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
     },
     {
       "added_at": "2026-02-20 05:00:53",

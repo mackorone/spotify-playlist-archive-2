@@ -68,7 +68,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 114666,
       "name": "3 Etudes, Op. 65: 3 Etudes, Op. 65: No. 2 in C sharp major",
       "url": "https://open.spotify.com/track/4toeeZBBVEjPrU207TL4ef"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 255760,
       "name": "Autodreamographical Tales (Arr. G. Riley for Chamber Ensemble): VI. Black Woman",
       "url": "https://open.spotify.com/track/0dxU2Gsoz3PqzZYQEXigVG"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 510912,
       "name": "Autodreamographical Tales (Arr. T. Riley for Chamber Ensemble): VIII. The War on the Poor",
       "url": "https://open.spotify.com/track/00VzUszboxrIvc8Gddsu0H"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 506088,
       "name": "Autodreamographical Tales (Arr. T. Riley for Chamber Ensemble): X. Science Fiction",
       "url": "https://open.spotify.com/track/3Gk5IOQaaUGTq0B2QkXScR"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 80146,
       "name": "Music for the Gift: Part 4",
       "url": "https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180426,
       "name": "ORGANUM FOR STEFANO V",
       "url": "https://open.spotify.com/track/7Ls5m0w6Hoc9YPCn1uLNrC"
@@ -4236,7 +4236,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 566400,
       "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
       "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
@@ -4258,6 +4258,28 @@
       "duration_ms": 410400,
       "name": "The Harp of New Albion: X. Land's End",
       "url": "https://open.spotify.com/track/1WiySlU6OV5PyyF06OQAVC"
+    },
+    {
+      "album": {
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/5m94wx3KAPf5yh5shKaqwJ"
+      },
+      "artists": [
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324680,
+      "name": "The Lake",
+      "url": "https://open.spotify.com/track/0Sfb6rEf6GSuYvt20kcmNM"
     },
     {
       "album": {

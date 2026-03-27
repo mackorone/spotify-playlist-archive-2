@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Bowie's Pressure",
+        "url": "https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192365,
+      "name": "Bowie's Pressure",
+      "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
+    },
+    {
+      "album": {
         "name": "Break 'Em All",
         "url": "https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a"
       },
@@ -873,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "album": {
         "name": "Souljack EP",
         "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
       },
@@ -1036,7 +1072,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 217616,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/0xROoITSyC7Ppcx7OC6xst"
@@ -2132,7 +2168,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 167595,
       "name": "Ik Kan Je Niet Vergeten",
       "url": "https://open.spotify.com/track/4JfLBSxENT3T8WPNpTr9jq"
@@ -3338,7 +3374,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 328719,
       "name": "Red Flag Magician",
       "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
@@ -4302,6 +4338,28 @@
       "duration_ms": 161142,
       "name": "Vlieg Hoog",
       "url": "https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r"
+    },
+    {
+      "album": {
+        "name": "Waar Blijf Je Nou",
+        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178432,
+      "name": "Waar Blijf Je Nou",
+      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
       "album": {

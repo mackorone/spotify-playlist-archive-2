@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-678 songs - 1 day 12 hr 27 min
+679 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [I Should Care \- Mono](https://open.spotify.com/track/5waDYX1FfMyAt9PLWVqiCQ) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 2:11 | 2025-06-27 | 2025-07-10 |
 | [I Sing of Love](https://open.spotify.com/track/3TpqKatKYuyiBVfPAkogIG) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me, Kate \(Original 1996 Studio Cast\) \[Complete Recording\]](https://open.spotify.com/album/27N10zfOcKjy7zoGw4SZHB) | 2:23 | 2024-07-24 | 2025-03-20 |
 | [I Sing of Love](https://open.spotify.com/track/65xnf9jumN7yup30y26CBt) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me Kate \(Original 1996 Studio Cast\. Complete Recording\)](https://open.spotify.com/album/09GsPfP3XglDcjqwwEJryu) | 2:23 | 2025-03-19 |  |
+| [I Will Survive 2001 \(Villa & Gant Radio Edit\)](https://open.spotify.com/track/05PsUVQCfU4DGgQBYRO9x7) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \- Remixes 2001](https://open.spotify.com/album/3Gn0JWcvTKAytBcqWiWmic) | 4:50 | 2026-03-26 |  |
 | [I'm a Gigolo](https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter](https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q) | 2:26 | 2025-05-25 |  |
 | [I'm a Gigolo](https://open.spotify.com/track/6l3C30m3DDDddAM2Ty9XUP) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [The Swinging Thirties](https://open.spotify.com/album/2jtfYgsZIwvN0ii3A75xUy) | 2:27 | 2025-06-27 | 2025-07-10 |
 | [I'm a Gigolo \(2023 Remastered\)](https://open.spotify.com/track/50keLfAcioOZyCdKvRMU6x) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 2:26 | 2024-07-24 | 2025-05-26 |
@@ -362,7 +363,7 @@
 | [Medley](https://open.spotify.com/track/1HtT4RBMLz3ghQC6HCqTA2) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Sings Cole Porter](https://open.spotify.com/album/4dOIyuytkyl3fzkXmb91hf) | 3:18 | 2024-07-24 | 2025-06-28 |
 | [Medley \- Fated to be Mated \(Extended Version\) \- All of You](https://open.spotify.com/track/51DVphMXwtZ6LlSQx4Cf4V) | [Cole Porter \(composer\)](https://open.spotify.com/artist/2MlrdhziMAogDail35dBMR) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 6:34 | 2024-07-24 | 2025-10-31 |
 | [Medley: Paris Montage](https://open.spotify.com/track/6zuTkdDp2dGPMYbGDzf4xP) | [The Warner Bros\. Studio Orchestra](https://open.spotify.com/artist/5gtpUC889sWVXQUobHFyrA) | [Casablanca: The Original Motion Picture Soundtrack](https://open.spotify.com/album/5J1e8ut0CkdBw50CGR4M40) | 3:48 | 2024-07-24 | 2025-06-28 |
-| [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 | 2024-07-24 |  |
+| [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 | 2024-07-24 | 2026-03-27 |
 | [Minor Swing](https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:16 | 2024-07-24 | 2025-06-28 |
 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/1Wu89mRCilitvkPAm8ypjg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [100 Songs For A Centennial](https://open.spotify.com/album/3lsjiId5dDmjtbkkTQwOrM) | 3:01 | 2026-02-13 |  |
 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 | 2024-07-24 | 2026-02-13 |

@@ -5710,7 +5710,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 240491,
       "name": "It's You - from \"Heated Rivalry\"",
       "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
@@ -11371,6 +11371,24 @@
     },
     {
       "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189588,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK"
+    },
+    {
+      "album": {
         "name": "These Walls (feat. Pierre de Maere)",
         "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
       },
@@ -11488,7 +11506,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"

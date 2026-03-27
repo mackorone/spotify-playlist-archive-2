@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 356470,
       "name": "Agnus Dei - Ao Vivo",
       "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271699,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
+    },
+    {
+      "album": {
         "name": "All Of A Sudden / Another One",
         "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
       },
@@ -506,7 +524,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 270000,
       "name": "All Things Are Possible (Live)",
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -1853,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "God, In all Seasons",
+        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237913,
+      "name": "Boku",
+      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
+    },
+    {
+      "album": {
         "name": "Boma",
         "url": "https://open.spotify.com/album/0NmWxEOqLxYuuZbP3VTSBr"
       },
@@ -1864,7 +1904,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 253000,
       "name": "Boma",
       "url": "https://open.spotify.com/track/1c0Nyayn5KRn9pePaXoeMn"
@@ -2118,6 +2158,32 @@
       "duration_ms": 280440,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI"
+    },
+    {
+      "album": {
+        "name": "Citizen",
+        "url": "https://open.spotify.com/album/2jPZbmDIJ7TCb3DMh0Fywl"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299013,
+      "name": "Citizen",
+      "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
     },
     {
       "album": {
@@ -2876,7 +2942,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 561714,
       "name": "Do A Work In Me - Live",
       "url": "https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc"
@@ -3044,7 +3110,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 294324,
       "name": "Ebak Zala Z'Ovu (II)",
       "url": "https://open.spotify.com/track/6jzAHmnTyz72Ha1o2b3pNi"
@@ -4678,7 +4744,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 159204,
       "name": "GO!",
       "url": "https://open.spotify.com/track/2VtQ4TnLxooGfv89IC3Qc3"
@@ -5972,7 +6038,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 339207,
       "name": "Highly Lifted",
       "url": "https://open.spotify.com/track/7B4o2XhrtS0kvWpkxqsP9Q"
@@ -6210,7 +6276,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 351666,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
@@ -6678,7 +6744,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -7533,6 +7599,28 @@
     },
     {
       "album": {
+        "name": "Yeshua (The Summary Of My Life)",
+        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204036,
+      "name": "Impossibility Shatterer",
+      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "album": {
         "name": "In Awe",
         "url": "https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs"
       },
@@ -7548,7 +7636,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 279352,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
@@ -8692,7 +8780,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 374361,
       "name": "Lord I believe",
       "url": "https://open.spotify.com/track/7Kr8B8QNOQQFPXBwoWEahG"
@@ -9000,6 +9088,24 @@
       "duration_ms": 536296,
       "name": "Medley of Hymns - Live",
       "url": "https://open.spotify.com/track/54fiPebO0CytWRNZlQgFby"
+    },
+    {
+      "album": {
+        "name": "Medo (My love)",
+        "url": "https://open.spotify.com/album/3JN9EdVHNjaLw4Qz30tvxU"
+      },
+      "artists": [
+        {
+          "name": "Reggie Jones",
+          "url": "https://open.spotify.com/artist/2KKoX7eyiLdQMXHCWe69ae"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271732,
+      "name": "Medo (My love)",
+      "url": "https://open.spotify.com/track/0aH6huoAdgVSsUTr5Gh0u5"
     },
     {
       "album": {
@@ -9322,7 +9428,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
@@ -9380,7 +9486,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
@@ -9640,7 +9746,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 179999,
       "name": "Moyo Wa Shukrani",
       "url": "https://open.spotify.com/track/2PT4W834PIHj9BMEKbzxuE"
@@ -9742,7 +9848,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 388440,
       "name": "My Desire (Ps. 42:1)",
       "url": "https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH"
@@ -10768,7 +10874,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
@@ -11046,7 +11152,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 436321,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
@@ -12674,6 +12780,28 @@
       "duration_ms": 259588,
       "name": "SEE ME THROUGH (RECOVERY)",
       "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
+    },
+    {
+      "album": {
+        "name": "Seek You With All My Heart",
+        "url": "https://open.spotify.com/album/7Fhr46zGSyYLQMYlRjcEDG"
+      },
+      "artists": [
+        {
+          "name": "Efe Lucky",
+          "url": "https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "Seek You With All My Heart",
+      "url": "https://open.spotify.com/track/2qZ55Xzsyl5kTsbhTZ7PGM"
     },
     {
       "album": {
@@ -14549,6 +14677,24 @@
     },
     {
       "album": {
+        "name": "IssaYearEndFunction S2",
+        "url": "https://open.spotify.com/album/165Ml0Eqg19O3YgZr85vhU"
+      },
+      "artists": [
+        {
+          "name": "ROFHIWA MANYAGA",
+          "url": "https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400763,
+      "name": "Uya Mangadza Yeso - Live",
+      "url": "https://open.spotify.com/track/2Sq6Dz0ARNawM0tQFKGh7X"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration 28 (The Second Set Live at the Durban Icc)",
         "url": "https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ"
       },
@@ -14774,7 +14920,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 395226,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA"
@@ -15026,7 +15172,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 195931,
       "name": "We Pray",
       "url": "https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F"
@@ -16338,10 +16484,36 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 291692,
       "name": "You Are Holy",
       "url": "https://open.spotify.com/track/3aModrqpU2p6Vrmfzbb48L"
+    },
+    {
+      "album": {
+        "name": "The Holy One (Live at Heartfelt Arena, December 2025)",
+        "url": "https://open.spotify.com/album/3oFcMU3vxJdkZhOYn67iWG"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Yanga",
+          "url": "https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr"
+        },
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572866,
+      "name": "You Are The One (Live at Heartfelt Arena, December 2025) (feat. Yanga & Ntokozo Mbambo)",
+      "url": "https://open.spotify.com/track/7bLdVqTgfe3BPBHj7Q6Roi"
     },
     {
       "album": {
@@ -16712,7 +16884,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 295687,
       "name": "Your Presence",
       "url": "https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6"

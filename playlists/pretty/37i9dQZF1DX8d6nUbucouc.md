@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,613 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,624 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sukkel Voor De Liefde](https://open.spotify.com/track/0XMk2QBBZKmfNBI6LRBoDX) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Slapeloze Nachten](https://open.spotify.com/album/1HFoz1ACfQuTwhV9xwRAgL) | 3:27 |
 | 2 | [De Leven](https://open.spotify.com/track/6bO3Bdcna0RoBTIdm5j3Wm) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [De Leven](https://open.spotify.com/album/2nCgOxYbaXgLlnnPAVwp9o) | 3:53 |
-| 3 | [Wolken](https://open.spotify.com/track/0onMpCJYPxkphLfHjPEaLr) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:47 |
-| 4 | [Zoveel Stress](https://open.spotify.com/track/68gkB9GBHeTotKGqtPMGUX) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Mixtape 2, Rap 'N Borie](https://open.spotify.com/album/5XtKjZcO6XO1OiCuONGyJS) | 4:22 |
+| 3 | [Zoveel Stress](https://open.spotify.com/track/68gkB9GBHeTotKGqtPMGUX) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Mixtape 2, Rap 'N Borie](https://open.spotify.com/album/5XtKjZcO6XO1OiCuONGyJS) | 4:22 |
+| 4 | [Wolken](https://open.spotify.com/track/0onMpCJYPxkphLfHjPEaLr) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:47 |
 | 5 | [Replay](https://open.spotify.com/track/51W4oxlhGggEUa2CPDnlix) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Papierwerk](https://open.spotify.com/album/4eE6K4BieWnK08jWexTF9q) | 3:12 |
 | 6 | [Slaap](https://open.spotify.com/track/4pdhkd4q0efLlNXGFWHR99) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:32 |
 | 7 | [Nieuwe Dag](https://open.spotify.com/track/7gq3uwW3kjZFupbrOtLvxQ) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:46 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 88 | [Generaal](https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC) | [Opgeduveld](https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz) | [Opgeduveld](https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL) | 4:23 |
 | 89 | [Punt](https://open.spotify.com/track/48CfE8EAxOnx0OlWz51Zv5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 3:40 |
 | 90 | [Ik Ben De Man](https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz) | [Spookrijders](https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA) | [Klokkenluiders Van Amsterdam](https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB) | 4:49 |
-| 91 | [Kleine Jongen \(feat\. Def P, Jiggy Dje & Diggy Dex\)](https://open.spotify.com/track/42gIzFKsrPhWfcbeSpQ7KL) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs) | [Kleine Jongen \(feat\. Diggy Dex, Def P & Jiggy Dje\)](https://open.spotify.com/album/2IE9K1EraYA3Vo7TaAeAEq) | 3:27 |
-| 92 | [Steppin' On My Rhyme \(feat\. Tienus\)](https://open.spotify.com/track/5d1XqlMborBiMmqWZDqpuO) | [Skiggy Rapz](https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR), [Tienus](https://open.spotify.com/artist/5CurgiE0DjD3FHtxlhOqXu) | [Bang To The Boogie EP](https://open.spotify.com/album/1VvBY6dt0TkENNXDL5xGgx) | 4:28 |
+| 91 | [Steppin' On My Rhyme \(feat\. Tienus\)](https://open.spotify.com/track/5d1XqlMborBiMmqWZDqpuO) | [Skiggy Rapz](https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR), [Tienus](https://open.spotify.com/artist/5CurgiE0DjD3FHtxlhOqXu) | [Bang To The Boogie EP](https://open.spotify.com/album/1VvBY6dt0TkENNXDL5xGgx) | 4:28 |
+| 92 | [Kleine Jongen \(feat\. Def P, Jiggy Dje & Diggy Dex\)](https://open.spotify.com/track/42gIzFKsrPhWfcbeSpQ7KL) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs) | [Kleine Jongen \(feat\. Diggy Dex, Def P & Jiggy Dje\)](https://open.spotify.com/album/2IE9K1EraYA3Vo7TaAeAEq) | 3:27 |
 | 93 | [Open Boek](https://open.spotify.com/track/2BKwNs7h8162cQuioUrXna) | [Wudstik](https://open.spotify.com/artist/4673XVOYba8vZe6hHoMeW3) | [De Flow](https://open.spotify.com/album/0RWtYPQDhfkuHho2NvjM2a) | 4:09 |
 | 94 | [Algemeen Beskaafd Nederlanz](https://open.spotify.com/track/40GmG8Co0NUx1TEoTTXGTL) | [Def P](https://open.spotify.com/artist/4HNUxIxhI9WqhksWEbgkDV), [ABN](https://open.spotify.com/artist/6jCyFDEZb6Fep4FNiDVLi9) | [Algemeen Beskaafd Nederlanz](https://open.spotify.com/album/7C2SA1EWbV9nNSneLx4eiU) | 3:49 |
 | 95 | [Fock Wachten](https://open.spotify.com/track/3i3HOILuSTWdthmqMljJIg) | [Reverse](https://open.spotify.com/artist/4B4ON3QQ4AoObbF1jGOzJK), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Fock Wachten](https://open.spotify.com/album/3b5abxsd9L298UGFz8i3o2) | 3:48 |

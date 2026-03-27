@@ -4,7 +4,7 @@
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 14 min
+108 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Beer Song \(feat\. Lainey Wilson, Chase Rice & Granger Smith\)](https://open.spotify.com/track/2knMiXaeKybZGQtWUd8TJB) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Beer Song \(feat\. Lainey Wilson, Chase Rice & Granger Smith\)](https://open.spotify.com/album/0ad8YULS4johbf2s4lw15n) | 3:31 | 2023-09-15 | 2024-07-23 |
 | [Beer Song \(feat\. Lainey Wilson, Chase Rice & Granger Smith\)](https://open.spotify.com/track/6syL6trhY0U7rclABd9HPF) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:31 | 2024-07-23 | 2024-09-14 |
 | [Before You Leave \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7hxMp3wuYWiNzC8ZKn7ztX) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Almost Home](https://open.spotify.com/album/0oSRAV11bGT9ymZKpcwUK0) | 3:41 | 2025-03-23 | 2025-09-01 |
-| [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 | 2025-04-06 |  |
+| [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 | 2025-04-06 | 2026-03-27 |
 | [Breakin' Your Heart](https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:57 | 2023-09-15 |  |
 | [Broken Hearts Still Beat](https://open.spotify.com/track/6nM3c64Gvk5LlOmcRhNbdh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 2:48 | 2024-08-25 | 2025-10-15 |
 | [Call A Cowboy](https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-08-25 |  |
@@ -83,6 +83,7 @@
 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 | 2025-05-25 |  |
 | [Straight Up Sideways](https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 2:56 | 2023-09-15 | 2023-12-14 |
 | [Straight Up Sideways](https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:56 | 2023-12-13 |  |
+| [They Never Do](https://open.spotify.com/track/3S8BHpy4oUrAPLcasgutWL) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [They Never Do](https://open.spotify.com/album/6PJQSHRZtBZ0pRegTZcewz) | 5:01 | 2026-03-27 |  |
 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 | 2023-09-15 | 2024-07-23 |
 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 2:59 | 2024-07-23 |  |
 | [Things A Man Oughta Know](https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:23 | 2023-12-13 |  |

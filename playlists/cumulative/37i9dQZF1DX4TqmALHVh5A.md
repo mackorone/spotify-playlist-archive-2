@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Mitty
+> La scène française branchée sur courant alternatif\. Photo : Blaame
 
-455 songs - 23 hr 55 min
+458 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 | 2025-04-24 | 2025-10-11 |
 | [Cours dans la forêt](https://open.spotify.com/track/1cAeZkMEGQz8xU5PPecMUx) | [No Sex Last Night](https://open.spotify.com/artist/4OwWT91x4jWdIGWqKnUH6z) | [Cours dans la forêt](https://open.spotify.com/album/7HKEwSTgjQyccEX7T2j42e) | 3:20 | 2024-10-24 | 2025-03-21 |
 | [Cramé](https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Chahu](https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy) | [Cramé](https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B) | 3:00 | 2025-02-13 | 2025-06-13 |
+| [CRAZY](https://open.spotify.com/track/2bgvaT8tWrRFKUdq5YcQ1q) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [CRAZY](https://open.spotify.com/album/1WaPwxnP5bXaQOhLPZRHan) | 2:15 | 2026-03-26 |  |
 | [crever toute la nuit](https://open.spotify.com/track/70JwcaOgUCOqZfZ9jMaKjm) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [crever toute la nuit](https://open.spotify.com/album/49PTTEem5m1njsHXx9QijX) | 2:01 | 2025-12-11 | 2026-02-20 |
 | [CŒUR TITANE](https://open.spotify.com/track/1UfqVe7OZltMAJxyvkoLw7) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [CŒUR TITANE](https://open.spotify.com/album/0kmPpZo26WeThAFctGflS6) | 3:36 | 2026-03-05 |  |
 | [Dania](https://open.spotify.com/track/4PjbnxON54kfrRtur51R8L) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Dania](https://open.spotify.com/album/5zBWA42QHQwCuroHrhwCCB) | 2:15 | 2025-06-12 | 2025-11-07 |
@@ -108,7 +109,7 @@
 | [Deeper](https://open.spotify.com/track/62YSJXvarbaTjC6S7jHzl0) | [Sure](https://open.spotify.com/artist/5yrXtZYureEFlY57R4KW44) | [Deeper](https://open.spotify.com/album/7CeRpRTzRuAyCmzcfdWCPW) | 3:59 | 2024-11-28 | 2025-03-28 |
 | [Des bêtises \(part I\)](https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Des bêtises \(part I\)](https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk) | 2:32 | 2025-07-10 | 2025-09-12 |
 | [Dis\(t\)dance](https://open.spotify.com/track/3ij2QXYi7ybKR2BZB744zb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Dis\(t\)dance](https://open.spotify.com/album/3cvbeVC5aHjypN86sH652F) | 3:17 | 2024-12-12 | 2025-04-11 |
-| [Distancer](https://open.spotify.com/track/6jRXFZfoodiKfSTbfWXxhG) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Distancer](https://open.spotify.com/album/7qr1UZqCBwaBUomxmnNBMg) | 3:25 | 2025-12-18 |  |
+| [Distancer](https://open.spotify.com/track/6jRXFZfoodiKfSTbfWXxhG) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Distancer](https://open.spotify.com/album/7qr1UZqCBwaBUomxmnNBMg) | 3:25 | 2025-12-18 | 2026-03-27 |
 | [Distraction](https://open.spotify.com/track/7atWzGuz6MT8vaGQX5kdwp) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Distraction](https://open.spotify.com/album/6TM06ZS2PtNj6XB6g3LAdO) | 3:37 | 2025-11-13 | 2026-02-20 |
 | [Docteur](https://open.spotify.com/track/5K39u8ZMvdLM0ca37Cig8S) | [Télépagaille](https://open.spotify.com/artist/7xSQWmtIrYPK9Nw49pkrZ8) | [Traction](https://open.spotify.com/album/7LiCC0Nft1rvcw5EBuhPFz) | 3:13 | 2024-11-07 | 2025-02-14 |
 | [Double d'amour](https://open.spotify.com/track/4MV20WxnAF2PkykkQgvADb) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Double d'amour](https://open.spotify.com/album/23ixV4QI4HNkbR9yXC7b1i) | 2:47 | 2025-10-10 | 2025-12-05 |
@@ -124,7 +125,7 @@
 | [ELLE TE RESSEMBLE](https://open.spotify.com/track/6h6ZIzimyrL4eqdGxL8J0y) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [ELLE TE RESSEMBLE](https://open.spotify.com/album/77qo6YvBhlwwnCzmvi2I1n) | 2:50 | 2026-03-05 |  |
 | [En boucle](https://open.spotify.com/track/1Yxhse5LJNZwFmk9YJsxDD) | [Jacques & Jacques](https://open.spotify.com/artist/0vvht6oo0XTtRlGppbR8xg) | [L'Album](https://open.spotify.com/album/61BkGNYVRTdXtdbOyEKEB3) | 3:03 | 2025-04-10 | 2025-09-19 |
 | [en ce moment](https://open.spotify.com/track/4FPNM0pmF28TTWsj4h7MZi) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [en ce moment](https://open.spotify.com/album/2RQjiqh0iZdSOtn6m95eBK) | 1:50 | 2025-04-24 | 2025-09-26 |
-| [En Sentido Contrario](https://open.spotify.com/track/4khRClTR8t347HO18rAOmf) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [En Sentido Contrario](https://open.spotify.com/album/25hA2iBqLcVIFSBEPZSVER) | 3:13 | 2026-01-08 |  |
+| [En Sentido Contrario](https://open.spotify.com/track/4khRClTR8t347HO18rAOmf) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [En Sentido Contrario](https://open.spotify.com/album/25hA2iBqLcVIFSBEPZSVER) | 3:13 | 2026-01-08 | 2026-03-27 |
 | [Encore](https://open.spotify.com/track/0kEJMP9Dtn4BV6oBQt2STI) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [ENCORE](https://open.spotify.com/album/1EK3ArOlQEaQCqBOlx59V0) | 1:57 | 2025-03-13 | 2025-06-06 |
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
 | [Encore](https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Encore](https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq) | 3:02 | 2024-05-16 | 2024-09-13 |
@@ -140,6 +141,7 @@
 | [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 | 2025-11-13 | 2026-02-13 |
 | [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
 | [Focused](https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq) | [PAMELA](https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja) | [Focused](https://open.spotify.com/album/4sbsFxdZAZuiy8Iu6leRe7) | 3:06 | 2024-10-17 | 2025-03-14 |
+| [For You](https://open.spotify.com/track/26mrGVfb3bbXUP1ktG4oNZ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g) | [Décollage](https://open.spotify.com/album/7gmQgiup3PRcGbw97xelQH) | 2:43 | 2026-03-26 |  |
 | [FORMIDABLE](https://open.spotify.com/track/2WNZc9WarkNEsdj5r5KZzj) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ULTRAVIOLENT](https://open.spotify.com/album/5hBCK5YfYcwNN7kFECULiA) | 2:20 | 2025-11-20 | 2026-01-16 |
 | [Fortune](https://open.spotify.com/track/309ebGLU8IFokDjlcDdHgV) | [Dead Chic](https://open.spotify.com/artist/4hCjCdMZF65nKTdjsPUvfh) | [Fortune](https://open.spotify.com/album/1oIAdZXowgU2fj6rmKKqMp) | 3:05 | 2024-10-10 | 2025-03-07 |
 | [garder le sourire](https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [garder le sourire](https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8) | 2:41 | 2024-05-16 | 2024-11-15 |
@@ -249,7 +251,7 @@
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
 | [Les garçons et les filles](https://open.spotify.com/track/2QeDqkNlNlT3pVd8nAVyrE) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les garçons et les filles](https://open.spotify.com/album/7rSK2XjJX1ShoiaBhhbNlk) | 3:35 | 2025-10-10 | 2025-12-19 |
 | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/album/3ATPhog7ZvQNERcWSvbQnQ) | 3:36 | 2025-02-27 | 2025-07-05 |
-| [Les limbes](https://open.spotify.com/track/3qg2qAGEgFVPjov9Rx9fb8) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Les limbes](https://open.spotify.com/album/1c9Y0czH9pqBVvjZyxL5rH) | 2:34 | 2025-12-18 |  |
+| [Les limbes](https://open.spotify.com/track/3qg2qAGEgFVPjov9Rx9fb8) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Les limbes](https://open.spotify.com/album/1c9Y0czH9pqBVvjZyxL5rH) | 2:34 | 2025-12-18 | 2026-03-27 |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-11-22 |
 | [Love Sixties](https://open.spotify.com/track/18YUpvNqYdKV9pYynF7WiP) | [PETITE](https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO) | [PETITE](https://open.spotify.com/album/7JHvaqoKxRc3jFlXGD6be0) | 3:18 | 2025-02-13 | 2025-06-06 |
@@ -451,6 +453,7 @@
 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 | 2023-09-28 | 2023-10-27 |
 | [Wreckin' My Soul \(Dance Around The Fire\)](https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK) | [Theodora](https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2) | [Wreckin' My Soul \(Dance Around The Fire\)](https://open.spotify.com/album/2a1PDX84UYfgEHiWVsbl54) | 3:39 | 2024-06-27 | 2024-11-29 |
 | [Xanax mon amour](https://open.spotify.com/track/6FvzF6lcbZw1W3L0Tn4dD3) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Xanax mon amour](https://open.spotify.com/album/46OTJBJw8pyI1SRtTjePOt) | 2:58 | 2025-11-20 | 2026-02-20 |
+| [Y'a Quoi](https://open.spotify.com/track/1w6kUNvQFldF0bm4WSVVg2) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Y'a Quoi](https://open.spotify.com/album/07R3fl5CTughBLkCiWsz3t) | 2:20 | 2026-03-26 |  |
 | [YA RIEN À FAIRE \(p\*\*\*\*\*\)](https://open.spotify.com/track/1j9BL0fKs460ujdeGxFD2I) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [YA RIEN À FAIRE \(p\*\*\*\*\*\)](https://open.spotify.com/album/2BaH4VEuNj8O5cDgmlVi7S) | 3:07 | 2026-02-19 |  |
 | [Z](https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/3xE9Bn8qRkX8JKJl0IdQJI) | 2:59 | 2024-03-21 | 2024-04-19 |
 | [Z](https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye) | 2:59 | 2024-03-21 | 2024-10-11 |

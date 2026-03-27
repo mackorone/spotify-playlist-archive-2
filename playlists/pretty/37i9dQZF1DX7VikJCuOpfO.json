@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar \ud83d\udcf8",
-  "num_followers": 367024,
+  "num_followers": 367034,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
-        }
-      ],
-      "duration_ms": 227338,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "Me Retir\u00e9",
         "url": "https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 124302,
       "name": "Me Retir\u00e9",
       "url": "https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        }
+      ],
+      "duration_ms": 227338,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 149569,
       "name": "\u2060Cuatro Caminos",
       "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "No soy para ti",
         "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 124785,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
-      },
-      "artists": [
-        {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
-        }
-      ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/1SrgjuCekkVs95avp3jG2I"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 180624,
       "name": "Enamorado Y Feliz",
       "url": "https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
-        "name": "Se Me Sigue Olvidando",
-        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        },
-        {
-          "name": "Posadas",
-          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
-        }
-      ],
-      "duration_ms": 179566,
-      "name": "Se Me Sigue Olvidando",
-      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -791,6 +771,26 @@
       "duration_ms": 173291,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Se Me Sigue Olvidando",
+        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        },
+        {
+          "name": "Posadas",
+          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
+        }
+      ],
+      "duration_ms": 179566,
+      "name": "Se Me Sigue Olvidando",
+      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Playa Sola",
-        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
-      },
-      "artists": [
-        {
-          "name": "Jessi Valente",
-          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
-        }
-      ],
-      "duration_ms": 164460,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "Le Voy a Pedir a Dios",
         "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 174329,
       "name": "Le Voy a Pedir a Dios",
       "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Playa Sola",
+        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
+      },
+      "artists": [
+        {
+          "name": "Jessi Valente",
+          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
+        }
+      ],
+      "duration_ms": 164460,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Se te olvid\u00f3",
-        "url": "https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm"
-      },
-      "artists": [
-        {
-          "name": "JUAN MACI",
-          "url": "https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Se te olvid\u00f3",
-      "url": "https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 167133,
       "name": "Dame un Beso",
       "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Se te olvid\u00f3",
+        "url": "https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm"
+      },
+      "artists": [
+        {
+          "name": "JUAN MACI",
+          "url": "https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Se te olvid\u00f3",
+      "url": "https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Mariachi y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02"
-      },
-      "artists": [
-        {
-          "name": "Los del Norte\u00f1o Sax",
-          "url": "https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB"
-        }
-      ],
-      "duration_ms": 198431,
-      "name": "Golpe Inesperado",
-      "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "Mi gran pa\u00eds",
         "url": "https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 177000,
       "name": "Mi gran pa\u00eds",
       "url": "https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Mariachi y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02"
+      },
+      "artists": [
+        {
+          "name": "Los del Norte\u00f1o Sax",
+          "url": "https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB"
+        }
+      ],
+      "duration_ms": 198431,
+      "name": "Golpe Inesperado",
+      "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
     },
     {
       "added_at": "2026-03-20 06:00:09",

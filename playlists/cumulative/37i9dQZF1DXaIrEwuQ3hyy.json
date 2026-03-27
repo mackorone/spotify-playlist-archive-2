@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Anywhere & Everywhere EP",
+        "url": "https://open.spotify.com/album/6gZ5gFFMlGGBt3YZzuR8oP"
+      },
+      "artists": [
+        {
+          "name": "Max Allais",
+          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149007,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/1FiSZZWBeDNKcPqtS9dkh3"
+    },
+    {
+      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 190093,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w"
@@ -1338,6 +1356,24 @@
       "duration_ms": 145910,
       "name": "effort in",
       "url": "https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj"
+    },
+    {
+      "album": {
+        "name": "Empty Of You",
+        "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
+      },
+      "artists": [
+        {
+          "name": "Dirty Blond",
+          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181181,
+      "name": "Empty Of You",
+      "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
     },
     {
       "album": {
@@ -1916,7 +1952,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 206680,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe"
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 132000,
       "name": "kopfzerf\u00e4llt_demo",
       "url": "https://open.spotify.com/track/4NOoMFCS89fnyqNkYQjlkx"
@@ -2666,6 +2702,28 @@
       "duration_ms": 207036,
       "name": "Like a Song",
       "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
+    },
+    {
+      "album": {
+        "name": "Listless",
+        "url": "https://open.spotify.com/album/7oausoXrCm5o0zO4idpecm"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Evgeny Grinko",
+          "url": "https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180407,
+      "name": "Listless",
+      "url": "https://open.spotify.com/track/7AQZ8y4wkeS4FT0uyTwpZ0"
     },
     {
       "album": {
@@ -3185,6 +3243,36 @@
     },
     {
       "album": {
+        "name": "My Man & Me",
+        "url": "https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        },
+        {
+          "name": "Slim Gabriel",
+          "url": "https://open.spotify.com/artist/2V1pidmyk9HpSXo1CvxxwI"
+        },
+        {
+          "name": "Darren Jones",
+          "url": "https://open.spotify.com/artist/4tUPPW4XEPUuQ83r89er8G"
+        },
+        {
+          "name": "Sam Every",
+          "url": "https://open.spotify.com/artist/6sLx1QhilPrtx51Mh5wMJv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "My Man & Me",
+      "url": "https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf"
+    },
+    {
+      "album": {
         "name": "M\u00e4rchenwald",
         "url": "https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz"
       },
@@ -3218,7 +3306,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 192516,
       "name": "Needed More",
       "url": "https://open.spotify.com/track/21ljmvcjmCpR2sjLAWLYOR"
@@ -3838,7 +3926,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 192989,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
@@ -4188,7 +4276,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 189706,
       "name": "she goes",
       "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
@@ -5147,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+    },
+    {
+      "album": {
         "name": "this is what autumn feels like",
         "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
@@ -5456,7 +5562,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 157055,
       "name": "u made a smart girl dumb!!",
       "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
@@ -5554,7 +5660,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
@@ -5788,7 +5894,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 226283,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"

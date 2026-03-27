@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: ANOTR
+> The UK's biggest dance playlist! Cover: James Hype
 
-741 songs - 1 day 14 hr 31 min
+742 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-16 | 2025-02-21 |
 | [Never Let You Go](https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g) | 3:01 | 2026-02-06 |  |
 | [Never Miss A Beat](https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [Never Miss A Beat](https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC) | 2:31 | 2023-03-17 | 2023-09-08 |
+| [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-03-27 |  |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-10 | 2024-06-21 |
 | [Night Drift](https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Night Drift](https://open.spotify.com/album/6smxthEq12e5YqZyMSVWHz) | 3:11 | 2023-03-08 | 2023-03-09 |
 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 | 2022-02-11 | 2022-03-12 |
@@ -611,7 +612,7 @@
 | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Mortimer](https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX) | 3:15 | 2022-03-08 | 2022-03-10 |
 | [Stan Smith](https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC) | 3:55 | 2022-02-25 | 2022-03-12 |
 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-29 | 2025-11-28 |
-| [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-04-10 |  |
+| [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-04-10 | 2026-03-27 |
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-05-19 | 2022-09-09 |
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-14 | 2022-10-07 |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-03-09 | 2024-08-06 |

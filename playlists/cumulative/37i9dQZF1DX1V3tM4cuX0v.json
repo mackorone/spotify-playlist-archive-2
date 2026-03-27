@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MAX BARSKIH",
+  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: BTS",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -2887,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
+        "url": "https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182035,
+      "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
+      "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"
+    },
+    {
+      "album": {
         "name": "\u041f\u0456\u0432\u043e\u043d\u0456\u0457",
         "url": "https://open.spotify.com/album/6CJD937GwNOJDyPgDwaron"
       },
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 121558,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"

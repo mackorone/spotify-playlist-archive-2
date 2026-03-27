@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143346,
+  "num_followers": 143356,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 199909,
+      "name": "Did Life Work Out for You?",
+      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "Snowpath",
         "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 199909,
-      "name": "Did Life Work Out for You?",
-      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
         }
       ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Dog (everybody learns)",
-        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
       "artists": [
         {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 193212,
-      "name": "Dog (everybody learns)",
-      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -691,22 +691,6 @@
       "duration_ms": 134581,
       "name": "Tu reviendras",
       "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -743,6 +727,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Saving Face",
-        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+        "name": "La lumi\u00e8re",
+        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
       },
       "artists": [
         {
-          "name": "Olivia Khoury",
-          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 241870,
-      "name": "Saving Face",
-      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
+      "duration_ms": 240485,
+      "name": "La lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "Eldorado (Acoustique)",
         "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 197749,
       "name": "Eldorado - Acoustique",
       "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "I took off my heels",
-        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
-      },
-      "artists": [
-        {
-          "name": "Avery Jane",
-          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "I took off my heels",
-      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Altogether Unaccompanied, Vol. V",
         "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 305185,
       "name": "Bigger Pieces",
       "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "Sailors",
+        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 241462,
+      "name": "Sailors",
+      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Sailors",
-        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
       },
       "artists": [
         {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        },
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
         }
       ],
-      "duration_ms": 241462,
-      "name": "Sailors",
-      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "La saison est finie",
+        "url": "https://open.spotify.com/album/5QtzabOnL8EGEwM6FiFMkB"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "La saison est finie",
+      "url": "https://open.spotify.com/track/2LqwwxfT2oKimMNG5KvtUI"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "Islands in the Stream",
         "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
       },
@@ -1471,6 +1487,22 @@
       "duration_ms": 194699,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
+      },
+      "artists": [
+        {
+          "name": "Cath Darbouze",
+          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
+        }
+      ],
+      "duration_ms": 207318,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1491,22 +1523,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "La saison est finie",
-        "url": "https://open.spotify.com/album/5QtzabOnL8EGEwM6FiFMkB"
-      },
-      "artists": [
-        {
-          "name": "Laurence Castera",
-          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "La saison est finie",
-      "url": "https://open.spotify.com/track/2LqwwxfT2oKimMNG5KvtUI"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Jacques",
         "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 207795,
       "name": "Jacques",
       "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
-      },
-      "artists": [
-        {
-          "name": "Cath Darbouze",
-          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
-        }
-      ],
-      "duration_ms": 207318,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Vendredi",
-        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
       "artists": [
         {
-          "name": "Gabriel Desjardins",
-          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
-        },
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 186546,
-      "name": "Vendredi",
-      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1607,34 +1603,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+        "name": "Vendredi",
+        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
+          "name": "Gabriel Desjardins",
+          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
+        },
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
         }
       ],
-      "duration_ms": 221690,
-      "name": "Un chant d'amour",
-      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
+      "duration_ms": 186546,
+      "name": "Vendredi",
+      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1671,6 +1655,22 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 221690,
+      "name": "Un chant d'amour",
+      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
     },
     {
       "added_at": "2026-03-20 04:01:39",

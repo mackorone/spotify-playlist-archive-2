@@ -8583,6 +8583,24 @@
     },
     {
       "album": {
+        "name": "LOCAL ART DEALER, Vol. 1",
+        "url": "https://open.spotify.com/album/56lgO3adqzjPejVWsPgsSf"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Down The River",
+      "url": "https://open.spotify.com/track/1zsXogZn4g53dK57TA5k2Q"
+    },
+    {
+      "album": {
         "name": "Downtime",
         "url": "https://open.spotify.com/album/1S0kpyuMCbDMHb7BGL2HL6"
       },
@@ -23689,6 +23707,24 @@
     },
     {
       "album": {
+        "name": "poem",
+        "url": "https://open.spotify.com/album/2cjgbdukgBhR1oCImmK1pc"
+      },
+      "artists": [
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84191,
+      "name": "poem",
+      "url": "https://open.spotify.com/track/2pt1AxEbr3xq5r9x6OfRLl"
+    },
+    {
+      "album": {
         "name": "poison spacegirl!",
         "url": "https://open.spotify.com/album/1TrLITatn8B9YzxPC5Ct8l"
       },
@@ -25086,6 +25122,24 @@
       "duration_ms": 61894,
       "name": "real ones",
       "url": "https://open.spotify.com/track/2m5AZSSZMJGtldtA6wMji4"
+    },
+    {
+      "album": {
+        "name": "HAVE U BN 2 HEAVEN @ NITE?",
+        "url": "https://open.spotify.com/album/3BuIzFRRm9jeLmZlMEbwnj"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "REAL ONES NEVER DIE",
+      "url": "https://open.spotify.com/track/1o15Kj7F3nlLaZNIbjFb4r"
     },
     {
       "album": {
@@ -26624,7 +26678,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 179561,
       "name": "SENEGAMBIA",
       "url": "https://open.spotify.com/track/2Yxi5xjzYw28541eY5xlNu"
@@ -29992,7 +30046,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196436,
       "name": "Sweetest Heart",
       "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
@@ -32754,7 +32808,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 142451,
       "name": "TWENTY SENSATIONS",
       "url": "https://open.spotify.com/track/3gDkef52OXhgDrxlAdcvTK"

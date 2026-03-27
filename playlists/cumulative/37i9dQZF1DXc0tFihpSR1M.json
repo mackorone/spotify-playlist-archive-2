@@ -2081,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "D\u00f8gnrytme",
+        "url": "https://open.spotify.com/album/3yjF4FoEzF4N0rNtuMUDPs"
+      },
+      "artists": [
+        {
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "D\u00f8gnrytme",
+      "url": "https://open.spotify.com/track/6xGdQujsUr5SjbYTDfzvlZ"
+    },
+    {
+      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -4252,7 +4270,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 185155,
       "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
@@ -4970,7 +4988,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 174911,
       "name": "Love Is Like (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 113935,
       "name": "N\u00e5r du danser",
       "url": "https://open.spotify.com/track/1Uay9AIyyiBV1Bh943UsHl"
@@ -8114,7 +8132,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 168298,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
@@ -8341,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Trist Masochist",
+        "url": "https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181237,
+      "name": "Trist Masochist",
+      "url": "https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh"
+    },
+    {
+      "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
       },
@@ -8544,7 +8580,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 144000,
       "name": "UT\u00c5LMODIG",
       "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
@@ -8808,7 +8844,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 196260,
       "name": "Weight of light",
       "url": "https://open.spotify.com/track/1dgBTuMRptCw691pKbNNKp"

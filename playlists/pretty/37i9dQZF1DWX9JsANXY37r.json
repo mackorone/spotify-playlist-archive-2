@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123641,
+  "num_followers": 123653,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
-        "name": "Nossa Chance",
-        "url": "https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 224881,
-      "name": "Nossa Chance",
-      "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
+        "name": "Nossa Chance",
+        "url": "https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 224881,
+      "name": "Nossa Chance",
+      "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
     },
     {
       "added_at": "2025-10-25 00:54:02",

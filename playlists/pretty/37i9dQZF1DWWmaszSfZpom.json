@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 944165,
+  "num_followers": 944180,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/P/Ih9KXuNuhFR+DMDwISI8dFW",
+  "snapshot_id": "AAAAAMrgXHx0/wX/rd4Op4zeEaA4j0bx",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra e YG)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
+        "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
+      },
+      "artists": [
+        {
+          "name": "DJ DN",
+          "url": "https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe"
+        },
+        {
+          "name": "MC Gui Andrade",
+          "url": "https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
+      "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -1287,30 +1311,6 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
-        "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
-      },
-      "artists": [
-        {
-          "name": "DJ DN",
-          "url": "https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe"
-        },
-        {
-          "name": "MC Gui Andrade",
-          "url": "https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e"
-        },
-        {
-          "name": "MC Fahah",
-          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
-      "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
     },
     {
       "added_at": "2023-06-26 14:06:50",

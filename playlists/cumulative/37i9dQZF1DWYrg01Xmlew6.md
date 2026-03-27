@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-594 songs - 1 day 2 hr 56 min
+596 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [BEE](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 | 2024-01-22 |  |
 | [BELLAVITA](https://open.spotify.com/track/7HXMQNo9PAI263JuvzO2OG) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [BELLAVITA](https://open.spotify.com/album/6YvPHTp4Ih9kxCRpBvREvw) | 2:36 | 2025-07-24 | 2025-08-08 |
 | [BENJAMINS \(feat\. MV Killa, Yung Snapp, Lele Blade\)](https://open.spotify.com/track/5fevLKhPKHtyJOtaL9DF67) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 2:49 | 2022-12-15 | 2023-03-07 |
+| [BERLUSCONI](https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [BERLUSCONI](https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K) | 2:06 | 2026-03-26 |  |
 | [BEST FRIENDS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:54 | 2022-05-10 | 2022-09-23 |
 | [BESTIE](https://open.spotify.com/track/5w7CRd0cMtqL8XbEmafl4c) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [BESTIE](https://open.spotify.com/album/4bwubRxR4a2VlLnCiIc1HA) | 2:29 | 2024-12-05 | 2025-01-17 |
 | [BIRKIN](https://open.spotify.com/track/3ClK1WV7hlIzDy82jpmsRX) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [BIRKIN](https://open.spotify.com/album/0tpd9Qp42LKZ5r2gV2K3pU) | 2:11 | 2026-03-05 |  |
@@ -570,6 +571,7 @@
 | [VAC PAZZ \(feat\. Yung Snapp\)](https://open.spotify.com/track/4r3HT3yoRVtkqWPTbNDlG3) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:21 | 2023-04-27 | 2023-07-07 |
 | [Vado Fuori](https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Vado Fuori](https://open.spotify.com/album/4OaeZ07Z64dd2sijgj5jvM) | 2:22 | 2022-06-02 | 2022-07-01 |
 | [Val Na Miserij](https://open.spotify.com/track/3Uz3qWnbqPugLsD3BoHt34) | [Cciro](https://open.spotify.com/artist/51kOPkIhcvnBxEtrQG9jNh) | [Val Na Miserij](https://open.spotify.com/album/3Tn0FR60qjCRHFNt6PKzt4) | 1:22 | 2025-04-17 | 2025-05-16 |
+| [Vallanzasca](https://open.spotify.com/track/2W20JFYn1SWeum3tc8VvDo) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2) | [Vallanzasca](https://open.spotify.com/album/7innyXuv3lBLAqrqV9s4xu) | 2:24 | 2026-03-26 |  |
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-08-20 |  |
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/3PPbAPR5IljfWZmHACBPAY) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/3OVnR5nA6PctoA8zxlayUH) | 3:03 | 2024-08-12 | 2024-09-04 |
 | [Veleno \(feat\. Christian Revo\)](https://open.spotify.com/track/7n7mBEC4n36TNpRW0PhltN) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE), [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Veleno \(feat\. Christian Revo\)](https://open.spotify.com/album/3YvAEDBBmTpNaVUYXwx4uu) | 2:41 | 2025-07-24 | 2025-08-08 |

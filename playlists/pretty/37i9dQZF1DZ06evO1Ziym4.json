@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1570166,
+  "num_followers": 1570361,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAB3n23NfR1KNfPjhOiIuGpl",
+  "snapshot_id": "acMlgAAAAADvn4BKbNfr9Q5j93MdFnmJ",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 238182,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
+      "duration_ms": 235200,
+      "name": "Mama Kin - Live Version",
+      "url": "https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "G N' R Lies",
-        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Mama Kin - Live Version",
-      "url": "https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl"
+      "duration_ms": 238182,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 163118,
+  "num_followers": 163122,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADx0fndBxJqaAZ8TKOaKz9s",
+  "snapshot_id": "acMlgAAAAAAtlkgc/sgFiMBjq/exAjiN",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 229520,
       "name": "Days To Come",
       "url": "https://open.spotify.com/track/1mRTSIs40qa2L7omBzQd1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 306666,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/7hGI1fDfm41LPpg0mo2Vid"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/7hGI1fDfm41LPpg0mo2Vid"
+      "duration_ms": 306666,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": null,
@@ -579,42 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 323773,
-      "name": "If You Stayed Over",
-      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
@@ -635,6 +599,42 @@
       "duration_ms": 250664,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 323773,
+      "name": "If You Stayed Over",
+      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 393533,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/4Uiia5NmkyHEjHLK0IfwVK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lazarus (Adult Swim Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
       },
@@ -875,26 +891,6 @@
       "duration_ms": 65108,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/14AvOFZEbKeBGzwiyUwsBf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nicole Miglis",
-          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
-        }
-      ],
-      "duration_ms": 164490,
-      "name": "Beyond the Sky",
-      "url": "https://open.spotify.com/track/7H5qbikaaCPS1BcuivRZSB"
     }
   ],
   "unique_name": "This Is Bonobo",

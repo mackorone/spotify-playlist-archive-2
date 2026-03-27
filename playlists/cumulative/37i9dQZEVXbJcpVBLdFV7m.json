@@ -13014,7 +13014,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 313638,
       "name": "Fire In My Heart",
       "url": "https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z"
@@ -16200,7 +16200,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 81290,
       "name": "Herm\u00e8s 2.0",
       "url": "https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9"
@@ -22810,7 +22810,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 157364,
       "name": "Mafia Style",
       "url": "https://open.spotify.com/track/4UsOAmp0X90RJYI1X4PudN"
@@ -26344,6 +26344,32 @@
       "duration_ms": 195558,
       "name": "Necazuri si suparari - Manea Version",
       "url": "https://open.spotify.com/track/1iRKMLKR6WSvphlWutizC5"
+    },
+    {
+      "album": {
+        "name": "Necazuri \u0219i sup\u0103r\u0103ri (Mare sup\u0103rare)",
+        "url": "https://open.spotify.com/album/6LaLUBUBkXdB8huGwswinl"
+      },
+      "artists": [
+        {
+          "name": "Georgiana Lobont",
+          "url": "https://open.spotify.com/artist/1FHKBoPii3GZjpukDoDs3W"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "Necazuri \u0219i sup\u0103r\u0103ri (Mare sup\u0103rare)",
+      "url": "https://open.spotify.com/track/2r0D5ZfNP7vTUpGZnmg6g4"
     },
     {
       "album": {
@@ -31612,7 +31638,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -31630,7 +31656,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -38530,7 +38556,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 233149,
       "name": "Top Di\u00e9sel",
       "url": "https://open.spotify.com/track/5RfTPL4bd1GgzqxtEgt2NW"
@@ -47068,7 +47094,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/5hVGgwsMo3Q67k2REgWKKD"

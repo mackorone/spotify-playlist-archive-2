@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Station Model Violence",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: media puzzle",
   "name": "Wire",
   "tracks": [
     {
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Echo Grey",
+        "url": "https://open.spotify.com/album/6kjHn8mzu8cAdOE69Kx5Io"
+      },
+      "artists": [
+        {
+          "name": "Fan Girl",
+          "url": "https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265829,
+      "name": "Echo Grey",
+      "url": "https://open.spotify.com/track/5mnxFNPyk5W2iv1DTK3ghe"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
       },
@@ -883,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Glassman",
+      "url": "https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII"
+    },
+    {
+      "album": {
         "name": "gold / fawn",
         "url": "https://open.spotify.com/album/2TOEnmEgLeiozFQcJKats7"
       },
@@ -974,6 +1010,24 @@
       "duration_ms": 250607,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/5EVfMP3tZ8L1c2ple2YnGT"
+    },
+    {
+      "album": {
+        "name": "Station Model Violence",
+        "url": "https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz"
+      },
+      "artists": [
+        {
+          "name": "Station Model Violence",
+          "url": "https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498293,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/1nDlFgDg3b4kYGWr8wEaUV"
     },
     {
       "album": {
@@ -1197,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Knowledge",
+        "url": "https://open.spotify.com/album/6BZwhz1sryzucQvxPXEt8o"
+      },
+      "artists": [
+        {
+          "name": "media puzzle",
+          "url": "https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135569,
+      "name": "Knowledge",
+      "url": "https://open.spotify.com/track/5YZ5PRX0Wuyxwo9PSRKpN7"
+    },
+    {
+      "album": {
         "name": "Landed In A Trap",
         "url": "https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE"
       },
@@ -1252,6 +1324,24 @@
       "duration_ms": 162206,
       "name": "Lapdog",
       "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
+        "name": "Leech",
+        "url": "https://open.spotify.com/album/4v6pUeg5eGETi1Aj9VlwQF"
+      },
+      "artists": [
+        {
+          "name": "Crocodylus",
+          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262416,
+      "name": "Leech",
+      "url": "https://open.spotify.com/track/3EBbanbifx3F1RkgX9fPhB"
     },
     {
       "album": {
@@ -1552,7 +1642,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 147746,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH"
@@ -1588,7 +1678,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 118280,
       "name": "PIG",
       "url": "https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM"
@@ -1606,7 +1696,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 201637,
       "name": "Pigeon",
       "url": "https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok"
@@ -1642,7 +1732,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 198082,
       "name": "PLAINTIVE NATIVE",
       "url": "https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO"
@@ -1766,7 +1856,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 293398,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4JfUcA4mR4qk7bYRuMkPQc"
@@ -1968,7 +2058,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 173128,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9"
@@ -2326,6 +2416,24 @@
       "duration_ms": 159390,
       "name": "Therapy II",
       "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
+    },
+    {
+      "album": {
+        "name": "Things I've Killed",
+        "url": "https://open.spotify.com/album/1xVxEwOcDyW3zIZ8x3eYej"
+      },
+      "artists": [
+        {
+          "name": "Telehealth",
+          "url": "https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170920,
+      "name": "Things I've Killed",
+      "url": "https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR"
     },
     {
       "album": {

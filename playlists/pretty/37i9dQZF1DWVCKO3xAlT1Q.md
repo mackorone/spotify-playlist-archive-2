@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,727 likes - 34 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,797 likes - 34 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 33 | [Just Go](https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD) | [JIVA](https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc) | [Just Go](https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc) | 3:00 |
 | 34 | [Rosa](https://open.spotify.com/track/03Oz6PWplRogAQJgnFuoJ7) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Festival da Canção 2026](https://open.spotify.com/album/3QFJNJbQvlVJ3sPMB1TWrH) | 2:59 |
 
-Snapshot ID: `AAAAAOQg12vwTSQ8SXHH/gujm+IqusM5`
+Snapshot ID: `AAAAAG+K3r4EP2pjGxcSY1JARNhwLRP0`

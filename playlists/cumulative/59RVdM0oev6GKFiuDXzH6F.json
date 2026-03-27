@@ -5345,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "Electro",
+        "url": "https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Electro",
+      "url": "https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3"
+    },
+    {
+      "album": {
         "name": "Elektro",
         "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
       },
@@ -14684,6 +14702,24 @@
       "duration_ms": 169218,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg"
+    },
+    {
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/4MPhN02Pi6NpO9qcDdsGHf"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180140,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41752,
+  "num_followers": 41755,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAABwqPOL88IY5OBCylhzxC4K",
+  "snapshot_id": "acMlgAAAAAD7Mod9oY5zk9GN9BuFhTwE",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 305986,
-      "name": "Promesas No Fallar\u00e1n (En Vivo)",
-      "url": "https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 339673,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 305986,
+      "name": "Promesas No Fallar\u00e1n (En Vivo)",
+      "url": "https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR"
     },
     {
       "added_at": null,

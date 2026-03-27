@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Karun
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Wendy Kay
 
-315 songs - 17 hr 50 min
+316 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Karibia Kidogo](https://open.spotify.com/track/5r2cQj9547u1uMKFhxy1Vq) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Karibia Kidogo](https://open.spotify.com/album/4ay6uxE2sjyGoYs6xE1MAX) | 3:17 | 2025-07-03 |  |
 | [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 | 2025-04-26 |
 | [Kesho Kutwa](https://open.spotify.com/track/2dBLmn1DGGxKwmCnLICUxz) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Ethanal Fire](https://open.spotify.com/album/3F3ebk0jko0faxvASqBo91) | 4:12 | 2025-02-13 | 2025-02-21 |
-| [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 |  |
+| [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 | 2026-03-27 |
 | [Kimbiza](https://open.spotify.com/track/5TJ1BbqzcX1XVtFvHR98mD) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/6ABgs6XJzcvk7uxlpF6TKs) | 3:14 | 2023-09-07 | 2023-11-17 |
 | [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 | 2022-09-22 | 2023-09-13 |
 | [Kitenge](https://open.spotify.com/track/6Xt2YN0KckBlx9wRhZM97M) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/68ZCghHJcYTcaQ7vuxxFyP) | 3:18 | 2025-02-13 | 2025-02-21 |
@@ -251,6 +251,7 @@
 | [Sema Milele](https://open.spotify.com/track/2etocCZTaYXfYFwvd7a3mp) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:16 | 2025-02-13 | 2025-02-21 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-28 | 2022-09-23 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-03-07 |
+| [Shikisha](https://open.spotify.com/track/5opzlJviEP8FcWLL1r7Ix1) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [KARAHA](https://open.spotify.com/album/1gYHMvmhthjuKNe3pZo1eW) | 2:40 | 2026-03-26 |  |
 | [Shuga Mami](https://open.spotify.com/track/3igr48adSH8n7DD8Uuob4m) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Shuga Mami](https://open.spotify.com/album/2V00KW0quSNc1b6QgUNPNY) | 3:38 | 2025-02-13 | 2025-02-21 |
 | [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 | 2025-12-05 |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 | 2023-12-01 |

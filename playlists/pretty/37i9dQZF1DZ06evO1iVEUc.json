@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25809,
+  "num_followers": 25812,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAABDFqFR/H/RP7zQp4yjSQ7i",
+  "snapshot_id": "acMlgAAAAADN5PjVwGsryfcNw/B4RbL2",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 237569,
       "name": "2 Bad Habits",
       "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do What U Gotta Do",
         "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 204080,
       "name": "Do What U Gotta Do",
       "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
+        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
-        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 322360,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -635,26 +635,6 @@
       "duration_ms": 82866,
       "name": "Go Back To Your Life",
       "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Human Stone (feat. Angie Stone)",
-        "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
-      },
-      "artists": [
-        {
-          "name": "KDA",
-          "url": "https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "The Human Stone (feat. Angie Stone)",
-      "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 238220,
       "name": "Gonna Have to Be You",
       "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Human Stone (feat. Angie Stone)",
+        "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
+      },
+      "artists": [
+        {
+          "name": "KDA",
+          "url": "https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 207656,
+      "name": "The Human Stone (feat. Angie Stone)",
+      "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
       },
       "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 268693,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF"
+      "duration_ms": 206786,
+      "name": "I Ain\u2019t Hearin\u2019 U",
+      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unexpected",
-        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
       },
       "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 206786,
-      "name": "I Ain\u2019t Hearin\u2019 U",
-      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
+      "duration_ms": 268693,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF"
     },
     {
       "added_at": null,

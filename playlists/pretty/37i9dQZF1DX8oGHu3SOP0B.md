@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฉลอง 5 ปี EQUAL ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: MILLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,085 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,096 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [กี่ครั้ง](https://open.spotify.com/track/7oS8o4l8HqTinlJKOwEhG4) | [KNOMJEAN](https://open.spotify.com/artist/7AV6Ugsnsm9WXDVQWVcg1F) | [กี่ครั้ง](https://open.spotify.com/album/58RBnFeP5ShmbUWmSiiu4b) | 3:35 |
 | 50 | [Heart Sticker](https://open.spotify.com/track/2sRbfdIYJkDXu4HLxhdTp8) | [Ployé](https://open.spotify.com/artist/0zPfjHRfLOlqXABqNNJyZh) | [Heart Sticker](https://open.spotify.com/album/453kOneSxsY5rkRMoS2zS6) | 3:21 |
 
-Snapshot ID: `AAAAAA6ecArnQnOegQlN8u1peO3qKzWq`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

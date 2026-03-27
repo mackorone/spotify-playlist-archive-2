@@ -2,7 +2,7 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Muse au top des meilleurs morceaux rock du moment.
+> Guns N' Roses au top des meilleurs morceaux rock du moment.
 
 467 songs - 1 day 2 hr 42 min
 

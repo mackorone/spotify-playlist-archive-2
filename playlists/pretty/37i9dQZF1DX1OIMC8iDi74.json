@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with EVAN GIIA & Pauline Herr",
-  "num_followers": 881563,
+  "num_followers": 881571,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 108669,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/1UOGgRO18kY2BlIRWxw0jl"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 167464,
       "name": "LUV",
       "url": "https://open.spotify.com/track/3lG17Ce9saHLCVPsMlzCV4"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 108669,
-      "name": "No Brakes",
-      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "ADRENOCHROME",
+        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "HACKING THE GATE",
+      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 171000,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "ADRENOCHROME",
-        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "HACKING THE GATE",
-      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
       },
       "artists": [
         {
@@ -1468,25 +1468,9 @@
           "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
-      },
-      "artists": [
-        {
-          "name": "Control Freak",
-          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
+      "duration_ms": 179142,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "BITE (MY STYLE)",
         "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
       },
@@ -1519,42 +1519,6 @@
       "duration_ms": 148514,
       "name": "BITE (MY STYLE)",
       "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "Lazarus Rise",
-        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
-      },
-      "artists": [
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        },
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Lazarus Rise",
-      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1579,6 +1543,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "ADRENOCHROME : ZERO",
         "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
       },
@@ -1595,18 +1575,38 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E"
+        "name": "Lazarus Rise",
+        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
       },
       "artists": [
         {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        },
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         }
       ],
-      "duration_ms": 188571,
-      "name": "CIRCLES",
-      "url": "https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS"
+      "duration_ms": 192727,
+      "name": "Lazarus Rise",
+      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "Get Off The Internet",
-        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E"
       },
       "artists": [
         {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
         }
       ],
-      "duration_ms": 144000,
-      "name": "EGOTRIP",
-      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
+      "duration_ms": 188571,
+      "name": "CIRCLES",
+      "url": "https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "iwannaliveinadream",
-        "url": "https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "iwannaliveinadream",
-      "url": "https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
         "name": "Keep It Moving",
         "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 160551,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
+        "name": "iwannaliveinadream",
+        "url": "https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "iwannaliveinadream",
+      "url": "https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "need2know",
-        "url": "https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu"
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
         }
       ],
-      "duration_ms": 228691,
-      "name": "need2know",
-      "url": "https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h"
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     }
   ],
   "unique_name": "Trap Mojito",

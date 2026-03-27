@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-14",
-  "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Hannah Laing",
+  "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Marlon Hoffstadt",
   "name": "rave",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 263306,
       "name": "1, 2, KICK!",
       "url": "https://open.spotify.com/track/0hxWy4e9TmYneZBHILgrnf"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 316566,
       "name": "an apple a day",
       "url": "https://open.spotify.com/track/08IKQb7qhq6BnZDd8lDO9O"
@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
+    },
+    {
+      "album": {
         "name": "Bricks",
         "url": "https://open.spotify.com/album/0uR3aQIZ8a9s3bFdfSg3KX"
       },
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 130825,
       "name": "CALL ME",
       "url": "https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno"
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 230427,
       "name": "Disturbing Paradise",
       "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
@@ -3126,6 +3144,24 @@
       "duration_ms": 221900,
       "name": "Dopamine - Marlon Hoffstadt Remix",
       "url": "https://open.spotify.com/track/1PgKzmS3ocldtTMqnEkn8Y"
+    },
+    {
+      "album": {
+        "name": "double L",
+        "url": "https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z"
+      },
+      "artists": [
+        {
+          "name": "Anna Ullrich",
+          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "double L",
+      "url": "https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby"
     },
     {
       "album": {
@@ -6099,6 +6135,32 @@
     },
     {
       "album": {
+        "name": "J'Adore Techno",
+        "url": "https://open.spotify.com/album/1dYxpfY1sSzEkbTMBNr5Ar"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        },
+        {
+          "name": "Krimsonn",
+          "url": "https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126562,
+      "name": "J'Adore Techno",
+      "url": "https://open.spotify.com/track/4ONkQFkHF5d1d8dEBiN1XD"
+    },
+    {
+      "album": {
         "name": "ULTRAKUNST",
         "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
       },
@@ -8032,7 +8094,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 249600,
       "name": "Music Never Lies",
       "url": "https://open.spotify.com/track/03L7OZovsBbQmCGMf4t8K4"
@@ -8386,6 +8448,24 @@
       "duration_ms": 167263,
       "name": "NETFLIX & KILL",
       "url": "https://open.spotify.com/track/7Fx8c3lhRQZesFHgdFjXbN"
+    },
+    {
+      "album": {
+        "name": "Never Could Let Go",
+        "url": "https://open.spotify.com/album/5cp2xb0FOg9CSIumu6fJCp"
+      },
+      "artists": [
+        {
+          "name": "LEVT",
+          "url": "https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Never Could Let Go",
+      "url": "https://open.spotify.com/track/590fxYQfaQ2PgCVnHz8QlW"
     },
     {
       "album": {
@@ -8914,7 +8994,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 193655,
       "name": "P.U.M.P",
       "url": "https://open.spotify.com/track/0hvvdKqFRnOah2xujgGjX5"
@@ -10656,7 +10736,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 312525,
       "name": "SIREN SOUND",
       "url": "https://open.spotify.com/track/236HJKgm0TuMoKi3YjrwZd"
@@ -11470,7 +11550,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 274736,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/7HTAQYTyAp4aydtRYZf6S7"
@@ -11877,6 +11957,24 @@
     },
     {
       "album": {
+        "name": "The Sundown",
+        "url": "https://open.spotify.com/album/0Go8qw8gZb9tuYj9UChfsk"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "The Sundown",
+      "url": "https://open.spotify.com/track/4jrTduVWEVJ0tACKisbklO"
+    },
+    {
+      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/0sfNiemV546yezkc0lF66f"
       },
@@ -11910,6 +12008,24 @@
       "duration_ms": 306303,
       "name": "The Wonderlightskin Condition",
       "url": "https://open.spotify.com/track/0o6wBUf9Qj8Vb6IadjsQWv"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/0zrZLUbF1TV5mwUi63qwQh"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144723,
+      "name": "This Goes Like That",
+      "url": "https://open.spotify.com/track/4mVxB2MyU55hd3F46YG6EN"
     },
     {
       "album": {
@@ -12092,7 +12208,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 233846,
       "name": "Toter Schmetterling",
       "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
@@ -12896,7 +13012,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180558,
       "name": "We Like to Party",
       "url": "https://open.spotify.com/track/0PT3LEEbIOMlQPyxdy4eLj"
@@ -12980,7 +13096,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "What Music Felt Like In 2007",
       "url": "https://open.spotify.com/track/2F6ie4adRPCCQquwR03nui"

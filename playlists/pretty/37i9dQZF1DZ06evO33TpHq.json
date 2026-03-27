@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 63050,
+  "num_followers": 63078,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAajXNUTclChvaFuyUuIel2",
+  "snapshot_id": "acMlgAAAAAANsXGWtjwSwG6XDm+mjkvx",
   "tracks": [
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Song Of The Saints (Deluxe)",
+        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Isn't He Good",
-      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+      "duration_ms": 277600,
+      "name": "Flowers (with Jamie MacDonald)",
+      "url": "https://open.spotify.com/track/6wGoOROkXRICGwbj3vrKNm"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints (Deluxe)",
-        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Flowers (with Jamie MacDonald)",
-      "url": "https://open.spotify.com/track/6wGoOROkXRICGwbj3vrKNm"
+      "duration_ms": 258946,
+      "name": "Isn't He Good",
+      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Of Heaven",
-        "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 252624,
-      "name": "People Of Heaven",
-      "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 382684,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People Of Heaven",
+        "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 252624,
+      "name": "People Of Heaven",
+      "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
     },
     {
       "added_at": null,

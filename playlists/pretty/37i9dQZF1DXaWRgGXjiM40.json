@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 952450,
+  "num_followers": 952473,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-03-20 14:57:53",
       "album": {
+        "name": "Intensamente Hoje!",
+        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+    },
+    {
+      "added_at": "2026-03-20 14:57:53",
+      "album": {
         "name": "Sonho - Ao Vivo",
         "url": "https://open.spotify.com/album/324to6aHDVGAatV6pHuVP2"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 185237,
       "name": "Quem Melhor Do Que N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ"
-    },
-    {
-      "added_at": "2026-03-20 14:57:53",
-      "album": {
-        "name": "Intensamente Hoje!",
-        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170459,
-      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
-      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
     },
     {
       "added_at": "2026-03-20 14:57:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Marte in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Khodi in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1478,6 +1478,24 @@
       "duration_ms": 186857,
       "name": "44",
       "url": "https://open.spotify.com/track/1n7ihTuG2hh7sjDVfkBXdt"
+    },
+    {
+      "album": {
+        "name": "440",
+        "url": "https://open.spotify.com/album/0PHXDqGbjE0VOJGuhuQujV"
+      },
+      "artists": [
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157470,
+      "name": "440",
+      "url": "https://open.spotify.com/track/6fSEJV9GWM4lbmuRAhTFOr"
     },
     {
       "album": {
@@ -6446,7 +6464,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 152750,
       "name": "BlitzTank",
       "url": "https://open.spotify.com/track/7vHQrUcJQRwBBpof3gLHVM"
@@ -11006,7 +11024,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 133706,
       "name": "CRAZY TIME",
       "url": "https://open.spotify.com/track/3EPDSnVI0EUuleSckAUli6"
@@ -17419,6 +17437,24 @@
     },
     {
       "album": {
+        "name": "GIOVANE K",
+        "url": "https://open.spotify.com/album/21D5q29NdDolvQzfTpJxYh"
+      },
+      "artists": [
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135737,
+      "name": "GIOVANE K",
+      "url": "https://open.spotify.com/track/4dB7n000x0cP71A4BhWnAu"
+    },
+    {
+      "album": {
         "name": "GIOVANI A MET\u00c0 (feat. Nabi)",
         "url": "https://open.spotify.com/album/35Vj345wTfMPIPrUMin8XF"
       },
@@ -18894,7 +18930,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180363,
       "name": "HAPPINESS",
       "url": "https://open.spotify.com/track/4h5JQTc5HEDYUGRS0dM7pT"
@@ -18912,7 +18948,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 128059,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1xalhr71q5OBGzsesktTxz"
@@ -21748,7 +21784,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 155076,
       "name": "L'Eco Della Montagna",
       "url": "https://open.spotify.com/track/6Srpvd0584CWHdaWMi1ZM4"
@@ -24535,6 +24571,32 @@
     },
     {
       "album": {
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/5bchMYehIlVnri7Hhavvwc"
+      },
+      "artists": [
+        {
+          "name": "Leam",
+          "url": "https://open.spotify.com/artist/5unMeXu4SMNZXy64Ad48VO"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100325,
+      "name": "Majin Bu (feat. Pitta, Macello)",
+      "url": "https://open.spotify.com/track/6aHnsyT08BKO5gOeXby99t"
+    },
+    {
+      "album": {
         "name": "MALADE",
         "url": "https://open.spotify.com/album/3wyuuNzzdJy0f6xMumkmaO"
       },
@@ -26711,6 +26773,32 @@
     },
     {
       "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160563,
+      "name": "MEZZO BIANCO (feat. Sayf)",
+      "url": "https://open.spotify.com/track/5wGwVvKu8zcmHGDfiSXPUD"
+    },
+    {
+      "album": {
         "name": "Mh Ah Ah",
         "url": "https://open.spotify.com/album/1zEEoBK5gEw6JoBlm6Y0sy"
       },
@@ -28100,7 +28188,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 153793,
       "name": "Mosche",
       "url": "https://open.spotify.com/track/1DbzVkn8x4Wlv1vLBoq3FM"
@@ -34105,6 +34193,24 @@
     },
     {
       "album": {
+        "name": "Pois",
+        "url": "https://open.spotify.com/album/6F6tReHV9KrkkZaqzG6cua"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149268,
+      "name": "Pois",
+      "url": "https://open.spotify.com/track/66NEojxeOcA4KttysFvW01"
+    },
+    {
+      "album": {
         "name": "POISON LOVE",
         "url": "https://open.spotify.com/album/39lnQ9icvgnoW7P853aFUR"
       },
@@ -37442,7 +37548,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 192000,
       "name": "ROLEX",
       "url": "https://open.spotify.com/track/7Dv22B9cWZ4BZA9FFriZzs"
@@ -38347,6 +38453,28 @@
     },
     {
       "album": {
+        "name": "SANTINI E SENTINELLE",
+        "url": "https://open.spotify.com/album/4tKNgQVs4EbWNCipNwzG7H"
+      },
+      "artists": [
+        {
+          "name": "Mated",
+          "url": "https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ"
+        },
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130786,
+      "name": "SANTINI E SENTINELLE",
+      "url": "https://open.spotify.com/track/6wIi7mrI20XNWk5Fsy1HF8"
+    },
+    {
+      "album": {
         "name": "Real Talk - 5/6 feat. Tony Boy",
         "url": "https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo"
       },
@@ -38410,6 +38538,24 @@
       "duration_ms": 141346,
       "name": "Santo Peccatore",
       "url": "https://open.spotify.com/track/03XqmI2j4fqRAfiIJuPcbt"
+    },
+    {
+      "album": {
+        "name": "sara",
+        "url": "https://open.spotify.com/album/4fPOeLkjoUyjIMH7wQdUTa"
+      },
+      "artists": [
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150725,
+      "name": "sara",
+      "url": "https://open.spotify.com/track/3745a4rbog9BfZy7wxDe97"
     },
     {
       "album": {
@@ -40024,7 +40170,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 161908,
       "name": "SILVIO",
       "url": "https://open.spotify.com/track/0xqdd0PRlYdwo6G6Y6iZbg"
@@ -40989,6 +41135,24 @@
     },
     {
       "album": {
+        "name": "sostanza",
+        "url": "https://open.spotify.com/album/14QIu7zxcOG147bIR52eti"
+      },
+      "artists": [
+        {
+          "name": "Pirrons",
+          "url": "https://open.spotify.com/artist/5GNm6r9ruYWX2EMXjt2B1O"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107472,
+      "name": "sostanza",
+      "url": "https://open.spotify.com/track/3LmJEPAutYFnJspfAfttnb"
+    },
+    {
+      "album": {
         "name": "Sostanza (feat. Kilimoney)",
         "url": "https://open.spotify.com/album/39yaroIzHnNUicxTnbFWcp"
       },
@@ -41848,6 +42012,28 @@
       "duration_ms": 143125,
       "name": "Still Runnin",
       "url": "https://open.spotify.com/track/5Zl6mXtuM8xbcDtiEh5GN8"
+    },
+    {
+      "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "STO COLLASSANDO (feat. Night Skinny)",
+      "url": "https://open.spotify.com/track/62e7JBKAd0Xk3BUAJw5Zq6"
     },
     {
       "album": {
@@ -45645,6 +45831,24 @@
     },
     {
       "album": {
+        "name": "Una Stella",
+        "url": "https://open.spotify.com/album/2SSYK2GANBnQNksfIAFJ7g"
+      },
+      "artists": [
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Una Stella",
+      "url": "https://open.spotify.com/track/4ab3fZ01ENaIEuasOZ2KRf"
+    },
+    {
+      "album": {
         "name": "UNDERDOG",
         "url": "https://open.spotify.com/album/4KnvIUduseCXYR3By4HT58"
       },
@@ -48132,6 +48336,24 @@
       "duration_ms": 162499,
       "name": "Yamamay",
       "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"
+    },
+    {
+      "album": {
+        "name": "YASU",
+        "url": "https://open.spotify.com/album/2QiJSTST2sd2Qv38QMyEVz"
+      },
+      "artists": [
+        {
+          "name": "Spender",
+          "url": "https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121040,
+      "name": "YASU",
+      "url": "https://open.spotify.com/track/1zSwb3w5cmOjtWniAVkxXr"
     },
     {
       "album": {

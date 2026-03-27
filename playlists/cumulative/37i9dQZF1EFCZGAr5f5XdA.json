@@ -374,6 +374,32 @@
     {
       "album": {
         "name": "Movie",
+        "url": "https://open.spotify.com/album/0dDmZUEULQCuVBs85dAsQB"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+        },
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261670,
+      "name": "Beautiful Problem (feat. Maty Noyes & Garrett Nash)",
+      "url": "https://open.spotify.com/track/3GaV34PHo3cNpuxmAphlh6"
+    },
+    {
+      "album": {
+        "name": "Movie",
         "url": "https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN"
       },
       "artists": [
@@ -418,7 +444,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 261670,
       "name": "Beautiful Problem (feat. Maty Noyes & gnash)",
       "url": "https://open.spotify.com/track/6Wg1Lc1Scu2Hqy9Uh7BCMr"
@@ -2056,7 +2082,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"

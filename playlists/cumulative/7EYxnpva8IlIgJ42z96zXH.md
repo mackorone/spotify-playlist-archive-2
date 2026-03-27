@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,087 songs - 2 day 9 hr 4 min
+1,089 songs - 2 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 | 2023-07-21 | 2023-12-14 |
 | [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 | 2024-02-02 | 2024-05-06 |
 | [Bringing Me Home](https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home](https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL) | 3:29 | 2023-12-08 | 2024-06-17 |
+| [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 | 2026-03-26 |  |
 | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh) | 3:00 | 2022-08-12 | 2022-09-29 |
 | [Bunny Is A Rider \- Sega Bodega 'UKG' Remix](https://open.spotify.com/track/7oPCRUy0n1htyHbOXWBYKy) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:15 | 2023-07-14 | 2023-12-14 |
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-07-03 | 2023-07-15 |
@@ -790,6 +791,7 @@
 | [Right Here \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5UVDinm5ejwuf9mss1i8kO) | [Otosan](https://open.spotify.com/artist/1syjYeo2PptHbZlvJQsjUO), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [Right Here \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7fwz2EoE4UbOHBXQpsGCr7) | 2:48 | 2021-02-12 | 2021-03-06 |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2021-03-19 | 2021-06-19 |
 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 | 2024-10-24 | 2025-01-24 |
+| [Ritual](https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Ritual](https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72) | 3:01 | 2026-03-26 |  |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-10 | 2023-04-07 |
 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 | 2020-12-11 | 2021-05-13 |
 | [River \- Airwolf Paradise Remix](https://open.spotify.com/track/7njmc0CPC2ATUBndf1rKlG) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14), [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [River \(Airwolf Paradise Remix\)](https://open.spotify.com/album/2z8rvnypFoAsWypdHXxWS8) | 3:23 | 2021-05-13 | 2021-06-19 |

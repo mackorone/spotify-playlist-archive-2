@@ -4873,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "I Will Survive - Remixes 2001",
+        "url": "https://open.spotify.com/album/3Gn0JWcvTKAytBcqWiWmic"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "I Will Survive 2001 (Villa & Gant Radio Edit)",
+      "url": "https://open.spotify.com/track/05PsUVQCfU4DGgQBYRO9x7"
+    },
+    {
+      "album": {
         "name": "Cole Porter",
         "url": "https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q"
       },
@@ -6928,7 +6946,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 209040,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"

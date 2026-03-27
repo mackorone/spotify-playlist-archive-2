@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Motherflowers
 
-189 songs - 11 hr 4 min
+190 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amparito](https://open.spotify.com/track/0DTkjSxTl3Q2xYqok4vhH4) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Exitos De Maracaibo 15](https://open.spotify.com/album/5GbKnnwqvJRto8ck2PV3WY) | 3:11 | 2021-12-17 |  |
 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 | 2022-07-01 | 2024-04-19 |
 | [Amén](https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Amén](https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5) | 4:13 | 2021-12-17 |  |
-| [AMÉN BEBÉ](https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:31 | 2025-10-24 |  |
+| [AMÉN BEBÉ](https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:31 | 2025-10-24 | 2026-03-27 |
 | [Andas En Mi Cabeza](https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ) | 4:07 | 2021-12-17 |  |
 | [Ando buscando \(feat\. Piso 21\)](https://open.spotify.com/track/4bd65mDKdhgKngKlF4Q1pZ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De amor y dolor](https://open.spotify.com/album/4rqQSxG9XsmXmglu0hOjJw) | 3:19 | 2021-12-17 |  |
 | [Apágame la Vela](https://open.spotify.com/track/11rBu5L3yNKlKIx7lsPvk4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Estos Son los Cantantes](https://open.spotify.com/album/76sIFSPw8F0pv2k7BXVG1c) | 2:01 | 2021-12-17 | 2025-06-14 |
@@ -170,6 +170,7 @@
 | [Tumbayé](https://open.spotify.com/track/1ulXmurmUVer1l6AAnBUWl) | [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Tumbayé](https://open.spotify.com/album/2SEO5lyLyOsubXjGCtyfKo) | 3:53 | 2021-12-17 |  |
 | [Tus Ojos](https://open.spotify.com/track/33fEdZF6sT3UE4OdU0k3kq) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [La Historia Musical](https://open.spotify.com/album/2iBYlVipulkyhuAndEtEgR) | 4:27 | 2023-09-22 | 2024-04-19 |
 | [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 | 2021-12-17 |  |
+| [TUTUTU](https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [TUTUTU](https://open.spotify.com/album/3kFpwjt0z3L2mRM0ms38sT) | 2:16 | 2026-03-27 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-12-17 |  |
 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 | 2021-12-17 |  |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2021-12-17 | 2022-04-23 |

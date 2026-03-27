@@ -17114,7 +17114,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 281708,
       "name": "Mother Star",
       "url": "https://open.spotify.com/track/3KilAQKM5y6S2dDJv4P0S1"
@@ -22250,7 +22250,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 210000,
       "name": "Someone Tell Me",
       "url": "https://open.spotify.com/track/3uwWKy1aC0sIsNqsvQ4qVh"
@@ -23329,6 +23329,24 @@
     },
     {
       "album": {
+        "name": "Still Missing You",
+        "url": "https://open.spotify.com/album/28fEzVIrsZ8MH7OeCpFzG4"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Still Missing You",
+      "url": "https://open.spotify.com/track/7e2H1iYMW6j5bnBEBjRIWH"
+    },
+    {
+      "album": {
         "name": "Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z"
       },
@@ -23720,6 +23738,24 @@
       "duration_ms": 195133,
       "name": "Sunday Latte",
       "url": "https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY"
+    },
+    {
+      "album": {
+        "name": "SunFlower",
+        "url": "https://open.spotify.com/album/6sMaJyWXCPtUBv0LTIazl1"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "SunFlower",
+      "url": "https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u"
     },
     {
       "album": {
@@ -26108,6 +26144,24 @@
     {
       "album": {
         "name": "To You",
+        "url": "https://open.spotify.com/album/7KMQraiy4VAgL10q9l98Oi"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/6V2f7fhOdwoLXGTQkPby4V"
+    },
+    {
+      "album": {
+        "name": "To You",
         "url": "https://open.spotify.com/album/13twQej8IAGbw2yNjJ4wmS"
       },
       "artists": [
@@ -26140,7 +26194,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 260000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/574xYNFxyCA4rwcHvNUKgq"
@@ -28508,7 +28562,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187854,
       "name": "Winter is Coming",
       "url": "https://open.spotify.com/track/6MdWXkVVjtFxsFNCnITMkO"
@@ -31140,6 +31194,24 @@
       "duration_ms": 237931,
       "name": "\uc774\ub807\uac8c \uc9c0\uae08",
       "url": "https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubcc4\uadf9 (The Farewell Play)",
+        "url": "https://open.spotify.com/album/0TkDuNGHhANMrXVV1ztOZE"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212495,
+      "name": "\uc774\ubcc4\uadf9 (The Farewell Play)",
+      "url": "https://open.spotify.com/track/1QDuJT5YqzpzoV1KPKf5Rg"
     },
     {
       "album": {

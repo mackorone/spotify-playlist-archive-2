@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
+    },
+    {
+      "album": {
         "name": "Amor de Vago",
         "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
       },
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 207757,
       "name": "Avi\u00f3n a Madrid",
       "url": "https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu"
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 133564,
       "name": "Beretta (De Los Cerros La Escuela)",
       "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 277635,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/2H5wRgIzqqUS7s5MpXBwlg"
@@ -22196,7 +22214,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 62135,
       "name": "llegamo pa la clande filtred",
       "url": "https://open.spotify.com/track/4OXAV75Pj1YVG2W20aEqQc"
@@ -31540,6 +31558,24 @@
       "duration_ms": 172800,
       "name": "Pa\u00b4Que Te Acuerdes | CROSSOVER #8",
       "url": "https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo"
+    },
+    {
+      "album": {
+        "name": "A Cocochito",
+        "url": "https://open.spotify.com/album/1plSKVqvLXu7m0iuKFOBod"
+      },
+      "artists": [
+        {
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166413,
+      "name": "Pa\u00f1uelito Blanco",
+      "url": "https://open.spotify.com/track/0kp3SRilUNVfRambSc4EGS"
     },
     {
       "album": {

@@ -1077,6 +1077,32 @@
     },
     {
       "album": {
+        "name": "Vide",
+        "url": "https://open.spotify.com/album/0bW7HN30DqrVkpmXb9lQpV"
+      },
+      "artists": [
+        {
+          "name": "Reefer Tym",
+          "url": "https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        },
+        {
+          "name": "Jao Beats",
+          "url": "https://open.spotify.com/artist/4Q53RDJb0LrokF4Ef2S3Wm"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162424,
+      "name": "Asalto",
+      "url": "https://open.spotify.com/track/4SIXlHh6amKbirSTTNRuSt"
+    },
+    {
+      "album": {
         "name": "Com Amor Brazil",
         "url": "https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy"
       },
@@ -1642,7 +1668,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 164536,
       "name": "Ballerina (with Rema, Skillibeng, & Disco Neil)",
       "url": "https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY"
@@ -5338,7 +5364,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 150048,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/3kMuX8dygPYQEsTIt2rmlz"
@@ -9602,7 +9628,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"

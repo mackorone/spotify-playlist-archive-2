@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Janita Gabriela, Putri Sashi
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakirra Vier
 
-845 songs - 2 day 7 hr 11 min
+850 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Berjalan Adanya](https://open.spotify.com/track/6ZLlgoRysbx0XWWRuMWR1N) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Berjalan Adanya](https://open.spotify.com/album/3IEDfeJRAQam1cMQInbqmN) | 4:06 | 2024-08-08 | 2024-10-18 |
 | [Berjauhan Tanpa Kata](https://open.spotify.com/track/1VKEzUHIPbpgo1JgghPyFb) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Berjauhan Tanpa Kata](https://open.spotify.com/album/4hQPIIYb6FSjh6z7QjuWY8) | 3:19 | 2025-04-24 | 2025-05-02 |
 | [Berjuang Sekali Lagi](https://open.spotify.com/track/21I0SxYD4D1KhKe7VIPl9J) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Ribuan Rindu](https://open.spotify.com/album/328DciGsj3VvYYwD46MDjn) | 3:24 | 2025-02-20 | 2025-04-25 |
+| [BERKELANA](https://open.spotify.com/track/3DPCm0YYAiMhFpjIChLzXn) | [Denny Indrajaya](https://open.spotify.com/artist/1FJsMaXbB2RrxmfBE7ExHD) | [BERKELANA](https://open.spotify.com/album/2XD9YbaI4AxGSLkgppOHrH) | 3:07 | 2026-03-26 |  |
 | [Berlalu \- Demo](https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu \(Demo\)](https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr) | 3:14 | 2024-08-01 | 2024-10-18 |
 | [Berlari Dalam Mimpi](https://open.spotify.com/track/7iN5OYXt6jTEkltcZeOXMv) | [Ticya](https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27) | [Berlari Dalam Mimpi](https://open.spotify.com/album/5ZntmrL1eNrHMkvWXGm7Up) | 4:08 | 2024-09-05 | 2024-10-11 |
 | [Bermimpi](https://open.spotify.com/track/4Bq5WOROZbYRlfoEjh1gAM) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Koma,](https://open.spotify.com/album/0kEgfBZs3R5GJDuCp8yTYx) | 3:40 | 2025-10-30 | 2026-02-13 |
@@ -231,6 +232,7 @@
 | [Dimabuk Cahaya](https://open.spotify.com/track/1AaKnKJTf4cyCai2yeXdca) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [Dimabuk Cahaya](https://open.spotify.com/album/39xJgYlW0Io6BwlBM86nLZ) | 3:45 | 2025-10-30 | 2025-12-19 |
 | [Dingin](https://open.spotify.com/track/2lvwzTXOtBvvam0h3T8mZV) | [Giacinta](https://open.spotify.com/artist/6hgISqgflFSvkJ6paiCLNJ) | [Dingin](https://open.spotify.com/album/4OiLWFuoJYtN9pEFOWnHlA) | 4:16 | 2025-02-13 | 2025-03-21 |
 | [Dipersatukan Semesta](https://open.spotify.com/track/56ps7jbVX0iVOwCyieF42M) | [Fredo Aquinaldo](https://open.spotify.com/artist/5XygoDukeHMwxWq0XITRoh) | [Dipersatukan Semesta](https://open.spotify.com/album/5ASMxe2HmlnZ14JiqJNXBB) | 4:06 | 2024-06-27 | 2024-09-27 |
+| [DM](https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI) | [DM](https://open.spotify.com/album/5dthffa1xLLD1HFvEWgkNJ) | 2:36 | 2026-03-26 |  |
 | [Doa Anak Negeri](https://open.spotify.com/track/0UMYhVKbRXN9iHhyD6e9c0) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Doa Anak Negeri](https://open.spotify.com/album/0wLUD7fD9GgUzF4JlWXEQA) | 3:30 | 2025-10-03 | 2025-10-31 |
 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 | 2025-10-09 | 2025-11-28 |
 | [dua tahun](https://open.spotify.com/track/5uqrv56qfnAxeLprqBvaJZ) | [Luthfi Aulia](https://open.spotify.com/artist/1LUNypbU0AXcWNgrcyHzVN) | [dua tahun](https://open.spotify.com/album/32FbzIGASXCBFcIDX4FukU) | 3:37 | 2025-08-08 | 2025-10-03 |
@@ -379,6 +381,7 @@
 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 | 2025-04-11 |  |
 | [Kosong](https://open.spotify.com/track/77Bz89nFEoLosSMOBWOH7S) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Kosong](https://open.spotify.com/album/5Lkn3337wIpHluKsatGk5i) | 2:44 | 2024-09-26 | 2024-11-08 |
 | [Kosong](https://open.spotify.com/track/50DFbZIl4DauAbdzlylPyT) | [The Fly](https://open.spotify.com/artist/033CdeW2csj8cY3XYDunkH) | [Kosong](https://open.spotify.com/album/39sbnukftpqA82wboCllXX) | 4:12 | 2025-12-11 | 2026-01-24 |
+| [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 | 2026-03-26 |  |
 | [Ku Kira?](https://open.spotify.com/track/5nbXupmn3FSXrjw3e319as) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Ku Kira?](https://open.spotify.com/album/24dsE11OZytcpqztlhvFLK) | 3:29 | 2026-03-05 |  |
 | [Ku mau bahagia juga](https://open.spotify.com/track/07TglkIcQngfPTVh5VYT46) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Ku mau bahagia juga](https://open.spotify.com/album/7kFNNW82vAQtJ6yHi3tWcr) | 4:24 | 2024-10-03 | 2024-11-22 |
 | [Kuat](https://open.spotify.com/track/1E8Ahc6hhfHMiwf0cOmvtn) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Kuat](https://open.spotify.com/album/20cife3t2WhMEFUKE5028s) | 3:56 | 2024-06-27 | 2024-08-02 |
@@ -445,6 +448,7 @@
 | [Mati Satu Tak Tumbuh Lagi](https://open.spotify.com/track/0y3PdaJSMjd5cgA3BVfLut) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Mati Satu Tak Tumbuh Lagi](https://open.spotify.com/album/3c1TKSbv7UARypYZsORhuD) | 4:39 | 2024-06-27 | 2024-09-27 |
 | [Maumu Apa](https://open.spotify.com/track/38OeRntmd4MLNMqvNvKhAV) | [Deanda](https://open.spotify.com/artist/6oJPWrK6sRuygfZ1b58SfB) | [Maumu Apa](https://open.spotify.com/album/3Oh5BqgERsTszkYk2FFrID) | 3:51 | 2024-06-27 | 2024-08-02 |
 | [Melangitkanmu](https://open.spotify.com/track/7s8c4Ap7Gdzdvb3gGuVGhy) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Melangitkanmu](https://open.spotify.com/album/39dqeYCRARABzKQEazIV8Z) | 4:34 | 2025-03-20 | 2025-09-26 |
+| [Melangkah](https://open.spotify.com/track/1AsUYV5VVVOM929Atpv2Ci) | [Shenyliega](https://open.spotify.com/artist/4Esc2aeoedwHLQOz8OUOH1) | [Melangkah](https://open.spotify.com/album/41MWIeumV1baZTikmNzora) | 2:46 | 2026-03-26 |  |
 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 | 2026-02-26 |  |
 | [Melati \- Demo Version](https://open.spotify.com/track/2BPLc7QDhqtlavuPd0TX9e) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/7CSu72oZxVLGGPOrH0cDV8) | 3:14 | 2026-03-05 |  |
 | [Memilih Berhenti](https://open.spotify.com/track/4MngDPGeICOJ30Xeaf7SPH) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Memilih Berhenti](https://open.spotify.com/album/7Ez8NmZRbNHAvk6XISPwQx) | 3:57 | 2024-08-22 | 2025-01-10 |
@@ -788,6 +792,7 @@
 | [Tempat Bersandar](https://open.spotify.com/track/1wl8Ebwaxy89mjVjtFLPpw) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Tempat Bersandar](https://open.spotify.com/album/4ggw3MKcFEIaBpVTuNnkiZ) | 3:49 | 2024-10-10 | 2024-12-13 |
 | [Tenang](https://open.spotify.com/track/1TMvBhqekWmWJSxpmUMgFz) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Tenang](https://open.spotify.com/album/0AjNJcgo36wOxQzmvra3Zi) | 4:57 | 2025-08-21 |  |
 | [Tenang, Belum Tentu itu yang Terjadi](https://open.spotify.com/track/3JAJdtavE1iaqR0XCA73DW) | [Nadhira Suri](https://open.spotify.com/artist/06wL6b72UhgDKo9nZM0J0g) | [Tenang, Belum Tentu itu yang Terjadi](https://open.spotify.com/album/3yk3DjWbNTN215j62COlnw) | 4:06 | 2025-12-11 | 2026-01-24 |
+| [Tenanglah](https://open.spotify.com/track/04HVwWnR9XAaQRPfXftqJt) | [Joanna Andrea](https://open.spotify.com/artist/0vQEEh1G8Foug2HiqWodyR) | [Tenanglah](https://open.spotify.com/album/7LWWtaY8MGuFV2PFvc2Gv8) | 3:13 | 2026-03-26 |  |
 | [Tentang Arah](https://open.spotify.com/track/3k7JKDg3FHbBJMQi2tfedP) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Tentang Arah](https://open.spotify.com/album/2aOQqOGgPHEOJNfmy548RT) | 4:29 | 2024-10-10 | 2024-11-29 |
 | [Tentang Kita](https://open.spotify.com/track/1s9Ij0HhTdAJ1Xo72mhPPf) | [Obbie Messakh](https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6) | [Tentang Kita](https://open.spotify.com/album/6UMGUJGoZBQX26AHu4PpAe) | 4:40 | 2025-05-15 | 2025-06-13 |
 | [TENTANG KITA](https://open.spotify.com/track/35Wz5xG22NTTms8KSDpBcL) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [TENTANG KITA](https://open.spotify.com/album/1M8Ug2Y2qrvmmAh89M1fjX) | 4:07 | 2025-11-20 |  |

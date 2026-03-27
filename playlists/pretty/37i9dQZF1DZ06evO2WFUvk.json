@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADePicnxfeLakXM573SGPqM",
+  "snapshot_id": "acMlgAAAAADkY0vYpihAX3ENgMDgZnP8",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Diva Francesa",
-      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+      "duration_ms": 208826,
+      "name": "Dicen Que La Muerte",
+      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 208826,
-      "name": "Dicen Que La Muerte",
-      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
+      "duration_ms": 137573,
+      "name": "Diva Francesa",
+      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
     },
     {
       "added_at": null,
@@ -448,7 +448,7 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 216686,
+      "duration_ms": 216732,
       "name": "\u041f\u043b\u043e\u0445\u0438\u0435 \u0442\u0430\u043d\u0446\u043e\u0440\u044b",
       "url": "https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr"
     },
@@ -467,22 +467,6 @@
       "duration_ms": 184830,
       "name": "Learning to Climb",
       "url": "https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together in the End",
-        "url": "https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 247934,
-      "name": "Together in the End",
-      "url": "https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

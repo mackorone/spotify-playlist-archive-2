@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Nasty C",
-  "num_followers": 187849,
+  "num_followers": 187922,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2026-03-20 00:01:31",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
-    },
-    {
-      "added_at": "2026-03-20 00:01:31",
-      "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 189677,
       "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
       "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+    },
+    {
+      "added_at": "2026-03-20 00:01:31",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "added_at": "2026-03-20 00:01:31",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-03-20 00:01:31",
       "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": "2026-03-20 00:01:31",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2026-03-20 00:01:31",
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-03-20 00:01:31",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-20 00:01:31",
       "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
-    },
-    {
-      "added_at": "2026-03-20 00:01:31",
-      "album": {
         "name": "Kilos Milos",
         "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 157560,
       "name": "Kilos Milos",
       "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+    },
+    {
+      "added_at": "2026-03-20 00:01:31",
+      "album": {
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
     },
     {
       "added_at": "2026-03-20 00:01:31",

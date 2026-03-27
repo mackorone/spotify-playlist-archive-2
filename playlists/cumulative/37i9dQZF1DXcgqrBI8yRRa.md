@@ -4,7 +4,7 @@
 
 > Trending rn\. Cover: Kayode
 
-1,047 songs - 2 day 10 hr 22 min
+1,048 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Akonuche](https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Akonuche](https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI) | 2:16 | 2026-01-14 |  |
 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 | 2026-01-23 |  |
 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 | 2025-07-04 | 2025-09-17 |
+| [All for You](https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG) | [Boi Chase](https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb) | [All for You](https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ) | 2:33 | 2026-03-26 |  |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-06-05 | 2023-06-27 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-09-08 | 2023-06-13 |
 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2026-01-14 | 2026-01-30 |
@@ -1002,7 +1003,7 @@
 | [When Days Are Dark, Friends Are Few](https://open.spotify.com/track/24srb45xXaK0sflmHB3mF0) | [Sipho Gumede](https://open.spotify.com/artist/70qTlM4lQsyQKSX6ZG56mn) | [Blues for My Mother](https://open.spotify.com/album/5hqbAhnBouMVxTMGKTQyrS) | 4:44 | 2026-02-24 | 2026-03-06 |
 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 | 2025-06-27 | 2025-07-05 |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2025-09-16 | 2025-09-30 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-19 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-19 | 2026-03-27 |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-08-22 | 2025-09-17 |
 | [Who Born The Maga \(feat\. K\-Switch\)](https://open.spotify.com/track/1WHqsaX60KovsdnRFpv3dk) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [K\-Switch](https://open.spotify.com/artist/2vSURQ99i5aTnMdPPUcU6F) | [Mushin 2 Mo' Hits](https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG) | 3:04 | 2023-01-06 | 2023-03-14 |
 | [Who dey come \(cruise beat\)](https://open.spotify.com/track/4aoNaVLRCGnKZYQv8EQz3Q) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi), [Ijoba yagi](https://open.spotify.com/artist/78BWqC86D3Q5UWnj3ohCQg) | [Who dey come \(cruise beat\)](https://open.spotify.com/album/6vPtQ8jZtQLWtT3LZqI3kZ) | 1:47 | 2022-04-27 | 2022-06-21 |

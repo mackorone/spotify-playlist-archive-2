@@ -460,7 +460,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 281024,
       "name": "Der Brandtaucher",
       "url": "https://open.spotify.com/track/38UpY1Y40BUufYoLVLTUE0"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 244013,
       "name": "El Teide",
       "url": "https://open.spotify.com/track/4u4SD3OKFu2u7W6mYAuB8r"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -4654,7 +4654,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 124000,
       "name": "Mind Riots",
       "url": "https://open.spotify.com/track/47LkoKpccLo3UDq4CpM81H"
@@ -5538,7 +5538,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5968,6 +5968,24 @@
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
+    },
+    {
+      "album": {
+        "name": "Pin Ups",
+        "url": "https://open.spotify.com/album/4itr4L9MsKJLGO7a8LI6d4"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Primary",
+      "url": "https://open.spotify.com/track/50UnLkGHxZzbwsoocDKdhd"
     },
     {
       "album": {
@@ -6578,7 +6596,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7032,7 +7050,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
@@ -7328,7 +7346,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 365697,
       "name": "Take This Waltz",
       "url": "https://open.spotify.com/track/1gIoMyoS1okNkMs19TkJMe"
@@ -8322,7 +8340,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "TO\u0143",
       "url": "https://open.spotify.com/track/0Q0eVjlRJIFzMkL1NbJawP"
@@ -8394,7 +8412,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 201617,
       "name": "Trick of Escaping Death",
       "url": "https://open.spotify.com/track/7xi2jjyS16aMJRL9GpVMI5"

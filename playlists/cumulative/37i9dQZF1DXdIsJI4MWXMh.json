@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Anillo Grabado",
+        "url": "https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC"
+      },
+      "artists": [
+        {
+          "name": "Furia Ranchera",
+          "url": "https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252544,
+      "name": "Anillo Grabado",
+      "url": "https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
       },
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 211022,
       "name": "Tenemos Sed",
       "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"

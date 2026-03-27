@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-138 songs - 9 hr 0 min
+139 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [ハンコウ予告](https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:03 | 2022-10-29 |  |
 | [ハートの主張](https://open.spotify.com/track/04aVPNpvEbQpXY9lefOPue) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 3:51 | 2023-09-21 | 2024-01-13 |
 | [ハートの主張](https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:51 | 2022-06-09 |  |
+| [ハートの本音](https://open.spotify.com/track/2GCRVedQoWyNmivNGuTV0Q) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [i BEST \-Singles Collection\-](https://open.spotify.com/album/0objDnBq6figWk87qEJXLZ) | 3:09 | 2026-03-27 |  |
 | [ハートの誓い](https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ハートの誓い](https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT) | 3:27 | 2022-10-18 | 2023-01-01 |
 | [ハートの誓い](https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:27 | 2022-12-31 |  |
 | [ヒカリ証明論](https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:33 | 2022-06-09 | 2026-02-02 |
@@ -95,7 +96,7 @@
 | [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 | 2022-10-24 | 2022-12-13 |
 | [リベンジゲーム](https://open.spotify.com/track/3Ja6w6E7PvMzvJajdu3tM5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:17 | 2022-12-12 |  |
 | [ロクベル](https://open.spotify.com/track/4oTHY9dyyGwP1wR8ryzqnR) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [CHiCO with HoneyWorks 2016.1.10 "世界はiに満ちている \-1st\-" at 渋谷WWW](https://open.spotify.com/album/7eu3mYVNTeq6mV0sD7XkR0) | 3:50 | 2025-09-09 |  |
-| [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/1RKmJpVze3oVKCzRldAiJa) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 | 2022-06-09 |  |
+| [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/1RKmJpVze3oVKCzRldAiJa) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 | 2022-06-09 | 2026-03-27 |
 | [ロボット](https://open.spotify.com/track/0GBu9RCqUCL8k21OwRkSE1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:46 | 2024-01-12 | 2024-11-18 |
 | [ロボット](https://open.spotify.com/track/7mAwHR99hdvTChq7V9Uxdd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/4nnCBcpxTtsc9GQKxQSBxL) | 3:47 | 2022-08-05 | 2023-09-22 |
 | [ワタシノテンシ](https://open.spotify.com/track/0oJkuurPe6RqlCYnsawcIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:22 | 2022-08-04 | 2022-10-13 |

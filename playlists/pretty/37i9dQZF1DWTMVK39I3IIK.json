@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  GUZO",
-  "num_followers": 47057,
+  "num_followers": 47064,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "Anna",
-        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
       "artists": [
         {
-          "name": "ABSURD",
-          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
         }
       ],
-      "duration_ms": 192314,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
       },
       "artists": [
         {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+          "name": "ABSURD",
+          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+      "duration_ms": 192314,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
+        "name": "Minute Nothing",
+        "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "duration_ms": 218998,
+      "name": "Big Solo",
+      "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 180664,
       "name": "Marianne og Henrik",
       "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
-        "name": "Minute Nothing",
-        "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
-      },
-      "artists": [
-        {
-          "name": "Alba Akvama",
-          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
-        }
-      ],
-      "duration_ms": 218998,
-      "name": "Big Solo",
-      "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "S\u00f8n",
-        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 164734,
-      "name": "Satellitter",
-      "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 199313,
       "name": "F\u00f8rhen",
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "S\u00f8n",
+        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 164734,
+      "name": "Satellitter",
+      "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "hun m\u00e6rker aldrig smerten.",
-        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
-      },
-      "artists": [
-        {
-          "name": "JONATHAN",
-          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
-        }
-      ],
-      "duration_ms": 160105,
-      "name": "hun m\u00e6rker aldrig smerten.",
-      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
         "name": "KUN FOR HENDE",
         "url": "https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 152878,
       "name": "KUN FOR HENDE",
       "url": "https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "hun m\u00e6rker aldrig smerten.",
+        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "duration_ms": 160105,
+      "name": "hun m\u00e6rker aldrig smerten.",
+      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -1047,34 +1047,18 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "terminal for 2",
-        "url": "https://open.spotify.com/album/08pyTQMQcLV8AIdd95OOwc"
+        "name": "Ham Med Paraplyen",
+        "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
       },
       "artists": [
         {
-          "name": "Y\u00f6r",
-          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
         }
       ],
-      "duration_ms": 188326,
-      "name": "terminal for 2",
-      "url": "https://open.spotify.com/track/2zU76C56LbDkYKBtX09c2K"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
-      },
-      "artists": [
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 168348,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
+      "duration_ms": 173023,
+      "name": "Ham Med Paraplyen",
+      "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -1095,18 +1079,34 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "Ham Med Paraplyen",
-        "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
       },
       "artists": [
         {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
         }
       ],
-      "duration_ms": 173023,
-      "name": "Ham Med Paraplyen",
-      "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
+      "duration_ms": 168348,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "terminal for 2",
+        "url": "https://open.spotify.com/album/08pyTQMQcLV8AIdd95OOwc"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6r",
+          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+        }
+      ],
+      "duration_ms": 188326,
+      "name": "terminal for 2",
+      "url": "https://open.spotify.com/track/2zU76C56LbDkYKBtX09c2K"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "Watershed",
-        "url": "https://open.spotify.com/album/1056qytYUijsTICJ4VIItC"
-      },
-      "artists": [
-        {
-          "name": "SANDY",
-          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "Play The Part",
-      "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 193432,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "Watershed",
+        "url": "https://open.spotify.com/album/1056qytYUijsTICJ4VIItC"
+      },
+      "artists": [
+        {
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "Play The Part",
+      "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
     }
   ],
   "unique_name": "ung kniv ",

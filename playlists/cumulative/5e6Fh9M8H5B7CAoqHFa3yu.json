@@ -23653,6 +23653,28 @@
     },
     {
       "album": {
+        "name": "No Surprise",
+        "url": "https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F"
+      },
+      "artists": [
+        {
+          "name": "Oscat!",
+          "url": "https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA"
+        },
+        {
+          "name": "Rebekah",
+          "url": "https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255428,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj"
+    },
+    {
+      "album": {
         "name": "No te Quieren Conmigo",
         "url": "https://open.spotify.com/album/1myRJMwsRY6EXrNQYw7eCA"
       },
@@ -26680,6 +26702,24 @@
       "duration_ms": 326688,
       "name": "Quiero vivir en el espacio",
       "url": "https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh"
+    },
+    {
+      "album": {
+        "name": "Quiet Saloon",
+        "url": "https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "Quiet Saloon",
+      "url": "https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU"
     },
     {
       "album": {

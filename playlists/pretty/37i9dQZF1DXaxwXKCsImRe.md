@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Nieuw: <a href="spotify:artist:4oMzH6lIWPhCdx7KADXLJZ">Senna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,913 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,916 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kleine Vogel](https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp) | 3:04 |
-| 2 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy) | 2:22 |
-| 3 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/4JfLBSxENT3T8WPNpTr9jq) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/67xNnUBvFgWuiZnu584INW) | 2:47 |
-| 4 | [Amsterdam](https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Amsterdam](https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy) | 4:05 |
-| 5 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
-| 6 | [Daughters](https://open.spotify.com/track/0xROoITSyC7Ppcx7OC6xst) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:37 |
+| 1 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
+| 2 | [Kleine Vogel](https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp) | 3:04 |
+| 3 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy) | 2:22 |
+| 4 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
+| 5 | [Amsterdam](https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Amsterdam](https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy) | 4:05 |
+| 6 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
 | 7 | [Zijkant](https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Zijkant](https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2) | 2:46 |
 | 8 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 |
 | 9 | [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 |
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 20 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 |
 | 21 | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 |
 | 22 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
-| 23 | [She](https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [She](https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl) | 3:09 |
-| 24 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
-| 25 | [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 |
-| 26 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
-| 27 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 |
-| 28 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
+| 23 | [Bowie's Pressure](https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Bowie's Pressure](https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow) | 3:12 |
+| 24 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
+| 25 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 |
+| 26 | [She](https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [She](https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl) | 3:09 |
+| 27 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
+| 28 | [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 |
 | 29 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 |
 
-Snapshot ID: `AAAAAKYVhG7TIbiwIIRZY6yYpB0kjivf`
+Snapshot ID: `AAAAAODGZvj74VmrIS91ro3mcbUX6afg`

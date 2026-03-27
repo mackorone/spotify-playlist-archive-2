@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "S\u00e5nger f\u00f6r december",
+        "url": "https://open.spotify.com/album/5OgHqDU0dhWjmNLamhaHTe"
+      },
+      "artists": [
+        {
+          "name": "Irma Schultz-Keller",
+          "url": "https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251853,
+      "name": "Blank is",
+      "url": "https://open.spotify.com/track/0eP1cpNvMbCbjj96d3PnE4"
+    },
+    {
+      "album": {
         "name": "S\u00e5nger f\u00f6r December - CDON",
         "url": "https://open.spotify.com/album/7wAWwTPLFIvGDBoyDzlguE"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 252879,
       "name": "Blank is",
       "url": "https://open.spotify.com/track/39ySH2BjbOXKuxgmUFgomR"

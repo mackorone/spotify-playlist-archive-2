@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Paul Monserrate
 
-4,062 songs - 9 day 21 hr 14 min
+4,064 songs - 9 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1736,6 +1736,7 @@
 | [just between us](https://open.spotify.com/track/7fexPywS1XMNmo8YoFzSxk) | [Meyer](https://open.spotify.com/artist/1g07CMpS8U1mkiLjxCplKU) | [just between us](https://open.spotify.com/album/6J3oisPVntiTpHvjQkdSp6) | 2:53 | 2024-10-10 | 2025-01-31 |
 | [JUST FINE](https://open.spotify.com/track/0KXnjWlNLsXP9URcxekp37) | [ORIGIN](https://open.spotify.com/artist/0b02sb1yDfitXVVkMJ73gt) | [JUST FINE](https://open.spotify.com/album/5ZdnGQon3znxWMLzxlTTfO) | 4:02 | 2026-03-19 |  |
 | [Just for Today](https://open.spotify.com/track/2Nzpyr9SNK7QEhnKYYTJGo) | [Reanne Borela](https://open.spotify.com/artist/4VesHAVAMMJsmXZGMEo4IA) | [Just for Today](https://open.spotify.com/album/25UEe7XiMFOOyl7uXWQl73) | 4:39 | 2022-09-22 | 2022-10-14 |
+| [Just Friends](https://open.spotify.com/track/1U7AUk62u5r5iulshIEtZG) | [Jkyyy](https://open.spotify.com/artist/0sEYPWiaRlrfGxrfwmiuqJ), [Jaey Al](https://open.spotify.com/artist/6mSZmL96qI8e8d3XlTmZJK) | [Just Friends](https://open.spotify.com/album/7EOi4m4kgh5uuqUwCPu4fm) | 3:46 | 2026-03-19 |  |
 | [Just June](https://open.spotify.com/track/3qFv29nVmhwCjAAzPaIPNy) | [Dally](https://open.spotify.com/artist/0mquaSnDpd0WWa6enpVJbm) | [Just June](https://open.spotify.com/album/0AXI4DTyIhIy3UKLzlr1ig) | 5:46 | 2025-06-26 | 2025-08-15 |
 | [Just to See You](https://open.spotify.com/track/0JVoL1GUqqc4UJeUXEYeMw) | [The Braille Flowers](https://open.spotify.com/artist/1oCEHpiSBXA8IpjKsLc3OA) | [Just to See You](https://open.spotify.com/album/2TfnZj51VJVjSVVirfEnmY) | 4:25 | 2023-08-10 | 2023-09-01 |
 | [Just Wanna Be Better](https://open.spotify.com/track/52WwV0VVKpTuaKn6EO1rSf) | [YXE](https://open.spotify.com/artist/3IIFJXZD7qzQ3rvVsMAgZW) | [Just Wanna Be Better](https://open.spotify.com/album/2QT8bGkxAy6SKpJ9gz5AST) | 3:28 | 2022-04-07 | 2022-07-29 |
@@ -2920,6 +2921,7 @@
 | [POP KULTO](https://open.spotify.com/track/0MFWBqTO0GrHFVjeLiq7TO) | [Starri & The Moonchild](https://open.spotify.com/artist/0wE3La0AtC5JJXDy0tcHTe) | [BIZARRE YOU ARE](https://open.spotify.com/album/20l3PBoOFLSqtJwNywgyV8) | 3:54 | 2025-11-27 | 2025-12-04 |
 | [Position](https://open.spotify.com/track/65SPQk2Hv0PS5Y4WtobohU) | [Tiana Kocher](https://open.spotify.com/artist/0aQl6dYFpdEuGuRVzcUBE6) | [Position](https://open.spotify.com/album/6q4JLRLyknwO9uR1KT3xq7) | 3:11 | 2024-09-19 | 2024-10-25 |
 | [Positions](https://open.spotify.com/track/450vk9htIpaSzxMHCsMiCa) | [2 Wavy](https://open.spotify.com/artist/5RliiYKuid443aymavwt72) | [Positions](https://open.spotify.com/album/7wOKqmD7E2x2V2NN7QkTYF) | 2:33 | 2023-05-25 | 2023-06-09 |
+| [Positions](https://open.spotify.com/track/3XplOgaElcvYUfi5f80G4z) | [Vince Monte](https://open.spotify.com/artist/1y1mL2PDCOrmGxDCLgesDF) | [Positions](https://open.spotify.com/album/2i9rAx9MMtcOl86mn8nAuV) | 2:34 | 2026-03-19 |  |
 | [Posporo](https://open.spotify.com/track/1WRUTXdxqx3mCcRtg1HP86) | [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F), [Kyrus](https://open.spotify.com/artist/2WN13ZeABzdwbyqbyXK6az) | [Posporo](https://open.spotify.com/album/5V9wNkrNd3YX5xsBqxtbqo) | 4:07 | 2025-06-26 | 2025-09-19 |
 | [Potential](https://open.spotify.com/track/39on5sPLL5XbBZJ8A9oG8p) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Potential](https://open.spotify.com/album/6Uh7Ntq4qFSnUch8tKbDP6) | 3:04 | 2023-06-29 | 2023-07-14 |
 | [Power Top Na Bratzy](https://open.spotify.com/track/62gIf8EuU36Lcroy9KIqDw) | [M1ss Jade So](https://open.spotify.com/artist/0i35szPcbbyw5gH0gZa4ui), [STRODANO](https://open.spotify.com/artist/1qhaz5xUZ93DyruKu5lLW0) | [Power Top Na Bratzy](https://open.spotify.com/album/6sylgCsUv43HDtsGeO1azm) | 2:49 | 2024-09-26 | 2024-11-08 |

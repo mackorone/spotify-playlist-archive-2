@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Light in the Darkness",
+        "url": "https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d2RALYN",
+          "url": "https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239143,
+      "name": "Light in the Darkness",
+      "url": "https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL"
+    },
+    {
+      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/3wHDXFR9OO8hfUkyWgY0dz"
       },

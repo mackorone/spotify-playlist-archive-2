@@ -4,17 +4,18 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-118 songs - 7 hr 38 min
+119 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 | 2024-07-08 |  |
 | [A Place In The Sun](https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:16 | 2024-01-29 |  |
-| [After The Rain](https://open.spotify.com/track/0jSys1dnOTYfW40et1Znx9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:44 | 2026-02-19 |  |
+| [After The Rain](https://open.spotify.com/track/0jSys1dnOTYfW40et1Znx9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:44 | 2026-02-19 | 2026-03-27 |
 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 | 2024-01-29 |  |
 | [Aloha, E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 | 2024-01-29 |  |
 | [Arigato](https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NASHVILLE SESSIONS](https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD) | 3:02 | 2026-01-25 |  |
 | [Beneath The Waves](https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves](https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF) | 3:13 | 2025-11-01 | 2026-02-03 |
+| [Beneath The Waves \- with nature](https://open.spotify.com/track/5tn6tOXfpnKJys5640lXPu) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:20 | 2026-03-27 |  |
 | [Beneath The Waves Part 2](https://open.spotify.com/track/4d3ryiA37ycUVp0wcF6m6y) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves Part 2](https://open.spotify.com/album/60E75bjl78vQekCfNScQ89) | 4:45 | 2026-01-24 | 2026-02-20 |
 | [Bizarre Love Triangle](https://open.spotify.com/track/3pslJDAFDwUSOhLxvr7MPl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Greatest Day](https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2) | 4:19 | 2025-06-20 | 2025-09-13 |
 | [Bohemian Rhapsody](https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 5:54 | 2024-01-29 |  |

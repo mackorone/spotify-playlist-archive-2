@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191077,
+  "num_followers": 191068,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAGro6niFfK5SOYDLV18opyE2iHzl",
   "tracks": [
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
-    },
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 278302,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 263422,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
-    },
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
-        "name": "For Mary",
-        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 263422,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        }
+      ],
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
         "name": "sunflower boy",
         "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+        "name": "Pelechian 2",
+        "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
       },
       "artists": [
         {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
         }
       ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
+      "duration_ms": 307706,
+      "name": "Pelechian 2",
+      "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -435,22 +451,6 @@
       "duration_ms": 294813,
       "name": "Morning Star",
       "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
-    },
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
-        "name": "Pelechian 2",
-        "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
-      },
-      "artists": [
-        {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "Pelechian 2",
-      "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
-    },
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
         "name": "Shape Of The Dunes",
         "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 193445,
       "name": "Shape Of The Dunes",
       "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+      },
+      "artists": [
+        {
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
         "name": "Dragon's Eyes",
         "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 228897,
       "name": "Dragon's Eyes",
       "url": "https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH"
-    },
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
-      },
-      "artists": [
-        {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+      },
+      "artists": [
+        {
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+        }
+      ],
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
         "name": "Sunflower Sunset",
         "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 308963,
       "name": "Sunflower Sunset",
       "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
-        "name": "Time Drifts",
-        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
-      },
-      "artists": [
-        {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
-        }
-      ],
-      "duration_ms": 237635,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
     },
     {
       "added_at": "2026-03-23 23:00:29",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-03-23 23:00:29",
       "album": {
+        "name": "Time Drifts",
+        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "duration_ms": 237635,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2026-03-23 23:00:29",
+      "album": {
         "name": "AT LEAST SOMETHING IS PROTECTING YOU",
         "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 217949,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
-    },
-    {
-      "added_at": "2026-03-23 23:00:29",
-      "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
-      },
-      "artists": [
-        {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
-        }
-      ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-03-23 23:00:29",

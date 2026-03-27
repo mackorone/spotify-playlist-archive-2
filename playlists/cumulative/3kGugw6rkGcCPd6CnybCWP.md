@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-243 songs - 14 hr 7 min
+250 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-12-02 | 2026-01-17 |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-21 | 2026-01-17 |
 | [Don’t Say No to Hitler](https://open.spotify.com/track/5pfAfzVMrjNvGP4pa4UIeJ) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Don’t Say No to Hitler](https://open.spotify.com/album/5tevGfFQVKch83TcdIHbBf) | 2:41 | 2026-02-07 | 2026-03-10 |
+| [Dread I](https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Dread I](https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR) | 3:51 | 2026-03-26 |  |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2026-01-20 | 2026-02-20 |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2026-02-08 |  |
 | [Dreaming of Injured Popstars '25](https://open.spotify.com/track/2JquSuR6JlfaCulVG9HGkV) | [Intoxicated Pigeon](https://open.spotify.com/artist/6fbh8Dv01mwKXuD9AkPTgx), [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e), [Oxygen Thief](https://open.spotify.com/artist/0lSgqe7J1XKN7hZhaPHBs5) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 4:53 | 2025-11-09 | 2026-01-17 |
@@ -83,6 +84,7 @@
 | [Figure It Out](https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ) | [Flying Finish](https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH) | [Figure It Out](https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK) | 3:25 | 2026-02-03 | 2026-03-20 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 |  |
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
+| [Flames From Ashes](https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Learning to Love](https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d) | 3:20 | 2026-03-26 |  |
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 |  |
@@ -92,6 +94,7 @@
 | [Glue](https://open.spotify.com/track/4kzpEro293CHBZG3Ilx8kH) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [Glue](https://open.spotify.com/album/1SkgywYaggjQu4KO23HqG1) | 3:43 | 2026-01-06 | 2026-02-20 |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 | 2026-03-20 |
+| [Grandmaster Rock/Rap](https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Very Best of Tara Turner](https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE) | 2:52 | 2026-03-26 |  |
 | [Gravity Loop](https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [Gravity Loop](https://open.spotify.com/album/2TYl4QAwKId99BBMLzWJ6I) | 3:33 | 2026-01-05 |  |
 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 | 2026-02-19 |  |
 | [Half\-Blood](https://open.spotify.com/track/5AFcFKZCB62xZ1Tb0bV9Gr) | [Laylo](https://open.spotify.com/artist/5ENIBFuGai1t1NPOaUaqoX) | [Roots](https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C) | 2:49 | 2025-12-15 | 2026-02-07 |
@@ -100,6 +103,7 @@
 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 | 2026-01-23 | 2026-03-10 |
 | [HE'S FOR THE STREETS](https://open.spotify.com/track/4p9kOPyXEoQLzXJXodHJz2) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [HE'S FOR THE STREETS](https://open.spotify.com/album/2oYCt2PA2D7BwzPxno1LzN) | 3:26 | 2026-03-10 |  |
 | [Heading Out](https://open.spotify.com/track/37JTgHjdSzi6RDZAjz6Blg) | [Velvet Static](https://open.spotify.com/artist/6F0VPim2a3o1M64nwGGRv2) | [Heading Out](https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy) | 4:47 | 2025-11-17 | 2026-01-17 |
+| [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-26 |  |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-11-09 | 2026-01-17 |
 | [Hoary Light](https://open.spotify.com/track/5VZCZYaOsBrZtF7i3jy2P4) | [RawGrow](https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF) | [Hoary Light](https://open.spotify.com/album/2k2Qu1YN9FI3O2ALMCq9Gy) | 3:08 | 2026-02-28 |  |
 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 | 2026-02-28 |  |
@@ -140,6 +144,7 @@
 | [love pt\. 2](https://open.spotify.com/track/4uvzEnlCw8ysLKnXeYDSDI) | [Lazuli Bones](https://open.spotify.com/artist/74gnmdjnTP4OsKX80B6ao9) | [garden girl](https://open.spotify.com/album/326LJXKcD0mbtlDag4ggZs) | 3:42 | 2026-02-08 |  |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 |  |
 | [Machete](https://open.spotify.com/track/5qoNe1iZ1yZCeFYlWqRbx1) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Machete](https://open.spotify.com/album/18SVDGTQeAPS7ecCtveXp7) | 3:13 | 2025-10-17 | 2025-12-12 |
+| [Madaket](https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:43 | 2026-03-26 |  |
 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 | 2026-02-10 |  |
 | [MASKARA](https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy) | [Se7enth Fret](https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938) | [MASKARA](https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [MAYDAY](https://open.spotify.com/track/5xWsnPctjnUuHJ1UwBiRor) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [MAYDAY](https://open.spotify.com/album/5h76yRMMzTY1LI64nPGoHV) | 3:45 | 2025-11-07 | 2026-01-17 |
@@ -166,10 +171,12 @@
 | [Over My Head](https://open.spotify.com/track/4clPHM4vzSpKU7nwqgz0LC) | [Aura Davis](https://open.spotify.com/artist/7phDlcL0THknSVzXipd3Vf) | [Over My Head](https://open.spotify.com/album/1V8aRGKGIbyTJ17ylo1fzT) | 2:39 | 2026-03-09 |  |
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 | 2026-01-17 |
 | [Pilgrim](https://open.spotify.com/track/4Libgzg3p5CFzsVYlel1yQ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:01 | 2026-01-06 |  |
+| [Please Don't Go \(Because I Said No\)](https://open.spotify.com/track/2a5P1JUuU4eTizy9pgcYZ7) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/album/0upU91StxEwO874hng87uN) | 2:52 | 2026-03-26 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 | 2026-02-02 | 2026-03-10 |
 | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/track/7AzxTnwsUBw23TfOKpGk71) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh) | 3:35 | 2025-11-02 | 2026-01-15 |
 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 | 2026-01-03 | 2026-02-07 |
+| [Raus](https://open.spotify.com/track/2Luvadk0jM5Y0B7OHNbayv) | [FeurigSeinPeter](https://open.spotify.com/artist/3fRgqO0ZWF9QIrecV5gRnE) | [Raus](https://open.spotify.com/album/2OMxNLz9muDtVN280h3FEf) | 2:53 | 2026-03-26 |  |
 | [rayla](https://open.spotify.com/track/2ew07GJUuMG0tPLTXcuthV) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [so good](https://open.spotify.com/album/3DdZKfTJvBL35J05acYt93) | 2:17 | 2026-03-18 |  |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 | 2026-03-10 |
 | [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 | 2026-03-08 |  |

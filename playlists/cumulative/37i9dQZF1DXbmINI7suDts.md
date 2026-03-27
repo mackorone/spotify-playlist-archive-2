@@ -4,13 +4,14 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Tracy Melon
 
-183 songs - 10 hr 9 min
+184 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-11-17 | 2024-03-02 |
 | [A Thing](https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [1947](https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U) | 3:45 | 2022-06-06 | 2023-08-26 |
 | [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 | 2025-12-19 |
+| [ABCD](https://open.spotify.com/track/7LZi2twUKdO939aMSu4xHb) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Muema Blessed](https://open.spotify.com/artist/67kgMC7Q45xv6JsRliQBWQ) | [ABCD](https://open.spotify.com/album/4FRQvt4uqmTIswP3NerIj0) | 2:10 | 2026-03-26 |  |
 | [AGENDA](https://open.spotify.com/track/40D9TE1bStQ10lNDnhlbMP) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Agenda](https://open.spotify.com/album/79P9lpJeCfUvRW2FJDTJCx) | 3:54 | 2025-09-04 |  |
 | [Akaffekye \- Acoustic Version](https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Akaffekye \(Acoustic Version\)](https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED) | 2:59 | 2022-06-06 | 2023-07-29 |
 | [Akigusa](https://open.spotify.com/track/12IV11evgB42zhjWJID2Rm) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [Akigusa](https://open.spotify.com/album/04C5PjWPsQqGVg4PGFWSDH) | 4:48 | 2025-01-23 |  |
@@ -170,7 +171,7 @@
 | [TEACH ME](https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [TEACH ME](https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf) | 3:05 | 2024-11-22 |  |
 | [Tebamanyi](https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN), [MoRoots](https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ) | [Zik Zak](https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1) | 3:45 | 2022-06-06 | 2022-07-26 |
 | [Temptation](https://open.spotify.com/track/6ALJy5vDLQtgR4rq6OtKt2) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [Temptation](https://open.spotify.com/album/39wpH4KJw7aTQX0WHilIJD) | 3:36 | 2025-04-24 |  |
-| [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 |  |
+| [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 | 2026-03-27 |
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 | 2023-04-01 |
 | [Tovayo](https://open.spotify.com/track/5CJdng4XhusvFMy3vpyXMR) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp) | [Tovayo](https://open.spotify.com/album/68OmDKN3XkTIkPkTSS3OhP) | 3:16 | 2025-11-06 |  |
 | [Treasure](https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Treasure](https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2) | 3:37 | 2025-10-17 |  |

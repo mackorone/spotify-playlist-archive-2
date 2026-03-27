@@ -4,11 +4,12 @@
 
 > The complete soundtrack to Love Story: John F\. Kennedy Jr\. & Carolyn Bessette, airing now on FX.
 
-53 songs - 4 hr 6 min
+55 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Nice Dream\)](https://open.spotify.com/track/1tZcw7GtIqviL32bzaKdSo) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:53 | 2026-03-20 |  |
+| [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 | 2026-03-27 |  |
 | [Awakening](https://open.spotify.com/track/4byY4vHvgtKKoczSiUF55y) | [Dan Crisci](https://open.spotify.com/artist/1n7cM7GVRThCDuQkCjJqZf), [Nick Scheuble](https://open.spotify.com/artist/7CcNLxF0G4hAdxRtB36bML), [Rick Savage](https://open.spotify.com/artist/54nC6fkJFbR3Vqz8F8uh0m), [Sue Williams](https://open.spotify.com/artist/5FZOvU10msYNw8s6fpaSMj) | [Kaleidoscope](https://open.spotify.com/album/2PYOSMYS9o4YG204C9nfsY) | 4:39 | 2026-03-20 |  |
 | [be not depart from me](https://open.spotify.com/track/73dzc6sJyt4o0kBkxfUjHN) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 3:13 | 2026-03-20 |  |
 | [Blood Of Eden](https://open.spotify.com/track/4CO8g2Psbp1knUsiiF7Sa5) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Us \(Remastered Version\)](https://open.spotify.com/album/0k14wOOVVQAMD23Vej4BOF) | 6:38 | 2026-03-20 |  |
@@ -28,6 +29,7 @@
 | [Good](https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Deluxe](https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS) | 3:05 | 2026-03-20 |  |
 | [Headshots](https://open.spotify.com/track/3wScjEbCUk4hFUA18ky4Wm) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Nine Objects Of Desire](https://open.spotify.com/album/6yH1CnRs34R23OjFOdPlCI) | 3:07 | 2026-03-20 |  |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2026-03-20 |  |
+| [Here With Me](https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 4:15 | 2026-03-27 |  |
 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 | 2026-03-20 |  |
 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2026-03-20 |  |
 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/3aZPzF7Sr0zy3K0EkKyEzk) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 4:02 | 2026-03-20 |  |

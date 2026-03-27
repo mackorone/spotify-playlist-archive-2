@@ -2932,7 +2932,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 159212,
       "name": "Let's Play",
       "url": "https://open.spotify.com/track/329hLnLm3VVSPr0kNCsjLn"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 139968,
       "name": "Loosu",
       "url": "https://open.spotify.com/track/5EJPrEUbqzPEpiJP8pn1iN"
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 144489,
       "name": "Mar gaya",
       "url": "https://open.spotify.com/track/6PyYtl7lVZmPSX6NuvQeVA"
@@ -3656,6 +3656,24 @@
       "duration_ms": 228352,
       "name": "Naan Dhaan Da Mass",
       "url": "https://open.spotify.com/track/5A6cWSeDqJqMwt2ylrVHko"
+    },
+    {
+      "album": {
+        "name": "Naan Yaar?",
+        "url": "https://open.spotify.com/album/7zYH2lg9xBtmJgJiGRwCVk"
+      },
+      "artists": [
+        {
+          "name": "Pizta",
+          "url": "https://open.spotify.com/artist/2UnAweOpv7OaiMYzCr8fKu"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107293,
+      "name": "Naan Yaar?",
+      "url": "https://open.spotify.com/track/6mekR7mUIsB9LSCNW78D09"
     },
     {
       "album": {
@@ -4617,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Ragala",
+        "url": "https://open.spotify.com/album/7jrBG0baoXN3VhI7su68Bb"
+      },
+      "artists": [
+        {
+          "name": "Kalinga",
+          "url": "https://open.spotify.com/artist/4J3aBoqDLMWIPe8R6qTDJd"
+        },
+        {
+          "name": "MR NURA",
+          "url": "https://open.spotify.com/artist/5h6hA70JGpFtJg4zn35wxS"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Ragala",
+      "url": "https://open.spotify.com/track/0fDzTuuyKa2NJ8eKXUaAIL"
+    },
+    {
+      "album": {
         "name": "Rap Battle (From \"Dashamakan\") [TAMIL]",
         "url": "https://open.spotify.com/album/4TTXWkOELoST9LdRLgMuAC"
       },
@@ -5350,7 +5390,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 140259,
       "name": "STFUP",
       "url": "https://open.spotify.com/track/5s5Iyv81LvOC3gVDwxzxFC"

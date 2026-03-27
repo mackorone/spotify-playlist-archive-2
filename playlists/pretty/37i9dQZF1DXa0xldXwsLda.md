@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Puro sabor con Sofía Monroy en portada! 🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,517 likes - 66 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,525 likes - 66 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Mavo",
+  "description": "From the trenches. Through the streets.\nCover: Zerrydl",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -4380,7 +4380,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 145248,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk"
@@ -5384,6 +5384,24 @@
       "duration_ms": 176159,
       "name": "Love",
       "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
+    },
+    {
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/5EdudBzo4bemtwY2jp0y5T"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/1MHZaTZvSGR7kE5a5gBl4g"
     },
     {
       "album": {
@@ -7999,6 +8017,32 @@
     },
     {
       "album": {
+        "name": "ROAD TO PARATI",
+        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Jenerall",
+          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
+    },
+    {
+      "album": {
         "name": "Stagnant",
         "url": "https://open.spotify.com/album/2gJmTVEbbIJ6WLp2hN1qap"
       },
@@ -8504,7 +8548,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"

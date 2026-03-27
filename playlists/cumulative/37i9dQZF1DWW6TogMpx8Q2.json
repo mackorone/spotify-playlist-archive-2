@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "SOCIOPATH",
+        "url": "https://open.spotify.com/album/3Qyh5Ho3m7iXO3Fm0pdlqA"
+      },
+      "artists": [
+        {
+          "name": "Yan Ting",
+          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "SOCIOPATH",
+      "url": "https://open.spotify.com/track/4xh0iCUTm3voQWzYE77DX5"
+    },
+    {
+      "album": {
         "name": "some days",
         "url": "https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0"
       },
@@ -2173,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "\u7a7f\u6ce2\u978b\u7684\u60e1\u9b54",
+        "url": "https://open.spotify.com/album/0zT0Kdcbcn8i4asznGyKiU"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244725,
+      "name": "\u7a7f\u6ce2\u978b\u7684\u60e1\u9b54",
+      "url": "https://open.spotify.com/track/32KHVTP6drmpbi9ggTvWe4"
+    },
+    {
+      "album": {
         "name": "\u7d14\u7cb9\u60f3\u54ed",
         "url": "https://open.spotify.com/album/4i6PEoze1dhjtPIaX1SyLa"
       },
@@ -2592,6 +2628,24 @@
       "duration_ms": 282182,
       "name": "\u96e2\u5225\u7684\u898f\u77e9",
       "url": "https://open.spotify.com/track/5tHHZJbJgs6zQmvqewePEf"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u65c5",
+        "url": "https://open.spotify.com/album/51N7fXfEqYWh3nwa9NSZtT"
+      },
+      "artists": [
+        {
+          "name": "Gigi\u708e\u660e\u71b9",
+          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277745,
+      "name": "\u98a8\u65c5",
+      "url": "https://open.spotify.com/track/7l8TcHF7SepbAudgDsOS2a"
     },
     {
       "album": {

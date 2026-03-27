@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: BTS",
+  "description": "De nieuwste pop songs. Cover: ZAYN",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -8741,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/7jyiNtdUnSHPoS3hTab0Ol"
+      },
+      "artists": [
+        {
+          "name": "Armen Paul",
+          "url": "https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183599,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/4xnejVbQLSPrwFWqkeifPq"
+    },
+    {
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
       },
@@ -10748,6 +10766,24 @@
       "duration_ms": 174493,
       "name": "I Know You'd Kill",
       "url": "https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y"
+    },
+    {
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377003,
+      "name": "I Know You're Hurting.",
+      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
     },
     {
       "album": {
@@ -12792,6 +12828,24 @@
       "duration_ms": 152727,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/37ThdXKaRK8L1stV7wxmUr"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162019,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/7J5i2E1jiCmhON9XTn4zZJ"
     },
     {
       "album": {
@@ -14990,7 +15044,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 182400,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
@@ -15756,7 +15810,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 145631,
       "name": "Nothing I Can Do",
       "url": "https://open.spotify.com/track/5UefSeC0pbpaYPi3fOlAaD"
@@ -19139,6 +19193,24 @@
     },
     {
       "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
+    },
+    {
+      "album": {
         "name": "Silence Me (To Death)",
         "url": "https://open.spotify.com/album/7FKxWyMczQQVF1bs9tIrd0"
       },
@@ -21637,6 +21709,24 @@
     },
     {
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
+    },
+    {
+      "album": {
         "name": "The Better Paul",
         "url": "https://open.spotify.com/album/4LKpcZLt9macBsXIIpqYj1"
       },
@@ -22172,7 +22262,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 195546,
       "name": "Think Straight",
       "url": "https://open.spotify.com/track/1UGbGeTBmpkhX4rrGowTqU"
@@ -22414,7 +22504,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 237952,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
@@ -24398,7 +24488,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 170445,
       "name": "With You",
       "url": "https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA"

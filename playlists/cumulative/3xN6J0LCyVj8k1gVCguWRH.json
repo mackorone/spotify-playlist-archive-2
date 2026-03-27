@@ -19240,7 +19240,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 256310,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/37o3DYITvtLexpKwaXeNoL"
@@ -30280,7 +30280,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 157178,
       "name": "Facetime \"Teenie Tiny\"",
       "url": "https://open.spotify.com/track/4UIogRQxb6R8JM7CEq9D3U"
@@ -34308,7 +34308,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 186122,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6ifPR0Ph7jeSHmlAi43YcJ"
@@ -40074,7 +40074,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 240000,
       "name": "HALO",
       "url": "https://open.spotify.com/track/1BAWAKOReuhzM54EiUV2ED"
@@ -59945,6 +59945,24 @@
     },
     {
       "album": {
+        "name": "Malibu & Soda",
+        "url": "https://open.spotify.com/album/1Ho0dq9O77KNHe71WlX0tL"
+      },
+      "artists": [
+        {
+          "name": "A Day On Venus",
+          "url": "https://open.spotify.com/artist/5tTAQWIGL7eubz9ZE8zDgg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260944,
+      "name": "Malibu & Soda",
+      "url": "https://open.spotify.com/track/716HhkR4DUWhRnnzdswjRx"
+    },
+    {
+      "album": {
         "name": "Malice",
         "url": "https://open.spotify.com/album/5kKmTbEN9kx8X6ZzOdJxOW"
       },
@@ -61622,7 +61640,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/0jjXOQfu0Lq5WDOSADoJI4"

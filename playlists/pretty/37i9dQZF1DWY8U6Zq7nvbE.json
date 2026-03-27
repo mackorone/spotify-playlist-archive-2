@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2450167,
+  "num_followers": 2450906,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 132024,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Habits (Stay High)",
         "url": "https://open.spotify.com/album/0ETh59PJQx7TpO7xkJNBYm"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 228000,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/4trkclJUGWRuXo1mlPLSAR"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -251,8 +251,24 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "BLACKBIRD",
-        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0texx5CYZmR9bngDQpTZeC"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 143294,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5YbBNsK5ftR2vazlPiL1ZZ"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 128009,
-      "name": "BLACKBIRD",
-      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
+      "duration_ms": 220241,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -279,22 +295,6 @@
       "duration_ms": 226181,
       "name": "Only Girl In The World",
       "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0texx5CYZmR9bngDQpTZeC"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 143294,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5YbBNsK5ftR2vazlPiL1ZZ"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -331,8 +331,24 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 202076,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
       },
       "artists": [
         {
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 220241,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP"
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -359,22 +375,6 @@
       "duration_ms": 160754,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 202076,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
       },
       "artists": [
         {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+          "name": "S\u018eLFISH",
+          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+      "duration_ms": 132147,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
         "name": "Just The Two Of Us - Acoustic",
         "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
       },
@@ -519,38 +535,6 @@
       "duration_ms": 186008,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
-      },
-      "artists": [
-        {
-          "name": "S\u018eLFISH",
-          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
-        }
-      ],
-      "duration_ms": 132147,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Visiting Hours (Acoustic)",
-        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 197202,
-      "name": "Visiting Hours (Acoustic)",
-      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -571,18 +555,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Never Gonna Give You Up - Acoustic",
-        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
       "artists": [
         {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
         }
       ],
-      "duration_ms": 217848,
-      "name": "Never Gonna Give You Up - Acoustic",
-      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -599,6 +583,22 @@
       "duration_ms": 190561,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Never Gonna Give You Up - Acoustic",
+        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 217848,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
-      },
-      "artists": [
-        {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
-        }
-      ],
-      "duration_ms": 203608,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/2EewwLUoTMjlBxexUZzUCm"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "duration_ms": 203608,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
       },
@@ -679,54 +679,6 @@
       "duration_ms": 163812,
       "name": "Without You",
       "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "One Dance",
-        "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
-      },
-      "artists": [
-        {
-          "name": "POOL KIDS",
-          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn"
-      },
-      "artists": [
-        {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -759,6 +711,54 @@
       "duration_ms": 189574,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "One Dance",
+        "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "duration_ms": 208839,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn"
     },
     {
       "added_at": "2026-03-19 12:18:11",

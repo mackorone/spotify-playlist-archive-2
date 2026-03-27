@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with ILLENIUM",
-  "num_followers": 474357,
+  "num_followers": 474424,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2026-03-20 15:08:17",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        }
-      ],
-      "duration_ms": 196233,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
-    },
-    {
-      "added_at": "2026-03-20 15:08:17",
-      "album": {
         "name": "Something Bout You",
         "url": "https://open.spotify.com/album/4vNs2UzUz5w5gB78mIlkyg"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 217600,
       "name": "Something Bout You",
       "url": "https://open.spotify.com/track/3AL2QjShP9KzTvikzJz289"
+    },
+    {
+      "added_at": "2026-03-20 15:08:17",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 196233,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
     },
     {
       "added_at": "2026-03-20 15:08:17",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-03-20 15:08:17",
       "album": {
-        "name": "I Am Not My Body",
-        "url": "https://open.spotify.com/album/2xeVGOuUdFsNJJZIZ7pTHt"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 138918,
-      "name": "I Am Not My Body",
-      "url": "https://open.spotify.com/track/5ibkAu0ZTsHYhJtNK3xm7v"
-    },
-    {
-      "added_at": "2026-03-20 15:08:17",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 195775,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
+    },
+    {
+      "added_at": "2026-03-20 15:08:17",
+      "album": {
+        "name": "I Am Not My Body",
+        "url": "https://open.spotify.com/album/2xeVGOuUdFsNJJZIZ7pTHt"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 138918,
+      "name": "I Am Not My Body",
+      "url": "https://open.spotify.com/track/5ibkAu0ZTsHYhJtNK3xm7v"
     },
     {
       "added_at": "2026-03-20 15:08:17",
@@ -2131,30 +2131,6 @@
     {
       "added_at": "2026-03-20 15:08:17",
       "album": {
-        "name": "Above the Water",
-        "url": "https://open.spotify.com/album/4tPmKiTF3YpzDeJeLnC3cd"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "CADMIUM",
-          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
-        },
-        {
-          "name": "Ben Provencial",
-          "url": "https://open.spotify.com/artist/5weUjhew3mKsYMtwxB2a0h"
-        }
-      ],
-      "duration_ms": 159144,
-      "name": "Above the Water",
-      "url": "https://open.spotify.com/track/5ASYfsmEi5gQurD5EMs4hG"
-    },
-    {
-      "added_at": "2026-03-20 15:08:17",
-      "album": {
         "name": "Waiting On This Day Forever",
         "url": "https://open.spotify.com/album/0prOosQFge1HKryicdbaZ1"
       },
@@ -2175,6 +2151,30 @@
       "duration_ms": 212625,
       "name": "Waiting On This Day Forever",
       "url": "https://open.spotify.com/track/0C1NSDqt7Vr6OxfoiBprOS"
+    },
+    {
+      "added_at": "2026-03-20 15:08:17",
+      "album": {
+        "name": "Above the Water",
+        "url": "https://open.spotify.com/album/4tPmKiTF3YpzDeJeLnC3cd"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "CADMIUM",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Ben Provencial",
+          "url": "https://open.spotify.com/artist/5weUjhew3mKsYMtwxB2a0h"
+        }
+      ],
+      "duration_ms": 159144,
+      "name": "Above the Water",
+      "url": "https://open.spotify.com/track/5ASYfsmEi5gQurD5EMs4hG"
     },
     {
       "added_at": "2026-03-20 15:08:17",
@@ -2283,6 +2283,26 @@
     {
       "added_at": "2026-03-20 15:08:17",
       "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+    },
+    {
+      "added_at": "2026-03-20 15:08:17",
+      "album": {
         "name": "Otherside Of You",
         "url": "https://open.spotify.com/album/7HFD2ZMSlkWH8PGKnJXLDw"
       },
@@ -2303,26 +2323,6 @@
       "duration_ms": 221250,
       "name": "Otherside Of You",
       "url": "https://open.spotify.com/track/3VEr7bswZsSZXZK5HvQo8b"
-    },
-    {
-      "added_at": "2026-03-20 15:08:17",
-      "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
     },
     {
       "added_at": "2026-03-20 15:08:17",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2026-03-20 15:08:17",
       "album": {
-        "name": "Ready Now",
-        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "ary kemler",
-          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
-    },
-    {
-      "added_at": "2026-03-20 15:08:17",
-      "album": {
         "name": "Walk to the Sun",
         "url": "https://open.spotify.com/album/1Zym2qfQtJb2Ega5D2JS1h"
       },
@@ -2423,6 +2403,26 @@
       "duration_ms": 224000,
       "name": "Walk to the Sun",
       "url": "https://open.spotify.com/track/6km8dVIGHsi9tUpZKLTRZl"
+    },
+    {
+      "added_at": "2026-03-20 15:08:17",
+      "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "ary kemler",
+          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
     },
     {
       "added_at": "2026-03-20 15:08:17",

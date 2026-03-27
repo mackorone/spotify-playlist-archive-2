@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 ### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Mujeres mexicanas a todo volumen! FLVCKKA en portada 💚
+> ¡Mujeres mexicanas a todo volumen! The Warning en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,880 likes - 160 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,934 likes - 160 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

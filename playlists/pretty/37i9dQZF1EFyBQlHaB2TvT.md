@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68LkD9fctywmdQCAfFQ8X2">Johnny Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 | 24 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 | 25 | [only me](https://open.spotify.com/track/75CQb3vXfiah8MOyXqio8t) | [Jake The Snake](https://open.spotify.com/artist/6WeH5ssIPZ0KmBSYu8u30V), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [only me](https://open.spotify.com/album/0iFRaaqEcEECluhl0UdjR0) | 2:40 |
 
-Snapshot ID: `AcNG1gAAAAD87KBUKcS82fl08+ZYmcIE`
+Snapshot ID: `AcNMngAAAAAs474UFHAOkoF6n1gXDQhF`

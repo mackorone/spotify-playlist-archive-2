@@ -1731,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/6wZV3F5q3vtN1gBA17UR0l"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6p1qrgCy5epVwjlbUXdps4"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -2030,6 +2052,28 @@
       "duration_ms": 141269,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH"
+    },
+    {
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "album": {
@@ -3040,7 +3084,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 135902,
       "name": "Big Masquerade (Opu Owu)",
       "url": "https://open.spotify.com/track/7gc3zWnWsNq1AWX1o9iCKw"
@@ -8929,6 +8973,24 @@
     },
     {
       "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/3uO5dsZlTd91Nf8CEl3DEp"
+      },
+      "artists": [
+        {
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/0u87IwEXPIXL7p3Lcrc2U9"
+    },
+    {
+      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
       },
@@ -10304,7 +10366,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 116585,
       "name": "Ikeja (No Go Thief)",
       "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
@@ -21678,7 +21740,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 205714,
       "name": "Trenches Luv",
       "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Re:name
 
-1,692 songs - 4 day 6 hr 10 min
+1,693 songs - 4 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Fantasy](https://open.spotify.com/track/0MfNdyX3fhZKBsQYtHBz2v) | [Thitta Henry](https://open.spotify.com/artist/1m5QjIs80kL67XCMc9eNMs) | [Fantasy](https://open.spotify.com/album/4ITEvqWM0U9wPHKHWr1Uar) | 3:13 | 2023-12-12 | 2023-12-20 |
 | [Farewell](https://open.spotify.com/track/2ROiYQ33VD3PcLfeGo31dx) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Farewell](https://open.spotify.com/album/6qdUoT7zFNa9Bm61KkaJsP) | 3:57 | 2024-12-03 | 2025-01-19 |
 | [favorite jinx](https://open.spotify.com/track/46EOK7ad6RhG1gwFdpeq5t) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [The Gourd Ailand](https://open.spotify.com/album/4IxtHzU8PE8jjWfh3jsPLL) | 3:02 | 2024-04-23 | 2024-05-01 |
-| [Fighting Pose](https://open.spotify.com/track/1C5kdbGe4QznemofFBKaOX) | [CROWN HEAD](https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK) | [Fighting Pose](https://open.spotify.com/album/3ccyKt14sMo6ntxJUtAyGs) | 3:12 | 2026-03-10 | 2026-03-18 |
+| [Fighting Pose](https://open.spotify.com/track/1C5kdbGe4QznemofFBKaOX) | [CROWN HEAD](https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK) | [Fighting Pose](https://open.spotify.com/album/3ccyKt14sMo6ntxJUtAyGs) | 3:12 | 2026-03-10 |  |
 | [FIVE](https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [アウトドア](https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE) | 3:32 | 2023-07-27 | 2024-04-23 |
 | [Fix](https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Fix](https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko) | 3:32 | 2025-04-29 | 2025-07-09 |
 | [FLASH BACK!!!!!!!!](https://open.spotify.com/track/65VJ1MYXZOYuRcf1vFna3Z) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [FLASH BACK!!!!!!!!](https://open.spotify.com/album/4yzmhRTHmTSDdlrmRjAaZA) | 3:30 | 2025-10-08 | 2026-02-12 |
@@ -508,7 +508,7 @@
 | [Planetarium](https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn) | 3:55 | 2024-03-19 | 2024-04-19 |
 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 | 2025-06-11 | 2026-02-12 |
 | [platonic](https://open.spotify.com/track/4F0nt2w0WSttazbuWg5dZv) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [platonic](https://open.spotify.com/album/78c0RrDE3DeU4WOEja1GEX) | 3:55 | 2025-09-16 | 2025-10-01 |
-| [PLAY](https://open.spotify.com/track/1f4iyIH0FXg1oku5JJkC0N) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [JUST](https://open.spotify.com/album/5d8WCGbijeDvWADfZBMvNZ) | 3:59 | 2026-02-11 |  |
+| [PLAY](https://open.spotify.com/track/1f4iyIH0FXg1oku5JJkC0N) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [JUST](https://open.spotify.com/album/5d8WCGbijeDvWADfZBMvNZ) | 3:59 | 2026-02-11 | 2026-03-27 |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-07-27 | 2024-03-08 |
 | [PLAY](https://open.spotify.com/track/3OXbMfevCZ9NexxdIhYEAR) | [LUDENS](https://open.spotify.com/artist/2v5SxAcG3dpktPD1E8N6V3) | [PLAY](https://open.spotify.com/album/2jfeU2xFZWXj5CxSGi2Mhu) | 2:55 | 2026-02-11 | 2026-02-18 |
 | [Player](https://open.spotify.com/track/7pCPywA8iN4WVJdNcPXOSL) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [Player](https://open.spotify.com/album/21XW1pX2rCszRc5YRrQloP) | 3:11 | 2024-01-31 | 2024-02-07 |
@@ -726,7 +726,7 @@
 | [Vivid Beat](https://open.spotify.com/track/2N1Ua1uURGDK2BWEjt0E8P) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [Vivid Beat](https://open.spotify.com/album/4WGnxnGXpHAq7XGw26Ql7N) | 4:11 | 2023-12-19 | 2023-12-21 |
 | [Vivid Beat](https://open.spotify.com/track/5Muww3vzhHiACpuXDFSjhY) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [Vivid Beat](https://open.spotify.com/album/1TIvVgm09JDIbqH1RNdKZF) | 4:11 | 2023-12-19 | 2024-01-10 |
 | [wagon](https://open.spotify.com/track/5roUCXqvMpilr43JipuuFf) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [wagon](https://open.spotify.com/album/6vqEmvuNYwh8EUuk6WYsrK) | 3:53 | 2024-12-10 | 2025-03-19 |
-| [Waruihito](https://open.spotify.com/track/1PRMKGquWUMcgKerSVlHYB) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Waruihito](https://open.spotify.com/album/6Z3QXH7reG3pihAN393Btq) | 4:20 | 2026-02-11 |  |
+| [Waruihito](https://open.spotify.com/track/1PRMKGquWUMcgKerSVlHYB) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Waruihito](https://open.spotify.com/album/6Z3QXH7reG3pihAN393Btq) | 4:20 | 2026-02-11 | 2026-03-27 |
 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 | 2023-07-27 | 2023-12-20 |
 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 | 2023-07-27 | 2023-08-02 |
 | [We don't need heroes](https://open.spotify.com/track/66PLaLborZo2mvNIs546T5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [We don't need heroes](https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1) | 3:10 | 2025-01-21 | 2025-10-09 |
@@ -1137,6 +1137,7 @@
 | [ペトリコール](https://open.spotify.com/track/6KfQDJHw6GxNUCOzEQvKsb) | [ヒペリカム](https://open.spotify.com/artist/3Jv0O8ybeDj2n0vMoeughy) | [ペトリコール](https://open.spotify.com/album/5vY5OqRnEcflK9hvmmIvz1) | 4:09 | 2023-11-14 | 2023-11-22 |
 | [ペパーミント](https://open.spotify.com/track/3U3xD3JRHaBzrMKsrhOazB) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [大人の涙](https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs) | 3:22 | 2023-08-29 | 2024-08-02 |
 | [ペパーミントガム](https://open.spotify.com/track/7dX5rnJ4N8Ee1mJZkLQgHP) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ペパーミントガム](https://open.spotify.com/album/78VrQrdbnCEtU6QoA7JYMi) | 3:50 | 2023-11-07 | 2023-11-09 |
+| [ペンローズの階段](https://open.spotify.com/track/3p9UlwEgZPf39bCa2E7RSG) | [Broken my toybox](https://open.spotify.com/artist/029Mw3yRazj0XYdWr72c61) | [ペンローズの階段](https://open.spotify.com/album/7BHkGXxqbSDw6zO9k0YNAv) | 3:57 | 2026-03-24 |  |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-11-14 | 2024-09-18 |
 | [ホワイトアウト](https://open.spotify.com/track/6ueqIFxAqxPnFdZXKNPSrr) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 3:31 | 2023-08-15 | 2024-12-18 |
 | [ホーム](https://open.spotify.com/track/0CMCDo5iFYvJjUMaweh6dV) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ホーム](https://open.spotify.com/album/6lRRdBI3g2SvShIbhypgAV) | 2:53 | 2024-04-30 | 2024-06-01 |

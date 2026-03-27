@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6895,
+  "num_followers": 6902,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAlIUJvAtmIQVXJhSGvcDex",
+  "snapshot_id": "acMlgAAAAADrC74gbHPjxTECC2oDNpZi",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip 2 Hip Hypnosis",
-        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Hip 2 Hip Hypnosis",
-      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "READY!",
         "url": "https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 209535,
       "name": "READY!",
       "url": "https://open.spotify.com/track/3sw0DdToI9uCMTZmTzsBwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip 2 Hip Hypnosis",
+        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Hip 2 Hip Hypnosis",
+      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humo en la Trampa 3",
-        "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "Get Paid (feat. Durand Bernarr)",
-      "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 222173,
       "name": "Lil Bit (feat. METTA)",
       "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humo en la Trampa 3",
+        "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 161929,
+      "name": "Get Paid (feat. Durand Bernarr)",
+      "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
     },
     {
       "added_at": null,

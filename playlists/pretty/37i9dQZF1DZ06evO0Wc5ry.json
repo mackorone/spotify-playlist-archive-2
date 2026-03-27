@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 167270,
+  "num_followers": 167292,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAADsIHRsi0X+8JjodR8owdF",
+  "snapshot_id": "acMlgAAAAACl/coY/CHhFBsCt3gQC6Mk",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Grillz The Album",
-        "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
+        "name": "Street Swag, Vol. 2",
+        "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
       },
       "artists": [
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "Marsha Ambrosius",
-          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Unk",
+          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
         }
       ],
-      "duration_ms": 297280,
-      "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
-      "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
+      "duration_ms": 200971,
+      "name": "Walk It Out",
+      "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
     },
     {
       "added_at": null,
@@ -655,26 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Swag, Vol. 2",
-        "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
+        "name": "Gangsta Grillz The Album",
+        "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
       "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Unk",
-          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
         }
       ],
-      "duration_ms": 200971,
-      "name": "Walk It Out",
-      "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
+      "duration_ms": 297280,
+      "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
+      "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
     },
     {
       "added_at": null,

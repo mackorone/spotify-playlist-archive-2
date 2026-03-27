@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15973,
+  "num_followers": 15969,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAC+8xZ15qAvfbRiI/xI8DgL",
+  "snapshot_id": "acMlgAAAAACY9VCAtBI/M8sPNDZrsVJT",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "..FEISTY",
-      "url": "https://open.spotify.com/track/5RRqi6hjlM18s7lFkmyA0x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "..FEISTY (Oppidan remix)",
         "url": "https://open.spotify.com/album/3RHHWTV841eOr2bHvVWuNR"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 161739,
       "name": "..FEISTY - Oppidan remix",
       "url": "https://open.spotify.com/track/38l4HezLcZ6lmQ4ISf7bs9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "..FEISTY",
+      "url": "https://open.spotify.com/track/5RRqi6hjlM18s7lFkmyA0x"
     },
     {
       "added_at": null,
@@ -515,6 +515,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 231325,
+      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg"
       },
@@ -571,34 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
-        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
       "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 231325,
-      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
-      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 141760,
       "name": "HARD WAY (feat. Becky G)",
       "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End of an Era",
-        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
       },
       "artists": [
         {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 170899,
-      "name": "Is That Right",
-      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
+      "duration_ms": 161177,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
     },
     {
       "added_at": null,
@@ -1059,22 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISSED OFF",
-        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 161177,
-      "name": "PISSED OFF",
-      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     },
     {
       "added_at": null,

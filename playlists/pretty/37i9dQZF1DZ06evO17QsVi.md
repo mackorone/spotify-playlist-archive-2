@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,666 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,748 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 19 | [Breathin](https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:04 |
 | 20 | [Can't C Me](https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 5:30 |
 | 21 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
-| 22 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
-| 23 | [To Live & Die In L.A.](https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:32 |
+| 22 | [To Live & Die In L.A.](https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:32 |
+| 23 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
 | 24 | [Only God Can Judge Me \(ft\. Rappin' 4\-Tay\)](https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:56 |
 | 25 | [Until The End Of Time](https://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [R.L\. Hugger](https://open.spotify.com/artist/6tUtWRGkgU68o7EblHWxgM), [Samuel J\. "Tone" Barnes](https://open.spotify.com/artist/4huJyydJJ5UeK2tSuZ70gc) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:26 |
 | 26 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 50 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 
-Snapshot ID: `acHUAAAAAAA5+RgsD7kgvE8Ucvwsgq9O`
+Snapshot ID: `acMlgAAAAAD9vftTs2n3jE2W3CxsViCi`

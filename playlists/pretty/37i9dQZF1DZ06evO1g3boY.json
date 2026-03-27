@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173978,
+  "num_followers": 173993,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADs+G38V5iE0JOw9VX2U5OX",
+  "snapshot_id": "acMlgAAAAAAcUsE12pTBY9FnBqexFKdU",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "duration_ms": 194194,
+      "name": "Hoje Cedo",
+      "url": "https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 227220,
       "name": "Us memo preto zica",
       "url": "https://open.spotify.com/track/6zv9QgibOHQQUG9cGlqGaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "duration_ms": 194194,
-      "name": "Hoje Cedo",
-      "url": "https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
-      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 150439,
       "name": "Levanta e Anda",
       "url": "https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
+      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
     },
     {
       "added_at": null,
@@ -435,22 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
-        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 188518,
-      "name": "DESCOBRIDOR",
-      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
+        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
       },
       "artists": [
         {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+      "duration_ms": 188518,
+      "name": "DESCOBRIDOR",
+      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
     },
     {
       "added_at": null,
@@ -595,6 +595,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Rua Augusta - Live",
+      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
+        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "O que n\u00f3iz faz com essa dor?",
+      "url": "https://open.spotify.com/track/0N1jAQTeTbmibSZERYl4ER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -619,42 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
-        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "O que n\u00f3iz faz com essa dor?",
-      "url": "https://open.spotify.com/track/0N1jAQTeTbmibSZERYl4ER"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Rua Augusta - Live",
-      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9 Tudo Pra Ontem",
         "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
       },
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rafa Kabelo",
+          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
         }
       ],
-      "duration_ms": 335600,
-      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
-      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
+      "duration_ms": 240117,
+      "name": "Alma G\u00eamea",
+      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
     },
     {
       "added_at": null,
@@ -711,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rafa Kabelo",
-          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
         }
       ],
-      "duration_ms": 240117,
-      "name": "Alma G\u00eamea",
-      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
+      "duration_ms": 335600,
+      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
+      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
     },
     {
       "added_at": null,

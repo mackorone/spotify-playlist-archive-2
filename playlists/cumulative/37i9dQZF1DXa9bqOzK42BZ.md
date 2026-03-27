@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Guardian Angel
 
-322 songs - 1 day 3 hr 46 min
+324 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/track/3V6MVehktSGLq4yIR2kdyf) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/album/7jVZb2169KDjIBMrLDjiDo) | 3:51 | 2025-01-17 | 2025-10-10 |
 | [Asante](https://open.spotify.com/track/4DXLuVfYociqDPabhKFLtE) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Asante \(feat\. Masauti\)](https://open.spotify.com/album/6XiJLVRcX89F7uDXtzq1mS) | 3:33 | 2025-08-15 |  |
 | [Asante](https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Asante](https://open.spotify.com/album/6y8LWCcXI7BK7tlV8f3WVF) | 3:26 | 2026-02-04 | 2026-02-06 |
+| [Asante](https://open.spotify.com/track/2q6d3jUYtq6jcJLRNCdTZL) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [Asante](https://open.spotify.com/album/3OQhPS52juljB5hPz0lm8O) | 9:30 | 2026-03-27 |  |
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
 | [Atafanya](https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atafanya](https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ) | 3:49 | 2025-04-18 | 2025-09-12 |
@@ -71,6 +72,7 @@
 | [Habadiliki \- Live](https://open.spotify.com/track/3QWUUdnGaIpsiJIDdTgT4x) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Habadiliki \(Live\)](https://open.spotify.com/album/0d6dkI00atJmMDl21u8G55) | 4:20 | 2025-01-17 | 2025-07-25 |
 | [Hafanani](https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Hafanani](https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg) | 3:28 | 2024-04-05 | 2025-10-10 |
 | [Hakawii](https://open.spotify.com/track/0Y0wxp8SGWwAkfa3wRwgke) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Hakawii](https://open.spotify.com/album/3SUFJpvDLJfXHbgsARm0xl) | 4:17 | 2025-07-25 |  |
+| [Hakuna Jambo](https://open.spotify.com/track/6jKksLPcFzE2JvFQENhpn7) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Hakuna Jambo](https://open.spotify.com/album/4TIqbHg2aBn6BRpQjuqudg) | 7:02 | 2026-03-27 |  |
 | [Hakuna Kama Wewe](https://open.spotify.com/track/66xyIlcQ2OkouvA8XtzpVG) | [PRAISE TEAM TAG FOREST YA KWANZA](https://open.spotify.com/artist/50hp2iuwBlYltAQboCN8k3) | [Utukufu wa Nyumba Hii](https://open.spotify.com/album/0hgFtUKr3UU41K8DYZP6BQ) | 8:53 | 2024-10-04 | 2025-07-25 |
 | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/album/5Sv5uFjTEmMzgMg0MXyg9c) | 7:16 | 2023-09-22 | 2024-05-24 |
 | [Hakuna Wakufanana](https://open.spotify.com/track/2iDJTL5XerzoErsduFYWVQ) | [Dan Em](https://open.spotify.com/artist/5UysAc77bsT1C6XJIZn1u1) | [Halleluya \(Worship 1\)](https://open.spotify.com/album/6iHWWsouuBWpKUzJlROoYr) | 5:06 | 2022-06-24 | 2025-07-25 |

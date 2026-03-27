@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 105 songs - 6 hr 7 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,12 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 103 | [Hoping to Find](https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Samson Wrote](https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg) | [Hoping to Find](https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu) | 3:13 |
 | 104 | [Sevacabar](https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Sevacabar](https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm) | 2:50 |
 | 105 | [Come on Home](https://open.spotify.com/track/5NUz4rCdmgCTGtD6o1Qk5D) | [Kristy Wilkins](https://open.spotify.com/artist/3c1coxeyHjp3W1RwzzzOYr) | [Devoted](https://open.spotify.com/album/3saAtiUaTp2bJId7BrNfC3) | 3:33 |
+| 106 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 |
+| 107 | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/track/2a5P1JUuU4eTizy9pgcYZ7) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/album/0upU91StxEwO874hng87uN) | 2:52 |
+| 108 | [Raus](https://open.spotify.com/track/2Luvadk0jM5Y0B7OHNbayv) | [FeurigSeinPeter](https://open.spotify.com/artist/3fRgqO0ZWF9QIrecV5gRnE) | [Raus](https://open.spotify.com/album/2OMxNLz9muDtVN280h3FEf) | 2:53 |
+| 109 | [Grandmaster Rock/Rap](https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Very Best of Tara Turner](https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE) | 2:52 |
+| 110 | [Flames From Ashes](https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Learning to Love](https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d) | 3:20 |
+| 111 | [Dread I](https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Dread I](https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR) | 3:51 |
+| 112 | [Madaket](https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:43 |
 
-Snapshot ID: `AAANyMfuEI3FTGaF0BkumpBTNIobPilT`
+Snapshot ID: `AAANz1NQQjDSJa0vbja+dbR+zLl0HiSV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,105 likes - 153 songs - 13 hr 56 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,101 likes - 153 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 4 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus & This Place \(Live\)](https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr) | 8:02 |
 | 5 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
 | 6 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
-| 7 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
-| 8 | [Who Else](https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Who Else](https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo) | 5:15 |
+| 7 | [Who Else](https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Who Else](https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo) | 5:15 |
+| 8 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
 | 9 | [Gratitude \- Live At Sound Emporium](https://open.spotify.com/track/37WPHM0v6wekvi5wXnve4W) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK) | 7:07 |
 | 10 | [Left It In The River](https://open.spotify.com/track/12UlWZFRx4feuHwmy5CN2a) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Left It In The River](https://open.spotify.com/album/4sFdV25QCnfJSAHvfd4SYC) | 2:58 |
 | 11 | [Goodness Of God \- Live](https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Goodness Of God \(Live\)](https://open.spotify.com/album/7KgAz06YJmhpSPLl5Nfc44) | 5:47 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 152 | [Rest On Us](https://open.spotify.com/track/25p9WwZkKwI07cZiHxFask) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Harvest Grapevine](https://open.spotify.com/artist/1fHsA04cL5A4gkCzl9gAW0) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:24 |
 | 153 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 
-Snapshot ID: `AAAhzHJkDpLIotCFt4iDQniCf/lryh96`
+Snapshot ID: `AAAhzeKXnL+FValS3WP/dX5swFUpmybE`

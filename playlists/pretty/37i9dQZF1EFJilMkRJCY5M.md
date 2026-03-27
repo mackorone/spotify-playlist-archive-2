@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 58 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 |
 | 59 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
 | 60 | [Home We Choose](https://open.spotify.com/track/0XxwxPxS2oK6Iv0Ge6DwkB) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Hello California](https://open.spotify.com/album/2PnbNBgtDA7VPdIJaHOYV3) | 4:10 |
-| 61 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
-| 62 | [Hennessy in Tennessee](https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 2:45 |
+| 61 | [Hennessy in Tennessee](https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 2:45 |
+| 62 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
 | 63 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
 | 64 | [Mustang](https://open.spotify.com/track/2De0YSP8u3FhJDFyOpzdmB) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Mustang](https://open.spotify.com/album/1fgR6If4iS7yOoaHs8uoLD) | 2:44 |
 | 65 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 82 | [Fell Into You](https://open.spotify.com/track/0ENrVuNnqpmnmdjgUxg61j) | [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Fell Into You](https://open.spotify.com/album/3VBQxDg1c5ND7HoVCzIfHw) | 2:52 |
 | 83 | [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 |
 | 84 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 |
-| 85 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
-| 86 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 |
+| 85 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 |
+| 86 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
 | 87 | [Evergreen](https://open.spotify.com/track/1lQSetX6AhrCJD2sU7Jfph) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Evergreen](https://open.spotify.com/album/4uMpjZ3LcrGuAB8RuB0eFf) | 2:21 |
 | 88 | [Lethal](https://open.spotify.com/track/7k0n8cQ0XUxDU5209qcE07) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [When the Money Runs Out](https://open.spotify.com/album/1a8Qi4Py6my4IxQAjWoPFK) | 2:50 |
 | 89 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 128 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 129 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcNG1gAAAAB/uxdkmmuYz8PBmgbNDdia`
+Snapshot ID: `AcNMngAAAAAshFDMD7ayBBmSJkXq+UTO`

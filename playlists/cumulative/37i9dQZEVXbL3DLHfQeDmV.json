@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Hello Juliet",
       "url": "https://open.spotify.com/track/0miNQiJqyO5CIZbyLTHO7J"
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 217320,
       "name": "Housebroken",
       "url": "https://open.spotify.com/track/1SIqYLTRjjZ3dSJCkqR1fK"
@@ -4796,6 +4796,28 @@
       "duration_ms": 147012,
       "name": "How We Shoot",
       "url": "https://open.spotify.com/track/4CBfvzZtVwnqcBinLSYVsi"
+    },
+    {
+      "album": {
+        "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428649,
+      "name": "Hunting The Wren - The Immortal Man Version",
+      "url": "https://open.spotify.com/track/4C3TNDpxyXA2FxpEvp1pqt"
     },
     {
       "album": {
@@ -5168,7 +5190,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 239642,
       "name": "I Went Back To Ibiza",
       "url": "https://open.spotify.com/track/2WiOo1yKa1yFzPADWW7ndy"
@@ -7255,6 +7277,44 @@
     },
     {
       "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333451,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
+    },
+    {
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
@@ -8970,7 +9030,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -8988,7 +9048,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -9466,7 +9526,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 260571,
       "name": "solo - KETTAMA remix",
       "url": "https://open.spotify.com/track/2cmtyqW7yIflk6OEQDH2G6"
@@ -10106,7 +10166,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 174960,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"
@@ -11118,6 +11178,24 @@
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
+    },
+    {
+      "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/0lL67XdTYaVblCZirwT4YL"
+      },
+      "artists": [
+        {
+          "name": "sweetiele",
+          "url": "https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/26bd5mHcE3k4Z6gdwg3bbO"
     },
     {
       "album": {

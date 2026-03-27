@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=1k_yT26TS5mkQA_JB6h3SQ\"> Khalighraph Jones</a> and <a href=\"https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43?si=Jd5Ri7jUQaebxR7BK7_Tew\"> Johnny Vigeti</a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=Rn-RYfRaRkqbDKPu4xVRHA\"> Boutross</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -776,6 +776,24 @@
       "duration_ms": 123428,
       "name": "Big Makamasi",
       "url": "https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS"
+    },
+    {
+      "album": {
+        "name": "Billie Jean",
+        "url": "https://open.spotify.com/album/6Yilc06FkfWjNPxwyGUTlJ"
+      },
+      "artists": [
+        {
+          "name": "HQJAQS",
+          "url": "https://open.spotify.com/artist/6cyjzp8fErLjxeksd0FEz2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169511,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/0eNG4ozPjfW70AckUaLbZD"
     },
     {
       "album": {
@@ -3038,6 +3056,24 @@
       "duration_ms": 118831,
       "name": "Goshoree",
       "url": "https://open.spotify.com/track/3gghsO2XOQqHQq3oAaMNna"
+    },
+    {
+      "album": {
+        "name": "Grace Ya God",
+        "url": "https://open.spotify.com/album/53CLMpjuNbOHNIx3tZfrSK"
+      },
+      "artists": [
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Grace Ya God",
+      "url": "https://open.spotify.com/track/6zXGzlGNUQQ8YpXIM381Lc"
     },
     {
       "album": {
@@ -7523,6 +7559,28 @@
     },
     {
       "album": {
+        "name": "Running Late",
+        "url": "https://open.spotify.com/album/54hU3DYQbPEOHiiuhSFI1Z"
+      },
+      "artists": [
+        {
+          "name": "BoiBlacc",
+          "url": "https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy"
+        },
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Running Late",
+      "url": "https://open.spotify.com/track/77OEOwuTMCp4rLmgGiGF8k"
+    },
+    {
+      "album": {
         "name": "Shrappin' Rage",
         "url": "https://open.spotify.com/album/4ChS3ntxn25hcVpyDm9K1c"
       },
@@ -9750,6 +9808,24 @@
       "duration_ms": 179541,
       "name": "Wagwan",
       "url": "https://open.spotify.com/track/00SXt8iGO5T9IKjzhPIiW3"
+    },
+    {
+      "album": {
+        "name": "Walahi",
+        "url": "https://open.spotify.com/album/6ftxWRRtp5VCOOoB9jvJfo"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156793,
+      "name": "Walahi",
+      "url": "https://open.spotify.com/track/4RglRKBc2F3upPtrIUicMD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Mala Gesti\u00f3n.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Vicente Calder\u00f3n.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -410,10 +410,28 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 197360,
       "name": "Alguien (quien sea)",
       "url": "https://open.spotify.com/track/58otJbmPf2f6pJQUBOg2GU"
+    },
+    {
+      "album": {
+        "name": "Alguien especial",
+        "url": "https://open.spotify.com/album/5Y9vYd2Alq7pXGO6xuSjCS"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214170,
+      "name": "Alguien especial",
+      "url": "https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt"
     },
     {
       "album": {
@@ -1335,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Cinco Estrellas",
+        "url": "https://open.spotify.com/album/4yBK0Kj22LF4HcRQ8ekfsp"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Cada Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1Psl8FMSEa0d2NE4wrXODt"
+    },
+    {
+      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/27e4FfyKW2sdN45j6dBP64"
       },
@@ -1462,7 +1498,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 187426,
       "name": "Carrera de Vainas",
       "url": "https://open.spotify.com/track/5sTzwcJPfAOI7neub04Gml"
@@ -2026,6 +2062,24 @@
       "duration_ms": 212586,
       "name": "Cuando todo el mundo duerme",
       "url": "https://open.spotify.com/track/50PhMOpKlCEsLCKu2Vh7yG"
+    },
+    {
+      "album": {
+        "name": "Cuando todo vaya mal",
+        "url": "https://open.spotify.com/album/2UNgIEHiwB0cfn2XskIwUR"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272364,
+      "name": "Cuando todo vaya mal",
+      "url": "https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk"
     },
     {
       "album": {
@@ -2924,7 +2978,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 165000,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/1iGyLvO6468NEOnDTzZKxq"
@@ -3560,7 +3614,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 208731,
       "name": "Esta noche es nuestra",
       "url": "https://open.spotify.com/track/7ajeqqYmWYO1FSHsa9EV4d"
@@ -3618,7 +3672,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 259216,
       "name": "Esto que vivimos",
       "url": "https://open.spotify.com/track/3F8ATT8KoqmDFFNEpca49z"
@@ -4175,6 +4229,32 @@
     },
     {
       "album": {
+        "name": "Google Fotos",
+        "url": "https://open.spotify.com/album/6valt47SYgOPcYT4yQ4Bed"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        },
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+        },
+        {
+          "name": "Mr. Worth",
+          "url": "https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255427,
+      "name": "Google Fotos",
+      "url": "https://open.spotify.com/track/4L1o63xNdXthcZqJ3sZghb"
+    },
+    {
+      "album": {
         "name": "Gormiti",
         "url": "https://open.spotify.com/album/7g9mPxfuhtAJHVSorqShDK"
       },
@@ -4432,7 +4512,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 152068,
       "name": "HASTA QUE EL CUERPO REVIENTE",
       "url": "https://open.spotify.com/track/0YXEGfhal4UJTtOspZQSll"
@@ -5082,7 +5162,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 238353,
       "name": "La estaci\u00f3n",
       "url": "https://open.spotify.com/track/0UlMQ9DkbAYqd68OAyTFFj"
@@ -6759,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "modo sigilo",
+        "url": "https://open.spotify.com/album/69mralFmMbF9NcqdfG1pAM"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167915,
+      "name": "modo sigilo",
+      "url": "https://open.spotify.com/track/0yVHUY5qQRPehPrux7JOI5"
+    },
+    {
+      "album": {
         "name": "Momento PULP",
         "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
       },
@@ -7164,6 +7262,28 @@
       "duration_ms": 187505,
       "name": "no hemos aprendido nada",
       "url": "https://open.spotify.com/track/0lVIGMEkOvaNP4zcj9Hg9s"
+    },
+    {
+      "album": {
+        "name": "NO LO PUEDO PERMITIR Y NO TE PUEDO HACER CAMBIAR",
+        "url": "https://open.spotify.com/album/3nvSOZNRtff3KfA4s0mvhV"
+      },
+      "artists": [
+        {
+          "name": "PABLO AMOR",
+          "url": "https://open.spotify.com/artist/60UPSKQYjFaUBYf2bA5Cb9"
+        },
+        {
+          "name": "Blau",
+          "url": "https://open.spotify.com/artist/65z8ritttyA4HVS5BJfwLJ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "NO LO PUEDO PERMITIR Y NO TE PUEDO HACER CAMBIAR",
+      "url": "https://open.spotify.com/track/2DzwD60mZB3QPdguLDpecq"
     },
     {
       "album": {
@@ -11548,6 +11668,24 @@
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
+    },
+    {
+      "album": {
+        "name": "Yo quiero enamorarme de ti",
+        "url": "https://open.spotify.com/album/39Ka5ZyzlhBWM0RcsPZvrC"
+      },
+      "artists": [
+        {
+          "name": "La Estrella de David",
+          "url": "https://open.spotify.com/artist/4RDILcwzht7ytmigDk9ySj"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Yo quiero enamorarme de ti",
+      "url": "https://open.spotify.com/track/5juIleuCWUbgFtWwehyFiN"
     },
     {
       "album": {

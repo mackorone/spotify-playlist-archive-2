@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,791 likes - 241 songs - 14 hr 10 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,788 likes - 241 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 21 | [Good Life](https://open.spotify.com/track/6ty6WyPYrce5yMEWs5RlV7) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Good Life](https://open.spotify.com/album/3waGmzRkcwmYN29hdqjLCX) | 2:49 |
 | 22 | [Feel Again \- Lounge Edit](https://open.spotify.com/track/0YZPP5q0xm182fbAI6uTgg) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Feel Again \(Lounge Edit\)](https://open.spotify.com/album/0zTEmHrBbr8OL9ZGFR5Uow) | 3:00 |
 | 23 | [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 |
-| 24 | [Esta Vida](https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW) | [Lucca Saettone](https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp) | [Esta Vida](https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC) | 3:15 |
-| 25 | [Lost](https://open.spotify.com/track/5jAHG0rFTEWF627eCwy2Wa) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38), [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ) | [Lost](https://open.spotify.com/album/4rf68Put0shM1lRzMPrAsX) | 4:00 |
-| 26 | [Amalong](https://open.spotify.com/track/3vF70xmAZzofW6CPw6VLHA) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Amalong](https://open.spotify.com/album/3DjGhnpPoommIjTbxMhjEx) | 4:03 |
+| 24 | [Lost](https://open.spotify.com/track/5jAHG0rFTEWF627eCwy2Wa) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38), [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ) | [Lost](https://open.spotify.com/album/4rf68Put0shM1lRzMPrAsX) | 4:00 |
+| 25 | [Amalong](https://open.spotify.com/track/3vF70xmAZzofW6CPw6VLHA) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Amalong](https://open.spotify.com/album/3DjGhnpPoommIjTbxMhjEx) | 4:03 |
+| 26 | [Esta Vida](https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW) | [Lucca Saettone](https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp) | [Esta Vida](https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC) | 3:15 |
 | 27 | [Into The Fade](https://open.spotify.com/track/6pmdhuQoHaAWCogQeTTGKL) | [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Into The Fade](https://open.spotify.com/album/69p0g3iAGF9jmFjC8gWbv2) | 3:56 |
 | 28 | [Resolved](https://open.spotify.com/track/3CyTacX5VCHuDhkJaORu84) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd) | [Resolved](https://open.spotify.com/album/67mjNfaAkCvMTEzL0D1fa6) | 2:44 |
 | 29 | [Saving Me](https://open.spotify.com/track/4BlTjj61rc7W8d6Y4wfybL) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Saving Me](https://open.spotify.com/album/0XV8fdwkqVy8JOq7z7A9Hl) | 3:32 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 240 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 |
 | 241 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 
-Snapshot ID: `AAByorqYBqD07SsgNZ29HRXBYn9xAHiP`
+Snapshot ID: `AABypoINdWMfnqrGI2nmpmoet6sPMRN2`

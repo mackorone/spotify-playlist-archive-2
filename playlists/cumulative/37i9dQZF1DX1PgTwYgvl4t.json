@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-10",
-  "description": "Strictly Nigerian worship songs. Cover: <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Eijv-JdSTCumhjsWkOSU6Q>Folabi Nuel</a>",
+  "description": "Strictly Nigerian worship songs. Cover: <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Judikay</a>",
   "name": "Naija Worship",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 600768,
       "name": "At the Center",
       "url": "https://open.spotify.com/track/1zitShgMHWS3m76aPnLDs6"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 629142,
       "name": "Atmosphere Is Shifting - Live",
       "url": "https://open.spotify.com/track/0U42klnqrGN9WIqWMmBAbL"
@@ -734,6 +734,24 @@
       "duration_ms": 431592,
       "name": "Beyond Me",
       "url": "https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT"
+    },
+    {
+      "album": {
+        "name": "Bless the Lord",
+        "url": "https://open.spotify.com/album/4bPxnUkHHTAUFYc9Jc1t37"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370298,
+      "name": "Bless the Lord",
+      "url": "https://open.spotify.com/track/6qyyDrGN9ghok4TTrBeQuf"
     },
     {
       "album": {
@@ -1943,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "GB\u00c0GEDE",
+        "url": "https://open.spotify.com/album/5dHQ5nTKj4QzfuGQ1SzKXl"
+      },
+      "artists": [
+        {
+          "name": "Sola Allyson",
+          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255909,
+      "name": "GB\u00c0GEDE",
+      "url": "https://open.spotify.com/track/4BNLuVHn9ghYUyTg4jBqho"
+    },
+    {
+      "album": {
         "name": "Give Me Oil",
         "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
       },
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 717697,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5HOpXPNnzMnR1adrT2es8i"
@@ -2798,7 +2834,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 560126,
       "name": "I Live - Live",
       "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
@@ -3084,6 +3120,28 @@
       "duration_ms": 519003,
       "name": "Imole Aye",
       "url": "https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO"
+    },
+    {
+      "album": {
+        "name": "Yeshua (The Summary Of My Life)",
+        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204036,
+      "name": "Impossibility Shatterer",
+      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
     },
     {
       "album": {
@@ -3586,7 +3644,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 596235,
       "name": "K\u00c1B\u00cdY\u00c8S\u00cd R\u0118 - Live",
       "url": "https://open.spotify.com/track/4r0LxRMfz4ZRrGCVDLDjq7"
@@ -4740,7 +4798,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 231966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk"
@@ -6380,6 +6438,24 @@
       "duration_ms": 575012,
       "name": "You Remain God",
       "url": "https://open.spotify.com/track/0Xa1G3THEfQG0KHQjBdA72"
+    },
+    {
+      "album": {
+        "name": "You Rescued Me",
+        "url": "https://open.spotify.com/album/1ug1DwHv2dALvq5trDLvjN"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427386,
+      "name": "You Rescued Me",
+      "url": "https://open.spotify.com/track/5muju9YCgOefs9hOHmP2pD"
     },
     {
       "album": {

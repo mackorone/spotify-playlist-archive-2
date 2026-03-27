@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22901,
+  "num_followers": 22914,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Exhibition",
-        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Etude of Memory",
-      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Cheerful Sensibility",
         "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 241866,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Exhibition",
+        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
+        }
+      ],
+      "duration_ms": 313106,
+      "name": "Etude of Memory",
+      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 265379,
-      "name": "\uc544\ub85c\ud558",
-      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SOUL FOOD",
         "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 284106,
       "name": "When flowering spring comes",
       "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 265379,
+      "name": "\uc544\ub85c\ud558",
+      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The 3rd GENERATION (Special Album)",
         "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
       },
@@ -1191,6 +1175,38 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
+        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
+      },
+      "artists": [
+        {
+          "name": "Position",
+          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
+        }
+      ],
+      "duration_ms": 329952,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Girls On Top",
         "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 218653,
       "name": "Girls On Top",
       "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Dropping the Tears",
-        "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Dropping the Tears",
-      "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
-        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
+        "name": "Dropping the Tears",
+        "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
       "artists": [
         {
-          "name": "Position",
-          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 329952,
-      "name": "I LOVE YOU",
-      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
+      "duration_ms": 257226,
+      "name": "Dropping the Tears",
+      "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
     },
     {
       "added_at": "2024-08-05 16:59:31",

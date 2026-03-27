@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Revolver.
+> Lo mejor del rock de aquí, como Ultraligera.
 
-762 songs - 2 day 0 hr 43 min
+764 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 | 2022-05-19 |  |
 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 | 2024-10-03 | 2024-11-08 |
 | [50town](https://open.spotify.com/track/3ioHppCrvq9F4v7XHIsCoo) | [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [50town](https://open.spotify.com/album/5l2e4MbK3HVMSucA58waQr) | 3:28 | 2025-07-17 | 2025-07-31 |
-| [A Contracorriente](https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:02 | 2022-07-07 |  |
+| [A Contracorriente](https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:02 | 2022-07-07 | 2026-03-27 |
 | [A contraluz](https://open.spotify.com/track/2AWqAyzKpKS83r4kpJxDmt) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A contraluz](https://open.spotify.com/album/7dK9XfqrJOck4mnhzv9Q11) | 4:21 | 2025-10-23 |  |
 | [A Dios](https://open.spotify.com/track/6M5XPLlWAFUAPX6wG5dmSR) | [Malonda](https://open.spotify.com/artist/4Abn3coCPVGkBP3hfPJIgG), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [A Dios](https://open.spotify.com/album/1IM9qP37UMdPwir6SX5d9T) | 3:50 | 2023-05-11 | 2023-06-02 |
 | [A estas alturas](https://open.spotify.com/track/3ZN6k7GoNmhhjs7FDyA2ML) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [A estas alturas](https://open.spotify.com/album/6TjqVi3szqHGOXtaHKMbqt) | 2:44 | 2026-01-22 | 2026-02-20 |
@@ -155,6 +155,7 @@
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 |  |
 | [Cuando Canta El Gallo](https://open.spotify.com/track/6JyB7XLBfYQAyp07Y5wUar) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [El Gallo](https://open.spotify.com/album/5mfgieJL4NXBDAcKotlI7b) | 2:44 | 2023-04-27 | 2023-05-05 |
 | [Cuando Satán vino a verme](https://open.spotify.com/track/04Usmiaxwnz43gRCOoIkuY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Cuando Satán vino a verme](https://open.spotify.com/album/7wHB19pX2vDcWqajgVYc70) | 3:07 | 2023-05-25 | 2023-06-16 |
+| [Cuando todo vaya mal](https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Cuando todo vaya mal](https://open.spotify.com/album/2UNgIEHiwB0cfn2XskIwUR) | 4:32 | 2026-03-26 |  |
 | [Cuarenta Mil](https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO) | 3:38 | 2025-04-03 |  |
 | [CUESTA ABAJO](https://open.spotify.com/track/39DEdLpVbLMPPyqgIF7Vzu) | [Los Premodernos](https://open.spotify.com/artist/6PjN4tz1EIf2KXK2ejhnBY) | [CUESTA ABAJO](https://open.spotify.com/album/5WfYA5Id60uESxpUUm9SRS) | 2:39 | 2024-07-04 | 2024-07-12 |
 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 | 2022-11-24 | 2022-12-24 |
@@ -434,7 +435,7 @@
 | [Los asombros](https://open.spotify.com/track/1NR3Npg2MnDT43VbB45z0s) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Los asombros](https://open.spotify.com/album/1DBP3tzKAC77y7m5ScVNPt) | 4:03 | 2025-11-13 | 2026-01-30 |
 | [Los cuervos se lo pasan bien](https://open.spotify.com/track/7ykP7h9XCmeGda3dtiw88n) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Los cuervos se lo pasan bien](https://open.spotify.com/album/0RLPT7vtjGo9CRwKRrNZd4) | 4:25 | 2025-09-04 |  |
 | [Los días contados \(feat\. Funambulista, Shinova\)](https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Los días contados \(feat\. Funambulista, Shinova\)](https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0) | 3:47 | 2023-09-21 | 2023-12-08 |
-| [Los ejecutivos](https://open.spotify.com/track/3uzlBBecxbTslzTQjxcYuZ) | [Rosa Leon](https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW), [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Alejo Stivel](https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n) | [Los ejecutivos](https://open.spotify.com/album/3aQKRNQZlgzsNAc2rGFqjB) | 4:05 | 2026-03-12 |  |
+| [Los ejecutivos](https://open.spotify.com/track/3uzlBBecxbTslzTQjxcYuZ) | [Rosa Leon](https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW), [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Alejo Stivel](https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n) | [Los ejecutivos](https://open.spotify.com/album/3aQKRNQZlgzsNAc2rGFqjB) | 4:05 | 2026-03-12 | 2026-03-27 |
 | [Los martes](https://open.spotify.com/track/6JZQPZ7YzTdUcM1nzz6Qzs) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ) | [Los martes](https://open.spotify.com/album/1cORdWyJqJxN8UbQIvEz9t) | 3:29 | 2025-09-25 | 2025-10-04 |
 | [Los Perros](https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 3:49 | 2024-04-11 |  |
 | [Los Santos Elegidos](https://open.spotify.com/track/1zvauqyEjOjeY7fTMlTd1C) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Los Santos Elegidos](https://open.spotify.com/album/7yituGcgcZZFcpYIybSyBd) | 2:53 | 2024-09-26 | 2024-10-04 |
@@ -502,6 +503,7 @@
 | [Murciélagos y Golondrinas](https://open.spotify.com/track/5vLnZ74nOCMFXO46PIo40u) | [Whisky Caravan](https://open.spotify.com/artist/2sNzYvtWH9mUVsYTiMi4Dz) | [Murciélagos y Golondrinas](https://open.spotify.com/album/080peK1bTDdLwBFu6HybQl) | 3:59 | 2025-11-06 | 2026-03-13 |
 | [Muros](https://open.spotify.com/track/1dzJj2FuKmfeFLKZ3M9CT5) | [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR) | [Muros](https://open.spotify.com/album/6uDP0khkxWD7S2g8vprBjs) | 4:47 | 2025-09-18 | 2025-09-26 |
 | [Music Free](https://open.spotify.com/track/6R2xf7kifqcJQTOc7QUSqh) | [Gatoperro](https://open.spotify.com/artist/5mSo1c0ixJtIJxCQBmWAWl) | [Music Free](https://open.spotify.com/album/0fP8MlNUVtijmh9RfFztGD) | 3:25 | 2024-08-12 | 2024-08-20 |
+| [Muérdeme](https://open.spotify.com/track/4C4F7r2as1mPaDWrNT44PD) | [Los Romeos](https://open.spotify.com/artist/2wKNa6ACDrmf72trZtC8Bu), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [Muérdeme](https://open.spotify.com/album/1Kcw4eZVazTL1pJdiunYRC) | 3:00 | 2026-03-26 |  |
 | [Más que el tiempo](https://open.spotify.com/track/5z6ojHd8iKBuNtHovjHuMU) | [Sulivan? Nunca he estado ahí](https://open.spotify.com/artist/0qjulMsP59DrQJN1qLSuVw) | [Más que el tiempo](https://open.spotify.com/album/09q6zqJBmmeiM62ODkwpWB) | 4:36 | 2023-07-13 | 2023-07-28 |
 | [Na de na](https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Na de na](https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt) | 3:47 | 2025-09-11 | 2025-10-24 |
 | [Nada conmigo](https://open.spotify.com/track/5eVwhSR37ARRpz97eoCgEz) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Gente Estridente](https://open.spotify.com/album/2FWtIR7EW8caMUjm7LweWL) | 3:08 | 2026-02-05 | 2026-02-20 |

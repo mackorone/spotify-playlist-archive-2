@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 147482,
+  "num_followers": 147510,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Jesus Loves Me",
-        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 86575,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 238624,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Jesus Loves Me",
+        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 86575,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "The Lord Is My Shepherd (Psalm 23)",
-        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 124032,
-      "name": "The Lord Is My Shepherd (Psalm 23)",
-      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Romans 3:23-24 (English Standard Version)",
         "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
       },
@@ -691,18 +675,34 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Praise Songs for Kids",
-        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
+        "name": "The Lord Is My Shepherd (Psalm 23)",
+        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
       },
       "artists": [
         {
-          "name": "Kids Sing Praise",
-          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
         }
       ],
-      "duration_ms": 284479,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
+      "duration_ms": 124032,
+      "name": "The Lord Is My Shepherd (Psalm 23)",
+      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Worship For Your Family (Yellow)",
+        "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
+      },
+      "artists": [
+        {
+          "name": "Here I Am To Worship For Kids Performers",
+          "url": "https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Worship For Your Family (Yellow)",
-        "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
+        "name": "Praise Songs for Kids",
+        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
       },
       "artists": [
         {
-          "name": "Here I Am To Worship For Kids Performers",
-          "url": "https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW"
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
         }
       ],
-      "duration_ms": 194080,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
+      "duration_ms": 284479,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
-      },
-      "artists": [
-        {
-          "name": "Kids Sing Praise",
-          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
-        }
-      ],
-      "duration_ms": 290980,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Give Me Oil In My Lamp",
         "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 168140,
       "name": "Give Me Oil In My Lamp",
       "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
+      },
+      "artists": [
+        {
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+        }
+      ],
+      "duration_ms": 290980,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
-      },
-      "artists": [
-        {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 263187,
       "name": "Don't Forget (Psalm 103) - Live",
       "url": "https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+      },
+      "artists": [
+        {
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Everyone Should Know",
-        "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
-      },
-      "artists": [
-        {
-          "name": "3 Little Words",
-          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "Everyone Should Know",
-      "url": "https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Here I Am To Worship For Kids",
         "url": "https://open.spotify.com/album/2XZz6o7NDi2NsTpuN6qjHX"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 266533,
       "name": "Awesome God (Your Voice) - Kids Version",
       "url": "https://open.spotify.com/track/0cmSswi24ufP4W1eqBRyoN"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Everyone Should Know",
+        "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "Everyone Should Know",
+      "url": "https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
+        "name": "3 Little Words, Vol. 7",
+        "url": "https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "duration_ms": 115522,
+      "name": "Books Of The Bible",
+      "url": "https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
         "name": "Lydia, Seller of Purple",
         "url": "https://open.spotify.com/album/2cnBBglQlgWA7EBsqzbs7E"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 117518,
       "name": "Lydia, Seller of Purple",
       "url": "https://open.spotify.com/track/4xYoZPp1rEUsf21QZZRrn0"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
-        "name": "3 Little Words, Vol. 7",
-        "url": "https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD"
-      },
-      "artists": [
-        {
-          "name": "3 Little Words",
-          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
-        }
-      ],
-      "duration_ms": 115522,
-      "name": "Books Of The Bible",
-      "url": "https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Father Abraham",
-        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        }
-      ],
-      "duration_ms": 126357,
-      "name": "Father Abraham",
-      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Psalms 150",
         "url": "https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 149538,
       "name": "Psalms 150",
       "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Father Abraham",
+        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 126357,
+      "name": "Father Abraham",
+      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Spring Sings",
-        "url": "https://open.spotify.com/album/385COA05ACgHNxR3zojfE1"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Spring Sings",
-      "url": "https://open.spotify.com/track/0AIAI0gEUkN4di7wx4nPov"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "My Bible",
         "url": "https://open.spotify.com/album/0ocRT0Vobro8SZY2Wuz9Jz"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 163636,
       "name": "My Bible",
       "url": "https://open.spotify.com/track/4jLLhcfW5yNf41HxBUjiVH"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Spring Sings",
+        "url": "https://open.spotify.com/album/385COA05ACgHNxR3zojfE1"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Spring Sings",
+      "url": "https://open.spotify.com/track/0AIAI0gEUkN4di7wx4nPov"
     },
     {
       "added_at": "2026-03-23 15:10:22",

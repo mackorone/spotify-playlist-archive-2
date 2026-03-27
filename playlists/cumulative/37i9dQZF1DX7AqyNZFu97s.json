@@ -50693,7 +50693,7 @@
     },
     {
       "album": {
-        "name": "selene",
+        "name": "SELENE",
         "url": "https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo"
       },
       "artists": [
@@ -50706,7 +50706,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232000,
-      "name": "selene",
+      "name": "SELENE",
       "url": "https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg"
     },
     {
@@ -50996,6 +50996,24 @@
       "duration_ms": 245031,
       "name": "Set Me Alight",
       "url": "https://open.spotify.com/track/5WS35Oz9TzEJQeObhJrtBZ"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/608WanTETSMRCF4FOpffBV"
+      },
+      "artists": [
+        {
+          "name": "sbk",
+          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/78QkphRTDf4v56ukEVzpLg"
     },
     {
       "album": {

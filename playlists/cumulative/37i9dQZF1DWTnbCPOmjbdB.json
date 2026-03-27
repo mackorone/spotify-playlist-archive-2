@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Doda",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: pszona, FANKA",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1927,6 +1927,28 @@
     },
     {
       "album": {
+        "name": "SALON",
+        "url": "https://open.spotify.com/album/19oOJv14gKILUG9Re8O7SW"
+      },
+      "artists": [
+        {
+          "name": "DrySkull",
+          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Ciebie brak",
+      "url": "https://open.spotify.com/track/1jQSDt9npU5n6HEfCKsokt"
+    },
+    {
+      "album": {
         "name": "Cienie Przesz\u0142o\u015bci",
         "url": "https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX"
       },
@@ -2110,6 +2132,24 @@
       "duration_ms": 157272,
       "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
       "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
+    },
+    {
+      "album": {
+        "name": "Linie czasu",
+        "url": "https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Co\u015b mi jeszcze opowiedz",
+      "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
     },
     {
       "album": {
@@ -3220,7 +3260,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 149126,
       "name": "drink\u0142ykshot",
       "url": "https://open.spotify.com/track/40I9oJKHZUGWA3QYDVTJhb"
@@ -5268,7 +5308,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 178607,
       "name": "jetlag",
       "url": "https://open.spotify.com/track/61NYiz2JY0CD3wL1qEUgGG"
@@ -5703,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "KOLORY LATA",
+        "url": "https://open.spotify.com/album/43PnjpYzSFWE6qydvhJGup"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "KOLORY LATA",
+      "url": "https://open.spotify.com/track/6m4bNmtbOisIHETCwsBG04"
+    },
+    {
+      "album": {
         "name": "Ta druga",
         "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
       },
@@ -5885,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "kto jak nie my",
+        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "kto jak nie my",
+      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
+    },
+    {
+      "album": {
         "name": "KTO MA STYL",
         "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
       },
@@ -5958,7 +6034,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 131661,
       "name": "Kumple <3 - MAVOOI Remix",
       "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
@@ -7675,6 +7751,28 @@
     },
     {
       "album": {
+        "name": "M\u0142odo\u015b\u0107",
+        "url": "https://open.spotify.com/album/2WxkO26r8MsxjOGU0GyfFj"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        },
+        {
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156832,
+      "name": "M\u0142odo\u015b\u0107",
+      "url": "https://open.spotify.com/track/6xas8rCvndrb5qGPOnPSQ9"
+    },
+    {
+      "album": {
         "name": "Na chwil\u0119",
         "url": "https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI"
       },
@@ -8819,6 +8917,24 @@
     },
     {
       "album": {
+        "name": "Nie wyobra\u017cam sobie",
+        "url": "https://open.spotify.com/album/18jV4ps2DVjTqpdmObxrBo"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Nie wyobra\u017cam sobie",
+      "url": "https://open.spotify.com/track/1HIe88rRDB7K9AHxwu4TTm"
+    },
+    {
+      "album": {
         "name": "Nie znam tego miejsca",
         "url": "https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj"
       },
@@ -9807,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "Opr\u00f3cz z\u0142o\u015bci i mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/0sUnBcSqBl9UAh6Wdz3yOb"
+      },
+      "artists": [
+        {
+          "name": "Evelina Ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Opr\u00f3cz z\u0142o\u015bci i mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1yJvG8xGZuXVOBwmi0xxRY"
+    },
+    {
+      "album": {
         "name": "origami",
         "url": "https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u"
       },
@@ -10072,6 +10206,28 @@
       "duration_ms": 156025,
       "name": "Pali si\u0119 niebo",
       "url": "https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh"
+    },
+    {
+      "album": {
+        "name": "PAMI\u0118TAJ",
+        "url": "https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "PAMI\u0118TAJ",
+      "url": "https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW"
     },
     {
       "album": {
@@ -12716,7 +12872,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 144000,
       "name": "SUPERPOWER",
       "url": "https://open.spotify.com/track/2LfJ1hKjKQZ4PTZ6C67HID"
@@ -14173,6 +14329,24 @@
     },
     {
       "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133686,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv"
+    },
+    {
+      "album": {
         "name": "Radio Edit",
         "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
       },
@@ -14963,6 +15137,28 @@
     },
     {
       "album": {
+        "name": "Wpad\u0142em Ci powiedzie\u0107",
+        "url": "https://open.spotify.com/album/2IZ8Rit1o1cSGGl47F7NDG"
+      },
+      "artists": [
+        {
+          "name": "Edzio",
+          "url": "https://open.spotify.com/artist/7HPUYcx61PbkQbtjsVgTCa"
+        },
+        {
+          "name": "Sonia Maselik",
+          "url": "https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179991,
+      "name": "Wpad\u0142em Ci powiedzie\u0107",
+      "url": "https://open.spotify.com/track/6xPxUv6tV3ytPdSR94goTL"
+    },
+    {
+      "album": {
         "name": "Wracam",
         "url": "https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR"
       },
@@ -15284,7 +15480,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 153321,
       "name": "Wszystko znika przy tobie",
       "url": "https://open.spotify.com/track/4vJwVoQkolJzUUtBRB3vWo"

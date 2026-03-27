@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heroes\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,155 songs - 2 day 22 hr 10 min
+1,157 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [break up](https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [break up](https://open.spotify.com/album/1HX8lBHyJisMzf5YLyMoKF) | 3:09 | 2022-04-12 | 2022-07-28 |
 | [Break up! \(Feat\. CHANGMO\)](https://open.spotify.com/track/77SdyZ2AxTfa849qhQaFVT) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Break up!](https://open.spotify.com/album/6Am09EioIsVMrl5dUnYtKp) | 3:08 | 2024-04-22 | 2024-05-10 |
 | [Breakers](https://open.spotify.com/track/3fgIShLTZpwb5Z8tSaQxwS) | [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [2025 BREAKERS \(Original Soundtrack\)](https://open.spotify.com/album/5RmpoPo0oUeZV96LiVI2lv) | 2:32 | 2025-09-23 | 2025-10-07 |
+| [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 | 2026-03-26 |  |
 | [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 | 2025-05-02 | 2025-06-20 |
 | [BULLET](https://open.spotify.com/track/1jHSRIGQXYb126dtXq9Dl7) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [BULLY](https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1) | [ABTB](https://open.spotify.com/artist/4xS1C9pM9EoHEM1Gxxzf4m) | [iii](https://open.spotify.com/album/2gv803EGREwibN37uQk2Em) | 3:46 | 2022-11-09 | 2022-12-13 |
@@ -204,7 +205,7 @@
 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-04 |  |
 | [Daydream](https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6) | [EUNICE](https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU) | [Daydream](https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI) | 4:03 | 2024-10-27 | 2024-12-14 |
 | [Daylight](https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Parole Examiner Lee, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g) | 3:48 | 2024-11-21 | 2025-01-15 |
-| [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 |  |
+| [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 | 2026-03-27 |
 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
 | [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 | 2025-06-10 | 2025-06-17 |
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
@@ -824,7 +825,7 @@
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
 | [sarang..](https://open.spotify.com/track/6ZJfNgDzD5itYTKZGj7aPy) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [sarang..](https://open.spotify.com/album/07rhnJeNxFuJgMnN39G9qJ) | 2:57 | 2026-02-09 | 2026-02-13 |
 | [SAVE ME](https://open.spotify.com/track/0Dl9zaQa98CBI888R8KGEh) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [SAVE ME](https://open.spotify.com/album/1MARlNcmM2jaUKMXsGWH4O) | 3:07 | 2026-02-04 | 2026-02-20 |
-| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 |  |
+| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 | 2026-03-27 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 | 2024-11-07 |
 | [sAvioR](https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<sAvioR>](https://open.spotify.com/album/2rhmlezB7fEfmR6dVEKofA) | 3:42 | 2025-11-14 | 2025-12-09 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
@@ -913,6 +914,7 @@
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
 | [Still, a Flower](https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Still, a Flower](https://open.spotify.com/album/3N5X7dF6350QVWQUYWX4SV) | 3:43 | 2026-01-02 | 2026-01-15 |
 | [STOP IT](https://open.spotify.com/track/23rtmmIgcIsCEiIPDwxPrd) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [TOP NOTE](https://open.spotify.com/album/3JX0mIUcLLvvaye1HjFINP) | 3:23 | 2025-07-03 | 2025-07-10 |
+| [Stress](https://open.spotify.com/track/0t9srJUjz6sRGkNFvWIURT) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Stress](https://open.spotify.com/album/3aJUh5tIlrXDfIfyOKQqAu) | 2:35 | 2026-03-26 |  |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
 | [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-01 | 2026-02-20 |
 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-10-19 |
@@ -1089,9 +1091,9 @@
 | [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 | 2025-05-20 | 2025-06-10 |
 | [Wish](https://open.spotify.com/track/28GGqZ2M6bEQEvKSRhnniw) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wish](https://open.spotify.com/album/7pRxHjR74IRAoQzlNdpCYf) | 3:07 | 2026-01-15 | 2026-01-27 |
 | [Wish You Luck](https://open.spotify.com/track/4QZgdQ4CILVuz6NNDAkwns) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#2](https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2) | 3:34 | 2025-01-30 | 2025-03-18 |
-| [Wish You Were Here](https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Wish You Were Here](https://open.spotify.com/album/4fc4n1ntpTwzc4IZL7LFYp) | 3:11 | 2026-03-24 | 2026-03-26 |
+| [Wish You Were Here](https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Wish You Were Here](https://open.spotify.com/album/4fc4n1ntpTwzc4IZL7LFYp) | 3:11 | 2026-03-24 |  |
 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 | 2022-04-12 | 2024-11-07 |
-| [With You](https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [With You](https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS) | 4:05 | 2026-03-16 |  |
+| [With You](https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [With You](https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS) | 4:05 | 2026-03-16 | 2026-03-27 |
 | [Wolf](https://open.spotify.com/track/3UcdoC9ncaGdjzgpNaQivP) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:07 | 2022-04-22 | 2022-07-23 |
 | [Wonder](https://open.spotify.com/track/0oWMvi59by659nHiCD7MlB) | [916](https://open.spotify.com/artist/69e4PsUn8YbvkIaBxKgtFM) | [2022 INCHEON CITY POP Vol.3](https://open.spotify.com/album/60kYnFNsy97x2BN9295Dku) | 4:05 | 2023-01-10 | 2023-01-26 |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2024-06-05 | 2024-11-07 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Night Rider
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Maphra
 
 790 songs - 1 day 22 hr 32 min
 

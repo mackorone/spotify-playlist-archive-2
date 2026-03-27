@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Adhento Gaani Vunnapaatuga(Jersey)",
+        "url": "https://open.spotify.com/album/0hDzmVsozLyKkKyy7gZ1nR"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237065,
+      "name": "Adhento Gaani Vunnapaatuga(Jersey)",
+      "url": "https://open.spotify.com/track/67SwuqIlgYKKRy8OKisce6"
+    },
+    {
+      "album": {
         "name": "Adhi Dha Surprisu (From \"Robinhood\")",
         "url": "https://open.spotify.com/album/0xuRXbsij9sk8c3IQEtZA7"
       },
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 260180,
       "name": "Collar Ey Etthara",
       "url": "https://open.spotify.com/track/2elAI7Sg0cH5PkSLB9weIj"
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 243333,
       "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
       "url": "https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy"
@@ -3952,6 +3970,32 @@
       "duration_ms": 349653,
       "name": "Manassa",
       "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6AzTkLgXifE8QAohSyeRWv"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "YAZIN",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Manasu Maree",
+      "url": "https://open.spotify.com/track/3s3qs1nUuyvcGaaSLjlJxc"
     },
     {
       "album": {
@@ -6329,6 +6373,28 @@
     },
     {
       "album": {
+        "name": "Sancharame (From \"EPIC - First Semester\")",
+        "url": "https://open.spotify.com/album/4Mi4d6kEBHDETuZ1DMUODE"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Gorati Venkanna",
+          "url": "https://open.spotify.com/artist/44kFHSzysWdNgR3KwXE226"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Sancharame (From \"EPIC - First Semester\")",
+      "url": "https://open.spotify.com/track/4Vb7NZ0NGXQpDDHxQ3AMBv"
+    },
+    {
+      "album": {
         "name": "Double Engine (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/71wOjxZQtHmVLLj0w1uSiw"
       },
@@ -6758,7 +6824,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 272026,
       "name": "Taralirada",
       "url": "https://open.spotify.com/track/6OfjrpORq2SP4TlT6wHqyJ"

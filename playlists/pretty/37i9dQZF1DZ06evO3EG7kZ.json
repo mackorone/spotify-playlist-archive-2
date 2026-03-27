@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51159,
+  "num_followers": 51169,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAADdM6PcLCYonUocjdkQLv3N",
+  "snapshot_id": "acMlgAAAAADzhwR7qOg8pHDmMgMA+kCB",
   "tracks": [
     {
       "added_at": null,
@@ -182,6 +182,10 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
       "duration_ms": 64311,
@@ -426,10 +430,6 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
       "duration_ms": 204373,
@@ -510,6 +510,10 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
       "duration_ms": 64311,

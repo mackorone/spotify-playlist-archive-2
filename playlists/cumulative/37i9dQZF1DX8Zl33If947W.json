@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "BIS WIR ALT SIND",
+        "url": "https://open.spotify.com/album/2gFwk2YBAnZQSNd2wmnvHV"
+      },
+      "artists": [
+        {
+          "name": "CHRIS",
+          "url": "https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "BIS WIR ALT SIND",
+      "url": "https://open.spotify.com/track/5LR51Zn4yKXA1ogGZnfLEM"
+    },
+    {
+      "album": {
         "name": "Blaue Augen",
         "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 155577,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
@@ -534,10 +552,28 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 231946,
       "name": "F\u00fcr immer ab jetzt",
       "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
+    },
+    {
+      "album": {
+        "name": "Gr\u00f6\u00dfer als Liebe",
+        "url": "https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Gr\u00f6\u00dfer als Liebe",
+      "url": "https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl"
     },
     {
       "album": {

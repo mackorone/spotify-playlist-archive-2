@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211260,
+  "num_followers": 211261,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAAAj5cSh7Zldq+3vX6Dx9Bwi",
+  "snapshot_id": "acMlgAAAAAB15651VIRy5FVcpKD++B3W",
   "tracks": [
     {
       "added_at": null,
@@ -576,13 +576,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 179368,
-      "name": "Ride (feat. Do or Die)",
-      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,
@@ -656,13 +656,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
         }
       ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
+      "duration_ms": 179368,
+      "name": "Ride (feat. Do or Die)",
+      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
     },
     {
       "added_at": null,
@@ -999,34 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Donnie Trumpet",
-          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
-      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -1051,6 +1023,34 @@
       "duration_ms": 232000,
       "name": "Need To Know (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Donnie Trumpet",
+          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
+      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
     },
     {
       "added_at": null,

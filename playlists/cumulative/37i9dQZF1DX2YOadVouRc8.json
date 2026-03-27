@@ -2725,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Celine",
+        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181727,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
+    },
+    {
+      "album": {
         "name": "Celine Dion",
         "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
       },
@@ -5260,6 +5278,28 @@
       "duration_ms": 122507,
       "name": "Gen-Z Fuji",
       "url": "https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG"
+    },
+    {
+      "album": {
+        "name": "Get 2 Know (feat. K\u00fanl\u00e9)",
+        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "K\u00fanl\u00e9",
+          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178488,
+      "name": "Get 2 Know (feat. K\u00fanl\u00e9)",
+      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
     },
     {
       "album": {
@@ -8574,7 +8614,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 155164,
       "name": "Mukutu",
       "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
@@ -9046,7 +9086,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 149446,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"

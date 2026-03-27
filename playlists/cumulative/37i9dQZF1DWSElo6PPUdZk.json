@@ -4847,6 +4847,28 @@
     },
     {
       "album": {
+        "name": "Sajna Tu Na Ja",
+        "url": "https://open.spotify.com/album/3c4FUUyTDDLSnIY87z7i74"
+      },
+      "artists": [
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        },
+        {
+          "name": "Kanwar Iqbal",
+          "url": "https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230483,
+      "name": "Sajna Tu Na Ja",
+      "url": "https://open.spotify.com/track/2A2dttM6hhDqxhCUnqvLVB"
+    },
+    {
+      "album": {
         "name": "Maanmatti",
         "url": "https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P"
       },
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 124344,
       "name": "Tere Warga",
       "url": "https://open.spotify.com/track/5YV6dijDvGw8TqJDkTnUwG"

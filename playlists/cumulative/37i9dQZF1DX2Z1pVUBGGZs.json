@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83e\ude90\ncover: PIXY",
+  "description": "a playlist without boundaries \ud83c\udf3b\ncover: Troy Javelona",
   "name": "Our Generation",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -1556,6 +1556,28 @@
       "duration_ms": 182713,
       "name": "Betty",
       "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
+    },
+    {
+      "album": {
+        "name": "BFF (After Remix)",
+        "url": "https://open.spotify.com/album/4FPpAFg8Ge4xS7aAstX3w1"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        },
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293848,
+      "name": "BFF (After Remix)",
+      "url": "https://open.spotify.com/track/3fJ8pA7mHQNaS6JuT9MuKu"
     },
     {
       "album": {
@@ -3461,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "DARLING",
+        "url": "https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u"
+      },
+      "artists": [
+        {
+          "name": "Troy Javelona",
+          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195050,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq"
+    },
+    {
+      "album": {
         "name": "Moanbag",
         "url": "https://open.spotify.com/album/2wG8fupznmcEgmAQrPCrSp"
       },
@@ -5320,7 +5360,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 152000,
       "name": "GEEKS",
       "url": "https://open.spotify.com/track/5KSQlhN1qMNOP54pH3uR51"
@@ -6602,7 +6642,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
@@ -7305,6 +7345,24 @@
     },
     {
       "album": {
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+    },
+    {
+      "album": {
         "name": "If It Isn't Killing Me (feat. Annika Kilkenny)",
         "url": "https://open.spotify.com/album/5PBIibAyk70PgXS2HTSfvd"
       },
@@ -7558,7 +7616,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 201942,
       "name": "Inventing",
       "url": "https://open.spotify.com/track/7J9yJOa21b55I5GGUwFgfL"
@@ -8366,7 +8424,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
@@ -9961,6 +10019,24 @@
     },
     {
       "album": {
+        "name": "Stars and Teeth",
+        "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "My Kind of Freak",
+      "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
+    },
+    {
+      "album": {
         "name": "National Disgrace",
         "url": "https://open.spotify.com/album/1c7sibEGZbZPVfgSFi4LOh"
       },
@@ -10240,6 +10316,24 @@
       "duration_ms": 188206,
       "name": "Not In Your Nature",
       "url": "https://open.spotify.com/track/1bs9aT6o5wXRd32Ay9ByhS"
+    },
+    {
+      "album": {
+        "name": "not my day",
+        "url": "https://open.spotify.com/album/6BoM7AhD4zh4zqpWcI2etW"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152064,
+      "name": "not my day",
+      "url": "https://open.spotify.com/track/2za2pSt3gmetP4PJnT66ZX"
     },
     {
       "album": {
@@ -11560,7 +11654,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 204560,
       "name": "Reviver",
       "url": "https://open.spotify.com/track/100sArq6IRNZt8D7qeODVj"
@@ -15914,6 +16008,24 @@
       "duration_ms": 199746,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
+    },
+    {
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/2idbk32oBkMvE6a35s4Eg5"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189979,
+      "name": "Wishbone",
+      "url": "https://open.spotify.com/track/5aePgIIbf22kK811gBksW9"
     },
     {
       "album": {

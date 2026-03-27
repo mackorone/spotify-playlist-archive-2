@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,175,560 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,175,532 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 71 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 |
 | 72 | [Born Again \(feat\. Doja Cat & RAYE\) \- Purple Disco Machine Remix](https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(Purple Disco Machine Remix\) \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt) | 3:32 |
 | 73 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 |
-| 74 | [Too Much \- Ely Oaks Remix](https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Too Much \(Ely Oaks Remix\)](https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq) | 2:21 |
+| 74 | [I Love It \(feat\. Charli XCX\) \- I Don’t Care 2022 Re\-Edit](https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\) \[I Don’t Care 2022 Re\-Edit\]](https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq) | 2:32 |
 | 75 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
 
 Snapshot ID: `AAAAAARuV4wo0SJ3iLFAQBMfoBzQ1+iy`

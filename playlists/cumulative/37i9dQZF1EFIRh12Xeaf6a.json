@@ -4761,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Herman's Hermits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UoVto0KQes5W2hbJl2Aw7"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155546,
+      "name": "Show Me Girl - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7vrzwteWWJqHsOfWD1zT9n"
+    },
+    {
+      "album": {
         "name": "Into Something Good (The Mickie Most Years 1964-1972)",
         "url": "https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV"
       },
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 157773,
       "name": "Show Me Girl - 2008 Remaster",
       "url": "https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA"

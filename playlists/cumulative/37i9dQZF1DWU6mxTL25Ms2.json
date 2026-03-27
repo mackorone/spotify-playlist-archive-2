@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
+      },
+      "artists": [
+        {
+          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238480,
+      "name": "WINNING MELODY - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/2qIamn3Cgk49M2337j32qQ"
+    },
+    {
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
         "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
       },
@@ -2916,7 +2934,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 243586,
       "name": "\u7981\u65adBurning Heart - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/5giSvnPrcVY6970LIZa5Hq"

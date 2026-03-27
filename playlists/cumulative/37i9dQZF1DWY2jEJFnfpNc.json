@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 175272,
       "name": "I Couldn't Live Without Your Love",
       "url": "https://open.spotify.com/track/0VgKyMKRCGT4SKdqYJWzSk"
@@ -902,6 +902,24 @@
       "duration_ms": 168466,
       "name": "You Don't Have To Say You Love Me",
       "url": "https://open.spotify.com/track/1uLwVWTOpMqNkBsjpR1WB8"
+    },
+    {
+      "album": {
+        "name": "The Anthology 1964 - 1971",
+        "url": "https://open.spotify.com/album/32AODg8lzwKusDg5rCq9N0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134066,
+      "name": "You Really Got Me - Remastered",
+      "url": "https://open.spotify.com/track/09nZ9ZDWq1rTkmM3WjvMvF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY2jEJFnfpNc"

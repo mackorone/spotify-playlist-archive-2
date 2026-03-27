@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 173 songs - 10 hr 42 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 175 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,5 +181,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 171 | [Paperchase](https://open.spotify.com/track/63hTYTp79F2mvDsBBzWjHa) | [Mountain Brothers](https://open.spotify.com/artist/3W1jhekMyI2QjENIzWGFdg) | [Self, Volume 1.5](https://open.spotify.com/album/6krzTjIh7AVRAL3qcT8Uog) | 4:22 |
 | 172 | [Beautiful Girl](https://open.spotify.com/track/5WmxGs0hBmoo9bcGlY0twV) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 3:24 |
 | 173 | [RUSSIAN ROULETT3](https://open.spotify.com/track/4wiNxNXwnhVdwvxedo40FK) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [R3SET](https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR) | 3:47 |
+| 174 | [Make Something Up](https://open.spotify.com/track/64OIDldq25VvelMStZiDvy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 4:06 |
+| 175 | [Cosmo Freestyle](https://open.spotify.com/track/7rOMXlhgozetHpzmJciBjm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/44k1aegQDc03y66kpRoWKt) | 3:04 |
 
-Snapshot ID: `AAAgBa2wfLOs45vrc05lb8ZzkPVzh3zx`
+Snapshot ID: `AAAgB0SfUUbDOlH35mys4sodDfe8zjoH`

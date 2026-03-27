@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Naïka
 
-278 songs - 16 hr 33 min
+279 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Fe Led](https://open.spotify.com/track/3gFODw0PFnJtCroUWvzrgW) | [Team Lobey](https://open.spotify.com/artist/1q19J01Xlgo5Ck1Hvs3wl2), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa), [Gio\-K](https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI) | [Fe Led](https://open.spotify.com/album/0rMl5eZaDXYeUu4QHbDnj4) | 2:51 | 2023-09-24 | 2024-01-03 |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:55 | 2022-07-14 |  |
 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 | 2025-04-04 |  |
+| [Fete Nap Fete Ti Babas \- Live](https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue) | [Haitian sky](https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv) | [Fete Nap Fete Ti Babas \(Live\)](https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml) | 3:10 | 2025-07-25 |  |
 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 | 2021-12-06 |  |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2021-12-06 | 2023-02-18 |
 | [Foli](https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol) | [Daniel Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga) | [Foli](https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm) | 2:57 | 2023-06-09 | 2024-02-24 |
@@ -272,7 +273,7 @@
 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 | 2021-12-06 |  |
 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 | 2021-12-06 | 2025-10-15 |
 | [Vacation](https://open.spotify.com/track/6udGGj4kJQ9FGm2ZmHEwWu) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Moods Of A Cancer](https://open.spotify.com/album/6YDD3LCouXB66mbDmSGpn1) | 3:00 | 2021-12-06 | 2023-02-18 |
-| [Valide](https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP) | [Master Brain](https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR), [Mechanst](https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M), [Maykimac](https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg) | [10 IS IT](https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU) | 3:49 | 2024-11-22 |  |
+| [Valide](https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP) | [Master Brain](https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR), [Mechanst](https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M), [Maykimac](https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg) | [10 IS IT](https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU) | 3:49 | 2024-11-22 | 2026-03-27 |
 | [Verde](https://open.spotify.com/track/12DkQnpOzB9fuCD88t4UXw) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Verde](https://open.spotify.com/album/1njFnBtBmPTLGAxx02MqJD) | 3:02 | 2022-11-18 | 2023-02-18 |
 | [Vex Oh feat\. GoldLink & Ari PenSmith](https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:42 | 2021-12-06 | 2024-11-23 |
 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 | 2023-05-08 |  |

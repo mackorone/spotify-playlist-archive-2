@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con RØZ hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,360 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 21 | [www.hotxulito.com](https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:21 |
 | 22 | [No veo bien](https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
 | 23 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
-| 24 | [betty boop](https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [betty boop](https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt) | 2:36 |
-| 25 | [Uno De Eses Gatos](https://open.spotify.com/track/7yG955s3KEoDrJkx5qa3WY) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:45 |
+| 24 | [Uno De Eses Gatos](https://open.spotify.com/track/7yG955s3KEoDrJkx5qa3WY) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:45 |
+| 25 | [betty boop](https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [betty boop](https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt) | 2:36 |
 | 26 | [PERDIÉNDOME EN EL MOOD](https://open.spotify.com/track/0ItH0fsYJ9YLLf59nFLjtv) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb) | [ITALO MIXTAPE](https://open.spotify.com/album/6LEuKXo8oyW8NIJ6kjgkkG) | 2:51 |
 | 27 | [Ya no te quiero ver](https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Ya no te quiero ver](https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8) | 3:33 |
 | 28 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 60 | [Pensándote](https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [Pensándote](https://open.spotify.com/album/1INSoJE5lu00Fs2zAW90uw) | 2:53 |
 | 61 | [Canciones de Don](https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Canciones de Don](https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz) | 2:44 |
 | 62 | [PERDIDO](https://open.spotify.com/track/67jfNQ8ntPHnhxDv31iWRL) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [PERDIDO](https://open.spotify.com/album/2ZBWXM9PcYCAbS0XQd9EQw) | 2:45 |
-| 63 | [te doy igual?](https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [te doy igual?](https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn) | 1:56 |
-| 64 | [F MY X \(I'M A MESS\)](https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [DESDE EL COMA](https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR) | 2:03 |
+| 63 | [F MY X \(I'M A MESS\)](https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [DESDE EL COMA](https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR) | 2:03 |
+| 64 | [te doy igual?](https://open.spotify.com/track/1hLKE0ULdv5Sdtag8zopR1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [te doy igual?](https://open.spotify.com/album/0yO4UoM30pmLWWAGXdFlOn) | 1:56 |
 | 65 | [cash cash](https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [T.V ADDICT](https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K) | 2:41 |
 | 66 | [claroscuro](https://open.spotify.com/track/24LLhRHvhaCSnhgoxc9CA6) | [Noize](https://open.spotify.com/artist/2IzieP3siLRSSp0fpSArfK), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [claroscuro](https://open.spotify.com/album/4GD5Ef3IQRMcwF5cPNnESl) | 2:36 |
 | 67 | [Flashing Lights](https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS) | [Flashing Lights](https://open.spotify.com/album/3zh3pDdopN6xrftjHi6SzB) | 3:04 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 76 | [Bachata para un feo](https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9) | [Zorritas en Bikini](https://open.spotify.com/album/7oZcKuM8XMieABtTqsNly7) | 2:40 |
 | 77 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
 | 78 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
-| 79 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
-| 80 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
+| 79 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
+| 80 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
 
 Snapshot ID: `AAAAAEtRQ+JLRpIcjowlpc2lUdkc/7t1`

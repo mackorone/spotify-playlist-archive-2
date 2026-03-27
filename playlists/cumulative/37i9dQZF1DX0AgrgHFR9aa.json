@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Bigflo & Oli",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Jewel Usain",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/4yDMIRnC4FiBG3eosXiDKe"
+      },
+      "artists": [
+        {
+          "name": "Eute\u00efka",
+          "url": "https://open.spotify.com/artist/1aKfBxDQodqvS9Z1kwIW3l"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Bifton",
+      "url": "https://open.spotify.com/track/0VSIVig6x9sC18t0hhgrVS"
+    },
+    {
+      "album": {
         "name": "BIZON",
         "url": "https://open.spotify.com/album/4Iqqdec5r2TZNVf1WTfxX7"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 254679,
       "name": "C'\u00e9tait mieux avant",
       "url": "https://open.spotify.com/track/7cimkUWFo4kPhN95oxyT2u"
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 154105,
       "name": "Destin",
       "url": "https://open.spotify.com/track/2H5iQv2VLbGH5LaetvfEfv"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 172239,
       "name": "Fardeaux Du Renard",
       "url": "https://open.spotify.com/track/0W89bQOaDRz9wuF2hanHsh"
@@ -2544,6 +2562,28 @@
       "duration_ms": 342524,
       "name": "Freestyle 5min #13",
       "url": "https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ"
+    },
+    {
+      "album": {
+        "name": "FVCK OFF",
+        "url": "https://open.spotify.com/album/4Y9GldnpUPdMDCV0KiiVmO"
+      },
+      "artists": [
+        {
+          "name": "KT Gorique",
+          "url": "https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh"
+        },
+        {
+          "name": "Riga",
+          "url": "https://open.spotify.com/artist/37t8K0CbC1jRSqmDYNEpPX"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "FVCK OFF",
+      "url": "https://open.spotify.com/track/44VV7mRpaRW6AGfBxKBqUI"
     },
     {
       "album": {
@@ -3001,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Ikebukuro",
+        "url": "https://open.spotify.com/album/4kmXnupqYUI3PrWARPAaSQ"
+      },
+      "artists": [
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127252,
+      "name": "Ikebukuro",
+      "url": "https://open.spotify.com/track/2QzH9YaI3DzvFMeC9U9Tlm"
+    },
+    {
+      "album": {
         "name": "Impact",
         "url": "https://open.spotify.com/album/5fDdCCTqe68952wVSqd8Xv"
       },
@@ -3389,6 +3447,28 @@
     },
     {
       "album": {
+        "name": "Jumanji (Skit)",
+        "url": "https://open.spotify.com/album/1gvzR3K5vtPS4WJG6guZEa"
+      },
+      "artists": [
+        {
+          "name": "Verso",
+          "url": "https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7"
+        },
+        {
+          "name": "roolio",
+          "url": "https://open.spotify.com/artist/4sWbwNY6FbCy4eASs3p1sx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84631,
+      "name": "Jumanji (Skit)",
+      "url": "https://open.spotify.com/track/67ywzEJdNhn8nZrbgFhQGE"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha"
       },
@@ -3672,7 +3752,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 212109,
       "name": "L'usine",
       "url": "https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj"
@@ -4098,7 +4178,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 133910,
       "name": "LE FLEUVE",
       "url": "https://open.spotify.com/track/6AAanmuKQ91qu8uElHBALL"
@@ -5393,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "noire",
+        "url": "https://open.spotify.com/album/1l8wxXB3hpixIr1vjp0rYu"
+      },
+      "artists": [
+        {
+          "name": "\u0178END",
+          "url": "https://open.spotify.com/artist/1ETAICxy3MJuIEmS8YWL4s"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "noire",
+      "url": "https://open.spotify.com/track/2AFlaDtI3qLsoROooEKFCZ"
+    },
+    {
+      "album": {
         "name": "notre france ador\u00e9e",
         "url": "https://open.spotify.com/album/7pnEJLFTfRfdnX4aJK1ew1"
       },
@@ -6144,7 +6242,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 142615,
       "name": "preta monologue",
       "url": "https://open.spotify.com/track/5qlTd76SUw9EwFOrVN40hv"
@@ -6443,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "REBENGA",
+        "url": "https://open.spotify.com/album/6GXu0C4xj3NFmee086XBlA"
+      },
+      "artists": [
+        {
+          "name": "Kahra",
+          "url": "https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135679,
+      "name": "REBENGA",
+      "url": "https://open.spotify.com/track/2csksfh5NmEDkXYbOM42r5"
+    },
+    {
+      "album": {
         "name": "Reflets",
         "url": "https://open.spotify.com/album/7sjn7TFlA5peV87S2VMUn5"
       },
@@ -6466,7 +6582,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 268604,
       "name": "Reflets",
       "url": "https://open.spotify.com/track/11h4ENTtCnwKd8pDGdKbtE"
@@ -6799,6 +6915,28 @@
     },
     {
       "album": {
+        "name": "Script (feat. 2L)",
+        "url": "https://open.spotify.com/album/5rcERDsf8w982QDz219hmC"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
+        },
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "Script (feat. 2L)",
+      "url": "https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD"
+    },
+    {
+      "album": {
         "name": "SECRET",
         "url": "https://open.spotify.com/album/18WgpAwvclrUXkUUMP08ZE"
       },
@@ -6986,7 +7124,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 179493,
       "name": "Sinc\u00e8rement",
       "url": "https://open.spotify.com/track/1OvN5V9Qe7vht8obXZ5CpX"
@@ -7226,7 +7364,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 290746,
       "name": "TENDU",
       "url": "https://open.spotify.com/track/13KxBLQ8PDF9SFmrdMJSj3"
@@ -7382,6 +7520,28 @@
       "duration_ms": 236053,
       "name": "Trop tard pour hier",
       "url": "https://open.spotify.com/track/5CjuZbtXEqCVX4wfGBrBaE"
+    },
+    {
+      "album": {
+        "name": "Tu vis, t'apprends",
+        "url": "https://open.spotify.com/album/3fX6SeVM0H6B9LBr8PpxhY"
+      },
+      "artists": [
+        {
+          "name": "Richie Beats",
+          "url": "https://open.spotify.com/artist/2wYp4hDPC6rDgn3SCvgqpB"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159798,
+      "name": "Tu vis, t'apprends",
+      "url": "https://open.spotify.com/track/6ybtjbboDQn9iAUtaa1AR0"
     },
     {
       "album": {
@@ -7704,6 +7864,24 @@
       "duration_ms": 192386,
       "name": "Vernissage",
       "url": "https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf"
+    },
+    {
+      "album": {
+        "name": "Vinyles via Paypal",
+        "url": "https://open.spotify.com/album/7y4Gw6i5lXZtFzjz2THWwL"
+      },
+      "artists": [
+        {
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Vinyles via Paypal",
+      "url": "https://open.spotify.com/track/2BsSnCSSGMvBoskfJDKcXx"
     },
     {
       "album": {

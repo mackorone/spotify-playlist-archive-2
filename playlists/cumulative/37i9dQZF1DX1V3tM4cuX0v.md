@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: MAX BARSKIH
+> 50 найгарячіших пісень в Україні\. Обкладинка: BTS
 
-188 songs - 9 hr 26 min
+189 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,9 +157,10 @@
 | [Покохай мене](https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Покохай мене](https://open.spotify.com/album/7iT1upSPSL2UpnEO2rQ3rX) | 2:56 | 2024-06-27 | 2025-09-05 |
 | [Порічка](https://open.spotify.com/track/3gH5vuIvlmzHQkPGmbkXND) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Порічка](https://open.spotify.com/album/7psQf9ptuKCMeDfvlumlmU) | 2:39 | 2024-06-27 | 2025-01-28 |
 | [Посилать](https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Посилать](https://open.spotify.com/album/1s6ntybnzHb68tXPNPScFn) | 2:56 | 2025-04-17 | 2025-10-17 |
+| [Привіт\. Hello](https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Привіт\. Hello](https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o) | 3:02 | 2026-03-26 |  |
 | [Півонії](https://open.spotify.com/track/6mkdNIS7OOMndjXVzgyA13) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Півонії](https://open.spotify.com/album/6CJD937GwNOJDyPgDwaron) | 2:06 | 2025-07-31 | 2026-01-15 |
 | [Пінаколада](https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno) | [Vitaliy Kozlovskiy](https://open.spotify.com/artist/1xn58akm1S6uU3ZVbNNfSw) | [Пінаколада](https://open.spotify.com/album/112jvnaQDUj6eHextLkaaS) | 3:15 | 2025-05-16 |  |
-| [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-17 |  |
+| [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-17 | 2026-03-27 |
 | [Серед зими](https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Серед зими](https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8) | 3:35 | 2025-12-11 | 2026-02-10 |
 | [Силуети](https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Силуети](https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln) | 2:57 | 2024-06-27 | 2025-09-05 |
 | [Сильно Сильно](https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Сильно Сильно](https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH) | 3:24 | 2026-02-19 |  |

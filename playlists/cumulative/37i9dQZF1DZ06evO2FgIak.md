@@ -4,7 +4,7 @@
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-151 songs - 10 hr 9 min
+152 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Short Dress Woman](https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 2:49 | 2022-08-05 | 2025-10-06 |
 | [Slow Blues Instrumental \- Muddy Intros Band \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/03cst32QZ3HCmpBhQ0p5sh) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 4:32 | 2024-07-18 | 2024-08-06 |
 | [Soon Forgotten \- Live At Newport Jazz Festival/1960](https://open.spotify.com/track/0y4UCDBgCMGwJKmjC8Hnnw) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters At Newport 1960](https://open.spotify.com/album/7gTcPv1bE0THbjuvDbK1gq) | 4:17 | 2022-08-06 | 2022-10-12 |
-| [Soul Fever Blues](https://open.spotify.com/track/3Ui7cdWASapLaUp2RHym7q) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Burning Spider](https://open.spotify.com/album/7fstnHfNoKfBJQpvY5VuEk) | 3:04 | 2022-08-05 |  |
+| [Soul Fever Blues](https://open.spotify.com/track/3Ui7cdWASapLaUp2RHym7q) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Burning Spider](https://open.spotify.com/album/7fstnHfNoKfBJQpvY5VuEk) | 3:04 | 2022-08-05 | 2026-03-27 |
+| [Soul Fever Blues \(feat\. Muddy Waters\)](https://open.spotify.com/track/5NMxSNy8w2Zv4RZ2A5kRid) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Burning Spider](https://open.spotify.com/album/3L2tN4l4TGO4SZTsdY7zwM) | 3:04 | 2026-03-27 |  |
 | [Southbound Train](https://open.spotify.com/track/7syNRB7WNZ6jwEs0cM7OaA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:53 | 2023-04-29 | 2023-05-01 |
 | [Spoonful](https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 4:13 | 2022-08-05 |  |
 | [Spoonful'](https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Voodoo Blues](https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo) | 2:44 | 2023-02-12 |  |

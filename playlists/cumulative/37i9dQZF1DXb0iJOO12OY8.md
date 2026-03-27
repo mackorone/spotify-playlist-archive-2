@@ -4,7 +4,7 @@
 
 > 🤝
 
-208 songs - 9 hr 37 min
+209 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 | 2025-05-12 |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-20 |
 | [Chit Chat](https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [Chit Chat](https://open.spotify.com/album/2Fw6u9hJvOOkcm0GJQdqhI) | 2:32 | 2025-06-26 | 2025-08-08 |
-| [Clean Fit, Fin Anledning](https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Clean Fit, Fin Anledning](https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA) | 2:33 | 2024-11-21 |  |
+| [Clean Fit, Fin Anledning](https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Clean Fit, Fin Anledning](https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA) | 2:33 | 2024-11-21 | 2026-03-27 |
 | [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 | 2025-04-03 | 2026-03-15 |
 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 | 2025-04-24 | 2025-08-15 |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-06-27 | 2024-11-09 |
@@ -131,6 +131,7 @@
 | [MACHIAVELLI](https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Due](https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx) | [MACHIAVELLI](https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh) | 3:16 | 2025-08-07 | 2025-08-15 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 | 2024-09-13 |
 | [Marokkansk](https://open.spotify.com/track/2oRbqKvN9sR8fakOSBi6LF) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Marokkansk](https://open.spotify.com/album/1SQLH0FVtcfzkYYwQCLHNY) | 1:54 | 2026-02-26 |  |
+| [Martyr](https://open.spotify.com/track/3RTNOSKmr1g5G4JzeQpyim) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Martyr](https://open.spotify.com/album/1g2rawjED5a1KUgdkk0jCX) | 2:49 | 2026-03-26 |  |
 | [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 | 2025-02-06 | 2025-10-22 |
 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 |  |
 | [Mot deg](https://open.spotify.com/track/2EnvKnpV4nYr7WfcN2kfzB) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Mot deg](https://open.spotify.com/album/5yXHUmhpZxKXc1QYybeV8Q) | 2:28 | 2026-03-19 |  |

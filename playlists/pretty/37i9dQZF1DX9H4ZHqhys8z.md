@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Εleni Foureira
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,221 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,232 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Flert](https://open.spotify.com/track/4FAnN6jKgAfKImWmN8G6UU) | [Selini](https://open.spotify.com/artist/1lN9oec3FiwQz142zp6Vz4), [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ) | [Flert](https://open.spotify.com/album/0PuaHhrsJ0TkkWYad8MB8b) | 4:04 |
 | 50 | [Mavri Yli](https://open.spotify.com/track/7wAyDFlLAR6K0E4KwLGl3y) | [Foxy Lee](https://open.spotify.com/artist/1TMRlzzQQpXLTPF77gB22i) | [Mavri Yli](https://open.spotify.com/album/1x2v8YcG5qLwNuLePfpPem) | 2:45 |
 
-Snapshot ID: `AAAAACmDD0gR+Zur6w7TdPeCz5cPWJxm`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

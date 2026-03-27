@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Nono La Grinta au top de la première playlist de rap français.
+> PLK au top de la première playlist de rap français.
 
-419 songs - 21 hr 8 min
+420 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [J'fais plaisir à la zone](https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:03 | 2023-12-14 | 2024-06-28 |
 | [JACK HONEY](https://open.spotify.com/track/7xr5N76go3yqgihOkHfCjz) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [TOUT DROIT](https://open.spotify.com/album/1dQqqh5dopbGCLSzHt5dYl) | 2:21 | 2026-02-19 |  |
 | [JAMAIS TOI](https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [JAMAIS TOI](https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm) | 2:47 | 2025-10-02 |  |
+| [Jamie Bynoe\-Gittens](https://open.spotify.com/track/0oT6Wo33U7xaFXVC34kGoP) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:20 | 2026-03-26 |  |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2022-01-06 | 2022-11-11 |
 | [Jerrican \(feat\. La Mano 1.9\)](https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Black House](https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb) | 2:52 | 2025-03-13 | 2025-10-03 |
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2022-01-06 | 2022-02-18 |

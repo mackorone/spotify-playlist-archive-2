@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,601 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,587 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 28 | [TUFF](https://open.spotify.com/track/0BdOk4wHgmou8pQAVmot5W) | [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [TUFF](https://open.spotify.com/album/2PGtIrYSJiy5bw7Tcad6HN) | 3:15 |
 | 29 | [Falling Into Place](https://open.spotify.com/track/1Pmz95JwdCItjhPzOCpyga) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [signature sound](https://open.spotify.com/album/3q07K9HBN5xuTHJViysGrF) | 2:30 |
 | 30 | [Check Dis](https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Check Dis](https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m) | 2:29 |
-| 31 | [Putting on Weight](https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Putting on Weight](https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy) | 3:03 |
-| 32 | [STILL REMINISCING](https://open.spotify.com/track/736FYsG3s7DP17BFgWxyTk) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc) | [STILL REMINISCING](https://open.spotify.com/album/4mpe33kvA9isxz7ts2OxIQ) | 2:27 |
+| 31 | [STILL REMINISCING](https://open.spotify.com/track/736FYsG3s7DP17BFgWxyTk) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc) | [STILL REMINISCING](https://open.spotify.com/album/4mpe33kvA9isxz7ts2OxIQ) | 2:27 |
+| 32 | [Putting on Weight](https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Putting on Weight](https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy) | 3:03 |
 | 33 | [Dreaming](https://open.spotify.com/track/3XvYLYepT6vVwbEFdW51ws) | [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Numa Crew](https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Killing Time](https://open.spotify.com/album/7aeGkSrHin7gULg31SzIen) | 2:36 |
 | 34 | [premium wear](https://open.spotify.com/track/6pKJ4KJfFW1M56NhlSm77e) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy) | [premium wear](https://open.spotify.com/album/3mCq1Ij05M5IpEneuQPdu8) | 2:31 |
 | 35 | [Active](https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Active](https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI) | 3:40 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 67 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
 | 68 | [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 |
 | 69 | [Head Case](https://open.spotify.com/track/5be9oOg00OhcUhenKs6cbw) | [Avaword](https://open.spotify.com/artist/1eEyNOCSfEZ3HmDjaUaLrc), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [Avaworld](https://open.spotify.com/album/34H4YyvhU5OTyu5rt0CKok) | 2:49 |
-| 70 | [spirit, pt\. 1](https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d) | [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [spirit, pt\. 1](https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi) | 1:49 |
+| 70 | [Tears](https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv) | [M1KE7](https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA) | [Tears](https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb) | 2:19 |
 
 Snapshot ID: `AAAAANr65tQv9fR/e47Rx4cdoJqBFzBZ`

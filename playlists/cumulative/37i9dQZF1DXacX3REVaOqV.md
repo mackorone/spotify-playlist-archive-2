@@ -4,7 +4,7 @@
 
 > The best in house music
 
-780 songs - 2 day 2 hr 19 min
+781 songs - 2 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Free \- Ferreck Dawn Remix](https://open.spotify.com/track/0qaFVIeo7NYNi0WqycON6A) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free \(Ferreck Dawn Remix\)](https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT) | 2:53 | 2023-03-02 | 2024-03-08 |
 | [Free At Last \- Martin Ikin Remix](https://open.spotify.com/track/29OpAJWfsnqXQY5VAEToTI) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Anna Leyne](https://open.spotify.com/artist/7GCoz67CzP8geNIXE7lQrb), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Free At Last](https://open.spotify.com/album/3OrkPlLYfJK0Po2Z5fLjnO) | 3:21 | 2022-04-14 | 2024-03-01 |
 | [Free Jam \(feat\. Kathy Brown\)](https://open.spotify.com/track/03BBAdsDn4j5ZjmlKyol3q) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [Free Jam EP](https://open.spotify.com/album/0Co0cFsKWJfnCvzaK7hXBd) | 3:11 | 2024-05-23 | 2025-03-08 |
+| [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-03-26 |  |
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2022-04-14 | 2024-03-21 |
 | [Freedom 2024](https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Freedom 2024](https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI) | 2:41 | 2024-07-18 | 2025-03-28 |
 | [Freeze \- John Summit Remix](https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Freeze \(John Summit Remix\)](https://open.spotify.com/album/1y9vtFEaefqwQUioWsaOsw) | 3:12 | 2022-07-14 | 2024-02-08 |
@@ -440,7 +441,7 @@
 | [Loving At First Sight \- Vocal Mix Edit](https://open.spotify.com/track/3Hbsj0J6L5S6cT0CgZxUvX) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e) | [Loving At First Sight](https://open.spotify.com/album/6xszccmDMRUBm1weZ5nMYd) | 3:59 | 2024-09-12 | 2025-07-04 |
 | [Loving U](https://open.spotify.com/track/0fEMbkLjNZ4V33KO4mLdP5) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Loving U](https://open.spotify.com/album/2uwg3LXH6aitHO3qDIgH4j) | 3:01 | 2022-04-14 | 2022-07-28 |
 | [Low Rider \- Kyle Watson Remix](https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Low Rider \(Kyle Watson Remix\)](https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji) | 3:20 | 2024-04-09 | 2025-03-21 |
-| [Luv U](https://open.spotify.com/track/5mMJdBqQu2VvHrkmpTeFTP) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [Switching Levels EP](https://open.spotify.com/album/6kBxNtjfu3lbXUFX2YkhNZ) | 3:46 | 2026-01-23 |  |
+| [Luv U](https://open.spotify.com/track/5mMJdBqQu2VvHrkmpTeFTP) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [Switching Levels EP](https://open.spotify.com/album/6kBxNtjfu3lbXUFX2YkhNZ) | 3:46 | 2026-01-23 | 2026-03-27 |
 | [Magic Garden](https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2) | [II Faces](https://open.spotify.com/artist/4hZL4r9HYfZy8kg5orn3e1) | [Magic Garden EP](https://open.spotify.com/album/2Hc2n3IJED7YQD1PKkkcPf) | 2:53 | 2024-04-26 | 2025-03-21 |
 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-02-27 |  |
 | [Make A Move](https://open.spotify.com/track/2sKH8vYxAfcbntcfGpWkmX) | [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [ThreeSix](https://open.spotify.com/artist/4dNGMkRuq16dZZSfljKMeD) | [Make A Move](https://open.spotify.com/album/4bErqMNo5M8XittFVyPQNw) | 3:20 | 2023-04-12 | 2024-09-13 |

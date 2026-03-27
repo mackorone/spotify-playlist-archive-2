@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 185711,
       "name": "ATMA",
       "url": "https://open.spotify.com/track/3TLUrerWmrfDo6CnxKwS4u"
@@ -5909,6 +5909,28 @@
     },
     {
       "album": {
+        "name": "Kannal Kadhal Kolludhadi (From \"Imir Music\")",
+        "url": "https://open.spotify.com/album/1uqC8tEdebgdnblIKbKtq5"
+      },
+      "artists": [
+        {
+          "name": "Ajmal Khan",
+          "url": "https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR"
+        },
+        {
+          "name": "Nithesh Dhakshin",
+          "url": "https://open.spotify.com/artist/3A8FtmRPlshsKsFLN70tZv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139393,
+      "name": "Kannal Kadhal Kolludhadi (From \"Imir Music\")",
+      "url": "https://open.spotify.com/track/7zHudAKNGkZEMHRXQim6mk"
+    },
+    {
+      "album": {
         "name": "Kannala Thakatha",
         "url": "https://open.spotify.com/album/6LmA6UxbxBP763f06TJERt"
       },
@@ -8487,6 +8509,28 @@
     },
     {
       "album": {
+        "name": "Na Varanja Oviyam",
+        "url": "https://open.spotify.com/album/2t4mJmS7vJuxmucYqGeEfJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan",
+          "url": "https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT"
+        },
+        {
+          "name": "Atiium",
+          "url": "https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Na Varanja Oviyam",
+      "url": "https://open.spotify.com/track/5dV4lDy8gEgRrQXipmD2v6"
+    },
+    {
+      "album": {
         "name": "Naadu Vittu (From \"Aalan\")",
         "url": "https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS"
       },
@@ -9903,6 +9947,32 @@
     },
     {
       "album": {
+        "name": "Ondu Rendu",
+        "url": "https://open.spotify.com/album/279b9lCdoSdo3B0G0aPvPY"
+      },
+      "artists": [
+        {
+          "name": "Ashnaa",
+          "url": "https://open.spotify.com/artist/2XrbuKCQpeSCmR8lViu8aK"
+        },
+        {
+          "name": "Bups Saggu",
+          "url": "https://open.spotify.com/artist/4OnbPgq5lRZJdbvYT7dwZD"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210433,
+      "name": "Ondu Rendu",
+      "url": "https://open.spotify.com/track/26j5TqO25YifNx5kpAE6N1"
+    },
+    {
+      "album": {
         "name": "Onnume Puriyala",
         "url": "https://open.spotify.com/album/6HfC54y7L1bY3S2pdIX4hZ"
       },
@@ -10364,6 +10434,24 @@
       "duration_ms": 181000,
       "name": "Paal Nila",
       "url": "https://open.spotify.com/track/0I0p29zNDsgavfgxUwjzC0"
+    },
+    {
+      "album": {
+        "name": "Paarthale Pathikichu",
+        "url": "https://open.spotify.com/album/2Io8UHL52heJPiEXFxAHrg"
+      },
+      "artists": [
+        {
+          "name": "Naveed Rehman",
+          "url": "https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168545,
+      "name": "Paarthale Pathikichu",
+      "url": "https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5"
     },
     {
       "album": {
@@ -11024,6 +11112,28 @@
       "duration_ms": 118967,
       "name": "Pogaathey",
       "url": "https://open.spotify.com/track/5F5DIAIAKeInyl3WndDM6l"
+    },
+    {
+      "album": {
+        "name": "Pogum Idame",
+        "url": "https://open.spotify.com/album/1HfH2YoKmPuotkTE9d3a2i"
+      },
+      "artists": [
+        {
+          "name": "Murali Gunasekaran",
+          "url": "https://open.spotify.com/artist/5chCsRDtovQiVt3szfPxpK"
+        },
+        {
+          "name": "Rajnivel",
+          "url": "https://open.spotify.com/artist/2oTIkLwKleKb6bZ5f1bqiZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235384,
+      "name": "Pogum Idame",
+      "url": "https://open.spotify.com/track/0aFrjcbjAoANHWEZHv1RAS"
     },
     {
       "album": {

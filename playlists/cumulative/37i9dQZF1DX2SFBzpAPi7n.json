@@ -2277,6 +2277,32 @@
     },
     {
       "album": {
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
+      },
+      "artists": [
+        {
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "TAEHYUN",
+          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Breaking Through",
+      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
+    },
+    {
+      "album": {
         "name": "Broken Party",
         "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
       },
@@ -3652,7 +3678,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 227019,
       "name": "Dazed & Confused",
       "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
@@ -15108,7 +15134,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 220094,
       "name": "Save me",
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
@@ -16740,6 +16766,24 @@
       "duration_ms": 203013,
       "name": "STOP IT",
       "url": "https://open.spotify.com/track/23rtmmIgcIsCEiIPDwxPrd"
+    },
+    {
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3aJUh5tIlrXDfIfyOKQqAu"
+      },
+      "artists": [
+        {
+          "name": "Kim Hye Rim",
+          "url": "https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0t9srJUjz6sRGkNFvWIURT"
     },
     {
       "album": {
@@ -19970,7 +20014,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31"
@@ -20006,7 +20050,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245000,
       "name": "With You",
       "url": "https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa"

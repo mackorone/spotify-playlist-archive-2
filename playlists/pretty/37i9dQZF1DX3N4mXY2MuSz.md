@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,209 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,202 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 63 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 |
 | 64 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
 | 65 | [Come on Christmas](https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6) | [Auralnauts](https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX), [Willeson](https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v) | [Come on Christmas](https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX) | 4:00 |
-| 66 | [Christmas Cards](https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv) | [Spoke Too Soon](https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx) | [Christmas Cards](https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R) | 4:06 |
-| 67 | [Single All the Way](https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Single All the Way](https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa) | 3:15 |
+| 66 | [Single All the Way](https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Single All the Way](https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa) | 3:15 |
+| 67 | [Christmas Cards](https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv) | [Spoke Too Soon](https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx) | [Christmas Cards](https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R) | 4:06 |
 | 68 | [Wonderful Christmas Time](https://open.spotify.com/track/4EKkT3rUAlTf0JVvXLTgKN) | [Lion In The Mane](https://open.spotify.com/artist/6E5wKYYhEgS3r3TRKZl9N1) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 3:42 |
 | 69 | [Rum Nogs](https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6) | [Burning Nickels](https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ) | [Cool Tide Carrolls](https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg) | 2:30 |
 | 70 | [It's Christmas Time](https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5) | [Future Idiots](https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD) | [It's Christmas Time](https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI) | 3:29 |

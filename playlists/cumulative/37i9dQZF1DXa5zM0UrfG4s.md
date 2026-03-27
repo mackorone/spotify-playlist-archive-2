@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-440 songs - 20 hr 7 min
+441 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Distriktet](https://open.spotify.com/track/0tSNao38KTHqH4mNXywCEA) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Distriktet](https://open.spotify.com/album/0XW2yFERF8vEvHkhxXU9rm) | 2:54 | 2022-01-20 | 2022-07-23 |
 | [Do you know how much this cost in Norway?](https://open.spotify.com/track/2mGGLNIDw7IrtxK3HpNhi6) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Do you know how much this cost in Norway?](https://open.spotify.com/album/2qmzljoCTQKPNBaK0lYG7o) | 1:41 | 2023-07-13 | 2023-07-18 |
 | [DREKKA MERA \(feat\. Kevin Boine\)](https://open.spotify.com/track/21gWDhpO2CsqjuqUnnL31j) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [DREKKA MERA](https://open.spotify.com/album/2uQAqRRC56HG1jimMHem4h) | 2:21 | 2022-05-05 | 2022-07-28 |
+| [Drekke dæ fin](https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Drekke dæ fin](https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc) | 1:59 | 2026-03-26 |  |
 | [Du + Jeg = Helvete \(Figure Eight\)](https://open.spotify.com/track/4BEnuYgI3SM81ehvW7lPfH) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Du + Jeg = Helvete \(Figure Eight\)](https://open.spotify.com/album/2n08hNDHvuA6t4Ubvs2wtG) | 2:36 | 2021-12-16 | 2022-06-16 |
 | [Du får aldri se meg naken igjen](https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Du får aldri se meg naken igjen](https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX) | 2:47 | 2021-12-16 | 2022-11-16 |
 | [Du kan inte få min öl](https://open.spotify.com/track/28g0C6ruCVWccDCYJy3G0c) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/7DPVUlgOqQlKS9DKaT9ATm) | 2:16 | 2023-12-14 | 2024-02-09 |
@@ -181,7 +182,7 @@
 | [Heidis](https://open.spotify.com/track/6KEt31AgbIWvf9EIc4A8UW) | [Jövial](https://open.spotify.com/artist/4J67wA6BzNiosOXRTR6MPf) | [Heidis](https://open.spotify.com/album/4poJNaMxQW1OtK1pZeY33G) | 2:18 | 2022-02-17 | 2022-04-29 |
 | [Heidi´s i kveld](https://open.spotify.com/track/14GK1ZYM4q8bOpRO9bEt2T) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Heidi’s i kveld](https://open.spotify.com/album/68z4K2Gpakq9cc0Dlb97Cs) | 2:36 | 2022-05-19 | 2022-07-16 |
 | [Heim Til Nordfjord](https://open.spotify.com/track/2muikWIFUbTklgyhSkDTLF) | [Steinar Engelbrektson](https://open.spotify.com/artist/0OZ0FjkvLXQQrkHCXA2ufM) | [Ekte Speleglede](https://open.spotify.com/album/6aDWhRN1u179ghvcp4sBGi) | 3:20 | 2021-12-16 | 2022-04-17 |
-| [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 | 2026-02-12 |  |
+| [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 | 2026-02-12 | 2026-03-27 |
 | [Hej Alla Raggare](https://open.spotify.com/track/294hfH0VbX7jwv4PcyOlgb) | [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi), [Henrik Sæter](https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl) | [Hej Alla Raggare](https://open.spotify.com/album/0OQO569qzb6v881Mzurp1H) | 2:12 | 2022-04-14 | 2022-07-16 |
 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 | 2021-12-16 | 2025-07-13 |
 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 | 2024-06-13 | 2025-09-06 |
@@ -206,7 +207,7 @@
 | [Hva gjør du nå?](https://open.spotify.com/track/1ZWDLei3i9cWF4IMClFYxo) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Hva gjør du nå?](https://open.spotify.com/album/2VKqpZN9XCAQ20Etpxjd7a) | 2:45 | 2026-03-19 |  |
 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 | 2025-03-27 | 2026-01-15 |
 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 | 2022-05-05 | 2022-09-01 |
-| [Hvem skal nekte meg en øl?](https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hvem skal nekte meg en øl?](https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC) | 2:06 | 2025-12-31 |  |
+| [Hvem skal nekte meg en øl?](https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hvem skal nekte meg en øl?](https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC) | 2:06 | 2025-12-31 | 2026-03-27 |
 | [Hvis Morgendagen Aldri Kommer](https://open.spotify.com/track/3mF0hLdjrLroWBIpkrodI4) | [Picazzo](https://open.spotify.com/artist/2LBQeuC7ETT53nrim3NGfb) | [Blanke Ark](https://open.spotify.com/album/5IDzD2Vn9gGUa7UmsMdh8H) | 4:37 | 2022-03-24 | 2022-04-19 |
 | [HVIT PELIKAN](https://open.spotify.com/track/6qZuPyOD4ROhYMaBeIA5ZS) | [Dandy Lion](https://open.spotify.com/artist/3Il8nRZ80Wbjs2UGkysK5F), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [HVIT PELIKAN](https://open.spotify.com/album/4ByBcmO9fANmzo47mE1R6Y) | 2:19 | 2021-12-16 | 2022-04-18 |
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-05-30 | 2024-08-06 |
@@ -310,7 +311,7 @@
 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 | 2021-12-16 |  |
 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 | 2021-12-16 | 2024-02-09 |
 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 | 2025-10-16 |  |
-| [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 | 2026-01-04 |
+| [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 |  |
 | [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 | 2025-07-03 | 2026-02-02 |
 | [Oppi Ein Dal](https://open.spotify.com/track/6JMatYYmKlvo1I0dNKes5R) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande Fant](https://open.spotify.com/album/6NQHQ6V4o7d2Vd1EGF1lsn) | 3:01 | 2022-01-13 | 2022-04-21 |
 | [Oppi ein dal](https://open.spotify.com/track/6WiAX5SXrCj5z6kk5YrxGb) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande fant](https://open.spotify.com/album/2hmiqt8cfsJajxqRGJrnUh) | 3:01 | 2022-10-13 | 2022-10-16 |

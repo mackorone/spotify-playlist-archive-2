@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-839 songs - 1 day 17 hr 38 min
+840 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Sky High \- Carpe Remix](https://open.spotify.com/track/0V1jnpAo3fSYPX9kOPIDwz) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Carpe](https://open.spotify.com/artist/5CPcTivbDHvIGrqIIPDOS6) | [Sky High \(Carpe Remix\)](https://open.spotify.com/album/3HHTzFQ2TlsB76sj9FFAfp) | 1:38 | 2025-12-19 |  |
 | [Sky Verse](https://open.spotify.com/track/0gcif66qXbBzhRE4WAphwE) | [Lieless](https://open.spotify.com/artist/3AVDMWWNOYjcp2mtGLdM9C), [Luuna](https://open.spotify.com/artist/24CTvD1KOZbbAcoeuc4V3S), [Yarimov](https://open.spotify.com/artist/2mNRczRlW0G5nkWtpMm1aM) | [Sky Verse](https://open.spotify.com/album/2Sr8DfdKGH2cSl7AfdBvgm) | 1:41 | 2025-07-24 |  |
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |
+| [Slip Thru](https://open.spotify.com/track/3NKq4zqnqlVsNZ8g2Dy896) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Taylor Ravenna](https://open.spotify.com/artist/5OFQZg9Q0gwOeQuuDlzlhl) | [Slip Thru](https://open.spotify.com/album/5Hb2ezxF0Y3qcifH7iUE4o) | 4:38 | 2026-03-26 |  |
 | [snake eyes](https://open.spotify.com/track/5GpJ4hQliOMpemRVqrDyBy) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [snake eyes](https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5) | 2:15 | 2025-06-27 |  |
 | [So Good](https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [So Good](https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000) | 2:52 | 2025-04-29 |  |
 | [So Sweet](https://open.spotify.com/track/6XekDX1T9H2mcujtuhHIZU) | [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT), [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH) | [So Sweet](https://open.spotify.com/album/4Z1vbwLPqTQ8jgBPeByTSh) | 2:00 | 2025-07-04 |  |

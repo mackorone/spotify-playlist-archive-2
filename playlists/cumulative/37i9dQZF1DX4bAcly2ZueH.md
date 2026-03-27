@@ -4,10 +4,11 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-204 songs - 10 hr 38 min
+205 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(5,12,3\)](https://open.spotify.com/track/6eIO53JrB4hQEYTTbyoQUG) | [Kuniyoshi Ichi](https://open.spotify.com/artist/48NWDmvL7Z75GSHCLMlQSA) | [\(5,12,3\)](https://open.spotify.com/album/4q7cYJEbLhqgLoEEhQf187) | 3:27 | 2026-03-25 |  |
 | [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-11-20 |  |
 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 | 2022-10-11 | 2023-02-15 |
 | [A Deeper Understanding](https://open.spotify.com/track/6BVt6hi3Z7IE2h3bElR6rG) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Deeper Understanding](https://open.spotify.com/album/4ZInQdWGYfbZJvXnDcx2te) | 2:41 | 2022-10-11 | 2022-11-13 |
@@ -93,7 +94,7 @@
 | [idk2](https://open.spotify.com/track/65i5oP0YKXtWDj7Fqtvdak) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/0FrLx9txKT7cBIwVkbtri2) | 2:06 | 2023-06-28 | 2024-04-19 |
 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 | 2025-05-28 | 2025-06-12 |
 | [In Your Arms](https://open.spotify.com/track/24tlBs7UEBwNIPB3hFwkjH) | [Mattheus Fedorova](https://open.spotify.com/artist/5fynz3YRv7vghPyLm3gTTE) | [In Your Arms](https://open.spotify.com/album/393FqXTdXkw5pQwpnOuhfo) | 4:40 | 2023-03-07 | 2023-05-06 |
-| [in your arms](https://open.spotify.com/track/0CNKS52qyUU9124pyENtbl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/4z9wqJmSFcV7mwDEfm40KT) | 4:37 | 2024-03-05 |  |
+| [in your arms](https://open.spotify.com/track/0CNKS52qyUU9124pyENtbl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/4z9wqJmSFcV7mwDEfm40KT) | 4:37 | 2024-03-05 | 2026-03-27 |
 | [in your arms](https://open.spotify.com/track/14yTQbKnhRnr4EcXGqszvB) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Escape Everything](https://open.spotify.com/album/32fmXtwTmYZMpKhDD8JYQK) | 4:37 | 2022-10-11 | 2022-11-13 |
 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 | 2022-10-11 | 2024-04-19 |
 | [Introvert](https://open.spotify.com/track/2UQQ3ADE4bdEEB1hfl4QRZ) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:10 | 2022-10-11 | 2024-04-19 |

@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "24 Karat",
+        "url": "https://open.spotify.com/album/3PCahgqJvo7FDL4rFQ47dA"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        },
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "24 Karat",
+      "url": "https://open.spotify.com/track/4zaiuTaf9ZKSNl2uCABFBa"
+    },
+    {
+      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
       },
@@ -1496,6 +1518,28 @@
       "duration_ms": 141269,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH"
+    },
+    {
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "album": {
@@ -3042,6 +3086,24 @@
       "duration_ms": 208000,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+    },
+    {
+      "album": {
+        "name": "Celine",
+        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181727,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
     },
     {
       "album": {
@@ -12160,7 +12222,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 141521,
       "name": "Namipa",
       "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
@@ -13700,7 +13762,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 223020,
       "name": "OTS",
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
@@ -14564,7 +14626,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"

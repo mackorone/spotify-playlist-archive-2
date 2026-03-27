@@ -898,7 +898,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 215592,
       "name": "AMARETTO",
       "url": "https://open.spotify.com/track/3IUojy1VhC8lWQBrORGPm4"
@@ -1956,6 +1956,24 @@
       "duration_ms": 131198,
       "name": "BOGOT\u00c1 FREESTYLE",
       "url": "https://open.spotify.com/track/41nZSOCj93WMv3EjXTUuqS"
+    },
+    {
+      "album": {
+        "name": "Bonmat\u00ed",
+        "url": "https://open.spotify.com/album/5BkzzIufbgiHoF1OVnxgDo"
+      },
+      "artists": [
+        {
+          "name": "Sara Socas",
+          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Bonmat\u00ed",
+      "url": "https://open.spotify.com/track/37fZ4lKNEAtb324fDOWTcm"
     },
     {
       "album": {
@@ -4057,6 +4075,28 @@
     },
     {
       "album": {
+        "name": "DEJAV\u00da",
+        "url": "https://open.spotify.com/album/6ABQfMaKNRHr5YQnnNJlxF"
+      },
+      "artists": [
+        {
+          "name": "Kadec Santa Anna",
+          "url": "https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW"
+        },
+        {
+          "name": "RAT\u00c1T\u00c1 STUDIOS",
+          "url": "https://open.spotify.com/artist/6gbjUTaedNjyAnxWogbWWx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186212,
+      "name": "DEJAV\u00da",
+      "url": "https://open.spotify.com/track/3jJssQFwwWxXuKGZKGTpBP"
+    },
+    {
+      "album": {
         "name": "Del Show al Hotel",
         "url": "https://open.spotify.com/album/28dLtHM5bNg9EFbd2kW13l"
       },
@@ -5467,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "ESCAMA",
+        "url": "https://open.spotify.com/album/1M0qNljy9m1RwBzlpT3WCj"
+      },
+      "artists": [
+        {
+          "name": "Lopes",
+          "url": "https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168064,
+      "name": "ESCAMA",
+      "url": "https://open.spotify.com/track/5sj0xUHZ1b7tKO9iKoLXpx"
+    },
+    {
+      "album": {
         "name": "ALCALiNO",
         "url": "https://open.spotify.com/album/4os3CxB54cy4hU8a2bDnaA"
       },
@@ -5742,7 +5800,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 167741,
       "name": "fastlife",
       "url": "https://open.spotify.com/track/4bFUEykeWlz0D3JMWRhJ8H"
@@ -6536,7 +6594,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 198507,
       "name": "Hag\u00e1moslo",
       "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
@@ -7208,7 +7266,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 152470,
       "name": "Jazz Do It 2.0",
       "url": "https://open.spotify.com/track/3HYdvzAV006nT6JH8zHYJ9"
@@ -9705,6 +9763,28 @@
     },
     {
       "album": {
+        "name": "Mi ausencia",
+        "url": "https://open.spotify.com/album/2BGdFwyNpBkiQJtTZX8pIv"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237745,
+      "name": "Mi ausencia",
+      "url": "https://open.spotify.com/track/7lkLuEZmHXzsaKZFQ6xsvg"
+    },
+    {
+      "album": {
         "name": "Mi Ciudad",
         "url": "https://open.spotify.com/album/2Jw770YCxFSPF5r7ac0Li0"
       },
@@ -10616,7 +10696,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 118894,
       "name": "No Es Extra\u00f1o",
       "url": "https://open.spotify.com/track/5nWHPhHiuVo51jy9P5MRxs"
@@ -11336,6 +11416,24 @@
       "duration_ms": 265979,
       "name": "OL\u00c9OLA",
       "url": "https://open.spotify.com/track/7uZeF75r7NkR5Yf21zWbTg"
+    },
+    {
+      "album": {
+        "name": "Only U",
+        "url": "https://open.spotify.com/album/3XfjL6bgu6mwve4QRdKlVr"
+      },
+      "artists": [
+        {
+          "name": "Cocco Lexa",
+          "url": "https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129801,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/44JUeYPbMojT4xTSSeJOcw"
     },
     {
       "album": {
@@ -12800,7 +12898,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 136529,
       "name": "RAPSINCORTE 58",
       "url": "https://open.spotify.com/track/3VdmkUUsH9xahpj2GhQGIH"
@@ -12914,6 +13012,28 @@
       "duration_ms": 144340,
       "name": "Red Bull Espiral #02",
       "url": "https://open.spotify.com/track/7Ixugcb4sUkt5tdxUFo7Id"
+    },
+    {
+      "album": {
+        "name": "Red Bull Espiral #03",
+        "url": "https://open.spotify.com/album/3lodbPJejMinauqB9bPPTT"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Red Bull Espiral #03",
+      "url": "https://open.spotify.com/track/0rsWTVOwDX2VyS8ZuxN8ku"
     },
     {
       "album": {

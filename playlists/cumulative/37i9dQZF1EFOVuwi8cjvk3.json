@@ -1944,6 +1944,28 @@
     {
       "album": {
         "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/1OpyDFeqgKKsyjpmG7grbS"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Mitchy Slick",
+          "url": "https://open.spotify.com/artist/3uhJHJFmFtFloOhRCDocit"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191990,
+      "name": "Full Time",
+      "url": "https://open.spotify.com/track/0B3UG9yeDSTApGF5ZViVWW"
+    },
+    {
+      "album": {
+        "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
       "artists": [
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 191990,
       "name": "Full Time (feat. Mitchy Slick)",
       "url": "https://open.spotify.com/track/57967M1zk0ol9DgNXXZqXx"

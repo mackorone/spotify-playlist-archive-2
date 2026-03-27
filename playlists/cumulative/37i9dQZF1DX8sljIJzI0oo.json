@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Omar Courtz is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
+  "description": "Quevedo is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
   "name": "Fuego",
   "tracks": [
     {
@@ -50,6 +50,36 @@
       "duration_ms": 143426,
       "name": "$DOLLAR$",
       "url": "https://open.spotify.com/track/3a18ZXF0XhEUSYpxlQdmxP"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231791,
+      "name": "$UELTA GATITA $UELTA",
+      "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
     },
     {
       "album": {
@@ -2952,7 +2982,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 206340,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W"
@@ -8155,6 +8185,32 @@
     },
     {
       "album": {
+        "name": "BOTERO",
+        "url": "https://open.spotify.com/album/6EuLuKuPRAxIePVvIJI8nG"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254576,
+      "name": "BOTERO",
+      "url": "https://open.spotify.com/track/09fSdYZ5KlhSY5OqsBevhU"
+    },
+    {
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -8494,7 +8550,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 159360,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
@@ -8718,6 +8774,24 @@
       "duration_ms": 214615,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
+    },
+    {
+      "album": {
+        "name": "Ca$hi",
+        "url": "https://open.spotify.com/album/16sEGKLeULIFxgugeQRUmc"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188601,
+      "name": "Ca$hi",
+      "url": "https://open.spotify.com/track/6QCW6T5ulRVBW5Ng2ZaK4G"
     },
     {
       "album": {
@@ -13069,6 +13143,24 @@
     },
     {
       "album": {
+        "name": "C\u00d3MO QUIERES",
+        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "C\u00d3MO QUIERES",
+      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
+    },
+    {
+      "album": {
         "name": "C\u00d3MO SE SIENTE (Remix)",
         "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
       },
@@ -14196,7 +14288,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 186352,
       "name": "Deseos",
       "url": "https://open.spotify.com/track/3nxJjFWUE8pJyq4GBzFa8J"
@@ -15302,6 +15394,32 @@
       "duration_ms": 193961,
       "name": "DISPO",
       "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
+    },
+    {
+      "album": {
+        "name": "Dispuesta",
+        "url": "https://open.spotify.com/album/3IvNpCRYp0sbRApj7wsVoY"
+      },
+      "artists": [
+        {
+          "name": "Los Hitmen",
+          "url": "https://open.spotify.com/artist/3UL33qnDTDglkZqiKFGIyR"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194815,
+      "name": "Dispuesta",
+      "url": "https://open.spotify.com/track/1dS0SXE49xmnfnmJTg8yca"
     },
     {
       "album": {
@@ -18046,7 +18164,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 156000,
       "name": "EN EL ARREBATO",
       "url": "https://open.spotify.com/track/2Xoiv2HA9FV34QomLxJejd"
@@ -20046,7 +20164,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 415973,
       "name": "Falsas Promesas (Remix)",
       "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
@@ -23592,7 +23710,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 175903,
       "name": "Gustito",
       "url": "https://open.spotify.com/track/6bnRaOOeHjKAMNMGebdkn6"
@@ -24948,7 +25066,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180000,
       "name": "HOY NO TRABAJO",
       "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
@@ -28170,7 +28288,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 149712,
       "name": "la de arca",
       "url": "https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi"
@@ -28420,6 +28538,28 @@
       "duration_ms": 217254,
       "name": "LA HORA Y EL D\u00cdA",
       "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "La Iniciativa",
+      "url": "https://open.spotify.com/track/0xkAVq1FYLRl2XMOBLmGLX"
     },
     {
       "album": {
@@ -29968,7 +30108,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 236590,
       "name": "LAS ESTRELLAS NO ESTAN TAN LEJOS",
       "url": "https://open.spotify.com/track/7CkNUfgbjjS4oNCjKVjs8L"
@@ -33184,6 +33324,28 @@
       "duration_ms": 147692,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+    },
+    {
+      "album": {
+        "name": "me aburro f\u00e1cil",
+        "url": "https://open.spotify.com/album/4xkDJ8mbJvg5QU7bd6OrEw"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216832,
+      "name": "me aburro f\u00e1cil",
+      "url": "https://open.spotify.com/track/5J2tV1G8EmALVpfVkJadTQ"
     },
     {
       "album": {
@@ -36966,7 +37128,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 178346,
       "name": "NEXTD00R*",
       "url": "https://open.spotify.com/track/270B1goEV5felDbUvf0Ssz"
@@ -38828,7 +38990,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 180000,
       "name": "NYX00 (with JC Reyes)",
       "url": "https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI"
@@ -42830,7 +42992,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 202803,
       "name": "Pico Y Chao (W Sound 08)",
       "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
@@ -43492,6 +43654,32 @@
       "duration_ms": 228657,
       "name": "POLVO ROSA (feat. Snow Tha Product)",
       "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
+    },
+    {
+      "album": {
+        "name": "PONGO",
+        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "PONGO",
+      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
       "album": {
@@ -47033,6 +47221,24 @@
     },
     {
       "album": {
+        "name": "Nueva Luna",
+        "url": "https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL"
+      },
+      "artists": [
+        {
+          "name": "BASSYY",
+          "url": "https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/5NqZY3dwJtShCJfAPSULnr"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/6sId7HxwowQflyXaVS8PUZ"
       },
@@ -47074,7 +47280,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 199403,
       "name": "Replica",
       "url": "https://open.spotify.com/track/3iQWVplKX7PHklMhYKHdQw"
@@ -47722,7 +47928,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
@@ -48628,6 +48834,24 @@
       "duration_ms": 377600,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/5e5MKPtJuFb8NaeSEyV5gD"
+    },
+    {
+      "album": {
+        "name": "SCANDIC",
+        "url": "https://open.spotify.com/album/1yyN0XBYnI7tJBCAhmmcOE"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181421,
+      "name": "SCANDIC",
+      "url": "https://open.spotify.com/track/7D2A3hvJSabgicJ1HM4kDi"
     },
     {
       "album": {
@@ -51457,6 +51681,28 @@
     },
     {
       "album": {
+        "name": "SU su SU",
+        "url": "https://open.spotify.com/album/1vOC7vZNCja6RW50m297hR"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159475,
+      "name": "SU su SU",
+      "url": "https://open.spotify.com/track/3CsV3o4DS5zoRRlLDj8dHc"
+    },
+    {
+      "album": {
         "name": "Suano",
         "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
       },
@@ -52776,7 +53022,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 127575,
       "name": "Te Dar\u00e9",
       "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
@@ -54326,7 +54572,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 140816,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
@@ -54770,6 +55016,24 @@
       "duration_ms": 232600,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/1UsH7BGRywbF5iJBASNpdx"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162289,
+      "name": "TRANKAITO",
+      "url": "https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN"
     },
     {
       "album": {
@@ -56247,6 +56511,24 @@
     },
     {
       "album": {
+        "name": "UBI",
+        "url": "https://open.spotify.com/album/0NEQJ6CT7BO6NmcMrJKvtF"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "UBI",
+      "url": "https://open.spotify.com/track/6uhd7Rh1g6e4BL6ZG3hzPg"
+    },
+    {
+      "album": {
         "name": "ULALA (OHH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -56790,7 +57072,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
@@ -59224,7 +59506,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"
@@ -60864,7 +61146,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 173575,
       "name": "\u00bfte ACUERDAS de mi?",
       "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"

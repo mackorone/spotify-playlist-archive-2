@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Wijaya 80, Sal Priadi
+> Deretan musik Indonesia terpopuler saat ini\.  Cover:  Andi Rianto, Nadhif Basalamah
 
-611 songs - 1 day 15 hr 50 min
+613 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Cinta Kita](https://open.spotify.com/track/65nZbfJLykiRVfuh2RHsii) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Kita](https://open.spotify.com/album/6E18fqcJuU2qEFicknkdgM) | 4:22 | 2026-01-08 |  |
 | [Cinta Rahasia](https://open.spotify.com/track/3aIaHN3TbPK8QZbZnoMmi0) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Cinta Rahasia](https://open.spotify.com/album/6Tgp2oKTLa1mtyz64YSwLn) | 4:11 | 2025-08-14 | 2025-10-03 |
 | [Cinta Seperti Aku](https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Edelweiss](https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u) | 4:08 | 2025-10-16 | 2026-01-30 |
-| [Cinta Tak Berbatas \- From Novel "Bukan Sekadar Cinta"](https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Cinta Tak Berbatas \(From Novel "Bukan Sekadar Cinta"\)](https://open.spotify.com/album/0W08j84GtpWZ5qAffRJytQ) | 4:04 | 2025-10-16 |  |
+| [Cinta Tak Berbatas \- From Novel "Bukan Sekadar Cinta"](https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Cinta Tak Berbatas \(From Novel "Bukan Sekadar Cinta"\)](https://open.spotify.com/album/0W08j84GtpWZ5qAffRJytQ) | 4:04 | 2025-10-16 | 2026-03-27 |
 | [Cinta Tak Nyata](https://open.spotify.com/track/387AE8j51DFoEKWRx8e1mF) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ) | [Cinta Tak Nyata](https://open.spotify.com/album/6we9F7e5V0CJViig7xrZ4K) | 3:55 | 2025-10-30 | 2026-03-20 |
 | [Cinta Takkan Usai](https://open.spotify.com/track/2znqSI4yjhozKqBuAPdKmx) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Mutia Ayu](https://open.spotify.com/artist/79OLLTbSJiF902xNECCrV6) | [Cinta Takkan Usai](https://open.spotify.com/album/1lni0LznmjMWpBp9em36Wa) | 4:21 | 2025-04-10 | 2025-06-13 |
 | [Close to You](https://open.spotify.com/track/2G5ItTp6kepUVeJrsmFSbQ) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Close to You](https://open.spotify.com/album/35XKlAPheGcZUQ2nh7eKtw) | 3:17 | 2026-02-19 |  |
@@ -156,6 +156,7 @@
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-20 | 2024-11-15 |
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-29 | 2024-10-18 |
 | [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 | 2026-01-15 |  |
+| [DM](https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI) | [DM](https://open.spotify.com/album/5dthffa1xLLD1HFvEWgkNJ) | 2:36 | 2026-03-26 |  |
 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 | 2025-10-09 | 2025-11-14 |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-05-10 | 2024-08-09 |
 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 | 2024-01-26 | 2024-03-15 |
@@ -283,6 +284,7 @@
 | [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 | 2024-01-26 | 2024-03-22 |
 | [kota ini tak sama tanpamu](https://open.spotify.com/track/3lss7BQY3Kp4ixlZY3dK8d) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:39 | 2025-12-11 |  |
 | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:29 | 2025-08-14 | 2025-10-31 |
+| [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 | 2026-03-26 |  |
 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2024-01-26 | 2025-02-14 |
 | [Ku Tak Mampu Lagi](https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 4:14 | 2024-01-26 | 2024-03-15 |
 | [Kualat](https://open.spotify.com/track/2rQaU116DxmNjhuMEAxSVB) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [Kualat](https://open.spotify.com/album/4L5jSA1BdXeCjnplf4oiDU) | 3:00 | 2025-07-10 | 2025-09-26 |

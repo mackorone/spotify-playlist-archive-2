@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 477724,
+  "num_followers": 477719,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+      "duration_ms": 264146,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -623,6 +607,22 @@
       "duration_ms": 183139,
       "name": "Waste of Time",
       "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Down in the Country",
-      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Galacticana",
         "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 150577,
       "name": "reason to live",
       "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Down in the Country",
+      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "River Wider",
+        "url": "https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "River Wider",
+      "url": "https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Miko Marks | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 281045,
       "name": "Feel Like Going Home (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "River Wider",
-        "url": "https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "River Wider",
-      "url": "https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
-      },
-      "artists": [
-        {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Outwit the Devil",
-      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
       },
       "artists": [
         {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
         }
       ],
-      "duration_ms": 235263,
-      "name": "Lucky Ones",
-      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
+      "duration_ms": 184500,
+      "name": "Outwit the Devil",
+      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1363,6 +1347,22 @@
       "duration_ms": 210113,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz"
+        "name": "I'm Not There",
+        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
       },
       "artists": [
         {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
         }
       ],
-      "duration_ms": 231341,
-      "name": "Canyonheart",
-      "url": "https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A"
+      "duration_ms": 243706,
+      "name": "I'm Not There",
+      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "I'm Not There",
-        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz"
       },
       "artists": [
         {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
         }
       ],
-      "duration_ms": 243706,
-      "name": "I'm Not There",
-      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+      "duration_ms": 231341,
+      "name": "Canyonheart",
+      "url": "https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Desert Queen",
-        "url": "https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI"
-      },
-      "artists": [
-        {
-          "name": "Ben Stevenson",
-          "url": "https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq"
-        }
-      ],
-      "duration_ms": 282522,
-      "name": "Desert Queen",
-      "url": "https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 169933,
       "name": "99.9%",
       "url": "https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI"
+      },
+      "artists": [
+        {
+          "name": "Ben Stevenson",
+          "url": "https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq"
+        }
+      ],
+      "duration_ms": 282522,
+      "name": "Desert Queen",
+      "url": "https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Heavy Metal Heart",
         "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 272913,
       "name": "Heavy Metal Heart",
       "url": "https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2025-02-07 05:00:32",

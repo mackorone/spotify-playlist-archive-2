@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Ryokuoushoku Shakai",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: ZUTOMAYO",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 230751,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
+    },
+    {
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214045,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
     },
     {
       "album": {
@@ -987,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296912,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
+    },
+    {
+      "album": {
         "name": "doku",
         "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
       },
@@ -1530,6 +1566,24 @@
       "duration_ms": 246699,
       "name": "Hana",
       "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
+    },
+    {
+      "album": {
+        "name": "C.U.T",
+        "url": "https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300100,
+      "name": "Hanamushiro",
+      "url": "https://open.spotify.com/track/2MBkWeapnzFZst4fxaaC8m"
     },
     {
       "album": {
@@ -4437,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "KEISOUDO",
+        "url": "https://open.spotify.com/album/5lzzogUrW0KKsmnthNNIfP"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79572,
+      "name": "ultra soul",
+      "url": "https://open.spotify.com/track/2AlU0ltG2bfCvpuV5vVaGY"
+    },
+    {
+      "album": {
         "name": "UNDEAD",
         "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
       },
@@ -5364,6 +5436,24 @@
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30fb\u30a2\u30a4\u30fb\u30a2",
+        "url": "https://open.spotify.com/album/1CHV3Cbdv9mo620igRG7Ua"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254347,
+      "name": "\u30a2\u30a4\u30fb\u30a2\u30a4\u30fb\u30a2",
+      "url": "https://open.spotify.com/track/3nJnEiE8oS5oUbDFUoLfDa"
     },
     {
       "album": {

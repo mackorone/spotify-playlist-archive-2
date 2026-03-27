@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"La recette\" de Jeck et Carla est le Grand Hit de la semaine.  ",
+  "description": "\"Autrement\" de Julien Lieb est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 200760,
       "name": "Bachata",
       "url": "https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 246053,
       "name": "En boucle",
       "url": "https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC"
@@ -1620,6 +1620,28 @@
       "duration_ms": 250973,
       "name": "Encore",
       "url": "https://open.spotify.com/track/2clu3lEp5DLIlCKLLml7kP"
+    },
+    {
+      "album": {
+        "name": "Encore une fois",
+        "url": "https://open.spotify.com/album/11w0O8IbcYHuDjnLkpaBkt"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        },
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181128,
+      "name": "Encore une fois",
+      "url": "https://open.spotify.com/track/3K1EfuaNdEaTuJjzegRqJz"
     },
     {
       "album": {
@@ -2681,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258996,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
+    },
+    {
+      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -3354,6 +3394,24 @@
       "duration_ms": 198546,
       "name": "Le monde demain - Version radio",
       "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
+    },
+    {
+      "album": {
+        "name": "Le Petit P\u00eacheur",
+        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Le Petit P\u00eacheur",
+      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
     },
     {
       "album": {
@@ -5118,7 +5176,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 195121,
       "name": "SENTIMENTAL",
       "url": "https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv"

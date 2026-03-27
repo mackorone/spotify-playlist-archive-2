@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,576 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,703 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 100 | [Soft Exhale \(Alpha Binaural 67.1 Hz \- 75.5 Hz\)](https://open.spotify.com/track/06JMYxOLOKzVDZei8nvwY3) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Soft Exhale \(Alpha Binaural 67.1 Hz \- 75.5 Hz\)](https://open.spotify.com/album/5glA1ZS9TZ8P1krQqicK4s) | 4:00 |
 | 101 | [Sunset Alpha 100 Hz \-108 Hz](https://open.spotify.com/track/6tY2j8K1HPxrlN1kUThPIz) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Sunset Alpha 100 Hz \-108 Hz](https://open.spotify.com/album/5fu5E2213pc4bYhb9eoRWQ) | 2:42 |
 | 102 | [Binaural Alpha 13\-12hz, Drones 114\-91hz](https://open.spotify.com/track/5ttyxowFnuxx7VJ8kWCqjP) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Binaural Alpha 13\-12hz, Drones 114\-91hz](https://open.spotify.com/album/3O0a9mpEDpZD34hULFi6ET) | 3:37 |
-| 103 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 |
+| 103 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/1bIaco5UqfyolBRCxOj3bV) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 |
 | 104 | [Binaural Alpha Sinus 110Hz \- 118Hz](https://open.spotify.com/track/7AY5D9sxUTWBUv4U0Gqe4Q) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [FoCcus](https://open.spotify.com/album/1YD1tFaelD370A42BWvlqR) | 2:29 |
 | 105 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 |
 | 106 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 |

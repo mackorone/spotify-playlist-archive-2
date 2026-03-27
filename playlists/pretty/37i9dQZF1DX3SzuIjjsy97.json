@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407166,
+  "num_followers": 407189,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,50 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
+        "name": "High School Musical 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
+      },
+      "artists": [
+        {
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "You Are the Music in Me",
+      "url": "https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "What Is This Feeling?",
+      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -667,50 +711,6 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 228947,
-      "name": "What Is This Feeling?",
-      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Troy",
-          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
-        },
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "You Are the Music in Me",
-      "url": "https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp"
     },
     {
       "added_at": "2026-03-06 13:38:21",

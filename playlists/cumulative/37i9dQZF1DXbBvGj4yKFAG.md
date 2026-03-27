@@ -4,12 +4,12 @@
 
 > may include sad indie rock songs.
 
-258 songs - 13 hr 26 min
+260 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(dream\) \- Remaster](https://open.spotify.com/track/0rHu5eGXkeTh4vSHpO1saS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/6guj24pIFwXE2rDi2LAWko) | 1:24 | 2023-06-02 | 2024-04-19 |
-| [\(dream\) \- remaster](https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:24 | 2023-06-02 |  |
+| [\(dream\) \- remaster](https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:24 | 2023-06-02 | 2026-03-27 |
 | [...do you want me?](https://open.spotify.com/track/4DVwPvqaybisaqQ8bQF3pp) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [plunge deep golden knife](https://open.spotify.com/album/2yWzvElwYppqFJZ61AIcfg) | 2:36 | 2023-04-11 | 2026-03-14 |
 | [...do you want me?](https://open.spotify.com/track/4MhUNi5bmNfvejnuJaDGk5) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [plunge deep golden knife](https://open.spotify.com/album/5IkfsCgOxmviOp3cKXlHiL) | 2:36 | 2023-04-11 | 2024-04-19 |
 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 | 2023-02-09 | 2026-03-14 |
@@ -58,6 +58,7 @@
 | [dark rain](https://open.spotify.com/track/4ofhqons1Y7p0orWUPM3qt) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [joseph's deli & lottery](https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM) | 2:34 | 2023-07-14 |  |
 | [deep cut](https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [deep cut](https://open.spotify.com/album/17b1Br35jKvT919bAF3MAH) | 5:14 | 2023-04-11 | 2023-06-03 |
 | [die](https://open.spotify.com/track/5Qfq800wAIq4iDWOJewzAf) | [Oyatan](https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om), [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [Wouldn’t It Be Easy?](https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t) | 2:50 | 2023-08-18 |  |
+| [disappear](https://open.spotify.com/track/2pxvXh3qnfN8wOVcJtlMDt) | [ps goner](https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp) | [disappear](https://open.spotify.com/album/4mPSNiCimAu1Kw8uXaQmiJ) | 4:34 | 2026-03-26 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 | 2023-07-01 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 | 2026-03-14 |
@@ -72,7 +73,7 @@
 | [everyone hates me](https://open.spotify.com/track/27LpiE6Yuy5eN2ycDe4yGO) | [doing well](https://open.spotify.com/artist/27cvunkVl2LeT5WXxBKVXn) | [everyone hates me](https://open.spotify.com/album/25Vx7kGJZu2mpXaiNtBr3V) | 1:42 | 2026-02-20 |  |
 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 | 2023-02-09 | 2023-06-14 |
 | [fallin in luv](https://open.spotify.com/track/4GjMBqEczBmREhkaF3CA4f) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [fallin in luv](https://open.spotify.com/album/1UrQfyrmg58B5mWirxdvCX) | 1:24 | 2024-04-16 |  |
-| [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 | 2023-05-16 |  |
+| [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 | 2023-05-16 | 2026-03-27 |
 | [Familiar Fields](https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 5:12 | 2023-02-09 | 2023-04-12 |
 | [Fatal Blue](https://open.spotify.com/track/5nzjHP1ALPAqnaqu9CxOyw) | [Grivo](https://open.spotify.com/artist/0NsL0iHM7x5iahPLXXGf9C) | [Omit](https://open.spotify.com/album/3DglweTTqaGzB198Ex36vF) | 5:34 | 2023-04-11 | 2023-06-03 |
 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-02-09 |  |
@@ -233,6 +234,7 @@
 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 | 2023-05-16 | 2026-03-14 |
 | [time and space](https://open.spotify.com/track/6ASZIbWiYI84peOV3kFlAh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [surfgoth](https://open.spotify.com/artist/5bOnGY1cTwZxkhK4JFLtKK) | [time and space](https://open.spotify.com/album/4cHY0W0XPI7gNInlQJOees) | 3:00 | 2023-04-11 |  |
 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 | 2023-05-16 | 2026-03-14 |
+| [Tomorrow is Perfect](https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 6:21 | 2026-03-26 |  |
 | [town](https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:13 | 2023-02-09 | 2023-06-14 |
 | [Tree](https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Tree](https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW) | 2:26 | 2023-06-02 | 2024-01-03 |
 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 | 2023-02-09 | 2023-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,766 likes - 95 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,863 likes - 95 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 9 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 |
 | 10 | [Die Living](https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Die Living](https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl) | 2:50 |
 | 11 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
-| 12 | [Run With The Sun \(feat\. Bryce Vine\)](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
+| 12 | [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
 | 13 | [Under The Table \(feat\. Chris Lane\)](https://open.spotify.com/track/2PFtpbXyJEaSpPJzpLZBgf) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Under The Table \(feat\. Chris Lane\)](https://open.spotify.com/album/4I2O2LWWzS6Qf2rrCBNPDs) | 2:52 |
 | 14 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 |
 | 15 | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV) | 2:45 |

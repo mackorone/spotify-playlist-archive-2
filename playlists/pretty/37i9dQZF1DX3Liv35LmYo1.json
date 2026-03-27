@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2171,
+  "num_followers": 2173,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 225021,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Familiar Flavours",
         "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
@@ -239,22 +223,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "All Good (Jasper Tygner Remix)",
-        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
       },
       "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
         {
           "name": "Jasper Tygner",
           "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 243853,
-      "name": "All Good - Jasper Tygner Remix",
-      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
+      "duration_ms": 225021,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -287,6 +267,26 @@
       "duration_ms": 260168,
       "name": "Ante",
       "url": "https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
     },
     {
       "added_at": "2023-08-31 14:00:00",

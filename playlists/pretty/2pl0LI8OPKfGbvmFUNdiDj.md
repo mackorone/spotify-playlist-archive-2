@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 680 likes - 71 songs - 3 hr 58 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 683 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 69 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 |
 | 70 | [Home Again](https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Home Again](https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR) | 3:16 |
 | 71 | [Vacío](https://open.spotify.com/track/25iohMwQe32vaFBdLdIPmx) | [Ay!Pod](https://open.spotify.com/artist/7iooJ1Ud7b6jKPnoaDu0mz) | [Vacío](https://open.spotify.com/album/6DmBFlKWiUukKLkYobKww9) | 3:29 |
+| 72 | [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 |
 
-Snapshot ID: `AAADURuKwTlvBsLxSMT8iozJ75pZkIUP`
+Snapshot ID: `AAADUqFUNg4OeCwohvnRfkCIU6PmmNHp`

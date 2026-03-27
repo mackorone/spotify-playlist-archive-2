@@ -4,7 +4,7 @@
 
 > Lo mejor de marzo 2026\. Cover: María Isabel
 
-1,447 songs - 3 day 4 hr 49 min
+1,448 songs - 3 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [La Que Yo Amo](https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:12 | 2023-09-08 | 2023-12-06 |
 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 | 2024-07-03 | 2024-08-20 |
 | [La Tarea](https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Tarea](https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp) | 3:41 | 2022-03-11 | 2022-05-24 |
+| [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 | 2026-03-24 |  |
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2023-08-25 | 2023-10-13 |
 | [La Tirana](https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Tirana](https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp) | 4:04 | 2025-09-26 | 2026-01-16 |
 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 | 2022-08-01 | 2022-08-18 |
@@ -804,7 +805,7 @@
 | [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 | 2021-12-14 | 2022-01-26 |
 | [Mejores Jordans 2](https://open.spotify.com/track/6RYsDCdeXeWK2bsCtYXLgy) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans 2](https://open.spotify.com/album/0WbRuSQuG8O7YzQ3jSGdos) | 4:27 | 2025-10-10 | 2026-01-23 |
 | [Melodrama](https://open.spotify.com/track/4ffdk7DakcW71stgcXT1wA) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Melodrama](https://open.spotify.com/album/2KWMkUj6RlXdjFxWqyVOx5) | 3:05 | 2022-02-01 | 2022-04-29 |
-| [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 | 2026-02-20 |  |
+| [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 | 2026-02-20 | 2026-03-27 |
 | [MENTIROSO](https://open.spotify.com/track/1rh3D83sMVXIzbz4gpO3vo) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [MENTIROSO](https://open.spotify.com/album/1N8iWZvahKF2RxBWlcUHIZ) | 2:17 | 2024-05-13 | 2024-07-04 |
 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 | 2022-09-01 | 2022-10-14 |
 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 | 2023-03-07 | 2023-05-09 |

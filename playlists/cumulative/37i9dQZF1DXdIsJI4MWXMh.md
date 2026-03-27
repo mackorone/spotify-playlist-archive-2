@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-171 songs - 11 hr 24 min
+172 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 | 2023-03-03 |  |
 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 | 2025-08-01 |  |
 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 | 2023-09-08 |  |
+| [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 | 2026-02-19 |  |
 | [Aquí Abajo](https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [El Tridente](https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat) | [Aquí Abajo](https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz) | 3:51 | 2023-03-03 | 2024-04-19 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Aquí Hay Para Llevar](https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX) | 3:10 | 2025-02-13 | 2025-07-08 |
 | [Arrogancia](https://open.spotify.com/track/0r1GMinYwx4MFqpzOSNSD6) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Arrogancia](https://open.spotify.com/album/7JdPbrNF0uGfRHwmygCTwT) | 4:05 | 2025-09-02 |  |
@@ -157,7 +158,7 @@
 | [Te Hablarán de Mi](https://open.spotify.com/track/4XaVN3Q7qKKUNdfMupEzw9) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Te Hablarán de Mi](https://open.spotify.com/album/4yX6JWHE7JS4DdzWnGWSSS) | 3:04 | 2025-09-18 |  |
 | [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX) | [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG) | 12:19 | 2023-03-03 | 2024-08-01 |
 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 | 2023-03-03 | 2024-04-19 |
-| [Tenemos Sed](https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD) | [Con Más Sed, Sed, Sed](https://open.spotify.com/album/36JZENel0gYjI758f7wdDL) | 3:31 | 2023-03-03 |  |
+| [Tenemos Sed](https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD) | [Con Más Sed, Sed, Sed](https://open.spotify.com/album/36JZENel0gYjI758f7wdDL) | 3:31 | 2023-03-03 | 2026-03-27 |
 | [Tengo Que Olvidar](https://open.spotify.com/track/1bulmqK7DEFoD39t3Oh7Wv) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Tengo Que Olvidar](https://open.spotify.com/album/16xfSSoDDHPQccvkyP3BF1) | 5:03 | 2025-02-07 |  |
 | [Tequila Y Ron](https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [TEQUILA Y RON](https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX) | 2:40 | 2025-06-13 |  |
 | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut) | 11:24 | 2023-03-03 | 2025-07-31 |

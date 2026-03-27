@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-845 songs - 2 day 1 hr 41 min
+850 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Capim](https://open.spotify.com/track/6Nwx6TfDnrUrb8LLIoeGJO) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Capim](https://open.spotify.com/album/253pommivuFv095QrEJCly) | 2:32 | 2023-04-27 | 2025-11-29 |
 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2026-02-16 | 2026-03-15 |
 | [Carrera 7](https://open.spotify.com/track/02j6yzhXx5F3wMin5pvAsD) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [The Golden Age, Vol\. 1](https://open.spotify.com/album/0iMPNCPmESC621cb8jVKfX) | 6:04 | 2023-12-14 | 2025-11-29 |
+| [Castle Treasure](https://open.spotify.com/track/61e5SSs901lBfFpnGTlL8j) | [Pernoste](https://open.spotify.com/artist/1ZphGjO7Q9HRDSBaxgkAT8) | [Even Love](https://open.spotify.com/album/4oLR1DUvEbLXlBDluodmZ0) | 7:00 | 2026-03-26 |  |
 | [Catch Me On The Breeze](https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 4:00 | 2026-03-07 |  |
 | [Catch the Spark](https://open.spotify.com/track/5m1itjQzMzetHUjbVGsMxY) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Catch the Spark](https://open.spotify.com/album/6y5ZbPFz6h5NxytG5jkmLA) | 3:37 | 2025-12-18 | 2026-01-15 |
 | [Celina](https://open.spotify.com/track/2T9R2VTHmJsP5T9LQy8XVz) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 3:27 | 2026-03-23 |  |
@@ -531,6 +532,7 @@
 | [On My List](https://open.spotify.com/track/3Q3NnHKP9TWYCYc29lJ9Xs) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 3:48 | 2023-04-20 | 2025-11-29 |
 | [On My Way](https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L) | [OVRTME](https://open.spotify.com/artist/0yqsiKLq7oRCKSDBPk6Rm4) | [On My Way](https://open.spotify.com/album/4Fl8nGmtLOZjiObvfLoL9q) | 3:05 | 2026-01-31 | 2026-02-28 |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
+| [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 |  |
 | [Open Road](https://open.spotify.com/track/4qmM0P0zPzuk02vS0zwzVL) | [Melaku](https://open.spotify.com/artist/0pg8optqAPmdNYyiksFIJs) | [Open Road](https://open.spotify.com/album/2NaqfH12sP2B48uo1GyOUT) | 3:05 | 2026-03-10 |  |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2026-01-30 | 2026-02-28 |
 | [Our Lady Sanctuary](https://open.spotify.com/track/7GQ0PEFA3ZMTV5xn3Az7WX) | [Claude.ink](https://open.spotify.com/artist/1IbT88ZSG7qOieJEjrdfU2) | [Hermit](https://open.spotify.com/album/1XC0EQs1kvFxon3FFlsmYt) | 4:00 | 2026-03-21 |  |
@@ -604,6 +606,7 @@
 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 | 2026-03-02 |  |
 | [Say \- Acoustic](https://open.spotify.com/track/5OBguzeAkuviZT85bnec7g) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Say \(Acoustic\)](https://open.spotify.com/album/4NORYcZTCI5sWcHne2RPFX) | 3:16 | 2026-03-03 | 2026-03-25 |
 | [Scarlet Powder](https://open.spotify.com/track/5ocCWaPIXdnDDZvpHmYNZx) | [Yellow Cars](https://open.spotify.com/artist/1A99aNrlYvDiDAa3eOSYw8) | [White Velvet Moon](https://open.spotify.com/album/5koREwv5sM8yJFDe6O1z70) | 2:48 | 2026-03-09 |  |
+| [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-03-26 |  |
 | [Scars](https://open.spotify.com/track/7BoYRULbFPGNvnT2vVhcOf) | [tWIN](https://open.spotify.com/artist/1APguz6a6pgYym9jUAia5K), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Scars](https://open.spotify.com/album/59kHXQO88dKgGeOiNyMIoM) | 3:07 | 2025-11-25 | 2026-01-05 |
 | [Scars \- Official Instrumental](https://open.spotify.com/track/661f78h01ofUIAcUY4RJON) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Scars \(Official Instrumental\)](https://open.spotify.com/album/7I3GdOMzSU0CWfo1Jtcqzj) | 3:06 | 2025-12-21 | 2026-01-15 |
 | [Scars \- Sped Up + Reverbed](https://open.spotify.com/track/2QJSqbrFYi8nudBdilHKuh) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Scars \(Sped Up + Reverbed\)](https://open.spotify.com/album/3YWtW9p52JhQSSrD20hKzR) | 2:44 | 2025-12-24 | 2026-01-24 |
@@ -611,9 +614,11 @@
 | [Screen Love](https://open.spotify.com/track/1N4AQ3hVyx4o98gZ3vDGzP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:20 | 2025-11-04 | 2025-12-21 |
 | [Second Hand Clothes](https://open.spotify.com/track/19fycOjyjBShEGCCq7c7ZU) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Shiny Silvery Things](https://open.spotify.com/album/7x9gKK4KX0B1Vg7zJXv41k) | 3:46 | 2026-01-11 | 2026-03-07 |
 | [Sed de venganza](https://open.spotify.com/track/4dnEM2HxWH1PSTGQdRjjHu) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:08 | 2025-11-14 | 2025-12-21 |
+| [Sei il mio raggio di sole scuro](https://open.spotify.com/track/1ugUprOOHn9mvIUtwzVOwG) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sei il mio raggio di sole scuro](https://open.spotify.com/album/0TheDdyv0BfxCpZoRqWUNl) | 2:51 | 2026-03-26 |  |
 | [SELF ACCEPT your way to inner respect](https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL) | [Nikiré](https://open.spotify.com/artist/3VIpivsIfU43eyG1HW2lFY) | [SELF ACCEPT your way to inner respect](https://open.spotify.com/album/1gYeNfczZilzcsHfVWasAW) | 4:34 | 2026-01-03 | 2026-02-03 |
 | [Sell me your soul](https://open.spotify.com/track/2ngkVoKICzKdLKhV0sWUbm) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sell me your soul](https://open.spotify.com/album/4NFlfPG00jKKsj3NysdT39) | 4:18 | 2024-03-07 | 2025-12-28 |
 | [Sen Bana Hep Yazsın](https://open.spotify.com/track/4raQYXieEX8ueVDYOOswGM) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Sen Bana Hep Yazsın](https://open.spotify.com/album/6fjHwVuhiFjDoQMZM1GFVi) | 2:45 | 2025-12-22 | 2026-01-24 |
+| [SET APART](https://open.spotify.com/track/1iFBIwAwVhLlNyWy9wAcrv) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [SET APART](https://open.spotify.com/album/00n26sNAHM2F0KMenRBrEz) | 2:17 | 2026-03-27 |  |
 | [Set Me Free](https://open.spotify.com/track/1vMqPyUqPNh3OLIfVncwbq) | [Ann\-Cathrin](https://open.spotify.com/artist/09jiC9LTOdLtVGfEcjMO5t) | [Set Me Free](https://open.spotify.com/album/6kPhXCOUlM3ISPqo031y2W) | 3:13 | 2026-01-06 | 2026-02-03 |
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 | 2026-01-05 |
 | [Show the money](https://open.spotify.com/track/6GpoqbpzjLMIl5DLfpreU3) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [Show the money](https://open.spotify.com/album/5HzSVKP4s4VJHm2lP11Ctd) | 3:37 | 2023-10-26 | 2025-11-29 |

@@ -1,13 +1,77 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2713,
+  "num_followers": 2717,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARuhAKUPT8PT/gsO6l6b+lfMjxhsTR",
+  "snapshot_id": "AAARvomMbDznE2ADkp4ZeWqbZ3/50uEM",
   "tracks": [
+    {
+      "added_at": "2026-03-26 23:47:43",
+      "album": {
+        "name": "I Am the Fleeting Dance Between Them",
+        "url": "https://open.spotify.com/album/5ifKo0WbyCb5BgQvwR3rj9"
+      },
+      "artists": [
+        {
+          "name": "DJ MARC ASTELL",
+          "url": "https://open.spotify.com/artist/2laMIA9iOtGhKmy8OmiEQZ"
+        }
+      ],
+      "duration_ms": 314919,
+      "name": "I Am the Fleeting Dance Between Them",
+      "url": "https://open.spotify.com/track/6Fwd6XI6pnxPQ2HFwUZhcI"
+    },
+    {
+      "added_at": "2026-03-26 15:32:06",
+      "album": {
+        "name": "Feel Ya",
+        "url": "https://open.spotify.com/album/3z8ZFf8P3HHwKIHBLoajPi"
+      },
+      "artists": [
+        {
+          "name": "Bizu Pawa",
+          "url": "https://open.spotify.com/artist/1d8mMbsdV0DpQNKKsb5Wiu"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Feel Ya",
+      "url": "https://open.spotify.com/track/5LHMNUlZhXiNQl1uDZ5P4A"
+    },
+    {
+      "added_at": "2026-03-26 09:30:30",
+      "album": {
+        "name": "Let's have some fun",
+        "url": "https://open.spotify.com/album/28mXbzzHVE6qjRxd4kDIgF"
+      },
+      "artists": [
+        {
+          "name": "RobiBang",
+          "url": "https://open.spotify.com/artist/0xEo1A3ol26F9Ld1GO3fBI"
+        }
+      ],
+      "duration_ms": 168749,
+      "name": "Let's have some fun",
+      "url": "https://open.spotify.com/track/4iEP6Bn4Nem8k9sTohGTDA"
+    },
+    {
+      "added_at": "2026-03-26 08:08:40",
+      "album": {
+        "name": "Calor que No Digo",
+        "url": "https://open.spotify.com/album/5N3ZdRNufl8YhQOXlo7Eu1"
+      },
+      "artists": [
+        {
+          "name": "Leo Effe",
+          "url": "https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M"
+        }
+      ],
+      "duration_ms": 194079,
+      "name": "Calor que No Digo",
+      "url": "https://open.spotify.com/track/0uuRVVhu5wQ5hwMwbV7ZUV"
+    },
     {
       "added_at": "2026-03-25 16:33:22",
       "album": {

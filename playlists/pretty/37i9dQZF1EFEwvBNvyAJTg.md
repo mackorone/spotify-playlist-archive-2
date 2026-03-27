@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 193 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 144 likes - 193 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 125 | [2nd Nature](https://open.spotify.com/track/6HxJmedXOuP3jomJguAsJF) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:42 |
 | 126 | [WITCHCRAFT GIRLS](https://open.spotify.com/track/6ENVUi31WSw6Tqp2dvNrrl) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:46 |
 | 127 | [Showgirl](https://open.spotify.com/track/5eYQZSQPlLHHc1bLL0UmO5) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:46 |
-| 128 | [Fear](https://open.spotify.com/track/6zsaQIs0gWs6anNBEQw7fC) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Red Flag](https://open.spotify.com/album/2eQjNxatEtQmwhBOVfRd5q) | 3:56 |
-| 129 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 128 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 129 | [Fear](https://open.spotify.com/track/6zsaQIs0gWs6anNBEQw7fC) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Red Flag](https://open.spotify.com/album/2eQjNxatEtQmwhBOVfRd5q) | 3:56 |
 | 130 | [Things I Really Mean](https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Things I Really Mean](https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR) | 2:42 |
 | 131 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
 | 132 | [Free Falling](https://open.spotify.com/track/0MxXc2F46m0xTDHkbQpLs1) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Sirens](https://open.spotify.com/album/3Y3ZsVngNf68uBvv7QHrZ3) | 2:39 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 192 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 | 193 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcNG1gAAAACueLd7R4zwdk6NceAoZ/77`
+Snapshot ID: `AcNMdgAAAAA/eya91tvV0Iq6JQbrYTG1`

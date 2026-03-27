@@ -3797,6 +3797,36 @@
     },
     {
       "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/6hlQUepmLTLBPpfwRlDKlb"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "BAGGI",
+          "url": "https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210711,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/4IBlnwgYotXaA0Z12R3WZx"
+    },
+    {
+      "album": {
         "name": "Guard Your Joy",
         "url": "https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX"
       },
@@ -7422,7 +7452,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 225000,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"

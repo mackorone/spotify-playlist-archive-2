@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 209493,
       "name": "Get U What U Want",
       "url": "https://open.spotify.com/track/7sswPponP7QFEhJK4HoZmQ"
@@ -7507,6 +7507,28 @@
     },
     {
       "album": {
+        "name": "Set My Sun",
+        "url": "https://open.spotify.com/album/3ouohDROreSNrFfJKGLcvH"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        },
+        {
+          "name": "Eva Lazarus",
+          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Set My Sun",
+      "url": "https://open.spotify.com/track/1JIyH1ZTYPifq22XZuSme4"
+    },
+    {
+      "album": {
         "name": "Settling",
         "url": "https://open.spotify.com/album/5QesinUPN06YX7UKR4xDQ7"
       },
@@ -9117,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "PSALM FUNK",
+        "url": "https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM"
+    },
+    {
+      "album": {
         "name": "Treat Me Like A Star",
         "url": "https://open.spotify.com/album/40oatx8U2yVPoeccSUfQ1G"
       },
@@ -9128,7 +9168,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-27",
       "duration_ms": 205440,
       "name": "Treat Me Like A Star",
       "url": "https://open.spotify.com/track/76IEzUmZmrOoThFx0vKX4o"

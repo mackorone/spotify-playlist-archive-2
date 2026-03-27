@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acHUAAAAAACPwZhx5r7A8VboM6CCPcCj",
+  "snapshot_id": "acMlgAAAAAB1+9THca0OZS1mnj4soJQO",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 289146,
-      "name": "Keep It Comin'",
-      "url": "https://open.spotify.com/track/6zwOWgENLbmgzJWbrZhRaB"
+      "duration_ms": 264426,
+      "name": "You Can't Have My Love",
+      "url": "https://open.spotify.com/track/5LoDGcEWiT7eQ62805XXct"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 264426,
-      "name": "You Can't Have My Love",
-      "url": "https://open.spotify.com/track/5LoDGcEWiT7eQ62805XXct"
+      "duration_ms": 289146,
+      "name": "Keep It Comin'",
+      "url": "https://open.spotify.com/track/6zwOWgENLbmgzJWbrZhRaB"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+      "duration_ms": 300413,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 300413,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "What a Fool",
+      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 344000,
-      "name": "What a Fool",
-      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+      "duration_ms": 155186,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec"
     }
   ],
   "unique_name": "This Is The Jones Girls",
