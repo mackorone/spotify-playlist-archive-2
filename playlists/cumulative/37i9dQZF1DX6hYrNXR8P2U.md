@@ -2,9 +2,9 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> MUY PIOLA<br/>📷 Juana Rozas
+> MUY PIOLA<br/>📷 Joaco Burgos
 
-588 songs - 1 day 6 hr 50 min
+591 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-15 | 2024-03-23 |
 | [Plumas y humedad](https://open.spotify.com/track/75ZNu84nTbgM01X5wqNBbg) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Plumas y humedad](https://open.spotify.com/album/337u698cPXrv8jVClW6wr3) | 2:31 | 2025-09-12 |  |
 | [Pocas Cosas](https://open.spotify.com/track/1dIGSxJ9uI2GAqD0HnotZ4) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:50 | 2024-09-27 | 2024-10-26 |
+| [PODER](https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [PODER](https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX) | 5:04 | 2026-03-27 |  |
 | [podríamos haber hecho todo de una forma tan diferente...](https://open.spotify.com/track/0twSO6QsLPhpzOF7h4AlMq) | [LICHY](https://open.spotify.com/artist/2rhKI3T4T93HZUmR8uF569) | [podríamos haber hecho todo de una forma tan diferente...](https://open.spotify.com/album/4Xolq0qRLScxwQzgtjeC2U) | 1:30 | 2025-05-30 | 2025-07-05 |
 | [Polos](https://open.spotify.com/track/6QhVCcZMEN374iI96HRoV6) | [dinastia](https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [POLOS](https://open.spotify.com/album/6n0RntJw1cNybIzjs6Cc7Y) | 1:30 | 2025-04-04 | 2025-05-30 |
 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 | 2024-07-19 | 2024-08-31 |
@@ -468,6 +469,7 @@
 | [Se Corre la Bola](https://open.spotify.com/track/7MIdTXBR5xOjxl8SOV4XAf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:43 | 2024-07-26 | 2025-02-08 |
 | [Sencillo](https://open.spotify.com/track/5Isi6kd1AbNbC27Lix8kD2) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 3:33 | 2024-06-08 | 2024-11-09 |
 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 | 2024-03-01 | 2024-11-09 |
+| [Será Mañana](https://open.spotify.com/track/5vQXYcTDm8XOXNfiuQfO3B) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Será Mañana](https://open.spotify.com/album/2dBvHfucAWo864I0MsYlhx) | 3:13 | 2026-03-27 |  |
 | [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:38 | 2024-04-26 | 2024-06-01 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 | 2024-08-13 |
 | [Señales de Humo](https://open.spotify.com/track/6iJfLdzcOHK6blCkl0xSxZ) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [Rio de la Plata](https://open.spotify.com/album/0ylmdY2EkG0WnUwPdhmSbf) | 4:04 | 2024-08-30 | 2024-11-09 |
@@ -508,6 +510,7 @@
 | [Te Pido Perdón](https://open.spotify.com/track/3FKcGance8K7jq0ntZs7iz) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/6dj1mxj9H7fHfiM5WmGJAK) | 3:29 | 2025-07-05 | 2025-09-02 |
 | [Temporal \(Bby date cuenta\)](https://open.spotify.com/track/2xWqMw3XIEnMni7GJDxqQc) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Temporal \(Bby date cuenta\)](https://open.spotify.com/album/0hxSPPhAH1qeVpf2nLX7R5) | 2:52 | 2025-03-07 | 2025-05-30 |
 | [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-08-02 | 2024-11-30 |
+| [tesORO](https://open.spotify.com/track/6At1fbbcFlYVLP1zpa7Yob) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [tesORO](https://open.spotify.com/album/0ZitJ4wxyIah6lMUQTCJ5p) | 2:13 | 2026-03-27 |  |
 | [Texto](https://open.spotify.com/track/6uNhKL6VOWNxyA0GO82kId) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Texto](https://open.spotify.com/album/3segVWdI8FZGGGiDJogPEV) | 2:37 | 2024-07-19 | 2024-09-07 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-16 | 2024-10-26 |
 | [TLDMPDFDS](https://open.spotify.com/track/2lRtR9qlgfkjsk2KvTtUqG) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [TLDMPDFDS](https://open.spotify.com/album/32t2XpFH6hGPbmSDFPJryR) | 2:23 | 2023-11-10 | 2024-03-30 |

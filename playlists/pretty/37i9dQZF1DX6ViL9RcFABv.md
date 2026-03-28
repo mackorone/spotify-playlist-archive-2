@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Alfonso Dubraz, Luís Trigacheiro
+> Uma playlist de pura alma pop! Foto: Afonso Dubraz, Luís Trigacheiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,272 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,325 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Verão \(feat\. Luís Trigacheiro\)](https://open.spotify.com/track/3Q8OsGmIiJfFxGMB1Ley0u) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Verão \(feat\. Luís Trigacheiro\)](https://open.spotify.com/album/0Xhs68lKAlMj5UdTBo6GY8) | 3:14 |
+| 1 | [Verão](https://open.spotify.com/track/3Q8OsGmIiJfFxGMB1Ley0u) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Verão](https://open.spotify.com/album/0Xhs68lKAlMj5UdTBo6GY8) | 3:14 |
 | 2 | [Vizinha do 1° Andar](https://open.spotify.com/track/0nvLKn3RVp68QVH1h5jVXx) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Vizinha do 1° Andar](https://open.spotify.com/album/5uIjoy5Fc7UxqegPXDExIt) | 3:08 |
 | 3 | [Regresso À Infância](https://open.spotify.com/track/7qFmXBTDYviyGh3W1p32bI) | [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Oração Ao Tempo](https://open.spotify.com/album/4MeybEpXYrzioJUo6PWhWJ) | 3:28 |
-| 4 | [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 3:00 |
+| 4 | [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 2:52 |
 | 5 | [Já Não Saio](https://open.spotify.com/track/082OgsZCbOvptVV5p5t6fV) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Já Não Saio](https://open.spotify.com/album/4iqIaovHEWSGNWtfRmRVEd) | 3:21 |
 | 6 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
 | 7 | [Difícil Demais](https://open.spotify.com/track/47RRqyn5a7DWTmJv1x7DuD) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Difícil Demais](https://open.spotify.com/album/0CifLOaW7Xwq3f7sFhpC9V) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Guardei\-te um Lugar](https://open.spotify.com/track/4tT9yaGek7yTZrIYu9A3b5) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Guardei\-te um lugar](https://open.spotify.com/album/70tmZtvL0R6uIp5Yf4Pv6R) | 3:05 |
 | 70 | [leva\-me](https://open.spotify.com/track/00GaSyadd3k6KFCXRQfnFk) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [leva\-me](https://open.spotify.com/album/7AjVNaVNPYUAbN4kgCdXbG) | 3:13 |
 
-Snapshot ID: `AAAAADLuL45YiMYaVzA7s77uoqlAMNvP`
+Snapshot ID: `AAAAADnXIpzX95kbU5FG6Yuwv+dISR+I`

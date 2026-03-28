@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,448 songs - 5 day 23 hr 2 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,453 songs - 5 day 23 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2456,5 +2456,10 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2446 | [Forgiveness \(Redux\)](https://open.spotify.com/track/64GwsWtFMpbmblchEoRE3p) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2) | [Forgiveness \(Redux\)](https://open.spotify.com/album/2cA3JR9TRe22zShtc00mUp) | 3:56 |
 | 2447 | [Karlar düşer](https://open.spotify.com/track/52dcHswvjMI6WPutpeLdMC) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Karlar düşer](https://open.spotify.com/album/4cZ7Xkvqu74aFhjpvdWaer) | 2:51 |
 | 2448 | [Shifting sands](https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:34 |
+| 2449 | [Holidays in Hawaii](https://open.spotify.com/track/35sezqIKn0RWaMWSbNLnU6) | [Nexx Vibes](https://open.spotify.com/artist/76PCnqZ7sakQj5p9r9QW4r) | [Holidays in Hawaii](https://open.spotify.com/album/2YeOKQyzRf4Bda9ZWiH5lX) | 3:30 |
+| 2450 | [Forever](https://open.spotify.com/track/1D2cMAuQTd5HYQRJwAMbMs) | [AM/WAS](https://open.spotify.com/artist/5Ifye6me2p1m5dOmmIqAeT) | [Forever](https://open.spotify.com/album/0atSpUPF3YyM09J6TlYKA2) | 2:13 |
+| 2451 | [Everybody Does](https://open.spotify.com/track/5rjdzNR8XR5OeNoBnkzEu6) | [Neon Trace](https://open.spotify.com/artist/3H3dnLHdnGFfto918KeiAf) | [New Days//Lost Days](https://open.spotify.com/album/0SqT4DaeXdkZpCwYJKj0Ay) | 4:31 |
+| 2452 | [All the Silver Seems to Know](https://open.spotify.com/track/56ia5HcIMlIY65EY0DSOda) | [Seabairy](https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh) | [Harbour Songs & Other Promises](https://open.spotify.com/album/2Gzc8LK9V5UcqMgx1edus1) | 3:34 |
+| 2453 | [Ruggine](https://open.spotify.com/track/1t58FTses5JRuX2dsnmrbi) | [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Ruggine](https://open.spotify.com/album/5eVNXYdOasuOVn3QwgOI2z) | 3:31 |
 
-Snapshot ID: `AAAKJ7K+/i7C/1riWDaFCvbhs8EyVyj4`
+Snapshot ID: `AAAKLBv5b9Nc//N9cB4Zr0GhEtLnMY5U`

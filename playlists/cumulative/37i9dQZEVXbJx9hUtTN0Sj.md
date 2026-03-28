@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-2,781 songs - 5 day 22 hr 34 min
+2,782 songs - 5 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,7 +841,7 @@
 | [FOCUS](https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0) | [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [FOCUS](https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z) | 2:18 | 2025-12-23 | 2026-02-04 |
 | [FOCUS](https://open.spotify.com/track/5udVfN1uloVjvyZ2ODOqbO) | [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [FOCUS](https://open.spotify.com/album/7vtaQfR00fo4AiMAXJbEUT) | 2:18 | 2025-12-27 | 2026-01-15 |
 | [FOCUS](https://open.spotify.com/track/6HUAZlrdcJ3vcJB1juzX6z) | [Ashvma](https://open.spotify.com/artist/1CsmkAT06Oh7NsIHDYU1XL) | [FOCUS](https://open.spotify.com/album/3U7wEOfA1lSksfz26brIc8) | 2:18 | 2025-12-30 | 2026-01-01 |
-| [Focus](https://open.spotify.com/track/1Q71VGAL5MpZ2c2ttog0A1) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 4:06 | 2026-03-24 |  |
+| [Focus](https://open.spotify.com/track/1Q71VGAL5MpZ2c2ttog0A1) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 4:06 | 2026-03-24 | 2026-03-28 |
 | [Follasse](https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH) | [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Follasse](https://open.spotify.com/album/3QFReuHQy2eXvOW78Ghr91) | 2:07 | 2025-11-14 | 2025-11-19 |
 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2024-11-26 | 2025-01-16 |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-22 | 2026-02-25 |
@@ -1156,7 +1156,7 @@
 | [Ils se demandent](https://open.spotify.com/track/4Bqa1dZPJfHKRfUVRLsSW1) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/4q2sSOHQcDpVsZ7oFFGDaF) | 1:42 | 2024-11-28 | 2024-12-31 |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-03-05 | 2024-04-24 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-05-21 | 2024-07-21 |
-| [Immortel](https://open.spotify.com/track/3kEDwCkXpvmHFL1nm8svQs) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Les Enfants du Chaos](https://open.spotify.com/album/44Wyyeet6j8YlegJuHlDpb) | 4:15 | 2026-02-03 | 2026-02-05 |
+| [Immortel](https://open.spotify.com/track/3kEDwCkXpvmHFL1nm8svQs) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Les Enfants du Chaos](https://open.spotify.com/album/44Wyyeet6j8YlegJuHlDpb) | 4:15 | 2026-02-03 |  |
 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 | 2025-06-17 | 2025-06-30 |
 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 | 2025-09-30 | 2025-10-04 |
 | [Impostor Syndrome](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:54 | 2026-03-22 |  |
@@ -2050,8 +2050,8 @@
 | [Round And Round](https://open.spotify.com/track/00zuwr9wp2L5cKUwQW5k7M) | [remorse](https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV) | [Round And Round](https://open.spotify.com/album/6up1gjhHPTobREmBXWltTq) | 2:11 | 2025-01-20 | 2025-01-22 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp) | 3:40 | 2025-11-12 | 2025-11-20 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-11-11 | 2025-11-23 |
-| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-10 |  |
-| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-03-11 | 2026-03-27 |
+| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-10 | 2026-03-28 |
+| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-03-11 |  |
 | [Ruelle sombre](https://open.spotify.com/track/0Qi7yuj0w0gkbIqA388biT) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Ruelle sombre](https://open.spotify.com/album/0SQyn3MErOzXuKsQSlOs3m) | 3:37 | 2025-10-21 | 2025-10-29 |
 | [RUINART](https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [7/7 : 24/24](https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM) | 2:54 | 2025-07-01 | 2025-08-13 |
 | [ruiné \(comme un dj\)](https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9](https://open.spotify.com/album/0UE21vCQWLqiruKJmX4Ihg) | 2:07 | 2025-06-24 | 2025-07-28 |
@@ -2765,7 +2765,8 @@
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-06-17 | 2025-06-22 |
 | [Zondag](https://open.spotify.com/track/52IJ9xfBIReUxSwVwZAPYy) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Met Je Ogen Dicht \(Expanded Edition\)](https://open.spotify.com/album/2t3qMs0TnIOkRBtRP4Vlog) | 3:01 | 2025-03-20 | 2025-03-26 |
 | [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 | 2026-01-02 | 2026-03-26 |
-| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-11-30 |  |
+| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-11-30 | 2026-03-28 |
+| [Zoo](https://open.spotify.com/track/6RccVETKeP4gJNe0xP02ns) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoomania 2 \(Original Film\-Soundtrack\)](https://open.spotify.com/album/3iCxvICw16aOXrPakrRgJ1) | 3:10 | 2026-03-27 |  |
 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-03-02 | 2024-05-24 |
 | [ZOU BISOU](https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:42 | 2025-06-17 | 2025-06-25 |
 | [Zoveel Stress](https://open.spotify.com/track/68gkB9GBHeTotKGqtPMGUX) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Mixtape 2, Rap 'N Borie](https://open.spotify.com/album/5XtKjZcO6XO1OiCuONGyJS) | 4:22 | 2025-03-22 | 2025-04-09 |

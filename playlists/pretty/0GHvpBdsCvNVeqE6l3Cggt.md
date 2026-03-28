@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 47 songs - 2 hr 54 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 45 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 |
 | 46 | [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 |
 | 47 | [Dumb Girls](https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.2](https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ) | 2:55 |
+| 48 | [Almost there](https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm) | [Elaisa Mancini](https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr) | [Almost there](https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh) | 3:42 |
 
-Snapshot ID: `AAAkGI55GGuvWo3VWGq+VrBxJQna86TT`
+Snapshot ID: `AAAkGWvShf+sZWuC+h8XLsNPO82EjWN9`

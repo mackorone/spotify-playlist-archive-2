@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 222621,
       "name": "Aruanda",
       "url": "https://open.spotify.com/track/6RshwrJrOfLXy0Xe5luKno"
@@ -2232,6 +2232,24 @@
       "duration_ms": 184736,
       "name": "Boa Noite",
       "url": "https://open.spotify.com/track/3Lots17xg31r9md9vJ5pue"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/01S9vuZSu35loQTJTSS6tS"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150468,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx"
     },
     {
       "album": {
@@ -4877,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
+    },
+    {
+      "album": {
         "name": "D\u00e9jeuner Sur L'Herbe (Antdot & Bakka (BR) Remix)",
         "url": "https://open.spotify.com/album/2oz0mKit1urkTewJwywWmo"
       },
@@ -5458,7 +5498,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 194090,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/7KUzIkpm84LJaRA8idFPPK"

@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,348 songs - 1 day 16 hr 48 min
+1,351 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Flyin' over](https://open.spotify.com/track/13DIzAH11pK73chY2pUpLn) | [Fitz Wilmer](https://open.spotify.com/artist/0g8dTozmEA5bn0e6Xd2Gw8) | [Flyin' over](https://open.spotify.com/album/3oy7v3oY9fAs1IjjzRvYjA) | 1:23 | 2021-11-08 | 2023-01-27 |
 | [Flyin' over](https://open.spotify.com/track/4MS2m7qUoTZKdPQ43Cavrb) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [Flyin' over](https://open.spotify.com/album/3fQk6kiVP5vfcD2MfJeU3j) | 1:23 | 2021-11-08 | 2022-09-24 |
 | [Flying](https://open.spotify.com/track/1ZKCESOX3YPiti5ZCA55qL) | [Lyndon Kelsey](https://open.spotify.com/artist/2MhESJnJMSY6WDl9xC5BUG) | [Flying](https://open.spotify.com/album/1TM8Nm8flNAltoyHATMYiK) | 1:29 | 2022-06-30 | 2023-10-06 |
-| [Flying At Night](https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Flying At Night](https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr) | 1:33 | 2024-10-11 |  |
+| [Flying At Night](https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Flying At Night](https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr) | 1:33 | 2024-10-11 | 2026-03-28 |
 | [Flying Home](https://open.spotify.com/track/2OaFLsGttK4pQaun0vLU4d) | [Stevie Martell](https://open.spotify.com/artist/6Sh69JKZfNc4gTL9oPIlk1) | [Flying Home](https://open.spotify.com/album/4ZRnVeDMOx1lp0IkHWXqSE) | 1:21 | 2021-11-08 | 2024-04-05 |
 | [Flying Teddy](https://open.spotify.com/track/4sJiH01QHq3H26Z1N3esFc) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreaming with the Stars](https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW) | 2:37 | 2023-04-07 | 2023-08-18 |
 | [Flying To Neverland](https://open.spotify.com/track/4ZDyIkGlce4qMbWFUcXa8a) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Lullaby Harp](https://open.spotify.com/album/1BppJxOxiMcWvQJoJ5JeGq) | 1:42 | 2021-11-08 | 2022-12-16 |
@@ -787,6 +787,7 @@
 | [Nap with the Cat](https://open.spotify.com/track/3cT1kNbc0IY7eN5IdUksHf) | [Phyllis Lytle](https://open.spotify.com/artist/4fSyMpWH2rW4NQeQNkq2Oy) | [Nap with the Cat](https://open.spotify.com/album/1duP7vfBqf2dsYdcFBy0vm) | 1:55 | 2021-11-08 | 2022-10-29 |
 | [Napping](https://open.spotify.com/track/2PEXz8uoWHj10DEABSs8rF) | [Reeva Spencer](https://open.spotify.com/artist/0InsHMFbnYoKKa9aWRKwJo) | [Napping](https://open.spotify.com/album/0GoVUtqmHjTL7jyMFPoYKI) | 1:24 | 2021-11-08 | 2022-10-29 |
 | [Napping Rabbit](https://open.spotify.com/track/67kuEnFkonVepzIAxrmuZ8) | [Tranter Norwood](https://open.spotify.com/artist/5GMyVZQE3EN49IHewe0Y9z) | [Napping Rabbit](https://open.spotify.com/album/3Kv3bNC9sFdCbyeG78uZ0v) | 1:15 | 2022-12-16 | 2024-05-24 |
+| [Napping Time](https://open.spotify.com/track/5BLTqVAeL3ixNMJxMUcwU2) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Napping Time](https://open.spotify.com/album/2KqKwDTj2tZVbXwpuI4Q9u) | 2:32 | 2026-03-27 |  |
 | [Naptime](https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Naptime](https://open.spotify.com/album/54r2pHYyLBR4p7L7BZge2C) | 1:36 | 2024-08-26 |  |
 | [Naptime Stories](https://open.spotify.com/track/43yXKs6RrN9RIIQMOHCwPq) | [Linnea Dawn](https://open.spotify.com/artist/2vi6HihliiIlLN5TKgiXdf) | [Naptime Stories](https://open.spotify.com/album/0uoNWBN38GWO9ZqoojdjPc) | 1:01 | 2021-11-08 | 2022-07-30 |
 | [Nashville Nights](https://open.spotify.com/track/6wPznzcN6oN4ZcJAkdM3TD) | [Anna Ramirez](https://open.spotify.com/artist/4WtmDnBN2uns73pavhp6mB) | [Camilla's Lullabye](https://open.spotify.com/album/6JdYVIwiBzeNSCo0E2wJgW) | 2:16 | 2021-11-08 | 2022-10-29 |
@@ -1161,6 +1162,7 @@
 | [The Seasons](https://open.spotify.com/track/3CYett5nf6G0WimlVsngXm) | [Brian Arthur](https://open.spotify.com/artist/60Tmojoo0H54vpQ7EW6J4H) | [The Seasons](https://open.spotify.com/album/3w3aEFwHeZrD6jVbai9IUa) | 0:58 | 2023-12-22 | 2025-08-22 |
 | [The Second Star to the Right](https://open.spotify.com/track/10qFyR0SKMPng0Pnh8UUWn) | [Valérian Rose](https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7) | [The Second Star to the Right](https://open.spotify.com/album/1gUpNGO623taLGmfaUvm6l) | 1:52 | 2024-11-15 |  |
 | [The Sleepy Mouse](https://open.spotify.com/track/6w3Dl0f5iIHSOkNwoYNKtP) | [Moira Lune](https://open.spotify.com/artist/5Evzc18UWs8hbbQqhpJZ82) | [The Sleepy Mouse](https://open.spotify.com/album/0El2sjD3KeWeKLqVJUM9N2) | 1:38 | 2025-12-19 |  |
+| [The Sleepy Owl](https://open.spotify.com/track/2tWPiq8fF79B0y7TczDt4Z) | [Little Kaffy](https://open.spotify.com/artist/2ZdTTKszTcUFg21a20NCad) | [The Sleepy Owl](https://open.spotify.com/album/672cL9Bv4XRH9r59iC2VlL) | 1:57 | 2026-03-27 |  |
 | [The Sleepy Sea](https://open.spotify.com/track/0JRJX4a3919BlxqSivKrko) | [Charlie Gray](https://open.spotify.com/artist/1pv2nF0KVHypPpj26VGnsz) | [The Sleepy Sea](https://open.spotify.com/album/6cFXP9aeOwSP36s45SPDdz) | 2:03 | 2025-03-21 |  |
 | [The Sleepy Star](https://open.spotify.com/track/4IpWKogzTDB2jrZCToKJrk) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [The Sleepy Star](https://open.spotify.com/album/2mhuAMHFtV3MPuQr2E19xz) | 1:51 | 2024-11-08 |  |
 | [The Slow Swing of the Sea](https://open.spotify.com/track/5tfFLj6oYEsmiewGDilnvT) | [Hilda Levin](https://open.spotify.com/artist/34xf9GvTvgV2tdKP4xCHPs) | [The Slow Swing of the Sea](https://open.spotify.com/album/2Nz0FWKM6qFEClKP08AARL) | 1:40 | 2025-10-17 |  |
@@ -1192,6 +1194,7 @@
 | [This Old Man](https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [This Old Man](https://open.spotify.com/album/6Srd3HVugYrR8GuT98wYFK) | 1:41 | 2022-10-28 | 2024-04-05 |
 | [This Old Man](https://open.spotify.com/track/603Ov6PDOdfNkd1orkHPDV) | [Mel Rhodes](https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4) | [This Old Man](https://open.spotify.com/album/1wfcOhdCsO39PH9lXdHUUB) | 1:34 | 2023-01-06 | 2023-08-25 |
 | [This Willow Lullaby](https://open.spotify.com/track/3xM1HE5Uba8Mzo13G7O0Bn) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [This Willow Lullaby](https://open.spotify.com/album/5CcyMoMFcA0LBWePqqMPsf) | 2:14 | 2022-10-28 | 2024-03-01 |
+| [Thistledown Trail](https://open.spotify.com/track/0tbSvEOQ6qqtIpI6mDVZEJ) | [Cedric Everglen](https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ) | [Thistledown Trail](https://open.spotify.com/album/6rm5eQuY1yJ056DtV6tO9t) | 2:01 | 2026-03-27 |  |
 | [Three Blind Mice](https://open.spotify.com/track/1kQZOSz9Iy2PgwuQOjM2Vp) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Three Blind Mice](https://open.spotify.com/album/4Byo31HOmhu3wa6CEKdqbl) | 1:27 | 2021-11-08 | 2022-09-24 |
 | [Three Blind Mice](https://open.spotify.com/track/55LGhGlkIKM9fJoDRLu6nZ) | [Moonlit Nursery Rhymes](https://open.spotify.com/artist/0v8Az5u8Eoo16MDoj5P9WS) | [Three Blind Mice](https://open.spotify.com/album/2MgkgfbWZ8V7t8BzwS5IOx) | 2:54 | 2024-06-28 |  |
 | [Three Blind Mice](https://open.spotify.com/track/1Si6lEQAINTYVQIqebg3bl) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Three Blind Mice](https://open.spotify.com/album/5mFKieElrxD0cmvAQlUgO0) | 2:24 | 2023-12-08 | 2026-01-15 |
@@ -1205,7 +1208,7 @@
 | [Time to say good night](https://open.spotify.com/track/2qYL484kH1dSW80lw0IfqC) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Time to say good night](https://open.spotify.com/album/0W7CtKDGmjiOCUi4xlqWBj) | 2:21 | 2021-11-08 | 2024-04-05 |
 | [Tingly Town](https://open.spotify.com/track/0VNxwQtC2mI3oAdpx1bohD) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [Tingly Town](https://open.spotify.com/album/69SY765WSIJCUOJWOH0F4P) | 2:22 | 2025-07-18 |  |
 | [Tiny Footprints](https://open.spotify.com/track/2LAf4b2AM8H7tN1qzYRJDc) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Tiny Footprints](https://open.spotify.com/album/6fapnJb9DQAPHrA9g63NAw) | 1:37 | 2022-05-13 | 2025-06-12 |
-| [Tiny Thumbs](https://open.spotify.com/track/27h17L8dpUljmd35PvVUHa) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Tiny Thumbs](https://open.spotify.com/album/6TrniejTTSCkrM1AyFLbdH) | 1:50 | 2026-01-23 |  |
+| [Tiny Thumbs](https://open.spotify.com/track/27h17L8dpUljmd35PvVUHa) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Tiny Thumbs](https://open.spotify.com/album/6TrniejTTSCkrM1AyFLbdH) | 1:50 | 2026-01-23 | 2026-03-28 |
 | [Tiny Toes](https://open.spotify.com/track/1es3gqKBZBUtvqCP1NuWQK) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [Tiny Toes](https://open.spotify.com/album/7CRS5X8RDXafgabbAJuwfc) | 1:43 | 2025-12-05 |  |
 | [Tiny Toes, Big Adventures](https://open.spotify.com/track/30Uc7VRqNQQjdaqJJRY9HC) | [Joanna Chakri](https://open.spotify.com/artist/65ulszLTrkBaeZZympVqpA) | [Tiny Toes, Big Adventures](https://open.spotify.com/album/6cELU85y4SnUfN695Jf8px) | 1:23 | 2024-02-09 | 2025-06-12 |
 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Suavidad unida](https://open.spotify.com/artist/0eGCjjaZERJhnbzrQhxskq) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 | 2023-06-22 | 2025-08-22 |
@@ -1329,7 +1332,7 @@
 | [With You By My Side](https://open.spotify.com/track/0w6iFQErdpTEyaokBDud5i) | [Gerjanne van Hooft](https://open.spotify.com/artist/0xLqKgame6hEOFHOldu391) | [With You By My Side](https://open.spotify.com/album/2VDpcqEWcCNuLa7h5KIQcw) | 1:43 | 2022-06-07 | 2024-07-13 |
 | [With You, I'm Home](https://open.spotify.com/track/1z9gqMvaO501KwkXVFc03U) | [Carol Barron](https://open.spotify.com/artist/1VRIGqmkeKK6BzSDlbIvQY) | [With You, I'm Home](https://open.spotify.com/album/7iQuaEDKZhFOZR1Q73ldF2) | 1:32 | 2022-07-29 | 2024-04-05 |
 | [Wobble Bobble](https://open.spotify.com/track/1Hd5NaOb0HqlFsMnud8eIX) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Wobble Bobble](https://open.spotify.com/album/06fbqt6G9BCyE8sYnibtLN) | 2:58 | 2022-07-29 | 2024-04-05 |
-| [Wonder Wheel](https://open.spotify.com/track/15fwDRhx2QMfsHuUgxfiys) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Wonder Wheel](https://open.spotify.com/album/0t02p7yXPDMtXUktJqeYGe) | 2:03 | 2025-03-07 |  |
+| [Wonder Wheel](https://open.spotify.com/track/15fwDRhx2QMfsHuUgxfiys) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Wonder Wheel](https://open.spotify.com/album/0t02p7yXPDMtXUktJqeYGe) | 2:03 | 2025-03-07 | 2026-03-28 |
 | [Wonderful Things](https://open.spotify.com/track/6xBPVVtRM7QRYhpvOsxWwV) | [Ethan Feather](https://open.spotify.com/artist/2YUwtJwgalTkKmCLksbl7r) | [Wonderful Things](https://open.spotify.com/album/3klISvMmVNycnhksOkJyDX) | 2:22 | 2026-01-23 |  |
 | [Woolly Woods](https://open.spotify.com/track/73uFFLRhWmjBNHp8Eaw2xw) | [Silas Northwind](https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND) | [Woolly Woods](https://open.spotify.com/album/02ZStevFlJQMMr5DZUR3An) | 1:57 | 2025-10-17 |  |
 | [Worlds Cutest](https://open.spotify.com/track/30hxrQ9wWq59KepwZTp0tf) | [Joy Garden](https://open.spotify.com/artist/5QqUHhXF2a6Axz340GBIbR) | [Worlds Cutest](https://open.spotify.com/album/2tkkPMFmT4YBAy9xYAjFqu) | 2:01 | 2024-11-08 | 2025-11-22 |

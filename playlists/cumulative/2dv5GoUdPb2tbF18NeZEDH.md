@@ -4,7 +4,7 @@
 
 > Rhythmic afro house driven by deep percussion, organic elements and hypnotic grooves.Submit your music via our Linktree: linktr.ee&\#x2F;gandgfrequency ☝️In collaboration with Deleted Ghost Records.
 
-1,367 songs - 3 day 11 hr 31 min
+1,368 songs - 3 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,7 +669,7 @@
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2024-03-28 | 2025-12-14 |
 | [Lovers Walk \- Naarly Remix](https://open.spotify.com/track/330xpV0cXkJZuzROyHi1kd) | [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [Lovers Walk \(Naarly Remix\)](https://open.spotify.com/album/1AOe1Wrt3Zkk49xw6XPpkw) | 3:53 | 2025-12-13 |  |
 | [Low Rider](https://open.spotify.com/track/2sanowZfqS5ivgW6TanhcC) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best World Dance Music Vol\. 2](https://open.spotify.com/album/0OAoCa3HIb6uk38pxd2T1w) | 3:13 | 2024-03-28 | 2025-12-14 |
-| [Luanda \- Original Mix](https://open.spotify.com/track/1Jw4i10zgav6zTM4EdH75g) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Luanda](https://open.spotify.com/album/7xJPhRghqP8OLGHEtmFtOF) | 6:11 | 2025-12-13 |  |
+| [Luanda \- Original Mix](https://open.spotify.com/track/1Jw4i10zgav6zTM4EdH75g) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Luanda](https://open.spotify.com/album/7xJPhRghqP8OLGHEtmFtOF) | 6:11 | 2025-12-13 | 2026-03-28 |
 | [LUDOPATIA](https://open.spotify.com/track/1qQ69wPxYVx3BTgjDK52nd) | [RASCHIA MAN](https://open.spotify.com/artist/17fyXXw82M8M9HnqTNFryI) | [LUDOPATIA](https://open.spotify.com/album/6Zv7rTAwyyKw4fj5a2aW2h) | 3:48 | 2025-05-02 | 2025-12-14 |
 | [Luna piena](https://open.spotify.com/track/3g84lHtuzvypnm9ncOOULl) | [Borrelli Massimiliano](https://open.spotify.com/artist/48BoIaFeJPlrYRvE3UrYCt) | [Luna piena](https://open.spotify.com/album/6AsDWRFvA5Sg4qPqMk9Gh3) | 2:47 | 2025-05-08 | 2025-12-14 |
 | [Lunedì](https://open.spotify.com/track/6UZyAc558S0m7o0hKqxmAM) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Lunedì](https://open.spotify.com/album/6Tk8Bw55soZzDicwMqQ63x) | 3:24 | 2025-04-18 | 2025-12-14 |
@@ -1116,6 +1116,7 @@
 | [Suo](https://open.spotify.com/track/2cnCCtsHeFBGuVSiGp9Joi) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/6xBY3gRIguf7N54fXPRKvJ) | [SUO](https://open.spotify.com/album/72pw3DB1iNQq2vYhQx9ThU) | 3:00 | 2025-12-13 |  |
 | [Super Freak](https://open.spotify.com/track/55OjNE2lCUX19YsiwjmtYX) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Remastered\)](https://open.spotify.com/album/1BTAUQ7wPtXLfk2iSzdbgj) | 3:24 | 2024-03-28 | 2025-12-14 |
 | [Superfly](https://open.spotify.com/track/59qMoWacc63YxgtJyFzapH) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Simply Soul](https://open.spotify.com/album/6RMGM5aukVj2UO2h6J8UoJ) | 3:54 | 2024-03-28 | 2025-12-14 |
+| [Survive \- 2.0](https://open.spotify.com/track/1OGY8Tm2Cm30eHjwzfokxf) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Cyber Sanctum: Act 1 \(2.0\)](https://open.spotify.com/album/5YQjKdmrwj3DOC7OQDEytT) | 3:09 | 2026-03-27 |  |
 | [Svegli alle 3:00](https://open.spotify.com/track/4idxx9BSRJmDsV2BXQ41Rz) | [Mars Era](https://open.spotify.com/artist/1oCY3sD7vJ4vGKaphi4DCo) | [Svegli alle 3:00](https://open.spotify.com/album/7vrhJgfBe2BREGQAgktd7q) | 5:02 | 2025-05-04 | 2025-12-14 |
 | [Swear](https://open.spotify.com/track/6V5utJRMWoIbzMgjbwPSxU) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [The Seadix](https://open.spotify.com/album/57KXLCCEgLNCP9yCd54ZEq) | 2:48 | 2025-04-14 | 2025-12-14 |
 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2024-03-28 | 2025-12-14 |

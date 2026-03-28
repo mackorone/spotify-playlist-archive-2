@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-215 songs - 11 hr 48 min
+216 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [It's A Beautiful Day Today](https://open.spotify.com/track/6wn3ZYA7XiXqfUCJCBo7q0) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Saving Grace](https://open.spotify.com/album/3E3qeXLdDtaX16OV4kbNoF) | 3:41 | 2025-09-26 | 2025-11-08 |
 | [It’s Easier Said Than Done](https://open.spotify.com/track/31MYlzWnbg53MGVdlTUq7v) | [Ch’aska Kroes](https://open.spotify.com/artist/6R9Q2Pl8dPPsfVkrVQpLQb) | [It’s Easier Said Than Done](https://open.spotify.com/album/2LoVhsCTrXGUzy4oKJgc7t) | 3:08 | 2026-02-06 |  |
 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 | 2025-11-21 | 2026-02-07 |
+| [Just A Kid](https://open.spotify.com/track/7LAiBcBZ7qKR4Y9I8KTMsZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Just A Kid](https://open.spotify.com/album/2px5tlymZAQaQRHXXglaTc) | 4:18 | 2026-03-27 |  |
 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-03-20 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 |  |
 | [Let You In](https://open.spotify.com/track/2OqGfyw3dx6GikP01EwLYf) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Let You In](https://open.spotify.com/album/4mo9EM8C3Q2UXjvIexBSwY) | 3:58 | 2026-01-09 |  |

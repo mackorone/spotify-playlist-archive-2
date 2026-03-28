@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Tenille Townes
+> The home of Canadian country music\. Cover: Kalsey Kulyk
 
-582 songs - 1 day 7 hr 16 min
+589 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Cross Your Mind](https://open.spotify.com/track/1TrQ7icC0ep5h1QqRx0nyh) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Cross Your Mind](https://open.spotify.com/album/3ABNV2ngop51t8AsmFKtJm) | 2:59 | 2025-09-05 | 2026-03-14 |
 | [Crumble](https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Crumble](https://open.spotify.com/album/5mblQYNXeC9Ob7bYSgNNh7) | 2:50 | 2025-11-28 | 2026-02-07 |
 | [Crushin' Cans](https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Crushin' Cans](https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN) | 2:30 | 2025-03-07 | 2025-08-30 |
+| [Cut Him Loose](https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Her Rodeo](https://open.spotify.com/album/0WaztXTUiIN1CS8Ebx4bxe) | 2:50 | 2026-03-27 |  |
 | [Cutting Corners](https://open.spotify.com/track/3vqAU08PUq9pC2MMObvCJJ) | [Angelica Appelman](https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM) | [Cutting Corners](https://open.spotify.com/album/4cISv43zIhQaXBe6cZdoTx) | 3:04 | 2025-08-01 | 2025-11-07 |
 | [Cœurs météores](https://open.spotify.com/track/0iVJSnag003e8swPiOW75G) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Cœurs météores](https://open.spotify.com/album/2TflqhF0BxpFCMszw7CPlc) | 3:14 | 2025-10-03 | 2025-11-22 |
 | [Damn](https://open.spotify.com/track/2HPQ7sROFMf0GoXkULuNGB) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Damn](https://open.spotify.com/album/4eCLsaMwer6FOOfVVitzXF) | 5:14 | 2025-10-03 | 2026-03-07 |
@@ -136,6 +137,7 @@
 | [Drunk Plans](https://open.spotify.com/track/2Ld8Skpij5LaTJ5jcjVUJD) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Drunk Plans](https://open.spotify.com/album/1XUGgp5grzRr4ZSZtPo2KQ) | 3:24 | 2024-11-01 | 2024-11-16 |
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-05-30 | 2025-08-30 |
 | [Dublin Blues](https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Dublin Blues](https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7) | 6:28 | 2026-01-30 |  |
+| [Easy Come Easy Go](https://open.spotify.com/track/2JAKlqhXl9SdQj72sNjhM5) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Easy Come Easy Go](https://open.spotify.com/album/2kh6bZ5lk20RFFqW3n0iS1) | 4:00 | 2026-03-27 |  |
 | [Easy Man](https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Easy Man](https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g) | 2:41 | 2025-04-25 | 2025-07-12 |
 | [Eldorado \- Acoustique](https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Eldorado \(Acoustique\)](https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB) | 3:17 | 2025-11-07 |  |
 | [enabling](https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [enabling](https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC) | 3:18 | 2026-01-16 |  |
@@ -174,6 +176,7 @@
 | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz) | 3:36 | 2024-06-28 | 2024-10-12 |
 | [Get The Hell Out Of This Town](https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Get The Hell Out Of This Town](https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3) | 3:01 | 2025-01-31 | 2025-03-01 |
 | [Gettin' By](https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij) | [Dan Young](https://open.spotify.com/artist/4cEhqUT7opRvHQ87dHpqO9) | [Gettin' By](https://open.spotify.com/album/3GE8zt1rkVQXcpYudJq4TI) | 3:17 | 2025-05-16 | 2025-07-12 |
+| [Give It To A Girl](https://open.spotify.com/track/0qIZ55JcCyzq3L1nwPX5GW) | [Jesse Slack](https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN) | [Give It To A Girl](https://open.spotify.com/album/5Su5Bd6pkdwST4nJwyau26) | 2:56 | 2026-03-27 |  |
 | [Give Me One Reason](https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Give Me One Reason](https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA) | 3:09 | 2025-09-26 | 2025-11-22 |
 | [Go Deep \(Jays Edition\)](https://open.spotify.com/track/7fotqYdDq2BWtHYJV2oTdY) | [Jeremy Macklin](https://open.spotify.com/artist/6JQ5BCJ9lQNQodoGAt3QJ0) | [Go Deep \(Jays Edition\)](https://open.spotify.com/album/2i2YYCoA2SGp3VLUT0HBN0) | 2:56 | 2024-07-19 | 2024-09-14 |
 | [Go Get Er](https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/5XIsumyPFxk44Y4MXu5edY) | 3:03 | 2024-06-28 | 2024-08-31 |
@@ -262,6 +265,7 @@
 | [I'm Yours](https://open.spotify.com/track/7u5HdT7oEXUBCwgrvuYSnQ) | [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [I'm Yours](https://open.spotify.com/album/0wbOLe7cvBJIjtv1RKroXE) | 3:25 | 2026-03-20 |  |
 | [I've Learned](https://open.spotify.com/track/0JpfPOgw7MU1io1tUpPXSF) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [I've Learned](https://open.spotify.com/album/0RSR5g34ZYX9i8XkVcuU8V) | 3:12 | 2025-05-02 | 2025-07-12 |
 | [If I Drink Enough](https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F) | 2:51 | 2024-08-09 | 2025-04-11 |
+| [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 | 2026-03-27 |  |
 | [If I’m Being Honest](https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [If I’m Being Honest](https://open.spotify.com/album/5L5oi3u8tufpJI0quqzauR) | 3:04 | 2026-01-23 | 2026-02-28 |
 | [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 | 2025-07-11 | 2025-09-20 |
 | [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 | 2026-02-13 |  |
@@ -278,6 +282,7 @@
 | [Just Wanna Feel It](https://open.spotify.com/track/3iO4eyPq0CKGKuAlVNfHXq) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Just Wanna Feel It](https://open.spotify.com/album/2vESO9JTAruodgv7S6OG45) | 3:15 | 2024-06-28 | 2024-07-06 |
 | [Keep on Truckin'](https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [All Kinds of Country](https://open.spotify.com/album/623aZh6biaVYdHg0UpaZtj) | 2:25 | 2025-11-07 |  |
 | [King of the Bar](https://open.spotify.com/track/3YPDDkeiN7m1goTrCpXxjD) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [King of the Bar](https://open.spotify.com/album/6w8OXXetC7EoE2sQMEOU8h) | 3:55 | 2025-10-24 | 2026-01-24 |
+| [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 | 2026-03-27 |  |
 | [Kitchen Floor](https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Kitchen Floor](https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs) | 3:54 | 2024-10-18 | 2025-02-08 |
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |
 | [Knew It All Along \(With Nic D\)](https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Knew It All Along \(With Nic D\)](https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA) | 3:03 | 2025-10-31 | 2026-01-15 |
@@ -414,6 +419,7 @@
 | [RENT FREE](https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE) | [Elyse Saunders](https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk) | [RENT FREE](https://open.spotify.com/album/0oWZhVNcbt2SJVef302nzG) | 3:13 | 2025-11-07 |  |
 | [Ride It Out](https://open.spotify.com/track/4AMxHYgTe8Bul2J0VyHhdR) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Ride It Out](https://open.spotify.com/album/0spG2WeYDG5WVPHhs8DF0K) | 3:32 | 2025-04-11 | 2025-05-17 |
 | [Right Around Sundown](https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6) | [Reed Salmon](https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD) | [Right Around Sundown](https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV) | 2:41 | 2024-06-28 | 2024-09-28 |
+| [Right Side of Over You](https://open.spotify.com/track/2tKE0JqeZaFfhbwBXHkXzj) | [Antonio Larosa](https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX) | [Right Side of Over You](https://open.spotify.com/album/2FlVTX0wmZHRQ7vQn5SvBM) | 3:20 | 2026-03-27 |  |
 | [River Runnin' Wide](https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m) | [Brenton David](https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG) | [River Runnin' Wide](https://open.spotify.com/album/01lfgGvbQL3ZfT7CbaD3zs) | 3:48 | 2024-06-28 | 2024-08-24 |
 | [Rodeo Junkies](https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Rodeo Junkies](https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX) | 3:36 | 2024-09-27 | 2024-10-19 |
 | [Rose Colored Glasses](https://open.spotify.com/track/3ztr9qPi0vPYaUcPXGAIRo) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Rose Colored Glasses](https://open.spotify.com/album/2q2g41S5R5uFqEEjksoi0Z) | 2:55 | 2025-07-25 | 2025-09-20 |
@@ -550,6 +556,7 @@
 | [What Love Can Do II](https://open.spotify.com/track/00xBvJUrnDh4qsPOyHKG96) | [Sadie Campbell](https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm) | [What Love Can Do II](https://open.spotify.com/album/6yzBEVrnXpGEGjArmKCS5I) | 3:23 | 2025-07-18 | 2025-09-20 |
 | [What Shoulder](https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [What Shoulder](https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy) | 2:56 | 2024-07-12 | 2024-09-07 |
 | [What Were You Thinking](https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [What Were You Thinking](https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt) | 3:36 | 2024-10-04 | 2025-02-15 |
+| [What You Said](https://open.spotify.com/track/1ArIg1u7VdHLzUEYyRfViF) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [What You Said](https://open.spotify.com/album/6ozDPZZSdGn27bK0cVRA5j) | 2:32 | 2026-03-27 |  |
 | [When Do We Stop Talking](https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [When Do We Stop Talking](https://open.spotify.com/album/0Aw1GSjpqOgct55qda6dNH) | 3:06 | 2026-01-09 |  |
 | [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 | 2024-10-18 | 2025-01-11 |
 | [When It's Time To Go](https://open.spotify.com/track/1q7nRL9I1IBNSISTb2XzBC) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [When It's Time To Go](https://open.spotify.com/album/5VlTqDwubs3t00Qk8cCSU9) | 2:57 | 2025-09-05 | 2026-01-24 |

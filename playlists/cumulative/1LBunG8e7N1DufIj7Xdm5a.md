@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,187 songs - 9 day 7 hr 1 min
+4,189 songs - 9 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Bush Camper](https://open.spotify.com/track/3KJhCUeaH9jS4xfk3gHK87) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:07 | 2026-01-17 |  |
 | [Butter Knife Suicide](https://open.spotify.com/track/4UFIHH6jju7CCmFa7eouek) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:35 | 2025-07-01 |  |
 | [butterfly](https://open.spotify.com/track/2wqa7edQscmRTT46aoHCNS) | [WEST OF EDEN](https://open.spotify.com/artist/5UAITt0KoASPqmtWm1Tphl), [jun.e](https://open.spotify.com/artist/7ccm7gCKqCNnlQHkdJYKAm), [slone](https://open.spotify.com/artist/1ryrbk5GiJNKF03k4v9DMk) | [butterfly](https://open.spotify.com/album/2Xsg5jHD0UDbgpuo5dpc6o) | 3:11 | 2025-05-16 |  |
+| [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 | 2026-03-27 |  |
 | [Button](https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Alive And Well](https://open.spotify.com/album/40eg7z9ewjLTVTusesgx9V) | 3:15 | 2025-12-31 |  |
 | [Buzzing Fly](https://open.spotify.com/track/6iZnkpte3oN6j7RvnPfluv) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Buzzing Fly](https://open.spotify.com/album/5vHjLliEPPxZ9bzVB7e3hp) | 3:30 | 2025-05-12 |  |
 | [Bwelera](https://open.spotify.com/track/50gtSEXSbQ2oMMXogHIbnh) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [First Step Album](https://open.spotify.com/album/1e2FCaY21cGjSkfn6cr8y9) | 2:46 | 2025-06-05 |  |
@@ -2929,6 +2930,7 @@
 | [Relationship](https://open.spotify.com/track/4Z46jUuLEPTi53ubwSb9PQ) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Oliver Yung Dee](https://open.spotify.com/artist/2ujBMoAh8CrTYWPew7z3mT) | [Relationship](https://open.spotify.com/album/4dL28Z3hfQaIWobz0iKmHJ) | 3:08 | 2025-06-04 |  |
 | [Relato de tu piel](https://open.spotify.com/track/0nSVNJKx1PWhK6MxAsjXxE) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:54 | 2026-03-15 |  |
 | [Relax](https://open.spotify.com/track/0XLDuwC2BUMr54SU1LCYX8) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Relax](https://open.spotify.com/album/2wq8ECH2d938pINlrNdwzd) | 2:19 | 2025-05-27 |  |
+| [Remain with Grey](https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Remain with Grey](https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW) | 3:34 | 2026-03-27 |  |
 | [Remember My Name](https://open.spotify.com/track/74U3RSDvW0WmyUufIHGgjn) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Remember My Name](https://open.spotify.com/album/0h23dGYOWAvQW3rNXX9lCd) | 3:46 | 2025-02-02 |  |
 | [Remember That Time \- Demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [Remember That Time \(Demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 5:20 | 2025-12-26 |  |
 | [Renegade](https://open.spotify.com/track/7nJ98wvbYzBi2oDerHkk6q) | [Antimony](https://open.spotify.com/artist/6j3Y1pCQUEoIJaVaUVXBk2), [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X) | [Renegade](https://open.spotify.com/album/3VMMzRSKt2V02sa2vlSXVa) | 2:28 | 2025-05-10 |  |

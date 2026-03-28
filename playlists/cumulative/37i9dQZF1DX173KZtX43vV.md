@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Jim Legxacy
 
-608 songs - 1 day 5 hr 39 min
+608 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Penny Up](https://open.spotify.com/track/0s57hh6VeOcVsO7R9Q9n7v) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Penny Up](https://open.spotify.com/album/6WxIrab8jGvccd7Kz6URFK) | 3:05 | 2025-12-19 | 2026-01-16 |
 | [pentecost of living](https://open.spotify.com/track/13npRfHx2c2FhUXk84vwBO) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [pentecost of living](https://open.spotify.com/album/4GqXL87Ny302idXnWQiPyP) | 2:00 | 2025-10-23 | 2025-10-31 |
 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 | 2025-11-21 | 2025-12-05 |
+| [PERFECT](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 3:06 | 2026-03-27 |  |
 | [Performante Pain](https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Performante Pain](https://open.spotify.com/album/5qktduaeZekiMaNegeRA3z) | 3:02 | 2025-10-31 | 2025-11-14 |
 | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3) | 3:37 | 2026-02-13 | 2026-02-20 |
 | [Pick Pick](https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Pick Pick](https://open.spotify.com/album/1hM4TfDlb0ElOWFXmWF9hs) | 2:58 | 2026-01-30 | 2026-02-13 |
@@ -427,6 +428,7 @@
 | [Precognition](https://open.spotify.com/track/06nyrZz7wEijSlZXxXg5EJ) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Precognition](https://open.spotify.com/album/08LAG64GAPO5Xb3DEmlK2M) | 2:57 | 2025-12-12 | 2026-01-03 |
 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 | 2026-01-09 | 2026-01-23 |
 | [Pressure](https://open.spotify.com/track/2mwplM6WLAxWaeWuL5vk6x) | [BandobabyLR](https://open.spotify.com/artist/19ACRq8RCDb6b8Q0SpNM1b) | [Pressure](https://open.spotify.com/album/4cfPHwvg91XG29WHQqWivy) | 2:56 | 2025-11-07 | 2025-11-14 |
+| [Pressure](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 2:11 | 2026-03-27 |  |
 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-21 | 2025-12-12 |
 | [Price Of It All](https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Price Of It All \(Music From the Original Series "Bait"\)](https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96) | 3:04 | 2026-03-20 |  |
 | [Prisoners Round](https://open.spotify.com/track/6zCUfk2Ba1OEkK5Y4MWvKM) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Prisoners Round](https://open.spotify.com/album/7Fzwd1fqwdhFbbP3JHJkWW) | 3:54 | 2025-12-05 | 2025-12-19 |
@@ -552,8 +554,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 3](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 0:00 | 2026-03-27 |  |
-| [Track 5](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 0:00 | 2026-03-27 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 | 2026-02-20 | 2026-02-27 |

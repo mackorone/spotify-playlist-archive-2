@@ -4,7 +4,7 @@
 
 > Camin, J Balvin, María Becerra, Beret y el resto de novedades de la semana.
 
-5,014 songs - 10 day 16 hr 48 min
+5,016 songs - 10 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3088,6 +3088,7 @@
 | [No me conviene](https://open.spotify.com/track/4iq90LdmbxNNNKsVM2lmuQ) | [Juan Cid](https://open.spotify.com/artist/6yOKkwhetQkC2zqeNqB0FE) | [No me conviene](https://open.spotify.com/album/3Vm3RPqAcaZahLTAkl5FxE) | 2:53 | 2025-10-30 | 2025-11-07 |
 | [No Me Culpes](https://open.spotify.com/track/3Bo7Fs8tbDbrKiMkGR8pHS) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9), [Negro Jari](https://open.spotify.com/artist/5wCD2Zj15nNjKiUl2o17JF) | [Paraíso](https://open.spotify.com/album/4vnKMBunUFdYzPzo042Iaq) | 2:56 | 2025-11-06 | 2025-11-14 |
 | [no me culpes por sentir](https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [no me culpes por sentir](https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be) | 3:48 | 2024-12-13 | 2024-12-20 |
+| [No Me Des la Tabarra](https://open.spotify.com/track/38d6qPYxamQs9RCcRxso6R) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [No Me Des la Tabarra](https://open.spotify.com/album/2KBMiolYLAEuyYDhSqi1XP) | 4:05 | 2026-03-27 |  |
 | [No Me Digas](https://open.spotify.com/track/1x1boD28Q1VMXHvxSgOhEI) | [Manuel González \(Ex Rebujito\)](https://open.spotify.com/artist/2YHsC8LIvNhp0oNcchhBu5) | [No Me Digas](https://open.spotify.com/album/4q8bZdXgFFogmD8ly5S7aT) | 2:49 | 2026-01-01 | 2026-01-15 |
 | [No me duele](https://open.spotify.com/track/0He74nJo5sa28ONW1J7KrR) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No me duele](https://open.spotify.com/album/5tp3ALCbxJuAJFUHv5XmeN) | 4:13 | 2024-10-11 | 2024-10-18 |
 | [NO ME FALLES](https://open.spotify.com/track/5XaHnUeGnO9wzSIMfBxVMQ) | [Fito la R](https://open.spotify.com/artist/33l3ylTVUcPmVQazgfhU92) | [NO ME FALLES](https://open.spotify.com/album/4E1Kp2Pl8yHA2u6zXgXuHL) | 1:40 | 2025-10-16 | 2025-10-24 |
@@ -4961,6 +4962,7 @@
 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-08 | 2025-05-16 |
 | [YOUNG BOY](https://open.spotify.com/track/0ldXCPNClEmAhot5RKSEsl) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [YOUNG BOY](https://open.spotify.com/album/5cSPLtKyfSsYRtp6D22abz) | 2:06 | 2025-11-13 | 2025-11-21 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 | 2025-03-28 |
+| [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 | 2026-03-27 |  |
 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 | 2026-02-20 | 2026-02-27 |
 | [Your Mind](https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Oscar Wallyn](https://open.spotify.com/artist/7J0KMSIGpJYscqTGc6L1oN), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Your Mind](https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D) | 3:02 | 2025-09-18 | 2025-09-27 |
 | [Ysilandia](https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Ysilandia](https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ) | 3:37 | 2025-02-13 | 2025-02-21 |

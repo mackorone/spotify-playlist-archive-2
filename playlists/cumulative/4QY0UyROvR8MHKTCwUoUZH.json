@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Just A Kid",
+        "url": "https://open.spotify.com/album/2px5tlymZAQaQRHXXglaTc"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258291,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/7LAiBcBZ7qKR4Y9I8KTMsZ"
+    },
+    {
+      "album": {
         "name": "Laat Het Licht Aan",
         "url": "https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4"
       },

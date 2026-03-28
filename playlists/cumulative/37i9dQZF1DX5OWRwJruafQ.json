@@ -4477,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "RUMOUR HAS IT",
+        "url": "https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178633,
+      "name": "DOUBLE UP",
+      "url": "https://open.spotify.com/track/69rhulFgAVxD5pYKctdfqh"
+    },
+    {
+      "album": {
         "name": "Downky",
         "url": "https://open.spotify.com/album/58AXDoWhFSQvzgw9LDhwjG"
       },
@@ -15680,7 +15702,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 200244,
       "name": "Toka",
       "url": "https://open.spotify.com/track/1AKd3fIVG1KDnhcnmJjZ7U"
@@ -15742,6 +15764,36 @@
       "duration_ms": 184448,
       "name": "Top G",
       "url": "https://open.spotify.com/track/0lZkllHCEw17P8ZHKIRXk1"
+    },
+    {
+      "album": {
+        "name": "RUMOUR HAS IT",
+        "url": "https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178456,
+      "name": "TOP SPOT",
+      "url": "https://open.spotify.com/track/1LcpgltaeOuzZJwmhmfZr7"
     },
     {
       "album": {
@@ -16974,7 +17026,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180725,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k"

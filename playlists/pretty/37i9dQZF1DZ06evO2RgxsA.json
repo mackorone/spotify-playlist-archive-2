@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93207,
+  "num_followers": 93213,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAACdv3Zv40iHxl9654P6ZUsZ",
+  "snapshot_id": "acR3AAAAAAD+zphYysS9Vn+CXPR8PeOt",
   "tracks": [
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A to H",
-        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
+        "name": "The War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 130511,
-      "name": "Cigarette Girl",
-      "url": "https://open.spotify.com/track/5WQ6T2qB3FTdgrFUxscm2t"
+      "duration_ms": 115426,
+      "name": "13 Stitches",
+      "url": "https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 115426,
-      "name": "13 Stitches",
-      "url": "https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF"
+      "duration_ms": 125000,
+      "name": "She's Nubs",
+      "url": "https://open.spotify.com/track/04ufgAK1Fo9Ns7VWHDQPXr"
     }
   ],
   "unique_name": "This Is NOFX",

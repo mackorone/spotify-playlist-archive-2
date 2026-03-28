@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 163302,
       "name": "1 0 0 . m i l \u2018 (with Bas)",
       "url": "https://open.spotify.com/track/4n6NDfYake476trCjJRNl0"
@@ -2019,6 +2019,28 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1CnIWmkw5WQuqkwYGnTg2N"
+      },
+      "artists": [
+        {
+          "name": "Calynn",
+          "url": "https://open.spotify.com/artist/3Z3fwHyjzkwiQKgZNrpodY"
+        },
+        {
+          "name": "T-Minus",
+          "url": "https://open.spotify.com/artist/61tS1lGZgs3RUqZCEyHKRJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146858,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3YSyn0hVwVZNptiWIOJ8Ci"
+    },
+    {
+      "album": {
         "name": "Skinny Jeanz and a Mic (Instrumental)",
         "url": "https://open.spotify.com/album/1VbN8kbddayHzCw4oYTw0K"
       },
@@ -2190,6 +2212,24 @@
       "duration_ms": 234773,
       "name": "PMW (All I Really Need) (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/5oeKoJMi9g6GXEbtz1ta0f"
+    },
+    {
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290346,
+      "name": "Poor Thang",
+      "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
     },
     {
       "album": {
@@ -3216,7 +3256,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 158307,
       "name": "Trial And Error",
       "url": "https://open.spotify.com/track/25HnNxGuzRfjTt8ax0op8f"

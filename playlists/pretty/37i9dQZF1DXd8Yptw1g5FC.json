@@ -1,12 +1,12 @@
 {
   "description": "Kalben x G\u00fcne\u015f \u00d6zge\u00e7 ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 308466,
+  "num_followers": 308954,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOAzB2+O2rY7fUY5PbCsCfnoc095",
+  "snapshot_id": "AAAAAHtg2/Api6RBSOwZ/CRugLsbPuug",
   "tracks": [
     {
       "added_at": "2026-03-26 21:00:16",
@@ -210,10 +210,14 @@
         {
           "name": "Teoman",
           "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        },
+        {
+          "name": "Caner \u00d6ner",
+          "url": "https://open.spotify.com/artist/5a9u64NmCo1w5RR2xFY4Ux"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 519941,
+      "name": "Kaosa Vurgun",
       "url": "https://open.spotify.com/track/0lupBq9jSCcD7oWYaOlqVN"
     },
     {
@@ -353,6 +357,22 @@
       "url": "https://open.spotify.com/track/38Iga4sIa3QsS9EVfPIkyq"
     },
     {
+      "added_at": "2026-03-27 08:08:33",
+      "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
       "added_at": "2026-03-26 21:00:16",
       "album": {
         "name": "Aramad\u0131lar",
@@ -367,6 +387,22 @@
       "duration_ms": 134705,
       "name": "Aramad\u0131lar",
       "url": "https://open.spotify.com/track/5JyHvDaOF7iqe6nHlApeAX"
+    },
+    {
+      "added_at": "2026-03-27 09:27:18",
+      "album": {
+        "name": "Yeni Kayde",
+        "url": "https://open.spotify.com/album/2aIgjLUHaib65YFnKmkq7c"
+      },
+      "artists": [
+        {
+          "name": "Yayla Trio",
+          "url": "https://open.spotify.com/artist/7fAxX9QTSu8jxvm3BdhWFN"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Hayde G\u00fczelum Hayde",
+      "url": "https://open.spotify.com/track/3PFL6VxieU6USq74QlzGgv"
     },
     {
       "added_at": "2026-03-26 21:00:16",
@@ -660,8 +696,8 @@
           "url": "https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 199626,
+      "name": "\u00c7i\u00e7ek B\u00f6cek",
       "url": "https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7"
     },
     {
@@ -722,10 +758,14 @@
         {
           "name": "Sami Yusuf",
           "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 671595,
+      "name": "Ecstasy",
       "url": "https://open.spotify.com/track/4EtOCS1wxJ1YoLdzLg4aBM"
     },
     {
@@ -1104,8 +1144,8 @@
           "url": "https://open.spotify.com/artist/7zQSDsbBTvsn4RxrsKMvcP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 122837,
+      "name": "Y\u0131llar Utans\u0131n Style",
       "url": "https://open.spotify.com/track/7lktSMSE2S13iotwIkrAXe"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating 5 Years of EQUAL\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,074 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,075 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 47 | [Phenomenal \(feat\. Doechii\)](https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 3:37 |
 | 48 | [BOY CRAZY.](https://open.spotify.com/track/1oxc4yLlqlEnKnuIqeWRQc) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [\. \(...\)](https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3) | 2:28 |
 | 49 | [Keeping The Light On](https://open.spotify.com/track/4BXnNaxLDGU1i3PK3iaWns) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:43 |
-| 50 | [Lasso](https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Silver Deliverer](https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS) | 5:40 |
-| 51 | [If God Is a Woman](https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 3:25 |
+| 50 | [If God Is a Woman](https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 3:25 |
+| 51 | [Lasso](https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Silver Deliverer](https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS) | 5:40 |
 | 52 | [this is how a woman leaves](https://open.spotify.com/track/1H1i6bHwSvrUq1LM3h7J7P) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:49 |
 | 53 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 |
 | 54 | [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 |

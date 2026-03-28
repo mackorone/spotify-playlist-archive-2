@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 21574,
+  "num_followers": 21581,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -632,7 +632,7 @@
       },
       "artists": [
         {
-          "name": "LeeHi",
+          "name": "LEEHI",
           "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
@@ -655,22 +655,6 @@
       "duration_ms": 205000,
       "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
-    },
-    {
-      "added_at": "2026-03-23 02:42:57",
-      "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 261850,
-      "name": "How about you",
-      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
       "added_at": "2026-03-23 02:42:57",
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-03-23 02:42:57",
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 261850,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
+    },
+    {
+      "added_at": "2026-03-23 02:42:57",
+      "album": {
         "name": "To The Moon, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2026-03-23 02:42:57",
-      "album": {
-        "name": "When the First Snow Falls",
-        "url": "https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "When the First Snow Falls",
-      "url": "https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj"
     },
     {
       "added_at": "2026-03-23 02:42:57",
@@ -807,18 +791,34 @@
     {
       "added_at": "2026-03-23 02:42:57",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC"
+        "name": "When the First Snow Falls",
+        "url": "https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF"
       },
       "artists": [
         {
-          "name": "KIM KI TAE",
-          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq"
+      "duration_ms": 222000,
+      "name": "When the First Snow Falls",
+      "url": "https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj"
+    },
+    {
+      "added_at": "2026-03-23 02:42:57",
+      "album": {
+        "name": "Hierarchy (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 214334,
+      "name": "RAINY DAYS",
+      "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

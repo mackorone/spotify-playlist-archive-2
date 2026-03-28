@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 807646,
+  "num_followers": 807735,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Tin Type",
         "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 184733,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Stuck In The South",
         "url": "https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "One Trip Pony",
-        "url": "https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 220432,
-      "name": "One Trip Pony",
-      "url": "https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+        "name": "One Trip Pony",
+        "url": "https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3"
       },
       "artists": [
         {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+      "duration_ms": 220432,
+      "name": "One Trip Pony",
+      "url": "https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U"
     },
     {
       "added_at": "2026-03-27 00:00:34",

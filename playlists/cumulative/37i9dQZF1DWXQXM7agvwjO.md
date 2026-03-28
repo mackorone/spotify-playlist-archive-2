@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: GYMV \(Thailand\)
 
-2,470 songs - 6 day 5 hr 55 min
+2,471 songs - 6 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Beautiful Complex](https://open.spotify.com/track/77PpVzVdCxstWlSYXOE9xu) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [i love your complex](https://open.spotify.com/album/1b7KIjcXrhfSDsuS8l9Ngo) | 3:42 | 2025-10-16 | 2026-01-23 |
 | [bedroom](https://open.spotify.com/track/7nPRtLdOTKJySFy2z2LU2s) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [Bedroom](https://open.spotify.com/album/7uZIMZtOF3h5c5r7Rtejzr) | 2:01 | 2025-04-03 | 2025-04-11 |
 | [bedroom eyes](https://open.spotify.com/track/41aenxC4HT4z0fL6YKr9Iu) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [bedroom eyes](https://open.spotify.com/album/7EmfPTRwAlSufRmi9KGFjW) | 3:10 | 2025-06-26 | 2025-08-29 |
+| [bedroom music](https://open.spotify.com/track/2WPk5KDxanKKWhJifPuUjc) | [nosne](https://open.spotify.com/artist/4edDjE5fRXyan93EJ2YdBB) | [bedroom music](https://open.spotify.com/album/5JfNBnxLLQxvnjzfE1xSLv) | 3:34 | 2026-03-26 |  |
 | [Behind Your Dream](https://open.spotify.com/track/4TSleT2yijfAt8sf5PNgrg) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Behind Your Dream](https://open.spotify.com/album/0WMN5tB3fb7c5BcXvdNOTz) | 4:35 | 2022-03-24 | 2022-04-08 |
 | [Being Productive](https://open.spotify.com/track/5RLXH2ZJRmHZXX4BkIgTx5) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Being Productive](https://open.spotify.com/album/623sofIhhBruFlrrzXzQBI) | 2:12 | 2025-05-29 | 2025-07-04 |
 | [Berbunga](https://open.spotify.com/track/7BrDgp5XQ0x97gcepL6ezz) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Berbunga](https://open.spotify.com/album/0woF0gDvrOVmVF7oJc7hBT) | 4:30 | 2023-03-16 | 2023-04-21 |

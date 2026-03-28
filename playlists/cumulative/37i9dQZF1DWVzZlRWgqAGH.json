@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Protoje, Shenseea and music for your soul.",
+  "description": "Jordan Rakei and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -9021,6 +9021,32 @@
     },
     {
       "album": {
+        "name": "elsewhere",
+        "url": "https://open.spotify.com/album/0rNzYCP7UGy2n5vH4NRcbQ"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288375,
+      "name": "elsewhere",
+      "url": "https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO"
+    },
+    {
+      "album": {
         "name": "Heavier Yet (Lays The Crownless Head)",
         "url": "https://open.spotify.com/album/2xsxl1780BXMEfxw5ZsTja"
       },
@@ -15298,7 +15324,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 248026,
       "name": "I Still Need Love 2",
       "url": "https://open.spotify.com/track/6kI8kCr1vgO1Xb6nz2QGiU"
@@ -20303,6 +20329,28 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363791,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "album": {
         "name": "Montara",
         "url": "https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO"
       },
@@ -23826,7 +23874,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 142011,
       "name": "PEACES",
       "url": "https://open.spotify.com/track/0DcB1hWky142AZjHKIVmTO"

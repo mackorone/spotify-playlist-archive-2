@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,831 songs - 3 day 9 hr 12 min
+1,832 songs - 3 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 | 2020-03-25 | 2020-04-28 |
 | [After Time](https://open.spotify.com/track/1YDqnrvd4URRA0TbbNzNLB) | [Asta Hedegaard](https://open.spotify.com/artist/2KqgUaNPmxwpj2xeBtGWDO) | [After Time](https://open.spotify.com/album/5JZ8PcNOp42Qpi56mquB0x) | 2:01 | 2020-08-04 | 2021-01-26 |
 | [Afterglow](https://open.spotify.com/track/1TMrGaM9S40tOFxW6cEjLQ) | [Sebastian Henson](https://open.spotify.com/artist/2R3cJyoHQFK2fiXvH6k1q1) | [Afterglow](https://open.spotify.com/album/0jSbpFdSEs1ZvWUIB38RsJ) | 1:55 | 2020-08-04 | 2020-09-01 |
-| [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-02 |  |
+| [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-02 | 2026-03-28 |
 | [Afterthought](https://open.spotify.com/track/5BMOKxB68b72YxWVnbq6Zf) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Finding Beauty](https://open.spotify.com/album/4aASclhgAAad1DTkuYZHPG) | 2:29 | 2022-10-03 | 2023-09-23 |
 | [afterthought](https://open.spotify.com/track/4Rr3fUE84z8AjJshTRiCWt) | [jiel](https://open.spotify.com/artist/2uCs7S22q8iEg52XCLTzZx) | [afterthought](https://open.spotify.com/album/3nOqvaMHcDeqlU3pqTlEmP) | 3:00 | 2025-11-04 |  |
 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-08-26 | 2023-09-29 |
@@ -170,6 +170,7 @@
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2019-08-23 | 2020-03-17 |
 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-23 | 2025-02-26 |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2019-08-02 | 2022-02-24 |
+| [At The Edge Of Light](https://open.spotify.com/track/3BNfBGWpsyOF3JPl1QxfkQ) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [At The Edge Of Light](https://open.spotify.com/album/0v48kH9FPiWsImYzQZ0LXi) | 2:43 | 2026-03-27 |  |
 | [At The End Of The Day](https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [The Old Oak Tree](https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo) | 2:11 | 2023-01-17 | 2024-05-23 |
 | [Atlas](https://open.spotify.com/track/2UUoUzFXegRNIzIangETNG) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Atlas](https://open.spotify.com/album/0UXtrysJ58HTDz5RtFPtNn) | 2:12 | 2022-05-26 | 2023-09-23 |
 | [Au gré du vent](https://open.spotify.com/track/61vFpV55QmxjvYnZCfQZME) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Au gré du vent](https://open.spotify.com/album/5sdTOmX48rbRUnPpxsplL9) | 5:24 | 2019-08-30 | 2019-09-12 |

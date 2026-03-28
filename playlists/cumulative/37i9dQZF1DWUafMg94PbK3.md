@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-121 songs - 4 hr 18 min
+122 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Freight Train](https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Freight Train](https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd) | 2:19 | 2024-04-19 |  |
 | [Freight Train](https://open.spotify.com/track/0ZNnVSjkU5TycXwvbJjC6X) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Flower](https://open.spotify.com/album/73UdZAjg3scbVKIO4r15PG) | 2:58 | 2019-10-29 |  |
 | [Freight Train Boogie/Choo Choo Ch'Boogie](https://open.spotify.com/track/1lQ0L938tQgoNQxjxoBpQm) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [All Aboard!](https://open.spotify.com/album/75ChgvAlfFOk9145qwMzD6) | 2:43 | 2019-10-29 |  |
+| [Go Go Go](https://open.spotify.com/track/1bGMbn805C7ShUTdHbT8qj) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Go Go Go](https://open.spotify.com/album/60haVFPrULT1eaGLzI2WRo) | 2:01 | 2026-03-27 |  |
 | [Go, Fire Truck, Go](https://open.spotify.com/track/5w1H9AcQAUrxCRaILcW9Iw) | [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Smile in My Heart](https://open.spotify.com/album/4dYhbLticgz5Q4AWigzVSH) | 2:29 | 2019-10-29 |  |
 | [I Love My Garbage Truck](https://open.spotify.com/track/3PpcKAAJE38yKAz3FE9sJ3) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love My Garbage Truck](https://open.spotify.com/album/6Hij9YO3vsLCiNuO38woCm) | 2:46 | 2024-03-01 |  |
 | [Let's Go For a Ride](https://open.spotify.com/track/5PubI4gBAyms9yfChFjMP2) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing In the Car](https://open.spotify.com/album/35WDq0szwSvGFQtJ6oOmLM) | 1:14 | 2019-10-29 |  |

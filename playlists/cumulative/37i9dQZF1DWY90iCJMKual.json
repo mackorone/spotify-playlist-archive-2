@@ -5841,6 +5841,28 @@
     },
     {
       "album": {
+        "name": "My Girls",
+        "url": "https://open.spotify.com/album/4dfCaDY6CBONg0fT74FQEJ"
+      },
+      "artists": [
+        {
+          "name": "SHNTI",
+          "url": "https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO"
+        },
+        {
+          "name": "FEIFEI",
+          "url": "https://open.spotify.com/artist/30jze9BJJlYuJGAj6AHJZX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196398,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/6uJuIxDkKyhWLTCyDu5jQN"
+    },
+    {
+      "album": {
         "name": "My Shawty",
         "url": "https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D"
       },

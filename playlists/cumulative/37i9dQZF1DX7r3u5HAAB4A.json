@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "NPT",
+        "url": "https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176909,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/2mYTrNPWiFAritdBxPTMD6"
+    },
+    {
+      "album": {
         "name": "Pool Party",
         "url": "https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 161990,
       "name": "FULLA GYAL",
       "url": "https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR"
@@ -6069,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "THE IMPACT (Deluxe): PGLA Edition",
+        "url": "https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148715,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/1TMXIYsFeW7OQhvNkyeE6g"
+    },
+    {
+      "album": {
         "name": "International",
         "url": "https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF"
       },
@@ -6328,6 +6364,24 @@
       "duration_ms": 155221,
       "name": "Tun Di Ada Way",
       "url": "https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy"
+    },
+    {
+      "album": {
+        "name": "THE IMPACT (Deluxe): PGLA Edition",
+        "url": "https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179435,
+      "name": "TUN UP",
+      "url": "https://open.spotify.com/track/4VT38McOaMAZRJfMZnk5hQ"
     },
     {
       "album": {

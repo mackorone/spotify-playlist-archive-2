@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,663 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,668 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 10 | [JUICY](https://open.spotify.com/track/5dNJKE7Ck8UGnjAv7C4X2t) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [JUICY](https://open.spotify.com/album/2q1IGT2c4uzBSikM239eZQ) | 3:31 |
 | 11 | [DARLING](https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [DARLING](https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u) | 3:15 |
 | 12 | [Borrowed Time](https://open.spotify.com/track/4ZpVfizZaFMnFtzsfxZ9ls) | [Dayor](https://open.spotify.com/artist/3jaMpJnB8UCixGAlNJU6sD) | [Borrowed Time](https://open.spotify.com/album/2uvFOOjxB1yUoJmfwJOVrF) | 2:54 |
-| 13 | [Track 3](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 0:00 |
+| 13 | [Pressure](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 2:11 |
 | 14 | [Grown](https://open.spotify.com/track/5axjqXSp3e3bwWNNcCBlV2) | [Monifé](https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0) | [Grown](https://open.spotify.com/album/3P4LUTt0kvorwXLaQBaI4K) | 2:56 |
 | 15 | [Tomorrow](https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Tomorrow](https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot) | 1:58 |
 | 16 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 18 | [SET ME FREE](https://open.spotify.com/track/78QkphRTDf4v56ukEVzpLg) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [SET ME FREE](https://open.spotify.com/album/608WanTETSMRCF4FOpffBV) | 2:44 |
 | 19 | [Popeye](https://open.spotify.com/track/4v38d2HHQEO8Q72QEEsy1g) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Popeye](https://open.spotify.com/album/1vtCQmX5sBS2KtaSR0gTf0) | 2:41 |
 | 20 | [He's Not All That](https://open.spotify.com/track/01HKbGG3qQdMsTQav30R9z) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [He's Not All That](https://open.spotify.com/album/5ox7vc3X9DRBZb8r9IiOta) | 2:08 |
-| 21 | [Track 5](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 0:00 |
+| 21 | [PERFECT](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 3:06 |
 | 22 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 |
 | 23 | [Smile](https://open.spotify.com/track/0vNzk7XIW58X32LohF8v5l) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Smile](https://open.spotify.com/album/7vNkmFZ3dGxlAkW8Z7277E) | 3:04 |
 | 24 | [Not a Love Letter](https://open.spotify.com/track/72H3TyPm9zq8gbBoUR8Lf5) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Did You Get the Memo?](https://open.spotify.com/album/03dTLis6hgyGu6ah32RudD) | 2:40 |

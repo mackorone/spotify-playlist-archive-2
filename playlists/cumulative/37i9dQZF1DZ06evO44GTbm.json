@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 596330,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 698514,
       "name": "Memory of Blue",
       "url": "https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 275000,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/3EErgq0XAaJNoUPU3Xd4Dr"
@@ -364,6 +364,28 @@
       "duration_ms": 208000,
       "name": "Scale the Model",
       "url": "https://open.spotify.com/track/2q043oMJNvZJ9zYe1U3hw0"
+    },
+    {
+      "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Seeing Is Forgetting",
+      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
     },
     {
       "album": {

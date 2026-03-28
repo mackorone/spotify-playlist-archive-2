@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-874 songs - 1 day 7 hr 31 min
+875 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Montagem sombra estelar 1.0](https://open.spotify.com/track/7BRQ9eXqLLkYL8WdIYNRQq) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Charles](https://open.spotify.com/artist/0mBCkBV2KtgPRhr7Z4g4K7), [THZ](https://open.spotify.com/artist/7gSamjqhPvUjkm4jzJd6Rq) | [Montagem sombra estelar 1.0](https://open.spotify.com/album/0JQT0alFPE0pKxgiLfhwYz) | 1:28 | 2025-01-17 | 2025-10-11 |
 | [Montagem Sonic Ritmado 1.0 \(Super Slowed\)](https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n) | [Montagem Sonic Ritmado 1.0 \(Super Slowed\)](https://open.spotify.com/album/03GXBC2T6YdaBZo754wYlH) | 1:49 | 2024-06-07 | 2025-04-26 |
 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Mc Jajá](https://open.spotify.com/artist/1P2tOPRmSa1XzEdtIEYA9W) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 | 2025-08-01 |  |
+| [MONTAGEM TENTA \- Slowed](https://open.spotify.com/track/5WShZpWdfHKvWonA4ZUJHW) | [merunes](https://open.spotify.com/artist/6BVew7phcmD5R1VEKV4cxa) | [MONTAGEM TENTA](https://open.spotify.com/album/12PzbfrtUPfMa7iiDgv4zj) | 1:33 | 2026-03-27 |  |
 | [MONTAGEM TOMADA](https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF) | 1:11 | 2025-04-02 | 2025-08-24 |
 | [MONTAGEM UNKNOWN \- Slowed](https://open.spotify.com/track/62n9gOtXkZZM4ielTvJI00) | [AKXNESHIVA](https://open.spotify.com/artist/3LXZBeAgQEX0BdDq8g9CXD), [Avenxir](https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a), [HamiBeats](https://open.spotify.com/artist/2nv6vP5WuDHsI4PxXhM5Wi) | [MONTAGEM UNKNOWN](https://open.spotify.com/album/0jz8txoELkgDDlJ2NWZEsZ) | 1:20 | 2026-03-06 |  |
 | [MONTAGEM VOZES PROFUNDAS \- Ultra Slowed](https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MONTAGEM VOZES PROFUNDAS \(Remixes\)](https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS) | 2:24 | 2024-07-12 | 2025-04-26 |
@@ -707,7 +708,7 @@
 | [SEQUÊNCIA DA DZ7](https://open.spotify.com/track/0LnhfmhxSYLfur8Hr8eZ4T) | [Senius](https://open.spotify.com/artist/4egM8NbZRoRManQ8fLoF98) | [SEQUÊNCIA DA DZ7](https://open.spotify.com/album/7i0vC3NWcFICEO3WPVYmk0) | 1:59 | 2023-06-16 | 2024-03-16 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-06-16 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2023-06-16 | 2024-03-10 |
-| [Sequência da Dz7](https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs) | 1:59 | 2024-03-15 |  |
+| [Sequência da Dz7](https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs) | 1:59 | 2024-03-15 | 2026-03-28 |
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-08-19 | 2024-07-13 |
 | [SHADOW DANCE](https://open.spotify.com/track/1Vt0OhAk0XztPBLym5k7Mc) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [SHADOW DANCE](https://open.spotify.com/album/1iuMQD2JKKqmL9YQqUNaNA) | 1:52 | 2023-02-17 | 2023-04-01 |
 | [SHE IS HYPERACTIVE](https://open.spotify.com/track/4cx8mRVCvqGM5XiktQedCJ) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [SHE IS HYPERACTIVE](https://open.spotify.com/album/68xuQrNQIlzH0vgMDjYjNH) | 2:17 | 2022-11-11 | 2022-12-31 |

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s Adi\u00f3s",
+        "url": "https://open.spotify.com/album/70qcQHWeGIfRmRys7xz6MN"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188686,
+      "name": "Adi\u00f3s Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3IyFAuQTK4THafNRoF3bES"
+    },
+    {
+      "album": {
         "name": "ADMV",
         "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
@@ -829,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Chandiablo",
+        "url": "https://open.spotify.com/album/7pO8FvHomcCTxgzZxKLcgK"
+      },
+      "artists": [
+        {
+          "name": "Paracho",
+          "url": "https://open.spotify.com/artist/7D4iF6hpzFDQK18HcERgUc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Chandiablo",
+      "url": "https://open.spotify.com/track/2OE88W4xixUy3JIymuop2l"
+    },
+    {
+      "album": {
         "name": "Chimba",
         "url": "https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc"
       },
@@ -1466,6 +1502,28 @@
       "duration_ms": 225750,
       "name": "El AchanTAdo",
       "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
+    },
+    {
+      "album": {
+        "name": "El Avi\u00f3n",
+        "url": "https://open.spotify.com/album/67356fVytMStWRzKLej6bl"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202903,
+      "name": "El Avi\u00f3n",
+      "url": "https://open.spotify.com/track/20Mt9BQVdMWNSyekweMvrc"
     },
     {
       "album": {
@@ -4570,6 +4628,32 @@
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3qppK9r9CpNUcqAwn9bX6u"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV"
     },
     {
       "album": {

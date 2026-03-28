@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Robyn, Victor Leksell och RAYE med flera\. Happy New Music Friday!
 
-23,512 songs - 50 day 18 hr 26 min
+23,513 songs - 50 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8380,6 +8380,7 @@
 | [Halfway](https://open.spotify.com/track/5L1QyeUnZFi81hOnj6RsoR) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Halfway](https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH) | 2:50 | 2022-04-14 | 2022-04-22 |
 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 | 2022-07-08 | 2022-07-15 |
 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 | 2025-10-30 | 2025-11-07 |
+| [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 | 2026-03-26 |  |
 | [Hall Of Fame](https://open.spotify.com/track/4WG3ml1bHYw1F2olF1EcOQ) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Hall Of Fame](https://open.spotify.com/album/7HZCGgP4LjeXhqAg52YYF9) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [Hall of Fame](https://open.spotify.com/track/7d199Uwm74MaKwY81Lb7gK) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Fish Food](https://open.spotify.com/album/5yEKSDSQAAonGZDfnnxHxk) | 3:23 | 2025-03-27 | 2025-04-04 |
 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 | 2022-07-28 | 2022-08-05 |
@@ -9587,6 +9588,7 @@
 | [Hälsa Stockholm \(feat\. Molly Hammar\)](https://open.spotify.com/track/4tT77PROMOl7TEPgPBF47e) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Hälsa Stockholm](https://open.spotify.com/album/1rE9mwMYSAbqovg0Rd0ywW) | 2:57 | 2022-09-15 | 2022-09-23 |
 | [Hämnden](https://open.spotify.com/track/288wGS3agbTcTLZM6LXbms) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [HAMLET](https://open.spotify.com/album/1cGTk4TpaeepfvT3dGJZwq) | 3:22 | 2023-12-14 | 2023-12-22 |
 | [Hämta mer](https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 4:41 | 2025-10-02 | 2025-10-10 |
+| [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 | 2026-03-26 |  |
 | [Händer upp](https://open.spotify.com/track/5Fa5STrMzA3uY1EahSfUFK) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Händer upp](https://open.spotify.com/album/4PxqmQ9SIQQSTsYmZKnspo) | 3:42 | 2023-07-20 | 2023-07-28 |
 | [Häng av dig](https://open.spotify.com/track/5C3pVHyuPRSlnvsdqIx8OW) | [Lorentz](https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7) | [Häng av dig](https://open.spotify.com/album/7jmITOdqs4p3BJL5gqjQTK) | 3:03 | 2025-04-10 | 2025-04-18 |
 | [Häng City](https://open.spotify.com/track/4uw1EWXT1VkShJuino1IFq) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2) | [Häng City](https://open.spotify.com/album/6F27hN2ntHqVp3V300Kkwr) | 4:02 | 2024-08-22 | 2024-08-30 |
@@ -12063,6 +12065,7 @@
 | [Like A Snowman](https://open.spotify.com/track/7liOlRnfWfUTKWRvJsl7L0) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Like A Snowman](https://open.spotify.com/album/4JLanGiooNPF9NMktsq2s8) | 2:55 | 2022-11-10 | 2022-11-18 |
 | [Like A Song](https://open.spotify.com/track/7AZ7ZigcSHvPeqRBk1dQlD) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7) | [Like A Song](https://open.spotify.com/album/4DfeQ9IWsWAWGx0WPm4dqz) | 4:00 | 2022-06-30 | 2022-07-08 |
 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 | 2024-03-07 | 2024-03-15 |
+| [Like A Taylor \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6nuuxHG1ouojISgtItG11B) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Like A Taylor \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5AW1C1BOXDQMYyH40nzAtB) | 3:38 | 2026-03-26 |  |
 | [Like Blues](https://open.spotify.com/track/68ByKZRPyQhRWNjFZ78FmQ) | [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [Like Blues](https://open.spotify.com/album/5ecIMXfVbae1gy7JHLedng) | 1:56 | 2025-02-20 | 2025-02-28 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 | 2023-03-31 |
 | [Like Exploding Stones](https://open.spotify.com/track/2JND4SkJHfRpLpN0woStlP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Like Exploding Stones](https://open.spotify.com/album/1FcMgCGoLa3reBCYnNVK0m) | 7:18 | 2022-02-17 | 2022-02-25 |
@@ -21058,8 +21061,6 @@
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-27 | 2025-04-04 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2022-11-04 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-23 | 2023-03-03 |
-| [Track 1](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 0:00 | 2026-03-26 |  |
-| [Track 5](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 0:00 | 2026-03-26 |  |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2025-12-12 |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2023-09-29 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |

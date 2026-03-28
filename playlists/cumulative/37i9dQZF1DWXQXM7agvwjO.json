@@ -3643,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "bedroom music",
+        "url": "https://open.spotify.com/album/5JfNBnxLLQxvnjzfE1xSLv"
+      },
+      "artists": [
+        {
+          "name": "nosne",
+          "url": "https://open.spotify.com/artist/4edDjE5fRXyan93EJ2YdBB"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214886,
+      "name": "bedroom music",
+      "url": "https://open.spotify.com/track/2WPk5KDxanKKWhJifPuUjc"
+    },
+    {
+      "album": {
         "name": "Behind Your Dream",
         "url": "https://open.spotify.com/album/0WMN5tB3fb7c5BcXvdNOTz"
       },

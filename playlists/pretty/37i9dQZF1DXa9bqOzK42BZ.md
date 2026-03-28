@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Guardian Angel
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,427 likes - 107 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,476 likes - 107 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 7 | [Mkono Wako](https://open.spotify.com/track/6iO00GNlCsbtD0VCt1heKS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Mkono Wako](https://open.spotify.com/album/3AtilNVQ7fKiI2PPFOhQGp) | 2:56 |
 | 8 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 |
 | 9 | [Bila Bila](https://open.spotify.com/track/3o4FJuqGNemcj2tGuwcQR9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Bila Bila](https://open.spotify.com/album/6TsBYWL3dnC8rRQxw63OoS) | 2:55 |
-| 10 | [Asante](https://open.spotify.com/track/2q6d3jUYtq6jcJLRNCdTZL) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [Asante](https://open.spotify.com/album/3OQhPS52juljB5hPz0lm8O) | 9:30 |
+| 10 | [Asante](https://open.spotify.com/track/2q6d3jUYtq6jcJLRNCdTZL) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [Asante](https://open.spotify.com/album/3OQhPS52juljB5hPz0lm8O) | 9:26 |
 | 11 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
 | 12 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 |
 | 13 | [Moja](https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Moja](https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC) | 3:20 |

@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Pa'lante Pa'Atras",
+        "url": "https://open.spotify.com/album/6XNKOvcCUq3T7vRa2lH1n1"
+      },
+      "artists": [
+        {
+          "name": "DAVID BLK",
+          "url": "https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Pa'lante Pa'Atras",
+      "url": "https://open.spotify.com/track/7rJBEchMUTTXv28F7oUIju"
+    },
+    {
+      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8"
       },

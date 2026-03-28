@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 183333,
       "name": "atari",
       "url": "https://open.spotify.com/track/2QbOs8LucCMsNycmZcyxaB"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192244,
       "name": "Cornucopia (ft. OAFF)",
       "url": "https://open.spotify.com/track/2xyqXpsCJg4sOZJbiPxB0I"
@@ -5632,6 +5632,32 @@
       "duration_ms": 195400,
       "name": "Dastaan-E-Shauq - Acoustic",
       "url": "https://open.spotify.com/track/6nftytNoponXWIYJi3jhYz"
+    },
+    {
+      "album": {
+        "name": "Dastaann",
+        "url": "https://open.spotify.com/album/2cbf7EoWkdRJPLjqYEjkDV"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Rahul Pandey",
+          "url": "https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq"
+        },
+        {
+          "name": "Maanaav Podaar",
+          "url": "https://open.spotify.com/artist/2kdZPMR6ce9gMCDShQefzj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207315,
+      "name": "Dastaann",
+      "url": "https://open.spotify.com/track/4ku46HBsZXqNDx8b7Q6UYh"
     },
     {
       "album": {
@@ -10358,6 +10384,24 @@
     {
       "album": {
         "name": "Ishq",
+        "url": "https://open.spotify.com/album/0PWyUp1bCI0wDEjSHMLfiO"
+      },
+      "artists": [
+        {
+          "name": "Donn Bhat",
+          "url": "https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213004,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/760n01fPMR7sqrn3msFBcT"
+    },
+    {
+      "album": {
+        "name": "Ishq",
         "url": "https://open.spotify.com/album/6ZQ8vCY94TRUNz5B6SAscW"
       },
       "artists": [
@@ -11474,7 +11518,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 287732,
       "name": "Jhini Jhini",
       "url": "https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn"
@@ -16256,6 +16300,32 @@
       "duration_ms": 184285,
       "name": "Main Tera",
       "url": "https://open.spotify.com/track/3SqTTLPktoECRmkGriw5bx"
+    },
+    {
+      "album": {
+        "name": "Main Tera Deewana",
+        "url": "https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66"
+      },
+      "artists": [
+        {
+          "name": "Shyam Sidhawat",
+          "url": "https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Rutvij Joshi",
+          "url": "https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220414,
+      "name": "Main Tera Deewana",
+      "url": "https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-284 songs - 20 hr 40 min
+285 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [一個人](https://open.spotify.com/track/4T4Ew1GBmGGRsg3J7JIKyJ) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [特務J](https://open.spotify.com/album/08hWCW4OOpyAqyYQDBealb) | 4:41 | 2024-11-11 | 2024-12-10 |
 | [一公尺](https://open.spotify.com/track/3VhFGiJm9OKZNCexnYTG8A) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [第一次\(白天版\)](https://open.spotify.com/album/1s8LhNLb7wMe7cxZs4nfnZ) | 4:10 | 2024-01-15 | 2024-01-23 |
 | [一千年以後](https://open.spotify.com/track/7ronMHt2hVGfpag6m27wd9) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [編號 89757](https://open.spotify.com/album/4fWlf2PWAVVJD1hCYWwNBH) | 3:47 | 2024-03-18 | 2026-02-04 |
+| [一樣的月光](https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 4:00 | 2026-02-09 |  |
 | [一眼瞬間](https://open.spotify.com/track/5Hm71iOLGamb6uxaIuVKcJ) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 5:56 | 2024-09-30 | 2024-10-28 |
 | [一輩子的孤單](https://open.spotify.com/track/7CvOJ7yjccv7Xb7EQ97WBT) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [Love and the City](https://open.spotify.com/album/5XJh9ZHnBRXz0EUswxCWUj) | 4:33 | 2024-10-14 | 2024-11-12 |
 | [一首簡單的歌](https://open.spotify.com/track/1934UMDwEOi9XL5cvk3CFu) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心中的日月](https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw) | 4:09 | 2024-04-15 | 2025-02-17 |
@@ -139,7 +140,7 @@
 | [愛\*轉角](https://open.spotify.com/track/1TFGynJGpBUBJBoH4AO26g) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [SPESHOW](https://open.spotify.com/album/13QwA3KOFuFzsK9dyE7n7K) | 4:53 | 2024-01-22 | 2024-02-20 |
 | [愛一直閃亮](https://open.spotify.com/track/0PpjWheZ4Dsb3j8OYuXXnM) | [羅美玲](https://open.spotify.com/artist/5B1AaSUIE8FWo6ERw95rLP) | [紅色向日葵](https://open.spotify.com/album/5AxN5TmnZg7OqallJp7Yk5) | 4:04 | 2024-12-09 | 2025-01-06 |
 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 | 2024-03-04 | 2024-04-02 |
-| [愛丫愛丫](https://open.spotify.com/track/3ug64gXY4mHjvMRYUdGjA2) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [16未成年](https://open.spotify.com/album/70XYnt9gD31nxSCMlQw2DA) | 3:52 | 2026-02-09 |  |
+| [愛丫愛丫](https://open.spotify.com/track/3ug64gXY4mHjvMRYUdGjA2) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [16未成年](https://open.spotify.com/album/70XYnt9gD31nxSCMlQw2DA) | 3:52 | 2026-02-09 | 2026-03-28 |
 | [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 | 2025-02-17 | 2025-03-12 |
 | [愛多少 早知道](https://open.spotify.com/track/2YPzFxQ7iIYPEuIV37yRWI) | [殷悅](https://open.spotify.com/artist/2frQ74368SuSVnXGJCCgqU) | [愛的Melody](https://open.spotify.com/album/0ANEyTelHpfeA0JjmeWeH3) | 4:30 | 2024-08-19 | 2025-02-04 |
 | [愛情抗體](https://open.spotify.com/track/47BygcSwDHfp9U7YDnfQVG) | [許慧欣](https://open.spotify.com/artist/6DWn9cu2UVLQ61pjyBHjuL) | [快樂為主](https://open.spotify.com/album/1TsTI3aa3FxWgEEvgy0vXv) | 3:47 | 2024-04-15 | 2024-05-14 |

@@ -4,7 +4,7 @@
 
 > Brand new music from RAYE, Central Cee, Robyn and more!
 
-21,109 songs - 47 day 14 hr 26 min
+21,109 songs - 47 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7545,6 +7545,7 @@
 | [guilty](https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [guilty](https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd) | 2:48 | 2025-05-22 | 2025-05-30 |
 | [Guilty](https://open.spotify.com/track/4YCxFgfzpff8r5CsGV1T6l) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Knees Up](https://open.spotify.com/album/6EJwhWQ3s4ddYhZZygjYLK) | 2:42 | 2025-11-21 | 2025-11-28 |
 | [Guilty](https://open.spotify.com/track/7xMIvjkURMfvlAMXJgmU7Q) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Guilty](https://open.spotify.com/album/1T4gWJ51vZL9tYnoTaXfKH) | 2:57 | 2023-03-03 | 2023-03-10 |
+| [Guilty](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 2:36 | 2026-03-27 |  |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-24 | 2025-01-31 |
 | [Guilty Pleasure](https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Guilty Pleasure](https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI) | 2:35 | 2024-07-11 | 2024-07-19 |
 | [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 | 2024-10-10 | 2024-10-18 |
@@ -14514,6 +14515,7 @@
 | [Pressure](https://open.spotify.com/track/2mwplM6WLAxWaeWuL5vk6x) | [BandobabyLR](https://open.spotify.com/artist/19ACRq8RCDb6b8Q0SpNM1b) | [Pressure](https://open.spotify.com/album/4cfPHwvg91XG29WHQqWivy) | 2:56 | 2025-11-07 | 2025-11-14 |
 | [Pressure](https://open.spotify.com/track/4aZF0pfP7dcVS1x7BCULTV) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC) | [Pressure](https://open.spotify.com/album/18EgQqFVZcvZRDwIPVLRVo) | 4:11 | 2023-05-11 | 2023-05-19 |
 | [Pressure](https://open.spotify.com/track/3rLyUo8KBJCP5YPA3Getfj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [12 Summers](https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5) | 2:19 | 2024-07-25 | 2024-08-02 |
+| [Pressure](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 2:11 | 2026-03-27 |  |
 | [PRESSURE](https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [PRESSURE](https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7) | 4:19 | 2023-06-01 | 2023-06-09 |
 | [PRESSURE](https://open.spotify.com/track/2yxNGjcFdOi0u2gx8dE2Ru) | [Moyses Dos Santos](https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [THE CITY](https://open.spotify.com/album/6FEEaSs0QmOpho0BpgIl3K) | 3:00 | 2025-04-24 | 2025-05-02 |
 | [Pressure](https://open.spotify.com/track/6UHBnRZhTedWSM3xiQM56F) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Pressure](https://open.spotify.com/album/6Cmpsdprlh6oV7QaJhUmrf) | 3:38 | 2024-04-04 | 2024-04-12 |
@@ -19021,9 +19023,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-08 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-04 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2025-09-26 |
-| [Track 10](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 0:00 | 2026-03-27 |  |
-| [Track 3](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 0:00 | 2026-03-27 |  |
-| [Track 8](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 0:00 | 2026-03-27 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 |  |
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-07-25 |
 | [Tracy Beaker](https://open.spotify.com/track/2Etf8bGyqQ0gWkNcWpNFJX) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Tracy Beaker](https://open.spotify.com/album/3A3XsZiLS8jXO8TnTTU9lE) | 2:40 | 2024-01-05 | 2024-01-12 |
@@ -19849,6 +19848,7 @@
 | [Was I Ever Alone?](https://open.spotify.com/track/4BDQ6qmjENrdu4G18xfTuU) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [TWST0002 \(Off\-World\)](https://open.spotify.com/album/6OUbgFiB8b7YbFFE7AZFEh) | 3:50 | 2023-12-01 | 2023-12-08 |
 | [Was I Loved?](https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [Was I Loved?](https://open.spotify.com/album/0xuivpSg8Z5zmBkYZZ5IUN) | 3:13 | 2025-09-25 | 2025-10-03 |
 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 | 2024-01-12 | 2024-01-19 |
+| [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 | 2026-03-27 |  |
 | [Wasabi](https://open.spotify.com/track/6mXIwNxW6oxFbS1psHDNcB) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Wasabi](https://open.spotify.com/album/56FleV860R0ZCl4Zti16xY) | 2:28 | 2024-08-08 | 2024-08-16 |
 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 | 2025-08-28 | 2025-09-06 |
 | [Wash Your Wounds](https://open.spotify.com/track/01VMDmyPy8jxYXIThTQhbx) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Wash Your Wounds](https://open.spotify.com/album/0ShtuJHE4I5R6mFfBfmQy8) | 2:21 | 2024-02-02 | 2024-02-09 |

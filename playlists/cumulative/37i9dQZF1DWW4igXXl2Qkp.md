@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5IyinZYJjqYfHlgtdyUYnm">Pradabagshawty</a>
 
-2,270 songs - 4 day 0 hr 42 min
+2,274 songs - 4 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [I'm Him](https://open.spotify.com/track/2cAqVc1Hrry0OpnyOLmsEv) | [Joe West](https://open.spotify.com/artist/4ep4KPv7HsOHDILejOScCK) | [HIM](https://open.spotify.com/album/2aSexfVzRxiaHa2mPeSZD0) | 2:43 | 2023-04-05 | 2023-06-08 |
 | [I'm Him](https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K), [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [I'm Him](https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr) | 2:38 | 2022-07-20 | 2022-09-09 |
 | [I'm Him](https://open.spotify.com/track/4wHbKkgXBSUA2kke4v95WS) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K), [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:38 | 2022-11-30 | 2023-01-12 |
+| [I'm Scared](https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [5 Problems](https://open.spotify.com/album/6B5fS73xLbj00E9mttG5Qp) | 2:05 | 2026-03-27 |  |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-05-29 | 2024-09-12 |
 | [ICE COLD](https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev) | [Opal OD](https://open.spotify.com/artist/6t9ljQX4QGp8kwH7llR2dw) | [ICE COLD](https://open.spotify.com/album/0kY11UduFEWltlwEzsAov1) | 2:27 | 2024-05-22 | 2025-01-30 |
 | [Ice Cup](https://open.spotify.com/track/2Mg4lc8h7rzZXadhFXCUH0) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [Ice Cup](https://open.spotify.com/album/0g9CumZ8km6FSLXJi1TOWa) | 2:34 | 2025-03-26 | 2025-04-10 |
@@ -1803,6 +1804,7 @@
 | [skinny jeans & rick owens](https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP) | [Suigeneris](https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf) | [skinny jeans & rick owens](https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER) | 2:04 | 2022-03-16 | 2022-04-14 |
 | [Skyloft](https://open.spotify.com/track/2tSE8WWj3IjYRIvjmrPAAJ) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Skyloft](https://open.spotify.com/album/7gFzcPiUzCUjTQW44zrRHw) | 2:11 | 2023-04-05 | 2023-06-15 |
 | [Slaphard](https://open.spotify.com/track/0YVxuGhpBevkB2DUD6DsDW) | [Lyrical Bo$$](https://open.spotify.com/artist/69l2Z5eg2cVzH32MCtL2jt) | [Drill Bag](https://open.spotify.com/album/5KVO2xeomZuXsEJNVZyjqG) | 2:26 | 2022-03-02 | 2022-03-31 |
+| [Sleaze SZN](https://open.spotify.com/track/5dwZS6o6nDKfqy4k1oxOVQ) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Sleaze SZN](https://open.spotify.com/album/4rpDVBqBhzAVuLKYA3XmCj) | 1:44 | 2026-03-27 |  |
 | [Sleazy Flow](https://open.spotify.com/track/5mt882Eqx22RwFOTE01jS8) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4Qku5Zl0Smuzw2ZbupxtaV) | 1:51 | 2022-11-30 | 2023-01-12 |
 | [Sleazy Flow](https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4uvp5CsSTU6AMkvpFe0FyP) | 1:52 | 2022-03-16 | 2022-04-07 |
 | [Sleep It Off](https://open.spotify.com/track/6PZ3Ylsj9D8Jy85hxduUI6) | [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [Sleep It Off](https://open.spotify.com/album/5p8BzYpUnJ8OMVmzJIsSn5) | 3:22 | 2023-07-12 | 2024-01-11 |
@@ -1889,6 +1891,7 @@
 | [Still Like Drugs](https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6) | [Lightshow](https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4), [Zubin](https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9) | [Still Like Drugs](https://open.spotify.com/album/6Ldm82syrNUjdsSo6im7nP) | 2:33 | 2022-06-08 | 2022-08-11 |
 | [Still Lookin](https://open.spotify.com/track/1gfISRq3zs5b1v6U8T6qVp) | [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN) | [Now That's What I Call A Mixtape](https://open.spotify.com/album/5Ufwp2gwbvQGPSHsZWcgCY) | 1:41 | 2023-11-29 | 2024-01-25 |
 | [Still Lookin](https://open.spotify.com/track/6WFoDsJW8mi28u2uuIsdIj) | [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN), [dimijay](https://open.spotify.com/artist/7aOPtUsSYb9okxKPGtgVCk) | [Still Lookin](https://open.spotify.com/album/2yJ9rFRvcEZTSizPI1xjDq) | 1:41 | 2023-03-15 | 2023-05-11 |
+| [Stilletos](https://open.spotify.com/track/2qxuj3G2cf2USvyUimTT59) | [Yonnie](https://open.spotify.com/artist/6RvAYlow6wTDLrqAagwAyQ) | [Stilletos](https://open.spotify.com/album/2PRRWxRs6HWYXwv1UDfkBl) | 2:51 | 2026-03-27 |  |
 | [STOCKS](https://open.spotify.com/track/5HjKRJKCjUPRXnBHf0Ql4S) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [STOCKS](https://open.spotify.com/album/2dbHIXRrs3PTOhDrlraiQc) | 2:59 | 2022-03-16 | 2022-04-14 |
 | [Stolen V \(First Day Out\)](https://open.spotify.com/track/15bJTrI0SM59eWr3jNsgli) | [FullyChop](https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp) | [Stolen V \(First Day Out\)](https://open.spotify.com/album/5cXVK7vXbiQaSTxmwKiPR1) | 1:43 | 2025-11-05 | 2025-12-04 |
 | [Stones](https://open.spotify.com/track/2TmcoeozCAFmtIK1LWAqNt) | [Shame Gang](https://open.spotify.com/artist/3lERpk1kWnCnrau3vcC8MA), [Sonny Miles](https://open.spotify.com/artist/5H9W2VTCkxdGYTgkTbZM6J) | [Better Late Than Never](https://open.spotify.com/album/03G2w5Yq1wbXkRslJutzYB) | 3:45 | 2023-04-12 | 2024-01-25 |
@@ -1920,6 +1923,7 @@
 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/4SZWydNpzVzD3e2rYPV6XY) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [HOURS AFTER THE CLUB](https://open.spotify.com/album/7LCH3EL2NaCmVegWM3dPBq) | 2:45 | 2023-11-29 | 2024-01-25 |
 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 | 2023-07-12 | 2023-09-14 |
 | [swag it! \- Remix](https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [swag it! \(Remix\)](https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB) | 3:11 | 2024-05-22 | 2024-05-25 |
+| [Swang](https://open.spotify.com/track/4yQJNtn47tabmJgSwC69q6) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Swang](https://open.spotify.com/album/0kHQTFJEAny2nGlx9g63oX) | 2:24 | 2026-03-27 |  |
 | [SWAT TEAM](https://open.spotify.com/track/3CBFJiykg9hogGPTyBYylr) | [Dfunds](https://open.spotify.com/artist/43GDhaT4W6Ulsc1WST3V2r), [Luca Santamaria](https://open.spotify.com/artist/32iQsMir6PTunfavutNHBx) | [SWAT TEAM](https://open.spotify.com/album/06y3iBmST6xCnixefRge87) | 2:34 | 2023-06-28 | 2023-08-31 |
 | [Sweep](https://open.spotify.com/track/3c5VE1DjoEzN9J0l8O6tqm) | [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW), [Wino Willy](https://open.spotify.com/artist/5ZAazx2uLTDCHQjsg3dw96), [Chubs](https://open.spotify.com/artist/6KPZ0y2JwUCYU6i7YZATQI) | [Object Permanence](https://open.spotify.com/album/7niWr5wf0qJa0Io2gOHSSc) | 2:30 | 2024-04-24 | 2024-05-09 |
 | [Sweepin Floors \(Youtube Ad Freestyle\)](https://open.spotify.com/track/6sbxtCe2CakGAj1lCOUejl) | [Sqweez](https://open.spotify.com/artist/6P7n4mPXuKcZhwvikEFS3k) | [Sweepin Floors \(Youtube Ad Freestyle\)](https://open.spotify.com/album/13yTA1wCFRvawAwaAWFNKn) | 1:52 | 2026-01-28 |  |

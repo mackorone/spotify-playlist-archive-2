@@ -1,18 +1,82 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
-  "num_followers": 167123,
+  "description": "A laid-back trip in the folk scene. Cover: Charlotte Cornfield",
+  "num_followers": 167120,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGyIK9lFCG3OTdTDInOTGmm+GlwC",
+  "snapshot_id": "AAAAALCSDb5+U9gi7WH7MZynEF/xWSyx",
   "tracks": [
     {
-      "added_at": "2026-03-20 04:01:39",
+      "added_at": "2026-03-27 04:01:07",
       "album": {
-        "name": "Stolen Valor / Leash",
-        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/21IyvAnogGM9zfJYOShEBj"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "duration_ms": 245236,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/0csn8Na8Zbuipf5Ncicv21"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Against The Dying Of The Light",
+        "url": "https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 268026,
+      "name": "You & We",
+      "url": "https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "we fly for the ones we love",
+        "url": "https://open.spotify.com/album/3jl8hPTGLX9Jc5dYfGeLa2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 229118,
+      "name": "we fly for the ones we love",
+      "url": "https://open.spotify.com/track/4XNFLgJF5RUffH6vWUwBho"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Long Way to Fall",
+        "url": "https://open.spotify.com/album/6ls4jkkmX2LbNcJeuVCrPj"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 301037,
+      "name": "Long Way to Fall",
+      "url": "https://open.spotify.com/track/6cFzM8VYjUNt6LKtp74Goc"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Adult Contemporary",
+        "url": "https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb"
       },
       "artists": [
         {
@@ -24,9 +88,113 @@
           "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
         }
       ],
-      "duration_ms": 153250,
-      "name": "Stolen Valor",
-      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+      "duration_ms": 183378,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Wishing Moon",
+        "url": "https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl"
+      },
+      "artists": [
+        {
+          "name": "Wintersleep",
+          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
+        }
+      ],
+      "duration_ms": 269147,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "House of Mirrors",
+        "url": "https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "House of Mirrors",
+      "url": "https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "The Landfill",
+        "url": "https://open.spotify.com/album/4WbH9XB301NLVeclpbRFbu"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "The Landfill",
+      "url": "https://open.spotify.com/track/37jZ4OmmPlkJ3ClpFtAM07"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/41lmDLys2EtjbHkVJxBaxn"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        },
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        },
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Wheels - with Babehoven & Billie Marten",
+      "url": "https://open.spotify.com/track/6Tad0GdthV8sEb5bFMB613"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Back to the Country (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mTUtx0s01dddppUegYdHO"
+      },
+      "artists": [
+        {
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Maitland",
+      "url": "https://open.spotify.com/track/3S73zNocZTVnl45WkXlV11"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Dream For You",
+        "url": "https://open.spotify.com/album/2S3VmAHo9nbvayQfEMfbh0"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 337467,
+      "name": "Dream For You",
+      "url": "https://open.spotify.com/track/0U1RRuNfZSSKrY1zqjDaRO"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -171,6 +339,26 @@
       "duration_ms": 203373,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
     },
     {
       "added_at": "2026-03-13 15:29:59",
@@ -2253,6 +2441,22 @@
       "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
     },
     {
+      "added_at": "2025-10-24 04:01:03",
+      "album": {
+        "name": "Mosaic in the Sun",
+        "url": "https://open.spotify.com/album/1R7dWRs1FNccOtOv2tGz0d"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "duration_ms": 190757,
+      "name": "Mosaic in the Sun",
+      "url": "https://open.spotify.com/track/19gw10sPNKZJhsg7nELfxb"
+    },
+    {
       "added_at": "2025-11-07 00:01:45",
       "album": {
         "name": "Everything Unfolding",
@@ -2283,210 +2487,6 @@
       "duration_ms": 198813,
       "name": "Le Restaurant",
       "url": "https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Medicine Wheel",
-        "url": "https://open.spotify.com/album/7AfK1Loj25IJe7HdzsbPjI"
-      },
-      "artists": [
-        {
-          "name": "Logan Staats",
-          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
-        }
-      ],
-      "duration_ms": 226038,
-      "name": "Medicine Wheel",
-      "url": "https://open.spotify.com/track/69DxXDSJWyrLHZ78LBRHz5"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Burning Bridges Into Dust",
-        "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 169890,
-      "name": "Hanging Out In My Head",
-      "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 163292,
-      "name": "Mind Reader",
-      "url": "https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Beside Me",
-        "url": "https://open.spotify.com/album/4iM4MyIvikMDUs6onYu40j"
-      },
-      "artists": [
-        {
-          "name": "Adam Rodway",
-          "url": "https://open.spotify.com/artist/0a8lHob1Gah0QmmzrWZoH5"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Beside Me",
-      "url": "https://open.spotify.com/track/25rFLT51EsvFkxJ9lv7Bi3"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Homebody (The Red Version)",
-        "url": "https://open.spotify.com/album/29R7ZwF8KLauyYYeExnVHx"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 181445,
-      "name": "Homebody - The Red Version",
-      "url": "https://open.spotify.com/track/299MU68WZmumMSqG6hZLJg"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
-        "url": "https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        },
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 203326,
-      "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
-      "url": "https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS"
-    },
-    {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
-        "name": "Airport & Only The Truth",
-        "url": "https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 212430,
-      "name": "Airport",
-      "url": "https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Mosaic in the Sun",
-        "url": "https://open.spotify.com/album/1R7dWRs1FNccOtOv2tGz0d"
-      },
-      "artists": [
-        {
-          "name": "Edwin Raphael",
-          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
-        }
-      ],
-      "duration_ms": 190757,
-      "name": "Mosaic in the Sun",
-      "url": "https://open.spotify.com/track/19gw10sPNKZJhsg7nELfxb"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Josie",
-        "url": "https://open.spotify.com/album/2WUiILFgKVf8HpO4MFGpAZ"
-      },
-      "artists": [
-        {
-          "name": "Michelle Treacy",
-          "url": "https://open.spotify.com/artist/0YhQcdSViCHOPY7QDb9tiV"
-        }
-      ],
-      "duration_ms": 288923,
-      "name": "Josie",
-      "url": "https://open.spotify.com/track/1seN6RYYgUeG2WnLTYYbes"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Radio Waves (Deluxe)",
-        "url": "https://open.spotify.com/album/4BBECT2QKT4LZPf9CPuvat"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 186823,
-      "name": "Dry Land",
-      "url": "https://open.spotify.com/track/2nordZexlbhvY6vSOiFkM9"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Shake Off the Rain",
-        "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 282831,
-      "name": "Shake Off the Rain",
-      "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Southern Star (feat. AURORA)",
-        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 304760,
-      "name": "Southern Star (feat. AURORA)",
-      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
     }
   ],
   "unique_name": "Folk & Friends",

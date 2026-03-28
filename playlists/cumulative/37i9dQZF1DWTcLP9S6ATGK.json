@@ -6425,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "Kau Semestaku",
+        "url": "https://open.spotify.com/album/0x95mfdXUHOP6YxQorX6QF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Lee",
+          "url": "https://open.spotify.com/artist/66DXhk7mq7Wj3MolBsx9tO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Kau Semestaku",
+      "url": "https://open.spotify.com/track/1i7YxoudHNgL4O4Q6sSiQQ"
+    },
+    {
+      "album": {
         "name": "Ke Rumah",
         "url": "https://open.spotify.com/album/1OLGRwOYlr9RPPIwXjDnox"
       },

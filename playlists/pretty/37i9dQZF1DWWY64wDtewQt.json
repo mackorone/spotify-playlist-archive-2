@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11499828,
+  "num_followers": 11503627,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWb0O58L0WoM1VD/3H5Ek+qMdOW",
+  "snapshot_id": "AAAAAOYFHmlpszS/m0w81gDZu7Y3QmNX",
   "tracks": [
     {
       "added_at": "2025-11-17 15:48:56",
@@ -343,6 +343,22 @@
       "duration_ms": 105665,
       "name": "MONTAGEM SANTA FE 2",
       "url": "https://open.spotify.com/track/7EyTAAgH5jME3tKxbr8W12"
+    },
+    {
+      "added_at": "2026-03-27 16:00:08",
+      "album": {
+        "name": "MONTAGEM TENTA",
+        "url": "https://open.spotify.com/album/12PzbfrtUPfMa7iiDgv4zj"
+      },
+      "artists": [
+        {
+          "name": "merunes",
+          "url": "https://open.spotify.com/artist/6BVew7phcmD5R1VEKV4cxa"
+        }
+      ],
+      "duration_ms": 93038,
+      "name": "MONTAGEM TENTA - Slowed",
+      "url": "https://open.spotify.com/track/5WShZpWdfHKvWonA4ZUJHW"
     },
     {
       "added_at": "2025-07-25 18:46:04",
@@ -1775,26 +1791,6 @@
       "duration_ms": 170650,
       "name": "MONTAGEM ALUCINANTE",
       "url": "https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF"
-    },
-    {
-      "added_at": "2024-03-15 15:37:23",
-      "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 119231,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
     },
     {
       "added_at": "2025-02-07 20:43:03",

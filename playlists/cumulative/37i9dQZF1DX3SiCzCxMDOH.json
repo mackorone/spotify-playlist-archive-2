@@ -10667,6 +10667,24 @@
     },
     {
       "album": {
+        "name": "My musical expression",
+        "url": "https://open.spotify.com/album/0YlD2vE1pVBpKuxfwYWAP0"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256316,
+      "name": "My musical expression",
+      "url": "https://open.spotify.com/track/6Rm2AeALtJc9Cx3D5749yW"
+    },
+    {
+      "album": {
         "name": "My Reverie",
         "url": "https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8"
       },
@@ -11582,6 +11600,24 @@
       "duration_ms": 120714,
       "name": "Once Again, Somehow",
       "url": "https://open.spotify.com/track/0H2jEhHe67IsqUIkzd9c2j"
+    },
+    {
+      "album": {
+        "name": "Once I Was Told",
+        "url": "https://open.spotify.com/album/2PIPMABB1ye381WFjBuB7l"
+      },
+      "artists": [
+        {
+          "name": "Sidney Hatfield Trio",
+          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219708,
+      "name": "Once I Was Told",
+      "url": "https://open.spotify.com/track/6RU3vxGOSvRaUw4xWOQKqm"
     },
     {
       "album": {
@@ -15590,7 +15626,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 244579,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS"
@@ -17516,7 +17552,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 216566,
       "name": "When You Come Home",
       "url": "https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR"

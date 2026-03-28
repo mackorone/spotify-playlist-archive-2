@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Cloe Wilder
 
-1,038 songs - 2 day 7 hr 55 min
+1,039 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [I'm Not Your Girl](https://open.spotify.com/track/0odnQuixwTfcSO0bkZ1EfZ) | [Bonner Black](https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz) | [I'm Not Your Girl](https://open.spotify.com/album/0BuKUzoNyqcaxng1b77CF8) | 4:01 | 2023-08-04 | 2023-12-14 |
 | [I'm Sorry, Tokyo](https://open.spotify.com/track/31eHodIKm5jNVeXjhqevNU) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [I'm Sorry, Tokyo](https://open.spotify.com/album/3pBTeNfzCh6eu6ZyCtufac) | 3:34 | 2022-01-14 | 2022-04-16 |
 | [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 | 2024-03-08 | 2024-09-21 |
+| [Icarus](https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Icarus](https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn) | 4:25 | 2026-03-27 |  |
 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 | 2022-12-03 |
 | [If I Don’t Like You](https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [If I Don’t Like You](https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB) | 2:45 | 2024-03-15 | 2024-08-10 |
 | [if i had a wish...](https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS) | [Sloane Monroe](https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ) | [if i had a wish...](https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw) | 2:47 | 2025-05-30 | 2025-09-27 |
@@ -712,7 +713,7 @@
 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 | 2024-07-26 | 2025-02-18 |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-04 | 2022-06-04 |
 | [Pictures Of You](https://open.spotify.com/track/6Q1i73OuBudnyvDLyxdyMJ) | [Myya's Diary](https://open.spotify.com/artist/34InewAqwTV9yX2PCK3y77) | [Pictures Of You](https://open.spotify.com/album/4gxmr0oHbHJQ9cve16vfve) | 2:22 | 2025-01-24 | 2025-06-07 |
-| [Pindrop](https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Pindrop](https://open.spotify.com/album/6Evr4r8MxqnoEb1ttAVskr) | 2:48 | 2025-10-10 |  |
+| [Pindrop](https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Pindrop](https://open.spotify.com/album/6Evr4r8MxqnoEb1ttAVskr) | 2:48 | 2025-10-10 | 2026-03-28 |
 | [placeholder](https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [placeholder](https://open.spotify.com/album/5wIu0AYkYEuZ1tKg9PFsUd) | 3:35 | 2025-04-11 | 2025-07-19 |
 | [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-01-27 | 2023-04-15 |
 | [Please Don't Hate Me](https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Please Don't Hate Me](https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn) | 3:21 | 2026-01-16 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! SANTOS BRAVOS en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Paloma Morphy y EMJAY en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -774,7 +774,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180000,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/5XUUXpPgnar72nujg3wm3E"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
@@ -5107,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
+    },
+    {
+      "album": {
         "name": "Hola Senpai",
         "url": "https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4"
       },
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
@@ -7269,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "MISI\u00d3N IMPOSIBLE",
+        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "MISI\u00d3N IMPOSIBLE",
+      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+    },
+    {
+      "album": {
         "name": "MISS XV x 2",
         "url": "https://open.spotify.com/album/6NAoM8SewAHPxWPTTVSfKr"
       },
@@ -7884,6 +7920,28 @@
       "duration_ms": 158736,
       "name": "No Seas As\u00ed",
       "url": "https://open.spotify.com/track/502dC2IZ0seREbTF6OhBOQ"
+    },
+    {
+      "album": {
+        "name": "no te conviene",
+        "url": "https://open.spotify.com/album/1E2TZeXomKaymjFBRNSwZT"
+      },
+      "artists": [
+        {
+          "name": "Rafa Parra",
+          "url": "https://open.spotify.com/artist/5AuDNPVomwMxxDWbGt93Zg"
+        },
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "no te conviene",
+      "url": "https://open.spotify.com/track/1NN2bk1RlpKF11hGroafHI"
     },
     {
       "album": {
@@ -8978,7 +9036,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 216569,
       "name": "Prefiero Que Me Duela",
       "url": "https://open.spotify.com/track/1tkoq5jwdEpYsUdfqDqOIA"
@@ -9376,6 +9434,28 @@
       "duration_ms": 145714,
       "name": "qu\u00e9 raro es ser normal",
       "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
     },
     {
       "album": {
@@ -11468,7 +11548,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 153905,
       "name": "Traici\u00f3n",
       "url": "https://open.spotify.com/track/36ra3hMPRvKXvxRGwKwZSW"
@@ -11926,6 +12006,28 @@
       "duration_ms": 186617,
       "name": "Verano En NY",
       "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "album": {
+        "name": "VERTICAL",
+        "url": "https://open.spotify.com/album/4cWSo9DZ4PKmwm3tEBXjnQ"
+      },
+      "artists": [
+        {
+          "name": "Escamish",
+          "url": "https://open.spotify.com/artist/6eKWrVjzwlxaOTYLmUnIIT"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "Vertical",
+      "url": "https://open.spotify.com/track/200F6URh7u15BxsH7v9Lad"
     },
     {
       "album": {

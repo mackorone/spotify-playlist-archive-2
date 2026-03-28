@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: TJARK
 
-410 songs - 18 hr 34 min
+410 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Danke](https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Danke](https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t) | 2:34 | 2025-12-11 | 2026-02-06 |
 | [Danke für die Zeit](https://open.spotify.com/track/7C8b8QoAe3xuv2fi0PBzW7) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Danke für die Zeit](https://open.spotify.com/album/35JjZI9lEYb22g9S8XyLED) | 2:50 | 2025-11-13 | 2025-12-19 |
 | [darüber schlafen](https://open.spotify.com/track/4ukYKO5e1mMKoSUCr7nEO5) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [darüber schlafen](https://open.spotify.com/album/0BtFFhypiYIyaEUMspgQKe) | 2:18 | 2025-11-13 | 2026-02-06 |
+| [das größte was es gibt](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 3:02 | 2026-03-26 |  |
 | [Das ist ihr Leben](https://open.spotify.com/track/7ttoSa7JDjDzuNScgShppO) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Das ist ihr Leben](https://open.spotify.com/album/4oGWNzHM1a9GIHFSgmPHFW) | 2:22 | 2026-03-19 |  |
 | [Das Leben](https://open.spotify.com/track/4uCExAnSFZqLYiKTdcr83M) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Das Leben](https://open.spotify.com/album/16ltJ4OtzrxT7BX2yoA7Uz) | 2:19 | 2026-03-05 |  |
 | [Das Leben ist schon ernst genug](https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Das Leben ist schon ernst genug](https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk) | 2:21 | 2025-10-24 | 2025-11-21 |
@@ -322,7 +323,7 @@
 | [Scherben](https://open.spotify.com/track/4nlGk2Eg1rjXhU4wXcIO0Z) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [Scherben](https://open.spotify.com/album/1uKhs1Xn1h7iLDUdZ8D3D5) | 2:23 | 2025-10-24 | 2026-01-15 |
 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 | 2026-01-29 | 2026-03-06 |
 | [schwindelig \(omgomgomg\)](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:06 | 2026-03-05 |  |
-| [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 | 2026-02-19 |  |
+| [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2sVB84yuJRWCAHyPAK8RaI) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 | 2026-02-19 |  |
 | [SEEPFERDCHEN](https://open.spotify.com/track/0BLfV6baATssbWPe2Pfe1Q) | [COSTA](https://open.spotify.com/artist/0KW88WbljA61xuGltoU6Ss) | [SEEPFERDCHEN](https://open.spotify.com/album/5jWtGnf5VSbVsXfDRayQ5M) | 3:05 | 2026-01-29 | 2026-02-20 |
 | [SEHNSUCHT](https://open.spotify.com/track/23nvSc6l82ANajc3BVpHt4) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [SEHNSUCHT](https://open.spotify.com/album/258vc0HyhI0VhrJ3uNEeCE) | 3:31 | 2025-12-11 | 2026-01-15 |
 | [Self Love](https://open.spotify.com/track/6RLmM7sZsHBU8Xf7AHuFjU) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Self Love](https://open.spotify.com/album/1W7Hsbohdsm7E1sPTS12cd) | 2:07 | 2026-03-19 |  |
@@ -346,7 +347,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 3](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 0:00 | 2026-03-26 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 175786,
       "name": "Chloe In The Afternoon",
       "url": "https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 185320,
       "name": "I Am an Ape",
       "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
@@ -932,6 +932,28 @@
       "duration_ms": 154960,
       "name": "New York",
       "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
+    },
+    {
+      "album": {
+        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236460,
+      "name": "Now, Now (Live)",
+      "url": "https://open.spotify.com/track/7Bvi4kZarHzBvhDQ0ZXOum"
     },
     {
       "album": {
@@ -1416,6 +1438,28 @@
       "duration_ms": 244840,
       "name": "The Strangers",
       "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"
+    },
+    {
+      "album": {
+        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268999,
+      "name": "The Strangers (Live)",
+      "url": "https://open.spotify.com/track/52aSlPHLX3PpaDwS0GrDKL"
     },
     {
       "album": {

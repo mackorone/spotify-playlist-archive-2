@@ -1,6 +1,6 @@
 {
   "description": "Start you day with God and let these songs set you up to have a GOoD morning! ",
-  "num_followers": 121873,
+  "num_followers": 121882,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,26 @@
     {
       "added_at": "2026-03-23 15:10:13",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+        "name": "Rise My Soul, The Lord Is Risen",
+        "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
+      "duration_ms": 200415,
+      "name": "Rise My Soul, The Lord Is Risen",
+      "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
     },
     {
       "added_at": "2026-03-23 15:10:13",
@@ -691,26 +699,18 @@
     {
       "added_at": "2026-03-23 15:10:13",
       "album": {
-        "name": "Rise My Soul, The Lord Is Risen",
-        "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
       },
       "artists": [
         {
-          "name": "Matt Papa",
-          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
-        },
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        },
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 200415,
-      "name": "Rise My Soul, The Lord Is Risen",
-      "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2026-03-23 15:10:13",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-03-23 15:10:13",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+    },
+    {
+      "added_at": "2026-03-23 15:10:13",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 223695,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
-    },
-    {
-      "added_at": "2026-03-23 15:10:13",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2026-03-23 15:10:13",

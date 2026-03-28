@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-840 songs - 1 day 17 hr 42 min
+841 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 | 2024-05-31 |  |
 | [Puzzle \- 2024 Edit](https://open.spotify.com/track/7FyXbLwHkDF0HZl36wvRqV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Puzzle \(2024 Edit\)](https://open.spotify.com/album/65PUjwgG91udnF5gpXroOn) | 2:53 | 2024-07-26 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 | 2023-04-28 |
+| [Raindrops](https://open.spotify.com/track/0egvzw5Yk1e4iX4DFwM4kx) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ), [George Cooksey](https://open.spotify.com/artist/3MrpImJSBXDKugELTbGQKv) | [Raindrops](https://open.spotify.com/album/5giwuqu7WNmdKdndLbTBoJ) | 2:42 | 2026-03-27 |  |
 | [Rally Up!](https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [XI$OW](https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF) | [Rally Up!](https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW) | 1:33 | 2024-07-19 | 2025-01-08 |
 | [Rave Teacher](https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Rave Teacher](https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD) | 2:51 | 2024-06-21 | 2025-01-08 |
 | [Re:バース \(Re:Verse\)](https://open.spotify.com/track/6e2id3yy8lPVlcwHoihNcu) | [439\*hz](https://open.spotify.com/artist/6tuEZXomJaD6KkiajsGe8E) | [Re:バース \(Re:Verse\)](https://open.spotify.com/album/0y7KeMwNlhNLp4bShrqQpB) | 4:20 | 2025-09-05 |  |

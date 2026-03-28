@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,165 likes - 250 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,223 likes - 250 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 249 | [Allevating](https://open.spotify.com/track/4A0xVrc3chxxgPh8j6whrX) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Allevating](https://open.spotify.com/album/3CPzhdw9luAv9JPNOBx6qs) | 2:31 |
 | 250 | [Matte Dreams](https://open.spotify.com/track/2S9nxEBURjnZ6JCcol3qJO) | [Aemilune](https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9) | [Matte Dreams](https://open.spotify.com/album/48MhnWcgtQOKDC4IXhYSq6) | 2:27 |
 
-Snapshot ID: `AAAAAEumBoQMYRI94QYERRn5V4qox7/B`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

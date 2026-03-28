@@ -4,7 +4,7 @@
 
 > 
 
-307 songs - 19 hr 1 min
+308 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-08-20 | 2024-01-21 |
 | [Get Back](https://open.spotify.com/track/4lF4BSqTwEZyonn9UVBf0T) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Get Back](https://open.spotify.com/album/2V4c3y8bYtUdKTyXGCidr8) | 3:05 | 2025-10-05 |  |
 | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/track/0eL7XibRJtKYfWH5H0Fnk5) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN), [MariaDennis](https://open.spotify.com/artist/3YU24EoiqfIRzZ2RR1xsL1) | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/album/4leFDUKpsKCCwiBEpzDHIs) | 2:49 | 2024-02-14 | 2025-10-06 |
+| [Get Close](https://open.spotify.com/track/7IHeHb9qVqK3xbCggBmfIF) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg) | [Get Close](https://open.spotify.com/album/10lxKG4HAHMOWglWwYTYEr) | 3:14 | 2026-03-27 |  |
 | [Get Flavor](https://open.spotify.com/track/1cKJO9AfPPK1X58JBASqAl) | [Adaru](https://open.spotify.com/artist/6w8EDSvxku1HxRykFvPVDL) | [Get Flavor](https://open.spotify.com/album/4uZ31Ph9ssSSBgY2UOgekC) | 3:52 | 2026-02-11 |  |
 | [Get Hyped](https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Get Hyped](https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M) | 3:17 | 2024-11-18 |  |
 | [Get Myself](https://open.spotify.com/track/2SHGGS7IyPTDwbc0MBcRQG) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH) | [Get Myself](https://open.spotify.com/album/5Bd3iGGvC2pRbIV7nmaWpD) | 2:52 | 2025-10-05 |  |

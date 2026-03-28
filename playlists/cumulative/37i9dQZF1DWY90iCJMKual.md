@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Waiian, Bad Indie Eye
 
-482 songs - 1 day 2 hr 16 min
+483 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Musika](https://open.spotify.com/track/4jieuIRNXqqiWK8SDH1bN5) | [Jeff Grecia](https://open.spotify.com/artist/6Dg35SGkgpUJ2hGAYrx5Qa), [Blanko](https://open.spotify.com/artist/3uETMeCNufzNR3aJnzY3WM) | [Musika](https://open.spotify.com/album/2Mc1QZJkPoqOzI2E15Nv17) | 3:01 | 2025-09-19 | 2025-12-04 |
 | [my bad](https://open.spotify.com/track/3pNF853kMhVlJvlnDu2ImB) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [my bad](https://open.spotify.com/album/5sJF9sBGpdn1p7BMNB7oR7) | 3:12 | 2023-10-13 | 2024-02-07 |
 | [My Boo](https://open.spotify.com/track/1TbkeE5t46kxqRXzGpQ60t) | [Jr Crown](https://open.spotify.com/artist/3r0NbTTxtCBUyxcIR4prXr) | [My Boo](https://open.spotify.com/album/1WXRuW3UuCSp66ckCoZJFB) | 3:04 | 2024-07-01 | 2024-10-12 |
+| [My Girls](https://open.spotify.com/track/6uJuIxDkKyhWLTCyDu5jQN) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO), [FEIFEI](https://open.spotify.com/artist/30jze9BJJlYuJGAj6AHJZX) | [My Girls](https://open.spotify.com/album/4dfCaDY6CBONg0fT74FQEJ) | 3:16 | 2026-03-27 |  |
 | [My Shawty](https://open.spotify.com/track/48i1G5RkaJmgJ6MR7r4GUp) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB) | [My Shawty](https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D) | 3:16 | 2026-02-16 |  |
 | [Naisip](https://open.spotify.com/track/1XvPdfgQAUmJcJrZgegmJy) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Naisip](https://open.spotify.com/album/4ZRXusROXrJBuG1Nytcjqh) | 3:15 | 2024-03-19 | 2024-07-13 |
 | [Nakilala](https://open.spotify.com/track/5Qx8sgxnDQgMxJ3y2vStcU) | [KAISAI](https://open.spotify.com/artist/4EOmdPzt09dPEFC7IKz1Ei), [JC Torio](https://open.spotify.com/artist/0uoJZ8fHMx64axPxbkpCt7) | [Nakilala](https://open.spotify.com/album/50TXRjAq3Tcwi85343gOvG) | 3:45 | 2022-10-12 | 2023-05-18 |

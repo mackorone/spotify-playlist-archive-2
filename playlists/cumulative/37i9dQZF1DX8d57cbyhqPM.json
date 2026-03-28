@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Fally Ipupa.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Naza et Guy2bezbar.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 131138,
       "name": "Appelle les pompiers",
       "url": "https://open.spotify.com/track/4nf1IzVM8tyQenOW6chc2f"
@@ -1062,6 +1062,24 @@
       "duration_ms": 160307,
       "name": "BALLE DANS LE COEUR",
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+    },
+    {
+      "album": {
+        "name": "Ballon d'or",
+        "url": "https://open.spotify.com/album/1NGSSzBs0lR4RAN9WW4RVa"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135937,
+      "name": "Ballon d'or",
+      "url": "https://open.spotify.com/track/7hVTHdRfY2A5jGedvkqpu0"
     },
     {
       "album": {
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 144000,
       "name": "Casser ton dos (feat. Paulo Chakal)",
       "url": "https://open.spotify.com/track/4y7LEfB36mNKSiLN2ao3tR"
@@ -2630,6 +2648,24 @@
       "duration_ms": 172228,
       "name": "Ch\u00e9rie Coco",
       "url": "https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/3qJgwLs2UUJ1FQphe75cXO"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159520,
+      "name": "Cin\u00e9ma",
+      "url": "https://open.spotify.com/track/6jJSZ1F8R6ZuRhQcJa8ZLR"
     },
     {
       "album": {
@@ -14076,6 +14112,28 @@
       "duration_ms": 225882,
       "name": "Uzima",
       "url": "https://open.spotify.com/track/3fP4ZHQt9F7SjUwrrQDrBN"
+    },
+    {
+      "album": {
+        "name": "Va Dodo",
+        "url": "https://open.spotify.com/album/6MeSi13HRniM1kaq0rjkts"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160227,
+      "name": "Va Dodo",
+      "url": "https://open.spotify.com/track/79CVdODIrPD1wElYy8AROe"
     },
     {
       "album": {

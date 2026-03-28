@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -18306,7 +18306,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 150576,
       "name": "Diablota",
       "url": "https://open.spotify.com/track/5sv4Fmi0zlNMJm8JIRSfFM"
@@ -21117,6 +21117,24 @@
     },
     {
       "album": {
+        "name": "EL DUE\u00d1O DE TU AMOR (Cumbia 2026) [REBAJADA]",
+        "url": "https://open.spotify.com/album/2s30KrpMQvxxZhtf0G7HmT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC SOUND WOLF",
+          "url": "https://open.spotify.com/artist/0snS9S6OjHJvZfIt2CBa1M"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249335,
+      "name": "EL DUE\u00d1O DE TU AMOR (Cumbia 2026) - REBAJADA",
+      "url": "https://open.spotify.com/track/6fRyJT748jNo68evmuPHth"
+    },
+    {
+      "album": {
         "name": "PAPOTA",
         "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
       },
@@ -23644,6 +23662,24 @@
       "duration_ms": 209964,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A"
+    },
+    {
+      "album": {
+        "name": "Entre t\u00fa y yo",
+        "url": "https://open.spotify.com/album/45o7SNGzQtsqL8uNKXrwNs"
+      },
+      "artists": [
+        {
+          "name": "Tu Corrido Mx",
+          "url": "https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Entre t\u00fa y yo",
+      "url": "https://open.spotify.com/track/698k3R1bSsa8whxQLSp8fK"
     },
     {
       "album": {
@@ -28484,7 +28520,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -31325,7 +31361,7 @@
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 139734,
+      "duration_ms": 138833,
       "name": "IMU",
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },

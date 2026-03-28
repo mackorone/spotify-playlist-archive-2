@@ -20,10 +20,32 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 201949,
       "name": "American Love Song",
       "url": "https://open.spotify.com/track/6WsRA3jPlF1d5TKqzNWp0P"
+    },
+    {
+      "album": {
+        "name": "American Love Song",
+        "url": "https://open.spotify.com/album/1v87Db6C6ll3Ha7eZzEOOt"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201949,
+      "name": "American Love Song",
+      "url": "https://open.spotify.com/track/2qPRysyqvhLiZKK44fA2P4"
     },
     {
       "album": {
@@ -562,6 +584,28 @@
       "duration_ms": 233053,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
+    },
+    {
+      "album": {
+        "name": "She's A Sweetheart",
+        "url": "https://open.spotify.com/album/4wi5zpgsT4tZm0MRmkSBmB"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215753,
+      "name": "She's A Sweetheart",
+      "url": "https://open.spotify.com/track/55BuEPrfvpeYx5zUkRSoAS"
     },
     {
       "album": {

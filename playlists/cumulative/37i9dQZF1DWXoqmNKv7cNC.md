@@ -2,7 +2,7 @@
 
 ### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Mujeres mexicanas a todo volumen! The Warning en portada 💚
+> ¡Mujeres mexicanas a todo volumen! FLVCKKA en portada 💚
 
 1,635 songs - 3 day 16 hr 50 min
 
@@ -1588,7 +1588,7 @@
 | [What A Shame](https://open.spotify.com/track/2P23NryxqOfehkzAmgJyfv) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 5:00 | 2024-07-03 | 2024-08-08 |
 | [WM \(Wifey Material\)](https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [WM \(Wifey Material\)](https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT) | 2:41 | 2023-06-07 | 2023-10-05 |
 | [Wow](https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Wow](https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH) | 5:16 | 2023-06-07 | 2023-07-06 |
-| [XT4S1S](https://open.spotify.com/track/0Gv8aRFmJDfzgIaJAuJ4ZF) | [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Verano Danna](https://open.spotify.com/album/169hGsYdZtmGkNayeeQPeg) | 3:39 | 2026-03-09 |  |
+| [XT4S1S](https://open.spotify.com/track/0Gv8aRFmJDfzgIaJAuJ4ZF) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Verano Danna](https://open.spotify.com/album/169hGsYdZtmGkNayeeQPeg) | 3:39 | 2026-03-09 |  |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-09-07 | 2024-09-05 |
 | [XT4S1S](https://open.spotify.com/track/3snQoH7rfd9ho1sejpFeJ1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:39 | 2024-11-06 | 2024-12-05 |
 | [Y Ahora](https://open.spotify.com/track/2pDmAICdx2JV6TEwZR2Ki9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/66AvzyLo1w8c1EsejEY4Oj) | 3:12 | 2022-04-06 | 2022-05-05 |

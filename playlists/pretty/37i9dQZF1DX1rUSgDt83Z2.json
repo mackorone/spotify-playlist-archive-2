@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 45530,
+  "num_followers": 45537,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
-        "name": "Wat Is Dan Liefde",
-        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
-      },
-      "artists": [
-        {
-          "name": "Silver Metz",
-          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
-      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
-    },
-    {
-      "added_at": "2026-03-26 23:00:00",
-      "album": {
         "name": "Niet Voor Lief",
         "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 174448,
       "name": "Bang Dat Ik Je Stem Vergeet",
       "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
+    },
+    {
+      "added_at": "2026-03-26 23:00:00",
+      "album": {
+        "name": "Wat Is Dan Liefde",
+        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
+      },
+      "artists": [
+        {
+          "name": "Silver Metz",
+          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
+      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
     },
     {
       "added_at": "2026-03-26 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
-        "name": "Wat Als Ik Wat Mis",
-        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
-      },
-      "artists": [
-        {
-          "name": "Danilo Kuiters",
-          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
-        }
-      ],
-      "duration_ms": 165001,
-      "name": "Wat Als Ik Wat Mis",
-      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
-    },
-    {
-      "added_at": "2026-03-26 23:00:00",
-      "album": {
         "name": "Oktober",
         "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 196862,
       "name": "Ik Zal Er Zijn",
       "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
+    },
+    {
+      "added_at": "2026-03-26 23:00:00",
+      "album": {
+        "name": "Wat Als Ik Wat Mis",
+        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
+      },
+      "artists": [
+        {
+          "name": "Danilo Kuiters",
+          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
+        }
+      ],
+      "duration_ms": 165001,
+      "name": "Wat Als Ik Wat Mis",
+      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
     },
     {
       "added_at": "2026-03-26 23:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
-        "name": "Echte Liefde",
-        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
-      },
-      "artists": [
-        {
-          "name": "Maxim Froger",
-          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
-        }
-      ],
-      "duration_ms": 155724,
-      "name": "Echte Liefde",
-      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
-    },
-    {
-      "added_at": "2026-03-26 23:00:00",
-      "album": {
         "name": "Is Het Gek",
         "url": "https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
-        "name": "Alleen Maar Jou",
-        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
+        "name": "Echte Liefde",
+        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
       },
       "artists": [
         {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+          "name": "Maxim Froger",
+          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
         }
       ],
-      "duration_ms": 193388,
-      "name": "Alleen Maar Jou",
-      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
+      "duration_ms": 155724,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
     },
     {
       "added_at": "2026-03-26 23:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 168871,
       "name": "Alles Wat Ik Zoek - Radio Edit",
       "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
+    },
+    {
+      "added_at": "2026-03-26 23:00:00",
+      "album": {
+        "name": "Alleen Maar Jou",
+        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "Alleen Maar Jou",
+      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
     },
     {
       "added_at": "2026-03-26 23:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
+        "name": "Bennie",
+        "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 157302,
+      "name": "Bennie",
+      "url": "https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ"
+    },
+    {
+      "added_at": "2026-03-26 23:00:00",
+      "album": {
         "name": "Tijd Genoeg",
         "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
-        "name": "Bennie",
-        "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
+        "name": "Wegwerpliefde",
+        "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
       },
       "artists": [
         {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
         }
       ],
-      "duration_ms": 157302,
-      "name": "Bennie",
-      "url": "https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ"
+      "duration_ms": 181823,
+      "name": "Ik Heb Je Gemist",
+      "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
     },
     {
       "added_at": "2026-03-26 23:00:00",
@@ -863,34 +879,18 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
-        "name": "Wegwerpliefde",
-        "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
+        "name": "Plus 1",
+        "url": "https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE"
       },
       "artists": [
         {
-          "name": "Nienke Leone",
-          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+          "name": "De Troubadours",
+          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Ik Heb Je Gemist",
-      "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
-    },
-    {
-      "added_at": "2026-03-26 23:00:00",
-      "album": {
-        "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
-        "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Je Draagt Het Niet Alleen",
-      "url": "https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo"
+      "duration_ms": 183169,
+      "name": "Plus 1",
+      "url": "https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt"
     }
   ],
   "unique_name": "Helemaal NL",

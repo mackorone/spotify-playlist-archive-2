@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,622 likes - 100 songs - 4 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,621 likes - 104 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,9 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 98 | [All Black S580](https://open.spotify.com/track/4bzwrEaJHxhHa4rZyqAwHV) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [All Black S580](https://open.spotify.com/album/41ATHALK76eI8Fua5Y66BZ) | 2:58 |
 | 99 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 | 100 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 101 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
+| 102 | [DOUBLE UP](https://open.spotify.com/track/69rhulFgAVxD5pYKctdfqh) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:58 |
+| 103 | [BACK UP](https://open.spotify.com/track/3NHDEScXnHVLlvxPhfRsyi) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [BACK UP](https://open.spotify.com/album/0l6kXpMtRU6k0TvGBAmuAX) | 2:08 |
+| 104 | [Deep End](https://open.spotify.com/track/31FZEw4eoEZxWx0XUYnXP5) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Deep End](https://open.spotify.com/album/0OnbE1052iHPG1BLYE1KvK) | 2:47 |
 
-Snapshot ID: `AAAn7JFt3+EcmFt5eoUbq5jBNA9UJkXm`
+Snapshot ID: `AAAn8HnMBxio9mz/5lOgdumqGaQ5uny2`

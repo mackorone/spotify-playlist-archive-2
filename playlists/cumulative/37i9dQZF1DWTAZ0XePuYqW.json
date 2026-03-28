@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "Buddy's got that big energy. ",
+  "description": "Justine Skye's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -148,6 +148,28 @@
       "duration_ms": 228785,
       "name": "2002",
       "url": "https://open.spotify.com/track/0uxgHcgPwnssDCX3xeR3jJ"
+    },
+    {
+      "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lazy Jay",
+          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204956,
+      "name": "212",
+      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
     },
     {
       "album": {
@@ -2547,6 +2569,28 @@
     },
     {
       "album": {
+        "name": "Countdown",
+        "url": "https://open.spotify.com/album/50AJpCZEjNa941pyXEL2wF"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124508,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/2wZGmq3vcBixu4gnehL6D2"
+    },
+    {
+      "album": {
         "name": "Crave",
         "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
       },
@@ -2562,6 +2606,24 @@
       "duration_ms": 206360,
       "name": "Crave",
       "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
+    },
+    {
+      "album": {
+        "name": "State Of Emergency Vol 1.",
+        "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Critical Condition",
+      "url": "https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh"
     },
     {
       "album": {
@@ -3408,7 +3470,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 253725,
       "name": "Driving On Sand",
       "url": "https://open.spotify.com/track/1XKrSSrclVXSAsrTK0E6y9"
@@ -4042,7 +4104,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 165931,
       "name": "FITNESS FIRST",
       "url": "https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k"
@@ -5134,6 +5196,24 @@
       "duration_ms": 176101,
       "name": "Heart & Soul",
       "url": "https://open.spotify.com/track/1PWBYzmvcB8dTWG4QTplUC"
+    },
+    {
+      "album": {
+        "name": "CANDY",
+        "url": "https://open.spotify.com/album/2mFRV8KGxPzFSzGPqkuPxD"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172201,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/4Q63gQ3yLIUIGMSt4BYghb"
     },
     {
       "album": {
@@ -9272,7 +9352,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 210648,
       "name": "Problem - Edit",
       "url": "https://open.spotify.com/track/5QSNTp0H314gASHR10ompw"
@@ -11744,7 +11824,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"

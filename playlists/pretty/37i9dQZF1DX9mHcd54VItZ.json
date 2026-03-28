@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Blush",
-  "num_followers": 27110,
+  "num_followers": 27116,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,22 @@
     {
       "added_at": "2026-03-26 21:11:17",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "Vanfokkingtasties Akoesties",
+        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Vanfokkingtasties",
+          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
+        },
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 210520,
+      "name": "Dagdronk",
+      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
       "added_at": "2026-03-26 21:11:17",
@@ -347,22 +351,18 @@
     {
       "added_at": "2026-03-26 21:11:17",
       "album": {
-        "name": "Vanfokkingtasties Akoesties",
-        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Vanfokkingtasties",
-          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
-        },
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Dagdronk",
-      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2026-03-26 21:11:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 146 songs - 8 hr 37 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 147 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 12 | [You've Changed](https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2) | [You've Changed](https://open.spotify.com/album/3Znjs81cIbbQKjJFd3yh0n) | 4:04 |
 | 13 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 |
 | 14 | [SLOW MOTION](https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [SLOW MOTION](https://open.spotify.com/album/7k2W3QNQoaesDP3UCg0oDW) | 2:35 |
-| 15 | [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 |
-| 16 | [my bad](https://open.spotify.com/track/5kU5WeQMvHhDICBqyFRwLm) | [frderyk](https://open.spotify.com/artist/0k839yxBiRvXEkxubBP1LL), [sylenthell](https://open.spotify.com/artist/4epE4ACXZZkbGDL97HKsvX), [Ar!n](https://open.spotify.com/artist/4W0GJARpgQOAjfbaxLQODl) | [XD](https://open.spotify.com/album/3VITONpFw08wyFI7flouGN) | 1:53 |
-| 17 | [Prada Jacket](https://open.spotify.com/track/49zj1xPxYmoMWTe7yBffas) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [Prada Jacket](https://open.spotify.com/album/53ygVkYNSNF1EYs2mIt5h6) | 2:16 |
-| 18 | [BEFORE I CAN TELL](https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [BEFORE I CAN TELL](https://open.spotify.com/album/1xGCLvUXuxrlY6V7ZYLvwX) | 4:25 |
-| 19 | [Mi piace quando ridi](https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Mi piace quando ridi](https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki) | 2:58 |
+| 15 | [Mi piace quando ridi](https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Mi piace quando ridi](https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki) | 2:58 |
+| 16 | [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 |
+| 17 | [my bad](https://open.spotify.com/track/5kU5WeQMvHhDICBqyFRwLm) | [frderyk](https://open.spotify.com/artist/0k839yxBiRvXEkxubBP1LL), [sylenthell](https://open.spotify.com/artist/4epE4ACXZZkbGDL97HKsvX), [Ar!n](https://open.spotify.com/artist/4W0GJARpgQOAjfbaxLQODl) | [XD](https://open.spotify.com/album/3VITONpFw08wyFI7flouGN) | 1:53 |
+| 18 | [Prada Jacket](https://open.spotify.com/track/49zj1xPxYmoMWTe7yBffas) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [Prada Jacket](https://open.spotify.com/album/53ygVkYNSNF1EYs2mIt5h6) | 2:16 |
+| 19 | [BEFORE I CAN TELL](https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [BEFORE I CAN TELL](https://open.spotify.com/album/1xGCLvUXuxrlY6V7ZYLvwX) | 4:25 |
 | 20 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 |
-| 21 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 |
-| 22 | [Rainy Night](https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Rainy Night](https://open.spotify.com/album/0THtbTaSYoMWvxTfVC3Ui1) | 3:43 |
-| 23 | [Spiraling](https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l) | [N.A.S.P.](https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl) | [Spiraling](https://open.spotify.com/album/3NGzGeSEAGmsTIdOD4cygO) | 4:24 |
-| 24 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 |
+| 21 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 |
+| 22 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 |
+| 23 | [Rainy Night](https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Rainy Night](https://open.spotify.com/album/0THtbTaSYoMWvxTfVC3Ui1) | 3:43 |
+| 24 | [Spiraling](https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l) | [N.A.S.P.](https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl) | [Spiraling](https://open.spotify.com/album/3NGzGeSEAGmsTIdOD4cygO) | 4:24 |
 | 25 | [A Love That's Real](https://open.spotify.com/track/3m2KYkCC9SVAfvPlpwK9Qv) | [Eggmen Road](https://open.spotify.com/artist/58VvtUuNlV1hC5t0lOvyvE) | [Love Finds a Way](https://open.spotify.com/album/3ArJCAmCb2ho4K7TYtlWQj) | 2:29 |
 | 26 | [White Lion Phone Call](https://open.spotify.com/track/5dR2BQ8mpRFfxYJ0Rr1Sf5) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 2:42 |
 | 27 | [You're Leaving](https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Andrea Pullone](https://open.spotify.com/artist/5qu2na5lSZrhmvL8OtvUks), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [You're Leaving](https://open.spotify.com/album/4q1tPf6cWNrKRPAMKa70WD) | 3:47 |
@@ -154,5 +154,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 144 | [Sei il mio raggio di sole scuro](https://open.spotify.com/track/1ugUprOOHn9mvIUtwzVOwG) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sei il mio raggio di sole scuro](https://open.spotify.com/album/0TheDdyv0BfxCpZoRqWUNl) | 2:51 |
 | 145 | [Castle Treasure](https://open.spotify.com/track/61e5SSs901lBfFpnGTlL8j) | [Pernoste](https://open.spotify.com/artist/1ZphGjO7Q9HRDSBaxgkAT8) | [Even Love](https://open.spotify.com/album/4oLR1DUvEbLXlBDluodmZ0) | 7:00 |
 | 146 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 |
+| 147 | [Occhi D’argento](https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Occhi D’argento](https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1) | 2:41 |
 
-Snapshot ID: `AAASU6p8zTVzTj4pq5xo9+wAr/D6bTyo`
+Snapshot ID: `AAASVzwoxKgZd4oTC0GFcR9M47bmCnxr`

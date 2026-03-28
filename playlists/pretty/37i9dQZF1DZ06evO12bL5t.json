@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 142441,
+  "num_followers": 142456,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAACzo2sv3AW9ZX2nreRFO3es",
+  "snapshot_id": "acR3AAAAAAAOwJLXIVASL9Psi7aiBmP5",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Que Fuera",
-        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Ni Que Fuera",
-      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL KARMA",
         "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Que Fuera",
+        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Ni Que Fuera",
+      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 182454,
-      "name": "91",
-      "url": "https://open.spotify.com/track/0DzZM9jFvFn0SyoeFLsrPC"
+      "duration_ms": 232975,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 232975,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r"
+      "duration_ms": 182454,
+      "name": "91",
+      "url": "https://open.spotify.com/track/0DzZM9jFvFn0SyoeFLsrPC"
     },
     {
       "added_at": null,

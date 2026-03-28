@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,044 likes - 38 songs - 1 hr 55 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,044 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 10 | [Nine One One](https://open.spotify.com/track/2ZuMjRHQJzH04ECcmrjOa4) | [Cizzzla](https://open.spotify.com/artist/7H18N6EUyYiLI57t6H4DCt) | [Nine One One](https://open.spotify.com/album/0zlprCPsycOMzONMKNmFJv) | 2:34 |
 | 11 | [Titi Lai](https://open.spotify.com/track/3jmRFcW8klUZuOJFhJ3qXl) | [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv), [Idin Gorji](https://open.spotify.com/artist/1SBoQTgHLHfOY6bKVc5MeR) | [Titi Lai](https://open.spotify.com/album/3nOrdZ0Tg9cHZQXhSPRjOg) | 2:10 |
 | 12 | [Show Me](https://open.spotify.com/track/5GnoOIhMS3GEMgP9PK32Xl) | [vemmu](https://open.spotify.com/artist/4N6M3LwwnTD35I4CiCkGRn) | [Show Me](https://open.spotify.com/album/27GYk0nnpHMauxSFljlDqP) | 3:31 |
-| 13 | [Track 2](https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 0:00 |
+| 13 | [Getaway](https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 2:53 |
 | 14 | [Don't Want None](https://open.spotify.com/track/5HDMa2OmaEQht0QpQ9XRgk) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Dale Move](https://open.spotify.com/artist/6F3eahZ7vKboOqmPMIoGoh) | [Don't Want None](https://open.spotify.com/album/5sBW99TgrdXm3NPbvLjnzS) | 3:30 |
 | 15 | [Lily At The Valley](https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lily At The Valley](https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S) | 3:58 |
 | 16 | [Blow A Kiss](https://open.spotify.com/track/6nzgYLwltjNf0YINgYSDPa) | [MÄNCINØ](https://open.spotify.com/artist/0uVntXgdd8wHM2cKmKXGj2), [Cleio Records](https://open.spotify.com/artist/5nUU41Dokk4ZC0eTXSP10e) | [Blow A Kiss](https://open.spotify.com/album/3lq74opXqplanmEbjnkeZA) | 2:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Con Yeison Jimenez en portada 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,657 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,758 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 11 | [Me Retiré](https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Me Retiré](https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx) | 2:04 |
 | 12 | [Stylacho](https://open.spotify.com/track/5t0GQz0k1NW89N0cxFqlth) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Stylacho](https://open.spotify.com/album/5Y15IFNMM01qtXOHS9bnXi) | 2:45 |
 | 13 | [Qué Día Es Hoy](https://open.spotify.com/track/5PB1ITleNasy7UMYEaBWkL) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ) | 2:59 |
-| 14 | [El Mozo](https://open.spotify.com/track/3JneBHxVFNoys9wYrOg4cM) | [Daniel Merak](https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK), [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [El Mozo](https://open.spotify.com/album/4uquyLXvfIUlXkeZQqc8ss) | 3:24 |
-| 15 | [DIME QUE PREFIERES](https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [DIME QUE PREFIERES](https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq) | 3:21 |
+| 14 | [Te Quiero Ver Campeón \(feat\. Paola Jara, Jhonny Rivera, Jhon Alex Castaño, LUISITO MUÑOZ, Ciro Quiñonez, Francy & Arelys Henao\)](https://open.spotify.com/track/2xqZZ53IEGNM0W6aSG2Z4U) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Te Quiero Ver Campeón \(feat\. Paola Jara, Jhonny Rivera, Jhon Alex Castaño, LUISITO MUÑOZ, Ciro Quiñonez, Francy & Arelys Henao\)](https://open.spotify.com/album/47WggUhQL0rjcyZvldMnHz) | 3:01 |
+| 15 | [El Mozo](https://open.spotify.com/track/3JneBHxVFNoys9wYrOg4cM) | [Daniel Merak](https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK), [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [El Mozo](https://open.spotify.com/album/4uquyLXvfIUlXkeZQqc8ss) | 3:24 |
 | 16 | [Mujeriego](https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mujeriego](https://open.spotify.com/album/7zkCZgGHkGyzBfLCoTastp) | 3:12 |
 | 17 | [Triple Lavada](https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Triple Lavada](https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P) | 2:45 |
 | 18 | [Un Perro Enamorado](https://open.spotify.com/track/3kcr3teEgyTOVIAxMPOPeO) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 84 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 |
 | 85 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 |
 
-Snapshot ID: `AAAAAFxFu8NKyow6EPxJb3bA/+ghXXBo`
+Snapshot ID: `AAAAAGBFLrpGW3cPQgCVt1NcOsILv9Bq`

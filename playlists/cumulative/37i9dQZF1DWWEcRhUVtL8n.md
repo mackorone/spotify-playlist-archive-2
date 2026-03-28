@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcolm Todd
 
-2,346 songs - 5 day 4 hr 56 min
+2,347 songs - 5 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,7 +790,7 @@
 | [Fuzzy](https://open.spotify.com/track/6js5G0CuansIF9BHyXk4uV) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Fuzzy](https://open.spotify.com/album/0lBPwTENDt5aDVWCfizuGU) | 2:37 | 2021-07-02 | 2022-04-08 |
 | [Gambling Addiction / eleven elevens](https://open.spotify.com/track/1ffUWQfh7ErLeD2Tzhcl5x) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:07 | 2022-03-04 | 2022-04-21 |
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2021-05-05 | 2022-04-14 |
-| [Games](https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Games](https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z) | 2:45 | 2026-03-20 |  |
+| [Games](https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Games](https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z) | 2:45 | 2026-03-20 | 2026-03-28 |
 | [Garden](https://open.spotify.com/track/0oRKaRJ4wIj7Rh29xRCLyK) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Garden](https://open.spotify.com/album/0dG5hvAPBxw6YpcGXujBUo) | 2:46 | 2021-02-25 | 2021-02-26 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-02-08 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/5tVbKij7vNLI0psFkkzyew) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:13 | 2020-10-20 | 2021-06-03 |
@@ -1176,6 +1176,7 @@
 | [King of the Basement](https://open.spotify.com/track/2YGSiFpIrhHHzpogSahLK5) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/4yT6C0MlsJ7Z4LniiePQM2) | 4:24 | 2021-05-03 | 2021-12-21 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-03-07 | 2021-05-27 |
 | [Kiss Me When I'm Dead](https://open.spotify.com/track/1xc9R2MMnU9KtTWIPFoiJ0) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Kiss Me When I'm Dead](https://open.spotify.com/album/2gishbSfxJCY21C7hUEwyv) | 2:30 | 2021-09-28 | 2021-10-16 |
+| [Kiss&Tell](https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9) | [GUINEVERE](https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood) | [Kiss&Tell](https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR) | 3:45 | 2026-03-27 |  |
 | [kissy kissy](https://open.spotify.com/track/4jhcEBwfAl4n6nAG1F4QT3) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 2:26 | 2021-02-19 | 2022-05-21 |
 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-06 | 2024-07-18 |
 | [Know You](https://open.spotify.com/track/4O0BeqEIU7KU2l8gQiO1eD) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Know You](https://open.spotify.com/album/6vkyH88dDtIfuhLNYXerEZ) | 3:25 | 2021-02-22 | 2021-02-26 |

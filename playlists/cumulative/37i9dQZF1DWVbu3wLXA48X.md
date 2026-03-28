@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: girlsweetvoiced
 
-2,636 songs - 6 day 14 hr 12 min
+2,636 songs - 6 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -921,6 +921,7 @@
 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 | 2021-12-16 | 2022-01-29 |
 | [Guericke's Unicorn](https://open.spotify.com/track/30P4n3zltqpxxCbeSijIcc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Guericke's Unicorn](https://open.spotify.com/album/248iXt2D1OnUyn5rbRNyGV) | 4:24 | 2025-02-14 | 2025-04-04 |
 | [Guess I'll Leave](https://open.spotify.com/track/49bCaCAiNNtJUgkfUjKKOt) | [Funny Death](https://open.spotify.com/artist/0eNACJMzyrU7OO31POSvIV) | [Funny Death](https://open.spotify.com/album/3Z7tXmTbhWS7JrPMqFcVT6) | 4:26 | 2022-01-13 | 2022-03-11 |
+| [Guilty](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 2:36 | 2026-03-26 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-19 | 2024-09-21 |
 | [Guitar Song \- Demo](https://open.spotify.com/track/70A6C2nGJM45ZHKScagcsm) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [Guitar Song \(Demo\)](https://open.spotify.com/album/0sOti4y2vOKs2nqZAMUFWW) | 5:09 | 2022-06-03 | 2022-07-02 |
 | [Gummy](https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 3:01 | 2022-06-10 | 2022-07-30 |
@@ -1837,6 +1838,7 @@
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-13 | 2025-06-14 |
 | [Remember! \- English Version](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 | 2025-06-20 | 2025-09-05 |
 | [Residue](https://open.spotify.com/track/3FqdsybsFLPLP9z6cvgRNl) | [Midnight Fusic](https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL) | [Residue](https://open.spotify.com/album/25erL3lsyVhn3UhkzNs0YN) | 5:13 | 2025-02-21 | 2025-04-12 |
+| [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 | 2026-03-26 |  |
 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-05-26 | 2023-07-07 |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-04 | 2025-01-25 |
 | [Return of Youth](https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Return of Youth](https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC) | 7:38 | 2025-05-23 | 2025-07-25 |
@@ -2375,8 +2377,6 @@
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-09-01 |
 | [Towers](https://open.spotify.com/track/4rMzUBEVw3YaU7xelkCgYR) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Towers](https://open.spotify.com/album/7gW79aYrfQFx0eAyh8Ag1e) | 4:59 | 2024-06-14 | 2024-07-12 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-19 | 2025-11-15 |
-| [Track 10](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 0:00 | 2026-03-26 |  |
-| [Track 5](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 0:00 | 2026-03-26 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Transmuted Matter](https://open.spotify.com/track/5uC8IfgKCq9RJucC3hNkOM) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 4:16 | 2025-05-29 | 2025-06-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-06-06 |

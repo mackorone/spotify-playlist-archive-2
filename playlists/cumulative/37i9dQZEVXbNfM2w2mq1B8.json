@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "3 \u0412 1",
       "url": "https://open.spotify.com/track/0eMGY2LlWkgklI8WhHjR0y"
@@ -9644,7 +9644,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 213493,
       "name": "Doseshtay se sam",
       "url": "https://open.spotify.com/track/0FpscyomAHJAkvHjYbpqwE"
@@ -22508,7 +22508,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -22792,7 +22792,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203571,
       "name": "Moeto slabo myasto",
       "url": "https://open.spotify.com/track/6o1w1oqUMiJI1Kp0s0ksRK"
@@ -24313,6 +24313,28 @@
     },
     {
       "album": {
+        "name": "Neka da e tayno",
+        "url": "https://open.spotify.com/album/5KIfOsIKCtlsN41a36zuR3"
+      },
+      "artists": [
+        {
+          "name": "Desi Slava",
+          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
+        },
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215570,
+      "name": "Neka da e tayno",
+      "url": "https://open.spotify.com/track/0ZqQkgWf2QGfI43fnq0m8C"
+    },
+    {
+      "album": {
         "name": "SAUCE KID 4",
         "url": "https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE"
       },
@@ -25438,7 +25460,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -40938,7 +40960,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
       "url": "https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo"
@@ -41460,7 +41482,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 190632,
       "name": "\u0412\u0441\u0435 \u043f\u043e \u0436\u0438\u0432\u043e\u0442\u0430",
       "url": "https://open.spotify.com/track/0S708VDmTF0V7y6HIfPVNq"
@@ -41978,7 +42000,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 160529,
       "name": "\u0414\u0436\u0443\u043c\u0431\u0430\u0440\u0435",
       "url": "https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq"
@@ -42032,7 +42054,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 198765,
       "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
       "url": "https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt"
@@ -43692,7 +43714,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178285,
       "name": "\u041b\u043e\u043a\u0443\u043c\u0438",
       "url": "https://open.spotify.com/track/4pOd7amkDbZm0xO0K6g6Z2"
@@ -45900,7 +45922,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 178461,
       "name": "\u041f\u0438\u0442\u0430\u0448 \u043b\u0438 \u043c\u0435",
       "url": "https://open.spotify.com/track/4np8dpfv5qahhkOSzgsMFL"

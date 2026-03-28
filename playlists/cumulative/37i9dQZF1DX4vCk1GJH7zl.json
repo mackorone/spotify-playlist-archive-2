@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Paul McCartney",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -468,6 +468,24 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "album": {
@@ -949,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Days We Left Behind",
+        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+    },
+    {
+      "album": {
         "name": "young forever",
         "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
       },
@@ -1353,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Fantasia Sombria",
+        "url": "https://open.spotify.com/album/1JhoGxuWYWd3ALU3HRlgMd"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522940,
+      "name": "Fantasia Sombria",
+      "url": "https://open.spotify.com/track/4ElKt1mKJj9sqORMdsyk5a"
+    },
+    {
+      "album": {
         "name": "Solo Ma Non Troppo",
         "url": "https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV"
       },
@@ -1426,7 +1480,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 175675,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/37aVOlxyBrguxlJHh5rDbc"
@@ -1506,7 +1560,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 228920,
       "name": "Hoje eu n\u00e3o vim falar de Amor",
       "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
@@ -1640,7 +1694,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 212297,
       "name": "Invis\u00edvel",
       "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"

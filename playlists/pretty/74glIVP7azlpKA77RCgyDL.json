@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9085,
+  "num_followers": 9086,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAPwtl+3Ly58v0j7oxlEw90ZdalSVu5",
+  "snapshot_id": "AAAPzJKktOlPvhBZqpUFtketzK1SgNPo",
   "tracks": [
+    {
+      "added_at": "2026-03-27 19:09:38",
+      "album": {
+        "name": "Ulvgjeld & Blodsodel",
+        "url": "https://open.spotify.com/album/1puFNMqJXaDz3qFieW0W6J"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 342567,
+      "name": "Ulvgjeld & Blodsodel",
+      "url": "https://open.spotify.com/track/1iEJL4YTZ8pJY43urQYGzJ"
+    },
+    {
+      "added_at": "2026-03-27 19:08:46",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 229227,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL"
+    },
+    {
+      "added_at": "2026-03-27 19:09:00",
+      "album": {
+        "name": "The Way Things Should End",
+        "url": "https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY"
+      },
+      "artists": [
+        {
+          "name": "Torn Open",
+          "url": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX"
+        }
+      ],
+      "duration_ms": 198685,
+      "name": "The Way Things Should End",
+      "url": "https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1"
+    },
+    {
+      "added_at": "2026-03-27 19:09:52",
+      "album": {
+        "name": "Engines of Demolition",
+        "url": "https://open.spotify.com/album/1KHpXJzeuwhXrgNBiaapXj"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Above & Below",
+      "url": "https://open.spotify.com/track/2RVkLXKlvg5ZXmJ4eT6Tv9"
+    },
+    {
+      "added_at": "2026-03-27 19:09:11",
+      "album": {
+        "name": "AUREA",
+        "url": "https://open.spotify.com/album/2pej0tjRuzdX3ewQEwRS6O"
+      },
+      "artists": [
+        {
+          "name": "Black Spikes",
+          "url": "https://open.spotify.com/artist/5OHs983geoRmnuuRVfB2XQ"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "AUREA",
+      "url": "https://open.spotify.com/track/0i2M5fjYTAtcihXqwLQxZ8"
+    },
+    {
+      "added_at": "2026-03-27 19:09:23",
+      "album": {
+        "name": "Ret\u00e9n",
+        "url": "https://open.spotify.com/album/74lx9bx5nXqvJfR1QUQI1e"
+      },
+      "artists": [
+        {
+          "name": "Quiet Fear",
+          "url": "https://open.spotify.com/artist/7f9rUMEhQtAGij5enAodnf"
+        }
+      ],
+      "duration_ms": 182825,
+      "name": "Ret\u00e9n",
+      "url": "https://open.spotify.com/track/2yzBJIHvZ5Shfw9NWPI7LS"
+    },
     {
       "added_at": "2026-03-20 18:54:46",
       "album": {

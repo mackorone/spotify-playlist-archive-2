@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "RUIN BAR",
+        "url": "https://open.spotify.com/album/6WxMxvlnVzsjBb7fXeYezZ"
+      },
+      "artists": [
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136650,
+      "name": "RUIN BAR",
+      "url": "https://open.spotify.com/track/1gW0fic25beFAdFK2vAi0o"
+    },
+    {
+      "album": {
         "name": "Sands Of Time",
         "url": "https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi"
       },

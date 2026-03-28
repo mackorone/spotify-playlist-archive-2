@@ -67859,6 +67859,32 @@
     },
     {
       "album": {
+        "name": "WE LIKE TO PARTY",
+        "url": "https://open.spotify.com/album/5OqY4CChAZ0dvpQve6Tlz6"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "WE LIKE TO PARTY",
+      "url": "https://open.spotify.com/track/0jF8eTODTY8W9BuGndetBy"
+    },
+    {
+      "album": {
         "name": "WE NOT DONE",
         "url": "https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo"
       },

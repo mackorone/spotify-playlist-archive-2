@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Encore ABJ",
+  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 169014,
       "name": "Baazigar",
       "url": "https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG"
@@ -5486,6 +5486,24 @@
       "duration_ms": 136421,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/7jCI1QWpKRWyepOBvgHS2s"
+    },
+    {
+      "album": {
+        "name": "Seedha Mai Kal Jackson",
+        "url": "https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155600,
+      "name": "Seedha Mai Kal Jackson",
+      "url": "https://open.spotify.com/track/2ZD1MBpVH33IXunTpuzA0y"
     },
     {
       "album": {

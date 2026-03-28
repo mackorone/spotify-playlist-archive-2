@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 524,
+  "num_followers": 525,
   "original_name": "u pwetty",
   "owner": {
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAVvtpXqGuAMHs9uqzyK18Kt7rMjon9",
+  "snapshot_id": "AAAVwVrQxZGa9QKz0Ilf2XEik0Ri/uc7",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -3123,6 +3123,54 @@
       "duration_ms": 162352,
       "name": "E.L.I",
       "url": "https://open.spotify.com/track/4nyxCD4FCZveMonOlO7qgu"
+    },
+    {
+      "added_at": "2026-03-27 04:35:09",
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI"
+    },
+    {
+      "added_at": "2026-03-27 04:35:23",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Killa",
+          "url": "https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz"
+        }
+      ],
+      "duration_ms": 192275,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R"
+    },
+    {
+      "added_at": "2026-03-27 04:35:26",
+      "album": {
+        "name": "QQDM?",
+        "url": "https://open.spotify.com/album/1gE9VgPQWKVsZfST7jTKSw"
+      },
+      "artists": [
+        {
+          "name": "majorea",
+          "url": "https://open.spotify.com/artist/2Jmw8pBHcLa6JMCwk3rmRq"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "QQDM?",
+      "url": "https://open.spotify.com/track/3SKUMB5tpdr4UT2BIq3juc"
     }
   ],
   "unique_name": "u pwetty",

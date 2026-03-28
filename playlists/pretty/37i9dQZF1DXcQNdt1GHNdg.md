@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,734 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,803 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 2 | [God Did](https://open.spotify.com/track/6uXLkl9s5ER4ztOT77d1pa) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [God Did](https://open.spotify.com/album/5WVHUqcMoOmqdBlhwkEbCN) | 2:38 |
 | 3 | [Dhurandhar The Revenge \- Aari Aari \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/track/2SeUci6OXx1ztZiFiDIyX5) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb) | [Dhurandhar The Revenge \- Aari Aari \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/album/2xH6R3iKLYdEkKiCwiTZYL) | 3:30 |
 | 4 | [5\-7](https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [5\-7](https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK) | 2:34 |
-| 5 | [Big Shot](https://open.spotify.com/track/5JRWkbK0vvCP50ow1QfF3A) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [YAADA](https://open.spotify.com/artist/1hCzZYgBEWZzLeGo93KSmY) | [Big Shot](https://open.spotify.com/album/5maqmL5k0QvRf2RRsqwd9J) | 2:57 |
+| 5 | [Big Shot](https://open.spotify.com/track/5JRWkbK0vvCP50ow1QfF3A) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [YAADA](https://open.spotify.com/artist/2dU9wpbCMJYxx6FvM4jBON) | [Big Shot](https://open.spotify.com/album/5maqmL5k0QvRf2RRsqwd9J) | 2:57 |
 | 6 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
 | 7 | [Masle](https://open.spotify.com/track/07uzhqz2HYgso40g6o80R6) | [Jai Sidhu](https://open.spotify.com/artist/3gLCQjgXhuQsRrnsFAzXlR), [Yamdoot](https://open.spotify.com/artist/5PTAr7X2GnIupP3NXudjRg) | [Masle](https://open.spotify.com/album/7xfNnDReFR8wrlo4WqCfLl) | 2:13 |
 | 8 | [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:26 |
-| 9 | [Daaka Daaku Da](https://open.spotify.com/track/72zovf8xydqfbLhWwJWhn9) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Ritu Bhaggi](https://open.spotify.com/artist/0HhjkugAR8RSgHoBqzPd0R), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix) | [Daaka Daaku Da](https://open.spotify.com/album/1KWbeJYu9LwpBEQbxsOf8Z) | 2:40 |
+| 9 | [Alpha Mode](https://open.spotify.com/track/4ZLXfpXFRGGB6xcF13ngI1) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Alpha Mode](https://open.spotify.com/album/6a8KtASM20gwMywGMTfjqA) | 2:55 |
 | 10 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 11 | [Asla](https://open.spotify.com/track/2evIekFZQjJZJSetzjUBgA) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Asla](https://open.spotify.com/album/48ksAgJxBlNxQhjAb5Im8Z) | 2:06 |
 | 12 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 |
 | 50 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 
-Snapshot ID: `AAAAAEiIogwo7XVmCMFayhg3dWZfgx0t`
+Snapshot ID: `AAAAAKSYsE9s5FzV4dM9D2aXaOa0saNe`

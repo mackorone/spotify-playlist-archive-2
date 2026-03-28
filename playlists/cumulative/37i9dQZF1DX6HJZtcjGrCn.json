@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 196697,
       "name": "Hemingway",
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
@@ -5842,7 +5842,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
@@ -5882,6 +5882,24 @@
       "duration_ms": 247244,
       "name": "Os Bravos \u2013 II. RAIA",
       "url": "https://open.spotify.com/track/2xNr71RUJ0Q6o6rsN4fwfb"
+    },
+    {
+      "album": {
+        "name": "escrevi can\u00e7\u00f5es e s\u00e3o todas iguais",
+        "url": "https://open.spotify.com/album/12S42c1GgDl8gkDpRxjuyN"
+      },
+      "artists": [
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169814,
+      "name": "outro fim",
+      "url": "https://open.spotify.com/track/7AdFZaaQbSzJdpU0JtnRMm"
     },
     {
       "album": {
@@ -8030,24 +8048,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "album": {
-        "name": "escrevi can\u00e7\u00f5es e s\u00e3o todas iguais",
-        "url": "https://open.spotify.com/album/12S42c1GgDl8gkDpRxjuyN"
-      },
-      "artists": [
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7AdFZaaQbSzJdpU0JtnRMm"
     },
     {
       "album": {

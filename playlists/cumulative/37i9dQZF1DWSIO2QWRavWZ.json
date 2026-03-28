@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: FLO",
+  "description": "New music from your favorite women.  Cover: Jenevieve",
   "name": "Queen",
   "tracks": [
     {
@@ -2303,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "State Of Emergency Vol 1.",
+        "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Critical Condition",
+      "url": "https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh"
+    },
+    {
+      "album": {
         "name": "Crossfaded",
         "url": "https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S"
       },
@@ -4313,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "He's Not All That",
+        "url": "https://open.spotify.com/album/5ox7vc3X9DRBZb8r9IiOta"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "He's Not All That",
+      "url": "https://open.spotify.com/track/01HKbGG3qQdMsTQav30R9z"
+    },
+    {
+      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -4324,7 +4360,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 228842,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
@@ -7732,7 +7768,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192852,
       "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
       "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
@@ -8982,10 +9018,36 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 182400,
       "name": "Shame",
       "url": "https://open.spotify.com/track/65P4otXfzcWfo031JVtwDU"
+    },
+    {
+      "album": {
+        "name": "Shame (feat. BunnaB)",
+        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Shame (feat. BunnaB)",
+      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
     },
     {
       "album": {
@@ -10226,7 +10288,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 159428,
       "name": "The Way I Love You - Acoustic",
       "url": "https://open.spotify.com/track/2a1YoHUcoZeQMCDT5jIRMr"
@@ -10440,7 +10502,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 163291,
       "name": "TOO LATE",
       "url": "https://open.spotify.com/track/1lfQeVezs2zGqPUWrVhQ8c"
@@ -10501,6 +10563,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/7asQi6ABuMJaubEiykeq3l"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1ukZdmbOo4MeK64kvpT3Gh"
+    },
+    {
+      "album": {
         "name": "Touch bby",
         "url": "https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd"
       },
@@ -10512,7 +10592,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 125954,
       "name": "Touch bby",
       "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
@@ -10614,6 +10694,24 @@
       "duration_ms": 209933,
       "name": "Triggered (freestyle)",
       "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
+    },
+    {
+      "album": {
+        "name": "Soundtrack 2 Get Her Back",
+        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "True 2 Me",
+      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
     },
     {
       "album": {
@@ -10949,6 +11047,28 @@
     },
     {
       "album": {
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
+    },
+    {
+      "album": {
         "name": "Wallpaper",
         "url": "https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI"
       },
@@ -11000,6 +11120,24 @@
       "duration_ms": 109966,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
+    },
+    {
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185994,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"
     },
     {
       "album": {
@@ -11584,7 +11722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 221826,
       "name": "You're My",
       "url": "https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy"

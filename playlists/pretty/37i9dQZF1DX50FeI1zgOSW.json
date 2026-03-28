@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sarah Black",
-  "num_followers": 18862,
+  "num_followers": 18889,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACy+dnpbVZvvv2rA45OVn4TXKTiO",
+  "snapshot_id": "AAAAAFqRa1RieoCatQcl/aIULiQNBQ4v",
   "tracks": [
     {
       "added_at": "2026-03-02 06:00:24",
@@ -197,6 +197,30 @@
       "url": "https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy"
     },
     {
+      "added_at": "2026-03-26 06:36:16",
+      "album": {
+        "name": "Senthaamarai",
+        "url": "https://open.spotify.com/album/5eMwZ5D4PFWyy48q1pDnqM"
+      },
+      "artists": [
+        {
+          "name": "Keerthan",
+          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
+        },
+        {
+          "name": "Nikhil mathew",
+          "url": "https://open.spotify.com/artist/75IXbZzUYShK1S4MKcnXbb"
+        },
+        {
+          "name": "Varsha Renjith",
+          "url": "https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Senthaamarai",
+      "url": "https://open.spotify.com/track/7zsvcAEcBiGaFafBeMXC0e"
+    },
+    {
       "added_at": "2026-02-23 12:41:36",
       "album": {
         "name": "En Kadhalum",
@@ -319,6 +343,26 @@
       "duration_ms": 168545,
       "name": "Paarthale Pathikichu",
       "url": "https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5"
+    },
+    {
+      "added_at": "2026-03-27 05:54:02",
+      "album": {
+        "name": "Karuppu Neraththi",
+        "url": "https://open.spotify.com/album/4Y5KsTVjCQhiF4pF58CdV1"
+      },
+      "artists": [
+        {
+          "name": "Gajaaaa01",
+          "url": "https://open.spotify.com/artist/20P0GIfGIXtAuicMsTXkVw"
+        },
+        {
+          "name": "naveen rithick",
+          "url": "https://open.spotify.com/artist/1PWNW8lEYKMs86fyC8BZPl"
+        }
+      ],
+      "duration_ms": 177229,
+      "name": "Karuppu Neraththi",
+      "url": "https://open.spotify.com/track/6xISuwRI0Ibm0ycWe2de1i"
     },
     {
       "added_at": "2026-03-24 07:17:34",

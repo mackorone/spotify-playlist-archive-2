@@ -4,7 +4,7 @@
 
 > BLANCO e Elisa insieme in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,883 songs - 6 day 4 hr 43 min
+2,883 songs - 6 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,6 +761,7 @@
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-24 | 2025-09-05 |
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-18 | 2024-08-23 |
 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 | 2025-06-12 | 2025-07-11 |
+| [E così te ne vai](https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz) | [Piotta](https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx) | [Si riparano ricordi](https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1) | 2:51 | 2026-03-26 |  |
 | [E la vita accade](https://open.spotify.com/track/5afvsxGJdZh2RBx9QkrEAA) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Perfetto imperfetto](https://open.spotify.com/album/14aYnO4eGHEyBjEl4tF6zo) | 3:24 | 2026-03-05 | 2026-03-27 |
 | [E POI SEI ARRIVATA TU](https://open.spotify.com/track/0fsMDfsrI4AsvBDLUGoUPh) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [E POI SEI ARRIVATA TU](https://open.spotify.com/album/5WS3iOeSRG9RmjkPP37Uz6) | 3:08 | 2025-04-03 | 2025-05-02 |
 | [E poi ti ho visto cadere](https://open.spotify.com/track/3uiyc7gtPUnH29ZftP5252) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [E poi ti ho visto cadere](https://open.spotify.com/album/1lpjoBnqfc03waLKCVkHDr) | 2:40 | 2026-01-23 | 2026-02-13 |
@@ -2414,7 +2415,7 @@
 | [Superstar](https://open.spotify.com/track/6gMgNwiz4aQ1PzuZBTzYap) | [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv) | [Superstar](https://open.spotify.com/album/2vhSvsLIXrWsjwoVL82gdg) | 3:05 | 2025-11-06 | 2025-11-28 |
 | [Superstar](https://open.spotify.com/track/5fYAsg12ms7UkZLtEmS4J6) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [Superstar](https://open.spotify.com/album/5PeAPZi3YNFj1xAVq3YGJL) | 3:09 | 2026-03-12 |  |
 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 | 2025-09-12 |
-| [Surfboard](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Surfboard](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:32 | 2026-03-19 |  |
+| [SURFBOARD](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SURFBOARD](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:32 | 2026-03-19 |  |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 | 2025-07-25 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-12 | 2025-07-11 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2024-11-29 |
@@ -2605,7 +2606,6 @@
 | [TRA LE LUNE E LE DUNE](https://open.spotify.com/track/1SjWttp0uxEZFDjfVpTdN0) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:06 | 2025-11-06 | 2025-11-28 |
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-12 | 2025-03-07 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2025-01-10 |
-| [Track 3](https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz) | [Piotta](https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx) | [Si riparano ricordi](https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1) | 0:00 | 2026-03-26 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 |  |
 | [Traitor](https://open.spotify.com/track/6RJUH9V6OBskrZlKhudD7p) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [MegaHits 2025 \- Die Erste](https://open.spotify.com/album/5tuEP1oRBPT1A3hsrsSkdw) | 2:28 | 2025-01-16 | 2025-02-12 |
 | [Tram 83](https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tram 83](https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd) | 2:23 | 2024-10-03 | 2024-11-08 |

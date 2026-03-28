@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakirra Vier
 
-850 songs - 2 day 7 hr 27 min
+851 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Kau](https://open.spotify.com/track/2ZA2jc2PEwXK4cOsdo1Pdw) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO), [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3) | [Kau](https://open.spotify.com/album/7bPh7AzLkDHE2PoivVddF5) | 4:51 | 2024-06-27 | 2024-11-23 |
 | [Kau Ada](https://open.spotify.com/track/1CQIzDAWvawFRHm6b13pc4) | [Titik Hamzah](https://open.spotify.com/artist/4mg24v8BP717RVt23a9MBk) | [Kau Ada](https://open.spotify.com/album/5mAsKHMgb00BHVwO63JqyP) | 4:02 | 2024-06-27 | 2024-08-30 |
 | [Kau Masih Kekasihku](https://open.spotify.com/track/0WBDoX8ANjfEI4QriFDziF) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN) | [Kau Masih Kekasihku](https://open.spotify.com/album/0L7YRvxp0tSp6wshW0ImcY) | 4:22 | 2025-08-08 | 2025-09-26 |
+| [Kau Semestaku](https://open.spotify.com/track/1i7YxoudHNgL4O4Q6sSiQQ) | [Andrea Lee](https://open.spotify.com/artist/66DXhk7mq7Wj3MolBsx9tO) | [Kau Semestaku](https://open.spotify.com/album/0x95mfdXUHOP6YxQorX6QF) | 3:12 | 2026-03-27 |  |
 | [Ke Rumah](https://open.spotify.com/track/7I8jG5NjWJWEczkYb6XfFl) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Ke Rumah](https://open.spotify.com/album/1OLGRwOYlr9RPPIwXjDnox) | 2:56 | 2024-08-29 | 2024-12-13 |
 | [KECANDUAN](https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [KECANDUAN](https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI) | 3:37 | 2024-10-24 | 2024-11-29 |
 | [Kehilanganmu](https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kehilanganmu](https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us) | 3:53 | 2024-06-27 | 2024-07-27 |

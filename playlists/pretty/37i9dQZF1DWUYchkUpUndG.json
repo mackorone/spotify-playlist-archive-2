@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: Moses Bliss, Philippa Hanna and Israel Houghton",
-  "num_followers": 50357,
+  "num_followers": 50466,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -368,8 +368,8 @@
           "url": "https://open.spotify.com/artist/5GZuDd422CdJBsCUNgiC6J"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 243639,
+      "name": "HONA FAPANONG HONA LE SEDIBA",
       "url": "https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj"
     },
     {
@@ -416,7 +416,7 @@
           "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
         }
       ],
-      "duration_ms": 570048,
+      "duration_ms": 566000,
       "name": "Asante",
       "url": "https://open.spotify.com/track/2q6d3jUYtq6jcJLRNCdTZL"
     },
@@ -916,8 +916,8 @@
           "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 284135,
+      "name": "ALL ABOUT JESUS",
       "url": "https://open.spotify.com/track/1TR9PlqGgZsYWLXQ7GveDY"
     },
     {
@@ -1211,6 +1211,30 @@
       "duration_ms": 160052,
       "name": "Under The Canopy",
       "url": "https://open.spotify.com/track/6yJw1AiC3xRkFF1Cv6Wjj5"
+    },
+    {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "Good Father",
+        "url": "https://open.spotify.com/album/67pulutK1Eu0ayKY1yNFnr"
+      },
+      "artists": [
+        {
+          "name": "Ta ni",
+          "url": "https://open.spotify.com/artist/6xd6Zz4DcTTbiObY7Pozpr"
+        },
+        {
+          "name": "Light Fred",
+          "url": "https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        }
+      ],
+      "duration_ms": 168594,
+      "name": "Good Father",
+      "url": "https://open.spotify.com/track/0elKcwAtaliEC5nOCRppDt"
     },
     {
       "added_at": "2026-03-20 00:01:37",

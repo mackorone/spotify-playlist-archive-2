@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9852,
+  "num_followers": 9868,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAACwTIGbFhbxNaosUjFQteON",
+  "snapshot_id": "acR3AAAAAAArmAYkTcsmVW8ElgliZSY6",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escober",
-        "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
       "artists": [
-        {
-          "name": "HypemanDJ Pablo",
-          "url": "https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Escober",
-      "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
+      "duration_ms": 161062,
+      "name": "Motivate",
+      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "Escober",
+        "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
       },
       "artists": [
+        {
+          "name": "HypemanDJ Pablo",
+          "url": "https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 161062,
-      "name": "Motivate",
-      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
+      "duration_ms": 183693,
+      "name": "Escober",
+      "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
     },
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 118938,
-      "name": "On D Low",
-      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+      "duration_ms": 174863,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,
@@ -707,22 +703,6 @@
       "duration_ms": 144552,
       "name": "Alone (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,
@@ -756,13 +736,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 127560,
-      "name": "Looku Looku",
-      "url": "https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5"
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 149786,
       "name": "Overload (Kala)",
       "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "Looku Looku",
+      "url": "https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5"
     },
     {
       "added_at": null,

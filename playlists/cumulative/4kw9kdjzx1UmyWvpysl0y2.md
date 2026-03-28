@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,198 songs - 2 day 18 hr 46 min
+1,200 songs - 2 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-10 | 2023-05-02 |
 | [Do Not Resist](https://open.spotify.com/track/4xvvHMshkQgGoDBCVXTSIa) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE) | [Do Not Resist](https://open.spotify.com/album/475crrYDMvhgxXYp91ffTa) | 3:32 | 2023-09-18 | 2024-01-11 |
 | [DO OR DIE](https://open.spotify.com/track/6nrDB1y3mQwgi1tHWJdr9X) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [DO OR DIE](https://open.spotify.com/album/3lgSlwvaCVzghqJQ1pR45n) | 2:44 | 2024-04-11 | 2024-07-03 |
+| [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 | 2026-03-27 |  |
 | [Dominator](https://open.spotify.com/track/23zzImIajKFyKPlg6vKsbY) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Dominator](https://open.spotify.com/album/5QORCfZo7zborPU5BGJGM8) | 3:15 | 2026-01-21 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 | 2023-06-27 |
 | [Don't Let Me Down](https://open.spotify.com/track/151rMxSRR29UZMAgcIxeRI) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Julienne By](https://open.spotify.com/artist/4aUyfJwzLfhVjBUIYmGsg5) | [Don't Let Me Down / Fade Away](https://open.spotify.com/album/3wlir7YSKanoErLGZDGg8k) | 3:38 | 2025-07-31 | 2025-10-24 |
@@ -929,6 +930,7 @@
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [She's Got a Gun \- Clockvice Remix](https://open.spotify.com/track/5VtHg945KXjNe7dmxA7kYL) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT), [Clockvice](https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS) | [She's Got a Gun \(Clockvice Remix\)](https://open.spotify.com/album/4dYaUPfO6EOIdXXOxEZeJT) | 3:09 | 2022-12-10 | 2023-03-09 |
 | [Shine](https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Shine](https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5) | 2:49 | 2025-08-07 | 2025-10-29 |
+| [Shine](https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [Inferno](https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M) | 2:31 | 2026-03-27 |  |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [Shock Limit](https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Shock Limit](https://open.spotify.com/album/2cXC2ZxK1jjJwPAUcWyemZ) | 3:26 | 2026-03-16 |  |
 | [Should've Known Better](https://open.spotify.com/track/0lZmRfdj1CpstyZzFIGGxQ) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Should've Known Better](https://open.spotify.com/album/53ECP7lpXO3iCOwPREqy4U) | 3:24 | 2025-07-08 | 2025-09-30 |

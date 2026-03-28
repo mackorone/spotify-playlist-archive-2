@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 184 songs - 9 hr 34 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 187 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 182 | [Que Somos](https://open.spotify.com/track/1QoB6CQN6Z1FLbiOQSfRVk) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [Que Somos](https://open.spotify.com/album/36rJf96FhE3in0acXjO42K) | 2:42 |
 | 183 | [russian roulette](https://open.spotify.com/track/6FKpFWybDMmj3dH9Uap2E8) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [russian roulette](https://open.spotify.com/album/5FJsgeXI6L9CMot8JMQZQL) | 2:20 |
 | 184 | [E.L.I](https://open.spotify.com/track/4nyxCD4FCZveMonOlO7qgu) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Yua](https://open.spotify.com/artist/1maYXmjvOoGdlq4qYyTSpk), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw) | [E.L.I](https://open.spotify.com/album/5gZLk23Noulnh6PjRK4K8K) | 2:42 |
+| 185 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 |
+| 186 | [Delorean](https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R) | [Tokyo Killa](https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz) | [Delorean](https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg) | 3:12 |
+| 187 | [QQDM?](https://open.spotify.com/track/3SKUMB5tpdr4UT2BIq3juc) | [majorea](https://open.spotify.com/artist/2Jmw8pBHcLa6JMCwk3rmRq) | [QQDM?](https://open.spotify.com/album/1gE9VgPQWKVsZfST7jTKSw) | 2:43 |
 
-Snapshot ID: `AAAVvtpXqGuAMHs9uqzyK18Kt7rMjon9`
+Snapshot ID: `AAAVwVrQxZGa9QKz0Ilf2XEik0Ri/uc7`

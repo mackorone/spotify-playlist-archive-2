@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con SAIKO, SINAKA, Kennat y Benja Valencia en cover.",
+  "description": "Perreando toda la noche con J Balvin y Ryan Castro.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 198211,
       "name": "+ Perra + Bitch",
       "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
@@ -4764,7 +4764,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 136526,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/2faNKhIILLEeTwn9FQZrb6"
@@ -6026,7 +6026,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 269960,
       "name": "Descaro 2.0",
       "url": "https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA"
@@ -6922,6 +6922,28 @@
       "duration_ms": 175127,
       "name": "El Doce",
       "url": "https://open.spotify.com/track/277Bjmwdwx1Buu6wsDTctf"
+    },
+    {
+      "album": {
+        "name": "El Error",
+        "url": "https://open.spotify.com/album/1y40NpUQWBCnfYoE3GpXgW"
+      },
+      "artists": [
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        },
+        {
+          "name": "Kapo Wanted",
+          "url": "https://open.spotify.com/artist/4zGx6KpwUSVaYjiuyCciVK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194389,
+      "name": "El Error",
+      "url": "https://open.spotify.com/track/5KIHMTIdzVjTzGKEW1jImb"
     },
     {
       "album": {
@@ -11393,6 +11415,36 @@
     },
     {
       "album": {
+        "name": "LA SACAPUNTAS",
+        "url": "https://open.spotify.com/album/6l4aL8DKTlieY2SLuC4WC1"
+      },
+      "artists": [
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        },
+        {
+          "name": "Zeno El Fara\u00f3n",
+          "url": "https://open.spotify.com/artist/1K15TdvUep1VIcFo0B6C1C"
+        },
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        },
+        {
+          "name": "Kristina",
+          "url": "https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235812,
+      "name": "LA SACAPUNTAS",
+      "url": "https://open.spotify.com/track/7mjWqfMjappj2v1Iw3rXeR"
+    },
+    {
+      "album": {
         "name": "La Single",
         "url": "https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc"
       },
@@ -13346,6 +13398,32 @@
       "duration_ms": 165598,
       "name": "MATONAJE",
       "url": "https://open.spotify.com/track/6ZUl9gGWGzgh1qz6XepNdS"
+    },
+    {
+      "album": {
+        "name": "MAT\u00cdAS MU\u00d1OZ",
+        "url": "https://open.spotify.com/album/6ngZuz55tDlVtHWtK1iSDI"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Nasty Shain",
+          "url": "https://open.spotify.com/artist/1TFN8wpH63qWv8yA4XJMza"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136046,
+      "name": "MAT\u00cdAS MU\u00d1OZ",
+      "url": "https://open.spotify.com/track/5XJ1fwfRo4zvGaxpA9jqfa"
     },
     {
       "album": {
@@ -16299,6 +16377,28 @@
     },
     {
       "album": {
+        "name": "Pal Agua",
+        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206296,
+      "name": "Pal Agua",
+      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
+    },
+    {
+      "album": {
         "name": "Pal Beauty",
         "url": "https://open.spotify.com/album/3NWEENgAhNeVg1wFy6yTOA"
       },
@@ -19156,7 +19256,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 171039,
       "name": "Quiero Acariciarte",
       "url": "https://open.spotify.com/track/2BASRBUHbisBaVco4szwFz"
@@ -20278,7 +20378,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 155000,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/10KJUMPM3j7BOPYXYZMf6M"
@@ -21954,6 +22054,32 @@
       "duration_ms": 237720,
       "name": "S\u00fabelo & B\u00e1jalo",
       "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
+    },
+    {
+      "album": {
+        "name": "T T T",
+        "url": "https://open.spotify.com/album/0TquGN9fpiEHQqcsAgE2C9"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "T T T",
+      "url": "https://open.spotify.com/track/3IKxbI6tQV2cAiheQqt410"
     },
     {
       "album": {
@@ -24526,7 +24652,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 210285,
       "name": "YATEE",
       "url": "https://open.spotify.com/track/4g3eryYUnyoM8KfeTcQ86l"

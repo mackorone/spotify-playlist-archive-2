@@ -4,12 +4,13 @@
 
 > Our weekly selection is here ⚡️
 
-580 songs - 1 day 11 hr 43 min
+583 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1949](https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [1949](https://open.spotify.com/album/0AhaMd9g6mqHrmqlQGoR8g) | 2:13 | 2023-03-31 | 2023-04-17 |
 | [2 Pain](https://open.spotify.com/track/5VJ6AseyaUpoMDiYazmw86) | [Artslaves](https://open.spotify.com/artist/7HKgNfBkWLzzhyc43jmMLk), [Leonardo Gonnelli](https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe) | [2 Pain EP](https://open.spotify.com/album/3vIvCo482ulFZa15p1QZoc) | 5:55 | 2023-12-10 | 2024-02-19 |
+| [3 AM](https://open.spotify.com/track/03ghQCKrHKXaP4DqcyhzIL) | [Baccij](https://open.spotify.com/artist/4df74iFn5aSG2wp7moVRl2) | [3 AM](https://open.spotify.com/album/5hwVy24k5cFH3DcBNEBrLa) | 2:49 | 2026-03-27 |  |
 | [4 The Trouble](https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [4 The Trouble](https://open.spotify.com/album/3RnlEPL13M1cxDGzS26U2h) | 2:08 | 2024-04-14 | 2024-07-08 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-10-13 |  |
 | [A Break Please](https://open.spotify.com/track/1x1RANRAMWeoSOei8Nty5Z) | [Ike TJ](https://open.spotify.com/artist/3DB5xKPkNiCoH8xopiagZ4) | [A Break Please](https://open.spotify.com/album/2ocYUio79D4fXRU0MUL7hM) | 3:44 | 2025-11-30 | 2026-01-03 |
@@ -131,6 +132,7 @@
 | [Dance Floor](https://open.spotify.com/track/5UKEs3uApkyQHu8kHE3YdS) | [Nota Baxua](https://open.spotify.com/artist/1cFRemxURzd9fohFUoUgAT) | [Dance Floor](https://open.spotify.com/album/58hepY4ZMFyl1gX8IvLpP3) | 5:45 | 2026-03-13 |  |
 | [Dance With The Groove](https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Dance With The Groove](https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2) | 3:51 | 2023-04-09 | 2023-04-24 |
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-09-17 | 2023-12-14 |
+| [Dancing in Shadows](https://open.spotify.com/track/12BVuZJv6SdiMlhaXgxAi3) | [7even Icon](https://open.spotify.com/artist/3sHKLE2IhKyr1fkVBKNTcf), [Stefano de Paris](https://open.spotify.com/artist/3Myqo5IA2EU1HEHQ1QDcGA), [Yako](https://open.spotify.com/artist/3UIjgNCh5HL0bGRQ3LCV1C) | [Dancing in Shadows](https://open.spotify.com/album/2E65IVzBVVSgAjemEhry2g) | 3:57 | 2026-03-27 |  |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-21 | 2023-06-12 |
 | [Dawn of moonlight \- Radio Zen Version](https://open.spotify.com/track/5bXvWTr7fhafN6dWGIZCGK) | [Corona Ilario](https://open.spotify.com/artist/6GMuZDYRjI8G9HKr3j7mYU) | [Dawn of moonlight \(Zen Version\)](https://open.spotify.com/album/3HwBSGnH7bUmRzCXDglJfW) | 3:20 | 2026-02-11 | 2026-02-23 |
 | [Deep Down Low](https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Deep Down Low](https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP) | 4:55 | 2024-07-07 |  |
@@ -506,6 +508,7 @@
 | [Take A Flight](https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Nadia](https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr) | [Take A Flight](https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37) | 3:50 | 2023-04-16 | 2023-05-01 |
 | [Take It Easy](https://open.spotify.com/track/1yFJGIc4AgYdFRkaLkBO3j) | [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Take It Easy](https://open.spotify.com/album/64q2E4RwaEu3PocVll20Z5) | 2:51 | 2023-02-12 | 2023-03-06 |
 | [Take My Hand](https://open.spotify.com/track/3j8exXspffrB9l4HFc80NY) | [KeepNoise](https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9) | [Alvora](https://open.spotify.com/album/20mYsLS85BCiXoKA2UI75O) | 5:59 | 2026-03-15 |  |
+| [Tell Me](https://open.spotify.com/track/5aWZmI5ZLxsYY7IMFjFmsT) | [LOW](https://open.spotify.com/artist/2IAgVQVtEGiSXbKqwmiuc7) | [Tell Me](https://open.spotify.com/album/62d9NhF3NcYB0qG8mS09BG) | 4:18 | 2026-03-27 |  |
 | [Tell me](https://open.spotify.com/track/4sA6avh0tLf4Ma2p78ghAG) | [MøRì](https://open.spotify.com/artist/69EAI8AeVwU0HZ2FF4AFaL) | [Tell me](https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb) | 4:11 | 2026-02-11 | 2026-02-23 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-30 | 2023-05-23 |
 | [Terrace Express \- Original Mix](https://open.spotify.com/track/1k0pziWBAbZtH2V2CoVrR6) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Terrace Express](https://open.spotify.com/album/3oqrimZKe9RS07nxEfPVqF) | 5:56 | 2026-02-23 |  |

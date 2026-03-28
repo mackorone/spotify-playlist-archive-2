@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: lucca
 
-1,598 songs - 3 day 11 hr 58 min
+1,598 songs - 3 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-08-06 | 2025-08-10 |
 | [Habits](https://open.spotify.com/track/4e1kPElO9MSRiyE7QGHZuF) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Habits](https://open.spotify.com/album/5RlpuOflr8i0c989tds0vx) | 4:26 | 2025-09-04 | 2025-10-24 |
 | [Haircuts](https://open.spotify.com/track/5pXrgtPk7YQOIwGvakglnk) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Haircuts](https://open.spotify.com/album/1EtG8S1NEVLTUrx3G8teB7) | 3:38 | 2025-09-04 | 2025-10-24 |
+| [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 | 2026-03-26 |  |
 | [Hall of Fame](https://open.spotify.com/track/7d199Uwm74MaKwY81Lb7gK) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Fish Food](https://open.spotify.com/album/5yEKSDSQAAonGZDfnnxHxk) | 3:23 | 2025-03-27 | 2025-04-25 |
 | [Hands Up](https://open.spotify.com/track/0BU5lC3SbNuRCz9ybJrZCA) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [Hands Up](https://open.spotify.com/album/74K0Kuv9eiOVpJJ3XE5H0S) | 3:09 | 2024-06-27 | 2024-08-09 |
 | [hapless](https://open.spotify.com/track/0kzlR4o14b1gQMgYiTh8YM) | [foyn](https://open.spotify.com/artist/0MSrBB3HIgO3n2xdmxJYJy), [wac](https://open.spotify.com/artist/04VZVjiAbhYQ73oLASLpDo) | [hapless](https://open.spotify.com/album/5WQAKaqi0KE5GeWG3DLccd) | 3:10 | 2024-02-22 | 2024-03-29 |
@@ -1441,7 +1442,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 1](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 0:00 | 2026-03-26 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 | 2026-03-20 |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |

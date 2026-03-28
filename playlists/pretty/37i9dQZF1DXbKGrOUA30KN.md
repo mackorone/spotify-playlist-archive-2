@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: TJARK
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,691 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,649 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 0:00 |
+| 1 | [das größte was es gibt](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 3:02 |
 | 2 | [Für immer](https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Fahrt ins Blaue](https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1) | 2:52 |
 | 3 | [atmen](https://open.spotify.com/track/08aWwk8EzNgWC8ZlZ8ojD8) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [atmen](https://open.spotify.com/album/1TPzs9tiwqdMAoZh3X3obP) | 2:59 |
-| 4 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
+| 4 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2sVB84yuJRWCAHyPAK8RaI) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
 | 5 | [PLAY](https://open.spotify.com/track/4iljDkP2hTwzjsjRzzaJsx) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [PLAY](https://open.spotify.com/album/07lxPercs7e5xmNQ5Uiycg) | 2:05 |
 | 6 | [Stolz auf dich](https://open.spotify.com/track/63DlZ36ns5cwDmPgeDXqjB) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Stolz auf dich](https://open.spotify.com/album/7l4ntqUQwfmoocsbY5DDMB) | 3:07 |
 | 7 | [yin und yang](https://open.spotify.com/track/3uEWjrFM2sY2eRPrR7msZq) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [yin und yang](https://open.spotify.com/album/7tgDjiD2laU5xXl32fzy6o) | 2:32 |

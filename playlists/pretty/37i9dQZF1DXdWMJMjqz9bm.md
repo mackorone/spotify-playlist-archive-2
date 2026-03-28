@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,215 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,246 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 10 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 11 | [Dramatic Girl \(feat\. Che Ecru\)](https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:19 |
 | 12 | [Get Used To Me](https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8) | [Get Used To Me](https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP) | 3:21 |
-| 13 | [Heartbreak](https://open.spotify.com/track/2XwrBmeW2JdWFBUhwXAnzd) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Matthew Bento](https://open.spotify.com/artist/1lz8mmm4zJ07PO9sgaNjdY), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Heartbreak](https://open.spotify.com/album/6HOGyMg8PuJ8gc3favXLoD) | 3:13 |
-| 14 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
-| 15 | [bing bong](https://open.spotify.com/track/0nwygFtUBQiDA9iFIrZGR9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [VNLLA](https://open.spotify.com/artist/5IvjzD21lPQIO842GrDejr) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:10 |
-| 16 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3rpA5iIZtlhMOeHUo1GNvq) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 |
-| 17 | [Flowers](https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Flowers](https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x) | 2:28 |
-| 18 | [Over Again](https://open.spotify.com/track/3sEib2h2h30wKB0C4gTgn7) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Over Again](https://open.spotify.com/album/2WgNtU6dlwicoHdwMeDQ5m) | 2:08 |
+| 13 | [Demons](https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Ask Me How I’ve Been](https://open.spotify.com/album/6FrJR357uhTSuFNJVaYo7b) | 2:42 |
+| 14 | [Heartbreak](https://open.spotify.com/track/2XwrBmeW2JdWFBUhwXAnzd) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Matthew Bento](https://open.spotify.com/artist/1lz8mmm4zJ07PO9sgaNjdY), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Heartbreak](https://open.spotify.com/album/6HOGyMg8PuJ8gc3favXLoD) | 3:13 |
+| 15 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
+| 16 | [bing bong](https://open.spotify.com/track/0nwygFtUBQiDA9iFIrZGR9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [VNLLA](https://open.spotify.com/artist/5IvjzD21lPQIO842GrDejr) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:10 |
+| 17 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3rpA5iIZtlhMOeHUo1GNvq) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 |
+| 18 | [Flowers](https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Flowers](https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x) | 2:28 |
 | 19 | [sometimes love means letting go](https://open.spotify.com/track/7haXwJXCIif44j7JVPsh3h) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Sly Jr.](https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB) | [sometimes love means letting go](https://open.spotify.com/album/6hutvnSTdYmRqYCZWdZYwx) | 1:44 |
 | 20 | [BOO](https://open.spotify.com/track/0092fZcbCidhWrmBQX4guf) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/03nGdB6ACTi1GJG0vZJO3n) | 2:18 |
 | 21 | [Believe](https://open.spotify.com/track/6sWfQZwiUZY4vlsdPm0p8R) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [Believe](https://open.spotify.com/album/5AsLdiIcn9IgKtipnQFQEc) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 74 | [starman](https://open.spotify.com/track/4t8xELB3RVb8n7dxaQ1H5I) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 3:37 |
 | 75 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 |
 
-Snapshot ID: `AAAAAB8voy2wVQlE0SYGTSK3W1FpnxHg`
+Snapshot ID: `AAAAAHGMTPaSbdtcTcZShFfmWc5u2Aou`

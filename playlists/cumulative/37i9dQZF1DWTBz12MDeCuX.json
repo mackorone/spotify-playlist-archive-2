@@ -5217,6 +5217,24 @@
     },
     {
       "album": {
+        "name": "auf dich gewartet",
+        "url": "https://open.spotify.com/album/4Vaf62CBqBSLqWJWhv0iDt"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "auf dich gewartet",
+      "url": "https://open.spotify.com/track/3mAUUc2RwVVzkGvs6CW8XW"
+    },
+    {
+      "album": {
         "name": "Auf die Party",
         "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
       },
@@ -12902,6 +12920,24 @@
       "duration_ms": 208443,
       "name": "Das Gl\u00fcck geh\u00f6rt Versagern",
       "url": "https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl"
+    },
+    {
+      "album": {
+        "name": "auch wenn's uns morgen nicht mehr gibt",
+        "url": "https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182014,
+      "name": "das gr\u00f6\u00dfte was es gibt",
+      "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
     },
     {
       "album": {
@@ -53078,7 +53114,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166666,
       "name": "Song 11 ft Provinz",
       "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
@@ -57952,24 +57988,6 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "album": {
-        "name": "auch wenn's uns morgen nicht mehr gibt",
-        "url": "https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8"
-      },
-      "artists": [
-        {
-          "name": "TJARK",
-          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Spacey Jane
+> Explore all things indie rock right now\. Featuring music from Courtney Barnett
 
-2,128 songs - 5 day 0 hr 28 min
+2,135 songs - 5 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 | 2023-03-29 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-17 | 2023-07-29 |
-| [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 | 2025-09-05 |  |
+| [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 | 2025-09-05 | 2026-03-28 |
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-10-07 | 2023-04-29 |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 | 2022-11-25 |
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
@@ -443,6 +443,7 @@
 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 | 2022-10-14 | 2023-03-04 |
 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-17 |  |
 | [Country Club](https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Country Club](https://open.spotify.com/album/5ZcyqQiRVvPMbz6wSnPZY0) | 3:29 | 2022-07-19 | 2022-11-08 |
+| [Cover Me](https://open.spotify.com/track/3MWjEpbMsX9XQVCOEy5qMZ) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/5KVrBZhszK5SXeLDmScFNZ) | 3:26 | 2026-03-27 |  |
 | [Cover My Eyes](https://open.spotify.com/track/75vKWWZV5PWaHIdMPh06ns) | [Fwango](https://open.spotify.com/artist/0KXYnSvIfAogJZaVoV4tPE) | [Cover My Eyes](https://open.spotify.com/album/6w0ZeHQpQrIXYZE4rpYYb4) | 3:56 | 2023-07-21 | 2023-10-14 |
 | [Cowboy Killer](https://open.spotify.com/track/3WQuo1C5WhP15EBv9aXbQy) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Cowboy Killer](https://open.spotify.com/album/6GlVNhYfePusaOwiqbENkR) | 6:39 | 2023-03-03 | 2023-03-18 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-03 | 2023-04-09 |
@@ -452,7 +453,7 @@
 | [coyote \(2015\-2021\)](https://open.spotify.com/track/6D0qeYwdqBBb2x6t2aondQ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [coyote \(2015\-2021\)](https://open.spotify.com/album/5QMTqu4M6I7aiF22lTRKAk) | 6:18 | 2022-04-29 | 2022-07-30 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-30 | 2025-11-01 |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-03-03 | 2023-04-22 |
-| [Crashing Highs](https://open.spotify.com/track/0oEKrDeEMP99yUGu9WLSg8) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/0QnNFYZHAtyYCMi8vxl6Rh) | 3:01 | 2025-09-05 |  |
+| [Crashing Highs](https://open.spotify.com/track/0oEKrDeEMP99yUGu9WLSg8) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/0QnNFYZHAtyYCMi8vxl6Rh) | 3:01 | 2025-09-05 | 2026-03-28 |
 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 | 2023-11-17 | 2024-01-20 |
 | [Crazed](https://open.spotify.com/track/5QytoiKwnIFaHuIqJWmer5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [Crazed](https://open.spotify.com/album/6lPvlL0riY5AOnFHV19lS1) | 2:01 | 2021-08-13 | 2022-02-01 |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-11-17 | 2024-01-27 |
@@ -1006,6 +1007,7 @@
 | [Irish Goodbye](https://open.spotify.com/track/6t1Irvbvz3xb71iaqsac10) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah's Birthday on the Beach](https://open.spotify.com/album/6dQpeNbSypatcAG3N53Ldz) | 2:56 | 2023-08-04 | 2023-12-02 |
 | [Iron Wine](https://open.spotify.com/track/1ukTxyB0zGtrgsUqkR6yZp) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:27 | 2025-08-08 | 2026-03-14 |
 | [Irresistible](https://open.spotify.com/track/3JZozbWIyv8rbd8EkZkXoG) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [The Thing](https://open.spotify.com/album/5EHA5GSkhMn8abc7TQTQbi) | 3:15 | 2025-08-08 | 2026-01-17 |
+| [Is Joy Easy](https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Is Joy Easy](https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk) | 3:30 | 2026-03-27 |  |
 | [is suicide too much?](https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [grey europe](https://open.spotify.com/album/1ZiOUqonBvUlocuaXMgYS5) | 3:09 | 2024-05-31 | 2024-08-10 |
 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 | 2025-09-26 |  |
 | [Isolette \- Edit](https://open.spotify.com/track/4s8bmFAHXhmPHrBasuGx62) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Isolette \(Edit\)](https://open.spotify.com/album/3uFBPwfmLFoDPIVZxA35b1) | 2:37 | 2023-08-18 | 2023-09-09 |
@@ -1383,6 +1385,7 @@
 | [One Day](https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:24 | 2021-06-07 | 2022-06-11 |
 | [One of Each](https://open.spotify.com/track/12eWiYEblFgedfDE46en5r) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Different Talking](https://open.spotify.com/album/3ZJ9WuMbj6DynnoqegrJE0) | 1:55 | 2025-06-27 | 2026-02-21 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-26 |  |
+| [One Thing At A Time](https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [One Thing At A Time](https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm) | 4:42 | 2026-03-27 |  |
 | [One Way or the Other](https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [In Breech](https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC) | 3:57 | 2024-12-06 | 2025-02-01 |
 | [Onions](https://open.spotify.com/track/3XxZzksa9YpoYJX27YbggN) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts](https://open.spotify.com/album/41L2pfxvjyMRse8MVyRX7j) | 4:10 | 2024-07-26 | 2024-11-23 |
 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 | 2024-08-23 | 2024-10-05 |
@@ -1532,6 +1535,7 @@
 | [righttttraaack](https://open.spotify.com/track/7p9QPnwr6INKhwFhZwuooX) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse \(Anniversary Edition\)](https://open.spotify.com/album/5yLkXPDu9HKrJBKz0yFFSI) | 3:43 | 2026-03-06 |  |
 | [Ring Of Fire](https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Ring Of Fire](https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ) | 3:52 | 2026-02-06 |  |
 | [RIP](https://open.spotify.com/track/2qeRnFb42RVzv2NP6s8vG9) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [RIP](https://open.spotify.com/album/49IpmVlrsOt5Pw0whYZKhI) | 3:45 | 2025-02-21 | 2025-04-12 |
+| [Riptides](https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Riptides](https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN) | 3:17 | 2026-03-27 |  |
 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 | 2023-02-22 | 2023-03-18 |
 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 | 2023-11-03 | 2024-03-30 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-13 | 2025-02-01 |
@@ -1648,6 +1652,7 @@
 | [Sinking Feeling](https://open.spotify.com/track/4PkapglrwgXWu9anC7zsR8) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Caviar](https://open.spotify.com/album/5VyfBBQi8Y8B20VTiS5ubz) | 3:33 | 2021-06-11 | 2022-04-19 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-06-30 | 2023-09-09 |
 | [Sitting on the Porch at Night](https://open.spotify.com/track/4CfCUMmSIqBGr3TvZ1hNbs) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Sitting on the Porch at Night](https://open.spotify.com/album/4D0WVfPGEsKNX1RkkZj71y) | 2:59 | 2022-06-10 | 2022-07-09 |
+| [Sixteen](https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Sixteen](https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i) | 3:26 | 2026-03-27 |  |
 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 | 2022-12-08 | 2023-03-04 |
 | [Skinny Brittle Bones](https://open.spotify.com/track/14uNisaAuHwalExIW0KTMV) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Skinny Brittle Bones](https://open.spotify.com/album/2Vq4ccHKkOqcOTzYu3Jwji) | 2:48 | 2021-07-19 | 2022-04-20 |
 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-07 | 2025-06-28 |
@@ -1727,6 +1732,7 @@
 | [Sprinter Van](https://open.spotify.com/track/0pHQLn5ycYxJZRjgrqUyv7) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sprinter Van](https://open.spotify.com/album/5z3AIOnjlq6a0mP9AkK6J0) | 2:20 | 2021-10-02 | 2022-02-11 |
 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 | 2021-06-07 | 2022-06-11 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-07-22 |
+| [Stairway To Nowhere](https://open.spotify.com/track/0UuDFttpfahZ397HtsDEHp) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Stairway To Nowhere](https://open.spotify.com/album/4YdlrnD4zgtuV6KmmrQuS9) | 4:28 | 2026-03-27 |  |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 |  |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-06-08 | 2022-06-11 |
 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 | 2023-04-14 | 2023-06-17 |
@@ -1939,6 +1945,7 @@
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-08-28 | 2026-03-14 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-19 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-01 | 2026-03-14 |
+| [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 |  |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-08-01 | 2025-12-13 |
 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-12-12 |  |
 | [Triple Seven](https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5) | 3:26 | 2024-06-14 | 2024-07-27 |

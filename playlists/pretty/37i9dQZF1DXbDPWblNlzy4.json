@@ -1,13 +1,33 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Laura Mar\u00e9",
-  "num_followers": 68203,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Elena Rose y Alleh",
+  "num_followers": 68204,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEyqZaOp0NADBo2giG8FZzwv5W5O",
+  "snapshot_id": "AAAAAHZqKO4pwq6XnPEMoiaKN3ipZJko",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:59:28",
+      "album": {
+        "name": "TUTUTU",
+        "url": "https://open.spotify.com/album/3kFpwjt0z3L2mRM0ms38sT"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "TUTUTU",
+      "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
+    },
     {
       "added_at": "2026-03-06 04:59:28",
       "album": {
@@ -43,7 +63,7 @@
     {
       "added_at": "2026-03-13 15:22:43",
       "album": {
-        "name": "FEMME FATALE (Spotify Sessions)",
+        "name": "Mon Laferte (Spotify Sessions)",
         "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
       },
       "artists": [

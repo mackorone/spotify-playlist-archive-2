@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Clarinet Concert for You, Vol. 4",
+        "url": "https://open.spotify.com/album/2a5JakUNQL6lsQjURKpZxu"
+      },
+      "artists": [
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        },
+        {
+          "name": "Adam Schatz",
+          "url": "https://open.spotify.com/artist/01S8Prv2t3IiDBrPLU918B"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "#96 Monday, June 22, 2020 in B (feat. Adam Schatz)",
+      "url": "https://open.spotify.com/track/6uJhTbHVijWuirNiUxUCQQ"
+    },
+    {
+      "album": {
         "name": "FLUGEL",
         "url": "https://open.spotify.com/album/0Blf8vNcYe2jgP4SP1Uws3"
       },
@@ -144,7 +166,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 471240,
       "name": "Becalmed",
       "url": "https://open.spotify.com/track/0uBV9lnl1s9k8OGKx1ccmu"
@@ -331,6 +353,36 @@
     },
     {
       "album": {
+        "name": "Trio of Bloom",
+        "url": "https://open.spotify.com/album/3W7vcjz6gUfx6p6ZXd3rGb"
+      },
+      "artists": [
+        {
+          "name": "Trio of Bloom",
+          "url": "https://open.spotify.com/artist/1eOes4oG5YBhtRs4htiCIh"
+        },
+        {
+          "name": "Nels Cline",
+          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
+        },
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231489,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6iw8nvoHWTwrojzrBxBCzH"
+    },
+    {
+      "album": {
         "name": "Dorian Portrait",
         "url": "https://open.spotify.com/album/6HJWOWV0lYiMpTjQ0GWwE9"
       },
@@ -349,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Dolphin",
+        "url": "https://open.spotify.com/album/42VA6bD2NLwgBKkFWjN4dw"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        },
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119426,
+      "name": "Dolphin",
+      "url": "https://open.spotify.com/track/69zNrY3UliX4oLY6gIsY63"
+    },
+    {
+      "album": {
         "name": "Morningside",
         "url": "https://open.spotify.com/album/0tbZ7cigA2IxPtleOpYxmc"
       },
@@ -364,7 +438,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 1110786,
       "name": "Eveningside",
       "url": "https://open.spotify.com/track/3c9QaVv1Rfx5EAYSv9ZYVQ"
@@ -612,7 +686,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 247680,
       "name": "Lubbock",
       "url": "https://open.spotify.com/track/5G5OAFhNQMKtm9zTqYbYSl"
@@ -950,7 +1024,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 357293,
       "name": "the applebees outside kalamazoo, michigan",
       "url": "https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U"
@@ -1102,6 +1176,32 @@
       "duration_ms": 152216,
       "name": "Wave I",
       "url": "https://open.spotify.com/track/0XUveuz26OSQAnOvaAuAzz"
+    },
+    {
+      "album": {
+        "name": "In the Space Between",
+        "url": "https://open.spotify.com/album/2Kt7ghf0bOiz6Lp2w22rqM"
+      },
+      "artists": [
+        {
+          "name": "Thomas Markusson",
+          "url": "https://open.spotify.com/artist/0WAhNbxZxsfXliPDDxfy5P"
+        },
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Helge Andreas Norbakken",
+          "url": "https://open.spotify.com/artist/5oa2iDJMbJVVspUSq2IiAb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254386,
+      "name": "When the Ground Shifts",
+      "url": "https://open.spotify.com/track/17BgHB5I7LrHSG9jXI7nCM"
     },
     {
       "album": {

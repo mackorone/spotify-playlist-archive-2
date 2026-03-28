@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 295 likes - 2,103 songs - 5 day 4 hr 52 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 299 likes - 2,108 songs - 5 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2111,5 +2111,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2101 | [Little Breaths of Earth](https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ) | [Wren West](https://open.spotify.com/artist/74pbT2LPDxbREIa12eMfxU) | [Little Breaths of Earth](https://open.spotify.com/album/5atEREgUaJnYKMWBAtwYFX) | 5:09 |
 | 2102 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 |
 | 2103 | [Quiet Saloon](https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Quiet Saloon](https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB) | 3:06 |
+| 2104 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 |
+| 2105 | [Say something](https://open.spotify.com/track/3MbPvLgyM75WY8mQqlCNNl) | [Joy Rabit](https://open.spotify.com/artist/5G4cn7feNtHiI2P7Qzt40d) | [Say something](https://open.spotify.com/album/2GDeDZxD4xaYU9NQaM3qZA) | 3:58 |
+| 2106 | [I Still Remember](https://open.spotify.com/track/7JAti2ONpcLz6tqnz5tPB2) | [Leonardo Boim](https://open.spotify.com/artist/62BMqVGhureZeMoUk7CtN5) | [I Still Remember](https://open.spotify.com/album/5yeptka7yzMVVXWVhDBwd9) | 4:47 |
+| 2107 | [Where'd the Time Go](https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn) | [Unlucky, the Artist](https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN) | [The Girl in the Green Dress](https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda) | 2:18 |
+| 2108 | [Aguaceros](https://open.spotify.com/track/5bhhG0nGomKZE8LtSjvVpq) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM) | [Aguaceros](https://open.spotify.com/album/2PA5rTN8j5tOjtiHhW5Hmw) | 2:57 |
 
-Snapshot ID: `AAAI2QaWvJZP7R3CYwuiaKc1UJdtbWJk`
+Snapshot ID: `AAAI3uDtFrAh0JtEGEJF0Nnzz9agYged`

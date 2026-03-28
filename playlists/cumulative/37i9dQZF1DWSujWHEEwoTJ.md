@@ -2,9 +2,9 @@
 
 ### [Así Se Baila en Sonora](https://open.spotify.com/playlist/37i9dQZF1DWSujWHEEwoTJ)
 
-> rolitas chilas para chirotear y pegar un bailadón con Javier Rosas, Los Pikadientes de Caborca.
+> rolitas chilas para chirotear y pegar un bailadón con Grupo Laberinto.
 
-204 songs - 10 hr 56 min
+206 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [El Rock del Sapo](https://open.spotify.com/track/5QEARMIZIxMnaSmVScBKIx) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [El Rock del Sapo](https://open.spotify.com/album/0GJq7UYxFQjS5yw2kGgNWE) | 3:44 | 2026-01-15 |  |
 | [El Sandwich, Quihúbole Qué Qué! \(En Vivo\)](https://open.spotify.com/track/7IZAE33NUf3QS0wGtHlpQA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Organización Zeta](https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 4:01 | 2026-01-15 |  |
 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 | 2022-01-20 | 2026-01-15 |
+| [El Shampoo](https://open.spotify.com/track/6VYo7mksStTsECiWM5VWT8) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Shampoo](https://open.spotify.com/album/5ITv0sNGXkWvGzSdJd1TzM) | 2:56 | 2026-03-27 |  |
 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 | 2024-03-27 | 2026-01-15 |
 | [El Sinaloense \- En Vivo](https://open.spotify.com/track/6ZJYh8V3pOBygETxlw57Du) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo CDMX](https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT) | 3:21 | 2022-01-20 | 2026-01-15 |
 | [El Son de La Negra y Juan Colorado](https://open.spotify.com/track/4NjtrwRl1BuY52YrwMxzfK) | [La Brazza Norteña](https://open.spotify.com/artist/3EDb8bjaw9warP34p1hd2v) | [Clasicos Y Algo Mas](https://open.spotify.com/album/4w7Uf4im1prkdHKA5ucsSB) | 3:46 | 2026-01-15 |  |
@@ -94,7 +95,7 @@
 | [La Bola \(Pelotero a la Bola\)](https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty) | 3:30 | 2022-01-20 | 2024-04-19 |
 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 | 2023-01-30 | 2026-01-15 |
 | [La Cachonda](https://open.spotify.com/track/0AechHeAzoCetuPq5pGC29) | [Tropocalisimo Apache Nueva Imagen](https://open.spotify.com/artist/66CFozLd71FDNMYa8kaHAw) | [La Cachonda](https://open.spotify.com/album/4hOWkUhVd3FX84YpRSj0ZP) | 2:59 | 2026-01-15 |  |
-| [La Cadenita](https://open.spotify.com/track/7cWcOgDdbEW875IiLmJq1x) | [Juan Ortega y Su Grupo](https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv) | [Variado En Vivo, Vol\. 2](https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI) | 2:16 | 2026-01-15 |  |
+| [La Cadenita](https://open.spotify.com/track/7cWcOgDdbEW875IiLmJq1x) | [Juan Ortega y Su Grupo](https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv) | [Variado En Vivo, Vol\. 2](https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI) | 2:16 | 2026-01-15 | 2026-03-28 |
 | [La Cantaleta](https://open.spotify.com/track/0A6VL91K3Ukt8rOTWa6DIj) | [Fabian Gomez](https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3) | [Ojitos Verdes](https://open.spotify.com/album/3KdYzSdkvKwY6sTFd8ob5Z) | 3:05 | 2026-01-15 |  |
 | [La Cara Sucia](https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 4:10 | 2022-01-20 | 2024-03-28 |
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2023-01-30 | 2026-01-15 |
@@ -118,7 +119,7 @@
 | [La Maquina](https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Desde la Expogan 2023](https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7) | 2:18 | 2026-01-15 |  |
 | [La Mini Mini](https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG) | [La Concentracion](https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG) | [La Concentración, Vol\. XXV](https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA) | 2:34 | 2026-01-15 |  |
 | [La Mujer del Pelotero](https://open.spotify.com/track/7CjNZMpa03xdHh6YKq1bkf) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [La Mujer del Pelotero](https://open.spotify.com/album/2ZYMElqmRsjho63sBx6q4z) | 3:28 | 2022-01-20 | 2023-04-15 |
-| [La Niña Bonita](https://open.spotify.com/track/1i3hexHTCygkR5DutLOyLp) | [Juan Ortega y Su Grupo](https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv) | [Variado En Vivo, Vol\. 2](https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI) | 1:59 | 2026-01-15 |  |
+| [La Niña Bonita](https://open.spotify.com/track/1i3hexHTCygkR5DutLOyLp) | [Juan Ortega y Su Grupo](https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv) | [Variado En Vivo, Vol\. 2](https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI) | 1:59 | 2026-01-15 | 2026-03-28 |
 | [La Pergola](https://open.spotify.com/track/6dHS9VwI5uiikL7ndmUXy1) | [Grupo PautAzul](https://open.spotify.com/artist/7ddJnv9Z6QYeRTK9AAp7fM) | [PautAzul](https://open.spotify.com/album/22X42Hu7v0Dv5F4kH6qK6R) | 3:29 | 2026-01-15 |  |
 | [La Picare](https://open.spotify.com/track/3093JTV4C7j3OgiUfZ59dN) | [Remolinos De Fabian Gomez](https://open.spotify.com/artist/5eR6z87GicGwCHgsEgrN4k) | [La Parranda](https://open.spotify.com/album/5JB1LQP5SHE7gkO3olHaAO) | 2:36 | 2026-01-15 |  |
 | [La Playa](https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:59 | 2022-01-20 | 2026-01-15 |
@@ -148,6 +149,7 @@
 | [Me Voy al Amanecer](https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Me Voy al Amanecer](https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr) | 3:22 | 2026-02-24 |  |
 | [Medley Apache \(En Vivo\)](https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 11:49 | 2026-01-15 |  |
 | [Medley Cumbias Norteñas](https://open.spotify.com/track/1miIc1olKX1utJvONmiL7B) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Medley Cumbias Norteñas](https://open.spotify.com/album/5qGxG1CfnedlNfhQ3S0OGZ) | 7:27 | 2026-03-13 |  |
+| [Mi Cuchicuchi](https://open.spotify.com/track/3iT8MUB4uGfSDJHBrdsQrf) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Mi Cuchicuchi](https://open.spotify.com/album/1gitcOjLieddsIneXMuK2m) | 3:07 | 2026-03-27 |  |
 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 | 2022-01-20 | 2024-04-19 |
 | [Mi Gusto Es](https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 2:33 | 2022-01-20 | 2026-01-15 |
 | [Mi Gusto Es](https://open.spotify.com/track/6OyZyhNBZTwgMn6zxIS0d7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Nuestra Historia](https://open.spotify.com/album/32OdNOo5ASvpnCZAMoxO6I) | 2:35 | 2022-01-20 | 2022-11-13 |

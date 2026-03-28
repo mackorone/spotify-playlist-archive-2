@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > BLANCO e Elisa insieme in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,099 likes - 136 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,124 likes - 136 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 32 | [Vulcano](https://open.spotify.com/track/1OWAVqDhJ2w1gupu9HZE7b) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Agonia](https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW) | 3:24 |
 | 33 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
 | 34 | [Ciao](https://open.spotify.com/track/1CvTWRA1EGFuLkaglsr9mj) | [Mannarino](https://open.spotify.com/artist/6C1PGrTsXqP3wo8kTRhrqm) | [Ciao](https://open.spotify.com/album/1bkBBUjcvATI1cDFGggzGA) | 4:45 |
-| 35 | [Track 3](https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz) | [Piotta](https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx) | [Si riparano ricordi](https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1) | 0:00 |
+| 35 | [E così te ne vai](https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz) | [Piotta](https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx) | [Si riparano ricordi](https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1) | 2:51 |
 | 36 | [Mille nodi \(feat\. Ghemon\)](https://open.spotify.com/track/6lcBWQXvkk0OxaRl0n43BR) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Mille nodi \(feat\. Ghemon\)](https://open.spotify.com/album/4dGvTZoruNgthXhvfYwUBx) | 3:18 |
 | 37 | [Sideways \(feat\. Coco Jones\)](https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 3:55 |
 | 38 | [The Best](https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Best](https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY) | 3:48 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 75 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
 | 76 | [I'm In Trouble \(feat\. Norah Jones\)](https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Love or Lack Thereof](https://open.spotify.com/album/778SMcYzULEI52vOMo2rFX) | 3:40 |
 | 77 | [more than just a little bit](https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [more than just a little bit](https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv) | 2:40 |
-| 78 | [Surfboard](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Surfboard](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:32 |
+| 78 | [SURFBOARD](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SURFBOARD](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:32 |
 | 79 | [\(KIERO +\)](https://open.spotify.com/track/3wGYSEBoGdRPFBvJCmugNJ) | [Muriel](https://open.spotify.com/artist/1H4RtXeHusPL9XHlsiQHuf) | [\(NUNCA + / KIERO +\)](https://open.spotify.com/album/3CTYclWmCZixRnwQaaWKJc) | 2:45 |
 | 80 | [non mi riconosco più](https://open.spotify.com/track/5ojvMkVsKzctAwISK4PbbV) | [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [non mi riconosco più](https://open.spotify.com/album/3GWo7ojuhg0OfPu4ism5Qj) | 2:59 |
 | 81 | [Blu](https://open.spotify.com/track/6mpXviP6qIzSeSmK1suOW2) | [Edo](https://open.spotify.com/artist/1xZTUnNzrfheALu3TCcRof) | [Blu](https://open.spotify.com/album/75MNiy10N5QbLY1cjDxY8u) | 2:54 |

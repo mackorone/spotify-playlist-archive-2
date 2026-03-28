@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 219130,
       "name": "Baby I've Got It",
       "url": "https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5"
@@ -548,6 +548,24 @@
       "duration_ms": 305065,
       "name": "BY MY SIDE",
       "url": "https://open.spotify.com/track/5qP1Nk4oybYfeFgueTB7Wy"
+    },
+    {
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/2Vzt3e0Zn0qrxRgsEWVWTJ"
+      },
+      "artists": [
+        {
+          "name": "Girl Upstairs",
+          "url": "https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200744,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T"
     },
     {
       "album": {
@@ -3584,6 +3602,24 @@
       "duration_ms": 174221,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/4uMQq8reW5LTIj938Oouk5"
+    },
+    {
+      "album": {
+        "name": "Your Sign",
+        "url": "https://open.spotify.com/album/3wY2mhYXNCYs2VQtq8WIe3"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212437,
+      "name": "Your Sign",
+      "url": "https://open.spotify.com/track/4oxCyxj46lqD1pIyQX99In"
     },
     {
       "album": {

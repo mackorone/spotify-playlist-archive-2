@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "CATTLE",
+        "url": "https://open.spotify.com/album/4n86SabGo3rJfbAgnPqBm4"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98360,
+      "name": "CATTLE",
+      "url": "https://open.spotify.com/track/6Fx8SSWIaMnFZv9eAGFIXm"
+    },
+    {
+      "album": {
         "name": "Glow In The Dark",
         "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
       },
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 97026,
       "name": "Rain",
       "url": "https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA"

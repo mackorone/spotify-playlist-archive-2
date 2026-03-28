@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "New music from RAYE, Shakes & Les, Thatohatsi, Central Cee and more.",
+  "description": "New music from RAYE, Shakes & Les, Central Cee, Angelique Kidjo & Ayra Starr and more.",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -25779,6 +25779,32 @@
     },
     {
       "album": {
+        "name": "2 The Moon",
+        "url": "https://open.spotify.com/album/5Qke3Ocs8xy0jRVOKTlPKz"
+      },
+      "artists": [
+        {
+          "name": "Tango Supreme",
+          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Mbuxx",
+          "url": "https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477942,
+      "name": "Black Mampatile",
+      "url": "https://open.spotify.com/track/0SBgzIRrAI0lwoTHNiXrhu"
+    },
+    {
+      "album": {
         "name": "Black Music (Club Mix)",
         "url": "https://open.spotify.com/album/1kzv2mROAmV1L0xkS7LOQo"
       },
@@ -32414,6 +32440,28 @@
       "duration_ms": 159428,
       "name": "Cana",
       "url": "https://open.spotify.com/track/7A07lS4vDCUUvuHzorS1ZW"
+    },
+    {
+      "album": {
+        "name": "Cancella Lenyalo",
+        "url": "https://open.spotify.com/album/0FUYsC0juXZOKlGdUPNasI"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Blissbouy",
+          "url": "https://open.spotify.com/artist/5ARjIgJZ4I9tbZ9lMGeakT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250952,
+      "name": "Cancella Lenyalo",
+      "url": "https://open.spotify.com/track/5zu1jwHToK1BxF86RkJmDr"
     },
     {
       "album": {
@@ -49055,6 +49103,44 @@
     },
     {
       "album": {
+        "name": "Welcome to Durban",
+        "url": "https://open.spotify.com/album/6WQ7IktI8t2xuWjRnThpF7"
+      },
+      "artists": [
+        {
+          "name": "Dankie Boi",
+          "url": "https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Solan Lo",
+          "url": "https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq"
+        },
+        {
+          "name": "Andile Mpisane",
+          "url": "https://open.spotify.com/artist/5yKvbBP5z1hSGsodl6resr"
+        },
+        {
+          "name": "Mgilane",
+          "url": "https://open.spotify.com/artist/4slppI2zvIkWxKR1KmGRoI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352440,
+      "name": "Durban Sound (feat. Andile Mpisane & Mgilane)",
+      "url": "https://open.spotify.com/track/45N6KH3SHzpQTHtXHltG28"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
       },
@@ -53904,6 +53990,36 @@
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "album": {
+        "name": "NOSANGE",
+        "url": "https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "GVNT",
+          "url": "https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ"
+        },
+        {
+          "name": "Shwi Mantombazane",
+          "url": "https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "EThekwini (feat. Shwi Mantombazane)",
+      "url": "https://open.spotify.com/track/0uqXtHOucKim6xknqVXy9R"
     },
     {
       "album": {
@@ -62998,7 +63114,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 407809,
       "name": "Galile",
       "url": "https://open.spotify.com/track/7vYXyF7AaqvMpumkmMOiys"
@@ -130571,6 +130687,32 @@
     },
     {
       "album": {
+        "name": "Nam Angeke",
+        "url": "https://open.spotify.com/album/4WGQK6EvgEUa8vGP8RcwCt"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Sami'Kay",
+          "url": "https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7"
+        },
+        {
+          "name": "MSA",
+          "url": "https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256313,
+      "name": "Nam Angeke",
+      "url": "https://open.spotify.com/track/4RLmqf3MOWLJZRwuip6Xgc"
+    },
+    {
+      "album": {
         "name": "Namhlanje",
         "url": "https://open.spotify.com/album/7vAqgK4yDWXm85WVuKY1Jo"
       },
@@ -133854,6 +133996,44 @@
       "duration_ms": 151518,
       "name": "Ngeke Nilunge (feat. Umntungwambulazi)",
       "url": "https://open.spotify.com/track/0orJdBFECzaoMLmFpz75Xv"
+    },
+    {
+      "album": {
+        "name": "My Side Of The Story",
+        "url": "https://open.spotify.com/album/5XlLfTYDjodUOxbZr8I0BK"
+      },
+      "artists": [
+        {
+          "name": "Nation Deep",
+          "url": "https://open.spotify.com/artist/1q2d9E5Lp9a8p0YbJwSh9T"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Mpho Spizzy",
+          "url": "https://open.spotify.com/artist/6or3L6AbGx83tADuwcS3PF"
+        },
+        {
+          "name": "E&V MusiQue",
+          "url": "https://open.spotify.com/artist/1TF5dtY3knLl2GkMJXhIi3"
+        },
+        {
+          "name": "Trp Muziq",
+          "url": "https://open.spotify.com/artist/6meJG6P96EOE0JEt4BAat0"
+        },
+        {
+          "name": "Morena Deh Keys",
+          "url": "https://open.spotify.com/artist/72M3JYXoCWnXFUhUrhiKWF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373838,
+      "name": "Ngeke Sxole (feat. E&V MusiQue, Trp Muziq & Morena Deh keys)",
+      "url": "https://open.spotify.com/track/3wTUGRQ8vEhIGObJJaDzlp"
     },
     {
       "album": {
@@ -137750,6 +137930,32 @@
       "duration_ms": 360997,
       "name": "Njalo",
       "url": "https://open.spotify.com/track/7d5mCjXNlMmNz9SlBWR9F4"
+    },
+    {
+      "album": {
+        "name": "NJALO (feat. Moozlie & Buzzi Lee)",
+        "url": "https://open.spotify.com/album/3PolUmJLtlGSrFZWq9NaNW"
+      },
+      "artists": [
+        {
+          "name": "Nelz",
+          "url": "https://open.spotify.com/artist/1nYQzmyKri9MijJSG4jKbb"
+        },
+        {
+          "name": "Moozlie",
+          "url": "https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "NJALO (feat. Moozlie & Buzzi Lee)",
+      "url": "https://open.spotify.com/track/3OZKzVUgR8lKTS9WECCmtE"
     },
     {
       "album": {
@@ -149987,6 +150193,32 @@
     },
     {
       "album": {
+        "name": "Jigi Jigi Vol. 2",
+        "url": "https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186429,
+      "name": "PERFECT",
+      "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
+    },
+    {
+      "album": {
         "name": "Perfectly",
         "url": "https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD"
       },
@@ -158091,6 +158323,24 @@
     },
     {
       "album": {
+        "name": "REST OF YOUR LIFE",
+        "url": "https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271838,
+      "name": "Rest Of Your Life",
+      "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
+    },
+    {
+      "album": {
         "name": "Resting Sad Face",
         "url": "https://open.spotify.com/album/6GkZjWmvOZhU8YcBG2tfPO"
       },
@@ -159346,6 +159596,24 @@
       "duration_ms": 143756,
       "name": "Rodo",
       "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
+    },
+    {
+      "album": {
+        "name": "Roger Dat",
+        "url": "https://open.spotify.com/album/5bwUWB78iWMTw3ddYl9MyE"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143293,
+      "name": "Roger Dat",
+      "url": "https://open.spotify.com/track/2X8O24qQpYLIpPqZlRCd1r"
     },
     {
       "album": {
@@ -193300,60 +193568,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT"
-    },
-    {
-      "album": {
-        "name": "2 The Moon",
-        "url": "https://open.spotify.com/album/5Qke3Ocs8xy0jRVOKTlPKz"
-      },
-      "artists": [
-        {
-          "name": "Tango Supreme",
-          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0SBgzIRrAI0lwoTHNiXrhu"
-    },
-    {
-      "album": {
-        "name": "REST OF YOUR LIFE",
-        "url": "https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
-    },
-    {
-      "album": {
-        "name": "Jigi Jigi Vol. 2",
-        "url": "https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
     },
     {
       "album": {

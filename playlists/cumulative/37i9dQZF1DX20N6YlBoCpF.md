@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met MOEGOE, Die Piesangskille, Danny Smoke, Nicholis Louw en meer!
 
-2,489 songs - 5 day 18 hr 30 min
+2,490 songs - 5 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1403,7 +1403,7 @@
 | [Meisie](https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Meisie](https://open.spotify.com/album/11ZDOCvUNFJbbrQgaG4A3M) | 2:35 | 2024-12-12 | 2025-03-07 |
 | [Meisie van die Stad \- Remix](https://open.spotify.com/track/21qszv6R8xhZpMuitcJUGW) | [Righardt Rigter](https://open.spotify.com/artist/2morcLyTNbn5LqIUgmZWvU) | [Meisie van die Stad \(Remix\)](https://open.spotify.com/album/04LqqLhmwNePCOU1F0hV3B) | 3:08 | 2025-03-13 | 2025-04-04 |
 | [Meisie Van Fraserburg](https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc) | [Francois Boyce](https://open.spotify.com/artist/0Hyqs3YkRrCLahzGsb8qk3) | [Meisie van Fraserburg](https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g) | 3:04 | 2022-09-22 | 2022-10-07 |
-| [Meisie Van My Drome](https://open.spotify.com/track/2lg9qBGh5eWYu8By9ASjlY) | [Desmond Wells](https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19) | [Meisie Van My Drome](https://open.spotify.com/album/4tkXQNpAKhTiOtwV0hBVTA) | 3:31 | 2026-01-08 |  |
+| [Meisie Van My Drome](https://open.spotify.com/track/2lg9qBGh5eWYu8By9ASjlY) | [Desmond Wells](https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19) | [Meisie Van My Drome](https://open.spotify.com/album/4tkXQNpAKhTiOtwV0hBVTA) | 3:31 | 2026-01-08 | 2026-03-28 |
 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 | 2024-07-04 | 2024-12-06 |
 | [Meisiekind](https://open.spotify.com/track/7za5EDMdwgd6uhQeOKq8kv) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [Meisiekind](https://open.spotify.com/album/76ujbnVpcISVI3uO3xe3Ck) | 4:19 | 2025-09-04 | 2025-12-05 |
 | [Meisiesfontein](https://open.spotify.com/track/5LDGLm6yYpeol850thZVJg) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Meisiesfontein](https://open.spotify.com/album/27EC0xnYStcjdqFkCgRfmk) | 3:58 | 2022-12-27 | 2023-01-02 |
@@ -1903,6 +1903,7 @@
 | [SIT MY AAN](https://open.spotify.com/track/4kv2OCdhsFAXAhEGlCIR4y) | [Bjarne](https://open.spotify.com/artist/2e6piu8T6ZcZjC3UOAhJSW), [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1) | [SIT MY AAN](https://open.spotify.com/album/5mGOgLBYMmxUEoRpNhXrCJ) | 2:39 | 2024-10-10 | 2024-12-20 |
 | [Sit Op My](https://open.spotify.com/track/3fUSXv9kqIpBIn7GAs02yh) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Sit Op My](https://open.spotify.com/album/3VQQVjPGZXC5v8nginiv4r) | 2:49 | 2023-11-30 | 2023-12-22 |
 | [Sjoe Sjoe](https://open.spotify.com/track/57uwZN7Nr5zoWmb9m2bsJ8) | [Groot Geraas](https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC) | [Sjoe Sjoe](https://open.spotify.com/album/2Z6K8G8mohkxnCiQDmZeUA) | 2:54 | 2024-02-08 | 2024-02-23 |
+| [Skaakmat](https://open.spotify.com/track/47CTcKuABlWUJ89Lyikx56) | [PJ Moll](https://open.spotify.com/artist/2DxTse8dON1AbgTlo2cvHR) | [Skaakmat](https://open.spotify.com/album/1a4D35n5AvB5rKEYOaCJJB) | 2:44 | 2026-03-27 |  |
 | [Skaapgenade](https://open.spotify.com/track/2NrYDDBj5NwzdpUpQQQtOa) | [Mensdom](https://open.spotify.com/artist/6dYzDh337aHBZUsHhscX9l) | [Skaapgenade](https://open.spotify.com/album/1OWBcopRqELdJPUVtx3k0p) | 3:19 | 2025-02-27 | 2025-03-07 |
 | [Skadu's](https://open.spotify.com/track/3OTeEtTzSM8tjIeFOWGt4D) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Skadu's](https://open.spotify.com/album/19z6p5VxLKfkFvFeVAEFoY) | 3:08 | 2024-06-06 | 2024-06-14 |
 | [SKATTE](https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [SKATTE](https://open.spotify.com/album/3ZIehpIP6HTBbfAEtkdn2G) | 3:56 | 2022-10-06 | 2022-10-21 |

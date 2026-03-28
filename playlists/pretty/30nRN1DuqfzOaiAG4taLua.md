@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 
 > 
 
-[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 63 songs - 3 hr 27 min
+[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 64 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 | 61 | [Light The Fire](https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Light The Fire](https://open.spotify.com/album/1Y0EMZfHy9iiUcrVE0Hzfb) | 3:02 |
 | 62 | [More Than A Friend](https://open.spotify.com/track/1MkyyWEEiSsInhZwfk8KvY) | [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [More Than Friends](https://open.spotify.com/album/5GViFW9eVnhdrMZZVLXpEw) | 3:23 |
 | 63 | [real 4 me](https://open.spotify.com/track/5REKvuYgfoy1LzwG6JC8Qg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [real 4 me \(BKAYE VIP\)](https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv) | 2:25 |
+| 64 | [Pa'lante Pa'Atras](https://open.spotify.com/track/7rJBEchMUTTXv28F7oUIju) | [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [Pa'lante Pa'Atras](https://open.spotify.com/album/6XNKOvcCUq3T7vRa2lH1n1) | 2:41 |
 
-Snapshot ID: `AAAAZRrrKOq3zNmJOnQjJ4lcg9/xXFz6`
+Snapshot ID: `AAAAZo2GjIGQuAPTGk10bW6WIA5JgZ3p`

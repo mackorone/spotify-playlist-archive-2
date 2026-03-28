@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Disappeared for a Day",
+        "url": "https://open.spotify.com/album/0BUGG2lzrwsWIzN8mFIUhm"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140854,
+      "name": "Disappeared for a Day",
+      "url": "https://open.spotify.com/track/661n1O8IAyvGoB8DjCXqRF"
+    },
+    {
+      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
       },
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 176341,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/6yGZttEiKNuSlim8guXSl3"
@@ -5855,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "in the same breath",
+        "url": "https://open.spotify.com/album/0GsvxOzW7CHcqcALo24Gev"
+      },
+      "artists": [
+        {
+          "name": "Nouri",
+          "url": "https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157188,
+      "name": "in the same breath",
+      "url": "https://open.spotify.com/track/3e4D9s3lgLTvmQNCOwloPd"
+    },
+    {
+      "album": {
         "name": "In the Still of the Night",
         "url": "https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S"
       },
@@ -6658,7 +6694,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 132425,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/1uaoVLtYpEbCJaQqQ78mbL"
@@ -7648,7 +7684,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 135166,
       "name": "Moments like these",
       "url": "https://open.spotify.com/track/2GUX2SSimlXLvvdPDzp3qK"
@@ -8174,6 +8210,24 @@
       "duration_ms": 151283,
       "name": "Narrative Plots",
       "url": "https://open.spotify.com/track/04kxiPz27M53foJBfuucne"
+    },
+    {
+      "album": {
+        "name": "Neat",
+        "url": "https://open.spotify.com/album/7roDBFdvNTm06wsuFUXosT"
+      },
+      "artists": [
+        {
+          "name": "A. Mayven",
+          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Neat",
+      "url": "https://open.spotify.com/track/7kRhG55tZ6RHDh1JsnckqH"
     },
     {
       "album": {
@@ -11162,7 +11216,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178000,
       "name": "Tender Is The Quiet",
       "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
@@ -13074,6 +13128,24 @@
       "duration_ms": 146000,
       "name": "Where Oceans Meet",
       "url": "https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq"
+    },
+    {
+      "album": {
+        "name": "Where the Streetlights Blur",
+        "url": "https://open.spotify.com/album/3MV1uqxpaW9wBFPm7JYq4D"
+      },
+      "artists": [
+        {
+          "name": "Paolo Biscottini",
+          "url": "https://open.spotify.com/artist/6XTAgjCPixFSoiGjxVvDhN"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "Where the Streetlights Blur",
+      "url": "https://open.spotify.com/track/5AwApnUgMGh92Oc9UD5fNb"
     },
     {
       "album": {

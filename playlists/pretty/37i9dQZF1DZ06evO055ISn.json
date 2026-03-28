@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 146521,
+  "num_followers": 146756,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAAC5/xIrEdrKxM45+kRB6acn",
+  "snapshot_id": "acR3AAAAAAAT32zLqiWbc9TEBhzYisyg",
   "tracks": [
     {
       "added_at": null,
@@ -182,15 +182,11 @@
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R"
+      "duration_ms": 161105,
+      "name": "You Can't Stop This",
+      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
     },
     {
       "added_at": null,
@@ -250,11 +246,15 @@
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 161105,
-      "name": "You Can't Stop This",
-      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 5 Years of EQUAL. Cover: Zolita",
-  "num_followers": 65074,
+  "num_followers": 65075,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-03-19 21:36:37",
       "album": {
-        "name": "Silver Deliverer",
-        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 340402,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
-    },
-    {
-      "added_at": "2026-03-19 21:36:37",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 205962,
       "name": "If God Is a Woman",
       "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
+    },
+    {
+      "added_at": "2026-03-19 21:36:37",
+      "album": {
+        "name": "Silver Deliverer",
+        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 340402,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
     },
     {
       "added_at": "2026-03-19 21:36:37",

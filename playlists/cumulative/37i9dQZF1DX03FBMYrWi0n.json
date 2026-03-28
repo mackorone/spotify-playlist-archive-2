@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: zouz",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Les Lunatiques",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "L'Autre Plan\u00e8te",
+        "url": "https://open.spotify.com/album/6pQrjePneEY8n48IEut8xO"
+      },
+      "artists": [
+        {
+          "name": "Lezart",
+          "url": "https://open.spotify.com/artist/5etA7DiI28DcBwAacpB8EM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349927,
+      "name": "Autour de Moi",
+      "url": "https://open.spotify.com/track/1unSFD958Rtx43wHr5Y9Cm"
+    },
+    {
+      "album": {
         "name": "Accusez r\u00e9ception",
         "url": "https://open.spotify.com/album/7nnEcglxzIcJPqVsxfVwHV"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 244521,
       "name": "Better Watch Your Step",
       "url": "https://open.spotify.com/track/5qzGcqTYmpxksVhs4dppzP"
@@ -896,7 +914,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 209946,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt"
@@ -976,6 +994,28 @@
       "duration_ms": 264891,
       "name": "blood pareil",
       "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
+    },
+    {
+      "album": {
+        "name": "WHY ALWAYS MUSIC?",
+        "url": "https://open.spotify.com/album/0AaHsyohFkudAoCGmCmOYb"
+      },
+      "artists": [
+        {
+          "name": "Peypo",
+          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
+        },
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "boucan \u00e0 l'\u00e9tage",
+      "url": "https://open.spotify.com/track/2cU2yboOs2Cyzc1RlOu3fy"
     },
     {
       "album": {
@@ -2713,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Traitement Choc",
+        "url": "https://open.spotify.com/album/08a6ND8gt6KMUn3aGOn52M"
+      },
+      "artists": [
+        {
+          "name": "Les Lunatiques",
+          "url": "https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273010,
+      "name": "Fuck that shit",
+      "url": "https://open.spotify.com/track/5TYHTMqKSiPG03EvWaHXJD"
+    },
+    {
+      "album": {
         "name": "Knuckle Breaker Maxxx",
         "url": "https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD"
       },
@@ -2983,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Lutter contre l'intelligence",
+        "url": "https://open.spotify.com/album/6oOD3s3oPTU9I4X1QVW8cl"
+      },
+      "artists": [
+        {
+          "name": "PasMort",
+          "url": "https://open.spotify.com/artist/2uTrwIsXDbJ4b1JRwTzt6o"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100376,
+      "name": "Homme-rat",
+      "url": "https://open.spotify.com/track/4paKkuLXTrn7zsAAzv1Agv"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -3110,7 +3186,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 173866,
       "name": "i+i - Audiotree Live Version",
       "url": "https://open.spotify.com/track/6ARvNqFaxXEKvzyEMQ1NZc"
@@ -3648,7 +3724,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 246426,
       "name": "Kill",
       "url": "https://open.spotify.com/track/4WN5VZDsmxViXaBqEhkCvJ"
@@ -3926,7 +4002,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 236458,
       "name": "La Taupe",
       "url": "https://open.spotify.com/track/2ctW3ljNtsdNv3UntOvMh1"
@@ -4704,7 +4780,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 369863,
       "name": "Mata Zyklek",
       "url": "https://open.spotify.com/track/5vAwtTz0syQ1Q86R1B3faz"
@@ -4974,7 +5050,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 147529,
       "name": "my favourite mug",
       "url": "https://open.spotify.com/track/46BpqFUexJPMX28RkCVs4F"
@@ -5274,7 +5350,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 242528,
       "name": "NYMPHE",
       "url": "https://open.spotify.com/track/2iuKnXbOy7qIYzeevDi5nC"
@@ -5646,7 +5722,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 205748,
       "name": "Pepperina",
       "url": "https://open.spotify.com/track/6gsA1AEHbMx4s2T9dZYlAK"
@@ -5860,7 +5936,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 168860,
       "name": "Plus d'amis",
       "url": "https://open.spotify.com/track/7dmg9AF5ZHAGOUpW7JkrLs"
@@ -6066,7 +6142,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 246140,
       "name": "Qu'est-ce tu fais l\u00e0?",
       "url": "https://open.spotify.com/track/7sx4Oa7bNUPs1tBq8JYRLK"
@@ -6812,7 +6888,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 177293,
       "name": "Super Impose",
       "url": "https://open.spotify.com/track/28hxJxxV9MexXi4XV3kS4N"
@@ -6978,6 +7054,24 @@
       "duration_ms": 210681,
       "name": "The Cost of Freedom",
       "url": "https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2"
+    },
+    {
+      "album": {
+        "name": "The Fog",
+        "url": "https://open.spotify.com/album/2TIBAa6QLF17KwPaTDdTIq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247679,
+      "name": "The Fog",
+      "url": "https://open.spotify.com/track/72saKsaBaeNVtxaYPl2nS7"
     },
     {
       "album": {
@@ -7436,7 +7530,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 291416,
       "name": "v(.)id",
       "url": "https://open.spotify.com/track/3ORFKDDcnkzQqJ4qCZ3SmW"
@@ -7544,7 +7638,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 116252,
       "name": "Vivre et mourir en r\u00e9gion",
       "url": "https://open.spotify.com/track/1pTlJ53M2ulqDpNus0FXSH"
@@ -7850,7 +7944,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 290331,
       "name": "You Put the Fear in Me",
       "url": "https://open.spotify.com/track/0uJAWqKLR4sf5VNtVDs1P5"

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUSHGSJhLype) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUSHGSJhLype)
 
-### [Puro Suco do Verão](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
+### [Puro Suco do Brasil](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Manu, Léo Santana
+> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Léo Santana
 
-562 songs - 1 day 3 hr 7 min
+563 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ABC da Vaquejada](https://open.spotify.com/track/7uJpUWXsjPl4b0pXVPMDef) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [ABC da Vaquejada](https://open.spotify.com/album/3QwSMBYobRGndOgkGzO6TS) | 2:25 | 2025-10-17 | 2025-11-29 |
 | [Acabou o Amor](https://open.spotify.com/track/0qdMBxjvPgcsgE7emfYwss) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Acabou o Amor](https://open.spotify.com/album/3aXUQODQwXPbgpLFynmAuP) | 2:52 | 2024-06-21 | 2024-07-06 |
 | [Acabou O Sossego](https://open.spotify.com/track/2WroBXHwnJLYGX1p3Hct5w) | [Repertório Atualizado](https://open.spotify.com/artist/7onbAlsnG8lvBiIBl1m1DN) | [Acabou O Sossego](https://open.spotify.com/album/0toBC6zKZKiimstNK2XtZk) | 3:39 | 2024-04-19 | 2024-12-21 |
+| [Academia \- Ao Vivo](https://open.spotify.com/track/2J5xoLFlAdLST47YkYtd0s) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Léo Santana 20 Anos \- DNA De GG \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/4VzsANLdIdY6117Kz21BaA) | 2:22 | 2026-03-27 |  |
 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 | 2024-12-27 | 2025-07-19 |
 | [Adora a bunda, odeia o rosto](https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Adora a bunda, odeia o rosto](https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi) | 2:53 | 2024-12-27 | 2025-04-26 |
 | [Agudo Mágico 4](https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu) | [Agudo Mágico 4](https://open.spotify.com/album/5A6i6FT6QjGhTUQaXk2TAb) | 3:10 | 2023-10-23 | 2023-11-25 |

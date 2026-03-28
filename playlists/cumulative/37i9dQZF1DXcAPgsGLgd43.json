@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -2440,6 +2440,28 @@
     {
       "album": {
         "name": "Claro",
+        "url": "https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159045,
+      "name": "Claro",
+      "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
+    },
+    {
+      "album": {
+        "name": "Claro",
         "url": "https://open.spotify.com/album/2l44I0N3YeYrsIGzPx1C5Q"
       },
       "artists": [
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 156768,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
@@ -3054,7 +3076,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 206040,
       "name": "Cumbiambera",
       "url": "https://open.spotify.com/track/5vRg7h3qUSt9H8ziOuXN10"
@@ -3238,7 +3260,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 185476,
       "name": "Dame Mas",
       "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
@@ -3640,6 +3662,32 @@
       "duration_ms": 274833,
       "name": "Dirty Spanish",
       "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+    },
+    {
+      "album": {
+        "name": "Welcome To Hell V",
+        "url": "https://open.spotify.com/album/1xxt6mwX1slJ3xVS7Hts5r"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5F3JS34ZfAzcgqn8wxOEjS"
+        },
+        {
+          "name": "DLPIN",
+          "url": "https://open.spotify.com/artist/0jQNtwTGDK6XnyhjtrBG3Y"
+        },
+        {
+          "name": "PAUL MARTIN",
+          "url": "https://open.spotify.com/artist/5IEJME1e6gNRTJ0prpsk2p"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Discoteka",
+      "url": "https://open.spotify.com/track/2abr9Y9cX5ughIKV0E4ay5"
     },
     {
       "album": {
@@ -5012,6 +5060,28 @@
       "duration_ms": 157230,
       "name": "Kuba",
       "url": "https://open.spotify.com/track/7Mv6lRAkJt83BSqBLDDTY1"
+    },
+    {
+      "album": {
+        "name": "La Bailarina",
+        "url": "https://open.spotify.com/album/6DxszvZbcxSE2f8PJ2DS5S"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Ibarra",
+          "url": "https://open.spotify.com/artist/66Rchqz74H1NhQFMv5sUCf"
+        },
+        {
+          "name": "Xotto",
+          "url": "https://open.spotify.com/artist/6nvjCOWYBl94cnhiZqvA6I"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235147,
+      "name": "La Bailarina",
+      "url": "https://open.spotify.com/track/25FyS1sgFGWuKGNFfJSkX1"
     },
     {
       "album": {
@@ -7015,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "No Me Mires M\u00e1s",
+        "url": "https://open.spotify.com/album/1Uuo8SstbdehX1umlem7ZJ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "No Me Mires M\u00e1s",
+      "url": "https://open.spotify.com/track/4dURWnDKDK9UqX19qnv9v7"
+    },
+    {
+      "album": {
         "name": "No Paramos",
         "url": "https://open.spotify.com/album/1UGr6Elb8Yb9Hv5Nq4KbPJ"
       },
@@ -7610,7 +7698,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -7942,6 +8030,24 @@
       "duration_ms": 244570,
       "name": "Pliva",
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
+      "album": {
+        "name": "Road To Miami EP",
+        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Poco Poco",
+      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
     },
     {
       "album": {

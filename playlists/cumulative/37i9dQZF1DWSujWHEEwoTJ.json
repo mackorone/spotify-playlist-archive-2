@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "rolitas chilas para chirotear y pegar un bailad\u00f3n con Javier Rosas, Los Pikadientes de Caborca.",
+  "description": "rolitas chilas para chirotear y pegar un bailad\u00f3n con Grupo Laberinto.",
   "name": "As\u00ed Se Baila en Sonora",
   "tracks": [
     {
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "El Shampoo",
+        "url": "https://open.spotify.com/album/5ITv0sNGXkWvGzSdJd1TzM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176482,
+      "name": "El Shampoo",
+      "url": "https://open.spotify.com/track/6VYo7mksStTsECiWM5VWT8"
+    },
+    {
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
       },
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 136698,
       "name": "La Cadenita",
       "url": "https://open.spotify.com/track/7cWcOgDdbEW875IiLmJq1x"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 119797,
       "name": "La Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/1i3hexHTCygkR5DutLOyLp"
@@ -2674,6 +2692,28 @@
       "duration_ms": 447861,
       "name": "Medley Cumbias Norte\u00f1as",
       "url": "https://open.spotify.com/track/1miIc1olKX1utJvONmiL7B"
+    },
+    {
+      "album": {
+        "name": "Mi Cuchicuchi",
+        "url": "https://open.spotify.com/album/1gitcOjLieddsIneXMuK2m"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187458,
+      "name": "Mi Cuchicuchi",
+      "url": "https://open.spotify.com/track/3iT8MUB4uGfSDJHBrdsQrf"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 78060,
+  "num_followers": 78076,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAAD7ly/sZ1wyHi0RrGaweD6x",
+  "snapshot_id": "acR3AAAAAAC2Gpq0f8N3r41AjhSfWXRg",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Mexicano",
-        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "E, O, E.",
-      "url": "https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie (Remastered 2025)",
         "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 203556,
       "name": "Que G\u00fcera - Remastered 2025",
       "url": "https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "E, O, E.",
+      "url": "https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
       "duration_ms": 256725,
       "name": "Mambo Del Ruletero",
       "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 246944,
+      "name": "Comprate Un Perro",
+      "url": "https://open.spotify.com/track/4GzPGUX07cLRKp25GZQNC3"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 204556,
       "name": "El Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 246944,
-      "name": "Comprate Un Perro",
-      "url": "https://open.spotify.com/track/4GzPGUX07cLRKp25GZQNC3"
     },
     {
       "added_at": null,

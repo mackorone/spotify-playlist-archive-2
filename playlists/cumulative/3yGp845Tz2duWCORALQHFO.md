@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,177 songs - 11 day 19 hr 6 min
+5,177 songs - 11 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1704,6 +1704,7 @@
 | [Get What You Want](https://open.spotify.com/track/2Eq7GMh36cAl1f8QbzzQQX) | [Waxman \(CA\)](https://open.spotify.com/artist/5ahprQyTBdUxt22Usf3OZK) | [Manual Summer Sampler 2024](https://open.spotify.com/album/4LT4IIYMDFyoeRuFNBITSV) | 3:24 | 2024-08-16 | 2024-08-24 |
 | [Get With It](https://open.spotify.com/track/1opBAUAvrDqjUVIEnjcwsy) | [Banyon](https://open.spotify.com/artist/2Lwe1w9cRr9OIQ1az7cjeJ) | [Get With It](https://open.spotify.com/album/5GXyimC4dN09t8N6upL4zz) | 3:20 | 2024-12-13 | 2025-01-04 |
 | [Get You Higher](https://open.spotify.com/track/2biBGUow19RzQLvYYrFzMw) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Pavlo Vicci](https://open.spotify.com/artist/4yDkOQ5CNaFwntZSYLKVUp) | [Get You Higher](https://open.spotify.com/album/2KepQRVcXCWn88wudY7vC8) | 4:24 | 2025-04-08 | 2025-04-12 |
+| [Getaway](https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 2:53 | 2026-03-26 |  |
 | [Ghost](https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Ghost](https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk) | 2:32 | 2024-12-05 | 2024-12-14 |
 | [Ghost](https://open.spotify.com/track/4Qcr0GiF82JxSjbgZKJ5od) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Ghost](https://open.spotify.com/album/3Mb4sN3Q4wdQeWf8dL4ITN) | 3:04 | 2024-10-11 | 2024-10-22 |
 | [Ghost Of You](https://open.spotify.com/track/7LEgfuDZDT7F009SwE1DnT) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [beno](https://open.spotify.com/artist/77KJdHxfLGGNmoGy0NZvlm) | [Ghost Of You](https://open.spotify.com/album/3T2sIgyUOhnjHoQaVeYZg7) | 2:36 | 2025-02-21 | 2025-03-01 |
@@ -4657,7 +4658,6 @@
 | [Touched by God](https://open.spotify.com/track/6QKqPGT1hMgjG4sIeohpto) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj) | [Touched by God](https://open.spotify.com/album/3liGzErlHWUOkazEOqJT2h) | 3:40 | 2025-04-11 | 2025-04-19 |
 | [Touching Heaven](https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Touching Heaven](https://open.spotify.com/album/5lbRvxMrww2GdKMxb8R0SY) | 2:38 | 2024-11-22 | 2024-11-25 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-28 | 2025-04-11 |
-| [Track 2](https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 0:00 | 2026-03-26 |  |
 | [Trae](https://open.spotify.com/track/1bCcxJXoGseayNcs3iSZgu) | [ZOOGY BLESS](https://open.spotify.com/artist/6zZz4AHvx5OsfCz7QhwKbr) | [Trae](https://open.spotify.com/album/7j1dX7XB2CBwCH76QcxZkZ) | 3:00 | 2025-06-16 | 2025-06-21 |
 | [Train of Thoughts](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Train of Thoughts](https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD) | 3:26 | 2024-09-13 | 2024-09-21 |
 | [Train Tune](https://open.spotify.com/track/6K2uj25CgAqyvq1b3YpOMU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [MAD DUBZ](https://open.spotify.com/artist/4TQ72C7aaARXGuHB7qBPk7) | [Train Tune](https://open.spotify.com/album/7sjx1Flznl1Z6GDlUrGJI8) | 3:49 | 2026-01-29 | 2026-02-07 |

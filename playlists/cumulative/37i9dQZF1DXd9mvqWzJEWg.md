@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Tira, Dankie Boi
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: Lelowhatsgood, Uncle Ken, Moonchild Sanelly
 
-538 songs - 1 day 23 hr 40 min
+539 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Bless Them](https://open.spotify.com/track/6hQkZHn6ktTAPb3YdYF15M) | [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC), [Aries Rose](https://open.spotify.com/artist/18MjyoHifvEC3g6yfSPeH4), [Dj Lifa](https://open.spotify.com/artist/39R1LzjsKyNu8YiJuhvURu) | [Gqom With Criteria](https://open.spotify.com/album/11DC9g3od8oiWrVg2ZKrXQ) | 5:32 | 2023-08-24 | 2024-09-13 |
 | [Bongz Drum](https://open.spotify.com/track/553Wzoku8mywuaPXICrGdu) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F) | [Son Of God](https://open.spotify.com/album/2D4a954znh9Gw5DtX5Vao5) | 6:24 | 2020-01-30 | 2022-11-08 |
 | [Bounce Shandisi](https://open.spotify.com/track/01ld0rQApXOokOGlwhhDN2) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [Bounce Shandisi](https://open.spotify.com/album/2FlNshpm7rhGws83Jy6hUS) | 3:20 | 2023-08-24 | 2024-01-26 |
-| [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 | 2025-07-31 |  |
+| [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 | 2025-07-31 | 2026-03-28 |
 | [Breakfast Embhedeni](https://open.spotify.com/track/3pOwmWdu5ZnQGLJRCOf3Ho) | [Xavier](https://open.spotify.com/artist/6bxJYiLFJixLq9z6RgJil2), [2boi mr captain](https://open.spotify.com/artist/264IfG8pLMUsYbTHmWf6PK), [Ndruza](https://open.spotify.com/artist/7EdEAb5iHBtRlYCqL81k3J), [Sidla Sonke](https://open.spotify.com/artist/0W3CiSsMMzAE9x3k2cII7Z) | [Breakfast Embhedeni](https://open.spotify.com/album/4QNFmWsfnYQJXo91zThJBR) | 4:57 | 2025-05-22 | 2025-06-13 |
 | [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 | 2025-11-07 |  |
 | [Bsuku Bonke](https://open.spotify.com/track/6Y1j0kDFFAD92HzDkQxSWm) | [DJ Mavu](https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu), [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL), [Mfana we style](https://open.spotify.com/artist/6cJZ0659uwUPdMZjRQZKW3) | [Bsuku Bonke](https://open.spotify.com/album/4yLCriIUHqJODj9zTegLRh) | 5:43 | 2025-05-02 | 2025-08-20 |
@@ -103,6 +103,7 @@
 | [Dedela](https://open.spotify.com/track/34XVp2e2IOBni6BfXhV03I) | [Sjongo\-Boiz](https://open.spotify.com/artist/1ssXiNWMyBVXONXmgNsuzN), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr) | [Dedela](https://open.spotify.com/album/3sXPf3JW73yJUNcgRasBd0) | 5:22 | 2025-05-22 | 2025-06-20 |
 | [Delhi Distortion](https://open.spotify.com/track/1MBl3clwm40XL2jQFYmXue) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 4:32 | 2024-02-15 | 2024-12-06 |
 | [Dhalsim \- Rotterdam Sghubu](https://open.spotify.com/track/1UCzeMyAYC0FPxqHQi2znV) | [Surreal Sessions](https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E), [DE SCHUURMAN](https://open.spotify.com/artist/4PiQEwBGt6N4Hlblsia5N4) | [Dhalsim \(Rotterdam Sghubu\)](https://open.spotify.com/album/2UDpvZmJo0igItcpOjNGAg) | 4:33 | 2024-05-31 | 2025-04-23 |
+| [Dika](https://open.spotify.com/track/2XALVknNnh2APguPIqsrGE) | [Unkle Ken](https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Rifle Deep](https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ) | [Dika](https://open.spotify.com/album/6hyWmTvJCW2PTbjuJ11ngn) | 6:38 | 2026-03-27 |  |
 | [Dior](https://open.spotify.com/track/7cKBpmpDno8n63pXUM3gPj) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Dankie Boi](https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M) | [Dior](https://open.spotify.com/album/2dfJiHbgngrW5QptfXIWEs) | 5:13 | 2025-05-29 | 2025-07-04 |
 | [Dirty Scooter](https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p) | [Vida\-Soul](https://open.spotify.com/artist/6u8wlBgWGcHLUvSDNfAYXu) | [Green Light](https://open.spotify.com/album/6wc5kA4Opm6zkyoSAXjQTt) | 6:36 | 2023-04-27 | 2023-11-11 |
 | [Dlozi'kal](https://open.spotify.com/track/6QBlv2ZPGWvUjPyNPHFVR7) | [DJ Mavu](https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu) | [Dlozi'kal](https://open.spotify.com/album/5Hogbhdd0CzuTwG4HYodWj) | 6:09 | 2025-08-21 |  |

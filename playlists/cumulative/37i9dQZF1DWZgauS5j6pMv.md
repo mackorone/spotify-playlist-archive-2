@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: MonoNeon
+> The best of today's funk\. Cover: The Philharmonik
 
-501 songs - 1 day 5 hr 15 min
+502 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [When You Call Me](https://open.spotify.com/track/7bemHdceJfoCOeoF3lRGup) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [When You Call Me](https://open.spotify.com/album/24MRi6AuljdWhxVfPCyJGB) | 4:55 | 2022-04-08 | 2022-07-29 |
 | [Where's My Money?](https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW) | [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [JAMS](https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY) | 2:44 | 2021-11-05 | 2023-01-06 |
 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 | 2023-10-27 |  |
-| [Which Side You're On](https://open.spotify.com/track/5F9qFX3tPKWdEvy9OikkHT) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Which Side You're On](https://open.spotify.com/album/3BAhmSlTgUFpeiN9H5uLdw) | 3:36 | 2026-02-27 |  |
+| [Which Side You're On](https://open.spotify.com/track/5F9qFX3tPKWdEvy9OikkHT) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Which Side You're On](https://open.spotify.com/album/3BAhmSlTgUFpeiN9H5uLdw) | 3:36 | 2026-02-27 | 2026-03-28 |
 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 | 2021-05-14 | 2022-07-29 |
 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2021-05-14 | 2022-10-22 |
 | [WKND](https://open.spotify.com/track/4P0HTrVdkcKjnqNrEarf7T) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 5:00 | 2020-11-20 | 2022-04-09 |
@@ -495,6 +495,7 @@
 | [Worthy](https://open.spotify.com/track/0L4Wp1wN1MFPvLvwgHQhIO) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Worthy](https://open.spotify.com/album/4R4b6PdvbfQTsF3engj7X5) | 3:05 | 2022-05-27 | 2022-10-15 |
 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 | 2022-05-27 | 2023-06-24 |
 | [Worthy](https://open.spotify.com/track/3wW5QHrAR5ZTUQq0KUU7Cz) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/5HUQK5qMKyPnM8mo314pgD) | 3:05 | 2022-05-27 | 2022-11-13 |
+| [Writing On The Wall](https://open.spotify.com/track/5fO61R5NP6MENpsvADXQ1K) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Transcendentalism I](https://open.spotify.com/album/5sIV04LlLJ7PlwmS7EZw5F) | 3:29 | 2026-03-27 |  |
 | [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 | 2022-10-07 | 2023-02-18 |
 | [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 | 2024-06-07 | 2024-09-17 |
 | [Yes I Do](https://open.spotify.com/track/46TqEftnSGdu9MLaPOrjrP) | [Leon Knight](https://open.spotify.com/artist/0TfMzqbHEk3a4CZ1usZfOY), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Yes I Do](https://open.spotify.com/album/0029KgWSpDdUhKOgCxcUlr) | 2:44 | 2025-11-07 |  |

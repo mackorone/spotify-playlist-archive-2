@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+    },
+    {
+      "album": {
         "name": "Blow Whistle",
         "url": "https://open.spotify.com/album/18zduoCmZAh9YYEA4XXDwM"
       },
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 198493,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
@@ -6572,6 +6590,32 @@
       "duration_ms": 181562,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/0TcysHAySwIDFgxatmqgO2"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Sing Our Song",
+        "url": "https://open.spotify.com/album/6CMRU9CtorShQRCTgKpYcz"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "John Cowan",
+          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239440,
+      "name": "Let\u2019s Sing Our Song",
+      "url": "https://open.spotify.com/track/4Kq8ljJO7tLWtzgiI0ZrFW"
     },
     {
       "album": {
@@ -11514,7 +11558,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 138534,
       "name": "This Sad Song (Single Version) [Live]",
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"

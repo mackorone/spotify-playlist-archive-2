@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 598144,
+  "num_followers": 598193,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAABUyLFekMAgB28HcesrOH86",
+  "snapshot_id": "acR3AAAAAACSPMULXj8eFbcilHmaKsaj",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Let's Go To Bed",
+      "url": "https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys Don\u2019t Cry (86 Mix)",
         "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 158264,
       "name": "Boys Don't Cry - 86 Mix / 2026 Remaster",
       "url": "https://open.spotify.com/track/3nvGvWWUb5onTp6KjtGXvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Let's Go To Bed",
-      "url": "https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 222093,
       "name": "10:15 Saturday Night",
       "url": "https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 203400,
       "name": "Fire In Cairo",
       "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 141800,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 367426,
-      "name": "Prayers For Rain - Remastered",
-      "url": "https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 335746,
       "name": "The Last Day Of Summer",
       "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 367426,
+      "name": "Prayers For Rain - Remastered",
+      "url": "https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Three Imaginary Boys",
-      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
+      "duration_ms": 199000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj"
+      "duration_ms": 195693,
+      "name": "Three Imaginary Boys",
+      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
     }
   ],
   "unique_name": "This Is The Cure",

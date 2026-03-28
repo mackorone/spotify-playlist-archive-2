@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per una primavera non proprio felice \(plantino in cover\) 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,404 likes - 117 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,492 likes - 117 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

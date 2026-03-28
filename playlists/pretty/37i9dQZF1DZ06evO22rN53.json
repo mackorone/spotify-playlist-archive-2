@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5789,
+  "num_followers": 5797,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAAALK3vEiTJTr0dJUlaRFMN3",
+  "snapshot_id": "acR3AAAAAACIC320WY/fcifnjiB2Cq64",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 203419,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 203419,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/3e2vffxfcTZxQe4b6O9u42"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still The Same",
         "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
       },
@@ -215,38 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Like The Moon",
-      "url": "https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contagious",
-        "url": "https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Contagious",
-      "url": "https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Off Balance",
         "url": "https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w"
       },
@@ -259,38 +243,6 @@
       "duration_ms": 190479,
       "name": "Off Balance",
       "url": "https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i was.",
-        "url": "https://open.spotify.com/album/2DlFgRZ2IjheWMpSg8o1Ao"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Sink or Swim",
-      "url": "https://open.spotify.com/track/5p3NmRvYDWBK3w6wTqd1rM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "A Little Less Lonely",
-      "url": "https://open.spotify.com/track/1bgIZITln5cavD4ucPMXYL"
     },
     {
       "added_at": null,
@@ -315,6 +267,54 @@
       "duration_ms": 252452,
       "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
       "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Like The Moon",
+      "url": "https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "A Little Less Lonely",
+      "url": "https://open.spotify.com/track/1bgIZITln5cavD4ucPMXYL"
     },
     {
       "added_at": null,

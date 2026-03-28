@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 60716,
+  "num_followers": 60743,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,30 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
+          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
+        },
+        {
+          "name": "\u30a2\u30c9\u30de\u30a4\u30e4\u30d9\u30ac (CV. \u54b2\u3005\u6728\u77b3)",
+          "url": "https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU"
+        },
+        {
+          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
+          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Glorious Moment\uff01",
+      "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
         "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 224666,
       "name": "\u672c\u80fd\u30b9\u30d4\u30fc\u30c9",
       "url": "https://open.spotify.com/track/73cEilZ9po5jqiQk6ICPNX"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
-        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
-          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
-        },
-        {
-          "name": "\u30a2\u30c9\u30de\u30a4\u30e4\u30d9\u30ac (CV. \u54b2\u3005\u6728\u77b3)",
-          "url": "https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU"
-        },
-        {
-          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
-          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Glorious Moment\uff01",
-      "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -971,6 +971,22 @@
       "duration_ms": 242146,
       "name": "\u30b0\u30ed\u30a6\u30a2\u30c3\u30d7\u30fb\u30b7\u30e3\u30a4\u30f3\uff01 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/4CwMzQCoyiZ5oFc6ckt9Qo"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
+        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "We are DREAMERS!!",
+      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1691,46 +1707,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
-        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 304920,
-      "name": "We are DREAMERS!!",
-      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
-      },
-      "artists": [
-        {
-          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
-          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
-        },
-        {
-          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
-        },
-        {
-          "name": "\u30e6\u30ad\u30ce\u30d3\u30b8\u30f3 (CV. \u5c71\u672c\u5e0c\u671b)",
-          "url": "https://open.spotify.com/artist/28aGgD6eA22kgOEJKL29x4"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "A\u30fbNO\u30fbNE - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3tIz6yFudNZvviiXMCRJWS"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "\u30a2\u30b3\u30ac\u30ecChallenge Dash!!",
         "url": "https://open.spotify.com/album/2bF2xbLsJhErOhSzn7a3YY"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 234360,
       "name": "\u30a2\u30b3\u30ac\u30ecChallenge Dash!!",
       "url": "https://open.spotify.com/track/6BBebdvYB8bVWmUyQicf8y"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
+          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
+        },
+        {
+          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
+        },
+        {
+          "name": "\u30e6\u30ad\u30ce\u30d3\u30b8\u30f3 (CV. \u5c71\u672c\u5e0c\u671b)",
+          "url": "https://open.spotify.com/artist/28aGgD6eA22kgOEJKL29x4"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "A\u30fbNO\u30fbNE - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3tIz6yFudNZvviiXMCRJWS"
     },
     {
       "added_at": "2026-01-13 16:30:52",

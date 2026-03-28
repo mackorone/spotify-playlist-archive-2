@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Anna Ullrich
 
-6,704 songs - 22 day 23 hr 38 min
+6,704 songs - 22 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5757,6 +5757,7 @@
 | [The Leap](https://open.spotify.com/track/0thFFZ6ZxGK6U3elZZFz4u) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [The Leap](https://open.spotify.com/album/6hUy8E1wBNYU8iKE3nAVCA) | 4:10 | 2024-05-02 | 2024-05-17 |
 | [The Lesson \(La Leçon\)](https://open.spotify.com/track/7tmm8BsslJdX23cDL58vmp) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [The Lesson \(La Leçon\)](https://open.spotify.com/album/5AuFw86qNLyjrGeptkek5W) | 3:39 | 2025-03-13 | 2025-03-28 |
 | [The Life \- Emanuel Satie Remix](https://open.spotify.com/track/1gcSeAFo56Td6DoqHNMkGD) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Inhale / Exhale Remixed](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:26 | 2025-05-01 | 2025-05-23 |
+| [The Light](https://open.spotify.com/track/5E2udR4TH1OEZw1kgItr6j) | [Marc Lenz](https://open.spotify.com/artist/5EYkzxJOA2c0wTCC7BjT4R), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Voodooland EP](https://open.spotify.com/album/1cS0NmBKE8jAtp6JKrlISf) | 6:20 | 2026-03-26 |  |
 | [The Light](https://open.spotify.com/track/67SwGYRPyCPJTkg7i7sgO3) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt), [Workover](https://open.spotify.com/artist/5H24ZuNcSOYKnJDzkoAiPx) | [Lighthouse](https://open.spotify.com/album/3mpYixfatoKMbOlezWPIEG) | 2:55 | 2024-05-30 | 2024-06-14 |
 | [The Light Inside](https://open.spotify.com/track/3m7B6VD9igAgNSeCtBmsFE) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo) | [Brooklyn Serenity](https://open.spotify.com/album/2tEDPZhVLjiTngOBarMDRQ) | 6:34 | 2022-04-21 | 2022-05-06 |
 | [The Lost Juno](https://open.spotify.com/track/56UrxpsxjnS0Kd734WiZkE) | [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Lost Juno](https://open.spotify.com/album/41pjRlcCxGjVIN0aXBz3Aa) | 4:16 | 2024-05-30 | 2024-06-14 |
@@ -6029,8 +6030,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 2](https://open.spotify.com/track/5E2udR4TH1OEZw1kgItr6j) | [Marc Lenz](https://open.spotify.com/artist/5EYkzxJOA2c0wTCC7BjT4R) | [Voodooland EP](https://open.spotify.com/album/1cS0NmBKE8jAtp6JKrlISf) | 0:00 | 2026-03-26 |  |
-| [Track 3](https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Jeopardy EP](https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9) | 0:00 | 2026-03-26 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |
@@ -6412,6 +6411,7 @@
 | [We Make It Right](https://open.spotify.com/track/3OWtRdZaRNj3IJhRXqbnmn) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [We Make It Right](https://open.spotify.com/album/6TpkwgnxBmnWKMN0yfwXII) | 3:56 | 2025-01-23 | 2025-02-07 |
 | [We Make Love \- Edit](https://open.spotify.com/track/7C2Brp2k1FQ2mE8cI8ueXG) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz) | [We Make Love \(Edit\)](https://open.spotify.com/album/3fMxlKkqMPG2w3qomcYnIj) | 3:54 | 2025-07-17 | 2025-07-25 |
 | [We Need](https://open.spotify.com/track/3T6mQWLFKL5Gv1JxfBTJHU) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [We Need](https://open.spotify.com/album/3MeVhVebSS4bNkLRksIla1) | 3:42 | 2024-11-28 | 2024-12-20 |
+| [We Owe This World](https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Jeopardy EP](https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9) | 3:34 | 2026-03-26 |  |
 | [We Search The Light](https://open.spotify.com/track/2JgGVygm5ZQaLU8qmtJwEe) | [Peku](https://open.spotify.com/artist/58ymJmJX4s6XHgrwP0wMH3), [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o) | [We Search The Light](https://open.spotify.com/album/10Z3P4DqjY2KH0rtprw7O9) | 6:36 | 2024-02-01 | 2024-02-23 |
 | [We Share](https://open.spotify.com/track/3aFm7z32n46ESmuRpRPZFB) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [RAESA](https://open.spotify.com/artist/3CDxwDUcoT4KuTB9UGhfYZ) | [We Share](https://open.spotify.com/album/3VDUSYg6I8NCn7bt0keu3C) | 3:32 | 2026-02-19 | 2026-03-13 |
 | [We Talk About Dreams](https://open.spotify.com/track/44FdC5CjJJwfecc7BYCE5Q) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [We Talk About Dreams](https://open.spotify.com/album/5GjfIhQtGr2GcbzxHA6yEg) | 6:10 | 2025-02-27 | 2025-03-28 |

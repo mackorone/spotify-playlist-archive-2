@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-640 songs - 1 day 12 hr 27 min
+641 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Legini Legini](https://open.spotify.com/track/2TXoPenrvYt9Uir0fWxC2y) | [Prasanna Bhoojashettar](https://open.spotify.com/artist/4OhmZdanQ6mk5jNgVuI0cy) | [Legini Legini](https://open.spotify.com/album/5shEBUWgQZ9JsHBZ2yQpRF) | 3:39 | 2023-01-04 | 2023-06-08 |
 | [Lekka](https://open.spotify.com/track/6WAjdVHT9iOqpmDDqXwDri) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Lekka](https://open.spotify.com/album/0Ylf2B2m39ZjB00Sv5rQrd) | 1:50 | 2024-11-04 | 2025-02-12 |
 | [Lemme know](https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj) | [Rd Tillu](https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx), [Ponnamma](https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N) | [Lemme know](https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW) | 3:01 | 2023-12-19 | 2024-06-14 |
+| [Let's go back \(The 90's song\)](https://open.spotify.com/track/3MfcZGo0CUwkbhF4dFWKVr) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Let's go back \(The 90's song\)](https://open.spotify.com/album/58thkzXHNVMFcl6cyq30Vb) | 2:38 | 2026-03-27 |  |
 | [Life Is Casino](https://open.spotify.com/track/7Hxk8pCTMLbznT45Pe14Vi) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Chris Gayle \(UniverseBoss\)](https://open.spotify.com/artist/5mK0ENhGjR5aGlUYeoBt5V) | [Life Is Casino](https://open.spotify.com/album/5SVm1UvQuDgoJVburb1lmv) | 3:34 | 2025-10-22 |  |
 | [LIFE IS SIMPLE](https://open.spotify.com/track/4roerOpvixe6aTcZNonScu) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [LIFE IS SIMPLE](https://open.spotify.com/album/4j6aGPJX3yfneX32rTKYaN) | 3:07 | 2025-02-20 | 2025-07-16 |
 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 | 2023-08-24 | 2024-02-17 |
@@ -565,7 +566,7 @@
 | [Sarvasva](https://open.spotify.com/track/6LwQiE4cRBM4YJg2nXYX6I) | [Chetan Rao](https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P), [Arjun Kishor Chandra](https://open.spotify.com/artist/6mLU8wT3dCJP64BDTq0p4W) | [Sarvasva](https://open.spotify.com/album/34reXacrMBY1Us6Fxr9WGm) | 4:04 | 2024-09-23 | 2025-03-18 |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 | 2024-05-14 |
 | [Savu Ide Antha Gottu](https://open.spotify.com/track/60MUpeevIJBtY4Kjjr7xTG) | [Ravindra Soragavi](https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat), [Shivamani](https://open.spotify.com/artist/5qA54NfNbyEl3GAbTfjgq4) | [Savu Ide Antha Gottu](https://open.spotify.com/album/4jJbxdh7G42RTCabK95Wt8) | 5:52 | 2025-06-06 | 2025-11-08 |
-| [Shakalaka Boom](https://open.spotify.com/track/1DsTp17E9Xn7tgBRG6RqNv) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Shakalaka Boom](https://open.spotify.com/album/215gzKZ1UKqMchbeJim7kM) | 2:19 | 2025-11-03 |  |
+| [Shakalaka Boom](https://open.spotify.com/track/1DsTp17E9Xn7tgBRG6RqNv) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Shakalaka Boom](https://open.spotify.com/album/215gzKZ1UKqMchbeJim7kM) | 2:19 | 2025-11-03 | 2026-03-28 |
 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 | 2024-07-08 | 2025-01-31 |
 | [Shambo Shiva Shankara](https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Shambo Shiva Shankara](https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD) | 2:22 | 2024-05-20 | 2024-11-09 |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |

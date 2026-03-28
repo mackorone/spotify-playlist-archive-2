@@ -1133,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "bullfight",
+        "url": "https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216147,
+      "name": "belly of the beast",
+      "url": "https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF"
+    },
+    {
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -10484,24 +10506,6 @@
       "duration_ms": 173333,
       "name": "Touch You",
       "url": "https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH"
-    },
-    {
-      "album": {
-        "name": "bullfight",
-        "url": "https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD"
-      },
-      "artists": [
-        {
-          "name": "LIE NING",
-          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF"
     },
     {
       "album": {

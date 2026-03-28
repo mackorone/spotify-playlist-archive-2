@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: bees & honey, FOLA
 
-1,456 songs - 5 day 9 hr 4 min
+1,457 songs - 5 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 | 2022-08-18 | 2022-11-01 |
 | [Know My Worth](https://open.spotify.com/track/6C2L4UE4UOGUZLkRbSEMBr) | [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Know My Worth](https://open.spotify.com/album/15x8MZp4sthrR8borJolm3) | 5:15 | 2023-10-26 | 2023-12-02 |
 | [Know You Well](https://open.spotify.com/track/4y1bBDiB33le7jEgQLKNqD) | [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw), [Nothando Mamba](https://open.spotify.com/artist/4DMTgsuDFjGAR0Zm4z6Ijj) | [Know You Well](https://open.spotify.com/album/7BSYfxoJgxwNwcoToDI29w) | 3:28 | 2024-11-28 | 2025-04-30 |
+| [Kokareku](https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o) | [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kokareku](https://open.spotify.com/album/5QaJDPZpKXsqM7ZG40npIl) | 4:19 | 2026-03-27 |  |
 | [Kolowa](https://open.spotify.com/track/1J9B2u33e5gExAV2usndAZ) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kolowa](https://open.spotify.com/album/19QgAU6ZRMY3OLz7rIfk1C) | 7:10 | 2022-02-23 | 2022-03-04 |
 | [Kore \- Main HT](https://open.spotify.com/track/5HJzGP0mO4gBENsUlYGc5q) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Kore \(Main HT\)](https://open.spotify.com/album/26bEboycI52qkYhEL8RC5g) | 6:07 | 2022-03-10 | 2022-04-01 |
 | [Kuana \- \(Original Mix\)](https://open.spotify.com/track/6gRuYE5lMPf1NOcmqVh8tL) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Kuana \(Original Mix\)](https://open.spotify.com/album/27BGYIi8UUMV5P4vEaDLdK) | 7:14 | 2022-03-17 | 2022-06-10 |
@@ -1393,7 +1394,7 @@
 | [Weightless](https://open.spotify.com/track/6Yyc3cLPhSRSVk5cLye73k) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Weightless](https://open.spotify.com/album/1MPFnPHuqgkUASIVwOEvAA) | 6:02 | 2022-06-17 | 2022-11-01 |
 | [Wela](https://open.spotify.com/track/29ptLNTipEICSl5SETgySw) | [Lady X](https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [REBIRTH](https://open.spotify.com/album/5PH3Ws4RqDTvn3DpVudjCN) | 5:08 | 2022-03-31 | 2022-04-23 |
 | [Welcome To Alkebulan](https://open.spotify.com/track/6PTiozO0Iva6S4Cjmo9H08) | [Dominowe](https://open.spotify.com/artist/2mXVs20lxJxTJzpLywkX8e) | [Umthakathi](https://open.spotify.com/album/2Aq498nCVupwFx5AqKXaah) | 4:44 | 2022-01-27 | 2022-02-04 |
-| [Wena Wedwa](https://open.spotify.com/track/5DHLUmKQT7AumoXpEwE8me) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL), [Mizi.DM](https://open.spotify.com/artist/04QtPvJruHxv5JeGtVgaKm) | [The Blueprint](https://open.spotify.com/album/5ayzoZxOSakw0Wn2nMgDpU) | 6:49 | 2025-12-05 |  |
+| [Wena Wedwa](https://open.spotify.com/track/5DHLUmKQT7AumoXpEwE8me) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL), [Mizi.DM](https://open.spotify.com/artist/04QtPvJruHxv5JeGtVgaKm) | [The Blueprint](https://open.spotify.com/album/5ayzoZxOSakw0Wn2nMgDpU) | 6:49 | 2025-12-05 | 2026-03-28 |
 | [What a Night](https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Gibbs](https://open.spotify.com/artist/7F7GWudunJXNKCIczRet5O) | [What a Night](https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0) | 2:37 | 2023-02-09 | 2023-03-04 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-02-15 | 2024-06-14 |
 | [When House Was House](https://open.spotify.com/track/4VJTcyQ46B0qSX6oF2IFLW) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI), [Jnr SA](https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku) | [When House Was House](https://open.spotify.com/album/7cnm0aGp0FTbaXFd9JBAr7) | 6:08 | 2021-11-18 | 2022-01-21 |

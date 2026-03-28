@@ -4,7 +4,7 @@
 
 > 
 
-503 songs - 1 day 8 hr 50 min
+505 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-11 | 2024-03-02 |
 | [Butterfly Effect \- DJ Ron Dixon's Clubstep Remix](https://open.spotify.com/track/4T4vBTxrbXdfJxOjHclV1Q) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect \(Remixes\)](https://open.spotify.com/album/1GEUwENl79CEkDtJjGQd2H) | 2:24 | 2023-08-17 | 2023-09-27 |
 | [Call It Love](https://open.spotify.com/track/1XYby0uDKyROqB5nWWdSOv) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 4:53 | 2024-07-10 | 2024-09-28 |
+| [Call My Name](https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Call My Name](https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP) | 2:34 | 2026-03-27 |  |
 | [Camouflage](https://open.spotify.com/track/3HQtrJOoNZjIzIxxNMev0b) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [New Internationale](https://open.spotify.com/album/1ZPLPEVm0f3SSBiDPJZjfx) | 3:55 | 2024-09-27 | 2025-03-05 |
 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 | 2022-05-24 | 2022-10-21 |
 | [Canela Pura](https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Canela Pura](https://open.spotify.com/album/6atxL3AIxGni66ZRtqhku5) | 3:00 | 2025-06-19 | 2025-11-07 |
@@ -284,6 +285,7 @@
 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-04-24 | 2024-07-16 |
 | [Like The Old Days](https://open.spotify.com/track/3o0yIwcf91q6p6n8xs5NVQ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri) | 4:00 | 2022-11-17 | 2023-02-23 |
 | [Line Gone Cold \- Deconstructed](https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Line Gone Cold \(Deconstructed\)](https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq) | 2:36 | 2025-02-11 | 2025-09-18 |
+| [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 | 2026-03-27 |  |
 | [Lonely Night](https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 3:29 | 2023-12-11 | 2024-01-12 |
 | [Looking Backwards](https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Looking Backwards](https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA) | 4:08 | 2026-03-16 |  |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |

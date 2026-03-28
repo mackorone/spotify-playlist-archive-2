@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "las mujeres ya no lloran \u2728 Lu\u00edsa Sonza en portada.",
+  "description": "las mujeres ya no lloran \u2728 Becky G en portada.",
   "name": "Rica, Latina y Famosa",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 127741,
       "name": "Aceita",
       "url": "https://open.spotify.com/track/133ojSiEnlVwecCpvVc1BC"
+    },
+    {
+      "album": {
+        "name": "ALAS",
+        "url": "https://open.spotify.com/album/58j0LGzCD9n2xgXiC50LvA"
+      },
+      "artists": [
+        {
+          "name": "Monny Cardona",
+          "url": "https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu"
+        },
+        {
+          "name": "apolo morfeo",
+          "url": "https://open.spotify.com/artist/3nN02vph3GlcrhmhoKc6x0"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152830,
+      "name": "ALAS",
+      "url": "https://open.spotify.com/track/6d1MKTyx319M55vMK2VlD0"
     },
     {
       "album": {
@@ -674,7 +696,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 258967,
       "name": "Femme Fatale - Spotify Sessions",
       "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
@@ -2409,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "MARATHON",
+        "url": "https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "elkan",
+          "url": "https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169823,
+      "name": "MARATHON",
+      "url": "https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9"
+    },
+    {
+      "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
@@ -2580,7 +2624,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 126352,
       "name": "MONOBLOCK",
       "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
@@ -3148,6 +3192,28 @@
       "duration_ms": 112831,
       "name": "PISCIS",
       "url": "https://open.spotify.com/track/1UE0ml9PteZQJDhtV6mbb9"
+    },
+    {
+      "album": {
+        "name": "Pobre Est\u00fapida (Amigas y Rivales Mix)",
+        "url": "https://open.spotify.com/album/1eHYfiD7LMJxn3RfEPfyB6"
+      },
+      "artists": [
+        {
+          "name": "Maria Daniela Y Su Sonido Lasser",
+          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
+        },
+        {
+          "name": "Denisse Guerrero",
+          "url": "https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264444,
+      "name": "Pobre Est\u00fapida (Amigas y Rivales Mix)",
+      "url": "https://open.spotify.com/track/4gwxRPxY7MdRwknpNkZ9L8"
     },
     {
       "album": {
@@ -3751,7 +3817,7 @@
     },
     {
       "album": {
-        "name": "Surfboard",
+        "name": "SURFBOARD",
         "url": "https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF"
       },
       "artists": [
@@ -3768,7 +3834,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212727,
-      "name": "Surfboard",
+      "name": "SURFBOARD",
       "url": "https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384"
     },
     {

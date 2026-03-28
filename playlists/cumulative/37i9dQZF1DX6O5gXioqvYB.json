@@ -2407,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "Tiny Apartment",
+        "url": "https://open.spotify.com/album/2DbiFim7VRhjk0TDCHeWTs"
+      },
+      "artists": [
+        {
+          "name": "Corner in Bloom",
+          "url": "https://open.spotify.com/artist/3bUPrQdK4Wgcv1nUIXLduT"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240077,
+      "name": "Argo",
+      "url": "https://open.spotify.com/track/2CDJsmBoxh9ggjG6Z859O0"
+    },
+    {
+      "album": {
         "name": "aria",
         "url": "https://open.spotify.com/album/6NnEwPBPWrCxlpxp014lOU"
       },
@@ -11376,7 +11394,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 261450,
-      "name": "i tuoi occhi, i miei occhi",
+      "name": "I tuoi occhi, i miei occhi",
       "url": "https://open.spotify.com/track/2tCdK93GTAwoh1PUSaPsup"
     },
     {
@@ -21957,7 +21975,7 @@
     },
     {
       "album": {
-        "name": "Rane 'n' Roll",
+        "name": "Rane'n'Roll",
         "url": "https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT"
       },
       "artists": [
@@ -21974,7 +21992,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208905,
-      "name": "Rane 'n' Roll",
+      "name": "Rane'n'Roll",
       "url": "https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A"
     },
     {

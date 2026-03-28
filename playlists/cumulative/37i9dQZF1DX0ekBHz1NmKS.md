@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,208 songs - 4 day 18 hr 38 min
+2,208 songs - 4 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Hälften är rakt från hjärtat](https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Hälften är rakt från hjärtat](https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4) | 2:48 | 2023-08-25 | 2024-01-05 |
 | [Hämta mer](https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 4:41 | 2025-10-02 | 2026-02-13 |
 | [Hämta mer \- Sonar Remix](https://open.spotify.com/track/6W9Xqp0K1noBNc2E5b4MY2) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs), [Sonar](https://open.spotify.com/artist/11DKQbdDgRUHzcBjdCOZTl) | [Hämta mer \(Sonar Remix\)](https://open.spotify.com/album/48S65ihsx4DLIKJpZnsXeL) | 3:43 | 2025-12-29 | 2026-03-20 |
+| [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 | 2026-03-26 |  |
 | [Häng City](https://open.spotify.com/track/4uw1EWXT1VkShJuino1IFq) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2) | [Häng City](https://open.spotify.com/album/6F27hN2ntHqVp3V300Kkwr) | 4:02 | 2024-08-22 | 2024-10-24 |
 | [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 | 2023-10-20 |
 | [Här tog det vackra slut](https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H) | [Klockrent!](https://open.spotify.com/artist/6XFNM3VxPM64ATHs1EYJn9), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Här tog det vackra slut](https://open.spotify.com/album/4wAsFZpd8dRNU2R5g0VLGO) | 3:24 | 2021-12-16 | 2022-03-11 |
@@ -1956,7 +1957,6 @@
 | [Toulouse](https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Toulouse](https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc) | 3:00 | 2024-08-29 | 2024-10-06 |
 | [Toxic Som Mig](https://open.spotify.com/track/7mWsekctZ2EtxDIc29diPv) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Toxic Som Mig](https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX) | 2:31 | 2024-01-11 | 2024-03-15 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-04-03 | 2025-06-06 |
-| [Track 5](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 0:00 | 2026-03-26 |  |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2024-01-19 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-06-27 |
 | [Trasiga Skor](https://open.spotify.com/track/2oui1x8hu3GY3FQDxFADbe) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Trasiga Skor](https://open.spotify.com/album/3DI1AW6MIBUL1pgDRAsBew) | 2:33 | 2024-05-09 | 2024-06-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Union Fatal en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Eptos Uno en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -810,6 +810,28 @@
       "duration_ms": 285378,
       "name": "Ah\u00ed Nac\u00ed",
       "url": "https://open.spotify.com/track/721PP2J5zjvLgZB2dd2jEr"
+    },
+    {
+      "album": {
+        "name": "AirForce",
+        "url": "https://open.spotify.com/album/5Z2hDBAplgcr7vAjung3O6"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208617,
+      "name": "AirForce",
+      "url": "https://open.spotify.com/track/7pUYW8lypYiA4XoC0Ty2Ih"
     },
     {
       "album": {
@@ -3260,7 +3282,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 158823,
       "name": "CASTE XMAS",
       "url": "https://open.spotify.com/track/64p6GfKssLhIe4A4t7oMvJ"
@@ -3756,6 +3778,24 @@
       "duration_ms": 155890,
       "name": "COCINE Y COCINE",
       "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
+    },
+    {
+      "album": {
+        "name": "COLIMA",
+        "url": "https://open.spotify.com/album/5Vewm1yZaXvcERNgIEWmYB"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "COLIMA",
+      "url": "https://open.spotify.com/track/1ZAot62JLoX9S9M3qEwM7I"
     },
     {
       "album": {
@@ -6451,6 +6491,32 @@
     },
     {
       "album": {
+        "name": "Encerrado",
+        "url": "https://open.spotify.com/album/2GWwTpb2W6x4uscHfnLdG7"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "La Calle Manda",
+          "url": "https://open.spotify.com/artist/5Fl0jSvvq3pewKcJIJ8Lqb"
+        },
+        {
+          "name": "Zona Klandestina",
+          "url": "https://open.spotify.com/artist/38oU4P29UoLzf95VMwWMK2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Encerrado",
+      "url": "https://open.spotify.com/track/1jAp6DsEYA4ecTVbp3YGCU"
+    },
+    {
+      "album": {
         "name": "Enemigo de las Leyes",
         "url": "https://open.spotify.com/album/7LPAiVJnr8g9HCPHCnkZzi"
       },
@@ -6694,7 +6760,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 188759,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/3m8momUN2p0pi5ErGfiKJd"
@@ -8874,7 +8940,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180523,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/637DalsHSQgDH4YA5qqRsW"
@@ -11340,7 +11406,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 260357,
       "name": "Meriyey",
       "url": "https://open.spotify.com/track/0O4RpsFBuW9aQ2zStkFGqO"
@@ -12206,7 +12272,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 166226,
       "name": "N.D. State Of Mind",
       "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
@@ -12670,7 +12736,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 209230,
       "name": "No Puedo Ocultar",
       "url": "https://open.spotify.com/track/57Xnzfap5DLfNjNbPRN59P"
@@ -16208,7 +16274,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 276023,
       "name": "Serpientes y Escaleras",
       "url": "https://open.spotify.com/track/3ezcLP3TCSGkqrmNSWEfKA"
@@ -17078,6 +17144,28 @@
       "duration_ms": 261161,
       "name": "Soy Un Malandrin",
       "url": "https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7"
+    },
+    {
+      "album": {
+        "name": "Stamford Bridge",
+        "url": "https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Stamford Bridge",
+      "url": "https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC"
     },
     {
       "album": {
@@ -19450,6 +19538,28 @@
       "duration_ms": 148466,
       "name": "Zona de Confort - C'est la mort",
       "url": "https://open.spotify.com/track/500dEk4B8u8zcftKqUQIVu"
+    },
+    {
+      "album": {
+        "name": "\u00bfCu\u00e1nto Cuesta?",
+        "url": "https://open.spotify.com/album/1odRkhOQpa4gsH0zI8o4LP"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        },
+        {
+          "name": "Ezzlaer",
+          "url": "https://open.spotify.com/artist/71M8VO0bmKsiQHcO8VFr83"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142300,
+      "name": "\u00bfCu\u00e1nto Cuesta?",
+      "url": "https://open.spotify.com/track/1ICJirkUVeYaoH1HpNrIZy"
     },
     {
       "album": {

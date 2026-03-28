@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 199565,
+  "num_followers": 199598,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "Btwhasheni",
-        "url": "https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 231197,
-      "name": "Btwhasheni",
-      "url": "https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
         "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "Btwhasheni",
+        "url": "https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 231197,
+      "name": "Btwhasheni",
+      "url": "https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK"
     },
     {
       "added_at": "2025-10-14 05:26:51",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "Elhob W Bass",
-        "url": "https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 320384,
-      "name": "Elhob W Bass",
-      "url": "https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "\u0648\u0645\u0639\u0627\u0643",
         "url": "https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "\u0645\u0627\u0644\u0646\u0627\u0634 \u0627\u0644\u0627 \u0628\u0639\u0636",
-        "url": "https://open.spotify.com/album/33pX4SvxjRcSSaR1hQCLVL"
+        "name": "Elhob W Bass",
+        "url": "https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         }
       ],
-      "duration_ms": 343376,
-      "name": "\u0625\u0648\u0639\u062f\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE"
+      "duration_ms": 320384,
+      "name": "Elhob W Bass",
+      "url": "https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC"
     },
     {
       "added_at": "2025-10-14 05:26:51",
@@ -347,6 +331,22 @@
       "duration_ms": 252065,
       "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
       "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "\u0645\u0627\u0644\u0646\u0627\u0634 \u0627\u0644\u0627 \u0628\u0639\u0636",
+        "url": "https://open.spotify.com/album/33pX4SvxjRcSSaR1hQCLVL"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 343376,
+      "name": "\u0625\u0648\u0639\u062f\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE"
     },
     {
       "added_at": "2025-10-14 05:26:51",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Aamel Nasini",
-      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "Monaya",
         "url": "https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 213539,
       "name": "Monaya",
       "url": "https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Aamel Nasini",
+      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
     },
     {
       "added_at": "2025-10-14 05:26:51",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
-      },
-      "artists": [
-        {
-          "name": "Sara Haytham",
-          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
-        }
-      ],
-      "duration_ms": 216108,
-      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "\u0627\u0646\u062a\u064a \u0627\u0639\u0638\u0645 \u0627\u062e\u062a\u064a\u0627\u0631",
         "url": "https://open.spotify.com/album/17EepIsYf9bOZkyFzgZpdO"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 184000,
       "name": "\u0627\u0646\u062a\u064a \u0627\u0639\u0638\u0645 \u0627\u062e\u062a\u064a\u0627\u0631",
       "url": "https://open.spotify.com/track/0IsnB2bkWr1OYyvfVsseLs"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
+      },
+      "artists": [
+        {
+          "name": "Sara Haytham",
+          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
+        }
+      ],
+      "duration_ms": 216108,
+      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
     },
     {
       "added_at": "2025-10-14 05:26:51",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "\u0642\u0644\u0628\u064a \u0648\u0631\u0648\u062d\u064a \u0648\u0639\u0645\u0631\u064a",
-        "url": "https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Fouad",
-          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
-        }
-      ],
-      "duration_ms": 288232,
-      "name": "\u0642\u0644\u0628\u0649 \u0648 \u0631\u0648\u062d\u0649 \u0648 \u0639\u0645\u0631\u0649",
-      "url": "https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "\u062a\u0648\u0623\u0645\u064a",
         "url": "https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 214400,
       "name": "\u062a\u0648\u0623\u0645\u064a",
       "url": "https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "\u0642\u0644\u0628\u064a \u0648\u0631\u0648\u062d\u064a \u0648\u0639\u0645\u0631\u064a",
+        "url": "https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "duration_ms": 288232,
+      "name": "\u0642\u0644\u0628\u0649 \u0648 \u0631\u0648\u062d\u0649 \u0648 \u0639\u0645\u0631\u0649",
+      "url": "https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj"
     },
     {
       "added_at": "2025-10-14 05:26:51",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
-        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
-        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
-      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
         "name": "Ala Bali",
         "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194454,
       "name": "Ala Bali",
       "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
+        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
     },
     {
       "added_at": "2025-10-14 05:26:51",

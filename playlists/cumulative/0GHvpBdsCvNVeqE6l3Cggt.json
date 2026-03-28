@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Almost there",
+        "url": "https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh"
+      },
+      "artists": [
+        {
+          "name": "Elaisa Mancini",
+          "url": "https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222364,
+      "name": "Almost there",
+      "url": "https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm"
+    },
+    {
+      "album": {
         "name": "Trans",
         "url": "https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry"
       },

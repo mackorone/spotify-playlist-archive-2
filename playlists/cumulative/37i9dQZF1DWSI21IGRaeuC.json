@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Believe In Yourself",
+        "url": "https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260010,
+      "name": "Believe In Yourself",
+      "url": "https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy"
+    },
+    {
+      "album": {
         "name": "Big Buddha",
         "url": "https://open.spotify.com/album/60X7c0zY50pjVl9DZbml7k"
       },
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 112182,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1iwTyPmulpjzJnVGv514Qv"
@@ -4541,6 +4559,28 @@
     },
     {
       "album": {
+        "name": "Down To The Bone",
+        "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171964,
+      "name": "Down To The Bone",
+      "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
+    },
+    {
+      "album": {
         "name": "Downstairs EP",
         "url": "https://open.spotify.com/album/2w7gFrShnSxaHRZK8DGxF5"
       },
@@ -4858,6 +4898,24 @@
       "duration_ms": 178990,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/7DvMAbmkSZsT5EytU35iVv"
+    },
+    {
+      "album": {
+        "name": "Electro",
+        "url": "https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Electro",
+      "url": "https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3"
     },
     {
       "album": {
@@ -5314,6 +5372,24 @@
       "duration_ms": 372923,
       "name": "Fascinator",
       "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
+    },
+    {
+      "album": {
+        "name": "Feel It EP",
+        "url": "https://open.spotify.com/album/6QqcyAbCmxUOVXqyIg7PRN"
+      },
+      "artists": [
+        {
+          "name": "Dan Fresco",
+          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/03Ua5Te7e4udXlqIakAGqX"
     },
     {
       "album": {
@@ -9840,7 +9916,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 184000,
       "name": "Lightless Dream",
       "url": "https://open.spotify.com/track/5OiFqjhqNsTfXsFSifbsDI"
@@ -10528,7 +10604,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 356747,
       "name": "Make it Happen",
       "url": "https://open.spotify.com/track/57YktgWA7RTGfHykrG7KJr"
@@ -10930,6 +11006,24 @@
       "duration_ms": 222475,
       "name": "Midtown Playground",
       "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "album": {
+        "name": "Million Things",
+        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
+      },
+      "artists": [
+        {
+          "name": "Tommy Phillips",
+          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160641,
+      "name": "Million Things",
+      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
     },
     {
       "album": {
@@ -11640,6 +11734,24 @@
     {
       "album": {
         "name": "Need U EP",
+        "url": "https://open.spotify.com/album/4lnbGYHhjCfvFHh5gd4W2y"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135703,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/1aHWTyE87SPtspl78tc8zN"
+    },
+    {
+      "album": {
+        "name": "Need U EP",
         "url": "https://open.spotify.com/album/0nY4MHgI4n5vKVs0C73m4U"
       },
       "artists": [
@@ -12150,7 +12262,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 209323,
       "name": "Nova (Feat. Lady Vale)",
       "url": "https://open.spotify.com/track/4BPstWiA92Cd88FCmZaCNN"
@@ -16596,7 +16708,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 189528,
       "name": "Swipe (ft. Isis Salam)",
       "url": "https://open.spotify.com/track/04vGc65ydCvfyeV9E4vs2l"
@@ -16904,6 +17016,24 @@
       "duration_ms": 369230,
       "name": "Talk to Me - Original Mix",
       "url": "https://open.spotify.com/track/1C9Y6D1iap7wvJRlYEKYWo"
+    },
+    {
+      "album": {
+        "name": "Talking To Myself",
+        "url": "https://open.spotify.com/album/1pYdfqXGZQlgXz2jnUwrpi"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472835,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae"
     },
     {
       "album": {
@@ -18215,6 +18345,24 @@
     },
     {
       "album": {
+        "name": "Too In Love With You",
+        "url": "https://open.spotify.com/album/6AxJcFqY38n9VMNr3G9rA7"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149838,
+      "name": "Too In Love With You",
+      "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
+    },
+    {
+      "album": {
         "name": "Too Many Nights EP",
         "url": "https://open.spotify.com/album/3UN2eUSa1PPsvzd1pkjQTv"
       },
@@ -18266,7 +18414,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224545,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/20CGZJBLu78RhRqpD7tyIg"
@@ -18878,7 +19026,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 221538,
       "name": "V.I.P",
       "url": "https://open.spotify.com/track/2xH00Ry1ajkVV4uK4AGWuq"
@@ -20362,7 +20510,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 220463,
       "name": "Zero Azucar",
       "url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29"

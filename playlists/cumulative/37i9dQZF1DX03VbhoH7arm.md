@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Luísa Sonza
+> Grandes hits do BR e do 🌎 / Foto: BTS
 
 442 songs - 21 hr 54 min
 

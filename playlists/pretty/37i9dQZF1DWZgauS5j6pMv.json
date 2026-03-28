@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 352547,
+  "description": "The best of today's funk. Cover: The Philharmonik",
+  "num_followers": 352589,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALO7UWo0JrqgJsn71HlQKovIs/cw",
+  "snapshot_id": "AAAAABu5jFT3bpY41+uekg9HoZ58FJKo",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:07",
+      "album": {
+        "name": "Transcendentalism I",
+        "url": "https://open.spotify.com/album/5sIV04LlLJ7PlwmS7EZw5F"
+      },
+      "artists": [
+        {
+          "name": "The Philharmonik",
+          "url": "https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi"
+        }
+      ],
+      "duration_ms": 209338,
+      "name": "Writing On The Wall",
+      "url": "https://open.spotify.com/track/5fO61R5NP6MENpsvADXQ1K"
+    },
     {
       "added_at": "2026-03-20 04:00:31",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 167142,
       "name": "GETCHONAME",
       "url": "https://open.spotify.com/track/45PhU1YgJYSqUrXoYbgWy8"
-    },
-    {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Which Side You're On",
-        "url": "https://open.spotify.com/album/3BAhmSlTgUFpeiN9H5uLdw"
-      },
-      "artists": [
-        {
-          "name": "The Philharmonik",
-          "url": "https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi"
-        }
-      ],
-      "duration_ms": 216878,
-      "name": "Which Side You're On",
-      "url": "https://open.spotify.com/track/5F9qFX3tPKWdEvy9OikkHT"
     },
     {
       "added_at": "2026-02-20 05:00:32",

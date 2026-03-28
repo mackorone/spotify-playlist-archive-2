@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Alejandra Guzm\u00e1n en portada.",
+  "description": "El amor no se escucha, se siente...  \ud83d\udc96 nic & Leo Rizzi en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "(pablo)",
+        "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198351,
+      "name": "(pablo)",
+      "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
+    },
+    {
+      "album": {
         "name": "(todo lo que haces para no acordarte de mi)",
         "url": "https://open.spotify.com/album/5xVfYjfD6MMIg9xq9KLyvj"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 149931,
       "name": "(todo lo que haces para no acordarte de mi)",
       "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
@@ -644,7 +666,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 170805,
       "name": "ALIENS",
       "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
@@ -2675,6 +2697,28 @@
     },
     {
       "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161249,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Duele",
         "url": "https://open.spotify.com/album/0b3XM014BihxGuJLZt3w3E"
       },
@@ -3719,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "ella y yo (suficiente)",
+        "url": "https://open.spotify.com/album/0mLrfSn0JDOt9JRtSHQAwq"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "ella y yo (suficiente)",
+      "url": "https://open.spotify.com/track/2TQ3YUrrJNPRoszM8qWeAJ"
+    },
+    {
+      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -4614,7 +4676,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178160,
       "name": "Hagamos Que",
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
@@ -6174,7 +6236,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166624,
       "name": "manual",
       "url": "https://open.spotify.com/track/7u0v3lSE4X6w1jdJTULuv3"
@@ -7933,6 +7995,28 @@
     },
     {
       "album": {
+        "name": "perd\u00f3n",
+        "url": "https://open.spotify.com/album/1QPQxjapxAx5xLuZcfRtap"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        },
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "perd\u00f3n",
+      "url": "https://open.spotify.com/track/1YG7bHHeVlHZ1LadFlMNlj"
+    },
+    {
+      "album": {
         "name": "Permanente",
         "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
       },
@@ -9438,7 +9522,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 255000,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/2R3vDX0uy96LH8SSRVqZdk"
@@ -10213,6 +10297,24 @@
     },
     {
       "album": {
+        "name": "Te Mereces",
+        "url": "https://open.spotify.com/album/4nXvt1qsztuC9Z34c6bunq"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156949,
+      "name": "Te Mereces",
+      "url": "https://open.spotify.com/track/6VjH5gBxhHpnz1XTaTfqmE"
+    },
+    {
+      "album": {
         "name": "Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
       },
@@ -10634,6 +10736,24 @@
       "duration_ms": 193443,
       "name": "Todo El Ruido Del Mundo",
       "url": "https://open.spotify.com/track/7D62XG1Ru12xybmPgXLCkY"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Que Est\u00e1 Mal",
+        "url": "https://open.spotify.com/album/0T3lqtLeFuM6pJk6g8k4QI"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Todo Lo Que Est\u00e1 Mal",
+      "url": "https://open.spotify.com/track/6nXyY9M6ZErHlaXh9HB5aU"
     },
     {
       "album": {
@@ -11196,7 +11316,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203306,
       "name": "Viernes Violentos",
       "url": "https://open.spotify.com/track/0obKMdBzaCNeJQY2bIfz6d"

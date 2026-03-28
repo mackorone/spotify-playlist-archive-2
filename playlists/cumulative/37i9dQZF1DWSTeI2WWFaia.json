@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "LOCAL ART DEALER, Vol. 1",
+        "url": "https://open.spotify.com/album/56lgO3adqzjPejVWsPgsSf"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127228,
+      "name": "Atlantic Avenue",
+      "url": "https://open.spotify.com/track/2yPRkI7nHoCpyBs4g30E4n"
+    },
+    {
+      "album": {
         "name": "Attention Span",
         "url": "https://open.spotify.com/album/3XSLSXBtncN19a6uP0qfJ4"
       },
@@ -2248,7 +2270,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 185763,
       "name": "BMG",
       "url": "https://open.spotify.com/track/5n4VgqcZdzbtkV6jYl77aG"
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 219570,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/7KRGzLQ7KSiLP6Ku2BlVYH"
@@ -9867,6 +9889,32 @@
     },
     {
       "album": {
+        "name": "Leadbelly (feat. MIKE)",
+        "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152349,
+      "name": "Leadbelly - feat. MIKE",
+      "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/4U2FeSvWV0WGMvl4Q5E5D7"
       },
@@ -10472,7 +10520,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 209672,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/0HQrzSGRnLgOgTPzcZWIxP"
@@ -11868,6 +11916,32 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
+    },
+    {
+      "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/2sGj6UCPfypqtzzjF21HWl"
+      },
+      "artists": [
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        },
+        {
+          "name": "Trent Shelton",
+          "url": "https://open.spotify.com/artist/0TFOpHVjYqotplA5rEQ48a"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270017,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/5B3Q7otESAwf2ZFZ2SIz5W"
     },
     {
       "album": {
@@ -19469,6 +19543,28 @@
     },
     {
       "album": {
+        "name": "Welcome to My Garden",
+        "url": "https://open.spotify.com/album/1QdrO31i8ZwDzvN7LfAcf3"
+      },
+      "artists": [
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Welcome to My Garden",
+      "url": "https://open.spotify.com/track/3ytDYvpKtqsyLj6sPk6nq0"
+    },
+    {
+      "album": {
         "name": "Live Laugh Love",
         "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
       },
@@ -19978,7 +20074,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 293373,
       "name": "Writers",
       "url": "https://open.spotify.com/track/6Ed2tQssajTrylEPfUBOgi"

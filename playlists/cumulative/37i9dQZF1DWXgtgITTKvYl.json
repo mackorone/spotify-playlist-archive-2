@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 979640,
       "name": "Again - 2024 Remaster",
       "url": "https://open.spotify.com/track/0mpRiv2dG8CcFgc76c1Zyy"
@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Earth Mother Earth",
+        "url": "https://open.spotify.com/album/2CllNtxBg7WL6w8V1RgoTs"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335333,
+      "name": "Concerto Uno",
+      "url": "https://open.spotify.com/track/51MI4Jz2RTylvUybaejLcA"
+    },
+    {
+      "album": {
         "name": "Contrapasso",
         "url": "https://open.spotify.com/album/6uo7EkZ4wz2uIIEIb4tSWf"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 298000,
       "name": "Crosswind",
       "url": "https://open.spotify.com/track/1WO4ijmnb5NqgLFPLnkCNd"
@@ -2284,6 +2302,24 @@
       "duration_ms": 247272,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/5FCpN8T0ibPP5aSIFfHRcp"
+    },
+    {
+      "album": {
+        "name": "Enter the City (The Afterlife)",
+        "url": "https://open.spotify.com/album/4jURIuDzkFB7nQ8Y7pW6dK"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154413,
+      "name": "Enter the City - The Afterlife",
+      "url": "https://open.spotify.com/track/1XHoeEpd1ka1XLCLt7ncNt"
     },
     {
       "album": {
@@ -3520,7 +3556,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 365325,
       "name": "I Can't Stay Here Anymore",
       "url": "https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2"
@@ -4846,7 +4882,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
@@ -6054,6 +6090,24 @@
       "duration_ms": 270283,
       "name": "Queenstown",
       "url": "https://open.spotify.com/track/5t8mCgYYdAbsXMPv4rN4fj"
+    },
+    {
+      "album": {
+        "name": "Aeons",
+        "url": "https://open.spotify.com/album/13ClQsOANOW8waXYZPQ72W"
+      },
+      "artists": [
+        {
+          "name": "Esprit D'Air",
+          "url": "https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237533,
+      "name": "Quetzalcoatl",
+      "url": "https://open.spotify.com/track/56Nb3OgXjOBLNloYAAemga"
     },
     {
       "album": {
@@ -7314,7 +7368,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 309807,
       "name": "Spacekeeper",
       "url": "https://open.spotify.com/track/05zG6HcLop4aepPQGuNby9"
@@ -8748,7 +8802,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 531840,
       "name": "This Red Sky",
       "url": "https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8"
@@ -8788,6 +8842,24 @@
       "duration_ms": 224575,
       "name": "Through the Looking Glass",
       "url": "https://open.spotify.com/track/6VGUHFiRqbkR2ECsm2a8S5"
+    },
+    {
+      "album": {
+        "name": "Through Zero",
+        "url": "https://open.spotify.com/album/2r00xF7mLSyKTYiwAeiTwC"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546200,
+      "name": "Through Zero",
+      "url": "https://open.spotify.com/track/6J97SAP1pdptS0u8sRinkH"
     },
     {
       "album": {
@@ -9442,6 +9514,42 @@
       "duration_ms": 325360,
       "name": "Whalewatching",
       "url": "https://open.spotify.com/track/5spLBLQ2hTTU4C7CsDqqCl"
+    },
+    {
+      "album": {
+        "name": "What Lies Ahead (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/3rDf22HsCKMuttMHDmZXDm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174074,
+      "name": "What Lies Ahead (Dark-Side Mix)",
+      "url": "https://open.spotify.com/track/5CFVGEPgzCYmBahFQJmbHO"
+    },
+    {
+      "album": {
+        "name": "When The Night Comes (Revisited)",
+        "url": "https://open.spotify.com/album/0i6jusmsKTvAhoNNqetTYe"
+      },
+      "artists": [
+        {
+          "name": "The Blackwater Fever",
+          "url": "https://open.spotify.com/artist/1A5oymWstOyE3ZFeELbBtA"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166924,
+      "name": "When The Night Comes - Revisited",
+      "url": "https://open.spotify.com/track/6oPJZAa0NJXthjdwexPMPj"
     },
     {
       "album": {

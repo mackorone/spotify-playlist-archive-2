@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > EQUAL tròn 5 năm: vẫn đỉnh, vẫn cháy 🔥\. Ảnh bìa: tlinh
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,937 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,941 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Dâu Thiên Hạ](https://open.spotify.com/track/0rfQw4NcOrsjkJUK1rsZ01) | [Suboi](https://open.spotify.com/artist/2Fc5cGXai8xzLhGyltp4tT) | [Dâu Thiên Hạ](https://open.spotify.com/album/5Sk4xzKCcD1eehwjTIgwft) | 2:48 |
 | 50 | [Những Con Sông Ngón Tay](https://open.spotify.com/track/7L1x5HHbP6SYKIzLvwTOEm) | [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk) | [Những Con Sông Ngón Tay](https://open.spotify.com/album/0fnuFL8Ajk6ltuHNzR10s3) | 5:09 |
 
-Snapshot ID: `AAAAAPvQxYoUlfGTglQL+cOddDvyz3S2`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

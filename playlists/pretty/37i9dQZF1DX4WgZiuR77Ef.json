@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 392799,
+  "num_followers": 392787,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgx6IRe0YhuHOZG2ZPgAsonhY6I",
+  "snapshot_id": "AAAAAPJFKEGMA+vF5hBCU5IiW1AwZyWw",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:06",
+      "album": {
+        "name": "Deltaphonic Anthem",
+        "url": "https://open.spotify.com/album/7Jlib1ksZNYmqhKv8wm9aq"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        },
+        {
+          "name": "Chrishira Perrier",
+          "url": "https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2"
+        }
+      ],
+      "duration_ms": 234309,
+      "name": "Deltaphonic Anthem",
+      "url": "https://open.spotify.com/track/1JcZnAcsUaH4JPkbZePfDv"
+    },
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
@@ -259,22 +279,6 @@
       "duration_ms": 267720,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/3KANHsfHFcFGufoGdafygC"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "House Cat",
-        "url": "https://open.spotify.com/album/1Wj7HQ2FebMR3n3L8eLoo0"
-      },
-      "artists": [
-        {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "House Cat",
-      "url": "https://open.spotify.com/track/4AisgVQHNuGJSVYLd287Px"
     },
     {
       "added_at": "2024-05-17 04:01:00",

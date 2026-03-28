@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,853 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,912 likes - 69 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 65 | [NO MORE PAIN](https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [NO MORE PAIN](https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI) | 3:27 |
 | 66 | [Oh My Gosh](https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Take No Chat \(EP\)](https://open.spotify.com/album/6DY9FDwvEnaBVoDu6gkPxF) | 3:28 |
 | 67 | [Cheat Code](https://open.spotify.com/track/6a8EYMszSDhQV65yQiZn40) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n) | [Cheat Code](https://open.spotify.com/album/0pPpPEkkUO8QX7OHT3xcRE) | 2:41 |
-| 68 | [U](https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS), [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH) | [U](https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI) | 3:00 |
+| 68 | [No Scrubs](https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [No Scrubs](https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk) | 2:02 |
 | 69 | [Mash Up](https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [Mash Up](https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04) | 3:05 |
 
 Snapshot ID: `AAAAADzUH5ltITK4MOU5quaTdjGenny/`

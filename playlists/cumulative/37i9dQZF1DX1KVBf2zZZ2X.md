@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-331 songs - 15 hr 27 min
+333 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Beyond the Trees](https://open.spotify.com/track/14fQdcdoIkXx0Xdga2hFOZ) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Beyond the Trees](https://open.spotify.com/album/5k8Ca0yBwHEoHlyqGRHPkN) | 2:25 | 2026-03-20 |  |
 | [Birds of Lydia](https://open.spotify.com/track/0zBQMEzF6difdESPGXREV4) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Birds of Lydia](https://open.spotify.com/album/4x9TbSI7FAwZlBLJ8NU1PC) | 3:16 | 2025-06-11 |  |
 | [Birds of Paradise](https://open.spotify.com/track/5Qm47coZ5Eph0roKaCml85) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 5:24 | 2025-06-11 | 2026-03-21 |
+| [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-03-20 |  |
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-02-21 | 2026-03-21 |
 | [Blue Spruce](https://open.spotify.com/track/64pSoTFsckMZnV691Ya4wJ) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Blue Spruce](https://open.spotify.com/album/2yQbp9WEyvRS2YUGfEAvNY) | 3:07 | 2025-02-21 |  |
 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 | 2023-11-18 | 2025-09-25 |
@@ -78,7 +79,7 @@
 | [Compassion](https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Compassion](https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd) | 3:07 | 2023-10-06 | 2025-11-28 |
 | [Cosmic Dance](https://open.spotify.com/track/1oMatzw8UlXeirPYtqb2Wn) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Cosmic Dance](https://open.spotify.com/album/7pHSVI92ueYjhSvgrMwbVW) | 2:44 | 2025-09-04 | 2025-12-04 |
 | [Cosmic Major](https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Cosmic Major](https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF) | 2:13 | 2024-01-25 | 2026-03-22 |
-| [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2025-05-16 |  |
+| [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2025-05-16 | 2026-03-28 |
 | [Cucurbita](https://open.spotify.com/track/3N1HAd8IP2Iv6fJMeuL4q8) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Cucurbita](https://open.spotify.com/album/2obGcH5exzGCZdlO3oDnFL) | 1:25 | 2023-07-06 | 2023-07-22 |
 | [Da Lat](https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [Da Lat](https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS) | 2:02 | 2024-01-25 | 2025-10-18 |
 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-06 | 2025-09-29 |
@@ -145,6 +146,7 @@
 | [Hands of Peace](https://open.spotify.com/track/09k98ZBBIc5Dn261HfMaO7) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Hands of Peace](https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns) | 3:27 | 2026-03-20 |  |
 | [Harp For The Forest](https://open.spotify.com/track/3utL3Ht0qABfrg6cwRMEMf) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [Harp For The Forest](https://open.spotify.com/album/3fbbRbIaWZTH3WSIUUMG7o) | 3:05 | 2024-02-06 | 2024-11-23 |
 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 | 2023-03-03 | 2024-04-26 |
+| [Held in the Jungle's Sleep](https://open.spotify.com/track/08DivxvdYawXBq4C63a2VI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Held in the Jungle's Sleep](https://open.spotify.com/album/5YqsYVMj3qJD8rCTEwhVR1) | 2:44 | 2026-03-20 |  |
 | [Held in the Unseen](https://open.spotify.com/track/6BLWQzCeyUnNgzHT3gDvG5) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Held in the Unseen](https://open.spotify.com/album/0NWfsXREqQRkTnnfNwMlN2) | 3:31 | 2026-03-20 |  |
 | [Hidden Trees](https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Hidden Trees](https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG) | 2:56 | 2025-12-03 |  |
 | [Hidden Valley](https://open.spotify.com/track/3Qk1kmwicACrLOwY1wGQKc) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Hidden Valley](https://open.spotify.com/album/4Ob4bAUAuYhWCofsKg0vJc) | 2:39 | 2025-06-11 | 2026-03-21 |
@@ -158,7 +160,7 @@
 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 | 2023-03-03 | 2024-11-23 |
 | [Imaginations](https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Imaginations](https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ) | 2:47 | 2026-03-20 | 2026-03-25 |
 | [In the forest](https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [In the forest](https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ) | 2:14 | 2023-09-01 | 2024-07-19 |
-| [Inner Peace](https://open.spotify.com/track/4xgIZplTSDOLVDJ5sUhGSl) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Inner Peace](https://open.spotify.com/album/4a2A5yW9e0nNGbdYmnyjkT) | 1:58 | 2026-03-20 |  |
+| [Inner Peace](https://open.spotify.com/track/4xgIZplTSDOLVDJ5sUhGSl) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Inner Peace](https://open.spotify.com/album/4a2A5yW9e0nNGbdYmnyjkT) | 1:58 | 2026-03-20 | 2026-03-28 |
 | [inner room healing](https://open.spotify.com/track/09DzwPpPRylxmmoldKNCiC) | [Julien Abbadie](https://open.spotify.com/artist/4VzZQ0uOnKgLowRSZvNcrW) | [inner room healing](https://open.spotify.com/album/2KIBDGOVELhfy2rMnjwqO8) | 2:52 | 2024-10-01 | 2025-01-16 |
 | [Inner Stream](https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [Inner Stream](https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50) | 2:21 | 2026-03-20 |  |
 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 | 2024-03-01 | 2026-03-21 |

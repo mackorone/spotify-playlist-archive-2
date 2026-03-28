@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,013 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,388 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,22 +51,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 41 | [Frei](https://open.spotify.com/track/2YtSRsWYbmXibPDiyfg47K) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Madonna Whore Komplex](https://open.spotify.com/album/4W33bBRbpEkrd8yQhiubqX) | 2:37 |
 | 42 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
 | 43 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
-| 44 | [BLICKE](https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [BLICKE](https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O) | 2:11 |
-| 45 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |
+| 44 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |
+| 45 | [BLICKE](https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [BLICKE](https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O) | 2:11 |
 | 46 | [Real Face](https://open.spotify.com/track/3iP0ip5Z4P8s9SXiSECPZs) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Chasing Dreams](https://open.spotify.com/album/25DsF8SFndSpdjjGT9zEc4) | 2:51 |
 | 47 | [Pusher](https://open.spotify.com/track/0lf3KYqbj5unpsc4Oc1MIU) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [With My Eyes Closed EP](https://open.spotify.com/album/6Qu8ZxzKX8M9Oi1UuHtRyf) | 5:25 |
 | 48 | [switch places](https://open.spotify.com/track/5f9lBYomdenoiOavfabNjO) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [switch places](https://open.spotify.com/album/4ew6fl7tuoj0xxq6NZtEzN) | 3:02 |
 | 49 | [Hideaway](https://open.spotify.com/track/2UDu6Xfvy0CmaauTVPwjxq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [WILLPOWER](https://open.spotify.com/album/5ww58uFQd1fC2MkUaoA4AT) | 4:19 |
 | 50 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 |
 | 51 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
-| 52 | [How It Looks Like](https://open.spotify.com/track/1aIkIwdJjLo6DhITYYIzck) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [How It Looks Like](https://open.spotify.com/album/3NrrbI4KX0wDf02RAPDfkw) | 4:37 |
-| 53 | [The Surface](https://open.spotify.com/track/6m1GwaRkBG1ujJcKH9rnic) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 3:55 |
+| 52 | [The Surface](https://open.spotify.com/track/6m1GwaRkBG1ujJcKH9rnic) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 3:55 |
+| 53 | [How It Looks Like](https://open.spotify.com/track/1aIkIwdJjLo6DhITYYIzck) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [How It Looks Like](https://open.spotify.com/album/3NrrbI4KX0wDf02RAPDfkw) | 4:37 |
 | 54 | [Silver Lining](https://open.spotify.com/track/1RbBO8JbJrsxz3g2YTcPtn) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 3:22 |
 | 55 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
 | 56 | [Mad](https://open.spotify.com/track/5rG3r8mGTeTlFugpIgMg8E) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:22 |
-| 57 | [Just Keep Swimming](https://open.spotify.com/track/5e30L2Uds20ufO2pjaMhQP) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:23 |
-| 58 | [Broken Promises](https://open.spotify.com/track/6Q5E8MoiU2dnDaCEL8Np0E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Ein Schluck](https://open.spotify.com/album/09wYmnTsAyblTmYlbcr0Ck) | 1:51 |
+| 57 | [Broken Promises](https://open.spotify.com/track/6Q5E8MoiU2dnDaCEL8Np0E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Ein Schluck](https://open.spotify.com/album/09wYmnTsAyblTmYlbcr0Ck) | 1:51 |
+| 58 | [Just Keep Swimming](https://open.spotify.com/track/5e30L2Uds20ufO2pjaMhQP) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:23 |
 | 59 | [TWTC](https://open.spotify.com/track/7baC81sEbLdJkwHDthWr9d) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/6Fs9Xeqb26W6hdTktFBku9) | 3:24 |
 | 60 | [Casa Blanca](https://open.spotify.com/track/2KYJMtVbGpcKGLdkz542tG) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [Welcome 2 Agrabah](https://open.spotify.com/album/4dLEnsVcHm1ifApARNWpo5) | 2:19 |
 
-Snapshot ID: `AAAAAL/VOHLzHr6r0nDJG3C+J31PwSfb`
+Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

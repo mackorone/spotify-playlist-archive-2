@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: Magoo",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Yonder Mountain String Band",
   "name": "New Grass",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 137818,
       "name": "Blame",
       "url": "https://open.spotify.com/track/72D2jyjkyYvheRcs0ScZSj"
@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Company Man",
+        "url": "https://open.spotify.com/album/0uW8UpfYJi5GDvAsSi10l7"
+      },
+      "artists": [
+        {
+          "name": "Unspoken Tradition",
+          "url": "https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249069,
+      "name": "Company Man",
+      "url": "https://open.spotify.com/track/5Igc8uexKpnLKIrX0yGg2P"
+    },
+    {
+      "album": {
         "name": "Trains, Thinkin' and Drinkin'",
         "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
       },
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 214464,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/1ykmpRMuKbowPqXUZQp7xu"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 176253,
       "name": "Falling In Love Forever",
       "url": "https://open.spotify.com/track/51xgEXGLONA99aLPmlFRHP"
@@ -4129,6 +4147,32 @@
     },
     {
       "album": {
+        "name": "In The Pines (feat. Dolly Parton)",
+        "url": "https://open.spotify.com/album/4ZGixzoX039in9a27pJrqm"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287754,
+      "name": "In The Pines (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/0IIf9XuUZG2IVUVcYBFt6T"
+    },
+    {
+      "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
@@ -4324,7 +4368,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 241986,
       "name": "Juneau What it Means to Miss Alaska?",
       "url": "https://open.spotify.com/track/5TPCFqNKbASl2xexfm27VX"
@@ -4847,6 +4891,24 @@
     },
     {
       "album": {
+        "name": "Little Delilah",
+        "url": "https://open.spotify.com/album/1BOLtw81hoA3kn0hB7dxqM"
+      },
+      "artists": [
+        {
+          "name": "Mike Mitchell",
+          "url": "https://open.spotify.com/artist/6ycwdPrYURJSt1itMpTcGp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175313,
+      "name": "Little Delilah",
+      "url": "https://open.spotify.com/track/1VBQ9R8fU6bFtO28JHisq8"
+    },
+    {
+      "album": {
         "name": "Little Ones",
         "url": "https://open.spotify.com/album/3s4ILC1Jmbcxe7oWs89BCN"
       },
@@ -4970,6 +5032,24 @@
       "duration_ms": 396438,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/3kowXiulAQLaoCufDH24tH"
+    },
+    {
+      "album": {
+        "name": "Long Way Around",
+        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177858,
+      "name": "Long Way Around",
+      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
     },
     {
       "album": {
@@ -5450,6 +5530,24 @@
       "duration_ms": 137737,
       "name": "More And More",
       "url": "https://open.spotify.com/track/7sUBvHfUFCIzRgmoeklLeR"
+    },
+    {
+      "album": {
+        "name": "Mountain Don't Care",
+        "url": "https://open.spotify.com/album/4I7E3GulY3e6ZzhlKamRGn"
+      },
+      "artists": [
+        {
+          "name": "Valley Flower",
+          "url": "https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245031,
+      "name": "Mountain Don't Care",
+      "url": "https://open.spotify.com/track/48D8QmXLfiR3RGCPKyWkSR"
     },
     {
       "album": {
@@ -6228,7 +6326,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 196150,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/1holuZdD0AW09F7tVnYYDV"
@@ -6588,7 +6686,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 199440,
       "name": "Ralph\u2019s Banjo Special",
       "url": "https://open.spotify.com/track/7pt0KuCjDAc0VmZsUKW5Yv"
@@ -8140,6 +8238,24 @@
       "duration_ms": 210000,
       "name": "The Helpers",
       "url": "https://open.spotify.com/track/69dMHxovLBbxmofvr8Frjh"
+    },
+    {
+      "album": {
+        "name": "Good As True",
+        "url": "https://open.spotify.com/album/7kZG0rM5pmd1O9BoEdXkZ7"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329106,
+      "name": "The Lie",
+      "url": "https://open.spotify.com/track/1UzulUqcpOkCydTkWieCVl"
     },
     {
       "album": {

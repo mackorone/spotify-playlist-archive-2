@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Paloma Rumba",
+        "url": "https://open.spotify.com/album/2o3POyKD38wE14kzOGKAAl"
+      },
+      "artists": [
+        {
+          "name": "Simon",
+          "url": "https://open.spotify.com/artist/4qC6Oo7wjfFMWDFSH25ytW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158070,
+      "name": "Paloma Rumba",
+      "url": "https://open.spotify.com/track/4GdU371yp4pDPleTAXoq4g"
+    },
+    {
+      "album": {
         "name": "Pedestal (Eurovision version)",
         "url": "https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn"
       },

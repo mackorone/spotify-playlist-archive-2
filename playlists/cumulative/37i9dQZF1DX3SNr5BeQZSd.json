@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Amber Skies",
+        "url": "https://open.spotify.com/album/0d9CrWlahws5Csf9lQIs1L"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "twofiveone",
+          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Amber Skies",
+      "url": "https://open.spotify.com/track/0zRQHbtFAVBXBI9zbURwsn"
+    },
+    {
+      "album": {
         "name": "daydreams",
         "url": "https://open.spotify.com/album/3uZtgdueot1pj4pm74r0yt"
       },
@@ -2627,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Bird Dance",
+        "url": "https://open.spotify.com/album/1FUpi97BLjsAnL0AknOxXP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Bird Dance",
+      "url": "https://open.spotify.com/track/6wDCwz9aYf02H0RtX3evrL"
+    },
+    {
+      "album": {
         "name": "Birds Morning",
         "url": "https://open.spotify.com/album/6GPft4mtd3AMapNK5u5JBv"
       },
@@ -2664,6 +2704,28 @@
       "duration_ms": 82588,
       "name": "Birdwatching",
       "url": "https://open.spotify.com/track/4fWxjDAzwQ2d2doLSq2jPF"
+    },
+    {
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/4MY7fIiTNFzIEhgQ8GNGbX"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/2Mjz8KFp5g6N3mgCwVF9yo"
     },
     {
       "album": {
@@ -3709,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/6gclIUt84jwnC9dcNWiIts"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/0E4yM6bEw40j7V1PVZOzkd"
+    },
+    {
+      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/2Jyt5LhlBdYbwYyTQFGcDK"
       },
@@ -3870,7 +3950,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 152727,
       "name": "Candle Glow",
       "url": "https://open.spotify.com/track/4hHGdp2n2bNHEFgoMngDGw"
@@ -5518,6 +5598,28 @@
       "duration_ms": 123870,
       "name": "Dandelion's Lullaby",
       "url": "https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG"
+    },
+    {
+      "album": {
+        "name": "Dark Brew",
+        "url": "https://open.spotify.com/album/4eylRPk16V8e7Zj6SiFQd1"
+      },
+      "artists": [
+        {
+          "name": "Mister Decaf",
+          "url": "https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY"
+        },
+        {
+          "name": "Tolan",
+          "url": "https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Dark Brew",
+      "url": "https://open.spotify.com/track/4MhOf4MoixASEUgogDTGry"
     },
     {
       "album": {
@@ -7549,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0HnMPxEaEVDSdK9RSuFNxG"
+      },
+      "artists": [
+        {
+          "name": "Abricot",
+          "url": "https://open.spotify.com/artist/3g1NWK6jzmo2TqQe019RGC"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2hZb9pzwQ19l4sZ1KYA3mu"
+    },
+    {
+      "album": {
         "name": "evening feelings",
         "url": "https://open.spotify.com/album/40bSUCQWxCdnUZs0sBWUsl"
       },
@@ -7582,7 +7702,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 179200,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4AR0NNpMhvmnEixgTzpOv2"
@@ -8598,7 +8718,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 143157,
       "name": "flowers",
       "url": "https://open.spotify.com/track/4kYHK1YFkSeuVaONpR1Mv5"
@@ -9504,6 +9624,28 @@
       "duration_ms": 75505,
       "name": "Golden View",
       "url": "https://open.spotify.com/track/0RFPLgHH6952r2rQABXHGN"
+    },
+    {
+      "album": {
+        "name": "Goldenhour",
+        "url": "https://open.spotify.com/album/04INxJWikKN6ZLawDdlFa2"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Goldenhour",
+      "url": "https://open.spotify.com/track/1TKFSYaaCQx4k9jhQ8YBjJ"
     },
     {
       "album": {
@@ -11178,7 +11320,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 126545,
       "name": "i'm fine",
       "url": "https://open.spotify.com/track/4wUwnjfjPe3HzdVXxinhtk"
@@ -13130,7 +13272,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 109466,
       "name": "Lagoon Nights",
       "url": "https://open.spotify.com/track/3ecpwm6EbnrEq0Mgorj3eY"
@@ -14384,7 +14526,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 113000,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/3rpKF6Tr917lpO5oYEXeZn"
@@ -16304,7 +16446,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 123330,
       "name": "Mist",
       "url": "https://open.spotify.com/track/0jFw78Vo8ui06fB99PcM17"
@@ -16482,6 +16624,24 @@
       "duration_ms": 94250,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/5LtnLvWij4endMU7cwIsID"
+    },
+    {
+      "album": {
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/7uzvmMc7GRgSkM4CVRozo9"
+      },
+      "artists": [
+        {
+          "name": "GlobulDub",
+          "url": "https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/2fvsinjIXqtU7Mw3eVGLoS"
     },
     {
       "album": {
@@ -17414,6 +17574,28 @@
       "duration_ms": 140951,
       "name": "night air",
       "url": "https://open.spotify.com/track/7IWh4WrtcYicpKth269BYW"
+    },
+    {
+      "album": {
+        "name": "Night Birds",
+        "url": "https://open.spotify.com/album/1xqkOgkVeXF06CjmokUjEX"
+      },
+      "artists": [
+        {
+          "name": "terrarium.",
+          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
+        },
+        {
+          "name": "Culpeo",
+          "url": "https://open.spotify.com/artist/6e16LN2fHwaIm2v5jQ541j"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106607,
+      "name": "Night Birds",
+      "url": "https://open.spotify.com/track/4FQr3XL3XECyBp1mxr3aoI"
     },
     {
       "album": {
@@ -19317,6 +19499,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6sXya0YRVsQCMWPz15rTk9"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3cCfUJ83e5GGJi1zvSeIXJ"
+    },
+    {
+      "album": {
         "name": "Pattern",
         "url": "https://open.spotify.com/album/0qSjBjBTS4PoP3hi7uaVJg"
       },
@@ -20262,7 +20462,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 120000,
       "name": "Quiet Reverie",
       "url": "https://open.spotify.com/track/2527HugwqpCIEvbEAzuq7i"
@@ -23000,7 +23200,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 120000,
       "name": "Slow Steps",
       "url": "https://open.spotify.com/track/2YXCqbCuiiLUiNlw0NSx9h"
@@ -24200,7 +24400,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 126101,
       "name": "Split Fiction",
       "url": "https://open.spotify.com/track/2YvQf5eX1OPgEZes39UxK9"
@@ -24474,7 +24674,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 146086,
       "name": "stars beyond",
       "url": "https://open.spotify.com/track/2JuUonejsHvfYNcTDGFsFl"
@@ -27465,6 +27665,24 @@
     },
     {
       "album": {
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/0kcBsCzHD1OQoj6txaxt0K"
+      },
+      "artists": [
+        {
+          "name": "Brxvs",
+          "url": "https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Transitions",
+      "url": "https://open.spotify.com/track/3fUtq1a94nGEcmRMJ1E6hI"
+    },
+    {
+      "album": {
         "name": "Traveling",
         "url": "https://open.spotify.com/album/2lflB3v6GNCBrCdQo8P9sL"
       },
@@ -28284,7 +28502,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 133670,
       "name": "Upstream",
       "url": "https://open.spotify.com/track/3Z9KyJagayzbzvHqVpUVgm"
@@ -29866,6 +30084,28 @@
       "duration_ms": 84000,
       "name": "wild man blues",
       "url": "https://open.spotify.com/track/22Byv09Y3vmD7XmMQx7rUQ"
+    },
+    {
+      "album": {
+        "name": "wildflower walk",
+        "url": "https://open.spotify.com/album/1vGFgr1i2Q2TdW9gmWxmkM"
+      },
+      "artists": [
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "wildflower walk",
+      "url": "https://open.spotify.com/track/3mcGCTghkfVwws7J8Td7AZ"
     },
     {
       "album": {

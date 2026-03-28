@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: error
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,433 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,529 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vergeben \(ans Leben\)](https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Vergeben \(ans Leben\)](https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl) | 2:13 |
 | 2 | [Wie Ein Echter Mann](https://open.spotify.com/track/2BJjVCZBrXvmfiwBfUhrZV) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Wie Ein Echter Mann](https://open.spotify.com/album/5tOSJFnJEPGSf5l9t7bSJc) | 3:07 |
-| 3 | [Track 3](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 0:00 |
+| 3 | [das größte was es gibt](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 3:02 |
 | 4 | [Die Jugend hat Angst](https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Die Jugend hat Angst](https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h) | 2:33 |
 | 5 | [IMMATRIKULATIONSBESCHEINIGUNG](https://open.spotify.com/track/48zyGIIHjQF5AKAE6XrjdI) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [wild](https://open.spotify.com/album/59TeYgcvJBSNAU8W4yCEJ8) | 2:28 |
 | 6 | [BABYBOY](https://open.spotify.com/track/0jsK8zf0nVI9GEOYzP3NTJ) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [für immer: babyboy](https://open.spotify.com/album/6CzAfB0irUJqGq3l4LdUgL) | 3:29 |

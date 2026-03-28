@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-77 songs - 6 hr 5 min
+78 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 | 2025-03-11 |  |
 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 | 2025-03-11 | 2025-07-22 |
 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 |  |
+| [Everybody Loves](https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 1:22 | 2026-03-28 |  |
 | [Everytime I See You](https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:37 | 2025-03-11 |  |
 | [Exotic Dance \- From The "Coffy" Soundtrack](https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 3:18 | 2025-03-11 |  |
 | [Feed Me Your Love](https://open.spotify.com/track/6HSLTou3stVB46VMEiNK1N) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Soulsociety](https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc) | [Feed Me Your Love](https://open.spotify.com/album/4p6oGoxRZvCAcbhuwF8Rjs) | 4:14 | 2025-11-09 |  |
@@ -57,7 +58,7 @@
 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 | 2025-03-11 |  |
 | [Pathfinder](https://open.spotify.com/track/3iTV6xT5P0BiuDr8Oj3Zue) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Secrets Of The Sun](https://open.spotify.com/album/3SLjNGdWutYXVGI5ow06sx) | 4:48 | 2025-11-24 | 2026-01-15 |
 | [Pathfinder](https://open.spotify.com/track/5yLBRVfqmnIYCtYY8UzUNa) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Secrets Of The Sun](https://open.spotify.com/album/6axXBqBF07KKxExlLJjWR5) | 4:48 | 2025-11-16 | 2025-12-14 |
-| [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 | 2025-03-11 |  |
+| [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 | 2025-03-11 | 2026-03-28 |
 | [Precious Lord](https://open.spotify.com/track/04TVdicTm3xQ1y9Jol1sXy) | [David "Fathead" Newman](https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Religious Soul](https://open.spotify.com/album/4qHtCBVkkVHx2AWq5Jbjlv) | 5:25 | 2026-01-22 | 2026-01-26 |
 | [Proceed II](https://open.spotify.com/track/4h8tPJddGifuAKtgCnqRDj) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Do You Want More?!!!??! \(Deluxe Version\)](https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9) | 5:47 | 2025-07-15 | 2025-07-16 |
 | [Reaching The Highest Pleasure](https://open.spotify.com/track/3xDMXaYlOuINdVaV9IZ4ny) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Reaching the Highest Pleasure](https://open.spotify.com/album/0ahzE19os09AF736oHR0ap) | 5:44 | 2026-01-06 | 2026-01-18 |

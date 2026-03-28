@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Karen Espinosa",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Tommy Royale",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 188344,
       "name": "Ay\u00fadame a Creer",
       "url": "https://open.spotify.com/track/5dOuVjXwYraVqeP9Dr75Av"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 183389,
       "name": "Bailo Contigo",
       "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 284855,
       "name": "Bendice Alma M\u00eda",
       "url": "https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW"
@@ -2931,6 +2931,28 @@
     },
     {
       "album": {
+        "name": "Cinderella (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/1rRl2N8FoQ6JxuhyJRy9vx"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269125,
+      "name": "Cinderella - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/78eg2otOHRAr7F9N6NYTv6"
+    },
+    {
+      "album": {
         "name": "Clamo A Cristo",
         "url": "https://open.spotify.com/album/1rFix36XxWCHOhjiMvRdqk"
       },
@@ -3144,7 +3166,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 209613,
       "name": "CON DIO'",
       "url": "https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G"
@@ -3508,6 +3530,28 @@
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
+    },
+    {
+      "album": {
+        "name": "Cordero",
+        "url": "https://open.spotify.com/album/3f7DHkLcMstSOpWsLUp3xl"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        },
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345805,
+      "name": "Cordero",
+      "url": "https://open.spotify.com/track/1b0a4asSsnWFtCn9YAIKZu"
     },
     {
       "album": {
@@ -4932,6 +4976,32 @@
       "duration_ms": 483000,
       "name": "Dios de Poder",
       "url": "https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO"
+    },
+    {
+      "album": {
+        "name": "PUESTOS LOS OJOS EN JES\u00daS",
+        "url": "https://open.spotify.com/album/47EqP1G54kdoaEgLErL77i"
+      },
+      "artists": [
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483000,
+      "name": "Dios de Poder",
+      "url": "https://open.spotify.com/track/4O7Nx0RwpzSKFyQw4NSpiE"
     },
     {
       "album": {
@@ -7754,7 +7824,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166310,
       "name": "GRACIAS",
       "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
@@ -13275,6 +13345,28 @@
     },
     {
       "album": {
+        "name": "ChurchBoy",
+        "url": "https://open.spotify.com/album/1wPSVsGAZDT08vtZ36AI0R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154601,
+      "name": "PQ LLORAR?",
+      "url": "https://open.spotify.com/track/22sVxak5DVIYOHRNruwF8s"
+    },
+    {
+      "album": {
         "name": "Prendio",
         "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
       },
@@ -15654,7 +15746,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166875,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
@@ -18727,6 +18819,28 @@
     },
     {
       "album": {
+        "name": "\u00a1Alabo!",
+        "url": "https://open.spotify.com/album/7rdcfWuOzYe5Na51CzNibK"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241575,
+      "name": "\u00a1Alabo!",
+      "url": "https://open.spotify.com/track/0VgvkabPTPWJGc08ct1tE4"
+    },
+    {
+      "album": {
         "name": "\u00a1RUIDO!",
         "url": "https://open.spotify.com/album/6ZHISMBt3iTl5zCG3bk697"
       },
@@ -18790,6 +18904,28 @@
       "duration_ms": 460340,
       "name": "\u00bfQui\u00e9n Dijo Miedo? (Worship) [En Vivo]",
       "url": "https://open.spotify.com/track/0h18GdacIbXLsTfr7pURA9"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 es lo que ves?",
+        "url": "https://open.spotify.com/album/4QEdJJ0lnmDNtBmCfbEP4X"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200164,
+      "name": "\u00bfQu\u00e9 es lo que ves?",
+      "url": "https://open.spotify.com/track/2mLLX02XVGxgPorNyP0Mn0"
     },
     {
       "album": {

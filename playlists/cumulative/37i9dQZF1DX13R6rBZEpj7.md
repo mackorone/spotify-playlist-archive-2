@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-389 songs - 22 hr 34 min
+390 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [No Lie \- BL3SS Remix](https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [No Lie \(BL3SS Remix\)](https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q) | 2:14 | 2025-10-02 |  |
 | [NO MORE PAIN](https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [NO MORE PAIN](https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI) | 3:27 | 2025-05-15 |  |
 | [No Other Man \(One Man\)](https://open.spotify.com/track/15NJ4BGMClGSBXbZ96XwLy) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Vanessa Bling](https://open.spotify.com/artist/1PiEUwpwwtIostNXewLUG1), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [No Other Man \(One Man\)](https://open.spotify.com/album/77nnpZro8WHHrEX0nscxJH) | 2:20 | 2024-11-14 | 2026-01-16 |
+| [No Scrubs](https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [No Scrubs](https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk) | 2:02 | 2026-03-20 |  |
 | [Nobody Else](https://open.spotify.com/track/7vvGZeQdluLLmUdaVouD1A) | [Zeppho](https://open.spotify.com/artist/4cuiNQP7g81jSGKSBSWHEY) | [Nobody Else](https://open.spotify.com/album/42t9AM6HaETYWXCvs7kNGI) | 3:51 | 2022-04-15 | 2024-11-29 |
 | [Nonsense](https://open.spotify.com/track/3y7UBdI6NKZZJpzop0yef8) | [Baitz](https://open.spotify.com/artist/3eNvZcanhnb4T3nwlLQfYQ) | [Nonsense](https://open.spotify.com/album/4ZQIv1jbxnqpViBAq8Vj4i) | 3:50 | 2022-04-22 | 2022-07-24 |
 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 | 2022-09-05 | 2023-03-29 |
@@ -366,7 +367,7 @@
 | [Tune](https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Pressure Drop](https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB) | 3:08 | 2023-04-04 | 2024-04-19 |
 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 | 2023-01-24 | 2024-04-19 |
 | [Turn It Up](https://open.spotify.com/track/2x3Ho0q8Jlg4oeKLplVNF3) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/3CYXvbET6O38TCv5fHHykm) | 3:01 | 2022-04-15 | 2023-02-26 |
-| [U](https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS), [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH) | [U](https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI) | 3:00 | 2025-04-03 |  |
+| [U](https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS), [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH) | [U](https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI) | 3:00 | 2025-04-03 | 2026-03-28 |
 | [U Get Me](https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [U Get Me](https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko) | 5:22 | 2022-04-15 | 2022-11-12 |
 | [UK Flavour](https://open.spotify.com/track/0nMbPNQEbZEIvZj8EbkFKn) | [IYRE](https://open.spotify.com/artist/4lOMuHPiA5TrLjPk1aseIc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G) | [UK Flavour](https://open.spotify.com/album/3ikZPi3R6t82sQd7qbUVvt) | 3:05 | 2025-04-17 | 2025-05-30 |
 | [Understand Your Greatness](https://open.spotify.com/track/0OINkv2srrpGe2SZvcaNOg) | [Bailey P](https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd) | [Understand Your Greatness](https://open.spotify.com/album/1Ff2JMxJnkdAxIXcQEywke) | 3:22 | 2025-04-03 | 2025-04-28 |

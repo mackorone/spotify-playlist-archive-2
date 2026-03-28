@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,742 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,740 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 59 | [Liberem os Brigadeiros Antes dos Parabéns](https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu) | [Palavra Cantada](https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT) | [Cenas Infantis](https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu) | 3:12 |
 | 60 | [Marra de Feroz](https://open.spotify.com/track/5rlt8sbM3GUGYegd66j96E) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione](https://open.spotify.com/album/6QCBlpGOO4UD9SgmCciYMK) | 3:21 |
 | 61 | [Profecia](https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Ida e Volta](https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7) | 3:13 |
-| 62 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
-| 63 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
+| 62 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
+| 63 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
 | 64 | [AO TEU LADO](https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:11 |
 | 65 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |
 | 66 | [Suíte Ameríndia](https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martín Sued & Orquestra Assintomática](https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx), [Orquestra Assintomática](https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Saga](https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv) | 14:01 |

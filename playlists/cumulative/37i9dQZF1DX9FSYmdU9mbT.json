@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 145884,
       "name": "Corra e Olhe o C\u00e9u - Ao Vivo",
       "url": "https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE"
@@ -2434,6 +2434,28 @@
       "duration_ms": 192062,
       "name": "Paisagem da Janela - Ao Vivo",
       "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
+    },
+    {
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191392,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
     },
     {
       "album": {

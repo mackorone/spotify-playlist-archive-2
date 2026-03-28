@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: lucca
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,335 likes - 111 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,337 likes - 111 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [better as a stranger](https://open.spotify.com/track/3HiXP8dtSyJwVG5JuP8cUh) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [better as a stranger](https://open.spotify.com/album/74XCWIwZ01RkhM4Hj0ILaf) | 3:24 |
 | 2 | [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 |
 | 3 | [we outside](https://open.spotify.com/track/5KI00VnasAYXjbn5fzrbUR) | [Wadi](https://open.spotify.com/artist/0cg1dZt1fxg4ei0nXsrxNg) | [we outside](https://open.spotify.com/album/3c6JnupuUtYF8D6cr2r8DK) | 2:55 |
-| 4 | [Track 1](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 0:00 |
+| 4 | [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 |
 | 5 | [monachopsis](https://open.spotify.com/track/2rRJ4dafdqL5EAXPeNd45p) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [monachopsis](https://open.spotify.com/album/0p3BEAu5Fqx3djx4Reimlu) | 2:43 |
 | 6 | [Centipede](https://open.spotify.com/track/36BjBIofJXDQZ0zm3dAIO4) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Centipede](https://open.spotify.com/album/306oi8APNwiekj6ui6baLH) | 2:55 |
 | 7 | [THE BEGINNING OF THE END](https://open.spotify.com/track/1KRqSqWl2uKEgSC0PzRMBV) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [THE BEGINNING OF THE END](https://open.spotify.com/album/2C8hrvBKGBPREteZi1e02q) | 3:19 |

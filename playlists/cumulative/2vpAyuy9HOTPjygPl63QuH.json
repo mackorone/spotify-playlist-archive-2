@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/6jVysJUSRFQnpCzWmfVWkC"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/5Iedc3D20KJoj95uQRp5p0"
+    },
+    {
+      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/1KbdZuKZQI4ZaJ0J6jR0xJ"
       },
@@ -2678,6 +2696,28 @@
       "duration_ms": 125714,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2h9SkzuRrKJIJtPoaiPUla"
+    },
+    {
+      "album": {
+        "name": "Bad & U Know It",
+        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191669,
+      "name": "Bad & U Know It",
+      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
     },
     {
       "album": {
@@ -5406,6 +5446,28 @@
       "duration_ms": 352991,
       "name": "Bout That C - Mason Collective Remix",
       "url": "https://open.spotify.com/track/0aakCki7Ak9saAlWgn0wpZ"
+    },
+    {
+      "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/5iEXOYgssW3uniETbypS7t"
+      },
+      "artists": [
+        {
+          "name": "Zack Darza",
+          "url": "https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm"
+        },
+        {
+          "name": "Snooko",
+          "url": "https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296307,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/4fmVAGdkTqr54qzFtb2ZOB"
     },
     {
       "album": {
@@ -15154,6 +15216,28 @@
       "duration_ms": 218201,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/3adyet974JAomzNGmhBX2d"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "album": {
@@ -41686,6 +41770,24 @@
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
+    },
+    {
+      "album": {
+        "name": "Talking To Myself",
+        "url": "https://open.spotify.com/album/1pYdfqXGZQlgXz2jnUwrpi"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472835,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae"
     },
     {
       "album": {

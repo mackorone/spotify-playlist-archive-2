@@ -1,6 +1,6 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 6386,
+  "num_followers": 6496,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-09 21:56:08",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
-    },
-    {
-      "added_at": "2024-07-09 21:56:08",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 283733,
       "name": "Don't Cry (Original)",
       "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+    },
+    {
+      "added_at": "2024-07-09 21:56:08",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
     },
     {
       "added_at": "2024-07-09 21:56:08",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-09 21:56:08",
       "album": {
-        "name": "The Drug In Me Is Reimagined",
-        "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 340071,
-      "name": "The Drug In Me Is Reimagined",
-      "url": "https://open.spotify.com/track/5GIWP2q6p92lFA10KUuL0z"
-    },
-    {
-      "added_at": "2024-07-09 21:56:08",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 214226,
       "name": "Let Me Be Sad",
       "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
+    },
+    {
+      "added_at": "2024-07-09 21:56:08",
+      "album": {
+        "name": "The Drug In Me Is Reimagined",
+        "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 340071,
+      "name": "The Drug In Me Is Reimagined",
+      "url": "https://open.spotify.com/track/5GIWP2q6p92lFA10KUuL0z"
     },
     {
       "added_at": "2024-07-09 21:56:08",

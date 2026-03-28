@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-282 songs - 11 hr 28 min
+283 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Abençoado](https://open.spotify.com/track/1QUOw9BKGEWSlo5XLt5vey) | [Vineee](https://open.spotify.com/artist/46BTmgvrCz09lWP0KxSRES) | [Vitória](https://open.spotify.com/album/7JfBKyoDTo9347LleQlGbG) | 2:59 | 2023-09-15 | 2023-09-23 |
 | [Acesso](https://open.spotify.com/track/50DJ7gzjb5ZoNfZyh6JQB7) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Acesso](https://open.spotify.com/album/5wDZ8w72zU0MKc5bgodoYx) | 3:08 | 2023-12-22 | 2025-12-16 |
 | [Adrenalina](https://open.spotify.com/track/2VBrC9cGZpIbyjR004EzrR) | [AKillis](https://open.spotify.com/artist/3qLr4YyEGECjotv6W91hnn) | [Adrenalina](https://open.spotify.com/album/22l3iTYWW38NCab6dVYhcl) | 1:10 | 2023-09-22 | 2023-10-14 |
-| [Ak da Rússia](https://open.spotify.com/track/3rCJbmgd9B1DtsKIPr2P30) | [Shark47](https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F), [Danike](https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK), [McPhill](https://open.spotify.com/artist/5hKU8timIu48wetiWpKHJt) | [Ak da Rússia](https://open.spotify.com/album/4jzQp1DAe7iqA2sDqV6zp9) | 2:53 | 2023-09-15 |  |
+| [Ak da Rússia](https://open.spotify.com/track/3rCJbmgd9B1DtsKIPr2P30) | [Shark47](https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F), [Danike](https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK), [McPhill](https://open.spotify.com/artist/5hKU8timIu48wetiWpKHJt) | [Ak da Rússia](https://open.spotify.com/album/4jzQp1DAe7iqA2sDqV6zp9) | 2:53 | 2023-09-15 | 2026-03-28 |
 | [Altos & Baixos](https://open.spotify.com/track/24q0B9txCHQmn1AXPa95vP) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Altos & Baixos](https://open.spotify.com/album/3u4YGICGQ6g8bTePmymcCR) | 2:17 | 2024-05-03 | 2024-11-30 |
 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 | 2023-11-17 | 2024-12-29 |
 | [Amor](https://open.spotify.com/track/5OdtravkfnSInKvZDAC4WH) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Amor](https://open.spotify.com/album/2mSE2XQqk8JyUYzZ0BTrdZ) | 2:03 | 2024-01-19 | 2024-03-09 |
@@ -70,6 +70,7 @@
 | [Conto as Horas](https://open.spotify.com/track/6vHgXkn8wrBv6IcPxBN6If) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo) | [Garotas São Confusas](https://open.spotify.com/album/2BuisPcfpEOatMzrSB6OpO) | 2:27 | 2025-01-23 |  |
 | [Cowabunga!](https://open.spotify.com/track/0T7dsXQYsz1SjpbvwYKVEY) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Nle Doprê](https://open.spotify.com/artist/5eIBAoPi08IA4rVTJZznZL), [Brennuz](https://open.spotify.com/artist/3bJRxCD4x2F0x32XFGo9CH), [Barretinho](https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [LáDoEsgoto](https://open.spotify.com/album/6razVeB0xgRp9Dh6iZmzRr) | 3:24 | 2024-07-05 | 2025-12-16 |
 | [Crack The Code](https://open.spotify.com/track/1iuv7Z4ELFsAnIdbfyDGlp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 1:17 | 2023-11-24 | 2023-12-02 |
+| [CRIME](https://open.spotify.com/track/2eeKmxegjwpb3y71XCse0M) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [CRIME](https://open.spotify.com/album/5U2rpoLvsQ52La79MwfCxb) | 1:45 | 2026-03-27 |  |
 | [Cristália](https://open.spotify.com/track/4mGSTy0kAseZFsHZYsSKOA) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [PECADOR MIXTAPE](https://open.spotify.com/album/025pOgKA4SP9zYj9I0n9oK) | 2:25 | 2024-12-13 | 2024-12-21 |
 | [Cruzadas](https://open.spotify.com/track/1aCV3ELeetm1pgdSOiDoeO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 1:48 | 2024-09-13 | 2024-11-30 |
 | [Curte a Party](https://open.spotify.com/track/3BmdFmFFUb8Eu6a9Bs3dcg) | [kvalk](https://open.spotify.com/artist/1ZSjlkPvjpcpPTJjx9igkn), [Mck⁰¹⁵](https://open.spotify.com/artist/2vKURleuK4XrDx6rTyw7PC), [Sp1ngr](https://open.spotify.com/artist/3YoG9OKpYex04uPYt2UvEK) | [Curte a Party](https://open.spotify.com/album/0kODs78SdAPMbaSqZNA4DX) | 2:09 | 2023-09-29 | 2023-10-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,710 likes - 1,114 songs - 2 day 18 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,715 likes - 1,114 songs - 2 day 18 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -933,7 +933,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 923 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 |
 | 924 | [Dreamer \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6pJVYbB3FlpeqhkGSHnyuo) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb), [Bryan Grone](https://open.spotify.com/artist/11FRez2P2EyaszvkNbsrrn) | [Spotify Singles](https://open.spotify.com/album/0eWnvQtPHk19YCRu5kCD1s) | 3:07 |
 | 925 | [Where's My Mind \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4j4whTIS1tPoUllK8lQv8b) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb), [Bryan Grone](https://open.spotify.com/artist/11FRez2P2EyaszvkNbsrrn) | [Spotify Singles](https://open.spotify.com/album/0eWnvQtPHk19YCRu5kCD1s) | 2:59 |
-| 926 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 |
+| 926 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 |
 | 927 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 |
 | 928 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 |
 | 929 | [Listen to Your Mama \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2km5W6JWrJ9yCpuotZYHXw) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 3:46 |

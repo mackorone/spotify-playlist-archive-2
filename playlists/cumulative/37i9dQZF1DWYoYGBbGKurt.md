@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,139 songs - 3 day 10 hr 42 min
+2,141 songs - 3 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [After Taste](https://open.spotify.com/track/7luMtuVwZhHsReL55ibeIW) | [Knob Reflection](https://open.spotify.com/artist/64jX3OfGvQkiyRkxvuCWnv) | [After Taste](https://open.spotify.com/album/3CX2gXp6WiD1D2jLVKYgCw) | 1:51 | 2022-05-20 | 2024-04-13 |
 | [After The Campfire](https://open.spotify.com/track/2oYbRYGoepuWSA5zASaDYl) | [dean.](https://open.spotify.com/artist/0mTHQbJ5kQuR1NBUSMcTuM), [Grisp](https://open.spotify.com/artist/4Ss8Vh1dqwdci0DqaNycZM) | [After The Campfire](https://open.spotify.com/album/6bIYDs8O697FN1vG6K1wP8) | 2:42 | 2022-06-24 | 2022-07-22 |
 | [After the Last Bell](https://open.spotify.com/track/2SL5IXOn25rKinbzFYTR2V) | [Mono Polaire](https://open.spotify.com/artist/1q3gDW9CFJSU02oi9j4ve4) | [After the Last Bell](https://open.spotify.com/album/3bNumifydTJoG0EXFtjvEk) | 2:16 | 2026-02-27 |  |
+| [After the Sun Leaves](https://open.spotify.com/track/3CoCi4bkZLAdppKSBjqZ1U) | [Unmade Bed](https://open.spotify.com/artist/5XYhH4Vnl4zce8VkvTqFCb) | [After the Sun Leaves](https://open.spotify.com/album/57IT9gx7uMGN9wSH15GNHV) | 2:15 | 2026-03-27 |  |
 | [after wednesday](https://open.spotify.com/track/6HlhU2XdQ5BTi1tzXczLFW) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [after wednesday](https://open.spotify.com/album/63XifhqpYZh88FwjyO7eY1) | 1:46 | 2024-05-13 | 2025-05-24 |
 | [afterhour](https://open.spotify.com/track/6SegQ8eJyhqslx2MsM37LQ) | [.Night](https://open.spotify.com/artist/6tdFcj4yT3ErscnxTRj0rG) | [afterhour](https://open.spotify.com/album/0uT5n3cBFKBqRypXIAGj2z) | 2:15 | 2023-01-20 | 2023-09-02 |
 | [Afternoon Melody](https://open.spotify.com/track/6nVeehUKU30kv5nENB5Mjv) | [Vincent Adara](https://open.spotify.com/artist/1PKXtmjzzAeBmAhIQM6O4j) | [Afternoon Melody](https://open.spotify.com/album/2Hi9I8NG5pQgIM0YaagH7I) | 1:56 | 2022-07-22 | 2022-11-26 |
@@ -768,6 +769,7 @@
 | [good morning](https://open.spotify.com/track/7eoJ5QWlPolLvQcy8cbYFa) | [chxn records](https://open.spotify.com/artist/5tEcRZkq7jh2WhE2G43u63), [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [skirt & lofi](https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe) | 2:11 | 2022-06-24 | 2022-11-12 |
 | [Good People](https://open.spotify.com/track/2h1sce8sPyRxOc5Vjkm470) | [Mugensoul](https://open.spotify.com/artist/5rJVRBXiJ8xhSRKI2KPFoZ), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Good People](https://open.spotify.com/album/4mPdFhSorh5z1vjBzjXjD6) | 2:08 | 2022-11-25 | 2023-04-12 |
 | [Good Riddance](https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv) | [Bad Gherkin](https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B) | [Good Riddance](https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9) | 2:20 | 2023-11-17 | 2025-08-21 |
+| [Good Week](https://open.spotify.com/track/12u5TttiLndLFZFcdzBkbH) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z), [ddc.](https://open.spotify.com/artist/3pMNi4CdK2pn9Kh54ywmx6) | [Good Week](https://open.spotify.com/album/4lbNrAZ7lxSsNrDHbi9itb) | 3:47 | 2026-03-27 |  |
 | [Goodbyes](https://open.spotify.com/track/3VJNDyZ7VqEZtvIdpn2wu5) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Goodbyes](https://open.spotify.com/album/1ow7kKnfT544uTzU5Z4m0x) | 1:37 | 2022-10-14 | 2023-01-20 |
 | [Got It Done](https://open.spotify.com/track/0qrC0w1yduJyKPgrBmsQP7) | [Nixon Lash](https://open.spotify.com/artist/4IuD2seIzvnIcOlDN9SKoq) | [Got It Done](https://open.spotify.com/album/4SV7kePZpMDHyHRrdNUDgR) | 1:45 | 2022-10-28 | 2025-07-03 |
 | [Gracious Goodness](https://open.spotify.com/track/18J914gNvxhmewABqPbP21) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Space Bouquet](https://open.spotify.com/album/595We19pCycXkRdgnN0osX) | 3:10 | 2021-12-07 | 2022-07-01 |

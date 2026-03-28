@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-397 songs - 21 hr 48 min
+398 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-08-28 | 2025-01-19 |
 | [GOD'S GOT MY BACK](https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOD'S GOT MY BACK](https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM) | 2:38 | 2025-07-25 | 2025-09-27 |
 | [Godspeed](https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I Am Digital, I Am Divine](https://open.spotify.com/album/1x83gHUZAFBw28GmqaCTtm) | 3:07 | 2025-04-25 |  |
+| [Golden Door](https://open.spotify.com/track/7gSxKcbrWCl5Ar24cRAPkA) | [Chad King](https://open.spotify.com/artist/5ye12VcV77vMVLonNP4oeD) | [Golden Door](https://open.spotify.com/album/15oOrF6jgdvTy0CCdHKiY6) | 2:49 | 2026-03-27 |  |
 | [Good Stuff \- Babeheaven Remix](https://open.spotify.com/track/29TjpLNz9eidzNIFDIwovJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Good Stuff \(Babeheaven Remix\)](https://open.spotify.com/album/4o8zvIc25D4Tv7UiqThv3D) | 4:00 | 2021-12-06 | 2023-08-16 |
 | [Grace](https://open.spotify.com/track/5KEgyKlPVrdD2GXIJsWtSq) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Grace](https://open.spotify.com/album/4ZwIy5IK6CDm5hWlNk2SBg) | 2:42 | 2021-12-06 | 2023-08-16 |
 | [Green](https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t) | [Abraham Marder](https://open.spotify.com/artist/1mWBfXz6jucW65OnB7ZJsz) | [Green \(An Original Song from the Motion Picture “Sound of Metal”\)](https://open.spotify.com/album/3fpm5s5FAe2FnAbHTuTXt5) | 4:27 | 2021-12-06 | 2023-08-16 |

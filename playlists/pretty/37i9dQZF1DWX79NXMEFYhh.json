@@ -1,12 +1,12 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 882859,
+  "num_followers": 882791,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJszJyLTyj1l9k86aofkO4ix2o9u",
+  "snapshot_id": "AAAAALmVOMuqq2w6JTIuP/FUYvbP62Kf",
   "tracks": [
     {
       "added_at": "2026-03-18 09:21:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-18 09:21:16",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
-    },
-    {
-      "added_at": "2026-03-18 09:21:16",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 293723,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
+    },
+    {
+      "added_at": "2026-03-18 09:21:16",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2026-03-18 09:21:16",

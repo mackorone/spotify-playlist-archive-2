@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > хіти та новинки українського андерґраунду\. обкладинка: Tik Tu
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,353 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,358 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 34 | [Нас несе](https://open.spotify.com/track/6bnanlwJjOJ8mn5aAHujSB) | [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF), [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Половина мене](https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh) | 4:54 |
 | 35 | [останнє кохання](https://open.spotify.com/track/3fQdnJIlpH4yb3YQPYa4S5) | [GannaBaby](https://open.spotify.com/artist/1iIOxjctpv52NS9RTbreNO) | [останнє кохання](https://open.spotify.com/album/5btp7lV6BePj5wghaFnIgN) | 2:18 |
 | 36 | [Олєг](https://open.spotify.com/track/3xu4eTfr6ZQbCtel88ZTT3) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Олєг](https://open.spotify.com/album/03mogkoZptRRxqS2ZM5KUk) | 3:36 |
-| 37 | [Persha Rika](https://open.spotify.com/track/5fWKuZGNM9mKGEDf0YigZK) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Persha Rika](https://open.spotify.com/album/3yxNfBzZnbSxCFanJsssxF) | 4:44 |
-| 38 | [Sonnet \- Pluribus edit \(from "Pluribus"\)](https://open.spotify.com/track/2bLAgK8QgcCmkK24gina0y) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Sonnet \- Pluribus edit \(from "Pluribus"\)](https://open.spotify.com/album/2MuCMPbyn7TrAxzOmznsuJ) | 3:40 |
+| 37 | [Sonnet \- Pluribus edit \(from "Pluribus"\)](https://open.spotify.com/track/2bLAgK8QgcCmkK24gina0y) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Sonnet \- Pluribus edit \(from "Pluribus"\)](https://open.spotify.com/album/2MuCMPbyn7TrAxzOmznsuJ) | 3:40 |
+| 38 | [Persha Rika](https://open.spotify.com/track/5fWKuZGNM9mKGEDf0YigZK) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Persha Rika](https://open.spotify.com/album/3yxNfBzZnbSxCFanJsssxF) | 4:44 |
 | 39 | [закрив пздк](https://open.spotify.com/track/1SwxmEimHWORsN2Xm2ee3f) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [caronlil](https://open.spotify.com/artist/2lCYskIoL0qnhlDLvKQOkU), [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn) | [закрив пздк](https://open.spotify.com/album/60yTc5nh7JnmUGNLgzBLKr) | 3:49 |
 | 40 | [Передоз](https://open.spotify.com/track/1q68eKAnjgcgwZ66VuFlIr) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Передоз](https://open.spotify.com/album/0jvWJYLEaXRDGWx7NZx3tu) | 2:28 |
 | 41 | [Серце](https://open.spotify.com/track/02HZllVATG1kbTvyUyju8P) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Цвіт](https://open.spotify.com/album/28nKbkxI8PZ5ctUrZ5IU9K) | 3:07 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 65 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 |
 | 66 | [привіт\-привіт](https://open.spotify.com/track/78ZKzuZ1r6mBJmA02sDR1E) | [ТИМПАЧЕ](https://open.spotify.com/artist/2Nq0XCT6qH8GOTgaXq2dXV) | [привіт\-привіт](https://open.spotify.com/album/3CnTKG4sM5cKSet4kVr6iD) | 4:08 |
 | 67 | [правила гри](https://open.spotify.com/track/5xuRHGGJJfkCjxcLnyHDhC) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [правила гри](https://open.spotify.com/album/02H7Fqph6a6M2uhVH8deWs) | 4:19 |
-| 68 | [В тумані](https://open.spotify.com/track/5T1BC84jg3BNZ4F1DtmsTM) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj), [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [В тумані](https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8) | 3:45 |
-| 69 | [На Вершині](https://open.spotify.com/track/3ObHaVH2Wb4OtkTEMKjaTo) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [На Вершині](https://open.spotify.com/album/0exFJWpOLVA911DwkhvJJf) | 3:45 |
-| 70 | [Готель "Надія"](https://open.spotify.com/track/6RUQm4nDHk2MSnvrlPSrsE) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Готель "Надія"](https://open.spotify.com/album/3saNINSjTgsba68yKa8aKQ) | 3:11 |
+| 68 | [На Вершині](https://open.spotify.com/track/3ObHaVH2Wb4OtkTEMKjaTo) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [На Вершині](https://open.spotify.com/album/0exFJWpOLVA911DwkhvJJf) | 3:45 |
+| 69 | [Готель "Надія"](https://open.spotify.com/track/6RUQm4nDHk2MSnvrlPSrsE) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Готель "Надія"](https://open.spotify.com/album/3saNINSjTgsba68yKa8aKQ) | 3:11 |
+| 70 | [В тумані](https://open.spotify.com/track/5T1BC84jg3BNZ4F1DtmsTM) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj), [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [В тумані](https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8) | 3:45 |
 | 71 | [все?](https://open.spotify.com/track/11jTlnoVeugOsh9wIpWlV6) | [левко](https://open.spotify.com/artist/54ryTnyS5XuzQoPEXiLqoy), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [я відчуваю все?](https://open.spotify.com/album/3O8R1u0M1ucKbvpTwWHkcx) | 3:30 |
 | 72 | [З мене досить](https://open.spotify.com/track/67NlZXaAshNFrTE3Wj70qK) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [З мене досить](https://open.spotify.com/album/6VdAnbSa0J1vUprrARwJxs) | 2:59 |
 | 73 | [не в обіймах](https://open.spotify.com/track/0tMR5fQNwUrHd2i3dyH7Kt) | [Ігор Кайдаш](https://open.spotify.com/artist/1DBbudkd4BL8QyVK79E3qj) | [не в обіймах](https://open.spotify.com/album/1hCAWb75bOiQivVyZv8kuy) | 3:55 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 77 | [Мости](https://open.spotify.com/track/3HYcLucBMngcJxCAMiSJzn) | [Electrobirds](https://open.spotify.com/artist/6ghVa94kvVtSsFOeYX9PP9) | [Мости](https://open.spotify.com/album/5eH7zgYWs7dNPApIHpgn16) | 5:43 |
 | 78 | [Літо](https://open.spotify.com/track/5oVi9g7m1K1TqqIqPDTMPL) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Літо](https://open.spotify.com/album/72P3IffTqosjF2XkHlv6Jp) | 2:47 |
 | 79 | [Порада](https://open.spotify.com/track/41qmUxOz0oG5e5v5cbCrq1) | [Проспект Соборний](https://open.spotify.com/artist/2tZYAbCMaboWwOuAgKjaiO), [Andrii Barmalii](https://open.spotify.com/artist/77DEfUq0imYRVEBvjDH1vL) | [Порада](https://open.spotify.com/album/1bu5x8ErS1dpYSfypU5pnU) | 4:08 |
-| 80 | [Твої Руки](https://open.spotify.com/track/5bepvtw6D85QV1uLevyYo6) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Твої Руки](https://open.spotify.com/album/7o6JX2kHrxwqaD83w3vSpM) | 3:20 |
+| 80 | [вірити в людей](https://open.spotify.com/track/7Moady9heJjWuRvDSQZNaG) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [вірити в людей](https://open.spotify.com/album/4H9nsri8AaiQqAbFwSOca3) | 3:23 |
 
 Snapshot ID: `AAAAAOu8uDrlehRfrFBgnWi4o8/JSDOG`

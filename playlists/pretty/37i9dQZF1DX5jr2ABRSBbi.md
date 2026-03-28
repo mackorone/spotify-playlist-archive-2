@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Oslavujeme 5 let programu EQUAL! Cover: Sima
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,685 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,686 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [oswald](https://open.spotify.com/track/1OypnbZqvkI5r7WhsTpE9x) | [teige](https://open.spotify.com/artist/1XSxVQEUf245X9Gev6jHE5) | [oswald](https://open.spotify.com/album/6OCYFYVwEftMoaqJXxe1Hu) | 4:16 |
 | 50 | [Z nuly na sto](https://open.spotify.com/track/5rGxp0TEwD6Cnnzg3EmKAk) | [ELIZABETH KOPECKA](https://open.spotify.com/artist/4bp0VqiC1SbgLXMp1vDcD8) | [Z nuly na sto](https://open.spotify.com/album/0fsV5698g4F5mil8D49c7L) | 2:40 |
 
-Snapshot ID: `AAAAACXmR200ozZH41G9CdwLF5r5H/VH`
+Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`

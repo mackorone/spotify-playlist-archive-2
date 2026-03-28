@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle l'été 2025 🌞 Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,715 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,748 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 20 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 21 | [Baila Morena \- R3HAB Remix](https://open.spotify.com/track/4nQt8jf7YtvFFNoTI2uE2Y) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Baila Morena \(R3HAB Remix\)](https://open.spotify.com/album/2OgaEdrn242dNwscn4cGzv) | 2:24 |
 | 22 | [AIR FORCE BLANCHE](https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [AIR FORCE BLANCHE](https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ) | 3:06 |
-| 23 | [Be Your Friend \(feat\. Enisa\)](https://open.spotify.com/track/1wUgaVZAwwdqC7dq3nHTjE) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Be Your Friend \(feat\. Enisa\)](https://open.spotify.com/album/2sXOcCwvjKDF3pvNkSALfq) | 2:39 |
+| 23 | [Be Your Friend \(feat\. Enisa\)](https://open.spotify.com/track/1wUgaVZAwwdqC7dq3nHTjE) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Be Your Friend \(feat\. Enisa\)](https://open.spotify.com/album/2sXOcCwvjKDF3pvNkSALfq) | 2:39 |
 | 24 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
 | 25 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 26 | [Que pasa ?](https://open.spotify.com/track/4nZUm9YNohN4D8UMjUUSEz) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Que pasa ?](https://open.spotify.com/album/4esjg44qbzzWZYVtsPtiJG) | 2:56 |

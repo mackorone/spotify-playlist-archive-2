@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,182 songs - 5 day 7 hr 35 min
+2,186 songs - 5 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [All On My Own](https://open.spotify.com/track/7yLXlteqWC321RpzoKEF4R) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [All On My Own](https://open.spotify.com/album/0jugNoMVOOHRnQRr0Nqo51) | 3:52 | 2025-01-20 |  |
 | [All Roads Lead to You](https://open.spotify.com/track/0W6V5y3xQ7sFyk9GaJT8LR) | [Skatman Meredith](https://open.spotify.com/artist/393yJRUYSnf7rHJwK4VEjg) | [All Roads Lead to You](https://open.spotify.com/album/2sdVkMk878QQEz7rNVXMBY) | 3:31 | 2025-05-30 |  |
 | [All the Scents](https://open.spotify.com/track/09aKIGlPQfN1UnyKMJdCwB) | [Niño](https://open.spotify.com/artist/6RUaq2p8llfuyCMCOxIC5T) | [No Spies on My Payroll](https://open.spotify.com/album/5JW4LaHi3U3YtUERRf82Uu) | 5:22 | 2025-11-06 |  |
+| [All the Silver Seems to Know](https://open.spotify.com/track/56ia5HcIMlIY65EY0DSOda) | [Seabairy](https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh) | [Harbour Songs & Other Promises](https://open.spotify.com/album/2Gzc8LK9V5UcqMgx1edus1) | 3:34 | 2026-03-27 |  |
 | [All The Things \- Remix](https://open.spotify.com/track/1J3v8mjH7xuhffTaUrTjtU) | [Lucas Haug](https://open.spotify.com/artist/4uhqAkMX0dRGI74lh988y1) | [All The Things \(Remix\)](https://open.spotify.com/album/08v4jCP0QE9WWCpTRT70Ya) | 3:12 | 2025-04-14 |  |
 | [All The Way Back Home](https://open.spotify.com/track/7CdfY6zpCpM5Xnz4SNr0Fz) | [Kimmy T](https://open.spotify.com/artist/5wrgIxwBVT4HR6ZXXweEyY) | [All The Way Back Home](https://open.spotify.com/album/0xULunklKtyWzQeKCt5VZ0) | 4:54 | 2025-08-21 |  |
 | [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 | 2025-12-30 |  |
@@ -628,6 +629,7 @@
 | [For The Romance](https://open.spotify.com/track/6QSv6QPJy6qhtrhL8H67D5) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [For The Romance](https://open.spotify.com/album/4CB7bC0MAeOHOCj7IRwB0T) | 2:27 | 2025-11-06 |  |
 | [For The Sake Of My Soul \- Upbeat Version](https://open.spotify.com/track/7M8gEG6gaQZ30eMkFu9tSL) | [Carli Lessing](https://open.spotify.com/artist/2FgucmZTEnoevQEb0T5rcC) | [For The Sake Of My Soul \(Upbeat Version\)](https://open.spotify.com/album/2NDvfJERsXi0tvhEJGPj2W) | 2:27 | 2025-04-11 |  |
 | [FORBIDDEN FRUIT](https://open.spotify.com/track/1ar4FJdeNDMn2aSQ5eTvhn) | [Cuezy.](https://open.spotify.com/artist/4lKn9D68mehoGHZAzYRTVB) | [DEPARTURE TO UTOPIA](https://open.spotify.com/album/3ZGn4DxpM93HSUmydMfZpD) | 3:04 | 2025-10-09 |  |
+| [Forever](https://open.spotify.com/track/1D2cMAuQTd5HYQRJwAMbMs) | [AM/WAS](https://open.spotify.com/artist/5Ifye6me2p1m5dOmmIqAeT) | [Forever](https://open.spotify.com/album/0atSpUPF3YyM09J6TlYKA2) | 2:13 | 2026-03-27 |  |
 | [Forever Entwined](https://open.spotify.com/track/1yblC02nWaSKZU8yFwoIyJ) | [Piperlain](https://open.spotify.com/artist/7uRvejqPD2LeT6WOwoeqEn) | [Forever Entwined](https://open.spotify.com/album/1PyLMYdh1drVoR8PBr7fia) | 3:41 | 2024-10-21 |  |
 | [Forever Friends](https://open.spotify.com/track/1cHeJ9IK2I4MsZvy5SYYUq) | [Luo & Suno](https://open.spotify.com/artist/5jwIEfhAXpluGpb4W8tdbJ) | [Ever Summer, Never Summer](https://open.spotify.com/album/6V2BvFsk6gaAeclztOSPhV) | 3:14 | 2024-07-12 |  |
 | [Forever?](https://open.spotify.com/track/1uZQOBnsXQPFIb4qMLfxiC) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [From The Book Of Clay](https://open.spotify.com/album/39WvS4StgJYGaoQNbmPOi7) | 1:45 | 2024-06-07 |  |
@@ -777,6 +779,7 @@
 | [Hold on to Your Love](https://open.spotify.com/track/4G9rwdtUPpYK4l8DlbWLU6) | [Skelton](https://open.spotify.com/artist/1atVSpc9xqy2BDSoK4gN5c) | [Hold on to Your Love](https://open.spotify.com/album/2N9QPWghv0c9BM6J8DWvaY) | 4:26 | 2025-07-11 |  |
 | [Holding On](https://open.spotify.com/track/5raIRz8AY45enDfRaHilmC) | [Kid Amelia](https://open.spotify.com/artist/6t2B282eLLBWn4zAjs383O) | [Holding On](https://open.spotify.com/album/6lIn0p5YfsKnWhdb4w0RDY) | 4:01 | 2025-05-23 |  |
 | [Hole In The Page](https://open.spotify.com/track/5yr9Bi2jt4d7FMtlnVtW9J) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Hole In The Page](https://open.spotify.com/album/6jwMjz5qrt8r31Y7ZRXqvV) | 3:06 | 2025-02-28 |  |
+| [Holidays in Hawaii](https://open.spotify.com/track/35sezqIKn0RWaMWSbNLnU6) | [Nexx Vibes](https://open.spotify.com/artist/76PCnqZ7sakQj5p9r9QW4r) | [Holidays in Hawaii](https://open.spotify.com/album/2YeOKQyzRf4Bda9ZWiH5lX) | 3:30 | 2026-03-27 |  |
 | [Holy Feet Feastin’](https://open.spotify.com/track/3xPTWC3uNClMZ0XgD8uVgN) | [Sky Daddy B Praizin'](https://open.spotify.com/artist/0PKVLQrrFnGMhOe2454wJv) | [Holy Feet Feastin’](https://open.spotify.com/album/40PgyaPc6qoCMKCPnfQ5uz) | 2:03 | 2025-08-31 |  |
 | [Holy Man](https://open.spotify.com/track/3uInyoPP8RdqchB6E7vInx) | [Garrett Willis](https://open.spotify.com/artist/2GPmsoBevvDcoHmjp5cKwB) | [Holy Man](https://open.spotify.com/album/1lxIcaL5Ht5xRlAi1Ew9fH) | 3:45 | 2026-02-10 |  |
 | [Holy Smoke](https://open.spotify.com/track/3Z1UupmsjlT0LOXDbTOhYT) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Holy Smoke](https://open.spotify.com/album/0NOMvMzU38nBfquC2TrYAZ) | 3:01 | 2024-08-12 |  |
@@ -1534,6 +1537,7 @@
 | [Rosie Said](https://open.spotify.com/track/4p6qymqebAQWqzLghZdBic) | [Parker](https://open.spotify.com/artist/0BmuwRNzKZ8DBg7DEMebdE) | [Rosie Said](https://open.spotify.com/album/7BbAyg9GhsvbIkgAnZvt3r) | 3:13 | 2025-06-26 |  |
 | [Rough Justice \- Electric Mix](https://open.spotify.com/track/58hDV5XKthZvHA9upaoisk) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [Rough Justice \(Electric Mix\)](https://open.spotify.com/album/7zgWeIdxtoF0POy81ceCN7) | 3:50 | 2026-01-15 |  |
 | [Ruby Sparks](https://open.spotify.com/track/3P21QdeiX5u1KpIIPDmq9n) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/2tiFgOKF0HKloT87H7wDvP) | 4:14 | 2024-08-13 |  |
+| [Ruggine](https://open.spotify.com/track/1t58FTses5JRuX2dsnmrbi) | [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Ruggine](https://open.spotify.com/album/5eVNXYdOasuOVn3QwgOI2z) | 3:31 | 2026-03-27 |  |
 | [Rumble and Rubble](https://open.spotify.com/track/7M93tzpZ8rWeByE624tgtn) | [Les N\. Downs](https://open.spotify.com/artist/3nPBDcLcebkqz0srzgK1mB) | [Rumble and Rubble](https://open.spotify.com/album/1o4ybLmXRXYsVgkPRrsoUd) | 3:05 | 2026-01-21 |  |
 | [Run Eternal](https://open.spotify.com/track/1xlyutv7RgzRILZYmZllKx) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Run Eternal](https://open.spotify.com/album/0LnrggCeiux2PQ35mKxp4p) | 5:21 | 2024-10-22 |  |
 | [Run It Back](https://open.spotify.com/track/3bmFOV1ZAoNS223B8tbouC) | [Thousand Foot View](https://open.spotify.com/artist/2UYQ1wbCbJVJlman2oDa93) | [Run It Back](https://open.spotify.com/album/2S3m1yAvJ2AtHW1x2XJswW) | 3:44 | 2025-03-11 |  |

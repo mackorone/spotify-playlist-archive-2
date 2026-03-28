@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Shakirra Vier ",
-  "num_followers": 168825,
+  "num_followers": 168946,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItawpIjH9Om39qGXSWYoOwG9fJh",
+  "snapshot_id": "AAAAAEQfkgMHL0a3U3j1pHV7O1RgBvpc",
   "tracks": [
     {
       "added_at": "2026-03-26 23:08:46",
@@ -203,6 +203,22 @@
       "duration_ms": 262826,
       "name": "Pengakuanku",
       "url": "https://open.spotify.com/track/7qRz7Qdyk1BuNNKHOOD8dZ"
+    },
+    {
+      "added_at": "2026-03-27 06:30:47",
+      "album": {
+        "name": "Kau Semestaku",
+        "url": "https://open.spotify.com/album/0x95mfdXUHOP6YxQorX6QF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Lee",
+          "url": "https://open.spotify.com/artist/66DXhk7mq7Wj3MolBsx9tO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Kau Semestaku",
+      "url": "https://open.spotify.com/track/1i7YxoudHNgL4O4Q6sSiQQ"
     },
     {
       "added_at": "2026-03-26 23:08:46",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Kalyn Fay",
+  "description": "Rising voices, enduring roots. Cover: Drayton Farley",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 263720,
       "name": "Brave the Weather",
       "url": "https://open.spotify.com/track/776QfJDeMP0o89mIioNAlU"
@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Fault Lines",
+        "url": "https://open.spotify.com/album/4zYnbk8DtlDi1zfkKLfke5"
+      },
+      "artists": [
+        {
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217003,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/0xy3JGKV6Csj7d1CtE6NsG"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/5hI4ahapQh9Ee9R45vweYX"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 181297,
       "name": "Change",
       "url": "https://open.spotify.com/track/0DwmyFQP9v1hgD5z3iMxut"
@@ -2687,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "It's No Fun",
+        "url": "https://open.spotify.com/album/20UaNO37lPTzvOzUmwHZOw"
+      },
+      "artists": [
+        {
+          "name": "Olivia Barnes",
+          "url": "https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199375,
+      "name": "It's No Fun",
+      "url": "https://open.spotify.com/track/0FEFBaTY1xhnxOJxpZoWkS"
+    },
+    {
+      "album": {
         "name": "Jack of Fools",
         "url": "https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR"
       },
@@ -3838,7 +3874,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 197462,
       "name": "Oh Don't Tell Her",
       "url": "https://open.spotify.com/track/3RSgNrKX1pKr9IGXI8DJeb"
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178494,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq"
@@ -5375,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "A Heavy Duty Heart",
+        "url": "https://open.spotify.com/album/3jEb6lCEoLcTpYbdplupEi"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "The Luckier Ones",
+      "url": "https://open.spotify.com/track/6XrZvjJLyv3frS0lNU9GXF"
+    },
+    {
+      "album": {
         "name": "The Ones",
         "url": "https://open.spotify.com/album/5owlTY9RcBaEnPJBmtGVLU"
       },
@@ -6272,7 +6326,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 256987,
       "name": "Woods Alone at Night",
       "url": "https://open.spotify.com/track/6f17Kgjlui95MaVt50as10"
@@ -6312,6 +6366,24 @@
       "duration_ms": 257359,
       "name": "Work All Day",
       "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"
+    },
+    {
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/0ced05cJ2TASPSkPJZatAI"
+      },
+      "artists": [
+        {
+          "name": "David Wimbish & The Collection",
+          "url": "https://open.spotify.com/artist/3sva1UjOJOx6cGISZOpItl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231473,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5bcTwzac2ceNRMXuy171n5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-190 songs - 11 hr 51 min
+192 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Are You Satisfied?](https://open.spotify.com/track/3D9Dbubc334fzEbcu2h1pi) | [Mixed Signals](https://open.spotify.com/artist/63fTqiDjAtUbSkGYkiv1Ts) | [Are You Satisfied?](https://open.spotify.com/album/6k0grUQD7y9UxumSaX0pp7) | 4:21 | 2026-02-01 | 2026-02-09 |
 | [Ariel Angelo](https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:01 | 2025-12-14 |  |
 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 | 2025-12-26 |  |
-| [Baby I've Got It](https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Love Heist](https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN) | 3:39 | 2025-11-30 | 2026-02-02 |
+| [Baby I've Got It](https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Love Heist](https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN) | 3:39 | 2025-11-30 |  |
 | [Bad Habits](https://open.spotify.com/track/3Xa8IgwILvTWDkgukI8qJm) | [Oceanless](https://open.spotify.com/artist/4yqBdaK0VWZGdwhwHHEBk8) | [JADED](https://open.spotify.com/album/3bFIkrKtLvf8UqGnvuzKDB) | 4:55 | 2025-11-16 | 2025-11-24 |
 | [BAD TIMING](https://open.spotify.com/track/7IB8AI963aZxOfH4MZDM1L) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [BAD TIMING](https://open.spotify.com/album/7r30dGYPsyxlfsj3AECJ7z) | 3:49 | 2025-11-30 | 2025-12-08 |
 | [Be That Way](https://open.spotify.com/track/0QV8Rgw3puKgvODemZPVhX) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [The Change \- EP](https://open.spotify.com/album/5xosQhKjMOteD54hwmMpqk) | 3:55 | 2026-03-21 |  |
@@ -37,6 +37,7 @@
 | [Bodies](https://open.spotify.com/track/1ksm0us4TgJ0yrKjD6qRJO) | [Harry Miles\-Watson](https://open.spotify.com/artist/1LpNzV3qzrt2gEXNVZ3MwP), [Ailish Barry](https://open.spotify.com/artist/4v6KaiKtENADN8Yqizydvl) | [Bodies](https://open.spotify.com/album/4K48Zcb35OKzs0BRxek3lN) | 4:05 | 2025-11-16 |  |
 | [Bryan, Texas](https://open.spotify.com/track/6xOOo5A7IY0v6xM51YsWpr) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 4:03 | 2025-12-14 | 2026-02-02 |
 | [BY MY SIDE](https://open.spotify.com/track/5qP1Nk4oybYfeFgueTB7Wy) | [Oceanless](https://open.spotify.com/artist/4yqBdaK0VWZGdwhwHHEBk8) | [BY MY SIDE](https://open.spotify.com/album/4fV36nh3sgRw0j8FzvA4hq) | 5:05 | 2026-02-16 |  |
+| [Casper](https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T) | [Girl Upstairs](https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9) | [Casper](https://open.spotify.com/album/2Vzt3e0Zn0qrxRgsEWVWTJ) | 3:20 | 2026-03-27 |  |
 | [Catch Up](https://open.spotify.com/track/1JjF2sYadaF15UdqzMEdBT) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:14 | 2025-12-14 | 2026-02-02 |
 | [City Lights](https://open.spotify.com/track/6VqhEypvw8BUBzkQbDqQKR) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [City Lights](https://open.spotify.com/album/2vYOzOS4pOoEmiL2Iapli8) | 5:02 | 2025-11-16 | 2025-11-24 |
 | [Closer](https://open.spotify.com/track/2VNl1ygvFfGN4TW1U1UFhR) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Closer](https://open.spotify.com/album/7DVDJeDFjoafoFF3E70NV4) | 4:24 | 2026-01-25 | 2026-02-01 |
@@ -197,6 +198,7 @@
 | [You \- You're All I Wanted](https://open.spotify.com/track/5QqtWZZkFXvP1A6IazZtO0) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:28 | 2025-12-14 | 2025-12-19 |
 | [You Got It Wrong](https://open.spotify.com/track/0P6AaC57uvo5fJQbOZqvNi) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [You Got It Wrong](https://open.spotify.com/album/78SpUOmuLnaVsOCndsPbI1) | 3:55 | 2025-11-16 | 2025-11-24 |
 | [Your Loss](https://open.spotify.com/track/4uMQq8reW5LTIj938Oouk5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Your Loss](https://open.spotify.com/album/2iXRJHc7glYDlTPbWzDneF) | 2:54 | 2025-11-16 | 2026-02-02 |
+| [Your Sign](https://open.spotify.com/track/4oxCyxj46lqD1pIyQX99In) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Your Sign](https://open.spotify.com/album/3wY2mhYXNCYs2VQtq8WIe3) | 3:32 | 2026-03-27 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-01-16 | 2026-02-02 |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

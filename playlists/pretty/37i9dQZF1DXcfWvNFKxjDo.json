@@ -1,6 +1,6 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: CH4YN",
-  "num_followers": 346191,
+  "num_followers": 346324,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
@@ -407,7 +407,7 @@
     {
       "added_at": "2026-03-26 23:00:05",
       "album": {
-        "name": "Sommerregen (Nimm deine Hand)",
+        "name": "Sommerregen (Nimm meine Hand)",
         "url": "https://open.spotify.com/album/26kjrd1kjAaPl7bKlnE3q2"
       },
       "artists": [
@@ -421,7 +421,7 @@
         }
       ],
       "duration_ms": 182374,
-      "name": "Sommerregen (Nimm deine Hand)",
+      "name": "Sommerregen (Nimm meine Hand)",
       "url": "https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN"
     },
     {
@@ -662,10 +662,14 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 173000,
+      "name": "Getaway",
       "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
     },
     {
@@ -1972,8 +1976,8 @@
           "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
         },
         {
-          "name": "Gran Chico Malosito",
-          "url": "https://open.spotify.com/artist/36uebmxzhRXD78c4f3Ub2G"
+          "name": "GRAN CHICO MALOSITO",
+          "url": "https://open.spotify.com/artist/2do72n0tRnnMLCSLtxNxz2"
         }
       ],
       "duration_ms": 116962,

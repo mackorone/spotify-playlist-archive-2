@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Anna Ullrich
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,071 likes - 81 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,200 likes - 81 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 30 | [No Time to Talk](https://open.spotify.com/track/69LuwGTABE9vFmI5tzCbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [No Time to Talk](https://open.spotify.com/album/6z4Mo0YtVmSjn57k39jPWz) | 2:19 |
 | 31 | [Where Did You Go](https://open.spotify.com/track/2WwsIMsZ90Y5tas8FTy1qb) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q), [Trancemaster Krause](https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw) | [Where Did You Go](https://open.spotify.com/album/2g1412F1wQDYlTTx9X1WLT) | 2:12 |
 | 32 | [Schnapsidee](https://open.spotify.com/track/0ogX5L6CpUUCIYsN0bZnVF) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Schnapsidee](https://open.spotify.com/album/44Za3Nq7mqPSMZhxaQgEmU) | 5:05 |
-| 33 | [Track 3](https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Jeopardy EP](https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9) | 0:00 |
+| 33 | [We Owe This World](https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Jeopardy EP](https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9) | 3:34 |
 | 34 | [Moncoeur](https://open.spotify.com/track/4kEf839rW56lcMnI6pyTDX) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Moncoeur](https://open.spotify.com/album/5eq9mJ6rB5bOmCwR02QM1m) | 2:57 |
 | 35 | [Come On, Yeh](https://open.spotify.com/track/6Pa5SpU1KXVkHX27vOJ8fb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Primitive Needs](https://open.spotify.com/album/1N1fUdZuEMRCAGupiSqnKG) | 5:30 |
 | 36 | [Rajada](https://open.spotify.com/track/2TfQdeD0hXYLV6Nco71GJm) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rajada](https://open.spotify.com/album/6kYN2vsmpLd6fw6o3RwdbI) | 3:59 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 45 | [Disturbing Paradise](https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44024](https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf) | 3:50 |
 | 46 | [Electro](https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [Electro](https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x) | 2:53 |
 | 47 | [Eyes](https://open.spotify.com/track/1s05S16IHRywETBuSqtikS) | [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Eyes](https://open.spotify.com/album/033pMgFZwKa4U3NAy5vZGl) | 2:53 |
-| 48 | [Track 2](https://open.spotify.com/track/5E2udR4TH1OEZw1kgItr6j) | [Marc Lenz](https://open.spotify.com/artist/5EYkzxJOA2c0wTCC7BjT4R) | [Voodooland EP](https://open.spotify.com/album/1cS0NmBKE8jAtp6JKrlISf) | 0:00 |
+| 48 | [The Light](https://open.spotify.com/track/5E2udR4TH1OEZw1kgItr6j) | [Marc Lenz](https://open.spotify.com/artist/5EYkzxJOA2c0wTCC7BjT4R), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Voodooland EP](https://open.spotify.com/album/1cS0NmBKE8jAtp6JKrlISf) | 6:20 |
 | 49 | [Tibet](https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tibet](https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm) | 3:39 |
 | 50 | [Hidden Frequency](https://open.spotify.com/track/1V8c2Kv99WyFoq5ZDgqsQe) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Hidden Frequency](https://open.spotify.com/album/6ZUoFbTtrKoOVkNOumM9XD) | 4:04 |
 | 51 | [Beacon \- Curol Remix Edit](https://open.spotify.com/track/0s1euNPEqHayJA8Yw8MUwh) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Beacon \(Curol Remix\)](https://open.spotify.com/album/2gdxNqMdauLqL8m31VIFG0) | 3:36 |

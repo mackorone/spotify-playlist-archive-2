@@ -4,7 +4,7 @@
 
 > 
 
-79 songs - 4 hr 16 min
+80 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-12-22 |  |
 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 | 2024-04-26 |  |
 | [One Three Nine](https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr) | 2:48 | 2023-12-14 | 2024-04-20 |
+| [Pa'lante Pa'Atras](https://open.spotify.com/track/7rJBEchMUTTXv28F7oUIju) | [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [Pa'lante Pa'Atras](https://open.spotify.com/album/6XNKOvcCUq3T7vRa2lH1n1) | 2:41 | 2026-03-27 |  |
 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 | 2023-12-14 |  |
 | [Playground \(from the series Arcane League of Legends\) \- MEDUZA Remix](https://open.spotify.com/track/1oXZLKm6Om72nJgXIZvbez) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Arcane League of Legends \(The Remixes\)](https://open.spotify.com/album/6LUMiog4suQdCv2F31U9pq) | 3:22 | 2023-12-14 |  |
 | [real 4 me](https://open.spotify.com/track/5REKvuYgfoy1LzwG6JC8Qg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [real 4 me \(BKAYE VIP\)](https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv) | 2:25 | 2026-02-18 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: TINI",
+  "description": "Lo nuevo del mundo tropical. Cover: Moa Rivera",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Abeja Blanca 2.0",
+        "url": "https://open.spotify.com/album/1tll3iQ4eBLo9RUSd6upN9"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Michael Flores",
+          "url": "https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Abeja Blanca 2.0",
+      "url": "https://open.spotify.com/track/69jbycDGeZArbbyORcSU3q"
+    },
+    {
+      "album": {
         "name": "Salsa de Ahora",
         "url": "https://open.spotify.com/album/0rDfZe2pBSxsmlBvJNwMBU"
       },
@@ -430,6 +452,24 @@
       "duration_ms": 164547,
       "name": "ADI\u00d3S (Live Version)",
       "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "album": {
+        "name": "Adi\u00f3s Adi\u00f3s",
+        "url": "https://open.spotify.com/album/70qcQHWeGIfRmRys7xz6MN"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188686,
+      "name": "Adi\u00f3s Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3IyFAuQTK4THafNRoF3bES"
     },
     {
       "album": {
@@ -3359,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179437,
+      "name": "Cosa Extra\u00f1a",
+      "url": "https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9"
+    },
+    {
+      "album": {
         "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
         "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
       },
@@ -6114,7 +6172,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 266533,
       "name": "Estrellitas y Duendes Feat. Sting",
       "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
@@ -6552,6 +6610,24 @@
       "duration_ms": 287328,
       "name": "Grecia - Spotify Sessions",
       "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
+    },
+    {
+      "album": {
+        "name": "Hasta aqu\u00ed.",
+        "url": "https://open.spotify.com/album/27URO7XshGurfObpQvdxst"
+      },
+      "artists": [
+        {
+          "name": "Emilio Cabra",
+          "url": "https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "Hasta aqu\u00ed.",
+      "url": "https://open.spotify.com/track/7mRRRAcCmrLroTdKSIeRo7"
     },
     {
       "album": {
@@ -8498,7 +8574,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 210200,
       "name": "Las guapas",
       "url": "https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z"
@@ -9294,7 +9370,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 219252,
       "name": "MALPORTADA",
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
@@ -12845,6 +12921,24 @@
     },
     {
       "album": {
+        "name": "Que Pena",
+        "url": "https://open.spotify.com/album/7gvNR7n5RzABhG5KxOzoW5"
+      },
+      "artists": [
+        {
+          "name": "NIA",
+          "url": "https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188644,
+      "name": "Que Pena",
+      "url": "https://open.spotify.com/track/0yhjxbwEuGrIsnrxwRDZmj"
+    },
+    {
+      "album": {
         "name": "Que Rica",
         "url": "https://open.spotify.com/album/7dCSJbxphSUmZjMTDziBSJ"
       },
@@ -13270,7 +13364,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 207142,
       "name": "Qu\u00e9 Tiene \u00c9l",
       "url": "https://open.spotify.com/track/1qeQl1u6v27pL5TiyUHygY"
@@ -14454,7 +14548,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203690,
       "name": "Sigue As\u00ed",
       "url": "https://open.spotify.com/track/0S9a62rn46Vtq3avWe4aju"
@@ -15889,6 +15983,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/4kvK6fxHvuZZLwQzRllw0w"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Montaner",
+          "url": "https://open.spotify.com/artist/6hQiXGAiMZZop3H7U0X6EF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178489,
+      "name": "T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/2OewLnhdPvtSjM7DDluP4s"
+    },
+    {
+      "album": {
         "name": "T\u00fa Y T\u00fa",
         "url": "https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp"
       },
@@ -16356,7 +16468,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 352569,
       "name": "Ven Dev\u00f3rame Otra Vez - Live",
       "url": "https://open.spotify.com/track/5XRSNq5y2EeDIOuULa0Q6p"
@@ -16672,6 +16784,32 @@
       "duration_ms": 241750,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7qG48IKqEo6XlwOuiIYlM7"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV"
     },
     {
       "album": {
@@ -17194,7 +17332,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 240868,
       "name": "\u00a1Quieren Salsa!",
       "url": "https://open.spotify.com/track/6IPIz1qk98MiywwHTahIU5"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Avalon Emerson gifts a lovely new album \ud83c\udf81 metropolis is your home for the best indie dance",
+  "description": "Jungle... you've done it again \ud83c\udf34 metropolis is your home for the best indie dance",
   "name": "metropolis",
   "tracks": [
     {
@@ -966,7 +966,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224816,
       "name": "adr\u00e9naline",
       "url": "https://open.spotify.com/track/6zTdNIUUyysFL2K4bBPldn"
@@ -6289,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Everything Glows",
+        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
+    },
+    {
+      "album": {
         "name": "Carried Away",
         "url": "https://open.spotify.com/album/1nijlIpT14FlyVPli9eLWY"
       },
@@ -6330,6 +6348,24 @@
       "duration_ms": 297440,
       "name": "Carrossel Do Tempo",
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "album": {
@@ -10519,6 +10555,24 @@
     },
     {
       "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
+    },
+    {
+      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
       },
@@ -10716,7 +10770,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 276484,
       "name": "drifting - remix",
       "url": "https://open.spotify.com/track/0fiYgCHwsq1qx0lMlct6ch"
@@ -11084,7 +11138,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166153,
       "name": "Easy Flirt",
       "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
@@ -11416,7 +11470,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 232373,
       "name": "Electronicity",
       "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
@@ -21377,6 +21431,28 @@
     },
     {
       "album": {
+        "name": "Keepsake",
+        "url": "https://open.spotify.com/album/0njf5S9ErmET6YDNYzPoah"
+      },
+      "artists": [
+        {
+          "name": "Dugong Jr",
+          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204208,
+      "name": "Keepsake",
+      "url": "https://open.spotify.com/track/552B44JS2NxJ4p1pP8hr2K"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -21750,7 +21826,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -23178,7 +23254,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 125087,
       "name": "London Massive",
       "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
@@ -23200,6 +23276,24 @@
       "duration_ms": 199847,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4utPGD8Kt8bUFwdx0ZsuOH"
+    },
+    {
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "album": {
@@ -29552,7 +29646,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 285106,
       "name": "Out Of Phase",
       "url": "https://open.spotify.com/track/2Heb851vgYM6Vz1JIQnF3G"
@@ -30528,6 +30622,28 @@
       "duration_ms": 216497,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/63FKg89duhps6mEnB2HK3k"
+    },
+    {
+      "album": {
+        "name": "Pink Dress",
+        "url": "https://open.spotify.com/album/5siPYM6eCEjNxxReRbTkOD"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "Pink Dress",
+      "url": "https://open.spotify.com/track/3SySVpkLVKuXhEEUeczfgq"
     },
     {
       "album": {
@@ -32467,6 +32583,24 @@
     },
     {
       "album": {
+        "name": "ROOM TO BREATHE",
+        "url": "https://open.spotify.com/album/0XQvuJsvfhVND2t9tvXJau"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157667,
+      "name": "ROOM TO BREATHE",
+      "url": "https://open.spotify.com/track/5PzUMGvesjj0Waf2U9a0o5"
+    },
+    {
+      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -33549,6 +33683,28 @@
     },
     {
       "album": {
+        "name": "Set My Sun",
+        "url": "https://open.spotify.com/album/3ouohDROreSNrFfJKGLcvH"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        },
+        {
+          "name": "Eva Lazarus",
+          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Set My Sun",
+      "url": "https://open.spotify.com/track/1JIyH1ZTYPifq22XZuSme4"
+    },
+    {
+      "album": {
         "name": "set you free (truth will find a way)",
         "url": "https://open.spotify.com/album/22aHWqRnMOz2MHsEL5JBV1"
       },
@@ -33824,7 +33980,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 331346,
-      "name": "Shattered",
+      "name": "Shattered (feat. Helena Deland & Ross Meen)",
       "url": "https://open.spotify.com/track/00wXAYLSualHDbHXFtf1uG"
     },
     {
@@ -34256,7 +34412,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 138488,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/1lLj2Sx25r56K18YYfkSW6"
@@ -34996,7 +35152,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 214659,
       "name": "Solid - Mild Minds Remix",
       "url": "https://open.spotify.com/track/3g77FAV7yZHjHZbVj5Daqt"
@@ -35434,7 +35590,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 311666,
       "name": "Soulseek",
       "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
@@ -35460,6 +35616,24 @@
       "duration_ms": 236528,
       "name": "Sound of You (ft TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
+    },
+    {
+      "album": {
+        "name": "Space Invaders",
+        "url": "https://open.spotify.com/album/6yO08nZGr6OS1b1Wh2VjEs"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175158,
+      "name": "Space Invaders",
+      "url": "https://open.spotify.com/track/0WI6ycLsTx3BUYXDZzaBMx"
     },
     {
       "album": {
@@ -40021,6 +40195,24 @@
     },
     {
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/3jSEJZJVWl7BtoXg1Z0I6t"
+      },
+      "artists": [
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250320,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR"
+    },
+    {
+      "album": {
         "name": "Too Late (Buscabulla Remix)",
         "url": "https://open.spotify.com/album/16A9JC04ELrudi9HzuRJpp"
       },
@@ -40646,7 +40838,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 218760,
       "name": "U Ain't Lyin'",
       "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
@@ -42394,6 +42586,24 @@
       "duration_ms": 400866,
       "name": "We Found It",
       "url": "https://open.spotify.com/track/4TUqDLaBxUQHphes04Kp5k"
+    },
+    {
+      "album": {
+        "name": "Jeopardy EP",
+        "url": "https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214404,
+      "name": "We Owe This World",
+      "url": "https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe"
     },
     {
       "album": {

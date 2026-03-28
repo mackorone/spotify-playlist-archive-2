@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "MUY PIOLA\n\ud83d\udcf7 Juana Rozas",
+  "description": "MUY PIOLA\n\ud83d\udcf7 Joaco Burgos",
   "name": "piola",
   "tracks": [
     {
@@ -8207,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "PODER",
+        "url": "https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX"
+      },
+      "artists": [
+        {
+          "name": "Joaco Burgos",
+          "url": "https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304210,
+      "name": "PODER",
+      "url": "https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT"
+    },
+    {
+      "album": {
         "name": "podr\u00edamos haber hecho todo de una forma tan diferente...",
         "url": "https://open.spotify.com/album/4Xolq0qRLScxwQzgtjeC2U"
       },
@@ -9185,6 +9203,28 @@
     },
     {
       "album": {
+        "name": "Ser\u00e1 Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2dBvHfucAWo864I0MsYlhx"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193629,
+      "name": "Ser\u00e1 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5vQXYcTDm8XOXNfiuQfO3B"
+    },
+    {
+      "album": {
         "name": "seu carinho",
         "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
       },
@@ -9938,6 +9978,24 @@
       "duration_ms": 141000,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
+    },
+    {
+      "album": {
+        "name": "tesORO",
+        "url": "https://open.spotify.com/album/0ZitJ4wxyIah6lMUQTCJ5p"
+      },
+      "artists": [
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133335,
+      "name": "tesORO",
+      "url": "https://open.spotify.com/track/6At1fbbcFlYVLP1zpa7Yob"
     },
     {
       "album": {

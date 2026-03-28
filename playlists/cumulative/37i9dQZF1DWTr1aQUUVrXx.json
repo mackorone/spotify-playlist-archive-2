@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Line of Air",
+        "url": "https://open.spotify.com/album/059ifcmVUkS8584OLOCk3p"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233321,
+      "name": "A Line of Air",
+      "url": "https://open.spotify.com/track/70ECLM3lWEh7CmOdLgsdsf"
+    },
+    {
+      "album": {
         "name": "A Long Day",
         "url": "https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 242500,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot"
@@ -815,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Dawn Blue",
+        "url": "https://open.spotify.com/album/0dtCSzz2l9NtJy6L3kbUyQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Memento",
+          "url": "https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233972,
+      "name": "Dawn Blue",
+      "url": "https://open.spotify.com/track/1v5AqogPjF2Hjnc5QhRqxi"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7aB82vGu0ABleD2SQwHvnP"
       },
@@ -880,7 +916,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 242167,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f"
@@ -916,7 +952,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 160589,
       "name": "Ducks for cover",
       "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224500,
       "name": "It's Raining Outside",
       "url": "https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx"
@@ -1859,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/7gAcEQbdMQBXOpq0hRIqnP"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Quartet",
+          "url": "https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/1s3mLzP4UNwwFbfNxrmneL"
+    },
+    {
+      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl"
       },
@@ -1960,7 +2014,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 202207,
       "name": "Live Off The Juice",
       "url": "https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz"
@@ -2597,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Nothing Moves",
+        "url": "https://open.spotify.com/album/4hj3xuqxkCw61MCPnWf0hb"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234208,
+      "name": "Nothing Moves",
+      "url": "https://open.spotify.com/track/4REl4Vd50Exps80GR8yHbv"
+    },
+    {
+      "album": {
         "name": "Now that we are here",
         "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
       },
@@ -2666,6 +2738,24 @@
       "duration_ms": 176896,
       "name": "On 14th Street",
       "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
+    },
+    {
+      "album": {
+        "name": "On a Road to Nowhere",
+        "url": "https://open.spotify.com/album/2lhiYKgXulitWYfMrYu2ID"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Archer",
+          "url": "https://open.spotify.com/artist/4Syv4sTnGc2Kq3gWqGGdJ3"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238015,
+      "name": "On A Road To Nowhere",
+      "url": "https://open.spotify.com/track/5nDpC1oqtsVETQsgjMHr8H"
     },
     {
       "album": {
@@ -3281,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "Story that you missed",
+        "url": "https://open.spotify.com/album/5RzMxlDlsjHfd9f8PNVwMi"
+      },
+      "artists": [
+        {
+          "name": "Kendrettes",
+          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191031,
+      "name": "Story that you missed",
+      "url": "https://open.spotify.com/track/1LilvIuO1JhXPUcK6Pm7VP"
+    },
+    {
+      "album": {
         "name": "Swaying Shadows",
         "url": "https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L"
       },
@@ -3641,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Trust built over years",
+        "url": "https://open.spotify.com/album/19fdGNaVuQth8koYe56Mfh"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235060,
+      "name": "Trust built over years",
+      "url": "https://open.spotify.com/track/4Dd9ojn8YYBmTC9XO745qy"
+    },
+    {
+      "album": {
         "name": "Tuxedo and top hat",
         "url": "https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz"
       },
@@ -3976,7 +4102,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 215231,
       "name": "Where is Jack?",
       "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"

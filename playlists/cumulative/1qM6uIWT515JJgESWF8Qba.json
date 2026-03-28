@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Cut and Sell",
+        "url": "https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163915,
+      "name": "Cut and Sell",
+      "url": "https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v"
+    },
+    {
+      "album": {
         "name": "Cut the Music",
         "url": "https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv"
       },
@@ -1032,6 +1050,24 @@
       "duration_ms": 228484,
       "name": "Dr. Hammer",
       "url": "https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm"
+      },
+      "artists": [
+        {
+          "name": "Salad Slush",
+          "url": "https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202339,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO"
     },
     {
       "album": {
@@ -1428,6 +1464,24 @@
       "duration_ms": 324549,
       "name": "Hero of My Life",
       "url": "https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx"
+    },
+    {
+      "album": {
+        "name": "The Fuzes Best Of",
+        "url": "https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177710,
+      "name": "Hey Woman",
+      "url": "https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5"
     },
     {
       "album": {

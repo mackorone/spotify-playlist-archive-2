@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mr.Children *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344995\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
-  "num_followers": 255776,
+  "num_followers": 255789,
   "original_name": "New Music Wednesday",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
       "duration_ms": 249693,
       "name": "vetsuvara(sweet)",
       "url": "https://open.spotify.com/track/0AmZIIibqkrQgYNc21y048"
+    },
+    {
+      "added_at": "2026-03-24 15:00:34",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
     },
     {
       "added_at": "2026-03-24 15:00:34",
@@ -1071,7 +1087,7 @@
     {
       "added_at": "2026-03-24 15:00:34",
       "album": {
-        "name": "FIRST MOVE (Special Edition)",
+        "name": "FIRST MOVE",
         "url": "https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ"
       },
       "artists": [

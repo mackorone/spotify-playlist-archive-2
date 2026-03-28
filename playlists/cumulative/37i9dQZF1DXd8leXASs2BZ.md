@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Harka
+> 【POP YOURSまであと6日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Manaka
 
 1,392 songs - 2 day 16 hr 9 min
 
@@ -1198,7 +1198,7 @@
 | [UV](https://open.spotify.com/track/0ZN89ciaiag2wxPoDPSray) | [Swoo](https://open.spotify.com/artist/2177RsrP8VeFlEa26VWsmT), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [UV](https://open.spotify.com/album/3VIMhF4pFB1yGeeNc5GBhm) | 2:37 | 2023-12-07 | 2023-12-23 |
 | [VAMOS](https://open.spotify.com/track/0oj7iUWo9tatbXN62NRB35) | [D.E.P](https://open.spotify.com/artist/64ql4Ia1efthJfNOxbtWNo), [vw b0mb.](https://open.spotify.com/artist/7LTGEBujjkGI77DHS9IUA6) | [VAMOS](https://open.spotify.com/album/5h5nYNfKZaLMWA1SL1o3sP) | 2:03 | 2024-08-20 | 2024-10-23 |
 | [Vanilla \(feat\. FLA$H, Kidwing & Fuzzy\)](https://open.spotify.com/track/0pgMhzPyVYqbaff94GVadB) | [$ele9+0](https://open.spotify.com/artist/6CTIizmozglPniIfnMAKzV), [FLA$H](https://open.spotify.com/artist/7ljXNwvpikYDLgh79d5OXc), [Kidwing](https://open.spotify.com/artist/6SQHIbrLOTKzGUKQNa5aEH), [Fuzzy](https://open.spotify.com/artist/3iAQUxuQAr1lROD1sjl54D) | [KIZASHI](https://open.spotify.com/album/0wMMb6ahiXkCb9uLxvrooK) | 4:04 | 2025-02-25 | 2025-05-28 |
-| [VERETTA FLOW](https://open.spotify.com/track/7oHyMlb4FCzFlVWNeyDQ65) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [VERETTA FLOW](https://open.spotify.com/album/6AppuztUCk5C1pDnWz6H0l) | 3:31 | 2026-01-13 | 2026-03-18 |
+| [VERETTA FLOW](https://open.spotify.com/track/7oHyMlb4FCzFlVWNeyDQ65) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [VERETTA FLOW](https://open.spotify.com/album/6AppuztUCk5C1pDnWz6H0l) | 3:31 | 2026-01-13 |  |
 | [VERRY SMoL](https://open.spotify.com/track/0BZQkSSnjhnvhwVw9JGT5r) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [VERRY SMoL](https://open.spotify.com/album/0XYOakkssfxOTbrIjxIccs) | 2:07 | 2026-02-17 |  |
 | [Very Very Rare](https://open.spotify.com/track/2VYapRk2F1lbDCiA3vD8wq) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/19tG0IyvryThuOfTC8wTCk) | 3:16 | 2024-09-12 | 2024-11-27 |
 | [Vibin'](https://open.spotify.com/track/2K77C9SjqlcSFceL6KzYsC) | [TOKINE](https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU) | [Vibin'](https://open.spotify.com/album/7e8331YdslhPUrtFWb7NoT) | 2:56 | 2025-07-15 | 2025-08-20 |

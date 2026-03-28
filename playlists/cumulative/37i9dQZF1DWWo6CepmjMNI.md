@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Romancerr
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Something Sweet
 
-324 songs - 23 hr 15 min
+327 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [นิทรา](https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10) | [Chameen](https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv) | [นิทรา](https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee) | 3:47 | 2024-11-28 | 2024-12-27 |
 | [นิรันดร์กาล](https://open.spotify.com/track/4LBfWEp5d7JNMnGzYCGEm0) | [Bluedream](https://open.spotify.com/artist/0KFHTUubhWrWJ3IBGyQ6vS) | [นิรันดร์กาล](https://open.spotify.com/album/7mmFwpTwcpkhtal3LBkrIH) | 6:26 | 2025-05-09 | 2025-05-31 |
 | [น้อยใจ](https://open.spotify.com/track/7nfMUT7vKPE6DeQZAU91Pk) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [น้อยใจ](https://open.spotify.com/album/1boJRDPJYl5rBJLN4UbEvC) | 4:31 | 2024-11-28 | 2024-12-14 |
-| [บทสุดท้ายของความสัมพันธ์](https://open.spotify.com/track/19EFnFl7wJcgnKsqozQiwC) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [บทสุดท้ายของความสัมพันธ์](https://open.spotify.com/album/5r8nmV7MdCUPwOsnNstGnQ) | 5:27 | 2025-10-17 |  |
+| [บทสุดท้ายของความสัมพันธ์](https://open.spotify.com/track/19EFnFl7wJcgnKsqozQiwC) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [บทสุดท้ายของความสัมพันธ์](https://open.spotify.com/album/5r8nmV7MdCUPwOsnNstGnQ) | 5:27 | 2025-10-17 | 2026-03-28 |
 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 | 2025-03-28 |  |
 | [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 | 2024-12-26 | 2025-02-15 |
 | [บอกลา \(So Long\)](https://open.spotify.com/track/7lD3wBoLA1tyMUNIlBfR8G) | [The River&Bridge](https://open.spotify.com/artist/5URHv3dJzBJdnGjkodcaR3) | [บอกลา \(So Long\)](https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk) | 3:49 | 2024-10-11 | 2024-11-02 |
@@ -165,7 +165,7 @@
 | [ปรากฏการณ์](https://open.spotify.com/track/3toRtI5cws8X1MNt2n4y1x) | [Cloud Behind](https://open.spotify.com/artist/2w7ZO8NKvma45y9mTO3zLN) | [Troposphere](https://open.spotify.com/album/45stlce2xG66nrFIaWXWNb) | 6:33 | 2025-06-13 | 2025-06-21 |
 | [ปรากฏการณ์ที่ไม่เคยมีใครเขาบอก](https://open.spotify.com/track/7bUbPGXIyVruAJ4tMeAoNn) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [Thisis242](https://open.spotify.com/album/1uq7TK6zNGPRmyi2E2ziYS) | 3:48 | 2025-10-03 | 2025-12-27 |
 | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo) | 3:47 | 2025-01-09 | 2025-02-13 |
-| [ปล่อย](https://open.spotify.com/track/3VQMlUWUtNRYsoboqKbZG9) | [RAIDISA](https://open.spotify.com/artist/3JwR9z3M5yuvGzcbVJ4A2i) | [ปล่อย](https://open.spotify.com/album/7LnUHC59hLAW1sVQxNARfW) | 4:39 | 2025-07-04 |  |
+| [ปล่อย](https://open.spotify.com/track/3VQMlUWUtNRYsoboqKbZG9) | [RAIDISA](https://open.spotify.com/artist/3JwR9z3M5yuvGzcbVJ4A2i) | [ปล่อย](https://open.spotify.com/album/7LnUHC59hLAW1sVQxNARfW) | 4:39 | 2025-07-04 | 2026-03-28 |
 | [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 | 2024-08-17 |
 | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/track/6nquKmifNmk8JRy61FkHFx) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/album/3DXpBDOGRI8PwrL6z53xvR) | 4:30 | 2024-10-04 | 2024-10-26 |
 | [ผีเสื้อ](https://open.spotify.com/track/6PeUVVDPiXQOLsVas33rLh) | [ดารารัญชน์ \(Dararunch\)](https://open.spotify.com/artist/4Y2O9t1WvTloQJLQgX9B5Y) | [ผีเสื้อ](https://open.spotify.com/album/1fC3gkmNLahs5XyjmpTU9Q) | 4:35 | 2025-02-21 | 2025-03-01 |
@@ -226,10 +226,13 @@
 | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ) | [Banana Jogging](https://open.spotify.com/artist/2Y1efsJI1aQw1subyVEW8W) | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/album/0a5GBgOBrke7E4NNVlxbqb) | 3:48 | 2024-08-02 | 2024-08-10 |
 | [ศิลา](https://open.spotify.com/track/4uEseTRbyK8FRr3rcICkUs) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ศิลา](https://open.spotify.com/album/2G5ZqHoCuWtnwWOhWbUH6N) | 3:07 | 2025-09-05 | 2025-09-20 |
 | [สบสายตา \(Your Eyes\)](https://open.spotify.com/track/5wN67YVsTI4xFWddtmCaEU) | [TOR.NUETUN](https://open.spotify.com/artist/6Vr9XDktpy7W5S3NhSmcpq) | [สบสายตา \(Your Eyes\)](https://open.spotify.com/album/6Fr4UeZWQugS5g31UPm9WS) | 5:03 | 2025-08-15 | 2026-03-21 |
+| [สมปรารถนา](https://open.spotify.com/track/3Qrr2iIBzsUxiN2iRgLxMu) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [สมปรารถนา](https://open.spotify.com/album/3MfpyPBmw4TqD4fQbevTt4) | 4:03 | 2026-03-27 |  |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 | 2025-07-19 |
-| [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 | 2025-12-07 |  |
+| [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 | 2025-12-07 | 2026-03-28 |
+| [สิ่งดีดี](https://open.spotify.com/track/40LuIeGWNzSQnQVIicYDC7) | [gizzdear](https://open.spotify.com/artist/3P3Q12jeu49wXQ7GaL85gp) | [สิ่งดีดี](https://open.spotify.com/album/7CVh4hdg1GD0CzPzGwZZEV) | 3:52 | 2026-03-27 |  |
 | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/track/5PwxUIurBN6rV4DTfaVyYx) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX), [WHATFALSE\)](https://open.spotify.com/artist/1oKUUKTRXdkOTRnVRlwuRh) | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/album/4SvTTGi0gRbZq894bmYzCz) | 3:59 | 2025-08-15 | 2025-09-06 |
 | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/track/4MnxhyBNVUdMwggVokRXIZ) | [TheBiirthdayParty](https://open.spotify.com/artist/1IPO4PYOEO6Hr1YRlPKQlG) | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/album/3cztb7psWsq1ZLZfTkjJaj) | 4:22 | 2025-05-02 | 2025-06-07 |
+| [สุขสันต์วันเลิกรา](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 | 2026-03-27 |  |
 | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/track/1xGURnhUkIJHaY4G2CScwG) | [underclover](https://open.spotify.com/artist/3Dfp9lzmRW72AZYzj5TNWi) | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/album/0Ngt6F1MfLL2KPO0DcZIiS) | 3:48 | 2026-02-27 | 2026-03-21 |
 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 | 2024-06-21 | 2025-12-08 |
 | [หน้าต่าง \(Drops\)](https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หน้าต่าง \(Drops\)](https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM) | 3:52 | 2025-10-03 | 2026-03-10 |

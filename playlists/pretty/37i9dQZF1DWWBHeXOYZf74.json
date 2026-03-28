@@ -1,13 +1,77 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Samara Cyn",
-  "num_followers": 1327179,
+  "description": "Genre-less. Quality first always. Cover: Jim Legxacy",
+  "num_followers": 1327169,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxj5pPwFxk9iXE/kdcwV7QXTzRZ",
+  "snapshot_id": "AAAAAI0vw311ZcRudf0Z7xETn9YDHezf",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "TIGRAY FUNK",
+        "url": "https://open.spotify.com/album/2ffHSjHOlyZeKhP7vpbrsK"
+      },
+      "artists": [
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "duration_ms": 104354,
+      "name": "ALENA(\u12a3\u1208\u1293)PARADISE LOST",
+      "url": "https://open.spotify.com/track/2Y05SQlUbQSHsf6xKWerru"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Must Be",
+        "url": "https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 173541,
+      "name": "Must Be",
+      "url": "https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy"
+    },
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
@@ -23,6 +87,118 @@
       "duration_ms": 176963,
       "name": "Highest",
       "url": "https://open.spotify.com/track/10VuwBAxEi3goN8n3AvrGS"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Sexistential",
+        "url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 218086,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/0rv6JbGN1bJoD2Il4UXZxk"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Leadbelly (feat. MIKE)",
+        "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "Leadbelly - feat. MIKE",
+      "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Running To Pain",
+        "url": "https://open.spotify.com/album/5r7zsPBzwvUbgIh2WLOkUD"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 246727,
+      "name": "Running To Pain",
+      "url": "https://open.spotify.com/track/3TcuyO1stSlzxMQRb14M16"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "SYNY 3 Act I",
+        "url": "https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        }
+      ],
+      "duration_ms": 153682,
+      "name": "Wake Up and Get Sexy",
+      "url": "https://open.spotify.com/track/061lImbIi2dyZift5GqtIo"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/3xjGxiWy6nHYUkCUd81IpW"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/3PdaZHszqVFNrjOsGYNFUY"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -55,46 +231,6 @@
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
-        "name": "SYNY 3 Act I",
-        "url": "https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9"
-      },
-      "artists": [
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        },
-        {
-          "name": "Igwe Aka",
-          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
-        },
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        }
-      ],
-      "duration_ms": 153682,
-      "name": "Wake Up and Get Sexy",
-      "url": "https://open.spotify.com/track/061lImbIi2dyZift5GqtIo"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
-        "name": "Running To Pain",
-        "url": "https://open.spotify.com/album/5r7zsPBzwvUbgIh2WLOkUD"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 246727,
-      "name": "Running To Pain",
-      "url": "https://open.spotify.com/track/3TcuyO1stSlzxMQRb14M16"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -157,7 +293,7 @@
         }
       ],
       "duration_ms": 191240,
-      "name": "Close",
+      "name": "Close (feat. POiSON GiRL FRiEND)",
       "url": "https://open.spotify.com/track/4npttEoiv13o33VFuYEDVE"
     },
     {
@@ -1507,42 +1643,6 @@
     {
       "added_at": "2025-12-05 05:00:23",
       "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 211366,
-      "name": "Typewriter (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
-    },
-    {
-      "added_at": "2025-12-12 05:00:38",
-      "album": {
-        "name": "Fingerling",
-        "url": "https://open.spotify.com/album/1AGeK2E7YXeBRIBxglzNio"
-      },
-      "artists": [
-        {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Fingerling",
-      "url": "https://open.spotify.com/track/253Y6DJfIf3gzxNpZumx9H"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
         "name": "Alise",
         "url": "https://open.spotify.com/album/0FEGZgonIOc9RZUa6KucAn"
       },
@@ -1629,42 +1729,6 @@
       "url": "https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT"
     },
     {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX"
-    },
-    {
-      "added_at": "2025-11-21 05:00:39",
-      "album": {
-        "name": "Friends + Culture",
-        "url": "https://open.spotify.com/album/71uIjAiSZrh1mYFLIGYBCQ"
-      },
-      "artists": [
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        },
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Friends + Culture",
-      "url": "https://open.spotify.com/track/5zDcxE9QKe01auX8YS4wRO"
-    },
-    {
       "added_at": "2025-11-21 05:00:39",
       "album": {
         "name": "A Constant Charade",
@@ -1701,38 +1765,6 @@
       "url": "https://open.spotify.com/track/73if759NUTI8amyCTiDZRB"
     },
     {
-      "added_at": "2025-11-21 05:00:39",
-      "album": {
-        "name": "crown",
-        "url": "https://open.spotify.com/album/4YBVLF2U6r5aKKi5so7Jah"
-      },
-      "artists": [
-        {
-          "name": "Andrew Aged",
-          "url": "https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG"
-        }
-      ],
-      "duration_ms": 253312,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/6fFJ6p5FqYalQDiBxw1TTS"
-    },
-    {
-      "added_at": "2025-11-14 00:00:24",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
       "added_at": "2025-11-07 05:00:53",
       "album": {
         "name": "SNOEY",
@@ -1755,38 +1787,6 @@
       "duration_ms": 177050,
       "name": "Public Opinion",
       "url": "https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE"
-    },
-    {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "ANYWHERE HERE IS PERFECT",
-        "url": "https://open.spotify.com/album/6tyD7HEJopywG8Dljjd1nA"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 169785,
-      "name": "LIGHTNING",
-      "url": "https://open.spotify.com/track/4bfC62Pt3HZZggQlpEPUYS"
-    },
-    {
-      "added_at": "2025-10-31 00:00:20",
-      "album": {
-        "name": "have to.",
-        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 207023,
-      "name": "have to.",
-      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
     }
   ],
   "unique_name": "POLLEN",

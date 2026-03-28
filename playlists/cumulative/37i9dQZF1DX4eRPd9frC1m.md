@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-468 songs - 1 day 1 hr 2 min
+469 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [DAMN \- Bonus Track](https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:40 | 2021-11-19 | 2023-02-25 |
 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 | 2021-11-19 | 2024-08-03 |
 | [DANGER](https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [FOREVER, VOLPETRON](https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN) | 2:43 | 2025-09-19 |  |
-| [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 | 2023-01-06 |  |
+| [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 | 2023-01-06 | 2026-03-28 |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2022-07-27 |
 | [DDOKBOKKI](https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [DDOKBOKKI](https://open.spotify.com/album/2T48nb1L3se9K1QZIPJNWq) | 2:35 | 2021-11-19 | 2022-01-08 |
 | [DESPAIR](https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB), [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf) | [BRULURE](https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF) | 4:07 | 2024-09-06 | 2025-01-08 |
@@ -470,6 +470,7 @@
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-30 |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-11-19 | 2022-01-08 |
 | [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 | 2024-06-17 | 2024-08-30 |
+| [Word Scramble](https://open.spotify.com/track/080hAFjUF8vlrqr45hXQHd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Word Scramble](https://open.spotify.com/album/5jlmxWMzxDMG3KifltzpSJ) | 2:58 | 2026-03-27 |  |
 | [Work It Out](https://open.spotify.com/track/5qKVcFWolHOWPupR077TbN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Work It Out](https://open.spotify.com/album/7sRKw8p1KMkgshzawKTzVb) | 3:57 | 2021-11-19 | 2022-01-08 |
 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 | 2021-11-19 | 2024-05-26 |
 | [Wut](https://open.spotify.com/track/4hwwtwovfaxKZNXP0BAhvY) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Wut](https://open.spotify.com/album/1oE6EFbJyDVxCRwKVfaIBl) | 2:36 | 2021-11-19 | 2022-01-08 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 5 hr 26 min
+107 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,11 +27,13 @@
 | [Conversation \(feat\. Kojo Funds\)](https://open.spotify.com/track/6Ntr7Ne3mbPmFYYksZCS5Q) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:52 | 2026-03-07 |  |
 | [Crazy Woman](https://open.spotify.com/track/65ocdKTGjti9ea5nNqaq4v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:48 | 2026-03-07 |  |
 | [Crime \(with Skott\)](https://open.spotify.com/track/59QVRLzAYdNiuOFCrR6tlh) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Crime \(with Skott\)](https://open.spotify.com/album/6p7Uxsq9sa6o5MkOmw28ge) | 2:55 | 2026-03-07 |  |
+| [Dance For Me](https://open.spotify.com/track/04joSDzlMnx2hgZr2LNWHr) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf) | 3:05 | 2026-03-27 |  |
 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 | 2026-03-07 |  |
 | [Dead Alive](https://open.spotify.com/track/0yjRyCmu3Oj8oU5fZ9cIwT) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Dead Alive](https://open.spotify.com/album/559sIaWsRUmd3uaGVhumjv) | 2:25 | 2026-03-07 |  |
 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2026-03-07 |  |
 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 | 2026-03-07 |  |
 | [DIABLO](https://open.spotify.com/track/3UZq0tLE3gNlnYQbpa7Veo) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [DIABLO](https://open.spotify.com/album/6tNmyp4ay7hhthomKB65gW) | 2:45 | 2026-03-07 |  |
+| [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 | 2026-03-27 |  |
 | [Domino](https://open.spotify.com/track/6SmfBvW4JgsoZPhagI0N3L) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Awaken The World \- The 1st Album](https://open.spotify.com/album/0XldHBFjCgxRMTXmjUj6cx) | 3:16 | 2026-03-07 |  |
 | [Don't Deserve This](https://open.spotify.com/track/1rh2CkzgCba4p8o7BldVuk) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Don't Deserve This](https://open.spotify.com/album/6la5gP1N1B6gIipTa7AwIG) | 2:49 | 2026-03-07 |  |
 | [Don't Worry Bout Me](https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Don't Worry Bout Me](https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5) | 3:28 | 2026-03-07 |  |
@@ -45,9 +47,11 @@
 | [Good Example \(with Andy Grammer\)](https://open.spotify.com/track/2XN4ExPifxr5axkFrsY95U) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Example \(with Andy Grammer\)](https://open.spotify.com/album/2qHQml8bXHUi63eCdIhY6X) | 2:29 | 2026-03-07 |  |
 | [Hail Mary](https://open.spotify.com/track/1AsHFlfXTCgQMF3Mj71a9t) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 3:13 | 2026-03-07 |  |
 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 | 2026-03-07 |  |
+| [Heart Of Glass](https://open.spotify.com/track/1zSH9tOGrtnEifKQDS8f26) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf) | 3:15 | 2026-03-27 |  |
 | [Heartbeat](https://open.spotify.com/track/74w3KQUxPOEJYmQHgmRVsh) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heartbeat](https://open.spotify.com/album/6MAxLHsYH7uI7NM6w7A5Kb) | 2:48 | 2026-03-07 |  |
 | [HELL IN HEAVEN](https://open.spotify.com/track/19by44jwF68iVN8D815kOB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:59 | 2026-03-07 |  |
 | [Human](https://open.spotify.com/track/38aPeueGAUmEneEEJoANXO) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Human](https://open.spotify.com/album/74OCmHnI3mJUjJri4WlmIA) | 2:26 | 2026-03-07 |  |
+| [I Ain't Got No Worries \(with R3HAB\)](https://open.spotify.com/track/0REXvxnclpTKt2sjgZmESY) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:26 | 2026-03-27 |  |
 | [I Go Ego](https://open.spotify.com/track/6AVaVofzVcFIIhh31M54NL) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 3:29 | 2026-03-07 |  |
 | [I'm Good](https://open.spotify.com/track/6Cyky0ziRozMxICkpI7Y8Y) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 3:22 | 2026-03-07 |  |
 | [If I Had](https://open.spotify.com/track/3cZAvJaJ87a4xYl6gZ9FYG) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [FO&O](https://open.spotify.com/album/5WB9VHvp4ttDEv9V5KS6Jg) | 2:43 | 2026-03-07 |  |

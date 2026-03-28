@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240386,
+      "name": "\u4e00\u6a23\u7684\u6708\u5149",
+      "url": "https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8"
       },
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 232000,
       "name": "\u611b\u4e2b\u611b\u4e2b",
       "url": "https://open.spotify.com/track/3ug64gXY4mHjvMRYUdGjA2"

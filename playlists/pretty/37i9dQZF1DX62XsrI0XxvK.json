@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0OZINHpUnScyb15qEDZS2BLXbt",
+  "snapshot_id": "AAAAAJWbYQpU1Jj+t7jvsQGgI2PmneG/",
   "tracks": [
     {
       "added_at": "2026-03-12 18:00:20",
@@ -23,6 +23,38 @@
       "duration_ms": 153600,
       "name": "STAY/GO (Do What You Want)",
       "url": "https://open.spotify.com/track/4o1OYUJIRRWoe7qcAAaYv0"
+    },
+    {
+      "added_at": "2026-03-27 04:00:27",
+      "album": {
+        "name": "Siapa Kamu?",
+        "url": "https://open.spotify.com/album/1ubd8CFUMzsjwDsfQN3ylF"
+      },
+      "artists": [
+        {
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
+        }
+      ],
+      "duration_ms": 201032,
+      "name": "Siapa Kamu?",
+      "url": "https://open.spotify.com/track/55KjeBjTgIEBHgtdJqWcTP"
+    },
+    {
+      "added_at": "2026-03-27 04:00:27",
+      "album": {
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/0TydQJLAnqnm5rJzGbp640"
+      },
+      "artists": [
+        {
+          "name": "CVX",
+          "url": "https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz"
+        }
+      ],
+      "duration_ms": 168514,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/48RtOdZydalAcG5S8LkgiY"
     },
     {
       "added_at": "2026-03-12 18:00:20",
@@ -55,6 +87,22 @@
       "duration_ms": 179225,
       "name": "Keliling",
       "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
+    },
+    {
+      "added_at": "2026-03-27 04:00:27",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/0hZQAfI8flXYmK4PgonzzI"
+      },
+      "artists": [
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0Zrz6L9L4tPxsxLvOU22iZ"
     },
     {
       "added_at": "2026-03-12 18:00:20",
@@ -517,30 +565,6 @@
       "url": "https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX"
     },
     {
-      "added_at": "2025-11-27 17:30:01",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0QULlRrskGGkNA5lc06dMH"
-      },
-      "artists": [
-        {
-          "name": "ICEBOX ID",
-          "url": "https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze"
-        },
-        {
-          "name": "Italiani",
-          "url": "https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs"
-        },
-        {
-          "name": "Charita Utami",
-          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
-        }
-      ],
-      "duration_ms": 203952,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/1KxuP61yS7dLOqcdnXWgVb"
-    },
-    {
       "added_at": "2025-11-20 17:00:10",
       "album": {
         "name": "Nyaman (24/7)",
@@ -639,26 +663,6 @@
       "duration_ms": 192126,
       "name": "Harap Dan Ragu",
       "url": "https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le"
-    },
-    {
-      "added_at": "2025-11-20 17:00:10",
-      "album": {
-        "name": "Dari Jauh",
-        "url": "https://open.spotify.com/album/644fwyrhqmwVKMtc6wxYJO"
-      },
-      "artists": [
-        {
-          "name": "Mario Ginanjar",
-          "url": "https://open.spotify.com/artist/2PfcNw7RHl1aDoZ4tYg6ky"
-        },
-        {
-          "name": "Andity",
-          "url": "https://open.spotify.com/artist/66P3FEL28QNJw9ylq00wRa"
-        }
-      ],
-      "duration_ms": 215447,
-      "name": "Dari Jauh",
-      "url": "https://open.spotify.com/track/74ICl8FcIvdaGoHYuQg24T"
     },
     {
       "added_at": "2025-11-13 17:30:27",

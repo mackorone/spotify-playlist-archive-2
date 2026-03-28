@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Little Boogie y Milo J en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,529 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,516 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 |
-| 2 | [UN GUSTO](https://open.spotify.com/track/74XvuYXS9VjhlnEn9Ctf7y) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [AMOR FIADO](https://open.spotify.com/album/6EPWuQUeAaRp61S8qG0fri) | 2:40 |
+| 2 | [UN GUSTO](https://open.spotify.com/track/74XvuYXS9VjhlnEn9Ctf7y) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [AMOR FIADO](https://open.spotify.com/album/6EPWuQUeAaRp61S8qG0fri) | 2:36 |
 | 3 | [Prófugo](https://open.spotify.com/track/3btRmr3aelAXhpc2EC2EYp) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Prófugo](https://open.spotify.com/album/7rrNueGVfikpwrEPXzAlQD) | 3:19 |
 | 4 | [Sacrificio](https://open.spotify.com/track/0c9vrYtS8WktmWoi9yWhki) | [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Sacrificio](https://open.spotify.com/album/2SpPxqRNf0kwt5v8tmtmJy) | 3:08 |
 | 5 | [TRAP SIN T](https://open.spotify.com/track/6ity0bfnkgbpavn63xdQ1r) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
 | 100 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `AAAAAGnFTdWUoI+xkAWt3tbL/DRjDGII`
+Snapshot ID: `AAAAADK50pHImSv9j0OylkKokQhaT1Fl`

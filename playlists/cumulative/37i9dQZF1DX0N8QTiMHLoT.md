@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-110 songs - 7 hr 51 min
+111 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Purple Interlude](https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 1:36 | 2021-05-06 |  |
 | [Right After 4](https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:53 | 2021-05-06 |  |
 | [Rock the Bass](https://open.spotify.com/track/2gDqPagIHCUHApppubq7P3) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3), [Kuku Agami](https://open.spotify.com/artist/6y1N3SfaS19brFIIwaq1KJ) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:07 | 2021-05-06 |  |
+| [RUIN BAR](https://open.spotify.com/track/1gW0fic25beFAdFK2vAi0o) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR) | [RUIN BAR](https://open.spotify.com/album/6WxMxvlnVzsjBb7fXeYezZ) | 2:16 | 2026-03-27 |  |
 | [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 | 2023-02-24 | 2023-11-28 |
 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 | 2021-05-06 |  |
 | [Shadow \(feat\. Chick Corea\)](https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:45 | 2021-05-06 |  |

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-398 songs - 1 day 2 hr 15 min
+401 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 | 2023-10-16 | 2024-05-24 |
 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 | 2024-05-23 |  |
 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 | 2023-10-16 | 2024-05-24 |
+| [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-27 |  |
 | [Debra Kadabra \- Live](https://open.spotify.com/track/6z5YTD4OaZxhZqPDqNDlwH) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [Captain Beefheart](https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS), [The Mothers](https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K) | [Bongo Fury \(Live\)](https://open.spotify.com/album/5ya1WvD8rFTmxeF7szOolq) | 3:55 | 2026-02-27 |  |
 | [Debra Kadabra \- Live In Austin, TX \- May 21, 1975](https://open.spotify.com/track/1dNTt9gD88G8tM4nSLcPO8) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [Captain Beefheart](https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS), [The Mothers](https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K) | [Debra Kadabra](https://open.spotify.com/album/7abqyyK2520wquLRbe4rCW) | 3:58 | 2026-01-30 |  |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-06 |  |
@@ -113,6 +114,7 @@
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-05-23 |  |
 | [Eyes Without A Face \- Poolside Remix](https://open.spotify.com/track/5lVkie1tVUwswcx83M3xYZ) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 5:37 | 2024-08-12 |  |
 | [Face Dances \- Pt\. 2](https://open.spotify.com/track/4d4Y9qqitAREx1vv2HcUjy) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [All The Best Cowboys Have Chinese Eyes](https://open.spotify.com/album/4sxhStQwkOmtHLO0Ba0Fyk) | 3:25 | 2024-05-23 |  |
+| [Father To Son \- 2026 Mix](https://open.spotify.com/track/17tqre4FRb8Xbqzd8SUQ88) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(2026 Mix\)](https://open.spotify.com/album/1sTM8zWytc67N5T6laDSga) | 6:12 | 2026-03-27 |  |
 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2023-10-16 | 2024-05-24 |
 | [First Date](https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 | 2023-10-16 | 2024-05-24 |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-12 |  |
@@ -291,6 +293,7 @@
 | [Show Me Love](https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Show Me Love](https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA) | 4:07 | 2025-01-10 |  |
 | [Silent Night \- Live At Knox Church, Stratford, Ontario / 2021](https://open.spotify.com/track/101cKHyvczyACPwU2B94cn) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Under A Winter's Moon \(Expanded Edition\)](https://open.spotify.com/album/20DqT1aA6l0v1oMRWnBgko) | 3:18 | 2025-11-21 | 2026-01-15 |
 | [Sledgehammer \- Remastered](https://open.spotify.com/track/2CfavwjTJrKGxy9fiU4otq) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Special Edition\)](https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js) | 5:13 | 2024-05-23 |  |
+| [Sloop John B \- Carl Sings First Verse](https://open.spotify.com/track/18JlT3Imlq4n8Pu6iR4r81) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sloop John B](https://open.spotify.com/album/1quacJMkqi95OwJ4Q182rq) | 3:05 | 2026-03-27 |  |
 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 | 2023-10-16 | 2024-05-24 |
 | [Snowbird](https://open.spotify.com/track/6y3YVkwO6YZqBcVsrNQRkB) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 2:10 | 2025-04-04 |  |
 | [Soily \- One Hand Clapping Sessions](https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [One Hand Clapping](https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y) | 3:56 | 2024-06-14 |  |

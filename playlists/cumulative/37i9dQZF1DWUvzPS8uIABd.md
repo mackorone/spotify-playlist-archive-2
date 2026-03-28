@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-931 songs - 1 day 22 hr 29 min
+932 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [Mä hajotan tän maailman \(Vain elämää kausi 16\)](https://open.spotify.com/track/2DrnAg7hvWwHZlaStLpj2H) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Mä hajotan tän maailman \(Vain elämää kausi 16\)](https://open.spotify.com/album/6PPQCs8uM2t1Urk7Qx0Dtd) | 2:55 | 2025-09-26 | 2025-10-03 |
 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 | 2025-03-06 | 2025-05-30 |
 | [Mä nään sut](https://open.spotify.com/track/7KrnwqnKo5kHf8upHsq533) | [Mikko Harju](https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n) | [Mä nään sut](https://open.spotify.com/album/3w9W8o6nYAIjeMszEUQAFZ) | 2:56 | 2025-05-01 | 2025-07-04 |
-| [Mä oon se tyttö](https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mä oon se tyttö](https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF) | 2:53 | 2025-10-23 |  |
+| [Mä oon se tyttö](https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mä oon se tyttö](https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF) | 2:53 | 2025-10-23 | 2026-03-28 |
 | [Määräaikainen \(rakkaus\)](https://open.spotify.com/track/5f3X7brdX4wXnn5hSCQ1kh) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Määräaikainen \(rakkaus\)](https://open.spotify.com/album/2NpbyH7y9NbsjdCyPOjHXq) | 2:29 | 2025-04-10 | 2025-05-23 |
 | [Mörkö](https://open.spotify.com/track/4wj5L26lcaUtrEepdP6sJt) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Mörkö](https://open.spotify.com/album/3H7wJEr771ALFDB6ubgIlG) | 2:30 | 2025-10-30 | 2026-01-25 |
 | [Mörkö Mainio \- Vain elämää kausi 15](https://open.spotify.com/track/5eUB9jPcvI1mpRn3CA9ZTW) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Mörkö Mainio \(Vain elämää kausi 15\)](https://open.spotify.com/album/7tpraW2sPXGs40G9RHQ1Tm) | 3:05 | 2024-11-07 | 2024-11-15 |
@@ -706,6 +706,7 @@
 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 | 2024-07-02 | 2024-11-22 |
 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 | 2025-03-20 | 2025-07-04 |
 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 | 2026-02-12 |  |
+| [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 | 2026-03-26 |  |
 | [Sitä ei muuta mikään](https://open.spotify.com/track/1ivwNDz7HEuF8jTE83LrhH) | [Antti Ketonen](https://open.spotify.com/artist/5YxFBIX6yyncauK1DmRPY7) | [Sitä ei muuta mikään](https://open.spotify.com/album/0DilZjWVzpSDJtrNPyQaHY) | 3:12 | 2024-10-10 | 2024-11-15 |
 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 | 2024-09-12 | 2024-11-29 |
 | [Soita mulle](https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Soita mulle](https://open.spotify.com/album/2sMdAWOawJutUfa9axCHCS) | 2:41 | 2025-04-03 | 2025-04-18 |

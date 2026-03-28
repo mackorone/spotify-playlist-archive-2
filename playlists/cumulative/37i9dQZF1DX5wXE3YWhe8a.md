@@ -4,11 +4,12 @@
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-57 songs - 2 hr 4 min
+61 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bad Song Is A Sad Song](https://open.spotify.com/track/3PwFxjVz4mdyeY9FHx1NOO) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [A Bad Song Is A Sad Song](https://open.spotify.com/album/0h9cPtD7AYZKFNTc5Tu0M6) | 2:20 | 2026-02-27 |  |
+| [Amber Skies](https://open.spotify.com/track/0zRQHbtFAVBXBI9zbURwsn) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [twofiveone](https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE) | [Amber Skies](https://open.spotify.com/album/0d9CrWlahws5Csf9lQIs1L) | 2:30 | 2026-03-27 |  |
 | [Aquarela](https://open.spotify.com/track/4r7d8awdjYXihm0E9lyrHg) | [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Above the clouds](https://open.spotify.com/album/4zM0j0yaaHIw1tHu2qnhiH) | 1:44 | 2026-03-20 |  |
 | [Avocado](https://open.spotify.com/track/4UEsOhVOTgoQliXjVdfTUF) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Avocado](https://open.spotify.com/album/2f8vHjixXb5pKCkB9G9Ts6) | 3:17 | 2026-02-27 | 2026-03-05 |
 | [bamboo](https://open.spotify.com/track/3o9ao7MVy70akFMeOLLRFG) | [raindrop delay](https://open.spotify.com/artist/34oewuGdY10tJVQxjq202Q) | [bamboo](https://open.spotify.com/album/6sz8MRA9amMmf2xPcESqVo) | 1:49 | 2026-02-27 |  |
@@ -40,6 +41,7 @@
 | [Muse](https://open.spotify.com/track/1hMmFZhT7ZnBe2JUvKS8j5) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Muse](https://open.spotify.com/album/2M43UqYdHuWKke1Ja9uGXX) | 2:05 | 2026-02-27 |  |
 | [Mystery woods](https://open.spotify.com/track/5DC63qY7AtNFz8crUYGnrA) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Mystery woods](https://open.spotify.com/album/7r48woOCpZBUI3MrJw5xcf) | 3:03 | 2026-02-27 |  |
 | [No Rush](https://open.spotify.com/track/1W2JTawzgyrvTy0s11onpt) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [No Rush](https://open.spotify.com/album/7qRmKVBYKOUTu99rGJPSym) | 1:19 | 2026-02-27 |  |
+| [Nobody](https://open.spotify.com/track/1rsUd0Di73ER1FAzadgtWm) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Nobody](https://open.spotify.com/album/0Gs24OAqnN1kSdAgc8BvYM) | 2:27 | 2026-03-27 |  |
 | [Oaktree](https://open.spotify.com/track/5vLp5IrT62YgBOh2MxM5ZH) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Oaktree / When We Sleep](https://open.spotify.com/album/0F3fg3EB0pPrP5gg6OeZGO) | 1:53 | 2026-02-27 |  |
 | [off grid](https://open.spotify.com/track/2tT9LVtsqcNkeJYIfEItHA) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [off grid](https://open.spotify.com/album/4T5i6Lb5AaM4MeJpWiXwlg) | 1:49 | 2026-02-27 |  |
 | [olive tree](https://open.spotify.com/track/3CxVdw3aHx8HonEJSnYfSG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [olive tree](https://open.spotify.com/album/1NIEfmyFaOVnxfp2Wx3Ml5) | 2:04 | 2026-02-27 |  |
@@ -50,6 +52,7 @@
 | [simple things](https://open.spotify.com/track/2jJPB8v11nFxx0INPjZFok) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [simple things](https://open.spotify.com/album/0Lu2tlgxEVh0AFSOEiq3cB) | 1:57 | 2026-02-27 |  |
 | [Slow Steps](https://open.spotify.com/track/2YXCqbCuiiLUiNlw0NSx9h) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Slow Steps](https://open.spotify.com/album/5CroIH6dSKTwZkpEkF7EI2) | 2:00 | 2026-02-27 |  |
 | [Sodium Light](https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Sodium Light](https://open.spotify.com/album/4dv5BXCczbIXYggQzKETcG) | 2:05 | 2026-02-27 |  |
+| [soulmates](https://open.spotify.com/track/7EnfB8FsjByMbQJE4ORhI1) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [soulmates](https://open.spotify.com/album/6dOyi41HlOa2BSdwu6bqzG) | 1:54 | 2026-03-27 |  |
 | [summer night](https://open.spotify.com/track/5fkesgCH5yYOrBJfVrPjsQ) | [Peppermint Tea](https://open.spotify.com/artist/4CLhJRSn847LtAzwxBemmp) | [summer night](https://open.spotify.com/album/1d6TnnKNhfDJhMirdagNZt) | 2:02 | 2026-02-27 |  |
 | [Sun Phase](https://open.spotify.com/track/4DToBu1BtTunAzuDjPS3hz) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Sun Phase](https://open.spotify.com/album/0ZAFdGntpffCmQJulhEHIo) | 1:56 | 2026-02-27 |  |
 | [Sunflower](https://open.spotify.com/track/7cyRcqDorziVOShnNrypwU) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Sunflower](https://open.spotify.com/album/5SfF1luK89kcjD3TvNJv3G) | 2:00 | 2026-02-27 |  |
@@ -63,6 +66,7 @@
 | [warm breeze](https://open.spotify.com/track/5PNeQPmR8AtlLx4Upf08Hi) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [warm breeze](https://open.spotify.com/album/3c5cpXaFuXKfRFFAU9poda) | 2:01 | 2026-02-27 |  |
 | [warm hands, cold air](https://open.spotify.com/track/39I5c7yp1BrboSCjYYQ7o7) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [warm hands, cold air](https://open.spotify.com/album/0bHYCqUGeLbJlz5lnSUraO) | 2:24 | 2026-02-27 |  |
 | [When Flowers Bloom](https://open.spotify.com/track/4c69F0hbshPqbkQEKAZcTq) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [When Flowers Bloom](https://open.spotify.com/album/6Sx7x8DqIb6W7fmwPTRXDS) | 2:30 | 2026-03-11 |  |
+| [when the flowers bloom](https://open.spotify.com/track/1GvfyqXqndCwWW5r02jAt6) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [when the flowers bloom](https://open.spotify.com/album/0yzSbT2nKFfHHgeUXJdNpk) | 2:00 | 2026-03-27 |  |
 | [Wildflower](https://open.spotify.com/track/7zxNmMVgoZQdYrRNgEL9vn) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Wildflower](https://open.spotify.com/album/1VKHmxN3RlzMcZddnsenud) | 2:36 | 2026-02-27 |  |
 | [wildflowers](https://open.spotify.com/track/2YSblbztd9pNPSr0crTErJ) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [wildflowers](https://open.spotify.com/album/5sQeAGnf5OiVGrkaPN1fgF) | 2:12 | 2026-02-27 |  |
 

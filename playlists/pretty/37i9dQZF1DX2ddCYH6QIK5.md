@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Antonio Hoffmann, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,409 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,408 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Laut liebst](https://open.spotify.com/track/50HLrozSR4h88iQn1mkxfS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Laut liebst](https://open.spotify.com/album/6jjxJxDaTdd4HGqM2WBehP) | 3:24 |
 | 50 | [Blei](https://open.spotify.com/track/1hPxJHQcHPb8GGH0Jkbnin) | [Kobalin](https://open.spotify.com/artist/2Hxhg70qfOqIAjdE7vLf3r) | [Blei](https://open.spotify.com/album/6n7Zh3ZVdXQU8bdSjnMfgQ) | 2:50 |
 
-Snapshot ID: `AAAAAHAc9bFJ8mT2yOn9Zw/k13RNCACh`
+Snapshot ID: `AAAAAL3T8casN46PB+6hGV4l5lmlK7fj`

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1291,
+  "num_followers": 1290,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAASU6p8zTVzTj4pq5xo9+wAr/D6bTyo",
+  "snapshot_id": "AAASVzwoxKgZd4oTC0GFcR9M47bmCnxr",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE"
     },
     {
+      "added_at": "2026-02-06 09:53:34",
+      "album": {
+        "name": "Mi piace quando ridi",
+        "url": "https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "Mi piace quando ridi",
+      "url": "https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC"
+    },
+    {
       "added_at": "2026-03-09 11:43:22",
       "album": {
         "name": "Tut mir leid",
@@ -317,22 +333,6 @@
       "url": "https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT"
     },
     {
-      "added_at": "2026-02-06 09:53:34",
-      "album": {
-        "name": "Mi piace quando ridi",
-        "url": "https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 178857,
-      "name": "Mi piace quando ridi",
-      "url": "https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC"
-    },
-    {
       "added_at": "2026-03-02 09:18:13",
       "album": {
         "name": "Saving a Song",
@@ -347,6 +347,22 @@
       "duration_ms": 198283,
       "name": "Saving a Song",
       "url": "https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz"
+    },
+    {
+      "added_at": "2026-01-08 11:10:57",
+      "album": {
+        "name": "Allora come ti va",
+        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 278576,
+      "name": "Allora come ti va",
+      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
     },
     {
       "added_at": "2026-03-02 16:22:09",
@@ -395,22 +411,6 @@
       "duration_ms": 264206,
       "name": "Spiraling",
       "url": "https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l"
-    },
-    {
-      "added_at": "2026-01-08 11:10:57",
-      "album": {
-        "name": "Allora come ti va",
-        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 278576,
-      "name": "Allora come ti va",
-      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
     },
     {
       "added_at": "2026-02-25 07:29:20",
@@ -2447,6 +2447,22 @@
       "duration_ms": 205040,
       "name": "One Day I Turned Green",
       "url": "https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy"
+    },
+    {
+      "added_at": "2026-03-27 12:31:07",
+      "album": {
+        "name": "Occhi D\u2019argento",
+        "url": "https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1"
+      },
+      "artists": [
+        {
+          "name": "Lacrima",
+          "url": "https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX"
+        }
+      ],
+      "duration_ms": 161902,
+      "name": "Occhi D\u2019argento",
+      "url": "https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW"
     }
   ],
   "unique_name": "New Indie Music",

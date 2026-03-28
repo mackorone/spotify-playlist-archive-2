@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,239 songs - 3 day 23 hr 34 min
+2,240 songs - 3 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [DE GHETTO](https://open.spotify.com/track/1SICUCTpf6FaYUUwyk16RK) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [DE GHETTO](https://open.spotify.com/album/6nGb3g8zG08gGbwgJgFd3H) | 2:35 | 2022-10-27 | 2022-11-18 |
 | [De Ghetto](https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [De Ghetto](https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh) | 2:33 | 2022-10-20 | 2022-11-18 |
 | [De klart](https://open.spotify.com/track/4B060rVmi5g0tdI3mWoVut) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [De klart](https://open.spotify.com/album/0UOr6efjzS1BbruhRVLs1H) | 2:36 | 2022-04-07 | 2022-05-27 |
+| [DE VI](https://open.spotify.com/track/5Ro0m2VP4fEEbdR90Qm572) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp), [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [DE VI](https://open.spotify.com/album/29BSE3VQPO66tkhp84Peyg) | 2:34 | 2026-03-27 |  |
 | [Deadly](https://open.spotify.com/track/3a77PeH4l9zJVDy6tgppCV) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Deadly](https://open.spotify.com/album/2xnp35ifilAEEIBUXYCVvD) | 2:38 | 2025-03-27 | 2025-06-20 |
 | [December dag](https://open.spotify.com/track/5c0JdHuAbuPBYtRdauL67p) | [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP), [Sinnesro](https://open.spotify.com/artist/59VSWqLge7r0Rp2Ia9RMyf) | [December dag](https://open.spotify.com/album/1XI0oidJTXYPMd92iDDfXz) | 3:13 | 2026-02-16 |  |
 | [DECIBEL](https://open.spotify.com/track/2kiC5fopiYY3YbpZvZE3Pf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DECIBEL](https://open.spotify.com/album/06NUaJPqMJnjawwkspDjHz) | 2:36 | 2024-04-25 | 2024-08-23 |

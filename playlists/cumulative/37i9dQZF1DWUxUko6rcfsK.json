@@ -3601,24 +3601,6 @@
     },
     {
       "album": {
-        "name": "Songs From The Road, Vol. 2",
-        "url": "https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7"
-      },
-      "artists": [
-        {
-          "name": "Tors",
-          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP"
-    },
-    {
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/1boryF8Znj8KXWvXbTlO8k"
       },
@@ -3670,6 +3652,24 @@
       "duration_ms": 191185,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
+    },
+    {
+      "album": {
+        "name": "Songs From The Road, Vol. 2",
+        "url": "https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250751,
+      "name": "Was It Love",
+      "url": "https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP"
     },
     {
       "album": {

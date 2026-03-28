@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-234 songs - 13 hr 35 min
+235 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 | 2020-09-18 | 2024-04-19 |
 | [Todo Te Lo Debo a Tí](https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa) | [Benji Rosales](https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7) | [Todo Te Lo Debo a Tí](https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6) | 2:49 | 2024-07-05 | 2026-03-24 |
 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 | 2020-09-18 | 2025-03-29 |
-| [Tu Luz](https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Tu Luz](https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC) | 2:49 | 2025-09-14 |  |
+| [Tu Eres Mi Alegría](https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg) | [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW), [Kaelyn Reese](https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl), [TTIMO](https://open.spotify.com/artist/6uQtVt05v9t3SmaYZlgaG9) | [Tu Eres Mi Alegría](https://open.spotify.com/album/0RoX4wyu0X44BsiILlt41z) | 3:28 | 2026-03-23 |  |
+| [Tu Luz](https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Tu Luz](https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC) | 2:49 | 2025-09-14 | 2026-03-28 |
 | [TUS PASOS](https://open.spotify.com/track/3rDbU0WH0slihpeuBYVy6Z) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [TUS PASOS](https://open.spotify.com/album/4OFv2OF8dY1e6jDr0Ivh2p) | 2:40 | 2025-12-12 |  |
 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 | 2020-09-18 | 2025-03-29 |
 | [Un Gran Dia](https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ) | [Dani Senay](https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp) | [Un Gran Dia](https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW) | 2:19 | 2025-12-12 |  |

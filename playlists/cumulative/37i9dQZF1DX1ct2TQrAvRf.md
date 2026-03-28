@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Diljit Dosanjh
 
-387 songs - 20 hr 47 min
+388 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [170CM from Think Indie](https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [170CM from Think Indie](https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H) | 2:12 | 2023-09-22 | 2023-10-04 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-03-27 | 2024-04-02 |
 | [3 DRAGS](https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9) | 2:47 | 2025-06-27 | 2025-10-15 |
-| [3 DRAGS](https://open.spotify.com/track/6TkzDmN6oVbfXNG3C83J9J) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/5OblRHQsKSO2vYlK57mO02) | 2:47 | 2026-03-13 |  |
+| [3 DRAGS](https://open.spotify.com/track/6TkzDmN6oVbfXNG3C83J9J) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/5OblRHQsKSO2vYlK57mO02) | 2:47 | 2026-03-13 | 2026-03-28 |
 | [315 \(feat\. Shinda Kahlon & Jazzy B\)](https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:11 | 2024-09-13 | 2025-03-29 |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-08-17 | 2024-10-02 |
 | [3am In Gillco](https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [3am In Gillco](https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t) | 3:19 | 2025-10-10 | 2026-02-28 |
@@ -38,6 +38,7 @@
 | [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 | 2025-07-04 |  |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-02 | 2025-01-18 |
 | [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 | 2025-01-17 |  |
+| [Aura 10/10 \(From "Meesaya Murukku 2"\)](https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Thamizh Aadhavan](https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb) | [Aura 10/10 \(From "Meesaya Murukku 2"\)](https://open.spotify.com/album/6HvRqIC1KLVpc5qNkqAgVC) | 2:09 | 2026-03-27 |  |
 | [Ayyayyo](https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Ayyayyo](https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf) | 3:40 | 2023-10-09 | 2025-03-29 |
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-31 | 2023-07-18 |
 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 | 2025-01-17 | 2025-04-12 |

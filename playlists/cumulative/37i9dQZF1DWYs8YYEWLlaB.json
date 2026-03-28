@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
+  "description": "viral, trend ve y\u00fckselenler.  Kapak: Hadise x Motive",
   "name": "trend 2026",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 111461,
       "name": "BEN \u00dcNL\u00dcY\u00dcM",
       "url": "https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW"
@@ -2710,6 +2710,28 @@
       "duration_ms": 280739,
       "name": "K\u00fc\u00e7\u00fck Bir Yol",
       "url": "https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk"
+    },
+    {
+      "album": {
+        "name": "K\u00fc\u00e7\u00fck Bir Yol (Red Bull Track Takeover)",
+        "url": "https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200512,
+      "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
+      "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
     },
     {
       "album": {

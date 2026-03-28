@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,344 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,343 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 27 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
 | 28 | [身を粉/MIWOKO \- feat.ku\-ten](https://open.spotify.com/track/2RG6lvcFAjdaNhRYAGDMCM) | [友田オレ](https://open.spotify.com/artist/3CBjo7rtvkpkB31Gj8G1Gp), [ku\-ten](https://open.spotify.com/artist/5kigcfJtgrmnwom5rwGy26) | [身を粉/MIWOKO \(feat.ku\-ten\)](https://open.spotify.com/album/0RgZvecBau9nrbt58WfXms) | 2:22 |
 | 29 | [虹のあと先](https://open.spotify.com/track/0SgYt8eA6YddiwX3Qk21zu) | [進藤雨日](https://open.spotify.com/artist/77JS0Avv5cFb8Cfy2UCJOL) | [虹のあと先](https://open.spotify.com/album/522z7wuqPKo25cpaG6YQZi) | 3:43 |
-| 30 | [Sober](https://open.spotify.com/track/2I12Mz3T1C0gIHkeJ6ecTQ) | [muzik will](https://open.spotify.com/artist/46zWI7YGMpEHDkjrI3AIkY), [森田美勇人](https://open.spotify.com/artist/1L1tpdNjFypLmr27gNi8KR) | [Sober](https://open.spotify.com/album/1VRejdTez5JFQNmCb2Tu48) | 3:49 |
+| 30 | [Sober](https://open.spotify.com/track/2I12Mz3T1C0gIHkeJ6ecTQ) | [muzik will](https://open.spotify.com/artist/46zWI7YGMpEHDkjrI3AIkY), [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [Sober](https://open.spotify.com/album/1VRejdTez5JFQNmCb2Tu48) | 3:49 |
 | 31 | [OH!!](https://open.spotify.com/track/79uxzATPUq7SzitjMOnuA3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [HoYoFair](https://open.spotify.com/artist/1PMdsoejY7SYqAuTysCeHM) | [OH!!](https://open.spotify.com/album/3Lf8hZxLiIOI0b2ktsijhC) | 2:46 |
 | 32 | [Baptism](https://open.spotify.com/track/7K5gAwput97pvaKzALHb4F) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Baptism](https://open.spotify.com/album/6Zm7QkoygwRGOH1oMBYMFd) | 2:27 |
 | 33 | [Cider](https://open.spotify.com/track/4EGuQA4LYzVWHEWVywmYvw) | [めっちゃ美人](https://open.spotify.com/artist/3qFK1j4FfFGUiR7EeeLbuZ) | [Cider](https://open.spotify.com/album/68EOb9ypwPPLymBUjifzST) | 4:32 |

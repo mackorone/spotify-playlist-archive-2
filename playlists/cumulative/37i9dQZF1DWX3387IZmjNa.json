@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 148646,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC"
@@ -4721,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Zavier",
+        "url": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289849,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/5qkD55wolSZy4qILVbleZL"
+    },
+    {
+      "album": {
         "name": "Nardy World",
         "url": "https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy"
       },
@@ -6590,7 +6608,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 200860,
       "name": "I'll Take Care of You (feat. Yebba)",
       "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
@@ -7916,7 +7934,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 205543,
       "name": "Let You Go (feat. K CAMP)",
       "url": "https://open.spotify.com/track/0y0cBVbszayYRR5JGON18y"
@@ -9707,6 +9725,28 @@
     },
     {
       "album": {
+        "name": "Zavier",
+        "url": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127538,
+      "name": "Nasty (feat. Tink)",
+      "url": "https://open.spotify.com/track/2037fvN0RzJvfWYYGdhnHo"
+    },
+    {
+      "album": {
         "name": "Need Me",
         "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
       },
@@ -10799,6 +10839,28 @@
     },
     {
       "album": {
+        "name": "R&P",
+        "url": "https://open.spotify.com/album/5C5TIdXReVq2HCmUywxMMk"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/4aqTcNuVfuLLbRP5eQq30t"
+    },
+    {
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv"
       },
@@ -11212,7 +11274,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 218783,
       "name": "Pretty Brown (feat. Lil Baby & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/2okwe0FT7oR150QcIWde38"
@@ -12540,6 +12602,24 @@
       "duration_ms": 172725,
       "name": "Self Worth (feat. Lil Perco)",
       "url": "https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N"
+    },
+    {
+      "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/0e6v67BMI3rpqW88oEN2zW"
+      },
+      "artists": [
+        {
+          "name": "Mellow Rackz",
+          "url": "https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196207,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/27IaUOb9H2wAhFzm7epiHa"
     },
     {
       "album": {

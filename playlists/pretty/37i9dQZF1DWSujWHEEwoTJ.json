@@ -1,15 +1,51 @@
 {
-  "description": "rolitas chilas para chirotear y pegar un bailad\u00f3n con Javier Rosas, Los Pikadientes de Caborca.",
-  "num_followers": 105976,
+  "description": "rolitas chilas para chirotear y pegar un bailad\u00f3n con Grupo Laberinto.",
+  "num_followers": 106078,
   "original_name": "As\u00ed Se Baila en Sonora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADSFdweTPqzhcWGrAtSyuAYDAUNd",
+  "snapshot_id": "AAAAAH9QR4jW8YaIUyQ1x4j/p4bUxBaf",
   "tracks": [
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "El Shampoo",
+        "url": "https://open.spotify.com/album/5ITv0sNGXkWvGzSdJd1TzM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 176482,
+      "name": "El Shampoo",
+      "url": "https://open.spotify.com/track/6VYo7mksStTsECiWM5VWT8"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Mi Cuchicuchi",
+        "url": "https://open.spotify.com/album/1gitcOjLieddsIneXMuK2m"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 187458,
+      "name": "Mi Cuchicuchi",
+      "url": "https://open.spotify.com/track/3iT8MUB4uGfSDJHBrdsQrf"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Sabor a Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/14vNYPsl5vy9Efh1FAN8xd"
@@ -29,7 +65,7 @@
       "url": "https://open.spotify.com/track/5tGio1uflt5pqRx8Ym6XfQ"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Ya No Hay Beatles (2026 Remasterizada)",
         "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
@@ -45,271 +81,7 @@
       "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Su Majestad la Brissa Puros Exitos",
-        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
-      },
-      "artists": [
-        {
-          "name": "La Brissa",
-          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
-        }
-      ],
-      "duration_ms": 203937,
-      "name": "Palillos Chinos",
-      "url": "https://open.spotify.com/track/1C2DfeufH4s5oJqLTIqFR8"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Me Voy al Amanecer",
-        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 202029,
-      "name": "Me Voy al Amanecer",
-      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Martin Ramos",
-          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
-      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Medley Cumbias Norte\u00f1as",
-        "url": "https://open.spotify.com/album/5qGxG1CfnedlNfhQ3S0OGZ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 447861,
-      "name": "Medley Cumbias Norte\u00f1as",
-      "url": "https://open.spotify.com/track/1miIc1olKX1utJvONmiL7B"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "De Sonora Para El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/1II1iynAYvstYcE7OmnKcm"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Columba - En Vivo",
-      "url": "https://open.spotify.com/track/7kFDwrnlg5yyeT30H5H55r"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Puro Sabor Sonorense",
-        "url": "https://open.spotify.com/album/4b8Y9wi0oH1EUPe55AjR8P"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Ka\u00f1a",
-          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 184814,
-      "name": "Qu\u00e9 Te Pasa?",
-      "url": "https://open.spotify.com/track/4nBNxwaTIYus8ZHDW5NmBb"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Cumbia del Sol - En Vivo",
-      "url": "https://open.spotify.com/track/1pjaMBzCmfsAJCAHtw106f"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Sabor A Sonora (En Vivo)",
-        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Pikadientes De Caborca",
-          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
-        }
-      ],
-      "duration_ms": 143445,
-      "name": "Sabor A Sonora - En Vivo",
-      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
-        "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Sera El Amor",
-      "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "La Concentraci\u00f3n, Vol. XXV",
-        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
-      },
-      "artists": [
-        {
-          "name": "La Concentracion",
-          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
-        }
-      ],
-      "duration_ms": 154097,
-      "name": "La Mini Mini",
-      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 174528,
-      "name": "La Gozadera - En Vivo",
-      "url": "https://open.spotify.com/track/5kiRTlhM3qC4OdNeXSVieC"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Desde El Expendio (En Vivo)",
-        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Me Va, Me Va (En Vivo)",
-      "url": "https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Bombon",
-        "url": "https://open.spotify.com/album/5nAxq1JvXu0FqrbJoEW09R"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Ka\u00f1a",
-          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Bombon",
-      "url": "https://open.spotify.com/track/3zD6xoQSbC0ILyy4cR4Bgw"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Sabor a Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/14vNYPsl5vy9Efh1FAN8xd"
@@ -329,55 +101,47 @@
       "url": "https://open.spotify.com/track/2RCzONpNEqvozKMgFUX1Xj"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "30 Exitos Vol.2",
-        "url": "https://open.spotify.com/album/6Jjfic29AYbmebTBSS8igs"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
       "artists": [
         {
-          "name": "Fabian Gomez",
-          "url": "https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
         }
       ],
-      "duration_ms": 184946,
-      "name": "La Vivora",
-      "url": "https://open.spotify.com/track/5S7s0qVdpxeQ7vUYhzyikJ"
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
+      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Su Majestad la Brissa Puros Exitos",
-        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
+        "name": "Puro Sabor Sonorense",
+        "url": "https://open.spotify.com/album/4b8Y9wi0oH1EUPe55AjR8P"
       },
       "artists": [
         {
-          "name": "La Brissa",
-          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
-        }
-      ],
-      "duration_ms": 186148,
-      "name": "Bota la Bata",
-      "url": "https://open.spotify.com/track/24WCqEUzGi4fEUCbChJVLl"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "El Amante Apasionado",
-        "url": "https://open.spotify.com/album/3vIrv4u4B6cPDlK2N3rnq0"
-      },
-      "artists": [
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+        },
         {
-          "name": "Grupo La Concentracion",
-          "url": "https://open.spotify.com/artist/5XXhD6bi6xzejMSdHajcJQ"
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "duration_ms": 177214,
-      "name": "Vacilando",
-      "url": "https://open.spotify.com/track/1NO3zXyJJBUAfOt33wEZCY"
+      "duration_ms": 184814,
+      "name": "Qu\u00e9 Te Pasa?",
+      "url": "https://open.spotify.com/track/4nBNxwaTIYus8ZHDW5NmBb"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "De Sonora Para El Mundo (En Vivo)",
         "url": "https://open.spotify.com/album/1II1iynAYvstYcE7OmnKcm"
@@ -392,99 +156,51 @@
           "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 251008,
-      "name": "Popurr\u00ed: \u00bfC\u00f3mo Est\u00e1s T\u00fa? / Te lo Pido Por Favor - En Vivo",
-      "url": "https://open.spotify.com/track/4iY0sp58OJvpjVGQwl5l7U"
+      "duration_ms": 193173,
+      "name": "Columba - En Vivo",
+      "url": "https://open.spotify.com/track/7kFDwrnlg5yyeT30H5H55r"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Abril 2017",
-        "url": "https://open.spotify.com/album/3eihungDD4mbKjGF6R5fMC"
+        "name": "Me Voy al Amanecer",
+        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
       "artists": [
         {
-          "name": "La Concentracion",
-          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
-        }
-      ],
-      "duration_ms": 196201,
-      "name": "El Ni\u00f1o Perdido",
-      "url": "https://open.spotify.com/track/6IKVQW22Uab7jhOJirI1FA"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Hermosillo Retro (Cover)",
-        "url": "https://open.spotify.com/album/7kwqbqcOiBiGLdIGMtx2rl"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chisspa",
-          "url": "https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV"
-        }
-      ],
-      "duration_ms": 411500,
-      "name": "Bailando Con Manuel el Indio Ortega - Cover",
-      "url": "https://open.spotify.com/track/0HanLnbjLDoHHwqVATyAHs"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache (En Vivo)",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
-      },
-      "artists": [
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
         {
           "name": "Tony Aguirre",
           "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+      "duration_ms": 202029,
+      "name": "Me Voy al Amanecer",
+      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
+        "name": "Su Majestad la Brissa Puros Exitos",
+        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
       },
       "artists": [
         {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "La Brissa",
+          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
         }
       ],
-      "duration_ms": 208882,
-      "name": "Viva el Amor",
-      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
+      "duration_ms": 203937,
+      "name": "Palillos Chinos",
+      "url": "https://open.spotify.com/track/1C2DfeufH4s5oJqLTIqFR8"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "La Dulzura Musical: Arroz Con Camar\u00f3n",
-        "url": "https://open.spotify.com/album/4EyX3M2zi7afwAzIFk4EJr"
+        "name": "Bombon",
+        "url": "https://open.spotify.com/album/5nAxq1JvXu0FqrbJoEW09R"
       },
       "artists": [
         {
@@ -492,12 +208,72 @@
           "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
         }
       ],
-      "duration_ms": 166314,
-      "name": "Arroz Con Camar\u00f3n",
-      "url": "https://open.spotify.com/track/2l2Jb6EgMVFypKy334jK97"
+      "duration_ms": 167648,
+      "name": "Bombon",
+      "url": "https://open.spotify.com/track/3zD6xoQSbC0ILyy4cR4Bgw"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Sabor A Sonora (En Vivo)",
+        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        }
+      ],
+      "duration_ms": 143445,
+      "name": "Sabor A Sonora - En Vivo",
+      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 175573,
+      "name": "Cumbia del Sol - En Vivo",
+      "url": "https://open.spotify.com/track/1pjaMBzCmfsAJCAHtw106f"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Medley Cumbias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/5qGxG1CfnedlNfhQ3S0OGZ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 447861,
+      "name": "Medley Cumbias Norte\u00f1as",
+      "url": "https://open.spotify.com/track/1miIc1olKX1utJvONmiL7B"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Sabor a Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/14vNYPsl5vy9Efh1FAN8xd"
@@ -517,58 +293,50 @@
       "url": "https://open.spotify.com/track/4ENdumVZitoadI25drTyW6"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "La Parranda",
-        "url": "https://open.spotify.com/album/5JB1LQP5SHE7gkO3olHaAO"
+        "name": "De Sonora Para El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/1II1iynAYvstYcE7OmnKcm"
       },
       "artists": [
         {
-          "name": "Remolinos De Fabian Gomez",
-          "url": "https://open.spotify.com/artist/5eR6z87GicGwCHgsEgrN4k"
-        }
-      ],
-      "duration_ms": 156316,
-      "name": "La Picare",
-      "url": "https://open.spotify.com/track/3093JTV4C7j3OgiUfZ59dN"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Hermosillo Retro (Cover)",
-        "url": "https://open.spotify.com/album/7kwqbqcOiBiGLdIGMtx2rl"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chisspa",
-          "url": "https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "La Coloreteada - Cover",
-      "url": "https://open.spotify.com/track/6CUbSIlSVCypJYijtVn4fr"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "La Colaless",
-        "url": "https://open.spotify.com/album/2c133xBiAUt1arwfpl50ov"
-      },
-      "artists": [
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
         {
           "name": "Su Majestad La Brissa",
           "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 202292,
-      "name": "La Colaless",
-      "url": "https://open.spotify.com/track/4Ck9o9UueluPLXnLlasm4k"
+      "duration_ms": 251008,
+      "name": "Popurr\u00ed: \u00bfC\u00f3mo Est\u00e1s T\u00fa? / Te lo Pido Por Favor - En Vivo",
+      "url": "https://open.spotify.com/track/4iY0sp58OJvpjVGQwl5l7U"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "20 \u00c9xitos de Lujo, Vol. 1",
-        "url": "https://open.spotify.com/album/55dCws3WoXiuADY7cclzeI"
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 174528,
+      "name": "La Gozadera - En Vivo",
+      "url": "https://open.spotify.com/track/5kiRTlhM3qC4OdNeXSVieC"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "La Concentraci\u00f3n, Vol. XXV",
+        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
       },
       "artists": [
         {
@@ -576,31 +344,67 @@
           "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
         }
       ],
-      "duration_ms": 199552,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/40DoqPKKYnpzdiI9ifIOei"
+      "duration_ms": 154097,
+      "name": "La Mini Mini",
+      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "El Brinquito",
-        "url": "https://open.spotify.com/album/1DEByvGnNnu3DwCOwc7YBg"
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
       "artists": [
         {
-          "name": "Juan Ortega y Su Grupo",
-          "url": "https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv"
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "duration_ms": 168280,
-      "name": "La Tarara",
-      "url": "https://open.spotify.com/track/6JnNXKKAc8d1Ii4yR6WGRw"
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "20 \u00c9xitos de Lujo, Vol. 1",
-        "url": "https://open.spotify.com/album/55dCws3WoXiuADY7cclzeI"
+        "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
+        "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Sera El Amor",
+      "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "V\u00e1monos Pa'l R\u00edo",
+        "url": "https://open.spotify.com/album/1dAgTGIJZ1KjXJLMU6wfi9"
+      },
+      "artists": [
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        }
+      ],
+      "duration_ms": 104760,
+      "name": "La Cumbia del R\u00edo",
+      "url": "https://open.spotify.com/track/1Xrg7xC0pXOEErZ3NwMBia"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "La Concentraci\u00f3n, Vol. XXIII",
+        "url": "https://open.spotify.com/album/78sMWvQkfV792GhIZJxCaZ"
       },
       "artists": [
         {
@@ -608,28 +412,44 @@
           "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
         }
       ],
-      "duration_ms": 135264,
-      "name": "La Abeja Miope",
-      "url": "https://open.spotify.com/track/0PoGqG4N6wnGVJ2n7WOXvN"
+      "duration_ms": 175055,
+      "name": "El Violin Borracho (La Borrachera)",
+      "url": "https://open.spotify.com/track/71p6P4iTlZH3FHe6MHKObw"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Variado En Vivo, Vol. 1",
-        "url": "https://open.spotify.com/album/5tsBqX5L0xpC91AzhvZG3l"
+        "name": "La Danza del Coyote",
+        "url": "https://open.spotify.com/album/2oIVSAb3jT2gWtz6XEJMY6"
       },
       "artists": [
         {
-          "name": "Juan Ortega y Su Grupo",
-          "url": "https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv"
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "duration_ms": 136150,
-      "name": "La Chuchis",
-      "url": "https://open.spotify.com/track/1ztMtk3RP2C0PXGYPU29py"
+      "duration_ms": 151797,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/1gK1asb0kUSU2gBrqkFGVE"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "LA LUL\u00da",
+        "url": "https://open.spotify.com/album/4W1mJAI2KIocK9IwBkn9ru"
+      },
+      "artists": [
+        {
+          "name": "El Se\u00f1or\u00f3n de la Cumbia Juan Ortega y su Grupo",
+          "url": "https://open.spotify.com/artist/5Y49bhf2ZrjjcsgwSRz6rz"
+        }
+      ],
+      "duration_ms": 162648,
+      "name": "LA LUL\u00da",
+      "url": "https://open.spotify.com/track/5mjTwiex2WaAljNBK3FK7b"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
@@ -649,42 +469,10 @@
       "url": "https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "LA LUL\u00da",
-        "url": "https://open.spotify.com/album/4W1mJAI2KIocK9IwBkn9ru"
-      },
-      "artists": [
-        {
-          "name": "El Se\u00f1or\u00f3n de la Cumbia Juan Ortega y su Grupo",
-          "url": "https://open.spotify.com/artist/5Y49bhf2ZrjjcsgwSRz6rz"
-        }
-      ],
-      "duration_ms": 162648,
-      "name": "LA LUL\u00da",
-      "url": "https://open.spotify.com/track/5mjTwiex2WaAljNBK3FK7b"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "La Danza del Coyote",
-        "url": "https://open.spotify.com/album/2oIVSAb3jT2gWtz6XEJMY6"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 151797,
-      "name": "La Danza del Coyote",
-      "url": "https://open.spotify.com/track/1gK1asb0kUSU2gBrqkFGVE"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "La Concentraci\u00f3n, Vol. XXIII",
-        "url": "https://open.spotify.com/album/78sMWvQkfV792GhIZJxCaZ"
+        "name": "20 \u00c9xitos de Lujo, Vol. 1",
+        "url": "https://open.spotify.com/album/55dCws3WoXiuADY7cclzeI"
       },
       "artists": [
         {
@@ -692,92 +480,176 @@
           "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
         }
       ],
-      "duration_ms": 175055,
-      "name": "El Violin Borracho (La Borrachera)",
-      "url": "https://open.spotify.com/track/71p6P4iTlZH3FHe6MHKObw"
+      "duration_ms": 135264,
+      "name": "La Abeja Miope",
+      "url": "https://open.spotify.com/track/0PoGqG4N6wnGVJ2n7WOXvN"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "V\u00e1monos Pa'l R\u00edo",
-        "url": "https://open.spotify.com/album/1dAgTGIJZ1KjXJLMU6wfi9"
+        "name": "20 \u00c9xitos de Lujo, Vol. 1",
+        "url": "https://open.spotify.com/album/55dCws3WoXiuADY7cclzeI"
       },
       "artists": [
         {
-          "name": "Los Pikadientes De Caborca",
-          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+          "name": "La Concentracion",
+          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
         }
       ],
-      "duration_ms": 104760,
-      "name": "La Cumbia del R\u00edo",
-      "url": "https://open.spotify.com/track/1Xrg7xC0pXOEErZ3NwMBia"
+      "duration_ms": 199552,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/40DoqPKKYnpzdiI9ifIOei"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "24 Kilates de Exitos, Vol. 2",
-        "url": "https://open.spotify.com/album/76b0KICE8OZZgqn8EBCD9V"
+        "name": "Hermosillo Retro (Cover)",
+        "url": "https://open.spotify.com/album/7kwqbqcOiBiGLdIGMtx2rl"
       },
       "artists": [
         {
-          "name": "Tropical Del Bravo",
-          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+          "name": "Grupo La Chisspa",
+          "url": "https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV"
         }
       ],
-      "duration_ms": 185756,
-      "name": "Limonadas Verdes",
-      "url": "https://open.spotify.com/track/00O0urjIdlAHkwmIAVt3zZ"
+      "duration_ms": 170895,
+      "name": "La Coloreteada - Cover",
+      "url": "https://open.spotify.com/track/6CUbSIlSVCypJYijtVn4fr"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Que Perra Cumbia",
-        "url": "https://open.spotify.com/album/1bODvxqnzjDaCMqcGMdESG"
+        "name": "La Parranda",
+        "url": "https://open.spotify.com/album/5JB1LQP5SHE7gkO3olHaAO"
       },
       "artists": [
         {
-          "name": "Grupo La Ka\u00f1a",
-          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+          "name": "Remolinos De Fabian Gomez",
+          "url": "https://open.spotify.com/artist/5eR6z87GicGwCHgsEgrN4k"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Al G\u00fcero Se Le Ve",
-      "url": "https://open.spotify.com/track/6HUMHjTiTcHR6jJlvIGZeo"
+      "duration_ms": 156316,
+      "name": "La Picare",
+      "url": "https://open.spotify.com/track/3093JTV4C7j3OgiUfZ59dN"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/15AbfzKLreIEl1mkKUxkZy"
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 186680,
-      "name": "La Hierba Se Movia",
-      "url": "https://open.spotify.com/track/5uzcZvm3WZPorCXHVw2p7X"
+      "duration_ms": 208882,
+      "name": "Viva el Amor",
+      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/12hFKKktJwgPsjqK4XuvWX"
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
       "artists": [
         {
-          "name": "Organizaci\u00f3n Zeta",
-          "url": "https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 261363,
-      "name": "Cuando Estoy Lejos de T\u00ed",
-      "url": "https://open.spotify.com/track/1rthqRlaAtdgtZifR1vVbE"
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache (En Vivo)",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Hermosillo Retro (Cover)",
+        "url": "https://open.spotify.com/album/7kwqbqcOiBiGLdIGMtx2rl"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Chisspa",
+          "url": "https://open.spotify.com/artist/6h9YWtI5lP78mkysDJU8JV"
+        }
+      ],
+      "duration_ms": 411500,
+      "name": "Bailando Con Manuel el Indio Ortega - Cover",
+      "url": "https://open.spotify.com/track/0HanLnbjLDoHHwqVATyAHs"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Abril 2017",
+        "url": "https://open.spotify.com/album/3eihungDD4mbKjGF6R5fMC"
+      },
+      "artists": [
+        {
+          "name": "La Concentracion",
+          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
+        }
+      ],
+      "duration_ms": 196201,
+      "name": "El Ni\u00f1o Perdido",
+      "url": "https://open.spotify.com/track/6IKVQW22Uab7jhOJirI1FA"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "El Amante Apasionado",
+        "url": "https://open.spotify.com/album/3vIrv4u4B6cPDlK2N3rnq0"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Concentracion",
+          "url": "https://open.spotify.com/artist/5XXhD6bi6xzejMSdHajcJQ"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Vacilando",
+      "url": "https://open.spotify.com/track/1NO3zXyJJBUAfOt33wEZCY"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "30 Exitos Vol.2",
+        "url": "https://open.spotify.com/album/6Jjfic29AYbmebTBSS8igs"
+      },
+      "artists": [
+        {
+          "name": "Fabian Gomez",
+          "url": "https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "La Vivora",
+      "url": "https://open.spotify.com/track/5S7s0qVdpxeQ7vUYhzyikJ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
@@ -792,300 +664,12 @@
           "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 244000,
-      "name": "La Colaless (En Vivo)",
-      "url": "https://open.spotify.com/track/1MZqax5Y23EZZLXq2EQE6d"
+      "duration_ms": 197000,
+      "name": "Me Va, Me Va (En Vivo)",
+      "url": "https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Estate Quieto",
-        "url": "https://open.spotify.com/album/6U7ExK0qAUogq9I0CCneUy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 179919,
-      "name": "Che Che Cole",
-      "url": "https://open.spotify.com/track/0qwVUry4sGEqAaTBGaStxU"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Reina M\u00eda (Remastered 2025)",
-        "url": "https://open.spotify.com/album/74l9JlSBnguab60eT0z7cN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 167114,
-      "name": "El Esquimal - Remastered 2025",
-      "url": "https://open.spotify.com/track/0kKMwZUlRicGgjMYDUP4mo"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Roberto Ruiz",
-      "url": "https://open.spotify.com/track/4CbUdyZJgo1TKjIsgPTGYu"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "El Telegrama",
-        "url": "https://open.spotify.com/album/77Rt5bCJA8pZRjeDZ73BRD"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        },
-        {
-          "name": "Tambora Ritmo Express",
-          "url": "https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6"
-        }
-      ],
-      "duration_ms": 179962,
-      "name": "El Telegrama",
-      "url": "https://open.spotify.com/track/0HP1iVoeC4HwnqVcwbHpgk"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "El Rock del Sapo",
-        "url": "https://open.spotify.com/album/0GJq7UYxFQjS5yw2kGgNWE"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "El Rock del Sapo",
-      "url": "https://open.spotify.com/track/5QEARMIZIxMnaSmVScBKIx"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Quihubole Qu\u00e9 Qu\u00e9",
-        "url": "https://open.spotify.com/album/3AoURVPghSQevMdVstwBOO"
-      },
-      "artists": [
-        {
-          "name": "Organizaci\u00f3n Zeta",
-          "url": "https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag"
-        }
-      ],
-      "duration_ms": 141316,
-      "name": "Quihubole Qu\u00e9 Qu\u00e9",
-      "url": "https://open.spotify.com/track/4XLlUe2IT81dWJnJVYYA3r"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Juana La Cubana",
-        "url": "https://open.spotify.com/album/01o1NYzw2AtUUsO4FjLKY3"
-      },
-      "artists": [
-        {
-          "name": "La Brissa",
-          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/7B96NlnVjnU2GQzkTaK9EI"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Clasicos Y Algo Mas",
-        "url": "https://open.spotify.com/album/4w7Uf4im1prkdHKA5ucsSB"
-      },
-      "artists": [
-        {
-          "name": "La Brazza Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/3EDb8bjaw9warP34p1hd2v"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "El Son de La Negra y Juan Colorado",
-      "url": "https://open.spotify.com/track/4NjtrwRl1BuY52YrwMxzfK"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Su Majestad la Brissa Puros Exitos",
-        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
-      },
-      "artists": [
-        {
-          "name": "La Brissa",
-          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
-        }
-      ],
-      "duration_ms": 203467,
-      "name": "Las Chiquitas",
-      "url": "https://open.spotify.com/track/5uO8ocgbzcvHqJCOLFCoVc"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Tema De La Concentraci\u00f3n",
-        "url": "https://open.spotify.com/album/5EcWszM2afSFeHY8lbt4JU"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Concentracion",
-          "url": "https://open.spotify.com/artist/5XXhD6bi6xzejMSdHajcJQ"
-        }
-      ],
-      "duration_ms": 136185,
-      "name": "Nery",
-      "url": "https://open.spotify.com/track/7alpHXNCW67UeqVboWwzq8"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 157951,
-      "name": "Cachito de Mi Coraz\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/2lzxtaAQs1MnsCO6SldqxK"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "30 Exitos Vol.2",
-        "url": "https://open.spotify.com/album/6Jjfic29AYbmebTBSS8igs"
-      },
-      "artists": [
-        {
-          "name": "Fabian Gomez",
-          "url": "https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3"
-        }
-      ],
-      "duration_ms": 147069,
-      "name": "La Karusita",
-      "url": "https://open.spotify.com/track/5sOtYA3qIH0mjV6TyBJX7m"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Canchame",
-        "url": "https://open.spotify.com/album/5HjxhORW4pyCyut2V9q24Z"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Ka\u00f1a",
-          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
-        }
-      ],
-      "duration_ms": 207354,
-      "name": "Canchame",
-      "url": "https://open.spotify.com/track/4Ql3XTneLfSEfGCteMeFPD"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 172117,
-      "name": "Carola - En Vivo",
-      "url": "https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "JJ Araujo",
-          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
-        }
-      ],
-      "duration_ms": 128073,
-      "name": "Me Aceptaste (En Vivo)",
-      "url": "https://open.spotify.com/track/3PatPHb6rdyOlPx6NVtnhO"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Desde la Expogan 2023",
-        "url": "https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 138332,
-      "name": "La Maquina",
-      "url": "https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
-      "album": {
-        "name": "Loz Kompaz del Rafa, Vol. 1",
-        "url": "https://open.spotify.com/album/6nPkhygcAvt8JGxqLuIGBA"
-      },
-      "artists": [
-        {
-          "name": "Loz Kompaz Del Rafa",
-          "url": "https://open.spotify.com/artist/78Ko9iWFzyfHJVo5ZxDp4r"
-        }
-      ],
-      "duration_ms": 156525,
-      "name": "Peligroza",
-      "url": "https://open.spotify.com/track/0ruF0AteIRRKUDeghSndeg"
-    },
-    {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
@@ -1105,58 +689,186 @@
       "url": "https://open.spotify.com/track/7IZAE33NUf3QS0wGtHlpQA"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "M\u00e1s Pa\u00b4rriba",
-        "url": "https://open.spotify.com/album/5zksFdXwzdlES53w04VWxb"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
       "artists": [
         {
-          "name": "Organizaci\u00f3n Zeta",
-          "url": "https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "JJ Araujo",
+          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
         }
       ],
-      "duration_ms": 200899,
-      "name": "Africanos al Ataque",
-      "url": "https://open.spotify.com/track/08OMYwvk6vte5sHkVAGxcL"
+      "duration_ms": 128073,
+      "name": "Me Aceptaste (En Vivo)",
+      "url": "https://open.spotify.com/track/3PatPHb6rdyOlPx6NVtnhO"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "La Cachonda",
-        "url": "https://open.spotify.com/album/4hOWkUhVd3FX84YpRSj0ZP"
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
       "artists": [
         {
-          "name": "Tropocalisimo Apache Nueva Imagen",
-          "url": "https://open.spotify.com/artist/66CFozLd71FDNMYa8kaHAw"
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "duration_ms": 179586,
-      "name": "La Cachonda",
-      "url": "https://open.spotify.com/track/0AechHeAzoCetuPq5pGC29"
+      "duration_ms": 172117,
+      "name": "Carola - En Vivo",
+      "url": "https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "PautAzul",
-        "url": "https://open.spotify.com/album/22X42Hu7v0Dv5F4kH6qK6R"
+        "name": "Canchame",
+        "url": "https://open.spotify.com/album/5HjxhORW4pyCyut2V9q24Z"
       },
       "artists": [
         {
-          "name": "Grupo PautAzul",
-          "url": "https://open.spotify.com/artist/7ddJnv9Z6QYeRTK9AAp7fM"
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
         }
       ],
-      "duration_ms": 209763,
-      "name": "La Pergola",
-      "url": "https://open.spotify.com/track/6dHS9VwI5uiikL7ndmUXy1"
+      "duration_ms": 207354,
+      "name": "Canchame",
+      "url": "https://open.spotify.com/track/4Ql3XTneLfSEfGCteMeFPD"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Variado En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI"
+        "name": "Clasicos Y Algo Mas",
+        "url": "https://open.spotify.com/album/4w7Uf4im1prkdHKA5ucsSB"
+      },
+      "artists": [
+        {
+          "name": "La Brazza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/3EDb8bjaw9warP34p1hd2v"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "El Son de La Negra y Juan Colorado",
+      "url": "https://open.spotify.com/track/4NjtrwRl1BuY52YrwMxzfK"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "El Telegrama",
+        "url": "https://open.spotify.com/album/77Rt5bCJA8pZRjeDZ73BRD"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        },
+        {
+          "name": "Tambora Ritmo Express",
+          "url": "https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6"
+        }
+      ],
+      "duration_ms": 179962,
+      "name": "El Telegrama",
+      "url": "https://open.spotify.com/track/0HP1iVoeC4HwnqVcwbHpgk"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Reina M\u00eda (Remastered 2025)",
+        "url": "https://open.spotify.com/album/74l9JlSBnguab60eT0z7cN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 167114,
+      "name": "El Esquimal - Remastered 2025",
+      "url": "https://open.spotify.com/track/0kKMwZUlRicGgjMYDUP4mo"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Estate Quieto",
+        "url": "https://open.spotify.com/album/6U7ExK0qAUogq9I0CCneUy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 179919,
+      "name": "Che Che Cole",
+      "url": "https://open.spotify.com/track/0qwVUry4sGEqAaTBGaStxU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Desde El Expendio (En Vivo)",
+        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "La Colaless (En Vivo)",
+      "url": "https://open.spotify.com/track/1MZqax5Y23EZZLXq2EQE6d"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Que Perra Cumbia",
+        "url": "https://open.spotify.com/album/1bODvxqnzjDaCMqcGMdESG"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Al G\u00fcero Se Le Ve",
+      "url": "https://open.spotify.com/track/6HUMHjTiTcHR6jJlvIGZeo"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "24 Kilates de Exitos, Vol. 2",
+        "url": "https://open.spotify.com/album/76b0KICE8OZZgqn8EBCD9V"
+      },
+      "artists": [
+        {
+          "name": "Tropical Del Bravo",
+          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Limonadas Verdes",
+      "url": "https://open.spotify.com/track/00O0urjIdlAHkwmIAVt3zZ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Variado En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/5tsBqX5L0xpC91AzhvZG3l"
       },
       "artists": [
         {
@@ -1164,12 +876,28 @@
           "url": "https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv"
         }
       ],
-      "duration_ms": 136698,
-      "name": "La Cadenita",
-      "url": "https://open.spotify.com/track/7cWcOgDdbEW875IiLmJq1x"
+      "duration_ms": 136150,
+      "name": "La Chuchis",
+      "url": "https://open.spotify.com/track/1ztMtk3RP2C0PXGYPU29py"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "El Brinquito",
+        "url": "https://open.spotify.com/album/1DEByvGnNnu3DwCOwc7YBg"
+      },
+      "artists": [
+        {
+          "name": "Juan Ortega y Su Grupo",
+          "url": "https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "La Tarara",
+      "url": "https://open.spotify.com/track/6JnNXKKAc8d1Ii4yR6WGRw"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "La Colaless",
         "url": "https://open.spotify.com/album/2c133xBiAUt1arwfpl50ov"
@@ -1180,12 +908,44 @@
           "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Las Cosquillitas",
-      "url": "https://open.spotify.com/track/50NiiInvTmuxQPnT6vpjj9"
+      "duration_ms": 202292,
+      "name": "La Colaless",
+      "url": "https://open.spotify.com/track/4Ck9o9UueluPLXnLlasm4k"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "La Dulzura Musical: Arroz Con Camar\u00f3n",
+        "url": "https://open.spotify.com/album/4EyX3M2zi7afwAzIFk4EJr"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+        }
+      ],
+      "duration_ms": 166314,
+      "name": "Arroz Con Camar\u00f3n",
+      "url": "https://open.spotify.com/track/2l2Jb6EgMVFypKy334jK97"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Su Majestad la Brissa Puros Exitos",
+        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
+      },
+      "artists": [
+        {
+          "name": "La Brissa",
+          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
+        }
+      ],
+      "duration_ms": 186148,
+      "name": "Bota la Bata",
+      "url": "https://open.spotify.com/track/24WCqEUzGi4fEUCbChJVLl"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
       "album": {
         "name": "Ojitos Verdes",
         "url": "https://open.spotify.com/album/3KdYzSdkvKwY6sTFd8ob5Z"
@@ -1201,20 +961,264 @@
       "url": "https://open.spotify.com/track/0A6VL91K3Ukt8rOTWa6DIj"
     },
     {
-      "added_at": "2026-03-13 06:00:07",
+      "added_at": "2026-03-27 06:00:16",
       "album": {
-        "name": "Variado En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI"
+        "name": "La Colaless",
+        "url": "https://open.spotify.com/album/2c133xBiAUt1arwfpl50ov"
       },
       "artists": [
         {
-          "name": "Juan Ortega y Su Grupo",
-          "url": "https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv"
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 119797,
-      "name": "La Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1i3hexHTCygkR5DutLOyLp"
+      "duration_ms": 187533,
+      "name": "Las Cosquillitas",
+      "url": "https://open.spotify.com/track/50NiiInvTmuxQPnT6vpjj9"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "PautAzul",
+        "url": "https://open.spotify.com/album/22X42Hu7v0Dv5F4kH6qK6R"
+      },
+      "artists": [
+        {
+          "name": "Grupo PautAzul",
+          "url": "https://open.spotify.com/artist/7ddJnv9Z6QYeRTK9AAp7fM"
+        }
+      ],
+      "duration_ms": 209763,
+      "name": "La Pergola",
+      "url": "https://open.spotify.com/track/6dHS9VwI5uiikL7ndmUXy1"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "La Cachonda",
+        "url": "https://open.spotify.com/album/4hOWkUhVd3FX84YpRSj0ZP"
+      },
+      "artists": [
+        {
+          "name": "Tropocalisimo Apache Nueva Imagen",
+          "url": "https://open.spotify.com/artist/66CFozLd71FDNMYa8kaHAw"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "La Cachonda",
+      "url": "https://open.spotify.com/track/0AechHeAzoCetuPq5pGC29"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "M\u00e1s Pa\u00b4rriba",
+        "url": "https://open.spotify.com/album/5zksFdXwzdlES53w04VWxb"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n Zeta",
+          "url": "https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag"
+        }
+      ],
+      "duration_ms": 200899,
+      "name": "Africanos al Ataque",
+      "url": "https://open.spotify.com/track/08OMYwvk6vte5sHkVAGxcL"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Loz Kompaz del Rafa, Vol. 1",
+        "url": "https://open.spotify.com/album/6nPkhygcAvt8JGxqLuIGBA"
+      },
+      "artists": [
+        {
+          "name": "Loz Kompaz Del Rafa",
+          "url": "https://open.spotify.com/artist/78Ko9iWFzyfHJVo5ZxDp4r"
+        }
+      ],
+      "duration_ms": 156525,
+      "name": "Peligroza",
+      "url": "https://open.spotify.com/track/0ruF0AteIRRKUDeghSndeg"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Desde la Expogan 2023",
+        "url": "https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 138332,
+      "name": "La Maquina",
+      "url": "https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "30 Exitos Vol.2",
+        "url": "https://open.spotify.com/album/6Jjfic29AYbmebTBSS8igs"
+      },
+      "artists": [
+        {
+          "name": "Fabian Gomez",
+          "url": "https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3"
+        }
+      ],
+      "duration_ms": 147069,
+      "name": "La Karusita",
+      "url": "https://open.spotify.com/track/5sOtYA3qIH0mjV6TyBJX7m"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 157951,
+      "name": "Cachito de Mi Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/2lzxtaAQs1MnsCO6SldqxK"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Tema De La Concentraci\u00f3n",
+        "url": "https://open.spotify.com/album/5EcWszM2afSFeHY8lbt4JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Concentracion",
+          "url": "https://open.spotify.com/artist/5XXhD6bi6xzejMSdHajcJQ"
+        }
+      ],
+      "duration_ms": 136185,
+      "name": "Nery",
+      "url": "https://open.spotify.com/track/7alpHXNCW67UeqVboWwzq8"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Su Majestad la Brissa Puros Exitos",
+        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
+      },
+      "artists": [
+        {
+          "name": "La Brissa",
+          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
+        }
+      ],
+      "duration_ms": 203467,
+      "name": "Las Chiquitas",
+      "url": "https://open.spotify.com/track/5uO8ocgbzcvHqJCOLFCoVc"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Juana La Cubana",
+        "url": "https://open.spotify.com/album/01o1NYzw2AtUUsO4FjLKY3"
+      },
+      "artists": [
+        {
+          "name": "La Brissa",
+          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/7B96NlnVjnU2GQzkTaK9EI"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Quihubole Qu\u00e9 Qu\u00e9",
+        "url": "https://open.spotify.com/album/3AoURVPghSQevMdVstwBOO"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n Zeta",
+          "url": "https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag"
+        }
+      ],
+      "duration_ms": 141316,
+      "name": "Quihubole Qu\u00e9 Qu\u00e9",
+      "url": "https://open.spotify.com/track/4XLlUe2IT81dWJnJVYYA3r"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "El Rock del Sapo",
+        "url": "https://open.spotify.com/album/0GJq7UYxFQjS5yw2kGgNWE"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "El Rock del Sapo",
+      "url": "https://open.spotify.com/track/5QEARMIZIxMnaSmVScBKIx"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 186540,
+      "name": "Roberto Ruiz",
+      "url": "https://open.spotify.com/track/4CbUdyZJgo1TKjIsgPTGYu"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/12hFKKktJwgPsjqK4XuvWX"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n Zeta",
+          "url": "https://open.spotify.com/artist/3k5XDzucxU4YHKhkwquBag"
+        }
+      ],
+      "duration_ms": 261363,
+      "name": "Cuando Estoy Lejos de T\u00ed",
+      "url": "https://open.spotify.com/track/1rthqRlaAtdgtZifR1vVbE"
+    },
+    {
+      "added_at": "2026-03-27 06:00:16",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/15AbfzKLreIEl1mkKUxkZy"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "La Hierba Se Movia",
+      "url": "https://open.spotify.com/track/5uzcZvm3WZPorCXHVw2p7X"
     }
   ],
   "unique_name": "As\u00ed Se Baila en Sonora",

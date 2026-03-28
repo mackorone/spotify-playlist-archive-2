@@ -5091,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "DJ-Kicks: Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149067,
+      "name": "Home Station (DJ-Kicks Version)",
+      "url": "https://open.spotify.com/track/77795B8ZW6IwEFX3tlFWEQ"
+    },
+    {
+      "album": {
         "name": "skins n slime",
         "url": "https://open.spotify.com/album/2lZt4WuEVJQs8LgvG2oppf"
       },
@@ -7175,6 +7193,24 @@
     },
     {
       "album": {
+        "name": "Pioneers - Side A",
+        "url": "https://open.spotify.com/album/6YjdweVPM421ACofasXVx5"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157148,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/2U5AxuSELHPtgNNFT0X1Te"
+    },
+    {
+      "album": {
         "name": "Made In Silence",
         "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
       },
@@ -9064,7 +9100,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
@@ -9928,7 +9964,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 668246,
       "name": "th1 [evnslower]",
       "url": "https://open.spotify.com/track/4gtQeBKsAWeE3lKcC13TOH"

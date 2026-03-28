@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con RØZ hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,358 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 29 | [Deseo](https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Deseo](https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB) | 1:48 |
 | 30 | [Pupilas](https://open.spotify.com/track/2qJqelZWIDkwYbNhJeSYFg) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Pupilas](https://open.spotify.com/album/4o5oja6EsezIFPdwfZhV2e) | 3:12 |
 | 31 | [La Ocasión](https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [La Ocasión](https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V) | 2:37 |
-| 32 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 |
-| 33 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
+| 32 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
+| 33 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 |
 | 34 | [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 |
 | 35 | [PIKI](https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [PIKI](https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ) | 4:19 |
 | 36 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 69 | [bi333n](https://open.spotify.com/track/0DKhZC4VISPMkvP3zt8qj4) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [bi333n](https://open.spotify.com/album/2AqdCoRqdTKY6ktlALb2Pe) | 3:16 |
 | 70 | [Quiere cochinero](https://open.spotify.com/track/38pOl8Y8hZ3Zz2SZqvtTJS) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [Quiere cochinero](https://open.spotify.com/album/0d30ZwfEoue2bqplBtVM7P) | 2:11 |
 | 71 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |
-| 72 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 |
-| 73 | [Bit$h](https://open.spotify.com/track/3lgwYOFzntftXyYfSZAzZ1) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Bit$h](https://open.spotify.com/album/2AHWTdVpiqKu9O8DUzVNKh) | 2:42 |
+| 72 | [Bit$h](https://open.spotify.com/track/3lgwYOFzntftXyYfSZAzZ1) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Bit$h](https://open.spotify.com/album/2AHWTdVpiqKu9O8DUzVNKh) | 2:42 |
+| 73 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 |
 | 74 | [techno s3x!](https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [techno s3x!](https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc) | 2:25 |
 | 75 | [Off White](https://open.spotify.com/track/4sj7tghP47QWsae9SP6rBU) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Off White](https://open.spotify.com/album/5FKN5jNpd4K8VLE2PFIoFc) | 2:18 |
 | 76 | [Bachata para un feo](https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9) | [Zorritas en Bikini](https://open.spotify.com/album/7oZcKuM8XMieABtTqsNly7) | 2:40 |

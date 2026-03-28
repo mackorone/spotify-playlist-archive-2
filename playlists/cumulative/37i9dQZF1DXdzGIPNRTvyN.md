@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-451 songs - 21 hr 13 min
+452 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-26 |  |
 | [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 | 2023-09-01 | 2023-10-02 |
 | [Aere](https://open.spotify.com/track/71eaxB56hq5BteDIs7fztC) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Aere](https://open.spotify.com/album/7LtlzafUp8ro6oVduFe5gW) | 3:04 | 2025-07-09 |  |
+| [Agua Tranquila](https://open.spotify.com/track/3r2R9yM9lvWgZic3lnRBnn) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Agua Tranquila](https://open.spotify.com/album/24ExySexC5pNcLuEiGMnVp) | 2:57 | 2026-03-16 |  |
 | [Aimless \(Meditation\)](https://open.spotify.com/track/53HxHnrk7SBhZSpHLlnCXk) | [Elevated Ground](https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV) | [Aimless \(Meditation\)](https://open.spotify.com/album/7Ctf04HyAe3s7Kjos4UILf) | 2:28 | 2023-09-18 | 2025-10-02 |
 | [Alcaria Hot Springs](https://open.spotify.com/track/5CSBbRQ01ZLGVJhz70K5Ch) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alcaria Hot Springs](https://open.spotify.com/album/2MCRcVAOym1PlQKcaUJt8V) | 2:38 | 2023-10-26 |  |
 | [Allegro](https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegro](https://open.spotify.com/album/4eykRomPItwi8yylcsHXC9) | 2:11 | 2023-03-13 | 2023-03-21 |
@@ -101,7 +102,7 @@
 | [Downstream](https://open.spotify.com/track/4bw9fsggHJ0WUfkmKhC1ho) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Downstream](https://open.spotify.com/album/5pZQmbjbDURkn63lOe4pui) | 2:32 | 2025-10-01 |  |
 | [Draumkennd \(Sound Bath\)](https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Draumkennd \(Sound Bath\)](https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ) | 2:31 | 2023-03-20 | 2026-03-17 |
 | [Dream Sound Bath \(Water 528 Hz\)](https://open.spotify.com/track/2OYMRBNdWoRYfyNzHSs0aN) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Dream Sound Bath \(Water 528 Hz\)](https://open.spotify.com/album/0zp2qoNHZhteKoPzEPC6De) | 2:36 | 2023-12-18 | 2025-04-30 |
-| [Dreamcatcher](https://open.spotify.com/track/4A2JmTd01YNCzOMXjpwr5i) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Dreamcatcher](https://open.spotify.com/album/34Vl73RJNA5jugvhfzVqPA) | 3:12 | 2026-03-16 |  |
+| [Dreamcatcher](https://open.spotify.com/track/4A2JmTd01YNCzOMXjpwr5i) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Dreamcatcher](https://open.spotify.com/album/34Vl73RJNA5jugvhfzVqPA) | 3:12 | 2026-03-16 | 2026-03-28 |
 | [Dreamer's Lagoon](https://open.spotify.com/track/2ThXAQ9aRCJEBi3uwL6szQ) | [Infinity Drifter](https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B) | [Dreamer's Lagoon](https://open.spotify.com/album/0lUTIBDFnQAtBaK24GrjgR) | 3:34 | 2025-05-28 |  |
 | [Drift Into Bliss](https://open.spotify.com/track/6zmTz7l8hkKEvRbB2FOv3o) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drift Into Bliss](https://open.spotify.com/album/08Jdy5GrKftQxxM8GXSuKx) | 3:32 | 2024-10-24 | 2026-03-17 |
 | [Drifting](https://open.spotify.com/track/59R2NRjXgsC98rTiQGXmwN) | [Slowshore](https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K) | [Drifting](https://open.spotify.com/album/2D411fqyCNgb38hJXxi9MO) | 2:24 | 2026-03-16 | 2026-03-23 |

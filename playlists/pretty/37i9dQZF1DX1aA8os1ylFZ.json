@@ -1,6 +1,6 @@
 {
   "description": "Nieuwe R&B releases | Cover: Neema Nekesa",
-  "num_followers": 295018,
+  "num_followers": 295008,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -54,10 +54,14 @@
         {
           "name": "Bnnyhunna",
           "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 229573,
+      "name": "The Rock (feat. 3DDY)",
       "url": "https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM"
     },
     {
@@ -367,6 +371,22 @@
     {
       "added_at": "2026-03-26 23:00:25",
       "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 196270,
+      "name": "NOT FAIR",
+      "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
+    },
+    {
+      "added_at": "2026-03-26 23:00:25",
+      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -395,22 +415,6 @@
       "duration_ms": 130909,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
-    },
-    {
-      "added_at": "2026-03-26 23:00:25",
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 196270,
-      "name": "NOT FAIR",
-      "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
     },
     {
       "added_at": "2026-03-26 23:00:25",
@@ -715,26 +719,6 @@
     {
       "added_at": "2026-03-26 23:00:25",
       "album": {
-        "name": "CONCUBANIA",
-        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256084,
-      "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
-    },
-    {
-      "added_at": "2026-03-26 23:00:25",
-      "album": {
         "name": "U Gotta",
         "url": "https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci"
       },
@@ -771,6 +755,26 @@
     {
       "added_at": "2026-03-26 23:00:25",
       "album": {
+        "name": "CONCUBANIA",
+        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256084,
+      "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
+    },
+    {
+      "added_at": "2026-03-26 23:00:25",
+      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -799,22 +803,6 @@
       "duration_ms": 197952,
       "name": "back 'n forth",
       "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
-    },
-    {
-      "added_at": "2026-03-26 23:00:25",
-      "album": {
-        "name": "Desire - Spotify Singles",
-        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Desire - Spotify Singles",
-      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2026-03-26 23:00:25",
@@ -851,6 +839,22 @@
       "duration_ms": 138343,
       "name": "Playdoh",
       "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
+    },
+    {
+      "added_at": "2026-03-26 23:00:25",
+      "album": {
+        "name": "Desire - Spotify Singles",
+        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Desire - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2026-03-26 23:00:25",
@@ -1163,6 +1167,22 @@
       "duration_ms": 205160,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve"
+    },
+    {
+      "added_at": "2026-03-26 23:00:25",
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235511,
+      "name": "The WhatsApp Shakespeare.",
+      "url": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
     },
     {
       "added_at": "2026-03-26 23:00:25",
@@ -1679,22 +1699,6 @@
     {
       "added_at": "2026-03-26 23:00:25",
       "album": {
-        "name": "Words From Venus",
-        "url": "https://open.spotify.com/album/35gXzZCAYihydBIiivsmGr"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 114959,
-      "name": "Sonho (Summer)",
-      "url": "https://open.spotify.com/track/6yjfTTqYwypuxqICDMsm7Y"
-    },
-    {
-      "added_at": "2026-03-26 23:00:25",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ"
       },
@@ -1711,6 +1715,22 @@
     {
       "added_at": "2026-03-26 23:00:25",
       "album": {
+        "name": "Words From Venus",
+        "url": "https://open.spotify.com/album/35gXzZCAYihydBIiivsmGr"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 114959,
+      "name": "Sonho (Summer)",
+      "url": "https://open.spotify.com/track/6yjfTTqYwypuxqICDMsm7Y"
+    },
+    {
+      "added_at": "2026-03-26 23:00:25",
+      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
       },
@@ -1723,22 +1743,6 @@
       "duration_ms": 152727,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
-    },
-    {
-      "added_at": "2026-03-26 23:00:25",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/1nIGSOY1ko8wYh10bJuhan"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 109511,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/3KHIZHZ3wAfpPVYdQF7oAs"
     }
   ],
   "unique_name": "R&B Magic",

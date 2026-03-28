@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "PLAYLIST",
+        "url": "https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185447,
+      "name": "Dance For Me",
+      "url": "https://open.spotify.com/track/04joSDzlMnx2hgZr2LNWHr"
+    },
+    {
+      "album": {
         "name": "TRANSPARENT",
         "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
       },
@@ -462,6 +480,24 @@
       "duration_ms": 165882,
       "name": "DIABLO",
       "url": "https://open.spotify.com/track/3UZq0tLE3gNlnYQbpa7Veo"
+    },
+    {
+      "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "album": {
@@ -727,6 +763,24 @@
     },
     {
       "album": {
+        "name": "PLAYLIST",
+        "url": "https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195979,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/1zSH9tOGrtnEifKQDS8f26"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/6MAxLHsYH7uI7NM6w7A5Kb"
       },
@@ -782,6 +836,28 @@
       "duration_ms": 146358,
       "name": "Human",
       "url": "https://open.spotify.com/track/38aPeueGAUmEneEEJoANXO"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146129,
+      "name": "I Ain't Got No Worries (with R3HAB)",
+      "url": "https://open.spotify.com/track/0REXvxnclpTKt2sjgZmESY"
     },
     {
       "album": {

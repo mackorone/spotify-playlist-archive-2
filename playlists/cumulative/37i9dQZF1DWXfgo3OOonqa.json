@@ -9783,6 +9783,32 @@
     },
     {
       "album": {
+        "name": "DE VI",
+        "url": "https://open.spotify.com/album/29BSE3VQPO66tkhp84Peyg"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        },
+        {
+          "name": "IRM\u00c3O",
+          "url": "https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp"
+        },
+        {
+          "name": "4Key",
+          "url": "https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154299,
+      "name": "DE VI",
+      "url": "https://open.spotify.com/track/5Ro0m2VP4fEEbdR90Qm572"
+    },
+    {
+      "album": {
         "name": "Deadly",
         "url": "https://open.spotify.com/album/2xnp35ifilAEEIBUXYCVvD"
       },

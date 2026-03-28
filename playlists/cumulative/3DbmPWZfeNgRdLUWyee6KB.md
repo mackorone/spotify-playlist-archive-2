@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-850 songs - 2 day 2 hr 0 min
+851 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [O Êxito](https://open.spotify.com/track/597QLYVs0628cj7Ti8uijf) | [Di Amorim](https://open.spotify.com/artist/7tJMteCM3INmxqN9vTIlUI) | [VOZ & VIOLÃO vol\. 1](https://open.spotify.com/album/0h8Xsr3RbBPX3VhhtXLLL1) | 2:58 | 2026-01-15 | 2026-02-20 |
 | [Oblivion](https://open.spotify.com/track/4wO1fussauPYP4KdZlo2Qn) | [GRÜNHEIDT](https://open.spotify.com/artist/5CttYXn1RdgC5tiEJwl6LK) | [Oblivion](https://open.spotify.com/album/0yMf686tNVh08Rqzs0sc9R) | 4:15 | 2025-12-17 | 2026-01-15 |
 | [Ocaso](https://open.spotify.com/track/659i2zCINZi4ABiJsQCjHp) | [Los Insólitos](https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX) | [Ocaso](https://open.spotify.com/album/2pDD1wX3qLYX0qK6j6nukM) | 3:51 | 2026-02-17 | 2026-03-15 |
+| [Occhi D’argento](https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Occhi D’argento](https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1) | 2:41 | 2026-03-27 |  |
 | [Odesa Child](https://open.spotify.com/track/7Ehjt2zrbn6xwIg4uMfajX) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Odesa Child](https://open.spotify.com/album/35qW8UqO9ouKHDH7VEZUqR) | 4:50 | 2026-02-15 | 2026-03-15 |
 | [Of All The Things I've Said](https://open.spotify.com/track/4q2joDEEnPyOKJ28BFGX7a) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Of All The Things I've Said](https://open.spotify.com/album/6sQzWyFp09Tm6Tl6rb1Z6E) | 4:04 | 2026-02-24 | 2026-03-25 |
 | [Ogni cosa](https://open.spotify.com/track/4ClC5oSSoOAwu9Ou2LOjb6) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Ogni cosa](https://open.spotify.com/album/2BAF81Xb69rpJThz52oVYS) | 3:54 | 2026-03-24 |  |

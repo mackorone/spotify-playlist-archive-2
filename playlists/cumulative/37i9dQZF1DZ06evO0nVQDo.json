@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "1:17 PM",
       "url": "https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178250,
       "name": "4:36 PM",
       "url": "https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Cumulus",
       "url": "https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7"
@@ -398,10 +398,28 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 250687,
       "name": "Fire / Fire",
       "url": "https://open.spotify.com/track/2NYYHQJvWv2MvI3ygpQ96t"
+    },
+    {
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182454,
+      "name": "Fire / Water",
+      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
     },
     {
       "album": {
@@ -510,7 +528,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 108680,
       "name": "Night Bloomer",
       "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"

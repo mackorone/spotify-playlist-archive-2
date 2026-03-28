@@ -4,7 +4,7 @@
 
 > This playlist features Dylan Brady, underscores, and more good hyperpop music
 
-2,624 songs - 5 day 0 hr 8 min
+2,626 songs - 5 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Bad Cherries](https://open.spotify.com/track/1OYbnkHajQqvBNbe1vYmR1) | [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Bad Cherries](https://open.spotify.com/album/3ZwhiueiZpJVMa4wtaVERe) | 2:39 | 2026-02-13 | 2026-03-21 |
 | [bad game](https://open.spotify.com/track/61WSJNQdNwXJmgAEABwUCy) | [ksiaze700](https://open.spotify.com/artist/2h3G0Qhu1g1XiG10wOOFQu), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [emorave](https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM) | [bad game](https://open.spotify.com/album/6nC8B3PaTcSSduwuE7mA4Q) | 2:04 | 2022-04-01 | 2022-06-04 |
 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-10-13\* | 2021-02-26 |
+| [Bad Love](https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Bad Love](https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB) | 2:43 | 2026-03-27 |  |
 | [bad luck](https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [bad luck](https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub) | 2:49 | 2022-01-05 | 2022-02-26 |
 | [Bad Lyfe](https://open.spotify.com/track/1VXu0Yy9VrzmVBjPGEI7Pd) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Bad Lyfe](https://open.spotify.com/album/6KC48Q44YsGLTqX9tWlAQO) | 3:04 | 2025-07-18 | 2026-01-15 |
 | [bad reputation](https://open.spotify.com/track/2lQvwqK0xkUqxrm5W9YtQW) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [bad reputation](https://open.spotify.com/album/0fwCuaiR2e1EipnyR6hcJQ) | 2:08 | 2022-12-02 | 2023-03-07 |
@@ -316,7 +317,7 @@
 | [blue](https://open.spotify.com/track/5kB8rEV7y5HzSFHCq8ReOV) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [sport 2.0](https://open.spotify.com/album/6fwu1wQfVbGrwrcCJgRQ85) | 1:56 | 2024-01-18 | 2024-03-05 |
 | [blueberries](https://open.spotify.com/track/61f2lolHdWr80POha6Uhxn) | [Aiko Tomi](https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t) | [blueberries](https://open.spotify.com/album/7upK20g19mKrsZkSi9Z4lR) | 2:36 | 2025-04-25 | 2025-08-12 |
 | [Bluee](https://open.spotify.com/track/6TxUgi7lC9QkrP2xAn7oAX) | [Angelwinter](https://open.spotify.com/artist/5BMEsJkF3ydybarxMW4BrN) | [Sanitation Crew](https://open.spotify.com/album/234NrrMbPAfkbYKF4xvTW8) | 2:10 | 2021-02-10 | 2021-09-18 |
-| [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 | 2025-04-04 |  |
+| [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 | 2025-04-04 | 2026-03-28 |
 | [Bluffing](https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Bluffing](https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P) | 2:06 | 2021-12-10 | 2022-02-26 |
 | [body \(i want you\)](https://open.spotify.com/track/3y8Ek4gLumZB1wMsIzbNsH) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [body \(i want you\)](https://open.spotify.com/album/4WsjE465wN3CQaej44DddW) | 3:20 | 2025-09-05 | 2026-02-28 |
 | [body bag](https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [body bag](https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED) | 2:22 | 2023-11-10 | 2024-02-24 |
@@ -484,7 +485,7 @@
 | [Cobra](https://open.spotify.com/track/6bjSg7w75hnMILt5xJ4sl6) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Cobra](https://open.spotify.com/album/1lTKouMRssAu9PuIpgBx41) | 2:06 | 2021-09-18 | 2022-02-24 |
 | [coca\-cola](https://open.spotify.com/track/1Z6WO5ZPAhXsQcER3rkl1U) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [coca\-cola](https://open.spotify.com/album/0Z6NJPYA4WaWk5p1pFRHBT) | 2:45 | 2020-10-13\* | 2021-02-10 |
 | [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 | 2022-03-25 | 2023-08-06 |
-| [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 | 2026-01-30 |  |
+| [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 | 2026-01-30 | 2026-03-28 |
 | [cold & hot](https://open.spotify.com/track/64aqyJ93QNCy5Cce086rJt) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [cold & hot](https://open.spotify.com/album/75yUFxNvifTkYc6PWp05Nt) | 1:43 | 2021-04-26 | 2022-01-13 |
 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 | 2023-05-19 | 2023-10-07 |
 | [Colorado](https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Colorado](https://open.spotify.com/album/3YwG5jr7mC2EzDtbvgTvL0) | 2:38 | 2024-06-28 | 2026-01-15 |
@@ -1993,6 +1994,7 @@
 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2021-08-27 | 2022-01-13 |
 | [Salt Licorice \(with Robyn\)](https://open.spotify.com/track/5YwlMbMkYLSZ82Y8XOKfDF) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Shiver](https://open.spotify.com/album/6toqeyCvwGd0G4Lr1TPQCZ) | 3:47 | 2020-10-13\* | 2020-10-16 |
 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 | 2025-02-28 | 2026-01-15 |
+| [SAME LA](https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SAME LA](https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms) | 3:44 | 2026-03-27 |  |
 | [same town](https://open.spotify.com/track/79s2YK9V1mGJkSOxt4a94K) | [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [homegrown](https://open.spotify.com/album/4teTVPQKqDyUV7sJGanYGL) | 2:18 | 2022-03-04 | 2022-05-14 |
 | [Same Way](https://open.spotify.com/track/116Fdhm8POnb4r4VQFTbB6) | [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI) | [Same Way](https://open.spotify.com/album/5zsJLsACJhACwhtoeVpLxr) | 2:10 | 2023-08-18 | 2024-01-23 |
 | [sanctuary](https://open.spotify.com/track/6KJgGvbG7YXwNRXkS5vuT6) | [roxas358](https://open.spotify.com/artist/1y4Iepvxdd5HOPKRNyDCp4) | [sanctuary](https://open.spotify.com/album/0itwj6Y3S5ibs2J4DAUDag) | 1:51 | 2021-01-08 | 2021-02-10 |

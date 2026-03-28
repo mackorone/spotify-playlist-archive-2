@@ -1,13 +1,77 @@
 {
-  "description": "a little indie, a little pop, soda featuring Kevian Kraemer",
-  "num_followers": 229267,
+  "description": "a little indie, a little pop, soda featuring Moody Joody",
+  "num_followers": 229274,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtoCR4EJGr+bNzJGAclBYpO7RRb",
+  "snapshot_id": "AAAAAEC2eJauZJqAgxKtTtO0Kgru+9jp",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Loretta's Last Call",
+        "url": "https://open.spotify.com/album/2GLrkdbYxmkxButSpM6U6d"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 192372,
+      "name": "Loretta's Last Call",
+      "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Still Loiteringgg / 2000s Pop Punk Rnb",
+        "url": "https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF"
+      },
+      "artists": [
+        {
+          "name": "WHATMORE",
+          "url": "https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "2000s Pop Punk Rnb",
+      "url": "https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
     {
       "added_at": "2026-03-20 04:00:49",
       "album": {
@@ -23,6 +87,58 @@
       "duration_ms": 204557,
       "name": "down under",
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/2MfBbml4vlNl67SrvjEtQ7"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/7ICTrKc2uZHhppHRygXf0b"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -411,22 +527,6 @@
     {
       "added_at": "2026-02-06 10:00:13",
       "album": {
-        "name": "A Man Written by a Woman",
-        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "A Man Written by a Woman",
-      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
-    },
-    {
-      "added_at": "2026-02-06 10:00:13",
-      "album": {
         "name": "Think About It",
         "url": "https://open.spotify.com/album/5LHuSgAPwwcSsNqkyJtFrM"
       },
@@ -715,106 +815,6 @@
       "duration_ms": 196338,
       "name": "Blood Run Warm",
       "url": "https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH"
-    },
-    {
-      "added_at": "2026-01-16 16:23:10",
-      "album": {
-        "name": "Don't Include Me (American Dream)",
-        "url": "https://open.spotify.com/album/21zsuSka5XWc74qwThtb46"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 177727,
-      "name": "Don't Include Me (American Dream)",
-      "url": "https://open.spotify.com/track/17PfJpgoah18r7kKl0T8gF"
-    },
-    {
-      "added_at": "2025-11-28 05:00:22",
-      "album": {
-        "name": "Pink Lemonade",
-        "url": "https://open.spotify.com/album/54HW5AhdlCDtb0x2KejVq6"
-      },
-      "artists": [
-        {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
-        }
-      ],
-      "duration_ms": 237303,
-      "name": "Pink Lemonade",
-      "url": "https://open.spotify.com/track/32X0giiWhSwrgJdyiFOqr1"
-    },
-    {
-      "added_at": "2026-01-23 05:03:59",
-      "album": {
-        "name": "Overnight",
-        "url": "https://open.spotify.com/album/5LyZy1NkGqAEC3t3mP2OJV"
-      },
-      "artists": [
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 195996,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/19ScxFB8ckJiVAsboxL1in"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Blushing",
-        "url": "https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Blushing",
-      "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
-    },
-    {
-      "added_at": "2026-01-23 05:03:59",
-      "album": {
-        "name": "Ice Floes",
-        "url": "https://open.spotify.com/album/0GjnbJYWcos6wLU5g2d9IG"
-      },
-      "artists": [
-        {
-          "name": "Conor Burns",
-          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
-        }
-      ],
-      "duration_ms": 196223,
-      "name": "Ice Floes",
-      "url": "https://open.spotify.com/track/4qDXAsGj2MAGn3TLU2mvH5"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
-        "name": "Bite The Bullet",
-        "url": "https://open.spotify.com/album/4JGpgqVxItSgnEqWBQRWM7"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 199373,
-      "name": "Bite The Bullet",
-      "url": "https://open.spotify.com/track/1tBQNVylJHS9gg5EVTT5nQ"
     }
   ],
   "unique_name": "soda",

@@ -1,13 +1,93 @@
 {
-  "description": "next gen pop\nCover: Mckayla Twiggs",
-  "num_followers": 1262080,
+  "description": "next gen pop\nCover: Avery Cochrane",
+  "num_followers": 1262071,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPvSD2dW9HY3BEpdm9M7EYxqjw+n",
+  "snapshot_id": "AAAAAFMuPwHqIRCLHwsScQYFMRVkKHEv",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Male Validation and Other Drugs",
+        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "Sex, Etc.",
+      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Loretta's Last Call",
+        "url": "https://open.spotify.com/album/2GLrkdbYxmkxButSpM6U6d"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 192372,
+      "name": "Loretta's Last Call",
+      "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Jade",
+        "url": "https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 244007,
+      "name": "Jade",
+      "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "prom queen",
+        "url": "https://open.spotify.com/album/1VcR6W30QImsjcpVegZaUR"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "prom queen",
+      "url": "https://open.spotify.com/track/5t93U7fBPzzwXN6xv6ZiwE"
+    },
     {
       "added_at": "2026-03-20 04:00:50",
       "album": {
@@ -23,6 +103,22 @@
       "duration_ms": 177194,
       "name": "When Did You Get So Hot?",
       "url": "https://open.spotify.com/track/2h6ipaJ4usnWA8WwkSrnVI"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Feel Your Rain",
+        "url": "https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 216910,
+      "name": "Feel Your Rain",
+      "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
     },
     {
       "added_at": "2026-03-06 05:00:26",
@@ -41,6 +137,22 @@
       "url": "https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs"
     },
     {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
+    },
+    {
       "added_at": "2026-03-20 04:00:50",
       "album": {
         "name": "Is It Fun Or Is It Over?",
@@ -55,22 +167,6 @@
       "duration_ms": 160020,
       "name": "Is It Fun Or Is It Over?",
       "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
-    },
-    {
-      "added_at": "2026-02-27 20:36:42",
-      "album": {
-        "name": "Losing Streak",
-        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 218140,
-      "name": "Losing Streak",
-      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -215,6 +311,22 @@
       "duration_ms": 197043,
       "name": "YDH",
       "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
+    },
+    {
+      "added_at": "2026-02-27 20:36:42",
+      "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 218140,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -391,22 +503,6 @@
       "duration_ms": 195092,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/1pBero70FE3zpcvs2zYp3e"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "OOPS!",
-        "url": "https://open.spotify.com/album/4kzsot0nZIFPqc1EEOEHSW"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 150373,
-      "name": "OOPS!",
-      "url": "https://open.spotify.com/track/7b7JRO3BqoTqcEzOxO8qcV"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -1131,22 +1227,6 @@
     {
       "added_at": "2026-02-13 05:25:30",
       "album": {
-        "name": "A Little Louder, Please (Deluxe)",
-        "url": "https://open.spotify.com/album/03wOikJOtHMA55JRvBsx0g"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 178131,
-      "name": "I Don't Speak French",
-      "url": "https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
         "name": "SELLOUT II",
         "url": "https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI"
       },
@@ -1291,22 +1371,6 @@
     {
       "added_at": "2026-02-13 05:25:30",
       "album": {
-        "name": "Supermarket",
-        "url": "https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy"
-      },
-      "artists": [
-        {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
-        }
-      ],
-      "duration_ms": 184155,
-      "name": "Supermarket",
-      "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
       },
@@ -1371,22 +1435,6 @@
     {
       "added_at": "2026-02-13 05:25:30",
       "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
         "name": "the one",
         "url": "https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe"
       },
@@ -1415,22 +1463,6 @@
       "duration_ms": 157080,
       "name": "ego of a man",
       "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 187215,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2026-02-13 05:25:30",
       "album": {
-        "name": "the world i didn\u2019t want",
-        "url": "https://open.spotify.com/album/3pDZiSUUkIwms2ZX29BI2j"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "any1 but myself",
-      "url": "https://open.spotify.com/track/7emdC49g2huyad9Y55Cbtr"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 214763,
       "name": "Think About U Lots",
       "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "SE9 Part 1",
-        "url": "https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 159399,
-      "name": "FU & UF",
-      "url": "https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu"
     }
   ],
   "unique_name": "Pop Sauce",

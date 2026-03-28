@@ -1,28 +1,32 @@
 {
-  "description": "New music from your favorite women.  Cover: FLO",
-  "num_followers": 230735,
+  "description": "New music from your favorite women.  Cover: Jenevieve",
+  "num_followers": 230765,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF0B8HsMbrNW2icQ6LKhIkkMpA6w",
+  "snapshot_id": "AAAAACTJBkkzVyHjQFE20E3+mXsEzWZD",
   "tracks": [
     {
-      "added_at": "2026-03-20 06:19:37",
+      "added_at": "2026-03-27 05:57:52",
       "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
       "added_at": "2026-03-20 06:19:37",
@@ -57,20 +61,36 @@
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
-      "added_at": "2026-03-20 06:19:37",
+      "added_at": "2026-03-27 05:57:52",
       "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+        "name": "He's Not All That",
+        "url": "https://open.spotify.com/album/5ox7vc3X9DRBZb8r9IiOta"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
         }
       ],
-      "duration_ms": 178779,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/7bX4qyPM9Ye5LBPbnkw5Lu"
+      "duration_ms": 128000,
+      "name": "He's Not All That",
+      "url": "https://open.spotify.com/track/01HKbGG3qQdMsTQav30R9z"
+    },
+    {
+      "added_at": "2026-03-20 06:19:37",
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
       "added_at": "2026-03-06 05:18:12",
@@ -95,6 +115,38 @@
     {
       "added_at": "2026-03-20 06:19:37",
       "album": {
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 178779,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/7bX4qyPM9Ye5LBPbnkw5Lu"
+    },
+    {
+      "added_at": "2026-03-27 05:57:52",
+      "album": {
+        "name": "Soundtrack 2 Get Her Back",
+        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "True 2 Me",
+      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
+    },
+    {
+      "added_at": "2026-03-20 06:19:37",
+      "album": {
         "name": "Overrated",
         "url": "https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL"
       },
@@ -107,6 +159,22 @@
       "duration_ms": 191437,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
+    },
+    {
+      "added_at": "2026-03-27 05:57:52",
+      "album": {
+        "name": "State Of Emergency Vol 1.",
+        "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Critical Condition",
+      "url": "https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh"
     },
     {
       "added_at": "2026-03-20 06:19:37",
@@ -123,6 +191,38 @@
       "duration_ms": 202608,
       "name": "Honest",
       "url": "https://open.spotify.com/track/04pDLouxkwPk1PBW2FlqJA"
+    },
+    {
+      "added_at": "2026-03-20 06:19:37",
+      "album": {
+        "name": "Love or a Lesson",
+        "url": "https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Too Much?",
+      "url": "https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE"
+    },
+    {
+      "added_at": "2026-03-27 05:57:52",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/7asQi6ABuMJaubEiykeq3l"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1ukZdmbOo4MeK64kvpT3Gh"
     },
     {
       "added_at": "2026-03-06 05:18:12",
@@ -143,22 +243,6 @@
       "duration_ms": 195325,
       "name": "Tough",
       "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
-    },
-    {
-      "added_at": "2026-03-20 06:19:37",
-      "album": {
-        "name": "Love or a Lesson",
-        "url": "https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Too Much?",
-      "url": "https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE"
     },
     {
       "added_at": "2026-03-06 05:18:12",
@@ -229,74 +313,6 @@
       "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
     },
     {
-      "added_at": "2026-02-20 06:05:29",
-      "album": {
-        "name": "Touch bby",
-        "url": "https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 125954,
-      "name": "Touch bby",
-      "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
-    },
-    {
-      "added_at": "2026-02-27 08:07:16",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
-      },
-      "artists": [
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
-    },
-    {
-      "added_at": "2026-03-20 06:19:37",
-      "album": {
-        "name": "WE NEED TO TALK: REDEMPTION",
-        "url": "https://open.spotify.com/album/0FSyZ1gEmSHqUjMzymyNW3"
-      },
-      "artists": [
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        }
-      ],
-      "duration_ms": 294264,
-      "name": "XO - My Gift Interlude",
-      "url": "https://open.spotify.com/track/3KDcyGFxBvUM6RENrJ9be2"
-    },
-    {
-      "added_at": "2026-03-06 05:18:12",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/1n5EdNTC19hyG6v9VIK0Ac"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 187360,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/2RKMszeCzgVDRp425arKKT"
-    },
-    {
       "added_at": "2026-03-20 06:19:37",
       "album": {
         "name": "Egyptian Musk",
@@ -317,36 +333,48 @@
       "url": "https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd"
     },
     {
-      "added_at": "2026-03-06 05:18:12",
+      "added_at": "2026-03-27 05:57:52",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+        "name": "Shame (feat. BunnaB)",
+        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+      "duration_ms": 182400,
+      "name": "Shame (feat. BunnaB)",
+      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
     },
     {
-      "added_at": "2026-03-13 15:50:31",
+      "added_at": "2026-02-27 08:07:16",
       "album": {
-        "name": "Chakra",
-        "url": "https://open.spotify.com/album/3dIFKbyhsNAmFcChZmNkyY"
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
       },
       "artists": [
         {
-          "name": "Cocoa Sarai",
-          "url": "https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX"
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 186772,
-      "name": "Chakra",
-      "url": "https://open.spotify.com/track/4m8SPcvsDsTqR3jAi8pxRD"
+      "duration_ms": 182586,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
     },
     {
       "added_at": "2026-01-23 05:42:11",
@@ -381,6 +409,22 @@
       "url": "https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L"
     },
     {
+      "added_at": "2026-03-27 05:57:52",
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"
+    },
+    {
       "added_at": "2026-02-20 06:05:29",
       "album": {
         "name": "Housewife",
@@ -395,6 +439,70 @@
       "duration_ms": 159212,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/1iJF4mX0EnG6Pqfg91Vm7r"
+    },
+    {
+      "added_at": "2026-03-13 15:50:31",
+      "album": {
+        "name": "Chakra",
+        "url": "https://open.spotify.com/album/3dIFKbyhsNAmFcChZmNkyY"
+      },
+      "artists": [
+        {
+          "name": "Cocoa Sarai",
+          "url": "https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX"
+        }
+      ],
+      "duration_ms": 186772,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/4m8SPcvsDsTqR3jAi8pxRD"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "added_at": "2026-03-20 06:19:37",
+      "album": {
+        "name": "WE NEED TO TALK: REDEMPTION",
+        "url": "https://open.spotify.com/album/0FSyZ1gEmSHqUjMzymyNW3"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "duration_ms": 294264,
+      "name": "XO - My Gift Interlude",
+      "url": "https://open.spotify.com/track/3KDcyGFxBvUM6RENrJ9be2"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/1n5EdNTC19hyG6v9VIK0Ac"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2RKMszeCzgVDRp425arKKT"
     },
     {
       "added_at": "2026-03-20 06:19:37",
@@ -1517,22 +1625,6 @@
       "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
     },
     {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "You're My",
-        "url": "https://open.spotify.com/album/4mFzjQ1NzbzLCFbAPAVxL6"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/0LmvbJfuLuFZxVWl8wGDJy"
-    },
-    {
       "added_at": "2025-12-19 05:00:40",
       "album": {
         "name": "'97",
@@ -1547,22 +1639,6 @@
       "duration_ms": 204848,
       "name": "'97",
       "url": "https://open.spotify.com/track/7tIu9ED2WcV8wGKw7Jniqj"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/7xcwQDkqoz5xDpgx5KmMpx"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/65P4otXfzcWfo031JVtwDU"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -1741,22 +1817,6 @@
       "url": "https://open.spotify.com/track/3AlezcyenqclNoftI6bbTO"
     },
     {
-      "added_at": "2025-11-21 11:20:02",
-      "album": {
-        "name": "TOO LATE",
-        "url": "https://open.spotify.com/album/5EHTLTwi2p7WSfezZYRcwM"
-      },
-      "artists": [
-        {
-          "name": "ABBI WOODS",
-          "url": "https://open.spotify.com/artist/44GFA4EspGPaCQo4VqLzTR"
-        }
-      ],
-      "duration_ms": 163291,
-      "name": "TOO LATE",
-      "url": "https://open.spotify.com/track/1lfQeVezs2zGqPUWrVhQ8c"
-    },
-    {
       "added_at": "2025-11-14 09:13:01",
       "album": {
         "name": "Finally Over It",
@@ -1895,22 +1955,6 @@
       "duration_ms": 259411,
       "name": "Folded (Remix) [feat. Brandy]",
       "url": "https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI"
-    },
-    {
-      "added_at": "2025-11-07 06:06:34",
-      "album": {
-        "name": "The Way I Love You / With You (Acoustic)",
-        "url": "https://open.spotify.com/album/347aGCrSf0rmbfJelbJHOD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "The Way I Love You - Acoustic",
-      "url": "https://open.spotify.com/track/2a1YoHUcoZeQMCDT5jIRMr"
     },
     {
       "added_at": "2025-10-10 07:33:06",
@@ -2449,26 +2493,6 @@
       "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
     },
     {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Why Not More? (MORE!)",
-        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 192852,
-      "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
-      "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
-    },
-    {
       "added_at": "2025-09-26 04:27:04",
       "album": {
         "name": "Cover Girl",
@@ -2683,22 +2707,6 @@
       "duration_ms": 125893,
       "name": "Phuckups (Hold Me)",
       "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 228842,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
     },
     {
       "added_at": "2025-09-19 16:39:00",

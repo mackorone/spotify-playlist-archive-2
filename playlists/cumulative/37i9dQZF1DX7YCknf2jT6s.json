@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: SPINALL",
+  "description": "New jazz for open minds. Cover: aja monet",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1037,6 +1037,36 @@
     },
     {
       "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/4RZQzaMDsrQjrgvBDkBdxM"
+      },
+      "artists": [
+        {
+          "name": "Tom Hemby",
+          "url": "https://open.spotify.com/artist/18DYBJxCpac3YG86xhVPqM"
+        },
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307976,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/1Ow3IP8OcsCx7kmC7N5pgy"
+    },
+    {
+      "album": {
         "name": "AFTERLIFE RESIDENCE TIME",
         "url": "https://open.spotify.com/album/3lxJ9yzA7gITHwmBca0eIL"
       },
@@ -1974,7 +2004,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 217400,
       "name": "Ancestral Machines",
       "url": "https://open.spotify.com/track/5vKrqEL5TM8VYxA2L4Ddog"
@@ -2875,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Ask Me Now",
+        "url": "https://open.spotify.com/album/6SUaYacR0vL0mjCPeuMUIy"
+      },
+      "artists": [
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399973,
+      "name": "Ask Me Now",
+      "url": "https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD"
+    },
+    {
+      "album": {
         "name": "The Omnichord Real Book",
         "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
       },
@@ -3520,7 +3568,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 384391,
       "name": "Baldwin's Blues",
       "url": "https://open.spotify.com/track/4ourCDVAn58iIDPpJ8SVBW"
@@ -11059,6 +11107,32 @@
     },
     {
       "album": {
+        "name": "elsewhere",
+        "url": "https://open.spotify.com/album/0rNzYCP7UGy2n5vH4NRcbQ"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288375,
+      "name": "elsewhere",
+      "url": "https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO"
+    },
+    {
+      "album": {
         "name": "Embraceable You (Radio Edit)",
         "url": "https://open.spotify.com/album/6diBPFhPsOXX9zfo78vfq7"
       },
@@ -14176,7 +14250,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 215964,
       "name": "Getting Along",
       "url": "https://open.spotify.com/track/64UwHxn7CUVj0mBqnirbxy"
@@ -15588,7 +15662,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 320679,
       "name": "hollyweird",
       "url": "https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y"
@@ -17126,7 +17200,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224376,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/3zixzhipHvNnUQMsPiOBA8"
@@ -17848,7 +17922,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203901,
       "name": "Is This Real",
       "url": "https://open.spotify.com/track/3noYMpAo5X6pA3LbdLKfh6"
@@ -18798,6 +18872,24 @@
       "duration_ms": 246863,
       "name": "Juneteenth",
       "url": "https://open.spotify.com/track/0A5bqGbPxnzT5A6Ytzn22l"
+    },
+    {
+      "album": {
+        "name": "Juntos Vencemos",
+        "url": "https://open.spotify.com/album/1YUwlstwZsO0IZQ8tSAyon"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172582,
+      "name": "Juntos Vencemos",
+      "url": "https://open.spotify.com/track/4YeEBndzeRs7XnKaBB9X5e"
     },
     {
       "album": {
@@ -20543,6 +20635,24 @@
     },
     {
       "album": {
+        "name": "Likeness and Shadow",
+        "url": "https://open.spotify.com/album/6mo21Re2NwKJyhCV8yJcPk"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374653,
+      "name": "Likeness and Shadow",
+      "url": "https://open.spotify.com/track/4xzWWw9ERAkHABNfNzpt6O"
+    },
+    {
+      "album": {
         "name": "The Swedish Songbook",
         "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
       },
@@ -20998,6 +21108,24 @@
       "duration_ms": 260870,
       "name": "Look To The Hills",
       "url": "https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj"
+    },
+    {
+      "album": {
+        "name": "Lookie",
+        "url": "https://open.spotify.com/album/04HsNmVtCaxxTACAV2lz9R"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298593,
+      "name": "Lookie",
+      "url": "https://open.spotify.com/track/0FRGC4Qk2RlVVorFg1uUqP"
     },
     {
       "album": {
@@ -23196,6 +23324,28 @@
       "duration_ms": 409991,
       "name": "Monk\u2019s Dance",
       "url": "https://open.spotify.com/track/0HVl277oAQFQbVJHnsIKRb"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363791,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
     },
     {
       "album": {
@@ -29170,7 +29320,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 214430,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1"
@@ -29516,6 +29666,24 @@
       "duration_ms": 328640,
       "name": "Respected Destroyer",
       "url": "https://open.spotify.com/track/42FymjHJKVuwrIP02t7QWo"
+    },
+    {
+      "album": {
+        "name": "Respond to Sound",
+        "url": "https://open.spotify.com/album/5cce7khO3pymis7LZ4kuoR"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191753,
+      "name": "Respond to Sound",
+      "url": "https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK"
     },
     {
       "album": {
@@ -32597,6 +32765,28 @@
     },
     {
       "album": {
+        "name": "Song of Storms (from The Legend of Zelda: Ocarina of Time)",
+        "url": "https://open.spotify.com/album/1JB7EwRhYsQC6H2njNB3Ph"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Josh Harmon",
+          "url": "https://open.spotify.com/artist/5z44q3rMwinmehpx3oSp3s"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91690,
+      "name": "Song of Storms - from The Legend of Zelda: Ocarina of Time",
+      "url": "https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi"
+    },
+    {
+      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -33160,7 +33350,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 115205,
       "name": "Stair 1",
       "url": "https://open.spotify.com/track/4jl4G2EWBLxIVKeT03oAe9"
@@ -37752,7 +37942,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 250493,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH"
@@ -40088,7 +40278,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 163192,
       "name": "Visual Assault",
       "url": "https://open.spotify.com/track/75uNqSwLB6hLOieM28bzKB"
@@ -41432,6 +41622,28 @@
       "duration_ms": 330088,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ"
+    },
+    {
+      "album": {
+        "name": "Honora",
+        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        },
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262653,
+      "name": "Wichita Lineman (feat. Nick Cave)",
+      "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
     },
     {
       "album": {

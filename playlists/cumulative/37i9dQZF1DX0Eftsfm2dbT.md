@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POP YOURSまであと7日！】J\-Hip Hopの最新注目曲をまとめてチェック cover: ANARCHY \*水曜更新。マイライブラリに保存して毎週チェックしよう
+> 【POP YOURSまであと6日！】J\-Hip Hopの最新注目曲をまとめてチェック cover: Kohjiya \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
 2,383 songs - 5 day 0 hr 1 min
 

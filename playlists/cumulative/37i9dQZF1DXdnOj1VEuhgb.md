@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI x Arem Ozguc x Arman Aydin
 
-928 songs - 1 day 17 hr 39 min
+928 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,7 +810,6 @@
 | [TIRMANDIM](https://open.spotify.com/track/7ozaiwhvK7n71jNoJF2v6y) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TIRMANDIM](https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg) | 2:13 | 2025-12-11 | 2025-12-26 |
 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 | 2025-10-02 | 2025-11-21 |
 | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/track/3xo2UqVRVmjSXtlN83y2Ty) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/album/6HccvGrEfTb01BHTDTlel7) | 1:34 | 2024-09-19 | 2024-10-04 |
-| [Track 2](https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Klasik Part 3 : Çiçek Böcek](https://open.spotify.com/album/6DnYAMzGPGlko2hLIqZ5rs) | 0:00 | 2026-03-26 |  |
 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 | 2026-01-22 |  |
 | [TrapLordz](https://open.spotify.com/track/7gxLEjoKdbRVVobMAzzOsQ) | [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw) | [TrapLordz](https://open.spotify.com/album/69MOoECLlmu7uwOTCe7qaZ) | 3:12 | 2026-01-08 | 2026-01-23 |
 | [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-05 | 2024-02-06 |
@@ -915,6 +914,7 @@
 | [Çekilmemiş Fotoğraflar](https://open.spotify.com/track/6rkTY4YNuOO0ObFVRzZHUN) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Çekilmemiş Fotoğraflar](https://open.spotify.com/album/2JjMeVa69WbYLBU4ldYO6P) | 3:24 | 2025-01-02 | 2025-01-17 |
 | [Çevir Tavukları](https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Çevir Tavukları](https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ) | 3:24 | 2024-03-21 | 2024-04-12 |
 | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X) | 2:47 | 2025-02-20 | 2025-05-16 |
+| [Çiçek Böcek](https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Klasik Part 3 : Çiçek Böcek](https://open.spotify.com/album/6DnYAMzGPGlko2hLIqZ5rs) | 3:19 | 2026-03-26 |  |
 | [ÇİLEDEN](https://open.spotify.com/track/2ZvOBilAxRTLv1s4zBrAEA) | [Burak King](https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN), [Sarkopenya](https://open.spotify.com/artist/5gWZMQPBKOuupwvDFkgbIX) | [ÇİLEDEN](https://open.spotify.com/album/79thAqMg7pZtNqxHcmoJ63) | 2:27 | 2024-12-19 | 2025-01-03 |
 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 | 2025-07-31 | 2025-12-26 |
 | [ÇOK İYİ](https://open.spotify.com/track/1LKV8a3oBspzpNe1avmSFv) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [ÇOK İYİ](https://open.spotify.com/album/3q9OE9lBGj5OmGyusWR8bp) | 1:54 | 2025-07-17 | 2025-08-08 |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Arroba Nat en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
+    {
+      "album": {
+        "name": "(a) normal",
+        "url": "https://open.spotify.com/album/2suqWYkPTmtEAWXxebts3P"
+      },
+      "artists": [
+        {
+          "name": "Caroh",
+          "url": "https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205863,
+      "name": "(a) normal",
+      "url": "https://open.spotify.com/track/3ixHLRZvzxWjTmlRHbtAIq"
+    },
     {
       "album": {
         "name": "10 Minutos (25 Aniversario)",
@@ -256,7 +274,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
@@ -461,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Manifiesto de un Tremendo Delirio",
+        "url": "https://open.spotify.com/album/0ZjtAHZlANyVRoU00hF9QD"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "Am\u00e9n",
+      "url": "https://open.spotify.com/track/3BjdxxowgG7jwZNNoSprdM"
+    },
+    {
+      "album": {
         "name": "Ansiedad",
         "url": "https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog"
       },
@@ -628,6 +664,28 @@
       "duration_ms": 210616,
       "name": "Bailemos un bis",
       "url": "https://open.spotify.com/track/2l0cmTxCNQB6H5bMjraOD6"
+    },
+    {
+      "album": {
+        "name": "Balandra",
+        "url": "https://open.spotify.com/album/1Sr2mLj7B4TZsCK7ABhvJO"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167584,
+      "name": "Balandra",
+      "url": "https://open.spotify.com/track/1yaqLkM1SZ87dTtVY3ttl6"
     },
     {
       "album": {
@@ -1260,7 +1318,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 239575,
       "name": "Cuando La Lluvia",
       "url": "https://open.spotify.com/track/33h1j318lv0aeVSa03tI9X"
@@ -1426,7 +1484,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
@@ -1800,7 +1858,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 146000,
       "name": "El Migas",
       "url": "https://open.spotify.com/track/5wb7ZyhoZUary5rD7CHH6N"
@@ -2011,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Esc\u00e1pate Conmigo",
+        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252079,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
+    },
+    {
+      "album": {
         "name": "Esto Se Jodi\u00f3",
         "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
       },
@@ -2186,6 +2262,24 @@
       "duration_ms": 176764,
       "name": "Fr\u00e1gil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/790I7HQcQPuAYV3KQighlo"
+    },
+    {
+      "album": {
+        "name": "Donde nada es para tanto",
+        "url": "https://open.spotify.com/album/16HxA8so0smcyGapeDhXor"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202271,
+      "name": "Gigantes",
+      "url": "https://open.spotify.com/track/6DJ0XdK9lE9a4EkSaPf7mj"
     },
     {
       "album": {
@@ -3014,7 +3108,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166624,
       "name": "manual",
       "url": "https://open.spotify.com/track/7u0v3lSE4X6w1jdJTULuv3"
@@ -3893,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "p0rn0graf\u00eda",
+        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181253,
+      "name": "p0rn0graf\u00eda",
+      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
+    },
+    {
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -3998,7 +4110,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 250544,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/1FauUKBCr1kBqJdqwAkxde"
@@ -4222,7 +4334,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 188515,
       "name": "Por no bailar contigo",
       "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
@@ -4604,6 +4716,28 @@
       "duration_ms": 145714,
       "name": "qu\u00e9 raro es ser normal",
       "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
     },
     {
       "album": {
@@ -5111,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Sin ti el mundo no se acaba",
+        "url": "https://open.spotify.com/album/0Zpy2i7lXgDWA7RlCz7R6b"
+      },
+      "artists": [
+        {
+          "name": "Pol 3.14",
+          "url": "https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Sin ti el mundo no se acaba",
+      "url": "https://open.spotify.com/track/7J2vW3kGCooND8MiobU0KB"
+    },
+    {
+      "album": {
         "name": "sobrenatural",
         "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
       },
@@ -5470,7 +5622,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 182691,
       "name": "Tormenta Tropical",
       "url": "https://open.spotify.com/track/3d1Fye7tprjcEUXnGf263f"

@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Aether Whispers",
+        "url": "https://open.spotify.com/album/2rdNNSxXrkLpWDwQavdXDq"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Aether Whispers",
+      "url": "https://open.spotify.com/track/0vvkMrWcHHbrMzh5bASXvD"
+    },
+    {
+      "album": {
         "name": "Aetherion",
         "url": "https://open.spotify.com/album/7rp9vw4eZaM4GoRxtz9LSU"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 139600,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1XLyuDO0stPVvOwOqF4J7d"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142913,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2rTua7tKIUh4PD9kQda06I"
     },
     {
       "album": {
@@ -870,7 +906,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 145641,
       "name": "Awakened Flow",
       "url": "https://open.spotify.com/track/2YeY5t5Z3QHkAUlXA2eKpP"
@@ -1345,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Circadian",
+        "url": "https://open.spotify.com/album/1nEHYrxone0kXior26choY"
+      },
+      "artists": [
+        {
+          "name": "Avanora",
+          "url": "https://open.spotify.com/artist/5KOsgFRcxt2YFFmDqtKUs8"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Circadian",
+      "url": "https://open.spotify.com/track/1fxCYe0eguHO5SItrcdeY5"
+    },
+    {
+      "album": {
         "name": "Circular Loops",
         "url": "https://open.spotify.com/album/6Tb7JOaIkVwqZ794Z0P2dI"
       },
@@ -1360,6 +1414,24 @@
       "duration_ms": 164869,
       "name": "Circular Loops",
       "url": "https://open.spotify.com/track/5irSoWWXH0jJcecmNKqSxu"
+    },
+    {
+      "album": {
+        "name": "Clausurae",
+        "url": "https://open.spotify.com/album/4HWFEKOWdN9EyOlXiCZYLr"
+      },
+      "artists": [
+        {
+          "name": "Sono Aetheris",
+          "url": "https://open.spotify.com/artist/5JTc4ZlpWj0vKnQImAENJT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Clausurae",
+      "url": "https://open.spotify.com/track/3rQHAy90YyrlFedS1ZmjdP"
     },
     {
       "album": {
@@ -1752,7 +1824,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 182851,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/6KE38ssnTmCCHp9teRAQSH"
@@ -2227,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Floriano",
+        "url": "https://open.spotify.com/album/0sAHrtDN7YHjRjrtUlxkWt"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140687,
+      "name": "Floriano",
+      "url": "https://open.spotify.com/track/6TDJgjNq2occuukm3O19qV"
+    },
+    {
+      "album": {
         "name": "foggy lake",
         "url": "https://open.spotify.com/album/4Hptpc8NsaFT0EJprDcIkK"
       },
@@ -2533,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Glacadh",
+        "url": "https://open.spotify.com/album/0RDlwtAjI1qXbpEnfG4qHy"
+      },
+      "artists": [
+        {
+          "name": "Coile\u00e1inn",
+          "url": "https://open.spotify.com/artist/5flYFtyT8qgB5GdW7SQsic"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "Glacadh",
+      "url": "https://open.spotify.com/track/4yKinC9FapdEkMGam50eCF"
+    },
+    {
+      "album": {
         "name": "Glacier",
         "url": "https://open.spotify.com/album/6JpIe64nHeX4yHr2qxspAa"
       },
@@ -2584,6 +2692,24 @@
       "duration_ms": 165295,
       "name": "Gliding (432 Hz)",
       "url": "https://open.spotify.com/track/3rzxwzDHfFVSFLFi2AoIjS"
+    },
+    {
+      "album": {
+        "name": "Glittering Stills",
+        "url": "https://open.spotify.com/album/3Cs6v9D6yCj8pSPP7S9aJn"
+      },
+      "artists": [
+        {
+          "name": "Eldanova",
+          "url": "https://open.spotify.com/artist/6UoafaEYntuLsS2Al0Ilju"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198157,
+      "name": "Glittering Stills",
+      "url": "https://open.spotify.com/track/4ixCY0yIUSmr6eZnWSLzC2"
     },
     {
       "album": {
@@ -2760,7 +2886,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178068,
       "name": "Heiwa",
       "url": "https://open.spotify.com/track/7w6AeU43e5wSvFpB3BXIYO"
@@ -2800,6 +2926,24 @@
       "duration_ms": 181374,
       "name": "Here",
       "url": "https://open.spotify.com/track/39OcBhQNIyodpgt9OEPE1K"
+    },
+    {
+      "album": {
+        "name": "Hesed",
+        "url": "https://open.spotify.com/album/68pECpaNjShEC98gZOI4Yw"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Hesed",
+      "url": "https://open.spotify.com/track/3EMB7zzyxmiA02zqg17rTO"
     },
     {
       "album": {
@@ -2998,6 +3142,24 @@
       "duration_ms": 185986,
       "name": "In Aeternum",
       "url": "https://open.spotify.com/track/1yihzBNtdpTpODsbFKu2kz"
+    },
+    {
+      "album": {
+        "name": "In Obscura",
+        "url": "https://open.spotify.com/album/6bVg6khAu6KLRbqZoFdRzc"
+      },
+      "artists": [
+        {
+          "name": "Echoes of 1991",
+          "url": "https://open.spotify.com/artist/4oPhQMy1wUBhASCoirZsSB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184980,
+      "name": "In Obscura",
+      "url": "https://open.spotify.com/track/1vHv4PkXOnkfLEmd9q53WA"
     },
     {
       "album": {
@@ -3264,7 +3426,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 161571,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/40pDk296BjiqrmWjlWg08F"
@@ -3451,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/3zD9VQuA2EALU5rnttCtag"
+      },
+      "artists": [
+        {
+          "name": "Formosum",
+          "url": "https://open.spotify.com/artist/6gUjwPjUglXmRujj4oasbD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/26yzPDWgu926XZR6YMW5V7"
+    },
+    {
+      "album": {
         "name": "Liraflor",
         "url": "https://open.spotify.com/album/5R1HPAR6wqC7dVrd4XPfff"
       },
@@ -3556,6 +3736,24 @@
       "duration_ms": 148567,
       "name": "Lost in Drone",
       "url": "https://open.spotify.com/track/2pb3QDAHMNsNzsv1hsk3WG"
+    },
+    {
+      "album": {
+        "name": "Lucent Calm",
+        "url": "https://open.spotify.com/album/0NsszANleiE6bzi09tjJ4J"
+      },
+      "artists": [
+        {
+          "name": "Phase Quiet",
+          "url": "https://open.spotify.com/artist/4nGXChdq7ggYhLNnqP10Ma"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Lucent Calm",
+      "url": "https://open.spotify.com/track/3AVyhHZshmqu53oCcqXV4Z"
     },
     {
       "album": {
@@ -4290,7 +4488,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 148500,
       "name": "Parity",
       "url": "https://open.spotify.com/track/298Un7bK9KvpK023wvujo4"
@@ -4632,7 +4830,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 174905,
       "name": "Quiet Fields",
       "url": "https://open.spotify.com/track/5RCv5wfdswNoWbnhf1001T"
@@ -5280,7 +5478,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 132556,
       "name": "Shimmering Void",
       "url": "https://open.spotify.com/track/4FX3yGfJdYFPWABkfotuuf"
@@ -5352,7 +5550,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 164000,
       "name": "Silent Mist",
       "url": "https://open.spotify.com/track/0YUauMSdqHYHKTHNNQHvwI"
@@ -5424,7 +5622,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 138000,
       "name": "Skosh",
       "url": "https://open.spotify.com/track/0PYPLBVkokShakTqmGCbRg"
@@ -5532,7 +5730,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 167432,
       "name": "Slow Breathing",
       "url": "https://open.spotify.com/track/3WkUYb55nYouXqQGCAWJ61"
@@ -5874,7 +6072,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 218181,
       "name": "Strainless",
       "url": "https://open.spotify.com/track/2ldUfpDoDbpOXsVwWcyWjQ"
@@ -6234,7 +6432,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 130285,
       "name": "Transparent Moon",
       "url": "https://open.spotify.com/track/6nQpkDxRd9PRJZuudmNn52"
@@ -6288,7 +6486,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 191000,
       "name": "Twin Tides",
       "url": "https://open.spotify.com/track/0ZqyQhQJbcUyEGFnSkycH3"
@@ -6418,6 +6616,24 @@
       "duration_ms": 186285,
       "name": "Veil of Stars",
       "url": "https://open.spotify.com/track/3ERB5KA1kB23jNWh59lIXJ"
+    },
+    {
+      "album": {
+        "name": "Velvet Air",
+        "url": "https://open.spotify.com/album/5QpMKcVp6Naee3QK4FSfuR"
+      },
+      "artists": [
+        {
+          "name": "Deep Aphelion",
+          "url": "https://open.spotify.com/artist/2MEIYAS5BjaUAenk3bALdo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Velvet Air",
+      "url": "https://open.spotify.com/track/6w4tlJlyO1BUrs2Z4KNPQr"
     },
     {
       "album": {
@@ -6688,6 +6904,24 @@
       "duration_ms": 165882,
       "name": "Winding Down",
       "url": "https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN"
+    },
+    {
+      "album": {
+        "name": "Windveil",
+        "url": "https://open.spotify.com/album/6l6DdypycwVO13ws0yGGBc"
+      },
+      "artists": [
+        {
+          "name": "Serenei",
+          "url": "https://open.spotify.com/artist/2fN0qX9ezXVr0vHhHluQ9z"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131750,
+      "name": "Windveil",
+      "url": "https://open.spotify.com/track/1hnUiZgYcIuxyiK8xtQyrI"
     },
     {
       "album": {

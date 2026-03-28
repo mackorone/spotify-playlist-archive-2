@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Victor Garcia en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Le\u00f3n Larregui en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -2486,6 +2486,24 @@
       "duration_ms": 171886,
       "name": "Am\u00e9monos de Nuevo",
       "url": "https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt"
+    },
+    {
+      "album": {
+        "name": "Manifiesto de un Tremendo Delirio",
+        "url": "https://open.spotify.com/album/0ZjtAHZlANyVRoU00hF9QD"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "Am\u00e9n",
+      "url": "https://open.spotify.com/track/3BjdxxowgG7jwZNNoSprdM"
     },
     {
       "album": {
@@ -7001,6 +7019,28 @@
     },
     {
       "album": {
+        "name": "Corazonada",
+        "url": "https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Corazonada",
+      "url": "https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
       },
@@ -7622,7 +7662,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 185246,
       "name": "Cu\u00e1nta Raz\u00f3n",
       "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
@@ -9106,7 +9146,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 237722,
       "name": "Disc\u00falpame",
       "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
@@ -11030,7 +11070,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
@@ -14255,7 +14295,7 @@
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 139734,
+      "duration_ms": 138833,
       "name": "IMU",
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
@@ -14450,6 +14490,32 @@
       "duration_ms": 145800,
       "name": "JOJOJO",
       "url": "https://open.spotify.com/track/1tQ8yvYIwc8tWqDxesGn0O"
+    },
+    {
+      "album": {
+        "name": "Juan el Descuartizador",
+        "url": "https://open.spotify.com/album/4wXmyG5vYdxGVlvkIBxm7S"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Jos\u00e9 Andr\u00eba",
+          "url": "https://open.spotify.com/artist/3gxND003R6Jf4U41ODfMFJ"
+        },
+        {
+          "name": "Kabr\u00f6nes",
+          "url": "https://open.spotify.com/artist/7daRDWS4dMeyuIeieB6oSS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181002,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/7Dh45ouPTSqztckOTIJXNQ"
     },
     {
       "album": {
@@ -19458,7 +19524,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 227272,
       "name": "MEJORES PASOS",
       "url": "https://open.spotify.com/track/2O0YSN8ReTbm777LSCFu5S"
@@ -20399,6 +20465,24 @@
     },
     {
       "album": {
+        "name": "MISI\u00d3N IMPOSIBLE",
+        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "MISI\u00d3N IMPOSIBLE",
+      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+    },
+    {
+      "album": {
         "name": "Misi\u00f3n S******",
         "url": "https://open.spotify.com/album/78s2fiZPOZXqHMeXbHbJiR"
       },
@@ -20828,6 +20912,32 @@
       "duration_ms": 216330,
       "name": "Morritas",
       "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198361,
+      "name": "Motelear",
+      "url": "https://open.spotify.com/track/3O0qEIelB7qOCDvTRhQTP0"
     },
     {
       "album": {
@@ -22276,6 +22386,28 @@
       "duration_ms": 198750,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Un Tiempo",
+        "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "No Me Pidas Un Tiempo",
+      "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
     },
     {
       "album": {
@@ -26404,7 +26536,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 174234,
       "name": "Qui\u00e9n",
       "url": "https://open.spotify.com/track/15IfEX5dC7lWl9SFjX4Jn5"
@@ -28163,6 +28295,28 @@
     },
     {
       "album": {
+        "name": "si me esperas",
+        "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "si me esperas",
+      "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
+    },
+    {
+      "album": {
         "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
         "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
       },
@@ -29600,6 +29754,32 @@
       "duration_ms": 187754,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
+    },
+    {
+      "album": {
+        "name": "T T T",
+        "url": "https://open.spotify.com/album/0TquGN9fpiEHQqcsAgE2C9"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "T T T",
+      "url": "https://open.spotify.com/track/3IKxbI6tQV2cAiheQqt410"
     },
     {
       "album": {
@@ -32332,7 +32512,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 196285,
       "name": "Un Poquito M\u00e1s",
       "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
@@ -32994,7 +33174,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 183993,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
@@ -33160,7 +33340,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 158146,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"

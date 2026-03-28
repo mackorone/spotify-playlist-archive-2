@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,244 songs - 2 day 5 hr 46 min
+1,245 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [Pineapple Fields](https://open.spotify.com/track/0Azm5zjNW7scVyUnVzFne4) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Pineapple Fields](https://open.spotify.com/album/77JrcgfH0gJ1811OMx9fKx) | 2:14 | 2023-09-22 | 2023-12-18 |
 | [Pink Skies](https://open.spotify.com/track/3PmV9FolX4D7ndBcXwbGUR) | [Modern Culture](https://open.spotify.com/artist/0Z7fLEbrUz9oFSh6sQTDAp), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Brenda](https://open.spotify.com/artist/2N7wwvscWyr5WhyRBxFSR0) | [Pink Skies](https://open.spotify.com/album/1Ru5rPWeVOpELAxpRlz5XI) | 2:32 | 2025-03-30 | 2025-06-03 |
 | [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 | 2024-12-14 |  |
+| [Places](https://open.spotify.com/track/5SAIxBQiorccuI6tnMyhMO) | [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Places](https://open.spotify.com/album/0L4RS8WvsfEpBdQ72IMmhE) | 2:13 | 2026-03-27 |  |
 | [Plaka Dreams](https://open.spotify.com/track/5FbIWRcJX03jwNnDPCZaZi) | [Harper Quinn](https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN) | [Plaka Dreams](https://open.spotify.com/album/1fxB9q8elhWLamzKKeXgMZ) | 2:30 | 2024-04-01 | 2024-07-09 |
 | [Play On My Mind](https://open.spotify.com/track/4ajULmqzU6vXyF4tLOvqgX) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Play On My Mind](https://open.spotify.com/album/6J1WoAVQbPe4NTAvx5Doao) | 2:10 | 2024-08-25 | 2024-09-16 |
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2023-09-22 | 2025-03-03 |

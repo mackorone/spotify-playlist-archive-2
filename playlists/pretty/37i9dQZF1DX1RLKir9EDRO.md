@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Yakın Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,778 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,779 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Silerim](https://open.spotify.com/track/6qeRbnF1RvIaINr3w8UkR9) | [Burçin](https://open.spotify.com/artist/6Bk7Joe8ewwUVbJUFfye2l) | [Silerim](https://open.spotify.com/album/1msT1NEMf2FQVuVbCqhT55) | 2:55 |
 | 50 | [ÜZGÜNÜM](https://open.spotify.com/track/0JoRTAEmdR6AwwGKtSDrdb) | [ırmak isci](https://open.spotify.com/artist/5g2elqE0E0ewAanAs8zMC8) | [ÜZGÜNÜM](https://open.spotify.com/album/2KBeUH3qlEC5Mt4z6UzaYK) | 3:18 |
 
-Snapshot ID: `AAAAAIyL9bvIIZhyVD20+CSwlA2SeE27`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

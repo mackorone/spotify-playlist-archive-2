@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,027 songs - 2 day 5 hr 14 min
+1,028 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2021-11-19 | 2024-04-24 |
 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2019-07-30\* | 2021-08-28 |
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-14 | 2022-12-15 |
+| [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-03-27 |  |
 | [too much](https://open.spotify.com/track/2FsY59jGZYuhTWoVtnfPMu) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [too much](https://open.spotify.com/album/51EGMpOQ60ycHdiaYiKNO8) | 2:52 | 2021-04-30 | 2021-07-26 |
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-12-14 |  |
 | [Tourist Trap](https://open.spotify.com/track/0UCrDQS94ocETUzNrnnpjH) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Tourist Trap](https://open.spotify.com/album/2hmQkVm60ZBophzswAIQjK) | 3:01 | 2021-03-09 | 2021-08-26 |
@@ -976,7 +977,7 @@
 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 | 2022-09-14 | 2023-08-26 |
 | [Watered Down](https://open.spotify.com/track/0W8o8QKoO01LiiSLbGhI21) | [SODAPOP](https://open.spotify.com/artist/20SsjJW9QONCMZQ8Sik2d9) | [Watered Down](https://open.spotify.com/album/4ZhzwEQgxxtFmU4fEbks9J) | 3:20 | 2020-06-29 | 2021-05-26 |
 | [Watering the Garden](https://open.spotify.com/track/2PNOtO2fD3HtUt9t0Heppf) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Watering the Garden](https://open.spotify.com/album/1rcXE9zUFpVOJKMnVOicEu) | 3:21 | 2019-07-31 | 2020-04-07 |
-| [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 | 2024-01-12 |  |
+| [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 | 2024-01-12 | 2026-03-28 |
 | [Ways](https://open.spotify.com/track/46YMi4OGLJ0ZSFIrbpCO45) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Ways](https://open.spotify.com/album/7J2x5SADnGa23j1hFcuxhx) | 4:28 | 2020-05-02 | 2021-05-27 |
 | [we should have never kissed in the back seat of your car](https://open.spotify.com/track/3CKCYIr1xtNFiZQlDkQjuE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [we should have never kissed in the back seat of your car](https://open.spotify.com/album/2yWZcLMkisbuFmtlY3Uxun) | 1:48 | 2019-07-31 | 2020-01-07 |
 | [Weather](https://open.spotify.com/track/2e2sjg5Na8ATIgwb1T7zWJ) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Weather](https://open.spotify.com/album/3paS9rIxYJJrpx3eO5Dw0C) | 3:42 | 2019-07-31 | 2021-05-25 |

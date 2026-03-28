@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-454 songs - 2 day 0 hr 13 min
+454 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V) | 5:16 | 2024-04-05 | 2024-04-12 |
 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 | 2023-06-30 | 2024-02-02 |
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-08-16 |
+| [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj) | [Universal Catholic Church Choir](https://open.spotify.com/artist/5GZuDd422CdJBsCUNgiC6J) | [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/album/4G91WtwfW9HhhqwMYn7F4j) | 4:03 | 2026-03-27 |  |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 | 2024-02-02 |
 | [Icebo Lakhe](https://open.spotify.com/track/0tpaaOdbbrB9ifqQo8ce0w) | [Tsholofelo Nonkonyana](https://open.spotify.com/artist/085BjpMJpstVo3ee7uwoNy) | [Icebo Lakhe](https://open.spotify.com/album/27mMuugLcKYLLvQQK9a2q3) | 5:09 | 2025-08-08 | 2025-09-19 |
@@ -341,7 +342,6 @@
 | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq) | [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv) | 3:55 | 2024-04-19 | 2024-08-23 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [To The Deep](https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [To The Deep](https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33) | 5:49 | 2025-09-19 | 2025-11-21 |
-| [Track 1](https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj) | [Universal Catholic Church Choir](https://open.spotify.com/artist/5GZuDd422CdJBsCUNgiC6J) | [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/album/4G91WtwfW9HhhqwMYn7F4j) | 0:00 | 2026-03-27 |  |
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-05-30 |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-10-31 |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 |  |

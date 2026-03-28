@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Russo & Emma Heesters
 
-1,269 songs - 2 day 12 hr 37 min
+1,269 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Loop me iets tegemoet](https://open.spotify.com/track/1beyJVORcXULB0XNLnfeRW) | [Sophia Mason](https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv) | [Loop me iets tegemoet](https://open.spotify.com/album/6xSovQMNpORzvhDRjjrPND) | 2:31 | 2024-07-04 | 2024-07-20 |
 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 | 2025-08-28 | 2025-11-07 |
 | [Los in mij](https://open.spotify.com/track/1TBhCIH5POksa7gDXGPFw4) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Los in mij](https://open.spotify.com/album/0eQ36q9FJofZPpPpkMERwo) | 2:36 | 2025-04-24 | 2025-06-13 |
+| [Los Los Vast](https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hardop](https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5) | 2:29 | 2026-03-26 |  |
 | [Los Van Angst](https://open.spotify.com/track/3HYnt1qY5NWg6SIOxlw0gJ) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Los Van Angst](https://open.spotify.com/album/5PizQPjxqmmDVn2m8w6Il0) | 2:48 | 2024-08-29 | 2024-09-13 |
 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2025-11-13 | 2026-03-13 |
 | [Love Is Drugs](https://open.spotify.com/track/36odP6eL0ym0OPnNiN2s98) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Della Fox](https://open.spotify.com/artist/76GFGvQ277N1FDxl4e9alb) | [Love Is Drugs](https://open.spotify.com/album/5XVnwPuRRsacFjh2kJldTH) | 3:15 | 2023-07-07 | 2023-08-18 |
@@ -1065,7 +1066,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 1](https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hardop](https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5) | 0:00 | 2026-03-26 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |
 | [Tranquilo](https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Tranquilo](https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx) | 2:36 | 2023-05-11 | 2023-08-25 |

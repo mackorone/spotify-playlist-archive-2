@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "auch wenn's uns morgen nicht mehr gibt",
+        "url": "https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182014,
+      "name": "das gr\u00f6\u00dfte was es gibt",
+      "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
+    },
+    {
+      "album": {
         "name": "Das ist ihr Leben",
         "url": "https://open.spotify.com/album/4oGWNzHM1a9GIHFSgmPHFW"
       },
@@ -5871,7 +5889,7 @@
         },
         {
           "name": "LUNA",
-          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+          "url": "https://open.spotify.com/artist/2sVB84yuJRWCAHyPAK8RaI"
         }
       ],
       "date_added": "2026-02-19",
@@ -6306,24 +6324,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "auch wenn's uns morgen nicht mehr gibt",
-        "url": "https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8"
-      },
-      "artists": [
-        {
-          "name": "TJARK",
-          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
     },
     {
       "album": {

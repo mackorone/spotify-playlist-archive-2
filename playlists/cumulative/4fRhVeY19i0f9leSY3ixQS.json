@@ -690,7 +690,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 146124,
       "name": "all I can say",
       "url": "https://open.spotify.com/track/3HimN5yc5g2tF5a4B0Vxrw"
@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Call Me Back",
+        "url": "https://open.spotify.com/album/4dcVlIizzDV9aCxirXgtUm"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1nre",
+          "url": "https://open.spotify.com/artist/0kNteilHdlpFUcjvoQUdr0"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158175,
+      "name": "Call Me Back",
+      "url": "https://open.spotify.com/track/6du9qf4dV0rRHF5xMaBDB9"
+    },
+    {
+      "album": {
         "name": "A Billion Goats. A Billion Sparks. Fin.",
         "url": "https://open.spotify.com/album/6UhHac4mRectqNEI5dJGcS"
       },
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 158000,
       "name": "Catatonic",
       "url": "https://open.spotify.com/track/4rlnDyNkXZAaYOimIRVrpz"
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 221466,
       "name": "Dan Starts",
       "url": "https://open.spotify.com/track/0tqWU2Lcdor1XI5jejKhjU"
@@ -7219,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Given Up",
+        "url": "https://open.spotify.com/album/1woWviNayzJrOf29oocqfj"
+      },
+      "artists": [
+        {
+          "name": "Arsenic Kitchen",
+          "url": "https://open.spotify.com/artist/5eQGqzkt479Fgnn4IJMJu1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Given Up",
+      "url": "https://open.spotify.com/track/2PcTQxer6wobPdt2k2UozL"
+    },
+    {
+      "album": {
         "name": "Glass II",
         "url": "https://open.spotify.com/album/4TDylb1SsjwwJ6b2yIKqOj"
       },
@@ -8949,6 +8985,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Sorry",
+        "url": "https://open.spotify.com/album/1auoktp2cyX2soSEPE5ilj"
+      },
+      "artists": [
+        {
+          "name": "Daisy Gill",
+          "url": "https://open.spotify.com/artist/3FhQ46iUML93iBVODd1a7W"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "I'm Not Sorry",
+      "url": "https://open.spotify.com/track/4QNioiEPaoA3faPpYeijlb"
+    },
+    {
+      "album": {
         "name": "Somewhere Between Love & Misery",
         "url": "https://open.spotify.com/album/0PZNlTvpn3WT3lL6df0vWy"
       },
@@ -9350,6 +9404,24 @@
       "duration_ms": 177257,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/3kVgfLWdCTwG3YO4qlBQLj"
+    },
+    {
+      "album": {
+        "name": "Insomnio (FT. HIT-GRL)",
+        "url": "https://open.spotify.com/album/02LrmUdCuM6ThRYXInacHI"
+      },
+      "artists": [
+        {
+          "name": "Lidya The Mother Mind",
+          "url": "https://open.spotify.com/artist/6ovEniF8NiYwUO93x6m0nq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226850,
+      "name": "Insomnio (FT. HIT-GRL)",
+      "url": "https://open.spotify.com/track/1xpNvr7dpTMIaI6MSagpAM"
     },
     {
       "album": {
@@ -10965,6 +11037,24 @@
     },
     {
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/3kk1h4CujwsYtyzdFOUnlB"
+      },
+      "artists": [
+        {
+          "name": "Gardenia",
+          "url": "https://open.spotify.com/artist/6CfgSJflgY2ETbB1RqH3ry"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212301,
+      "name": "Magazines",
+      "url": "https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC"
+    },
+    {
+      "album": {
         "name": "Magic Dots",
         "url": "https://open.spotify.com/album/2g8U7447dCSIWIZ4B0a2r2"
       },
@@ -12149,7 +12239,7 @@
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 143999,
+      "duration_ms": 144107,
       "name": "National Anger",
       "url": "https://open.spotify.com/track/3N4EicgAqRC6zxFqYF42Td"
     },
@@ -16026,7 +16116,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 172500,
       "name": "Shout it Out",
       "url": "https://open.spotify.com/track/6dO45ThPk5v39uNBkYDpwH"
@@ -16244,6 +16334,24 @@
       "duration_ms": 208160,
       "name": "Sins",
       "url": "https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx"
+    },
+    {
+      "album": {
+        "name": "Six Seasons And A Movie",
+        "url": "https://open.spotify.com/album/1TAkIJFPRFCn0Hza7jpTBF"
+      },
+      "artists": [
+        {
+          "name": "Kill The Joy",
+          "url": "https://open.spotify.com/artist/7u9DBKVrjwrpraYElkztA2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "Six Seasons And A Movie",
+      "url": "https://open.spotify.com/track/0bBL5fiStd3yOZUGK2PgiA"
     },
     {
       "album": {
@@ -17707,6 +17815,24 @@
     },
     {
       "album": {
+        "name": "Symptoms of You",
+        "url": "https://open.spotify.com/album/3FzbJenoiPOrEzbpIWqNBP"
+      },
+      "artists": [
+        {
+          "name": "Rich Packman",
+          "url": "https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "Symptoms of You",
+      "url": "https://open.spotify.com/track/2JpOjYurMmAaEZGpM8SFnO"
+    },
+    {
+      "album": {
         "name": "LOUD NOISES",
         "url": "https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM"
       },
@@ -17938,6 +18064,24 @@
       "duration_ms": 217500,
       "name": "Terra Firma",
       "url": "https://open.spotify.com/track/0msuAwC5xHYfjlJsHLPSD2"
+    },
+    {
+      "album": {
+        "name": "The Camaraderie of Last Call",
+        "url": "https://open.spotify.com/album/7MCxhiaNJyyIEpOQhYRICo"
+      },
+      "artists": [
+        {
+          "name": "Limbo Baby",
+          "url": "https://open.spotify.com/artist/6pY1kJ5GNaCMaKslOsh9of"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348888,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/03ErqN95vW3Sb8b32UhSJ6"
     },
     {
       "album": {
@@ -19579,6 +19723,24 @@
     },
     {
       "album": {
+        "name": "UN OSITO DE PELUCHE DE TAIWAN",
+        "url": "https://open.spotify.com/album/4OsLrjWgSpPCcxNqNVrc0S"
+      },
+      "artists": [
+        {
+          "name": "R\u00c1U",
+          "url": "https://open.spotify.com/artist/0vdkKp2Zn8X2Vi6VXo19iX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184943,
+      "name": "UN OSITO DE PELUCHE DE TAIWAN - Cover",
+      "url": "https://open.spotify.com/track/6N1AhDO4GHvZ0Z9BYNf33g"
+    },
+    {
+      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/31F4H3iHdb2Tw5kpyoRHZN"
       },
@@ -20091,6 +20253,24 @@
     },
     {
       "album": {
+        "name": "Wanna Dance",
+        "url": "https://open.spotify.com/album/1V1MIqz8Q5pkKQu8Etmc7k"
+      },
+      "artists": [
+        {
+          "name": "Joshua Pearlstein",
+          "url": "https://open.spotify.com/artist/1RH04nlMw0TTpC3tRTbwwZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166309,
+      "name": "Wanna Dance",
+      "url": "https://open.spotify.com/track/6xy2XdwENrqJPnEEnKOfe5"
+    },
+    {
+      "album": {
         "name": "The End Of Times",
         "url": "https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY"
       },
@@ -20596,7 +20776,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192135,
       "name": "When's Enough, Enough?",
       "url": "https://open.spotify.com/track/003TdiLvCbl3rAqpnsnFDS"

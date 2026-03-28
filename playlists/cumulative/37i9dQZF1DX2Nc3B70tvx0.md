@@ -4,7 +4,7 @@
 
 > A delicious mix of new songs in high rotation\. Cover: James Blake
 
-3,064 songs - 7 day 17 hr 13 min
+3,066 songs - 7 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,7 +912,7 @@
 | [Fill Me Up Anthem](https://open.spotify.com/track/7460zTXWqoe9ElsRebQU8j) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Where Polly People Go to Read](https://open.spotify.com/album/4qSYIc2q02zeCN2fB2hBBR) | 4:36 | 2019-05-26\* | 2019-06-15 |
 | [Final Days](https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Lucius](https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN) | 4:42 | 2025-05-02 | 2025-06-14 |
 | [Final Fantasy \- 2004 Recording](https://open.spotify.com/track/1S35ZAvVv8ZHnDrciOGJzM) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Final Fantasy \- 2004 Recording](https://open.spotify.com/album/2FIx5q2VdelmhwXkKmdww7) | 3:14 | 2024-09-10 | 2024-10-19 |
-| [Find Your Love](https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Find Your Love](https://open.spotify.com/album/7ffIGFj6wU4Z5CC56EmD5D) | 3:10 | 2025-12-05 |  |
+| [Find Your Love](https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Find Your Love](https://open.spotify.com/album/7ffIGFj6wU4Z5CC56EmD5D) | 3:10 | 2025-12-05 | 2026-03-28 |
 | [finding rhythm](https://open.spotify.com/track/4Y5xx6F2NhaxJ0D5fzgKXB) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [finding rhythm](https://open.spotify.com/album/7thqwj3Pm1u50w4v3mIMIx) | 3:47 | 2021-12-02 | 2022-05-14 |
 | [Fire](https://open.spotify.com/track/7z7HuJQUzk93pSnP1qZkTp) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Fire](https://open.spotify.com/album/3T0O1rAk16A6FVB4dyG5DH) | 3:37 | 2020-03-06 | 2021-07-30 |
 | [Fire & Fury](https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Fire & Fury](https://open.spotify.com/album/44HCNNxPv7q5KVYvPTNFix) | 3:45 | 2020-02-14 | 2020-04-18 |
@@ -2316,6 +2316,7 @@
 | [Set The Table \(feat\. Claud\)](https://open.spotify.com/track/4KKfz33BvPygaynUJyeyC2) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Set The Table](https://open.spotify.com/album/293J6DF0p1SvXtIt9xFilZ) | 3:15 | 2021-04-20 | 2022-03-11 |
 | [SEVEN](https://open.spotify.com/track/1hG3bHLdj2bCe4GF3JOTEt) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [SEVEN](https://open.spotify.com/album/1n246VpvYZMEJY4IbGE45b) | 2:49 | 2024-05-24 | 2024-06-14 |
 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 | 2023-05-11 | 2023-06-23 |
+| [Sexy](https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE), [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 2:10 | 2026-03-27 |  |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 | 2024-10-26 |
 | [Sha La La](https://open.spotify.com/track/7dVF7taTea0xSv0HCrPGU9) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Sha La La](https://open.spotify.com/album/7qnn1EJOqFZRGcKVHlHSBr) | 3:55 | 2024-02-27 | 2024-03-29 |
 | [Shame](https://open.spotify.com/track/72pHUjZmkTmscezhPflMzN) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Shame](https://open.spotify.com/album/6N8a80dwH6JDDZ7Ze1WCDz) | 3:17 | 2024-06-07 | 2024-08-17 |
@@ -2444,7 +2445,7 @@
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-05 | 2023-06-23 |
 | [Space Cadet](https://open.spotify.com/track/0DuGEqN0pRJ5QAVFvnLe6P) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 4:24 | 2019-10-25 | 2020-03-21 |
 | [Spades](https://open.spotify.com/track/1KKJZCtjS3oHLhphrssLtw) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Spades](https://open.spotify.com/album/56Jq5qTNs3dsm3bYrhj7Hp) | 5:54 | 2025-01-30 | 2025-04-12 |
-| [spearmint](https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [spearmint / slowbird](https://open.spotify.com/album/4tftppkkQemA0l7tGLFXk3) | 2:31 | 2026-01-16 |  |
+| [spearmint](https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [spearmint / slowbird](https://open.spotify.com/album/4tftppkkQemA0l7tGLFXk3) | 2:31 | 2026-01-16 | 2026-03-28 |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-06-06 | 2025-06-14 |
 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 | 2025-01-10 | 2025-03-08 |
 | [Spirals](https://open.spotify.com/track/21XK3S7N0Jyx9IJLG1tF6D) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Spirals](https://open.spotify.com/album/3jatKNCm41BJlB7y27emjF) | 4:55 | 2022-05-27 | 2022-07-29 |
@@ -2756,6 +2757,7 @@
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-05-19 | 2022-07-29 |
 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 | 2025-08-22 | 2025-09-20 |
 | [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-09-09 | 2023-01-19 |
+| [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-03-27 |  |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-16 | 2022-12-06 |
 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 | 2024-08-08 | 2024-10-19 |
 | [Too Dead Inside](https://open.spotify.com/track/3xpjud2OuXqfbzLve7j0OV) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:25 | 2022-02-18 | 2022-04-21 |

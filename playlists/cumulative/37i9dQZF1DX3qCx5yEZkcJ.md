@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-585 songs - 1 day 0 hr 20 min
+586 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 | 2023-11-09 |
 | [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
-| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
+| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2026-03-28 |
 | [golden hour](https://open.spotify.com/track/6vW3cxpUmK3pjyB1GXIu7N) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [golden hour](https://open.spotify.com/album/6dA0ItWZ4CtzsPKTwYvwma) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Golden State](https://open.spotify.com/track/1QEHwRNmwnmRnoSokEXvLe) | [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Odyssey](https://open.spotify.com/album/1PlCw0Zm0vDHYx3LUASH6h) | 1:48 | 2021-12-16 | 2022-04-21 |
 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
@@ -257,6 +257,7 @@
 | [Juveniles](https://open.spotify.com/track/4v6tBoTZzfqMy4A2rWfvzS) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Juveniles](https://open.spotify.com/album/0H4xna6qufppi1I5U8tho0) | 2:05 | 2020-06-19 | 2020-11-06 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |
 | [keep in mind](https://open.spotify.com/track/2dsS4ryKRRykuRQZEMcZSu) | [V\. James](https://open.spotify.com/artist/7Kl0EH83Xb2SJbgxs6eDTq) | [keep in mind](https://open.spotify.com/album/2RyHibjNTyEZgWm04yjWWn) | 2:03 | 2020-06-29 | 2021-05-28 |
+| [Kingyo](https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Kingyo](https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV) | 2:48 | 2026-03-25 |  |
 | [kokoro](https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [kokoro](https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B) | 2:11 | 2024-07-18 | 2024-12-09 |
 | [Kumomi](https://open.spotify.com/track/142Kgio2pmQXmOx2Izsynl) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [February: A Rest in Beats Tribute to the Sounds of Nujabes](https://open.spotify.com/album/4bY9u3kqWLOzsr6KnRvhjR) | 3:47 | 2019-05-26\* | 2022-10-15 |
 | [Kumomi](https://open.spotify.com/track/1EUwtIVPwB08afinH7423c) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [February: A Rest in Beats Tribute to the Sounds of Nujabes](https://open.spotify.com/album/6bJFsauZZ1IfdOhQekv7x2) | 3:47 | 2022-11-17 | 2023-04-28 |
@@ -290,7 +291,7 @@
 | [Life moves fast, so take my hand.](https://open.spotify.com/track/67N6n2BFVxoZJ085I7UwpN) | [pigbaby](https://open.spotify.com/artist/6bY6N1PHP9mSt8fZ1V2hHd) | [Life moves fast, so take my hand.](https://open.spotify.com/album/17EqbqNeKeVznFr0Z7uxoF) | 3:19 | 2024-04-12 | 2024-04-29 |
 | [Lofi Just Colleagues](https://open.spotify.com/track/2kTCoVdNSA48FZH8lV3xAR) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Just Colleagues](https://open.spotify.com/album/4evSVnCgwLIdxp2DOXsoiI) | 3:20 | 2019-06-14 | 2019-08-13 |
 | [Lofi Keanu Level Lonely](https://open.spotify.com/track/2I5Gnq6Cbws0Sw2AFNWrGP) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Keanu Level Lonely](https://open.spotify.com/album/3gVRNPuo2EiUZiIcPT2IK4) | 2:53 | 2020-11-06 | 2022-07-08 |
-| [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 | 2020-03-27 | 2026-03-27 |
+| [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 | 2020-03-27 |  |
 | [Lokki](https://open.spotify.com/track/1sI1lOqe40lScdPpRd6Rp8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Lokki](https://open.spotify.com/album/1sy0P5fxTPTuNENrPb2sEv) | 3:20 | 2022-02-24 | 2022-07-29 |
 | [Loose 90](https://open.spotify.com/track/07AYryCqAxeiqUGVkt7TP3) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Loose 90](https://open.spotify.com/album/0g7gWPmZRYHLvN9sI4kEyC) | 2:12 | 2019-05-26\* | 2022-04-19 |
 | [Lotus Lake](https://open.spotify.com/track/7gMaYxpTpNIhJXjZYAGX9D) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Lotus Lake](https://open.spotify.com/album/1xpUOi63PRKviztUFM7Jv2) | 1:57 | 2020-06-29 | 2021-10-24 |
@@ -587,7 +588,7 @@
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-08-31 |  |
 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 | 2025-01-10 |  |
 | [zen](https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi), [OONOO](https://open.spotify.com/artist/3N0ZLLAp4RBTBt2zMlRUiw), [botanik](https://open.spotify.com/artist/0KvCRbWbiJwKJWTYGrKi81) | [zen](https://open.spotify.com/album/4BF3jUWMuRqxlqp9ZCRaVx) | 2:37 | 2024-06-14 | 2024-10-05 |
-| [ZENSORIUM](https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI) | [ZENSORIUM](https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP) | 1:52 | 2026-03-09 |  |
+| [ZENSORIUM](https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI) | [ZENSORIUM](https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP) | 1:52 | 2026-03-09 | 2026-03-28 |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-18 | 2026-01-15 |
 | [Zimzilla](https://open.spotify.com/track/5KBh3fUwv6xrDFO6wZzmFI) | [Mad Q](https://open.spotify.com/artist/7IxHBmCE0jN2vhoLKQSZR6) | [Zimzilla](https://open.spotify.com/album/5LVHMBwC8BMucytnEejcTj) | 3:28 | 2019-05-26\* | 2019-08-13 |
 | [夜桜](https://open.spotify.com/track/5p0XdPnjJGBe3939Ythxil) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夜桜](https://open.spotify.com/album/0sZamxxWUgGiRSDf98w8KE) | 2:06 | 2022-04-07 | 2022-07-28 |

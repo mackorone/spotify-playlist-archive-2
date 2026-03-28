@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002RAYE, Charlie Puth, HANA, Miley Cyrus and more!",
-  "num_followers": 153893,
+  "num_followers": 154233,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -446,10 +446,14 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 173000,
+      "name": "Getaway",
       "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
     },
     {
@@ -1311,6 +1315,22 @@
     {
       "added_at": "2026-03-26 15:00:31",
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/7tYLXNTWLT9ZhpKLTHGQgn"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/6BsHcAWmzajPsuvGlzOWCB"
+    },
+    {
+      "added_at": "2026-03-26 15:00:31",
+      "album": {
         "name": "Sweetest Tea",
         "url": "https://open.spotify.com/album/7dXiLr9XRzj1FD8d0xY3hj"
       },
@@ -1368,8 +1388,8 @@
           "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 250751,
+      "name": "Was It Love",
       "url": "https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP"
     },
     {
@@ -1550,10 +1570,14 @@
         {
           "name": "Bnnyhunna",
           "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 229573,
+      "name": "The Rock (feat. 3DDY)",
       "url": "https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM"
     },
     {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,461 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,515 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
-| 2 | [Song of Storms \- from The Legend of Zelda: Ocarina of Time](https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Josh Harmon](https://open.spotify.com/artist/3JKUGYtpuP0wUHgYpt9R7N) | [Song of Storms \(from The Legend of Zelda: Ocarina of Time\)](https://open.spotify.com/album/1JB7EwRhYsQC6H2njNB3Ph) | 1:31 |
+| 2 | [Song of Storms \- from The Legend of Zelda: Ocarina of Time](https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Josh Harmon](https://open.spotify.com/artist/5z44q3rMwinmehpx3oSp3s) | [Song of Storms \(from The Legend of Zelda: Ocarina of Time\)](https://open.spotify.com/album/1JB7EwRhYsQC6H2njNB3Ph) | 1:31 |
 | 3 | [Liza \(All The Clouds'll Roll Away\) \- Live](https://open.spotify.com/track/29p85dCbk8cNSVlCxmY30o) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Liza \(All The Clouds'll Roll Away\)](https://open.spotify.com/album/52upjY3j9rWBk5f0AVwbs8) | 4:22 |
 | 4 | [I'm In Trouble \(feat\. Norah Jones\)](https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Love or Lack Thereof](https://open.spotify.com/album/778SMcYzULEI52vOMo2rFX) | 3:40 |
 | 5 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |

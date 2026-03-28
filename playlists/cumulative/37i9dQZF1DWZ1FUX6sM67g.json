@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "El Valle Es El Valle",
+        "url": "https://open.spotify.com/album/0EUNMsqTB00meyqszKie2g"
+      },
+      "artists": [
+        {
+          "name": "Karen Lizarazo",
+          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "El Valle Es El Valle",
+      "url": "https://open.spotify.com/track/5ONQwSGPEnlVJTsXqTXCqu"
+    },
+    {
+      "album": {
         "name": "En Barranquilla Me Quedo (Homenaje a Joe Arroyo)",
         "url": "https://open.spotify.com/album/4UiHiuhosaIa2229YiJXKn"
       },

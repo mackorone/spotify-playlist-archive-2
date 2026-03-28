@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-525 songs - 1 day 6 hr 55 min
+525 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 | 2025-05-16 |
 | [Hälften av han](https://open.spotify.com/track/0KALl4TnIi1k6JbKlmDpDl) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Hälften av han](https://open.spotify.com/album/5YQBLNQ1OT9pbLlw2aiJXY) | 2:25 | 2025-05-15 | 2025-05-30 |
 | [Hälsingevind](https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq) | [Engmans Kapell](https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v), [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Hälsingevind](https://open.spotify.com/album/0SqezURYw039gJ7livqLby) | 4:47 | 2025-07-10 |  |
+| [Här kommer den nya tiden](https://open.spotify.com/track/52K5SoXsM9y2JPWdw93jp9) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Peter Nordahl](https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK), [Royal Stockholm Philharmonic Orchestra](https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0) | [Symphonia Politropou](https://open.spotify.com/album/40npx0Zpd9HU8E7SBSIuHv) | 5:04 | 2026-03-26 |  |
 | [Hökvind](https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [Hökvind](https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe) | 7:10 | 2026-03-12 |  |
 | [Hör mig!](https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [En sång till Selma](https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp) | 3:58 | 2025-04-22 | 2025-08-12 |
 | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz), [Frida Andersson](https://open.spotify.com/artist/6DkxCz6NFKTUoMUKJwZ0dR) | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1) | 3:08 | 2024-06-27 | 2024-08-09 |
@@ -462,7 +463,6 @@
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 | 2026-02-13 |
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
 | [Tonårsland](https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tonårsland](https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9) | 3:10 | 2026-03-12 |  |
-| [Track 10](https://open.spotify.com/track/52K5SoXsM9y2JPWdw93jp9) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Symphonia Politropou](https://open.spotify.com/album/40npx0Zpd9HU8E7SBSIuHv) | 0:00 | 2026-03-26 |  |
 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 | 2025-09-25 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 | 2025-04-25 |

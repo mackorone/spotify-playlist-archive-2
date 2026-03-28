@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Carnaval \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva & Julio Preciado \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164153,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
+    },
+    {
+      "album": {
         "name": "B\u00e9same y Olv\u00eddame (En Vivo)",
         "url": "https://open.spotify.com/album/7vf0KzeR7U4paLkZiel00A"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 210612,
       "name": "Cuando Te Ame",
       "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
@@ -2953,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "Dos Hojas Sin Rumbo",
+        "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177009,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
+    },
+    {
+      "album": {
         "name": "DPM",
         "url": "https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH"
       },
@@ -3120,7 +3160,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 132864,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB"
@@ -5037,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152908,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
+    },
+    {
+      "album": {
         "name": "Fuiste Tu",
         "url": "https://open.spotify.com/album/5fIkZ4VQtZUl91Mfrv9Elm"
       },
@@ -5368,7 +5430,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 145046,
       "name": "Irregular",
       "url": "https://open.spotify.com/track/36ojskKGrTTjagcwzFgeTI"
@@ -6389,6 +6451,24 @@
     },
     {
       "album": {
+        "name": "Lo Bonito de Sufrir",
+        "url": "https://open.spotify.com/album/72Pm0wNsTgOwRsUdBLTGyZ"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193872,
+      "name": "Lo Bonito de Sufrir",
+      "url": "https://open.spotify.com/track/3p9v4yLOF3XWQHW6WCvwku"
+    },
+    {
+      "album": {
         "name": "Lo Mejor Que Hay En Mi Vida",
         "url": "https://open.spotify.com/album/61faQq26AD95mvcicr0a1m"
       },
@@ -6738,6 +6818,24 @@
       "duration_ms": 161166,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/1EgDuGy5UlKVLTWv0UqIYL"
+    },
+    {
+      "album": {
+        "name": "El Rey Del Despecho 2.0",
+        "url": "https://open.spotify.com/album/2HYCvRRXrXbNqYWZB8aWK9"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165384,
+      "name": "Marca Personal",
+      "url": "https://open.spotify.com/track/5gvHCLlCjTyJI6c3VEYJTI"
     },
     {
       "album": {
@@ -7098,7 +7196,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178840,
       "name": "Me Toc\u00f3 Perder",
       "url": "https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD"
@@ -7707,6 +7805,24 @@
     },
     {
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/6JXhLhkOf72sFFIMu9PZda"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225170,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj"
+    },
+    {
+      "album": {
         "name": "CHSM El Higado!",
         "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
       },
@@ -8223,6 +8339,28 @@
     },
     {
       "album": {
+        "name": "No Me Pidas Un Tiempo",
+        "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "No Me Pidas Un Tiempo",
+      "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
+    },
+    {
+      "album": {
         "name": "No Se Lo Deseo a Nadie",
         "url": "https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs"
       },
@@ -8350,7 +8488,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 204365,
       "name": "N\u00famero Equivocado",
       "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
@@ -9496,7 +9634,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 207707,
       "name": "Que Bonita",
       "url": "https://open.spotify.com/track/5Ew0snFFKUCmTS59odHPHX"
@@ -10606,7 +10744,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
@@ -13128,6 +13266,24 @@
       "duration_ms": 187280,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "album": {
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162911,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
     },
     {
       "album": {

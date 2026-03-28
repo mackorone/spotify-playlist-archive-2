@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Aooo
 
-1,550 songs - 4 day 5 hr 20 min
+1,551 songs - 4 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 | 2026-01-21 | 2026-02-12 |
 | [KiLLKiSS](https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [KiLLKiSS](https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p) | 3:28 | 2025-01-07 | 2025-06-06 |
 | [Kinetic](https://open.spotify.com/track/5tRuxhSW4ENtZI1sr63Xwg) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa), [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Kinetic](https://open.spotify.com/album/1SyHS4LYAqtA3WC0n18kpQ) | 3:20 | 2026-03-24 |  |
+| [KINTSUGI feat\. Koie](https://open.spotify.com/track/5HxM1saoFXmxuegcBvf8gP) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Koie](https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC) | [KINTSUGI feat\. Koie](https://open.spotify.com/album/6rLUcfQJ9m1ZYNSrj5kcu0) | 3:23 | 2026-03-27 |  |
 | [Kirifuda \(feat\. TAKUMA from 10\-FEET\)](https://open.spotify.com/track/5vL44zUh8BW1BNJsE5TV45) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [Wabi Sabi \-Sabi\-](https://open.spotify.com/album/4rXzqtHbEYt1UyMQjFLRCR) | 2:29 | 2025-03-18 | 2025-04-02 |
 | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/album/47fiiDihH7dce4HLaz9c57) | 7:02 | 2023-12-05 | 2023-12-13 |
 | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 | 2024-12-25 |
@@ -970,7 +971,7 @@
 | [ありったけのコイン](https://open.spotify.com/track/5o9SNaE0ifhpz3tiFD7Igk) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 5:17 | 2023-03-21 | 2023-03-29 |
 | [ありったけのコイン](https://open.spotify.com/track/40XGk9XURRWk5jV89iwmXE) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [SCREW DRIVER](https://open.spotify.com/album/5EXOY7AoMUd33lfMjUlrxg) | 5:20 | 2023-03-21 | 2023-03-23 |
 | [ある朝](https://open.spotify.com/track/3a2qX03Ctq69PEqG89cDM9) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [CORE 4](https://open.spotify.com/album/3TXOMUTuFQGhPOpNEYdUCq) | 4:00 | 2022-05-10 | 2022-07-13 |
-| [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 | 2025-06-24 |  |
+| [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 | 2025-06-24 | 2026-03-28 |
 | [ある証明](https://open.spotify.com/track/210KKbtaSEC8dazqRyNwsM) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [and world](https://open.spotify.com/album/4ch03gmg7kQW32XKnbSlV0) | 5:07 | 2024-01-16 | 2024-01-24 |
 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 | 2023-10-03 | 2024-08-27 |
 | [いっそ分裂](https://open.spotify.com/track/5gzVCsND9HT8HD7KjrT15G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [Unite / Divide](https://open.spotify.com/album/0nTYoNvUKtILpU8EdS73I3) | 4:42 | 2022-05-10 | 2022-07-21 |

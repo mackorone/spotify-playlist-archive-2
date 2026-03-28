@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31792,
+  "num_followers": 31799,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAROO3w8xO5EBkk85xMQtgXVjImjE93",
+  "snapshot_id": "AAARQRiP10ooOWk/5jRKlL0ifmZBHgBS",
   "tracks": [
     {
       "added_at": "2026-02-17 22:35:07",
@@ -29,10 +29,10 @@
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
-      "added_at": "2026-03-02 18:37:42",
+      "added_at": "2026-03-27 14:04:13",
       "album": {
-        "name": "if you wanna party, come over to my house",
-        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
       },
       "artists": [
         {
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 171613,
-      "name": "if you wanna party, come over to my house",
-      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-02-17 16:05:43",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
+      "added_at": "2026-03-02 18:37:42",
+      "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
       "added_at": "2026-02-10 17:08:09",
       "album": {
         "name": "Beatback",
@@ -119,6 +135,26 @@
       "duration_ms": 184083,
       "name": "CAPTAIN KERNEL",
       "url": "https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel"
+    },
+    {
+      "added_at": "2026-03-27 10:32:34",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX"
     },
     {
       "added_at": "2025-09-08 16:26:08",

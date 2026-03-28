@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from YoungBoy Never Broke Again, Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,429 likes - 242 songs - 12 hr 19 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,424 likes - 242 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 68 | [Striker](https://open.spotify.com/track/02Ixym2qJRUMHw8MSwfaYf) | [Rich Sinners](https://open.spotify.com/artist/4XALT5ylIISW8NLFbuQy1e), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Striker](https://open.spotify.com/album/2zYzNgU0DHpO3SDyCrr0zd) | 2:48 |
 | 69 | [Geek \(feat\. BloodHound Q50\)](https://open.spotify.com/track/4FAZbGMqZCPkqmUMG3pGn8) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Geek \(feat\. BloodHound Q50\)](https://open.spotify.com/album/2AoFldiXyIwpn04BkHvRs3) | 1:52 |
 | 70 | [Shot Callin](https://open.spotify.com/track/4rFqRV4UCQubpw348acBq3) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Shot Callin](https://open.spotify.com/album/68SBxb7HlBIt6gIcKsS5A7) | 3:45 |
-| 71 | [Big Dawg Status](https://open.spotify.com/track/5TszhspXFf2yrLh9CiWgyy) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Big Dawg Status](https://open.spotify.com/album/7bLog9WI6NtbaMN5tVwBIf) | 3:32 |
+| 71 | [Big Dawg Status](https://open.spotify.com/track/5TszhspXFf2yrLh9CiWgyy) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Big Dawg Status](https://open.spotify.com/album/7bLog9WI6NtbaMN5tVwBIf) | 3:31 |
 | 72 | [2 Crash Outs \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/7qG4u25CNp88uvCXk0lvCg) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [2 Crash Outs \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5mSjqqSyLA0ad7l1fw5qbH) | 2:48 |
 | 73 | [BACKSEAT \(feat\. Chief Keef & G Herbo\)](https://open.spotify.com/track/6Pg8SdmB0Ge2oREMuzUvhh) | [Big Opp](https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BACKSEAT \(feat\. Chief Keef & G Herbo\)](https://open.spotify.com/album/37gjb0OUw94caNd0UOJnux) | 4:08 |
 | 74 | [Show Out \(with Lil Jon, YKNIECE & J White Did It\)](https://open.spotify.com/track/0XpPr07CpPv7tbfa32W1FK) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [Show Out \(with Lil Jon, YKNIECE & J White Did It\)](https://open.spotify.com/album/5LZE7ydhx8V2cPaPN2gWWq) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > A celebrar 5 anos de EQUAL\. Cover: MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,186 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,191 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Em Vez do Mundo Acabar](https://open.spotify.com/track/3lywN2rWuUoU9BvHhxltCu) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [Em Vez do Mundo Acabar](https://open.spotify.com/album/5kCXpaJyznsODjkJOcLMkc) | 4:10 |
 | 50 | [Repreendida](https://open.spotify.com/track/0VyadZWn3hIa5Mwg1EPgsw) | [Margarida](https://open.spotify.com/artist/34EGQNhE0BSQJhRw4lEDo1) | [Repreendida](https://open.spotify.com/album/1B0quIST2eRwHohZ9atw70) | 2:59 |
 
-Snapshot ID: `AAAAAPPW8Ln0Fn92J5iRT3w1hB8BPsxZ`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

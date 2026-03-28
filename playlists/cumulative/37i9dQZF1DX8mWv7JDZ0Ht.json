@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Gabriel Gonti, Anna P\u00eago",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Tiago Iorc",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1909,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "BALAN\u00c7O",
+        "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136575,
+      "name": "BALAN\u00c7O",
+      "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
+    },
+    {
+      "album": {
         "name": "Mar\u00e9 Alta",
         "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
@@ -3094,10 +3116,32 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 215943,
       "name": "Caso eu Case",
       "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
+    },
+    {
+      "album": {
+        "name": "Troco Likes 10 Anos",
+        "url": "https://open.spotify.com/album/4ENAQW1v7CNmUjxJckfqI5"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205671,
+      "name": "Cataflor",
+      "url": "https://open.spotify.com/track/3KQgz9YoHSBPUZHHwZ6nbR"
     },
     {
       "album": {
@@ -7357,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
+    },
+    {
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -8798,7 +8860,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
@@ -10170,7 +10232,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 152450,
       "name": "NEM SE O MUNDO ACABAR",
       "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"

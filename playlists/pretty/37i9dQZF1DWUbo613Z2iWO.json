@@ -1,80 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Arin Ray",
-  "num_followers": 58832,
+  "description": "R&B of the moment by the artists of the future. Cover: Bellah",
+  "num_followers": 58847,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI42lhlgIyjAN35ejVsDuWQoywZg",
+  "snapshot_id": "AAAAAIrEbyUz5hJ760XpdjLuCaVPq3FP",
   "tracks": [
     {
-      "added_at": "2026-03-20 04:20:30",
+      "added_at": "2026-03-27 05:45:45",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/3wiopcmc4FnWIbCQN071sC"
+        "name": "State Of Emergency Vol 1.",
+        "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
       },
       "artists": [
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Paperboy Fabe",
-          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
         }
       ],
-      "duration_ms": 177692,
-      "name": "Both Of Us",
-      "url": "https://open.spotify.com/track/206tNNIw7RoyPwfaTUgJNv"
-    },
-    {
-      "added_at": "2026-03-13 04:59:14",
-      "album": {
-        "name": "Your Loss",
-        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "Your Loss",
-      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
-    },
-    {
-      "added_at": "2026-03-13 04:59:14",
-      "album": {
-        "name": "Safety",
-        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 198648,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
-    },
-    {
-      "added_at": "2026-03-20 04:20:30",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4bUHERN8RD4z3vO6vxoxdR"
-      },
-      "artists": [
-        {
-          "name": "Ebony Riley",
-          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
-        }
-      ],
-      "duration_ms": 202608,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/04pDLouxkwPk1PBW2FlqJA"
+      "duration_ms": 152727,
+      "name": "Critical Condition",
+      "url": "https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh"
     },
     {
       "added_at": "2026-03-06 05:00:29",
@@ -97,20 +45,68 @@
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
-      "added_at": "2026-03-20 04:20:30",
+      "added_at": "2026-03-13 04:59:14",
       "album": {
-        "name": "worst",
-        "url": "https://open.spotify.com/album/1UTOeZvAysxKZHp2NWHXw0"
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
       },
       "artists": [
         {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
         }
       ],
-      "duration_ms": 166883,
-      "name": "worst",
-      "url": "https://open.spotify.com/track/67IUHgy0EDJcWX2UWTG7Oz"
+      "duration_ms": 193100,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "Soundtrack 2 Get Her Back",
+        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "True 2 Me",
+      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
+    },
+    {
+      "added_at": "2026-03-13 04:59:14",
+      "album": {
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 198648,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "He's Not All That",
+        "url": "https://open.spotify.com/album/5ox7vc3X9DRBZb8r9IiOta"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "He's Not All That",
+      "url": "https://open.spotify.com/track/01HKbGG3qQdMsTQav30R9z"
     },
     {
       "added_at": "2026-01-23 06:55:04",
@@ -129,6 +125,58 @@
       "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
     },
     {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0gpbIMZG5yyX7SUHnUtbt2"
+      },
+      "artists": [
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 255272,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1kqnS9qo07du8t0DAxeTnx"
+    },
+    {
+      "added_at": "2026-03-20 04:20:30",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/3wiopcmc4FnWIbCQN071sC"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "Paperboy Fabe",
+          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Both Of Us",
+      "url": "https://open.spotify.com/track/206tNNIw7RoyPwfaTUgJNv"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/7asQi6ABuMJaubEiykeq3l"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1ukZdmbOo4MeK64kvpT3Gh"
+    },
+    {
       "added_at": "2026-03-20 04:20:30",
       "album": {
         "name": "Love or a Lesson",
@@ -143,6 +191,126 @@
       "duration_ms": 165714,
       "name": "Too Much?",
       "url": "https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "Is There Anybody Home?",
+        "url": "https://open.spotify.com/album/5D0GH53tFnwWPkBqzwuIui"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 159893,
+      "name": "Friend of a Friend",
+      "url": "https://open.spotify.com/track/2wTio10YbyH3qMEPeSRdPl"
+    },
+    {
+      "added_at": "2026-03-20 04:20:30",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/1wpj6QBsof5iWMR3kqfGoM"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 154128,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/3kpODMFZjNcZDCglcqenuy"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "MEMORIA, in blue",
+        "url": "https://open.spotify.com/album/4oVZVw7nDN256d6Zm5YUId"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "GREEN VOWS",
+      "url": "https://open.spotify.com/track/5yGxrxtSMNFYCOpEfdWgvV"
+    },
+    {
+      "added_at": "2026-03-20 04:20:30",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4bUHERN8RD4z3vO6vxoxdR"
+      },
+      "artists": [
+        {
+          "name": "Ebony Riley",
+          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
+        }
+      ],
+      "duration_ms": 202608,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/04pDLouxkwPk1PBW2FlqJA"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "Shame (feat. BunnaB)",
+        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Shame (feat. BunnaB)",
+      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
+    },
+    {
+      "added_at": "2026-03-20 04:20:30",
+      "album": {
+        "name": "worst",
+        "url": "https://open.spotify.com/album/1UTOeZvAysxKZHp2NWHXw0"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 166883,
+      "name": "worst",
+      "url": "https://open.spotify.com/track/67IUHgy0EDJcWX2UWTG7Oz"
+    },
+    {
+      "added_at": "2026-03-27 05:45:45",
+      "album": {
+        "name": "Tricks Are For Kids",
+        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 140259,
+      "name": "Tricks Are For Kids",
+      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
     },
     {
       "added_at": "2026-02-27 08:41:07",
@@ -163,22 +331,6 @@
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
-    },
-    {
-      "added_at": "2026-03-20 04:20:30",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/1wpj6QBsof5iWMR3kqfGoM"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 154128,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/3kpODMFZjNcZDCglcqenuy"
     },
     {
       "added_at": "2026-03-20 04:20:30",
@@ -1749,22 +1901,6 @@
       "url": "https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/7xcwQDkqoz5xDpgx5KmMpx"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/65P4otXfzcWfo031JVtwDU"
-    },
-    {
       "added_at": "2025-12-05 08:19:53",
       "album": {
         "name": "STILL IN MOTION",
@@ -1841,38 +1977,6 @@
       "url": "https://open.spotify.com/track/2pGJStBbf6jJMkbT7CFFaS"
     },
     {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
-    },
-    {
-      "added_at": "2025-12-05 08:19:53",
-      "album": {
-        "name": "AGAIN",
-        "url": "https://open.spotify.com/album/056sNwOFfYIzgkouMydSgn"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "AGAIN",
-      "url": "https://open.spotify.com/track/0ABnKfR4XX3D0xTUViIvcL"
-    },
-    {
       "added_at": "2025-12-05 08:19:53",
       "album": {
         "name": "Daily!",
@@ -1907,22 +2011,6 @@
       "duration_ms": 228256,
       "name": "Dedication 6",
       "url": "https://open.spotify.com/track/0BqM09B7nQxZn0zKb8gfPC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:46",
-      "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/5PGqBNGP2wKKQHFWLSYTSv"
-      },
-      "artists": [
-        {
-          "name": "Gio Genesis",
-          "url": "https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/1vHlshHlOXS6b6cMkvGJzy"
     },
     {
       "added_at": "2025-11-21 06:25:10",
@@ -1977,26 +2065,6 @@
       "url": "https://open.spotify.com/track/5nK4QbQn1hslWhpDVOnqW2"
     },
     {
-      "added_at": "2025-12-05 08:19:53",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/20QbPI59jQa5q7kGoxEBP1"
-      },
-      "artists": [
-        {
-          "name": "Lily Massie",
-          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 186545,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4GBsWEP6x2zsMiyNmkjcq8"
-    },
-    {
       "added_at": "2025-10-10 06:44:24",
       "album": {
         "name": "Can't Explain It (with Girlfriend)",
@@ -2031,26 +2099,6 @@
       "duration_ms": 184615,
       "name": "Officer, Pt. 2",
       "url": "https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ"
-    },
-    {
-      "added_at": "2025-11-14 09:43:17",
-      "album": {
-        "name": "Same Ole Dreams",
-        "url": "https://open.spotify.com/album/3VccZZ3U1bTrpGpbNvYIfi"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        },
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Same Ole Dreams",
-      "url": "https://open.spotify.com/track/5tfbPQ9xEeLgMXsA6KmCBP"
     },
     {
       "added_at": "2025-11-21 06:25:10",
@@ -2353,38 +2401,6 @@
       "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
     },
     {
-      "added_at": "2025-10-25 01:29:33",
-      "album": {
-        "name": "There's Always Tomorrow",
-        "url": "https://open.spotify.com/album/4w6U7tLVYjtpBjb1orSq56"
-      },
-      "artists": [
-        {
-          "name": "Yaya",
-          "url": "https://open.spotify.com/artist/4vhwpfSggjFSAqAKUEyaJn"
-        }
-      ],
-      "duration_ms": 225671,
-      "name": "time",
-      "url": "https://open.spotify.com/track/5TAAsmWRh3peWbdWv9rDvt"
-    },
-    {
-      "added_at": "2025-10-10 06:44:24",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/1GwCXvwD971NE1ItfSCxfR"
-      },
-      "artists": [
-        {
-          "name": "Ebony Riley",
-          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
-        }
-      ],
-      "duration_ms": 132519,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4w3MvMb3ylHkBLUIIaCQzF"
-    },
-    {
       "added_at": "2025-09-26 19:25:25",
       "album": {
         "name": "SUMMER ENDS",
@@ -2551,30 +2567,6 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
-        "name": "Skincare Riddim ft. AntsLive & Erick the Architect",
-        "url": "https://open.spotify.com/album/4MeZwR2WeDpL4cjjJSR045"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 155754,
-      "name": "Skincare Riddim ft. AntsLive & Erick the Architect",
-      "url": "https://open.spotify.com/track/4Gu68yR7HMgDBE9fQgiAvM"
     }
   ],
   "unique_name": "R&B Rising",

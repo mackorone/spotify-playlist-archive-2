@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- NAYEL
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Raza
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,292 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,377 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [W84ME](https://open.spotify.com/track/2UKckEKuTbywEvB9V2cyyC) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO) | [W84ME](https://open.spotify.com/album/3d3ApXbXVxcjuUyKSIaEAb) | 2:45 |
-| 2 | [Alone Together](https://open.spotify.com/track/3kSZD2wG2z2tCgCYPaBGe9) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [dotxb](https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk) | [Alone Together](https://open.spotify.com/album/2kOh2qepK6MCitjXIMXBs5) | 2:54 |
-| 3 | [bachpan](https://open.spotify.com/track/5QeRDqS37U8ZvzfZJpFLfS) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [bachpan](https://open.spotify.com/album/5xY2knxXqY1JjQusUWJTPK) | 2:58 |
-| 4 | [Hoor](https://open.spotify.com/track/5BYYkRatTk3RiIkEAHxRyi) | [Qasim Virk](https://open.spotify.com/artist/3fgWQfCWOIB5CAcGXfR2fX) | [Hoor](https://open.spotify.com/album/05N8fK1tvOOSOUA8owy9n7) | 2:55 |
-| 5 | [Obsessed](https://open.spotify.com/track/50d7m7QfLq1whkBzBe7Ctv) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Obsessed](https://open.spotify.com/album/3SlBKAsqU0tOBjH1salewg) | 3:14 |
-| 6 | [Lover Boy <3](https://open.spotify.com/track/2Q5gyCUNYQz2EL9roBpTop) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Lover Boy <3](https://open.spotify.com/album/2s8ioFadoLI0PUpE3PbZ8T) | 2:26 |
-| 7 | [Lapata](https://open.spotify.com/track/1314ZZ8gf9oWVWnU23urem) | [Soid](https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3), [Prod.S41F](https://open.spotify.com/artist/7K1GRJOvTEuCMDh07x4mNe) | [Lapata](https://open.spotify.com/album/2GNP3b6OY19xuLHNRnV79S) | 2:55 |
-| 8 | [Roothay](https://open.spotify.com/track/2aGgE6m1OlS7PTZs8fNLRC) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Roothay](https://open.spotify.com/album/1TRNxPSgUiPXk7hi7sYkEx) | 4:19 |
+| 1 | [Chann Taara](https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Kinza Hashmi](https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Chann Taara](https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp) | 3:47 |
+| 2 | [Faasle](https://open.spotify.com/track/6brtBsfzkU43KlOa8dNsKT) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Faasle](https://open.spotify.com/album/038cSsS1Rxk3JbmRWtgKBV) | 5:24 |
+| 3 | [Khasara](https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 2:40 |
+| 4 | [Bewajah](https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Bewajah](https://open.spotify.com/album/1nMYA7uloQvFhTDY565dtn) | 3:25 |
+| 5 | [Bhool Nahi](https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Bhool Nahi](https://open.spotify.com/album/3m6kRxCVzKzGNttpkpLY2v) | 3:04 |
+| 6 | [Obsessed](https://open.spotify.com/track/50d7m7QfLq1whkBzBe7Ctv) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Obsessed](https://open.spotify.com/album/3SlBKAsqU0tOBjH1salewg) | 3:14 |
+| 7 | [Lover Boy <3](https://open.spotify.com/track/2Q5gyCUNYQz2EL9roBpTop) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Lover Boy <3](https://open.spotify.com/album/2s8ioFadoLI0PUpE3PbZ8T) | 2:26 |
+| 8 | [Lapata](https://open.spotify.com/track/1314ZZ8gf9oWVWnU23urem) | [Soid](https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3), [Prod.S41F](https://open.spotify.com/artist/7K1GRJOvTEuCMDh07x4mNe) | [Lapata](https://open.spotify.com/album/2GNP3b6OY19xuLHNRnV79S) | 2:55 |
 | 9 | [Door](https://open.spotify.com/track/4OcA2iw5g8pt88DtkVu3x9) | [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Door](https://open.spotify.com/album/16B8GbRKZreDp9NZLjDEVh) | 2:53 |
 | 10 | [Tarpae](https://open.spotify.com/track/0ik3eFyP7Y8b1tycRCXPom) | [Ahmad Khan](https://open.spotify.com/artist/1UGsSy3gdyrAnPSdhbh6EY) | [Tarpae](https://open.spotify.com/album/142SdDNlHPWCS63Ouewlou) | 2:17 |
 | 11 | [Khamoshi](https://open.spotify.com/track/2f5NuDyMHpf8w0qd1Oaasr) | [SingingCrow](https://open.spotify.com/artist/73WZ1kCWLsf8jeNvd6zJDz) | [Khamoshi](https://open.spotify.com/album/5tkuwXTuxyiRGD478TKBDF) | 4:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 89 | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/track/4XV8zaWcumB5Et8IdhfSUa) | [Fazeel Khan](https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h) | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/album/3csWupL9ILbd6zbuBZR6pF) | 2:07 |
 | 90 | [Supreme Mode](https://open.spotify.com/track/6dAdThAhyvjGetAW8v8Ztu) | [Momin Ali Wajid](https://open.spotify.com/artist/2Bwz11LGCMXreTn8SFupGY) | [Supreme Mode](https://open.spotify.com/album/7DCYJtI3Vcczf71fKWuo8F) | 2:18 |
 
-Snapshot ID: `AAAAAIRZxOvcl2olvQpoCX53/lEt8jXm`
+Snapshot ID: `AAAAAGDpJH3aeDNx9igA8pqJ0Md6mxds`

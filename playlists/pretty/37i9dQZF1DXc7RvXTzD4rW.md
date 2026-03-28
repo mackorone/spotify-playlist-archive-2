@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 夏川椎菜
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,854 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,858 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 18 | [明日天気になぁれ](https://open.spotify.com/track/0VygsR73o2EUYL5rscSuhO) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [明日天気になぁれ](https://open.spotify.com/album/2mmSkmKfPhMBWCol28oC7T) | 3:35 |
 | 19 | [YES！サマーラブ♡](https://open.spotify.com/track/1BoDdLQrUxQXCXxQ8cwiu2) | [勇者パーティーにかわいい子がいたので、告白してみた。](https://open.spotify.com/artist/6MhQ8AyyJMpizaABak8cjN) | [YES！サマーラブ♡](https://open.spotify.com/album/3yUDpyJO8G96Q1smM2SrUy) | 3:49 |
 | 20 | [あいらびゅ♡](https://open.spotify.com/track/0sSch6NPpSkMFmw4XiFg8W) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [水萌汐（CV：久住琳）](https://open.spotify.com/artist/5XkizBdJfuqMVYCMEm4LLY), [火威灯（CV：芹澤優）](https://open.spotify.com/artist/5wvykoVQcY09gwfcWNwY3s), [月見るな（CV：平塚紗依）](https://open.spotify.com/artist/3Wm5HRjuFJLTiqOg6WxpOJ), [日向春（CV：山本悠有希）](https://open.spotify.com/artist/2rhaSluQPuyiM4cQSGGhv5) | [あいらびゅ♡](https://open.spotify.com/album/2j8U2kCee4QlcIaoNuE2lw) | 3:25 |
-| 21 | [いっこにこにこ](https://open.spotify.com/track/21xilBKd4bbvR3i5C7rNeW) | [ジャヒー\(CV.大橋彩香\)](https://open.spotify.com/artist/5U9GkQVakyNWaaqeO5w0dx), [Dou\(CV.Misaki Kuno\)](https://open.spotify.com/artist/2ivobVH19ZWfD8dOr4bZxD), [アーリマン\(CV.大塚明夫\)](https://open.spotify.com/artist/6wpHIP2EJoOb7nuPKJ3sDR) | [いっこにこにこ](https://open.spotify.com/album/2ZV3Ub25hEFaYLaW6eQeDV) | 3:40 |
+| 21 | [いっこにこにこ](https://open.spotify.com/track/21xilBKd4bbvR3i5C7rNeW) | [Jahy \(CV\. Ayaka Ohashi\)](https://open.spotify.com/artist/1F5iIYb0K4qVR149c6zDk7), [Dou\(CV.Misaki Kuno\)](https://open.spotify.com/artist/2ivobVH19ZWfD8dOr4bZxD), [アーリマン\(CV.大塚明夫\)](https://open.spotify.com/artist/6wpHIP2EJoOb7nuPKJ3sDR) | [いっこにこにこ](https://open.spotify.com/album/2ZV3Ub25hEFaYLaW6eQeDV) | 3:40 |
 | 22 | [人間カムトゥルー!](https://open.spotify.com/track/3dAB7LwwgC5pTYpAy0cZpV) | [水月鏡花\(CV.雨宮天\)](https://open.spotify.com/artist/2mDdi0p9CKQmEN5NOI0a05), [尾々守一咲\(CV.大西沙織\)](https://open.spotify.com/artist/7relIQQR012sE0Z31x2ZCC), [右左美彗\(CV.長縄まりあ\)](https://open.spotify.com/artist/4loGFucg3ZMMRDt1zhbjxq), [羽根田トバリ\(CV.田辺留依\)](https://open.spotify.com/artist/0sOqB9KojEl9zI3xuRCmuW) | [人間カムトゥルー!](https://open.spotify.com/album/2qHgJHzfdDdJJ0XkjfpWWN) | 3:10 |
 | 23 | [たのしいかくれんぼ](https://open.spotify.com/track/0QiWhozMPpIDPFT104KrJJ) | [Dou\(CV.Misaki Kuno\)](https://open.spotify.com/artist/2ivobVH19ZWfD8dOr4bZxD) | [たのしいかくれんぼ](https://open.spotify.com/album/6gFCHRir6iymp4GO1qFVXE) | 1:29 |
 | 24 | [星眼鏡](https://open.spotify.com/track/3m0IhG5H6FIHJsNEmm5sEy) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [星眼鏡](https://open.spotify.com/album/51aIXBaQ2lfl0HdyfEo8eo) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: GYMV \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,984 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,021 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,22 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 80 | [Dancing Till The End](https://open.spotify.com/track/7exwQq1QlgFIOpyIzVRkvL) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Dancing Till The End](https://open.spotify.com/album/6P3wkbCT4tuIWtnMbXZQjT) | 3:56 |
 | 81 | [Blush](https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Blush](https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW) | 2:44 |
 | 82 | [DUNG](https://open.spotify.com/track/0llOS3MZozFVrm722E0ROu) | [SPACE PUMPKIN](https://open.spotify.com/artist/6ylyglH1E1JUTSenhyB3c0) | [DUNG](https://open.spotify.com/album/3hBPlR9QlyvYvPPiguocWG) | 4:24 |
-| 83 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 |
-| 84 | [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 |
-| 85 | [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [BIRU BARU](https://open.spotify.com/album/3F6ab0kzrpxTmUrfCkcehU) | 3:55 |
-| 86 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:48 |
-| 87 | [Too comfortable](https://open.spotify.com/track/45M1P0zbhrCeHfAx6XK7im) | [GYOJUNG](https://open.spotify.com/artist/7dA33I3Wp5XmRXxMkWQ6YM) | [Failed reality](https://open.spotify.com/album/0v1VZ7pwQsdMRRUxqosILM) | 2:20 |
-| 88 | [muscle memory](https://open.spotify.com/track/33Otu6ABPu5qc0vApuX6wJ) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [muscle memory](https://open.spotify.com/album/15tRnZHIJ2Cv2fdZ5FgzSJ) | 3:21 |
-| 89 | [Curious about your weekend](https://open.spotify.com/track/5NxOQx2DtKVYzT0D9RYQ8B) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [TOWN BEAT](https://open.spotify.com/album/5Hw4dows7KZqGmPASR7qWR) | 4:09 |
-| 90 | [Volcatronix](https://open.spotify.com/track/1scCZ5VcrIAgD0H6iZVH40) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Volcatronix](https://open.spotify.com/album/1W0GQHll1fW60LpaCi1xb1) | 4:28 |
-| 91 | [Don’t Worry](https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5), [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Don’t Worry](https://open.spotify.com/album/7nANoO4JFA0TGiEtMzFdsH) | 4:08 |
-| 92 | [Shinigami\(死神\)](https://open.spotify.com/track/6IcIVCAaCusRsWgYfPrdYK) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Pizza Party Tequila & Xanax](https://open.spotify.com/album/1KxqDhdXGPPFtxEFX4WbOf) | 4:20 |
-| 93 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
-| 94 | [Somnium Chamber](https://open.spotify.com/track/7BrLWuUlJo0NOe66XVFjPf) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Somnium Chamber](https://open.spotify.com/album/2P0vdydUw6dasijMXgQUR5) | 3:11 |
-| 95 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
-| 96 | [particles](https://open.spotify.com/track/2jwJD82eRcm6wsoXjnhnvQ) | [midori jaeger](https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp) | [\(Un\)planted](https://open.spotify.com/album/1Z4jTm3QDoecBq2XSQQRoi) | 3:40 |
-| 97 | [難道要等收到通知那天我才走](https://open.spotify.com/track/3q1zZvMyxpDdVqCIt3wbLg) | [Dale](https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs) | [難道要等收到通知那天我才走](https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa) | 3:21 |
-| 98 | [All Again](https://open.spotify.com/track/7jccOS8U4HZHYMJiLPWXE1) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [Always Taking](https://open.spotify.com/album/47IqseQiAIJ2F8aZULnJbi) | 1:50 |
-| 99 | [CHROME](https://open.spotify.com/track/4SZO3RLiIbBLWLSAhCOAUA) | [ROGI\*](https://open.spotify.com/artist/11jDBhWmFza8NhQOHz63lQ) | [CHROME](https://open.spotify.com/album/6rMLGRkVViByu4I9wyLcA6) | 3:45 |
+| 83 | [bedroom music](https://open.spotify.com/track/2WPk5KDxanKKWhJifPuUjc) | [nosne](https://open.spotify.com/artist/4edDjE5fRXyan93EJ2YdBB) | [bedroom music](https://open.spotify.com/album/5JfNBnxLLQxvnjzfE1xSLv) | 3:34 |
+| 84 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 |
+| 85 | [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 |
+| 86 | [Maaf \(Pada Diriku\)](https://open.spotify.com/track/3t2e7Pf3UfZj5HwqVfjPgZ) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [BIRU BARU](https://open.spotify.com/album/3F6ab0kzrpxTmUrfCkcehU) | 3:55 |
+| 87 | [Stay.](https://open.spotify.com/track/18c3HOwfP9I5N2NSbxVYBf) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Stay.](https://open.spotify.com/album/3HUvptv1Vb4JubvBgY1nWF) | 2:48 |
+| 88 | [Too comfortable](https://open.spotify.com/track/45M1P0zbhrCeHfAx6XK7im) | [GYOJUNG](https://open.spotify.com/artist/7dA33I3Wp5XmRXxMkWQ6YM) | [Failed reality](https://open.spotify.com/album/0v1VZ7pwQsdMRRUxqosILM) | 2:20 |
+| 89 | [muscle memory](https://open.spotify.com/track/33Otu6ABPu5qc0vApuX6wJ) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [muscle memory](https://open.spotify.com/album/15tRnZHIJ2Cv2fdZ5FgzSJ) | 3:21 |
+| 90 | [Curious about your weekend](https://open.spotify.com/track/5NxOQx2DtKVYzT0D9RYQ8B) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [TOWN BEAT](https://open.spotify.com/album/5Hw4dows7KZqGmPASR7qWR) | 4:09 |
+| 91 | [Volcatronix](https://open.spotify.com/track/1scCZ5VcrIAgD0H6iZVH40) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Volcatronix](https://open.spotify.com/album/1W0GQHll1fW60LpaCi1xb1) | 4:28 |
+| 92 | [Don’t Worry](https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5), [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Don’t Worry](https://open.spotify.com/album/7nANoO4JFA0TGiEtMzFdsH) | 4:08 |
+| 93 | [Shinigami\(死神\)](https://open.spotify.com/track/6IcIVCAaCusRsWgYfPrdYK) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Pizza Party Tequila & Xanax](https://open.spotify.com/album/1KxqDhdXGPPFtxEFX4WbOf) | 4:20 |
+| 94 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
+| 95 | [Somnium Chamber](https://open.spotify.com/track/7BrLWuUlJo0NOe66XVFjPf) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Somnium Chamber](https://open.spotify.com/album/2P0vdydUw6dasijMXgQUR5) | 3:11 |
+| 96 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
+| 97 | [particles](https://open.spotify.com/track/2jwJD82eRcm6wsoXjnhnvQ) | [midori jaeger](https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp) | [\(Un\)planted](https://open.spotify.com/album/1Z4jTm3QDoecBq2XSQQRoi) | 3:40 |
+| 98 | [難道要等收到通知那天我才走](https://open.spotify.com/track/3q1zZvMyxpDdVqCIt3wbLg) | [Dale](https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs) | [難道要等收到通知那天我才走](https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa) | 3:21 |
+| 99 | [All Again](https://open.spotify.com/track/7jccOS8U4HZHYMJiLPWXE1) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [Always Taking](https://open.spotify.com/album/47IqseQiAIJ2F8aZULnJbi) | 1:50 |
+| 100 | [CHROME](https://open.spotify.com/track/4SZO3RLiIbBLWLSAhCOAUA) | [ROGI\*](https://open.spotify.com/artist/11jDBhWmFza8NhQOHz63lQ) | [CHROME](https://open.spotify.com/album/6rMLGRkVViByu4I9wyLcA6) | 3:45 |
 
 Snapshot ID: `AAAAAFM1a2ilVqmPgqmdSnYzchGO1ABz`

@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
+    },
+    {
+      "album": {
         "name": "Diva Of The People",
         "url": "https://open.spotify.com/album/3YtYblPnkxihBxr4hjDjhk"
       },
@@ -812,6 +830,28 @@
       "duration_ms": 274200,
       "name": "Changed For The Better - Disco Version",
       "url": "https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6bc2WWvQmlvgNLutY9OeDE"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Darianna Everett",
+          "url": "https://open.spotify.com/artist/01qiJfvXOvrFjFcwwmZ6yc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/6GUqseTc9d4yGETDg7dr83"
     },
     {
       "album": {
@@ -3588,7 +3628,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 199550,
       "name": "Let\u2019s Keep On Dancing",
       "url": "https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR"
@@ -5714,7 +5754,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 168894,
       "name": "Supernova - Jafunk Remix",
       "url": "https://open.spotify.com/track/57peujtPGEpGAS68azZVO1"

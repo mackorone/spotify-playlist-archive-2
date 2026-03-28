@@ -4,7 +4,7 @@
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.underscores =\]
 
-1,293 songs - 2 day 4 hr 51 min
+1,294 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [Love](https://open.spotify.com/track/1LMsIEtPVyTTt4NvjckrqL) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Re:](https://open.spotify.com/album/14z98bVbZBeqgDptfsvh49) | 2:32 | 2026-02-27 | 2026-03-21 |
 | [Love and War](https://open.spotify.com/track/3aQ8TbaVBc1BZNMVAobpZC) | [BBG Steppaa](https://open.spotify.com/artist/1gqndMPreD7yp1snkBw5k1) | [Love and War](https://open.spotify.com/album/5RSCk6PHsNpd4cyhrNQncx) | 2:05 | 2023-10-13 | 2024-03-14 |
 | [love hate](https://open.spotify.com/track/0BWhRDZajVPoO3qaLbeCDJ) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [with 2 \(hosted by d9lton\)](https://open.spotify.com/album/1qNo1zN3Df7dI1c3Imp146) | 1:56 | 2025-02-28 | 2026-02-08 |
+| [Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Love Is A State](https://open.spotify.com/album/5Zg0eoLb7vBv7EgqfTzxRZ) | 3:52 | 2026-03-27 |  |
 | [Love Island Freestyle](https://open.spotify.com/track/1rlVac9TRr4f3b7GKHdhRh) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Love Island Freestyle](https://open.spotify.com/album/6O0Pk8eU1SyOuhvobAcA8e) | 3:20 | 2022-08-23 | 2023-01-26 |
 | [Love My Tone](https://open.spotify.com/track/7oB3Sh2bsCdQiD3Jq8oLsF) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Love My Tone](https://open.spotify.com/album/5KNmoz5F8pXDwR3uQuo44T) | 1:42 | 2023-10-13 | 2024-03-09 |
 | [LUKAKU](https://open.spotify.com/track/6SyxWg5jvCZe5brD3dNL1q) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [LUKAKU](https://open.spotify.com/album/7lpuhgbGLM74uXB0Wt1tUg) | 2:16 | 2023-10-27 | 2023-11-11 |

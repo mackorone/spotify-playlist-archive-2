@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Golden Door",
+        "url": "https://open.spotify.com/album/15oOrF6jgdvTy0CCdHKiY6"
+      },
+      "artists": [
+        {
+          "name": "Chad King",
+          "url": "https://open.spotify.com/artist/5ye12VcV77vMVLonNP4oeD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169458,
+      "name": "Golden Door",
+      "url": "https://open.spotify.com/track/7gSxKcbrWCl5Ar24cRAPkA"
+    },
+    {
+      "album": {
         "name": "Good Stuff (Babeheaven Remix)",
         "url": "https://open.spotify.com/album/4o8zvIc25D4Tv7UiqThv3D"
       },

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-753 songs - 2 day 16 hr 26 min
+754 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,13 +122,14 @@
 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 | 2025-04-25 | 2025-06-27 |
 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 | 2024-03-01 | 2025-05-30 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-10-08 |
-| [CHERUBIM & SERAPHIM](https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [CHERUBIM & SERAPHIM](https://open.spotify.com/album/40nb190vayLnW6la0nkfHx) | 6:52 | 2026-03-13 |  |
+| [CHERUBIM & SERAPHIM](https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [CHERUBIM & SERAPHIM](https://open.spotify.com/album/40nb190vayLnW6la0nkfHx) | 6:52 | 2026-03-13 | 2026-03-28 |
 | [CHILD OF GRACE \- Remix](https://open.spotify.com/track/0liuWPWjMVgX1CuR5z8GyC) | [Neken Chuwang](https://open.spotify.com/artist/6oeGlZWUfeCsScmxOZUxcA), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [CHILD OF GRACE \(Remix\)](https://open.spotify.com/album/5kOWLzTlq5RzGpYpxWqYhK) | 3:19 | 2025-05-30 | 2025-06-27 |
 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 | 2026-01-22 |
 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 | 2026-01-15 |
 | [Chosen](https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Chosen](https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3) | 2:10 | 2025-10-31 | 2026-03-09 |
 | [church](https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [church](https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV) | 2:52 | 2025-09-12 | 2025-10-03 |
 | [Classic Jesus](https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Classic Jesus](https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8) | 2:43 | 2025-06-27 | 2025-08-03 |
+| [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 |  |
 | [Comforter](https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Comforter](https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx) | 3:00 | 2025-05-30 | 2025-06-27 |
 | [Comma](https://open.spotify.com/track/3R2NzmOCiMWyKM4v2KSyXz) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Comma](https://open.spotify.com/album/16YlnmkAdcfpt3NQPhr1J3) | 3:10 | 2025-05-30 | 2025-06-20 |
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-01 | 2024-03-16 |

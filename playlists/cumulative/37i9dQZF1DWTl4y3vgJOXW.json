@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 147000,
       "name": "2v2 (with EBK Jaaybo)",
       "url": "https://open.spotify.com/track/7rGDpPYmXZ9JcWtizej9JE"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 135211,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/2UqjSm4u2Mpb5E4Y265LQJ"
@@ -3712,6 +3712,44 @@
       "duration_ms": 189176,
       "name": "D4L",
       "url": "https://open.spotify.com/track/5fHrHoJKfCgBd35zwIBmUK"
+    },
+    {
+      "album": {
+        "name": "Da Fuxk (feat. Lil Yachty, G Herbo, YTB Fatt, G Youngin & BTY Beedo) [Remix]",
+        "url": "https://open.spotify.com/album/0w3sdo5iH8tvcYBiFA0Rle"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "G Youngin",
+          "url": "https://open.spotify.com/artist/2387f8kDZmVXavcUgaVjiP"
+        },
+        {
+          "name": "BTY Beedo",
+          "url": "https://open.spotify.com/artist/3wHi5BwzLff3y3iExSGNVM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365596,
+      "name": "Da Fuxk (feat. Lil Yachty, G Herbo, YTB Fatt, G Youngin & BTY Beedo) - Remix",
+      "url": "https://open.spotify.com/track/3IvEk95WhLa1QQO5mIAkpS"
     },
     {
       "album": {
@@ -5212,7 +5250,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 162423,
       "name": "Fabo",
       "url": "https://open.spotify.com/track/28y8SGIMn9RvFkUsnnKcvJ"
@@ -5467,6 +5505,24 @@
     },
     {
       "album": {
+        "name": "ALL ROADS LEAD HOME",
+        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/39OEzhH1xTh2ThccGN5u0Z"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
@@ -5702,6 +5758,24 @@
       "duration_ms": 197551,
       "name": "FLAMMABLE",
       "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
+    },
+    {
+      "album": {
+        "name": "Flodging",
+        "url": "https://open.spotify.com/album/5WQyzfJXTac3zBobtFe1ax"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "Flodging",
+      "url": "https://open.spotify.com/track/1kAnVRVpskZyu0TxHLyezz"
     },
     {
       "album": {
@@ -6921,6 +6995,28 @@
     },
     {
       "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Griddl\u00eb",
+      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
+    },
+    {
+      "album": {
         "name": "QUARANTINE PACK",
         "url": "https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2"
       },
@@ -7082,7 +7178,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 161142,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
@@ -9704,6 +9800,24 @@
       "duration_ms": 224745,
       "name": "Little Homies",
       "url": "https://open.spotify.com/track/7B09ZewAliWo7Y3TdIA7g1"
+    },
+    {
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Liv Lik\u00eb Dis",
+      "url": "https://open.spotify.com/track/2MicPxl8S4JpPpWSitf6N2"
     },
     {
       "album": {
@@ -12488,7 +12602,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 240651,
       "name": "PIECES ON MY NECK. FT. 21 SAVAGE.",
       "url": "https://open.spotify.com/track/4TDYdPYPWOAEUpNoKhe706"
@@ -13690,7 +13804,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 193852,
       "name": "Reason",
       "url": "https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp"
@@ -16226,7 +16340,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 108741,
       "name": "The Crib",
       "url": "https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L"
@@ -17836,6 +17950,28 @@
       "duration_ms": 121675,
       "name": "We Dem",
       "url": "https://open.spotify.com/track/1FLSXEOD4Mzlkjj0LtjVXW"
+    },
+    {
+      "album": {
+        "name": "WE ON GO III (feat. TiaCorine)",
+        "url": "https://open.spotify.com/album/7anCPgsODKsvaQqozZq00L"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165801,
+      "name": "WE ON GO III (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58"
     },
     {
       "album": {

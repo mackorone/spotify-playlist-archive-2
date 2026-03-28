@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the best of ska, new and classic. Iseo & Dodosound en cover ",
+  "description": "This is the best of ska, new and classic. Sublime on cover ",
   "name": "The Essential Ska",
   "tracks": [
     {
@@ -634,6 +634,28 @@
       "duration_ms": 267346,
       "name": "Blessed with a Melody",
       "url": "https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx"
+    },
+    {
+      "album": {
+        "name": "Blinding!",
+        "url": "https://open.spotify.com/album/3621jwzaKGcZ80N9d0hBWQ"
+      },
+      "artists": [
+        {
+          "name": "Death Of Guitar Pop",
+          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
+        },
+        {
+          "name": "Ed Rome",
+          "url": "https://open.spotify.com/artist/7LAxQmb2x5ZXVLn0pEbPH4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Blinding!",
+      "url": "https://open.spotify.com/track/3pWFWCDZyeHln3ct9Wdv28"
     },
     {
       "album": {
@@ -3468,7 +3490,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 186266,
       "name": "On My Radio",
       "url": "https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA"
@@ -3486,7 +3508,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 251133,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ"
@@ -4053,6 +4075,24 @@
     },
     {
       "album": {
+        "name": "S.O.B (Standing On Business)",
+        "url": "https://open.spotify.com/album/27OaKWyTTYALWx5YMxDOW0"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157636,
+      "name": "S.O.B (Standing On Business)",
+      "url": "https://open.spotify.com/track/18X6ohepwYSRwzcsjfs7E4"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -4212,7 +4252,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 174461,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7z2fjnCzlQ9T7Nt52FjF5i"
@@ -5283,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Tiempo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/6ctUVAocVvSYL3xWNQ0EGL"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168236,
+      "name": "Tiempo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/180xzB9mDTYdKSiJ3BiPqX"
+    },
+    {
+      "album": {
         "name": "A Live Injection: Anthology 1968-1979",
         "url": "https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR"
       },
@@ -5680,7 +5738,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 214000,
       "name": "University",
       "url": "https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl"
@@ -5702,6 +5760,24 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
+    },
+    {
+      "album": {
+        "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Until The Sun Explodes",
+      "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
     },
     {
       "album": {

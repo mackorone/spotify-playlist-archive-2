@@ -4,7 +4,7 @@
 
 > It's like rock, but softer.
 
-452 songs - 1 day 8 hr 41 min
+453 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Crystal](https://open.spotify.com/track/1x08tCfliyTTmluswi73mU) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Lifeline](https://open.spotify.com/album/0RSWTMvQlQoePAdFRr3YE0) | 3:40 | 2023-03-20 | 2023-11-03 |
 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 | 2023-03-20 |  |
 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 | 2023-03-20 |  |
+| [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-27 |  |
 | [Deacon Blues](https://open.spotify.com/track/0xeBC6N81ZBYDtxuBFGSuO) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 7:35 | 2023-03-20 | 2024-04-19 |
 | [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 | 2023-03-20 |  |
 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 | 2023-03-20 |  |
@@ -448,7 +449,7 @@
 | [You Get What You Give](https://open.spotify.com/track/32lF1rsInDTdK6Av3KdfaY) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/2AbdLTMFF9UaDoEdJPva4g) | 5:00 | 2022-01-03 | 2022-04-19 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2022-01-03 | 2023-03-21 |
 | [You Need A Hero](https://open.spotify.com/track/5xnOk0gOwfhfnEY6cfYo5B) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp) | 3:43 | 2023-03-20 |  |
-| [You're All That I Need](https://open.spotify.com/track/5gned5W00rvMw1FmYF0cCc) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/2eGSBoePWZ2oljvc8zBwRO) | 3:45 | 2023-03-20 |  |
+| [You're All That I Need](https://open.spotify.com/track/5gned5W00rvMw1FmYF0cCc) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/2eGSBoePWZ2oljvc8zBwRO) | 3:45 | 2023-03-20 | 2026-03-28 |
 | [You're All That I Need](https://open.spotify.com/track/7a8WQOzVw3T4B37LRJoAp5) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/1lPgTGW4eApRIeMk6gbU3U) | 3:45 | 2023-03-20 | 2024-04-19 |
 | [You're Blue Too](https://open.spotify.com/track/2B2BzZuerHsjJVIk7tgbFk) | [Robert Kraft](https://open.spotify.com/artist/3OQ6LmhU59NAsdJfQHQmaa) | [Retro Active](https://open.spotify.com/album/0ncxOGs5dci5EbDJGb5j5F) | 3:27 | 2024-03-28 |  |
 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 | 2023-03-20 |  |

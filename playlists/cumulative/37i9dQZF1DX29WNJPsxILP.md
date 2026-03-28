@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Encore ABJ
+> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
 
-315 songs - 15 hr 58 min
+316 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 | 2023-08-28 | 2025-05-24 |
 | [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 | 2026-01-23 |  |
 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 | 2025-01-17 |  |
-| [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2025-01-06 |  |
+| [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2025-01-06 | 2026-03-28 |
 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 | 2023-03-10 | 2023-09-02 |
 | [Back 2 Back](https://open.spotify.com/track/29SoFgKO588lKJVnUTp10E) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [6 pe 6](https://open.spotify.com/album/0QFdrYn3iAu2Jl0UOl34nL) | 2:58 | 2025-12-05 |  |
 | [BAD GUY \(DG\)](https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [BAD GUY \(DG\)](https://open.spotify.com/album/5oFzkhlE24nHE0Ld54UTdL) | 1:51 | 2023-03-10 | 2024-07-19 |
@@ -256,6 +256,7 @@
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-10 | 2024-10-01 |
 | [Scarface](https://open.spotify.com/track/3h7QmY0JmabpwNi5ik98H9) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Scarface](https://open.spotify.com/album/6Wl76DPWglh1jNMiozj4zz) | 3:25 | 2025-04-04 | 2025-04-19 |
 | [Scenario](https://open.spotify.com/track/7jCI1QWpKRWyepOBvgHS2s) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [SATTAR](https://open.spotify.com/album/41sSO1HSzxHB5fgbpDLc05) | 2:16 | 2025-05-02 |  |
+| [Seedha Mai Kal Jackson](https://open.spotify.com/track/2ZD1MBpVH33IXunTpuzA0y) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Seedha Mai Kal Jackson](https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p) | 2:35 | 2026-03-27 |  |
 | [Sehwag](https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Sehwag](https://open.spotify.com/album/1zDxYpPhKFUaiaXC1dAWEG) | 3:48 | 2023-03-10 | 2023-10-12 |
 | [Shakti Aur Kshama](https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 4:15 | 2024-12-14 | 2025-02-01 |
 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 | 2025-03-14 |  |

@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Keep 'Em on They Toes",
         "url": "https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 136000,
       "name": "Lucky for You",
       "url": "https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
-      },
-      "artists": [
-        {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "I Knew I Could Fly",
-      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 228586,
       "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "I Knew I Could Fly",
+      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Wells Tower Song",
-        "url": "https://open.spotify.com/album/4R2N0yN1m6aYfoUvuYu3yj"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 304687,
-      "name": "Wells Tower Song",
-      "url": "https://open.spotify.com/track/0H4SpGyg6pqk5Tpcayz8Jp"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "A Drive Through the Countryside",
         "url": "https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 134652,
       "name": "A Drive Through the Countryside",
       "url": "https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Wells Tower Song",
+        "url": "https://open.spotify.com/album/4R2N0yN1m6aYfoUvuYu3yj"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 304687,
+      "name": "Wells Tower Song",
+      "url": "https://open.spotify.com/track/0H4SpGyg6pqk5Tpcayz8Jp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Out of My Province",
-        "url": "https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "Heart To Ride",
-      "url": "https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Family Tapes",
         "url": "https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 263573,
       "name": "Family Tapes",
       "url": "https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Out of My Province",
+        "url": "https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "Heart To Ride",
+      "url": "https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 282746,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "Whiskey Whiskey",
+      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/6jwsbxD1nvTc4UGLgRoCa6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "Whiskey Whiskey",
-      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -19225,6 +19225,28 @@
     },
     {
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0L4RS8WvsfEpBdQ72IMmhE"
+      },
+      "artists": [
+        {
+          "name": "Haisten",
+          "url": "https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133809,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/5SAIxBQiorccuI6tnMyhMO"
+    },
+    {
+      "album": {
         "name": "Plaka Dreams",
         "url": "https://open.spotify.com/album/1fxB9q8elhWLamzKKeXgMZ"
       },

@@ -38371,6 +38371,28 @@
     },
     {
       "album": {
+        "name": "THE CROW",
+        "url": "https://open.spotify.com/album/50Ju5KOlrbtx1M4ZXUE6gA"
+      },
+      "artists": [
+        {
+          "name": "Dadco",
+          "url": "https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "DI SU DI GI\u00d9",
+      "url": "https://open.spotify.com/track/6VqE4pyJWYAv8poz0VY9sV"
+    },
+    {
+      "album": {
         "name": "Diabla (feat. Baby Rich & Don Pero)",
         "url": "https://open.spotify.com/album/35eJbxlhdwCwHBWO40MJ3h"
       },
@@ -136093,24 +136115,6 @@
     },
     {
       "album": {
-        "name": "THE CROW",
-        "url": "https://open.spotify.com/album/50Ju5KOlrbtx1M4ZXUE6gA"
-      },
-      "artists": [
-        {
-          "name": "Dadco",
-          "url": "https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6VqE4pyJWYAv8poz0VY9sV"
-    },
-    {
-      "album": {
         "name": "Trafficant",
         "url": "https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7"
       },
@@ -146396,6 +146400,10 @@
         {
           "name": "Brain",
           "url": "https://open.spotify.com/artist/3kUliBZD9sFj0YLIwKyVYp"
+        },
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/4mHcb0HQlOY5ZME2n2EX27"
         }
       ],
       "date_added": "2026-03-27",

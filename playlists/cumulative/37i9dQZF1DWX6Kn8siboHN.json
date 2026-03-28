@@ -3309,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133693,
+      "name": "Miel Amarga",
+      "url": "https://open.spotify.com/track/3011homCgiUyL5E0QZhlEE"
+    },
+    {
+      "album": {
         "name": "20 S\u00faper \u00c9xitos, Volumen 1",
         "url": "https://open.spotify.com/album/6Q4i6Sj2iURRD8jiU7n5Ge"
       },
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 147533,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/20aWbpSBpTWTh5Nboj3Ng8"

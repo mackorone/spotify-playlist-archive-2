@@ -152,7 +152,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 333728,
       "name": "Abra\u00e7a-Me Forte",
       "url": "https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 455338,
       "name": "Compromisso/ Jesus",
       "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
@@ -1048,6 +1048,28 @@
       "duration_ms": 281490,
       "name": "Cora\u00e7\u00e3o Errante",
       "url": "https://open.spotify.com/track/7akiuwbD81CXBK5NNTsPj0"
+    },
+    {
+      "album": {
+        "name": "Msh ao Teu Lado 2026",
+        "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298155,
+      "name": "Cora\u00e7\u00e3o Ferido",
+      "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
     },
     {
       "album": {
@@ -4848,7 +4870,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 379504,
       "name": "Voz de Trov\u00e3o",
       "url": "https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV"

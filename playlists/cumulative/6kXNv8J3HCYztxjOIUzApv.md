@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-323 songs - 20 hr 5 min
+324 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp) | 3:06 | 2023-08-04 |  |
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-10-07 |  |
 | [Upright Destined Mongol \- Live at Glastonbury](https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The HU Live At Glastonbury](https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV) | 4:52 | 2024-06-10 |  |
+| [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv) | 2:56 | 2026-03-27 |  |
 | [Voodoo Doll](https://open.spotify.com/track/0tDP41DuqqoBv9MNcHdoHW) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Voodoo Doll](https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv) | 3:58 | 2023-01-03 |  |
 | [Voodoo Doll \(feat\. Eva Under Fire\)](https://open.spotify.com/track/5NcvwkdGZCJ8CgJTXSI2Jt) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Greetings From Suffocate City](https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ) | 3:57 | 2024-09-13 |  |
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-10-15 | 2023-01-04 |

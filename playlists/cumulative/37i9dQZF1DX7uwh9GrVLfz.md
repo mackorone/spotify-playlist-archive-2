@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: 忘れらんねえよ
 
-881 songs - 1 day 22 hr 30 min
+882 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,7 +743,7 @@
 | [フルボコ](https://open.spotify.com/track/1gVV83GEtLV50vTzEMx4cJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [フルボコ](https://open.spotify.com/album/5c3vPtqXPktqI3mtZOc83C) | 2:53 | 2026-02-24 |  |
 | [プロローグ](https://open.spotify.com/track/185O8e1UbykLChtWVIpdyp) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [10/4](https://open.spotify.com/album/1puG16lwC2NGE5nmlj0eab) | 2:59 | 2023-10-03 | 2023-12-13 |
 | [ボンドガールすぐ死ぬ](https://open.spotify.com/track/5DWHhJtfCA8IWdxIPmPPed) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [サードe.p](https://open.spotify.com/album/3QCsLRYFLKcEzD2k79coHC) | 2:38 | 2022-10-18 | 2022-10-20 |
-| [ポテサラ](https://open.spotify.com/track/5L8ZRE5UQiPHKkVI5XtHqb) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:15 | 2024-09-17 |  |
+| [ポテサラ](https://open.spotify.com/track/5L8ZRE5UQiPHKkVI5XtHqb) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:15 | 2024-09-17 | 2026-03-28 |
 | [ミラコーナイト](https://open.spotify.com/track/1h9ej6dhMV84Jp6LK0Jwsj) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [ミラコーナイト](https://open.spotify.com/album/7tvjen8VzFAznvIghxkhQM) | 3:35 | 2022-05-12 | 2022-07-22 |
 | [ミリオンダラーベイビー](https://open.spotify.com/track/363cWR8pD54ZDtmd4Y59yO) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [millions of oblivion](https://open.spotify.com/album/3BUmcOp3vCAIO8FTIMcT68) | 3:16 | 2022-05-17 | 2022-07-29 |
 | [メロディー](https://open.spotify.com/track/4mO8Q2xq2Qubo10LAQCtci) | [古墳シスターズ](https://open.spotify.com/artist/2huN0hENOUQCQTGp2y6Wi4) | [ハブ・ア・グッドバイ](https://open.spotify.com/album/6AvLMxfZudBb8cflhCnqZa) | 2:54 | 2022-06-30 | 2022-07-03 |
@@ -798,6 +798,7 @@
 | [女生徒](https://open.spotify.com/track/44x9LuHftRTvQcBysBqaui) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [しゃべるなポーラ](https://open.spotify.com/album/4E7vQguiYVRQktOsnbtFvW) | 3:01 | 2022-05-17 | 2022-07-23 |
 | [孤独のエール](https://open.spotify.com/track/410YjkVGqiqywYYb5kzVut) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [チャリーズ・エンジェル](https://open.spotify.com/album/2UGOD4IJzfSerfa0340Eli) | 4:49 | 2022-05-12 | 2022-07-29 |
 | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/track/6gqRMq5FrDCeiGQPd63gBs) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/album/4Nt4pUQZs50oRYt3wd7iHz) | 3:07 | 2023-08-08 | 2023-08-10 |
+| [宣戦布告](https://open.spotify.com/track/6YZUBYJ00HCcKuYaYNewqw) | [Kazunobu Mineta](https://open.spotify.com/artist/5557aMYf4K6C6BCVpHsjll), [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m), [若葉竜也](https://open.spotify.com/artist/3izpGAZJR3iTtDlibD5WZx) | [宣戦布告](https://open.spotify.com/album/4frIFmBatx4GPBqR9PY2Jz) | 4:49 | 2026-03-24 |  |
 | [小さな恋のうた](https://open.spotify.com/track/7swIKcU4tFRk4iFJpi12Fg) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [800BEST \-simple is the BEST!!\-](https://open.spotify.com/album/5DDaPFrj3LdwzYmC4LJ7Nt) | 3:42 | 2024-04-16 | 2024-11-13 |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2022-07-21 | 2024-04-19 |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-01-10 |

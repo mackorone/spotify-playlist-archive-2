@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Mannywellz",
+  "description": "Chill r&b. Cover: Jozzy",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -4632,7 +4632,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 205028,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Cry In Front Of You",
+        "url": "https://open.spotify.com/album/1SmsJFgdbWcnvjMXdX8phO"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183668,
+      "name": "Cry In Front Of You",
+      "url": "https://open.spotify.com/track/1W8h992dgBTLC4VEO7WTsY"
+    },
+    {
+      "album": {
         "name": "this is no longer a dream [DELUXE]",
         "url": "https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d"
       },
@@ -6760,7 +6778,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
@@ -6906,7 +6924,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 216521,
       "name": "DND",
       "url": "https://open.spotify.com/track/0dLLjM9RZkPAFuL5lDls4X"
@@ -8554,7 +8572,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 160000,
       "name": "Falling Off",
       "url": "https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy"
@@ -12196,7 +12214,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 148095,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/3DbAEsKYzGhSFwmxmMGBgT"
@@ -15212,6 +15230,28 @@
       "duration_ms": 189651,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
+    },
+    {
+      "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234469,
+      "name": "Light By The Window",
+      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
     },
     {
       "album": {
@@ -23555,6 +23595,32 @@
     },
     {
       "album": {
+        "name": "Shame (feat. BunnaB)",
+        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Shame (feat. BunnaB)",
+      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
+    },
+    {
+      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
       },
@@ -24680,7 +24746,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 134841,
       "name": "SOMEWHERE NEW",
       "url": "https://open.spotify.com/track/5P8PacMc8YVHo5P2fODnuL"
@@ -27501,6 +27567,24 @@
     },
     {
       "album": {
+        "name": "this girl wants everything",
+        "url": "https://open.spotify.com/album/621lV9XJCaTYbnZKQtkCYb"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213510,
+      "name": "this girl wants everything",
+      "url": "https://open.spotify.com/track/1HTT4w6QtSmIw1Xkeieqe9"
+    },
+    {
+      "album": {
         "name": "This Woman's Work",
         "url": "https://open.spotify.com/album/74zxO5J8mpliLFCJHMDRq4"
       },
@@ -28210,6 +28294,24 @@
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR"
+    },
+    {
+      "album": {
+        "name": "Soundtrack 2 Get Her Back",
+        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "True 2 Me",
+      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
     },
     {
       "album": {
@@ -29216,6 +29318,28 @@
       "duration_ms": 150280,
       "name": "Waiting On You (feat. Tone Stith)",
       "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
+    },
+    {
+      "album": {
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
       "album": {

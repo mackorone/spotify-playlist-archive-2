@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
+  "description": "A laid-back trip in the folk scene. Cover: Charlotte Cornfield",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Wishing Moon",
+        "url": "https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl"
+      },
+      "artists": [
+        {
+          "name": "Wintersleep",
+          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269147,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI"
+    },
+    {
+      "album": {
         "name": "Aches and Breaks",
         "url": "https://open.spotify.com/album/79HHbHJW8emSzzDufMmjaA"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 212430,
       "name": "Airport",
       "url": "https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD"
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 112000,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/25rFLT51EsvFkxJ9lv7Bi3"
@@ -6256,7 +6274,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203326,
       "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
       "url": "https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS"
@@ -6336,6 +6354,24 @@
       "duration_ms": 199682,
       "name": "Down To The Sea",
       "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
+    },
+    {
+      "album": {
+        "name": "Dream For You",
+        "url": "https://open.spotify.com/album/2S3VmAHo9nbvayQfEMfbh0"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337467,
+      "name": "Dream For You",
+      "url": "https://open.spotify.com/track/0U1RRuNfZSSKrY1zqjDaRO"
     },
     {
       "album": {
@@ -6494,7 +6530,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 186823,
       "name": "Dry Land",
       "url": "https://open.spotify.com/track/2nordZexlbhvY6vSOiFkM9"
@@ -9960,7 +9996,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 169890,
       "name": "Hanging Out In My Head",
       "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
@@ -10932,7 +10968,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 181445,
       "name": "Homebody - The Red Version",
       "url": "https://open.spotify.com/track/299MU68WZmumMSqG6hZLJg"
@@ -11168,6 +11204,24 @@
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
+    {
+      "album": {
+        "name": "House of Mirrors",
+        "url": "https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "House of Mirrors",
+      "url": "https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq"
     },
     {
       "album": {
@@ -13190,7 +13244,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 288923,
       "name": "Josie",
       "url": "https://open.spotify.com/track/1seN6RYYgUeG2WnLTYYbes"
@@ -13610,6 +13664,24 @@
       "duration_ms": 177843,
       "name": "Kindergarten Heart",
       "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
+    },
+    {
+      "album": {
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/21IyvAnogGM9zfJYOShEBj"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245236,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/0csn8Na8Zbuipf5Ncicv21"
     },
     {
       "album": {
@@ -14699,6 +14771,24 @@
     },
     {
       "album": {
+        "name": "Long Way to Fall",
+        "url": "https://open.spotify.com/album/6ls4jkkmX2LbNcJeuVCrPj"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301037,
+      "name": "Long Way to Fall",
+      "url": "https://open.spotify.com/track/6cFzM8VYjUNt6LKtp74Goc"
+    },
+    {
+      "album": {
         "name": "Look At Us Now (Honeycomb)",
         "url": "https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30"
       },
@@ -15325,6 +15415,24 @@
     },
     {
       "album": {
+        "name": "Back to the Country (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mTUtx0s01dddppUegYdHO"
+      },
+      "artists": [
+        {
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Maitland",
+      "url": "https://open.spotify.com/track/3S73zNocZTVnl45WkXlV11"
+    },
+    {
+      "album": {
         "name": "Make No Mistakes",
         "url": "https://open.spotify.com/album/3WMpLhAIpkQrimjZlk4XRJ"
       },
@@ -15732,7 +15840,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 226038,
       "name": "Medicine Wheel",
       "url": "https://open.spotify.com/track/69DxXDSJWyrLHZ78LBRHz5"
@@ -15948,7 +16056,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 163292,
       "name": "Mind Reader",
       "url": "https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE"
@@ -21270,7 +21378,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 282831,
       "name": "Shake Off the Rain",
       "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
@@ -22139,6 +22247,28 @@
     },
     {
       "album": {
+        "name": "Adult Contemporary",
+        "url": "https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183378,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun"
+    },
+    {
+      "album": {
         "name": "Someone",
         "url": "https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP"
       },
@@ -22436,7 +22566,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 304760,
       "name": "Southern Star (feat. AURORA)",
       "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
@@ -24242,6 +24372,24 @@
       "duration_ms": 188409,
       "name": "The Internet",
       "url": "https://open.spotify.com/track/6klvlmgyFdIrybxjP0d9VA"
+    },
+    {
+      "album": {
+        "name": "The Landfill",
+        "url": "https://open.spotify.com/album/4WbH9XB301NLVeclpbRFbu"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "The Landfill",
+      "url": "https://open.spotify.com/track/37jZ4OmmPlkJ3ClpFtAM07"
     },
     {
       "album": {
@@ -26487,6 +26635,24 @@
     },
     {
       "album": {
+        "name": "we fly for the ones we love",
+        "url": "https://open.spotify.com/album/3jl8hPTGLX9Jc5dYfGeLa2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229118,
+      "name": "we fly for the ones we love",
+      "url": "https://open.spotify.com/track/4XNFLgJF5RUffH6vWUwBho"
+    },
+    {
+      "album": {
         "name": "Weathervane",
         "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
       },
@@ -26936,6 +27102,32 @@
       "duration_ms": 130621,
       "name": "What\u2019s This About (La La La La)",
       "url": "https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je"
+    },
+    {
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/41lmDLys2EtjbHkVJxBaxn"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        },
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        },
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "Wheels - with Babehoven & Billie Marten",
+      "url": "https://open.spotify.com/track/6Tad0GdthV8sEb5bFMB613"
     },
     {
       "album": {
@@ -28002,6 +28194,24 @@
       "duration_ms": 243908,
       "name": "You",
       "url": "https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC"
+    },
+    {
+      "album": {
+        "name": "Against The Dying Of The Light",
+        "url": "https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268026,
+      "name": "You & We",
+      "url": "https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c"
     },
     {
       "album": {

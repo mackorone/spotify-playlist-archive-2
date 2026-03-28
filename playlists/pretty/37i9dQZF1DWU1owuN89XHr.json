@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296283,
+  "num_followers": 296305,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
     },
     {
-      "added_at": "2023-08-01 14:42:56",
-      "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6"
-      },
-      "artists": [
-        {
-          "name": "Jorge Gamboa Patr\u00f3n",
-          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
-        }
-      ],
-      "duration_ms": 296252,
-      "name": "Causa y Efecto",
-      "url": "https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5"
-    },
-    {
       "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "Evolucion",
@@ -959,6 +943,22 @@
       "duration_ms": 281000,
       "name": "Su Nombre Es Pueblo",
       "url": "https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D"
+    },
+    {
+      "added_at": "2023-08-01 14:42:56",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa Patr\u00f3n",
+          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+        }
+      ],
+      "duration_ms": 296252,
+      "name": "Causa y Efecto",
+      "url": "https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5"
     },
     {
       "added_at": "2021-07-29 16:46:05",

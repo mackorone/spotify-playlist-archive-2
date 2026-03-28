@@ -4,7 +4,7 @@
 
 > 
 
-179 songs - 9 hr 17 min
+182 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Crying \(In September\)](https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:37 | 2025-12-28 |  |
 | [Cueca Vermelha](https://open.spotify.com/track/0psQlXBy3LAWiYGcg2Vz6Y) | [Marcos Yury Dieper](https://open.spotify.com/artist/2NgqmdXxP8paU9uQWL3btf) | [Cueca Vermelha](https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4) | 3:30 | 2025-06-22 |  |
 | [Cuentame](https://open.spotify.com/track/1ofaTXh8Vp8j8JDjFkcvoN) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [Cuentame](https://open.spotify.com/album/5aPjoYmj0AuOvC3pg6Xzrv) | 1:48 | 2025-08-17 |  |
+| [Delorean](https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R) | [Tokyo Killa](https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz) | [Delorean](https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg) | 3:12 | 2026-03-27 |  |
 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 | 2026-03-19 |  |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
 | [DIDN'T WARN YA](https://open.spotify.com/track/7qrzCjrqPljxxMRQCIEwTt) | [Emmett Xander](https://open.spotify.com/artist/5dGDu2lnsyIOXr0WlOTvFI) | [DIDN'T WARN YA](https://open.spotify.com/album/3CQhmDzGEbPDNu7ShVyeVE) | 1:48 | 2025-04-03 |  |
@@ -133,6 +134,7 @@
 | [pull up](https://open.spotify.com/track/493d2v5Wk3NVhfRdDbLDZp) | [Thékho](https://open.spotify.com/artist/4lCPqhnzBqohZlfqncjtxl), [saranghae](https://open.spotify.com/artist/7lOWCFSEnzDM8WOlsxy1Yj) | [pull up](https://open.spotify.com/album/7JC48ko5wABisFzZNl6JE6) | 1:50 | 2025-06-22 |  |
 | [Purgatorio](https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP) | [Denivek](https://open.spotify.com/artist/3yF4wRjfd495MPjjquHKVH) | [International I](https://open.spotify.com/album/4oyD19daykyixpY2E5j1iI) | 6:46 | 2025-08-12 |  |
 | [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 | 2026-02-25 |  |
+| [QQDM?](https://open.spotify.com/track/3SKUMB5tpdr4UT2BIq3juc) | [majorea](https://open.spotify.com/artist/2Jmw8pBHcLa6JMCwk3rmRq) | [QQDM?](https://open.spotify.com/album/1gE9VgPQWKVsZfST7jTKSw) | 2:43 | 2026-03-27 |  |
 | [Que Somos](https://open.spotify.com/track/1QoB6CQN6Z1FLbiOQSfRVk) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [Que Somos](https://open.spotify.com/album/36rJf96FhE3in0acXjO42K) | 2:42 | 2026-03-25 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
@@ -175,6 +177,7 @@
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
+| [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 | 2026-03-27 |  |
 | [Waiting for the Day After](https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN) | [Hollowave](https://open.spotify.com/artist/3pOKXtt845AaIJxzoUY918) | [Pigheaded](https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD) | 5:24 | 2025-10-30 |  |
 | [Way We Remember](https://open.spotify.com/track/01sL1rfTr78MW7w1Me2pLo) | [Ev\. G](https://open.spotify.com/artist/7fF6lYj7ZXaTAmRRdtzOvE) | [Way We Remember](https://open.spotify.com/album/2CkRy3A2t9F9w4266B1sIA) | 2:48 | 2025-08-19 |  |
 | [Weather App](https://open.spotify.com/track/37jwT2aZIzgGicQQCJuYZY) | [Ariana Fig](https://open.spotify.com/artist/7t96BctZBDQcfKnDfREzDg) | [Weather App](https://open.spotify.com/album/6X4GGtNhMtAyyngGuOwM2P) | 4:13 | 2025-05-24 |  |

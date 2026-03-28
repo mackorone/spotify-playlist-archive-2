@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,252 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,392 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 14 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 |
 | 15 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 |
 | 16 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 |
-| 17 | [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 |
+| 17 | [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [martyria](https://open.spotify.com/artist/38OQT8VzgzgVuNbcDucnyB) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 |
 | 18 | [NXSTY BLOOD](https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L) | [Wels](https://open.spotify.com/artist/5gQXdVmzGuWYNiG1ZOFS7S) | [NXSTY BLOOD](https://open.spotify.com/album/7ydimgAmoZWwEiKAIJ3GWP) | 1:54 |
 | 19 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 |
 | 20 | [Anatomy \- Slowed](https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6) | [TEENWXVE](https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC) | [Anatomy](https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL) | 1:43 |

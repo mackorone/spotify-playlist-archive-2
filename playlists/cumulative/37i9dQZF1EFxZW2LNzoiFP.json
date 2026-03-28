@@ -2520,10 +2520,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 156959,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1j3AbAkEy194UQFoW8Bigh"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3SXRULSXER6ENHOEPZBmpS"
+      },
+      "artists": [
+        {
+          "name": "Rose Paradise",
+          "url": "https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156965,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3TdoZb5HPGfarQP201zCBs"
     },
     {
       "album": {
@@ -4822,10 +4840,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224883,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7f5IZibzWCT9QFfWcuod1s"
+    },
+    {
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/02XImxL6rc0tesxatMjY5t"
+      },
+      "artists": [
+        {
+          "name": "Rose Paradise",
+          "url": "https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224885,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/2S2a6NriPBl7miM6VQg3MO"
     },
     {
       "album": {

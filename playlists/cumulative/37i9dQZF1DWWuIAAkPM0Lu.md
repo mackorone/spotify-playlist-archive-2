@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra Rosa, Artigeardit, Gobs,  Pil og maaange flere  ❤️‍🔥
 
-9,829 songs - 21 day 6 hr 24 min
+9,830 songs - 21 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1952,6 +1952,7 @@
 | [Den Første Jul](https://open.spotify.com/track/26UrtpMkJcTNWmgmYTCy3A) | [Matilde Emilie](https://open.spotify.com/artist/0JX5RFIuMrBnVVB59kRgIU) | [Den Første Jul](https://open.spotify.com/album/513KfUL3nkY0GSwGb5ZBdr) | 2:56 | 2024-11-14 | 2024-11-22 |
 | [Den her sang er til dig](https://open.spotify.com/track/6iA0CGQ5Dajn3wE7YwzI6W) | [William Quist](https://open.spotify.com/artist/2PYYYdQkjPTYd4CXIV7ZgW) | [Den her sang er til dig](https://open.spotify.com/album/1Thts88TpORol0nodQHfwA) | 3:04 | 2025-02-27 | 2025-03-07 |
 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 | 2025-08-28 | 2025-09-05 |
+| [Den om en mand \(Haline Bak\)](https://open.spotify.com/track/7zbfDQFLporuqARvjI3BOr) | [AySay](https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE) | [Mal](https://open.spotify.com/album/1d867tm9UuJt9wtJE0n8G8) | 2:35 | 2026-03-26 |  |
 | [Den Sidste Dråbe](https://open.spotify.com/track/5rtNYAmh5tDz3viB3Mqzzv) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Den Sidste Dråbe](https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP) | 3:06 | 2026-02-12 | 2026-02-20 |
 | [Den Som Vover](https://open.spotify.com/track/24DyC4caXR0wlvnFvoHkfx) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 1:38 | 2025-03-20 | 2025-03-22 |
 | [Den Store Forfører](https://open.spotify.com/track/5xwUSod7Kzw7RXHKgPdS88) | [Elias Boussnina](https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU) | [Den Store Forfører](https://open.spotify.com/album/7FP4HA1RfVwpP0LpMkxoZt) | 2:44 | 2025-07-10 | 2025-07-18 |
@@ -3531,6 +3532,7 @@
 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 | 2025-06-12 | 2025-06-20 |
 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 | 2025-10-30 | 2025-11-07 |
 | [Halfway Home](https://open.spotify.com/track/1L8mLtpQLYCPYLprbGDCVp) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Halfway Home](https://open.spotify.com/album/2jt04XvXipGiBQdLNClWb4) | 3:13 | 2026-01-01 | 2026-01-15 |
+| [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 | 2026-03-26 |  |
 | [Halleluja](https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Halleluja](https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv) | 2:37 | 2025-01-17 | 2025-01-24 |
 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 | 2025-12-11 | 2025-12-19 |
 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 | 2025-02-06 | 2025-02-14 |
@@ -4917,6 +4919,7 @@
 | [Kyrie Eleison](https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Kyrie Eleison](https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA) | 4:42 | 2024-09-19 | 2024-09-27 |
 | [Kys før fald](https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kys før fald](https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx) | 3:14 | 2025-08-21 | 2025-08-29 |
 | [Kys kys kys](https://open.spotify.com/track/2ZeS8dr6GN7T5EaCWWacmz) | [danmarksfinestedaniel](https://open.spotify.com/artist/5xyX0eyxG4tq1vjdrvCSaR) | [Kys kys kys](https://open.spotify.com/album/29PyknB6Be5eDEjcf2s3lN) | 2:47 | 2025-06-05 | 2025-06-13 |
+| [Kysser I Regnen](https://open.spotify.com/track/3bd4yrHxVXKi6ajURZi6lV) | [Anna David](https://open.spotify.com/artist/2Vh8aP2vH9nBqIa6qWLvKI) | [Før og Efter](https://open.spotify.com/album/1aoAWOKvqkaMWbJyUNZYK9) | 2:33 | 2026-03-26 |  |
 | [Kysser Med Andre](https://open.spotify.com/track/1obys1dcEpy6M2HInkAW5V) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Skal Det Leves Ihjel](https://open.spotify.com/album/1f8xgTNaC3HjgQypT928Mp) | 2:55 | 2025-06-19 | 2025-06-27 |
 | [Kysset Med En Anden](https://open.spotify.com/track/5zWY8asuCL91mLsBqOD6sg) | [Trine Therkelsen](https://open.spotify.com/artist/05gAr4rfrOofxGPewzWnAF) | [Kysset Med En Anden](https://open.spotify.com/album/7MSuxwCQKNDLVZJy4thV6Q) | 3:15 | 2025-11-06 | 2025-11-14 |
 | [Kælling](https://open.spotify.com/track/0BvXa80fZjHGPJWyTOy3wc) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [Kælling](https://open.spotify.com/album/1yfWyz4CBxDEziMhp5RoON) | 2:16 | 2025-04-10 | 2025-04-18 |
@@ -8016,6 +8019,7 @@
 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 | 2025-08-28 | 2025-09-05 |
 | [STIG MØLLER](https://open.spotify.com/track/157A1272B2gqT28wW3eDLJ) | [BASKE](https://open.spotify.com/artist/5t1bsUlFWixhgRJ983muoP) | [STIG MØLLER](https://open.spotify.com/album/07e9SznNJ65hUZwk5UZOR0) | 2:46 | 2025-05-22 | 2025-05-30 |
 | [Stiletter](https://open.spotify.com/track/303knzrfbn4aQSPiES85Pa) | [Skammerens Døtre](https://open.spotify.com/artist/27czJDSwFg9zbimXXwdwmh) | [Stiletter](https://open.spotify.com/album/4o1NmxIwsRglcqCBrY9AOm) | 2:15 | 2025-05-02 | 2025-05-09 |
+| [Still](https://open.spotify.com/track/5ZYAgSUYGUSLK0PzcbP9oJ) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [Still](https://open.spotify.com/album/0G7jTcU1l7K6uvTVZEk47K) | 4:06 | 2026-03-27 |  |
 | [STILL](https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [STILL](https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3) | 2:02 | 2024-06-27 | 2024-07-05 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-08-09 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-03-21 |
@@ -8825,10 +8829,6 @@
 | [Toxic](https://open.spotify.com/track/3TSpXfD8sdJHsh6YagNbR2) | [Tony](https://open.spotify.com/artist/74cKMDmtMTrH6pwo6ncSPY), [Sandra Hussein](https://open.spotify.com/artist/4KnCJu3hmsLrG3XTNs8Jw0) | [Toxic](https://open.spotify.com/album/76jdAYQFlicRLvKJJCE32U) | 2:34 | 2026-02-12 | 2026-02-20 |
 | [Toxic Love](https://open.spotify.com/track/70mjXJZ3fUMobNza8Co9NB) | [Clovis](https://open.spotify.com/artist/6Rr9EUNkOPLCQipGVJztEa) | [Toxic Love](https://open.spotify.com/album/01ft41UVyizml585vHm6zQ) | 2:23 | 2025-04-17 | 2025-04-25 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
-| [Track 1](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 0:00 | 2026-03-26 |  |
-| [Track 2](https://open.spotify.com/track/3bd4yrHxVXKi6ajURZi6lV) | [Anna David](https://open.spotify.com/artist/2Vh8aP2vH9nBqIa6qWLvKI) | [Før og Efter](https://open.spotify.com/album/1aoAWOKvqkaMWbJyUNZYK9) | 0:00 | 2026-03-26 |  |
-| [Track 4](https://open.spotify.com/track/7zbfDQFLporuqARvjI3BOr) | [AySay](https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE) | [Mal](https://open.spotify.com/album/1d867tm9UuJt9wtJE0n8G8) | 0:00 | 2026-03-26 |  |
-| [Track 8](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 0:00 | 2026-03-26 |  |
 | [TRACK 9 \(sometimes\)](https://open.spotify.com/track/3QYY4AgNdhVboaiTpif9oo) | [Alice Ai](https://open.spotify.com/artist/3Pst9XlmCk0NKGGy3kVvvP) | [d.a.t.a.d.e.a.t.h.](https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd) | 2:35 | 2025-11-27 | 2025-12-05 |
 | [TRACKE DO](https://open.spotify.com/track/0udl3HksPNxCu097pHNKfP) | [EHSXN](https://open.spotify.com/artist/02fcfzLNggFMt98YunsnYU), [PAYDAR](https://open.spotify.com/artist/4QXhX7CbOMy8HKl8rZNYEt) | [T\-TOWN](https://open.spotify.com/album/57cDk7ZMeJuDIllI2uJ7IF) | 2:27 | 2024-09-05 | 2024-09-13 |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2025-12-12 |
@@ -9321,6 +9321,7 @@
 | [Warming Up](https://open.spotify.com/track/6zV7rIXx9HVXHd43luY5Uy) | [Hanna Mel](https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8) | [Warming Up](https://open.spotify.com/album/1B3sJ3osKYlG5cE895YUmf) | 2:36 | 2025-04-10 | 2025-04-18 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-10 | 2024-10-18 |
 | [Warui koto](https://open.spotify.com/track/1nDdT4KPTPpBmB0rF3KeGV) | [Atusji](https://open.spotify.com/artist/5IQe8f8Bdy24UMwJmRr6AN), [kingtommi](https://open.spotify.com/artist/5SzjbKkjV5vdxP4vZMp2w0) | [Slowboat til Asakusa](https://open.spotify.com/album/5Mcz84hWvF3DQKC8curWne) | 3:51 | 2024-10-24 | 2024-11-01 |
+| [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 | 2026-03-26 |  |
 | [wash away](https://open.spotify.com/track/3wRM4IwCDAXbYz3L97OaIY) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [wash away](https://open.spotify.com/album/2tslN1LJt5kcegF8hmlAbB) | 3:17 | 2026-02-19 | 2026-02-27 |
 | [Wash It Away](https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Wash It Away](https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt) | 4:03 | 2024-04-26 | 2024-05-03 |
 | [Washing Machine](https://open.spotify.com/track/0kOabZwPutJdHljJirchwP) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Washing Machine](https://open.spotify.com/album/1aXoAz7HuqXMixFvuRWlOE) | 2:58 | 2026-01-23 | 2026-01-30 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1508194,
+  "num_followers": 1508133,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
+      },
+      "artists": [
+        {
+          "name": "duogram",
+          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+        }
+      ],
+      "duration_ms": 136716,
+      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Cartas e Versos",
         "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 221717,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
-      },
-      "artists": [
-        {
-          "name": "duogram",
-          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
-        }
-      ],
-      "duration_ms": 136716,
-      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
     },
     {
       "added_at": "2024-08-02 18:37:00",

@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2026 playlist.
 
-115 songs - 5 hr 41 min
+116 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Nân](https://open.spotify.com/track/40vsOMljwhHCibpToRULGo) | [Alis](https://open.spotify.com/artist/2qHjO4DZZhtrjeHGF1OvhT) | [Nân](https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo) | 3:09 | 2026-03-12 |  |
 | [On Replay](https://open.spotify.com/track/4ybdkbEdZ2JwXFbNaRbBIY) | [Bzikebi](https://open.spotify.com/artist/5BOldA1K6XRW9bSIT1oOcN) | [On Replay](https://open.spotify.com/album/54ZVX0mfzANelSskiymnD7) | 3:07 | 2026-03-18 |  |
 | [One Milkali \(One Blood\)](https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [One Milkali \(One Blood\)](https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao) | 2:56 | 2024-05-11 | 2025-03-01 |
+| [Paloma Rumba](https://open.spotify.com/track/4GdU371yp4pDPleTAXoq4g) | [Simon](https://open.spotify.com/artist/4qC6Oo7wjfFMWDFSH25ytW) | [Paloma Rumba](https://open.spotify.com/album/2o3POyKD38wE14kzOGKAAl) | 2:38 | 2026-03-27 |  |
 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 | 2024-05-11 | 2025-03-01 |
 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 | 2026-03-12 |  |
 | [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 | 2025-03-05 | 2026-03-13 |

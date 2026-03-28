@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 668937,
+  "num_followers": 669103,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1067,26 +1067,18 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "Pure Garage Rewind",
-        "url": "https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq"
+        "name": "Smack Da House Vol.2",
+        "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
       },
       "artists": [
         {
-          "name": "Ramsey",
-          "url": "https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU"
-        },
-        {
-          "name": "Fen",
-          "url": "https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL"
-        },
-        {
-          "name": "Lyndsey Moore",
-          "url": "https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD"
+          "name": "Janet Rushmore",
+          "url": "https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU"
         }
       ],
-      "duration_ms": 355218,
-      "name": "Love Bug - Bump Mix",
-      "url": "https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH"
+      "duration_ms": 329866,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
     },
     {
       "added_at": "2026-03-11 09:40:56",
@@ -1111,18 +1103,26 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "Smack Da House Vol.2",
-        "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
+        "name": "Pure Garage Rewind",
+        "url": "https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq"
       },
       "artists": [
         {
-          "name": "Janet Rushmore",
-          "url": "https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU"
+          "name": "Ramsey",
+          "url": "https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU"
+        },
+        {
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL"
+        },
+        {
+          "name": "Lyndsey Moore",
+          "url": "https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD"
         }
       ],
-      "duration_ms": 329866,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
+      "duration_ms": 355218,
+      "name": "Love Bug - Bump Mix",
+      "url": "https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH"
     },
     {
       "added_at": "2026-03-11 09:40:56",

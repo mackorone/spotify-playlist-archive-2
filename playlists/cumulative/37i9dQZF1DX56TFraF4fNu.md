@@ -2,9 +2,9 @@
 
 ### [Parchadito](https://open.spotify.com/playlist/37i9dQZF1DX56TFraF4fNu)
 
-> Dosis musical para disfrutar el momento\. Foto: Omar Courtz
+> Dosis musical para disfrutar el momento\. Foto: Nanpa Básico
 
-275 songs - 14 hr 24 min
+277 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [apague y vámonos](https://open.spotify.com/track/6w7yNyA47IhsDy5p4OtzGI) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [back to lo básico](https://open.spotify.com/album/17O8TOZrAou2RQdgJboO3y) | 3:58 | 2025-05-30 | 2025-06-07 |
 | [Atardecer](https://open.spotify.com/track/1pw677psLc8OrOdg88Yy2E) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg) | [Atardecer](https://open.spotify.com/album/4TPFhLCLHZHSIUU1y0VCRG) | 3:16 | 2023-06-23 | 2023-11-04 |
 | [Atmósfera](https://open.spotify.com/track/6eOxyJiqVvlL94iF4KRYnV) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Atmósfera](https://open.spotify.com/album/5GVJZd5ONlczunnTWRTUk7) | 2:43 | 2023-12-01 | 2024-06-20 |
-| [AWAkina](https://open.spotify.com/track/1B2ElOeeWTGPOdZEt0ABDX) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [AWAkina](https://open.spotify.com/album/1IZH3W0oeeNlv5Gf73Iq2x) | 3:12 | 2026-02-06 |  |
+| [AWAkina](https://open.spotify.com/track/1B2ElOeeWTGPOdZEt0ABDX) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [AWAkina](https://open.spotify.com/album/1IZH3W0oeeNlv5Gf73Iq2x) | 3:12 | 2026-02-06 | 2026-03-28 |
 | [BAD BITCH](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [BAD BITCH](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 | 2023-03-31 | 2023-09-23 |
 | [badwine](https://open.spotify.com/track/2qfyOSgCVt8mdVVxxhp4tI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [badwine](https://open.spotify.com/album/0DBQL19G6VKFlLXWlltmfl) | 2:19 | 2023-03-31 | 2025-05-31 |
 | [BAHAMAS](https://open.spotify.com/track/2YawcSeJXJTUzEqP3HzsSQ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [BAHAMAS](https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd) | 2:27 | 2024-12-06 | 2025-03-22 |
@@ -198,7 +198,9 @@
 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 | 2023-03-31 | 2024-04-19 |
 | [Pa' Que Mami No Llore](https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/3ijLbYP8u0c4R2Vgjlziap) | 3:51 | 2023-03-31 | 2023-07-22 |
 | [Pa' Siempre](https://open.spotify.com/track/6GDALaleoGOuwak5mtmr69) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pa' Siempre](https://open.spotify.com/album/66ShMySsvTdbGqyNfA0Gml) | 2:43 | 2025-07-11 | 2025-11-22 |
-| [PACIENCIA](https://open.spotify.com/track/1xWSV9k3GMWGx8i5Q6wiqT) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [PACIENCIA](https://open.spotify.com/album/3QbigrNeQJnZ7yliKP4aeL) | 3:18 | 2026-02-13 |  |
+| [PACIENCIA](https://open.spotify.com/track/1xWSV9k3GMWGx8i5Q6wiqT) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [PACIENCIA](https://open.spotify.com/album/3QbigrNeQJnZ7yliKP4aeL) | 3:18 | 2026-02-13 | 2026-03-28 |
+| [Para terminar en nada](https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Para terminar en nada](https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ) | 2:45 | 2026-03-27 |  |
+| [Parcera](https://open.spotify.com/track/724Txk8NEBXqNK7nIvY6MK) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Parcera](https://open.spotify.com/album/2iiuzRYwehvW5XKRY1r5Fk) | 3:09 | 2026-03-27 |  |
 | [Parcerita \- Remix](https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Parcerita \(Remix\)](https://open.spotify.com/album/4485OAXEhUA6UcjjiSOlFT) | 3:58 | 2024-08-23 | 2025-01-25 |
 | [Passoa](https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Passoa](https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD) | 5:09 | 2024-08-16 |  |
 | [Peor Que La Policía \(feat\. PMP\)](https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:19 | 2024-11-08 | 2025-01-25 |

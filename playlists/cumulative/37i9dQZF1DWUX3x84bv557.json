@@ -13301,6 +13301,24 @@
     },
     {
       "album": {
+        "name": "Hardop",
+        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149280,
+      "name": "Los Los Vast",
+      "url": "https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ"
+    },
+    {
+      "album": {
         "name": "Los Van Angst",
         "url": "https://open.spotify.com/album/5PizQPjxqmmDVn2m8w6Il0"
       },
@@ -19936,24 +19954,6 @@
       "duration_ms": 162259,
       "name": "Toxisch",
       "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
-    },
-    {
-      "album": {
-        "name": "Hardop",
-        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ"
     },
     {
       "album": {

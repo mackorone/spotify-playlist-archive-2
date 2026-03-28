@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-477 songs - 1 day 5 hr 56 min
+478 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 | 2023-03-31 |  |
 | [Make Love](https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Make Love](https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u) | 3:47 | 2023-10-27 | 2024-01-05 |
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2021-12-17 | 2023-03-11 |
+| [Man I Used To Be](https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Shoulda Been](https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP) | 2:37 | 2026-03-27 |  |
 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 | 2021-12-17 | 2022-12-03 |
 | [Man's World](https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Man's World](https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD) | 2:42 | 2026-02-13 |  |
 | [Maybe Someday](https://open.spotify.com/track/5hPQhhwqgJfPDUJIwYAzql) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Maybe Someday](https://open.spotify.com/album/2i59MYGjnrbk9qtiTNcZ19) | 2:55 | 2023-03-24 | 2023-05-20 |
@@ -358,7 +359,7 @@
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-12-17 | 2022-07-29 |
 | [Shake! Shake! Shake!](https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40), [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Shake! Shake! Shake!](https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8) | 3:08 | 2022-11-11 | 2024-11-23 |
 | [She](https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [She](https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4) | 3:48 | 2022-10-07 | 2022-12-10 |
-| [Shoot From The Hip](https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Shoot From The Hip](https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS) | 5:47 | 2026-02-13 |  |
+| [Shoot From The Hip](https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Shoot From The Hip](https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS) | 5:47 | 2026-02-13 | 2026-03-28 |
 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 | 2023-08-25 | 2026-02-14 |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-04-08 | 2025-03-08 |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 | 2026-01-24 |

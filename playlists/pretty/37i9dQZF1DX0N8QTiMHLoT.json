@@ -1,13 +1,29 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 164001,
+  "num_followers": 164025,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERG5VLbpwcDxCQTSTiO8aJ0bL5i",
+  "snapshot_id": "AAAAAKW6Gahuq3Xs0jvQ+DRozcsKa9ad",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "RUIN BAR",
+        "url": "https://open.spotify.com/album/6WxMxvlnVzsjBb7fXeYezZ"
+      },
+      "artists": [
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "duration_ms": 136650,
+      "name": "RUIN BAR",
+      "url": "https://open.spotify.com/track/1gW0fic25beFAdFK2vAi0o"
+    },
     {
       "added_at": "2026-01-16 05:00:18",
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 196552,
       "name": "LET'S DO IT",
       "url": "https://open.spotify.com/track/19IVRhn8g3925OeoKDPG2a"
-    },
-    {
-      "added_at": "2025-12-19 05:00:28",
-      "album": {
-        "name": "KHAOSAN ROAD",
-        "url": "https://open.spotify.com/album/7t9tXTc2MVAkfP2SSS2cIK"
-      },
-      "artists": [
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
-        },
-        {
-          "name": "Moray Pringle",
-          "url": "https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW"
-        }
-      ],
-      "duration_ms": 135923,
-      "name": "KHAOSAN ROAD",
-      "url": "https://open.spotify.com/track/1HuFJdZpvJtvy9rywMkJnX"
     },
     {
       "added_at": "2025-05-23 21:01:43",
@@ -107,6 +103,26 @@
       "duration_ms": 251748,
       "name": "New Beastly",
       "url": "https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh"
+    },
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
+        "name": "KHAOSAN ROAD",
+        "url": "https://open.spotify.com/album/7t9tXTc2MVAkfP2SSS2cIK"
+      },
+      "artists": [
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        },
+        {
+          "name": "Moray Pringle",
+          "url": "https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW"
+        }
+      ],
+      "duration_ms": 135923,
+      "name": "KHAOSAN ROAD",
+      "url": "https://open.spotify.com/track/1HuFJdZpvJtvy9rywMkJnX"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -11723,6 +11723,24 @@
     },
     {
       "album": {
+        "name": "Demantar",
+        "url": "https://open.spotify.com/album/4lshVUMabxG3jmzbHTNQBR"
+      },
+      "artists": [
+        {
+          "name": "Villi Karl",
+          "url": "https://open.spotify.com/artist/73uYFv16Ed3cBB4SLaz0J1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Demantar",
+      "url": "https://open.spotify.com/track/620s7Im5YaWEymLm552sFU"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -21468,7 +21486,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 124514,
       "name": "Gr\u00e1ta inn\u00ed Benz (\u00deorm\u00f3\u00f0ur Remix)",
       "url": "https://open.spotify.com/track/4Sd2hdg4TpvKJ5p2ZSZuiu"
@@ -29528,7 +29546,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 111476,
       "name": "Kr\u00f3li Freestyle",
       "url": "https://open.spotify.com/track/0NZgZ3Pkdexd7XulGhFnbI"
@@ -33476,7 +33494,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 193203,
       "name": "Manstu",
       "url": "https://open.spotify.com/track/74xtmjq49OOSM6fQsArXAD"
@@ -33928,7 +33946,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 271732,
       "name": "Medo (My love)",
       "url": "https://open.spotify.com/track/0aH6huoAdgVSsUTr5Gh0u5"
@@ -34328,7 +34346,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -52782,7 +52800,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"

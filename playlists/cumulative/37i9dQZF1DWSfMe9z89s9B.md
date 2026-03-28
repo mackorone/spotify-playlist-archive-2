@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> The new school \- Alternative R&B\. Cover: James Blake
+> The new school \- Alternative R&B\. Cover: rum.gold
 
-1,557 songs - 3 day 10 hr 8 min
+1,559 songs - 3 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Free Range](https://open.spotify.com/track/04Mb1bvxcOUuYNnHwV4RqP) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Free Range](https://open.spotify.com/album/4PkMA4iPLj1RcwMpMKmYxg) | 2:15 | 2022-08-12 | 2023-08-12 |
 | [Freezing](https://open.spotify.com/track/1k9MIdBQbsEyUZmeYD16gk) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Freezing](https://open.spotify.com/album/2jaC3frsSh9AZ84E9tFXPU) | 2:57 | 2022-04-01 | 2022-04-16 |
 | [Freezing](https://open.spotify.com/track/4bD5pbgrm1bkLjUr0NFZEY) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [Freezing](https://open.spotify.com/album/13vAjSldR5cn72SJ9vCu2G) | 3:05 | 2022-04-01 | 2022-04-06 |
+| [Friend of a Friend](https://open.spotify.com/track/2wTio10YbyH3qMEPeSRdPl) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Is There Anybody Home?](https://open.spotify.com/album/5D0GH53tFnwWPkBqzwuIui) | 2:39 | 2026-03-27 |  |
 | [FRIENDZONE](https://open.spotify.com/track/2CUWQEPhGo67JuDBng3jlN) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [FRIENDZONE](https://open.spotify.com/album/4Azxmej19KS4JDIEKiRJno) | 3:30 | 2024-11-01 | 2025-04-12 |
 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 | 2024-08-09 |  |
 | [Frontier Pass](https://open.spotify.com/track/24G6qIFgmj40koUyIv2TfB) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/1fcs0XDucXzC3Ns541p9Lr) | 2:59 | 2023-04-07 | 2023-07-23 |
@@ -596,7 +597,7 @@
 | [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 | 2023-03-25 |
 | [Heart of a Child](https://open.spotify.com/track/7qBRZlD9CyeR1IzhqGKnvC) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Breeze Grew a Fire](https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g) | 3:49 | 2025-02-14 | 2025-06-18 |
 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Heart Storm \(with NAO\)](https://open.spotify.com/album/43vZ7lfU9t7EzSeM4e8I0D) | 3:13 | 2021-04-02 | 2022-07-29 |
-| [HEARTBREAK](https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [HEARTBREAK](https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91) | 3:32 | 2025-10-10 |  |
+| [HEARTBREAK](https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [HEARTBREAK](https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91) | 3:32 | 2025-10-10 | 2026-03-28 |
 | [Heat w Heat](https://open.spotify.com/track/7Dhlv0BPphJWqEtG4KCkDs) | [Van Hunt](https://open.spotify.com/artist/4KZ6qvHEY7prblYD2VrOd3) | [A Heart Full of Questions](https://open.spotify.com/album/1EKo2OKMJ0Wwr1cGAty1A3) | 2:30 | 2025-05-23 | 2025-06-07 |
 | [Heatwave](https://open.spotify.com/track/5NPNg1glR6Mo2zprm832qW) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Strawberry Moon](https://open.spotify.com/album/4MAZP6VqDLyDX9Qcyqe5Qq) | 4:16 | 2022-07-15 | 2022-08-20 |
 | [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 | 2025-06-13 |  |
@@ -678,6 +679,7 @@
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-15 |
 | [IDFK](https://open.spotify.com/track/0RGOkqLOtfL21gkYUaO9WT) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [3rr0r](https://open.spotify.com/album/1cem9I2x2idLH5n3Vz4CNx) | 3:04 | 2022-07-15 | 2022-07-26 |
 | [idiot](https://open.spotify.com/track/20XtS2OeWwItsgAs71sPQ3) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:48 | 2025-08-01 |  |
+| [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 | 2026-03-27 |  |
 | [IDONTNEEDUANYMORE](https://open.spotify.com/track/00XlzaRPW0HiBiJ7RhP10H) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 3:23 | 2024-09-06 | 2024-11-11 |
 | [IF HE RULES THE WORLD](https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:19 | 2022-04-01 | 2022-06-17 |
 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 | 2022-09-02 | 2023-08-19 |
@@ -1449,7 +1451,7 @@
 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 | 2023-08-12 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-04-01 | 2022-04-16 |
 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 | 2024-06-07 |  |
-| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 |  |
+| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2026-03-28 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-10-07 |
 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 | 2023-06-23 | 2024-06-29 |
 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-13 |  |

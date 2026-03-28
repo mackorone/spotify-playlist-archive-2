@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI x Arem Ozguc x Arman Aydin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,299 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,374 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 10 | [Yıldız](https://open.spotify.com/track/4XY3xDMhubN6cUF5OITpdA) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Yıldız](https://open.spotify.com/album/3d2u80ZPa6fgQVaphJ9K8o) | 1:22 |
 | 11 | [IMMIGRANT](https://open.spotify.com/track/7v0EMKurDGtFIaPHbGwYj4) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [IMMIGRANT](https://open.spotify.com/album/5jyBsN5OOkki6BXjaLXDEQ) | 1:32 |
 | 12 | [1000 VOLT](https://open.spotify.com/track/3kQamEOjqu3IeMQheWiyyk) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [1000 VOLT](https://open.spotify.com/album/5QLTUhPTeFeE6KtkFFJ8qu) | 3:18 |
-| 13 | [Track 2](https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Klasik Part 3 : Çiçek Böcek](https://open.spotify.com/album/6DnYAMzGPGlko2hLIqZ5rs) | 0:00 |
+| 13 | [Çiçek Böcek](https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Klasik Part 3 : Çiçek Böcek](https://open.spotify.com/album/6DnYAMzGPGlko2hLIqZ5rs) | 3:19 |
 | 14 | [Yaşıyoken Anla](https://open.spotify.com/track/0e86zY8kamEt5Jz5pAWpc9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Yaşıyoken Anla](https://open.spotify.com/album/5mWXaZ7MlKvbdnLPZ1UlOs) | 3:17 |
 | 15 | [Tanrı Şahidim](https://open.spotify.com/track/05iZG2c93wgIZd3LSr6fl6) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [Tanrı Şahidim](https://open.spotify.com/album/0wrOprvdXYjaHSsy6GhIvK) | 2:12 |
 | 16 | [Altın Kafes](https://open.spotify.com/track/3Cckv6NnTgFCvWxa8hCLPk) | [Mode XL](https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1) | [Altın Kafes](https://open.spotify.com/album/6z3Nn6YDXswawyLJ1KjAI4) | 3:05 |

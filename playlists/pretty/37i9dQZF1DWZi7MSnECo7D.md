@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Jovem Dionísio
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,178 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,095 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 64 | [Confissão](https://open.spotify.com/track/2rIve8Bzo7b0x5u2CahwPJ) | [Paira](https://open.spotify.com/artist/5zp72qFQJre0AGm5eIdFVW) | [Confissão](https://open.spotify.com/album/2ETWgGs7LWfgC24JOI3jDV) | 3:35 |
 | 65 | [Love e Vício em Sunshine \(Ao Vivo\)](https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt) | [Supervão](https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj) | [AVGN na Radio Agulha \(ao vivo\)](https://open.spotify.com/album/6LML6JqiKorFCyfujnNz4t) | 2:38 |
 
-Snapshot ID: `AAAAALEzcxYhb7Wo0PmL95JNjVua6CSE`
+Snapshot ID: `AAAAAFIWlb96Js4wnY0CtG6dy8Z6i+sz`

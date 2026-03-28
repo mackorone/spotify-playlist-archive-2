@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,211 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,219 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 85 | [Lookin' For Love](https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:02 |
 | 86 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 |
 | 87 | [Thank God \- Live from Fenway](https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Thank God \(Live from Fenway\)](https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8) | 4:00 |
-| 88 | [Body Like A Back Road \- 15 In A 30 Tour Live](https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road \(15 In A 30 Tour Live\)](https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82) | 4:48 |
-| 89 | [I LOVE THIS BEACH \- Live from the Road](https://open.spotify.com/track/4Fm0awAyWB46EP7zCgpuJY) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [AMERICAN PALM: Live from the Road](https://open.spotify.com/album/1gnGuzTSNvjdLdsXZk1qsJ) | 3:03 |
-| 90 | [Hell Of A View \- Live At The Pinnacle, Nashville, TN / May 24, 2025](https://open.spotify.com/track/1lBr5rfrlvS9HN7gI6a5te) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View \(Live At The Pinnacle, Nashville, TN / May 24, 2025\)](https://open.spotify.com/album/3NxwHz1GTGUSzgnuycM9bJ) | 2:51 |
-| 91 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 |
+| 88 | [I LOVE THIS BEACH \- Live from the Road](https://open.spotify.com/track/4Fm0awAyWB46EP7zCgpuJY) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [AMERICAN PALM: Live from the Road](https://open.spotify.com/album/1gnGuzTSNvjdLdsXZk1qsJ) | 3:03 |
+| 89 | [Body Like A Back Road \- 15 In A 30 Tour Live](https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road \(15 In A 30 Tour Live\)](https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82) | 4:48 |
+| 90 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 |
+| 91 | [Hell Of A View \- Live At The Pinnacle, Nashville, TN / May 24, 2025](https://open.spotify.com/track/1lBr5rfrlvS9HN7gI6a5te) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View \(Live At The Pinnacle, Nashville, TN / May 24, 2025\)](https://open.spotify.com/album/3NxwHz1GTGUSzgnuycM9bJ) | 2:51 |
 | 92 | [\(If You're Not In It For Love\) I'm Outta Here! \- Live](https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:57 |
 | 93 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 |
 | 94 | [Straight Line \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Straight Line \(Live from the HIGH AND ALIVE WORLD TOUR\)](https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH) | 6:45 |

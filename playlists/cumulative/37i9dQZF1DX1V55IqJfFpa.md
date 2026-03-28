@@ -2,7 +2,7 @@
 
 ### [rolitas chidas ](https://open.spotify.com/playlist/37i9dQZF1DX1V55IqJfFpa)
 
-> aquí pura vibra chida ✨ Luis R Conriquez en portada
+> aquí pura vibra chida ✨ El Booo en portada
 
 669 songs - 1 day 11 hr 12 min
 

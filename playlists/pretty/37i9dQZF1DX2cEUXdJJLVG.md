@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Hand\-picked grooves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,581 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,578 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 10](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 0:00 |
+| 1 | [The Rock \(feat\. 3DDY\)](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:49 |
 | 2 | [Fall Into The Sky](https://open.spotify.com/track/5nZRKQHFHRS2Pp7KQRlYWC) | [Marinus](https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX) | [Fall Into The Sky](https://open.spotify.com/album/4Z48wBC5ExTP7smaj1HcvS) | 2:50 |
 | 3 | [Rain Down](https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Rain Down](https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL) | 4:38 |
 | 4 | [BE REAL \(Feat\. Life on Planets\)](https://open.spotify.com/track/0qJvLgSgaET429BhotCqVU) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Arriving Home Elsewhere](https://open.spotify.com/album/1UUvVbMhwZbh8sk9E5NAQ5) | 3:31 |

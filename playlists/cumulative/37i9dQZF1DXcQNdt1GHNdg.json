@@ -657,6 +657,32 @@
     },
     {
       "album": {
+        "name": "Alpha Mode",
+        "url": "https://open.spotify.com/album/6a8KtASM20gwMywGMTfjqA"
+      },
+      "artists": [
+        {
+          "name": "Ekam Sudhar",
+          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
+        },
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
+        },
+        {
+          "name": "Rass",
+          "url": "https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "Alpha Mode",
+      "url": "https://open.spotify.com/track/4ZLXfpXFRGGB6xcF13ngI1"
+    },
+    {
+      "album": {
         "name": "My Name Is Street",
         "url": "https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea"
       },
@@ -1241,7 +1267,7 @@
         },
         {
           "name": "YAADA",
-          "url": "https://open.spotify.com/artist/1hCzZYgBEWZzLeGo93KSmY"
+          "url": "https://open.spotify.com/artist/2dU9wpbCMJYxx6FvM4jBON"
         }
       ],
       "date_added": "2026-03-19",
@@ -1886,7 +1912,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 160754,
       "name": "Daaka Daaku Da",
       "url": "https://open.spotify.com/track/72zovf8xydqfbLhWwJWhn9"

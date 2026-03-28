@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Robot95 en portada.",
+  "description": "Bienvenidx a la trampa mexa. El Bogueto y Almighty en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -698,6 +698,28 @@
       "duration_ms": 290698,
       "name": "Amor",
       "url": "https://open.spotify.com/track/1eT6TF6CwJ1UpQnp4SyyO6"
+    },
+    {
+      "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247930,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ"
     },
     {
       "album": {
@@ -2331,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "Corone",
+      "url": "https://open.spotify.com/track/1bRhW4fPkgGrTRVfL8dSSL"
+    },
+    {
+      "album": {
         "name": "Crack",
         "url": "https://open.spotify.com/album/5jqdCnnn4gwUsxxQ272u0J"
       },
@@ -2544,7 +2584,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 132000,
       "name": "Death Of Me",
       "url": "https://open.spotify.com/track/2Gu5YDHR3ND7IoIGH4x8wg"
@@ -5889,6 +5929,32 @@
     },
     {
       "album": {
+        "name": "Majin Buu",
+        "url": "https://open.spotify.com/album/5n468wTXxzEQaDVKArzTOc"
+      },
+      "artists": [
+        {
+          "name": "Jessvel Peyret",
+          "url": "https://open.spotify.com/artist/561iBCGIcONOAjmQYjyVi8"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189967,
+      "name": "Majin Buu",
+      "url": "https://open.spotify.com/track/1b6nzBdCzCqj1IGhMrw9et"
+    },
+    {
+      "album": {
         "name": "Mami Lo 100to",
         "url": "https://open.spotify.com/album/2eLVVioesszSteeh8kABiO"
       },
@@ -6228,7 +6294,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 126320,
       "name": "Mixed Feelings",
       "url": "https://open.spotify.com/track/1eyyjjQzE4IQ92wk3Ipeid"
@@ -7244,7 +7310,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 130666,
       "name": "ORO ROSADO",
       "url": "https://open.spotify.com/track/24foFkw45GS0N4j8CiRFH0"

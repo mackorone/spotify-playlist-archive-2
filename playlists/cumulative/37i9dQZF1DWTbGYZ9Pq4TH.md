@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-263 songs - 16 hr 53 min
+264 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [If Only](https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sì \(Deluxe\)](https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5) | 3:37 | 2024-02-13 | 2024-04-03 |
 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 | 2021-09-26 | 2023-02-08 |
 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 | 2023-02-13 | 2024-04-19 |
+| [Il cielo in una stanza](https://open.spotify.com/track/0E2WNLYYF2Hdul9gQa9MA6) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Gino Paoli](https://open.spotify.com/album/5yAf271p6DJmTnaQN2hheo) | 2:51 | 2026-02-12 |  |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2021-09-26 |  |
 | [Il coraggio di andare \(feat\. Biagio Antonacci\)](https://open.spotify.com/track/7Imr3iWPjlPs208jw92W5J) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Fatti sentire ancora](https://open.spotify.com/album/79DqfTYT6oweCZwWPOfQOR) | 3:44 | 2021-09-26 | 2022-07-28 |
 | [Il Mestiere Della Vita](https://open.spotify.com/track/5zrpHRrDQXHd9aZIcEvQHQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Il Mestiere Della Vita](https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa) | 3:18 | 2021-09-26 | 2022-07-07 |
@@ -218,7 +219,7 @@
 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 | 2025-10-03 |  |
 | [Sempre e per sempre](https://open.spotify.com/track/5K8tLt1YQiLALZGwcErrjH) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Amore nel pomeriggio](https://open.spotify.com/album/7cHl1TaO6qOvyrfoqCofUT) | 3:23 | 2021-09-26 | 2025-04-20 |
 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 | 2021-09-26 |  |
-| [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 |  |
+| [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 | 2026-03-28 |
 | [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 | 2023-02-20 | 2024-04-19 |
 | [Sfiorivano le viole](https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Mio Fratello E' Figlio Unico](https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i) | 5:00 | 2025-01-23 |  |
 | [Siamo](https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:38 | 2021-09-26 | 2022-07-21 |

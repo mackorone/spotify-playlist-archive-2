@@ -4,12 +4,13 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-233 songs - 15 hr 4 min
+236 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Chalet For Two](https://open.spotify.com/track/6WpAVvDGnPZ0CEO7yAIoBM) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [A Chalet For Two](https://open.spotify.com/album/4roSmRerpqynrfRzoGo4S3) | 2:25 | 2023-06-08 |  |
 | [A Final Cocktail](https://open.spotify.com/track/5RXJOvp3KUaSZXUgCS0or0) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [A Final Cocktail](https://open.spotify.com/album/5l9CYHTsamZqUOPo9Rib1o) | 2:34 | 2023-05-04 |  |
+| [A Line of Air](https://open.spotify.com/track/70ECLM3lWEh7CmOdLgsdsf) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [A Line of Air](https://open.spotify.com/album/059ifcmVUkS8584OLOCk3p) | 3:53 | 2026-03-27 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/68je1RygvBfwUcTZXU9toA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Jazz Moods \- 'Round Midnight](https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY) | 7:12 | 2022-08-18 | 2023-04-21 |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2022-08-18 | 2025-11-13 |
 | [A Swim in Pine Lake](https://open.spotify.com/track/0jufuLT8UYZLQu2yaaS52B) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [A Swim in Pine Lake](https://open.spotify.com/album/7qlQWrxfurEmYnOt8ITdjK) | 3:21 | 2024-03-08 | 2025-11-13 |
@@ -17,7 +18,7 @@
 | [Acadia](https://open.spotify.com/track/1RAdA5l9OJNurt58Y1tWKM) | [Bobby Katz Quartet](https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm) | [Acadia](https://open.spotify.com/album/3NbKXnS56zCBSmqtFGt8Ti) | 3:21 | 2023-11-10 |  |
 | [Aesthete](https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Aesthete](https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q) | 3:42 | 2023-01-05 |  |
 | [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-09-01 | 2025-11-13 |
-| [After Winter Comes Spring](https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [After Winter Comes Spring](https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH) | 3:31 | 2023-08-10 |  |
+| [After Winter Comes Spring](https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [After Winter Comes Spring](https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH) | 3:31 | 2023-08-10 | 2026-03-28 |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-09-29 | 2025-11-13 |
 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 | 2022-10-06 | 2023-02-17 |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-12 | 2025-11-13 |
@@ -125,6 +126,7 @@
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 | 2025-11-13 |
 | [Mean To Me](https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Don´t Blame Me](https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb) | 3:12 | 2022-08-18 | 2025-11-13 |
 | [Memories Of You](https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Cherokee](https://open.spotify.com/album/5vCWIYXs2CiCuAVgVGF3Ny) | 4:45 | 2022-08-18 | 2025-11-13 |
+| [Midnight Adventures](https://open.spotify.com/track/4VfKg1ZQTy3fyjf2lROIZ1) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Midnight Adventures](https://open.spotify.com/album/0736IbzT29jwxKZZHkMCft) | 3:45 | 2026-03-27 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-08-18 | 2025-11-13 |
 | [Misty November](https://open.spotify.com/track/5LJcQXhDafjTy7GOqYLjJM) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Misty November](https://open.spotify.com/album/6xxtWCf4X7qatxA0IPFWly) | 3:12 | 2022-08-18 |  |
 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-08-18 | 2024-06-12 |
@@ -228,6 +230,7 @@
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-08-18 | 2025-11-13 |
 | [What´s New](https://open.spotify.com/track/0BL42uZtaUUFXL26jWVmBR) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [What´s New](https://open.spotify.com/album/0c71OvAIq0htZlQAYh4TrT) | 3:38 | 2022-08-18 | 2025-11-13 |
 | [When I Fall In Love](https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [When I Fall In Love](https://open.spotify.com/album/2TyUlWNdCzTFItxohR2PO2) | 4:23 | 2022-08-18 | 2025-11-13 |
+| [When I Was With You](https://open.spotify.com/track/4tA3hYu9h9amO7uSatS3Bu) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [When I Was with You](https://open.spotify.com/album/6nse6Bt7QKPGEuziLme7uE) | 3:34 | 2026-03-27 |  |
 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 | 2023-12-08 |  |
 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 | 2022-08-18 | 2025-11-13 |
 | [Whispers of the Evening](https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Whispers of the Evening](https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs) | 3:15 | 2024-03-22 | 2024-11-26 |

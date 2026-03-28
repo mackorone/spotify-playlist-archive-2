@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - L\u00d8L\u00d8 on the cover",
-  "num_followers": 523171,
+  "num_followers": 523159,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU",
+  "snapshot_id": "AAAAAM7URljcSvumUd0uwF92g58AS2aa",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:35",
@@ -39,6 +39,58 @@
       "duration_ms": 184186,
       "name": "Better Than a Man",
       "url": "https://open.spotify.com/track/7dRrGnxYlWuaOukJRSlE2C"
+    },
+    {
+      "added_at": "2026-03-27 04:00:28",
+      "album": {
+        "name": "Steering (So Fast)",
+        "url": "https://open.spotify.com/album/6aerihDnpFkJNrhnPSBfez"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 223524,
+      "name": "Steering (So Fast)",
+      "url": "https://open.spotify.com/track/3wIe1eSu0GVjKi3T5nrcye"
+    },
+    {
+      "added_at": "2026-03-27 04:00:28",
+      "album": {
+        "name": "to fly a rocketship, you have to be an optimist",
+        "url": "https://open.spotify.com/album/7vfvUr7L1PzQs4oOpUPHQq"
+      },
+      "artists": [
+        {
+          "name": "Sizzy Rocket",
+          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
+        }
+      ],
+      "duration_ms": 178512,
+      "name": "BLUR",
+      "url": "https://open.spotify.com/track/4r7SDPszEcnEPnyc5FURj8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:28",
+      "album": {
+        "name": "RAPPERS & ROCKSTARS",
+        "url": "https://open.spotify.com/album/4CvelI6ME7TYDUm2eOak5i"
+      },
+      "artists": [
+        {
+          "name": "Nova May",
+          "url": "https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "duration_ms": 145429,
+      "name": "RAPPERS & ROCKSTARS",
+      "url": "https://open.spotify.com/track/7Lk3zksE4xfEHXglZir4lt"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -943,138 +995,6 @@
       "duration_ms": 145327,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/21XWPwkGwWKApy7ZulxyA8"
-    },
-    {
-      "added_at": "2025-10-10 04:00:49",
-      "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/79puQ9pjgehPNzZlHvTEqw"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/7uutv2dzY248zl2O2ngiie"
-    },
-    {
-      "added_at": "2025-10-03 04:00:56",
-      "album": {
-        "name": "other boys are boring",
-        "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 140518,
-      "name": "other boys are boring",
-      "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
-    },
-    {
-      "added_at": "2025-10-03 04:00:56",
-      "album": {
-        "name": "SUPER F\u2605CKING MEGA ST\u2605R",
-        "url": "https://open.spotify.com/album/1WQhYYSKRwg23ojle7NmBW"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 169335,
-      "name": "SUPER F\u2605CKING MEGA ST\u2605R",
-      "url": "https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5"
-    },
-    {
-      "added_at": "2025-10-03 04:00:56",
-      "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        },
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 174981,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "Headshot (From \"Super Strike\")",
-        "url": "https://open.spotify.com/album/4xUU7KIGgJhRyAyLiWaRhk"
-      },
-      "artists": [
-        {
-          "name": "Lydia Night",
-          "url": "https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l"
-        }
-      ],
-      "duration_ms": 136211,
-      "name": "Headshot (From \"Super Strike\")",
-      "url": "https://open.spotify.com/track/4Sg60z1HV5JLw3PKv0ZnoW"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "Crazy Bitch Song",
-        "url": "https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 133736,
-      "name": "Crazy Bitch Song",
-      "url": "https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM"
-    },
-    {
-      "added_at": "2025-09-22 15:05:23",
-      "album": {
-        "name": "AMERICAN GIRL",
-        "url": "https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "AMERICAN GIRL",
-      "url": "https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj"
-    },
-    {
-      "added_at": "2025-09-05 04:00:16",
-      "album": {
-        "name": "In House Enemy",
-        "url": "https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY"
-      },
-      "artists": [
-        {
-          "name": "Akeira Jade",
-          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "In House Enemy",
-      "url": "https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt"
     }
   ],
   "unique_name": "SALT",

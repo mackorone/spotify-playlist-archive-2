@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Badshah
 
-503 songs - 1 day 3 hr 35 min
+504 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-10-09 | 2025-03-22 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2024-08-09 | 2025-05-24 |
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-02-22 | 2025-02-08 |
+| [Kali Kali](https://open.spotify.com/track/5Bawmoqylj7OAPorS4xzcX) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [yung22](https://open.spotify.com/artist/4HT1TOJs3QffsWsU8NMGiH), [Lil Noorza](https://open.spotify.com/artist/7G1leyEEbnUz8j7RBFKwNf) | [Kali Kali](https://open.spotify.com/album/5Rf7fow89IpnuA25ZESJLc) | 5:07 | 2026-03-27 |  |
 | [Kamini](https://open.spotify.com/track/34022UYT9Ewsv8Oi0rY8RE) | [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc), [Tee Cee](https://open.spotify.com/artist/6hqo8d3gc1rgUFTvUJ0Ndu), [Ramesses Reezy](https://open.spotify.com/artist/2vvoyU5P5AB1ZdMjRYLFOK) | [Kamini](https://open.spotify.com/album/1CsuEETITU53fMSVbaSHwY) | 4:20 | 2021-12-03 | 2023-01-13 |
 | [Karacola](https://open.spotify.com/track/2ub7wz0saK9DvP3Q8pyuvR) | [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Karacola](https://open.spotify.com/album/539yc6BZmUkZ4ma2g0mcSv) | 2:24 | 2021-12-03 | 2022-02-25 |
 | [Kashundi](https://open.spotify.com/track/2HomSAOTTLxV7MwZT8aFtP) | [SHEZAN](https://open.spotify.com/artist/3YHpzgxae4iDauZ6iG7AJn), [HANNAN](https://open.spotify.com/artist/1KLxZECmEpG67gjtRJzllU) | [Laal Batti](https://open.spotify.com/album/039AGvMCNdho38BpuPXADg) | 3:02 | 2025-03-03 | 2025-03-08 |
@@ -263,7 +264,7 @@
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-01-05 | 2025-08-30 |
 | [Kingpin](https://open.spotify.com/track/43qJF4pC5rbLDUgmqWYOKu) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Kingpin](https://open.spotify.com/album/7a2Izhm8WcSsUJwwJ5hpEg) | 2:55 | 2021-12-03 | 2023-01-13 |
 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 | 2024-11-22 |  |
-| [Knock Knock](https://open.spotify.com/track/2Kw97Ze8yhh5WDlRkEURKh) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 3:26 | 2025-05-23 |  |
+| [Knock Knock](https://open.spotify.com/track/2Kw97Ze8yhh5WDlRkEURKh) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 3:26 | 2025-05-23 | 2026-03-28 |
 | [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-08-09 |  |
 | [Kohra](https://open.spotify.com/track/1HDjK8sD9zQsdBX3xnqFLJ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Nayaab](https://open.spotify.com/album/5bRRzI1xuiNAAjdSCg5bnO) | 4:06 | 2022-07-18 | 2023-01-13 |
 | [Kollywood](https://open.spotify.com/track/7JSS97oDOpb1BZzA0TRh1V) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [SACAR aka Lil Buddha](https://open.spotify.com/artist/2KDTINgANslhPVBfLpNlz0) | [Kollywood](https://open.spotify.com/album/6cNkuQhPZ6x8kQfv6MmqNU) | 3:45 | 2025-04-18 | 2025-05-24 |

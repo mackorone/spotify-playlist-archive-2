@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,030 songs - 5 day 0 hr 33 min
+2,035 songs - 5 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [again](https://open.spotify.com/track/6J8EbkOM82wM3QtG0q128D) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [again](https://open.spotify.com/album/5TDj05hZIp16RoCNE1VJNd) | 1:54 | 2025-07-24 |  |
 | [Against The Wall](https://open.spotify.com/track/1MfY1CuNpSJ23AYieCle5G) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Devon Khemis](https://open.spotify.com/artist/6KyH8N4sK1BViGWeJcvFzb) | [Against The Wall](https://open.spotify.com/album/5HqGBu2KF69d0JfEnLnY4f) | 3:43 | 2024-06-15 |  |
 | [Age Is Just a Number](https://open.spotify.com/track/3vfNDbSrX7YMud5J4GFYKd) | [Avishek Majumder](https://open.spotify.com/artist/5j14w561gMuuLadnPT26jo) | [Age Is Just a Number](https://open.spotify.com/album/0gIAxNxdsmmsHdKPXCdh89) | 2:59 | 2026-01-08 |  |
+| [Aguaceros](https://open.spotify.com/track/5bhhG0nGomKZE8LtSjvVpq) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM) | [Aguaceros](https://open.spotify.com/album/2PA5rTN8j5tOjtiHhW5Hmw) | 2:57 | 2026-03-27 |  |
 | [Ain't No Other Woman](https://open.spotify.com/track/5Zs8bCESSuAHbLueu57glk) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Ain't No Other Woman](https://open.spotify.com/album/7hOoR58irid4LYyGp9Oj2n) | 1:52 | 2026-02-05 |  |
 | [Airbnb](https://open.spotify.com/track/4gcCrp3WdPgVsKm77u78tq) | [Before Stories](https://open.spotify.com/artist/1pfKujJCEaRofrY931NUhK) | [Main Character Energy \- "Chef \#2" Reality](https://open.spotify.com/album/6zZ57qOQi2mTeYqeqRKWHd) | 3:56 | 2025-06-04 |  |
 | [Aire de luz](https://open.spotify.com/track/7ueYlmtjsi3cDPRnH7nvPc) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 | 2026-03-15 |  |
@@ -803,6 +804,7 @@
 | [I Need to Dream](https://open.spotify.com/track/3GmSOrgbOnHCGxcejhD7Fm) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [I Need to Dream](https://open.spotify.com/album/5HsEOJ8TsbD3LlvJeLzoXp) | 3:15 | 2025-10-02 |  |
 | [I Regret That Now](https://open.spotify.com/track/08lf1HK8B1nfCg51ZMCh6G) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:59 | 2025-10-26 |  |
 | [I Saw You Burn](https://open.spotify.com/track/4Q86bMh5hXc4Ew95w9Hi7D) | [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [I Saw You Burn](https://open.spotify.com/album/41Go2aP9lNmIDfKGvxpZwu) | 3:56 | 2024-03-04 |  |
+| [I Still Remember](https://open.spotify.com/track/7JAti2ONpcLz6tqnz5tPB2) | [Leonardo Boim](https://open.spotify.com/artist/62BMqVGhureZeMoUk7CtN5) | [I Still Remember](https://open.spotify.com/album/5yeptka7yzMVVXWVhDBwd9) | 4:47 | 2026-03-27 |  |
 | [I That I](https://open.spotify.com/track/78iJPOFmQOs28jR92it9Cr) | [Raidio Tony](https://open.spotify.com/artist/78XTuE89tXERSbDscOB9Zy) | [R2024A](https://open.spotify.com/album/1d76Lwxku7MgjnXRkK42kg) | 2:52 | 2025-10-15 |  |
 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 | 2026-03-25 |  |
 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2024-03-04 |  |
@@ -1526,6 +1528,7 @@
 | [Sax Revolution](https://open.spotify.com/track/2PPOYjKh76FOUPdmbuhF3Y) | [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 4:10 | 2024-05-04 |  |
 | [Sax Why](https://open.spotify.com/track/2pogDnC4vOUGX6SFBr9CS5) | [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 3:54 | 2024-05-04 |  |
 | [Say](https://open.spotify.com/track/0QnWFywrfkpHBOV4TS8Fcf) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Retrospective](https://open.spotify.com/album/6NW8KhNDnYMHmjXFemwX16) | 4:31 | 2025-05-28 |  |
+| [Say something](https://open.spotify.com/track/3MbPvLgyM75WY8mQqlCNNl) | [Joy Rabit](https://open.spotify.com/artist/5G4cn7feNtHiI2P7Qzt40d) | [Say something](https://open.spotify.com/album/2GDeDZxD4xaYU9NQaM3qZA) | 3:58 | 2026-03-27 |  |
 | [Say What](https://open.spotify.com/track/0iSn4xw5kpFHDdW5UtCgLz) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 3:59 | 2025-06-21 |  |
 | [Scarlet Town](https://open.spotify.com/track/5voBjrP1jysRtRRWq2ad5T) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 3:38 | 2025-02-06 |  |
 | [SCHERZI DEL DESTINO](https://open.spotify.com/track/2fxS969zJw8ijvOzaiC1yv) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [SCHERZI DEL DESTINO](https://open.spotify.com/album/08rNm5EW3wZgTGoW8Q8POS) | 4:13 | 2025-02-27 |  |
@@ -1933,6 +1936,7 @@
 | [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 | 2026-02-16 |  |
 | [Westside Boogie](https://open.spotify.com/track/1MJBGA9MJr1TEox9h7MCLF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Westside Boogie](https://open.spotify.com/album/4TS2CFnVY2TdQi4Otqltrf) | 1:19 | 2026-02-05 |  |
 | [What a Ting Dub](https://open.spotify.com/track/526hNlYiJlDwoR77VARpMh) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 3:44 | 2024-05-01 |  |
+| [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2026-03-27 |  |
 | [What We Tell Ourselves](https://open.spotify.com/track/34M6N4VFPxf0XP8p0nSFMU) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [What We Tell Ourselves](https://open.spotify.com/album/510HG2N2XHz2t0hBnlat3P) | 3:13 | 2025-11-03 |  |
 | [What's Mines is Yours](https://open.spotify.com/track/0aFv3K0FqSpNi3D4ZatouM) | [2wIIn Kingz](https://open.spotify.com/artist/5tLea1GcVfYLYs0Ek6gTQm), [DaveOsBeatz](https://open.spotify.com/artist/3uo58q7ISjU2TlleC3rNqW) | [What's Mines is Yours](https://open.spotify.com/album/1PEusWoInGoHlZqbooA2po) | 3:06 | 2025-10-07 |  |
 | [When I was young](https://open.spotify.com/track/35riJwN8NFwOjB8Uagy0mr) | [Alex Boot](https://open.spotify.com/artist/70vnFprt4or1lsUpy7I2AL) | [When I was young](https://open.spotify.com/album/5fYmjIJRbJLUNmwlOZZjev) | 3:40 | 2025-11-14 |  |
@@ -1940,6 +1944,7 @@
 | [Where Do I Start](https://open.spotify.com/track/5tlgrgkB96Smw5Ql8kw2jR) | [Rocky Neal](https://open.spotify.com/artist/0MP58FIbi8HPoGK6POckl6) | [Where Do I Start](https://open.spotify.com/album/6IX0njrofQ1mhfVT6ZnRdt) | 1:50 | 2025-10-07 |  |
 | [Where Is the Light](https://open.spotify.com/track/2SgVaHn2fQeU0ZgowXnFOI) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 3:24 | 2024-05-01 |  |
 | [Where Is the Love](https://open.spotify.com/track/0dkn8wqB6SH0m8vE5ldOXQ) | [Shaky Norman](https://open.spotify.com/artist/0RiPLgdovCJSQFKpBPz6QF), [Clement Roots](https://open.spotify.com/artist/0QPuRiQEXdhemNxYBSfGhg) | [Where Is the Love](https://open.spotify.com/album/6kDSUFCwsMhHW8OPdX7DPg) | 5:51 | 2024-03-23 |  |
+| [Where'd the Time Go](https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn) | [Unlucky, the Artist](https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN) | [The Girl in the Green Dress](https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda) | 2:18 | 2026-03-27 |  |
 | [Whispers in the Woods](https://open.spotify.com/track/4jKXQNoP21umJ1aSZOKlGX) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 2:45 | 2026-02-05 |  |
 | [Whispers Interlude](https://open.spotify.com/track/2vD0ygDVavXuP21jhGpWak) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 0:34 | 2026-02-05 |  |
 | [White Rose](https://open.spotify.com/track/4OGXV3VqbOcbx6ZZmwuWDB) | [bumper](https://open.spotify.com/artist/1gHIm66CzHIb1HP74a0iwo) | [White Rose](https://open.spotify.com/album/3xkqdWnWkLmPdQRcxT6ipb) | 5:31 | 2025-07-09 |  |

@@ -9285,6 +9285,42 @@
     },
     {
       "album": {
+        "name": "SWIMSIDE: A Message from BTS",
+        "url": "https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42500,
+      "name": "SWIMSIDE: A Message from BTS",
+      "url": "https://open.spotify.com/track/6aaTaI3N55dboWtxjMENOG"
+    },
+    {
+      "album": {
+        "name": "SWIMSIDE: A Message from BTS",
+        "url": "https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37000,
+      "name": "SWIMSIDE: A Message from BTS (English ver.)",
+      "url": "https://open.spotify.com/track/4armFRlesCyzQuFiLr4cGq"
+    },
+    {
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },

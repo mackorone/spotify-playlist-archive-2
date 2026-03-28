@@ -774,7 +774,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 189723,
       "name": "aminin",
       "url": "https://open.spotify.com/track/6gUNbecfmLreiyIgR35DoA"
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Ate",
+        "url": "https://open.spotify.com/album/5A4eJARS7eP1fdKBG7kJDw"
+      },
+      "artists": [
+        {
+          "name": "Ely Buendia",
+          "url": "https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241855,
+      "name": "Ate",
+      "url": "https://open.spotify.com/track/6Lsts5Jn22moVr4H5FTtAx"
+    },
+    {
+      "album": {
         "name": "Atin Ang Walang Hanggan",
         "url": "https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe"
       },
@@ -1257,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "AYOS",
+        "url": "https://open.spotify.com/album/4rr0Zu5EuhUVKWu89qi8Ke"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218863,
+      "name": "AYOS",
+      "url": "https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX"
+    },
+    {
+      "album": {
         "name": "AYOS LANG",
         "url": "https://open.spotify.com/album/1kDAyu74Or1EPw4rHRojlH"
       },
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 179300,
       "name": "Babalik Sa'yo",
       "url": "https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf"
@@ -2779,6 +2815,32 @@
     },
     {
       "album": {
+        "name": "Di Ka Nag-iisa",
+        "url": "https://open.spotify.com/album/3gorhbqCU8yhASZCuilMeA"
+      },
+      "artists": [
+        {
+          "name": "VVINK",
+          "url": "https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW"
+        },
+        {
+          "name": "Penelope",
+          "url": "https://open.spotify.com/artist/4pmdWxcPYV8NkfuMmL7Ubu"
+        },
+        {
+          "name": "Nica del Rosario",
+          "url": "https://open.spotify.com/artist/2zgF783l4A3tMjr081z1wt"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "Di Ka Nag-iisa",
+      "url": "https://open.spotify.com/track/7df5hdcZZyYGkMatRnGgXu"
+    },
+    {
+      "album": {
         "name": "Di Ko Alam",
         "url": "https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT"
       },
@@ -3316,6 +3378,28 @@
       "duration_ms": 176520,
       "name": "EL CHAPO",
       "url": "https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr"
+    },
+    {
+      "album": {
+        "name": "Wakas At Simula",
+        "url": "https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "JOLIN",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Emoji",
+      "url": "https://open.spotify.com/track/1WgkRboDwSJLVKvv9bthvR"
     },
     {
       "album": {
@@ -4115,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Anthems",
+        "url": "https://open.spotify.com/album/711FScnP3YiczgsWTQMHEe"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Drilon",
+          "url": "https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Habang Buhay",
+      "url": "https://open.spotify.com/track/0Qh83ZBzUkV6nb0pqlF4S6"
+    },
+    {
+      "album": {
         "name": "Habang Buhay",
         "url": "https://open.spotify.com/album/7N3NRYx7jCwxg00PrSE8yG"
       },
@@ -4662,6 +4764,24 @@
       "duration_ms": 283809,
       "name": "Hindi Ako Mawawala",
       "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
+    },
+    {
+      "album": {
+        "name": "Hindi Ka Nagsasabi",
+        "url": "https://open.spotify.com/album/2JVt1oFyWZsUEoXKPdFfOd"
+      },
+      "artists": [
+        {
+          "name": "Mayonnaise",
+          "url": "https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Hindi Ka Nagsasabi",
+      "url": "https://open.spotify.com/track/0aJqPwf0FIR47RrI8bWZnE"
     },
     {
       "album": {
@@ -5534,6 +5654,24 @@
       "duration_ms": 213441,
       "name": "Internet",
       "url": "https://open.spotify.com/track/2LAXvVPg2vvpz9Pem8DCpm"
+    },
+    {
+      "album": {
+        "name": "ipakita",
+        "url": "https://open.spotify.com/album/0exGrmWQrRlG1c6xzo1ABJ"
+      },
+      "artists": [
+        {
+          "name": "Seann Jefferson",
+          "url": "https://open.spotify.com/artist/2fIVnGgJl8DOt3tnOAQ2dv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89343,
+      "name": "ipakita",
+      "url": "https://open.spotify.com/track/0IvHzwPRXSGdz5CKUdcZq2"
     },
     {
       "album": {
@@ -9290,7 +9428,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 194745,
       "name": "Natataranta",
       "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
@@ -9468,7 +9606,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 226062,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/2kIQmsQG3Wzoqt9WCkY8ww"
@@ -11322,7 +11460,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 199000,
       "name": "PUCHA",
       "url": "https://open.spotify.com/track/3sUgELJK76O64z2xMETxq1"
@@ -11814,7 +11952,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 240000,
       "name": "sa ating pag-ibig",
       "url": "https://open.spotify.com/track/1Mk0E0MIcbHrf8VabtL3dY"
@@ -12297,6 +12435,24 @@
     },
     {
       "album": {
+        "name": "Sanderiana",
+        "url": "https://open.spotify.com/album/63EhrjK2DUQI0yLSDWrBat"
+      },
+      "artists": [
+        {
+          "name": "Jenzen Guino",
+          "url": "https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Sanderiana",
+      "url": "https://open.spotify.com/track/4iVqN3tUHKLzse6Ahw6niL"
+    },
+    {
+      "album": {
         "name": "Love, Mona",
         "url": "https://open.spotify.com/album/2TtyretwUDsRHZPCkGFFT7"
       },
@@ -12510,7 +12666,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203389,
       "name": "season 1 episode 43",
       "url": "https://open.spotify.com/track/0IOFshVRhyrxMuxr4sKDM9"
@@ -13366,7 +13522,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 234461,
       "name": "Sweater",
       "url": "https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU"

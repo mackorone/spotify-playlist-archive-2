@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Mirella, AHTI, Lauri Haav..\. ja moni muu  🎶
 
-10,418 songs - 22 day 23 hr 22 min
+10,419 songs - 22 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 | 2025-09-26 | 2025-10-03 |
 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 | 2025-07-31 | 2025-08-08 |
 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 | 2026-02-19 | 2026-02-27 |
+| [bagman](https://open.spotify.com/track/5DzLjapZTnAJHZS5wasKnU) | [meik](https://open.spotify.com/artist/3lWLx3XSIXTsTcWH30Xs95) | [bagman](https://open.spotify.com/album/37oAc0013MYW6JJSB6JAod) | 2:50 | 2026-03-26 |  |
 | [Baila](https://open.spotify.com/track/2Ya2Utch47vT6nhEJpm9mV) | [Häärijä](https://open.spotify.com/artist/0jKRv5usnwBNfO9EMAlbqX) | [Baila](https://open.spotify.com/album/0nrvLGwb0rhej9Rw7mYZGS) | 1:53 | 2024-10-10 | 2024-10-18 |
 | [Bailaa jne.](https://open.spotify.com/track/1H1tZQrTLJxfXmMRl1ppOm) | [Suistamon Sähkö](https://open.spotify.com/artist/4lt3eYhDiGBsGHEtcrUZhv) | [Bailaa jne.](https://open.spotify.com/album/1bCgDhN9jnUnzgpDcoDH6h) | 2:55 | 2026-03-12 | 2026-03-20 |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-09 | 2025-01-17 |
@@ -9169,7 +9170,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 | 2025-10-31 |
 | [Toyota Camry](https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Toyota Camry](https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O) | 4:06 | 2025-11-27 | 2025-12-05 |
-| [Track 4](https://open.spotify.com/track/1pNwBkLT1SeROCV6pqbHbg) | [Eve](https://open.spotify.com/artist/1oyTtsbChtf14jw3jptCQB) | [Viimeinen Mohikaani](https://open.spotify.com/album/28d83pgPMnRPtCXMWEpS8o) | 0:00 | 2026-03-26 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-07-19 |
@@ -9700,6 +9700,7 @@
 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 | 2025-09-11 | 2025-09-19 |
 | [Viimeinen kuulutus](https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Viimeinen kuulutus](https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz) | 3:11 | 2024-12-05 | 2024-12-13 |
 | [Viimeinen laulu](https://open.spotify.com/track/2CBes4TIBPlleidP3ds420) | [MunkkiTuk](https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR), [Aurelia](https://open.spotify.com/artist/6yl6yxR92TlDjJodwsxFvc) | [Viimeinen laulu](https://open.spotify.com/album/4lcsqSzI1XDr7FceeRGFSY) | 2:32 | 2025-05-22 | 2025-05-30 |
+| [Viimeinen Mohikaani](https://open.spotify.com/track/1pNwBkLT1SeROCV6pqbHbg) | [Eve](https://open.spotify.com/artist/1oyTtsbChtf14jw3jptCQB) | [Viimeinen Mohikaani](https://open.spotify.com/album/28d83pgPMnRPtCXMWEpS8o) | 4:00 | 2026-03-26 |  |
 | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96) | 2:44 | 2024-07-04 | 2024-07-12 |
 | [Viimeinen tekoni](https://open.spotify.com/track/06G9w3cEqRAHaNhIgnefP3) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Sanon sen nyt ääneen](https://open.spotify.com/album/3Xd7lz68EkuMkm7uSDjYeb) | 2:39 | 2024-11-07 | 2024-11-15 |
 | [Viimeinkin sut saan](https://open.spotify.com/track/6cAe2eUGkB7jx7Pe60IZFa) | [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Viimeinkin sut saan](https://open.spotify.com/album/7iqiJxYzHsFnp6bCY4VHxq) | 2:56 | 2025-10-23 | 2025-10-31 |

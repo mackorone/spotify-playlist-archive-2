@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: CA7RIEL & Paco Amoroso",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Paloma Morphy & EMJAY",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 194873,
       "name": "(feliz por ti)",
       "url": "https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj"
+    },
+    {
+      "album": {
+        "name": "(pablo)",
+        "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198351,
+      "name": "(pablo)",
+      "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
     },
     {
       "album": {
@@ -4388,6 +4410,24 @@
     {
       "album": {
         "name": "Contigo",
+        "url": "https://open.spotify.com/album/3PofNKhlbZJcew6j3APkeL"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196546,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS"
+    },
+    {
+      "album": {
+        "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
       "artists": [
@@ -6228,7 +6268,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 219163,
       "name": "echar el vuelo",
       "url": "https://open.spotify.com/track/4pdwknmiUujyfOE3wgmlOo"
@@ -6765,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "ella y yo (suficiente)",
+        "url": "https://open.spotify.com/album/0mLrfSn0JDOt9JRtSHQAwq"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "ella y yo (suficiente)",
+      "url": "https://open.spotify.com/track/2TQ3YUrrJNPRoszM8qWeAJ"
+    },
+    {
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -7194,7 +7252,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 141668,
       "name": "Era Tan Real?",
       "url": "https://open.spotify.com/track/2PGtI7gcpEWmhw5Pwriwfk"
@@ -8920,7 +8978,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 168597,
       "name": "Hazlo Otra Vez",
       "url": "https://open.spotify.com/track/75p96rE7AWv1jUKrN7Lj7K"
@@ -9395,6 +9453,28 @@
     },
     {
       "album": {
+        "name": "King Of Big Ideas",
+        "url": "https://open.spotify.com/album/1p4A70u6t65x5XUD6EcLbU"
+      },
+      "artists": [
+        {
+          "name": "Kobi Cantillo",
+          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+        },
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172669,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/4zOuYOEuQUeinQOZXGOzBs"
+    },
+    {
+      "album": {
         "name": "IMPOSIBLE",
         "url": "https://open.spotify.com/album/1rahrfsDeqESpYVqjyLPEg"
       },
@@ -9732,7 +9812,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 157333,
       "name": "KAWASAKI",
       "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
@@ -13048,7 +13128,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 164584,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
@@ -16060,7 +16140,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 157745,
       "name": "Pero Yo S\u00ed",
       "url": "https://open.spotify.com/track/4prlsQZ6dYQLTHAua1SqcR"
@@ -17475,6 +17555,28 @@
     },
     {
       "album": {
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0"
       },
@@ -17874,6 +17976,28 @@
       "duration_ms": 154414,
       "name": "REY",
       "url": "https://open.spotify.com/track/69FwmM0iXHNwN0G3zGwFmi"
+    },
+    {
+      "album": {
+        "name": "Re\u00edrme Sin Ti",
+        "url": "https://open.spotify.com/album/5H2g3Iocjutw32ge6PCf34"
+      },
+      "artists": [
+        {
+          "name": "MARASMO",
+          "url": "https://open.spotify.com/artist/5c7eng6pvZIUFqfgWMTHWX"
+        },
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201316,
+      "name": "Re\u00edrme Sin Ti",
+      "url": "https://open.spotify.com/track/1MPVlNPGwBdXN3Uaw6FIzS"
     },
     {
       "album": {

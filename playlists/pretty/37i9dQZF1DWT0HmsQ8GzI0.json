@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Fran Palermo",
-  "num_followers": 16373,
+  "num_followers": 16385,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "\u00c9n is f\u00e9lek",
         "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 182307,
       "name": "\u00c9n is f\u00e9lek",
       "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Itt vagyok",
-        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
-      },
-      "artists": [
-        {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
-        }
-      ],
-      "duration_ms": 164561,
-      "name": "Itt vagyok",
-      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -695,6 +679,38 @@
       "duration_ms": 176500,
       "name": "\u00c9LEK \u00c9S VIRULOK",
       "url": "https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Itt vagyok",
+        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 164561,
+      "name": "Itt vagyok",
+      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "TRANSFORMANIA",
+        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "duration_ms": 231948,
+      "name": "\u00c9n vagyok az aki nem j\u00f3",
+      "url": "https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "TRANSFORMANIA",
-        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
       "artists": [
         {
-          "name": "Csinszka",
-          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
         }
       ],
-      "duration_ms": 231948,
-      "name": "\u00c9n vagyok az aki nem j\u00f3",
-      "url": "https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI"
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -759,22 +775,6 @@
       "duration_ms": 155000,
       "name": "Vakrep\u00fcl\u00e9s",
       "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "IM\u00c1G\u00d3",
-        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "\u00dcDV A KLUBBAN",
-      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Don't You Hate Yourself?",
-        "url": "https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA"
-      },
-      "artists": [
-        {
-          "name": "Waiting Room",
-          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Don't You Hate Yourself?",
-      "url": "https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Nem is te lenn\u00e9l",
         "url": "https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 179636,
       "name": "k\u00f6z\u00f6ny",
       "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Don't You Hate Yourself?",
+        "url": "https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA"
+      },
+      "artists": [
+        {
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Don't You Hate Yourself?",
+      "url": "https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "Porcel\u00e1n",
+        "url": "https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ"
+      },
+      "artists": [
+        {
+          "name": "Loophia",
+          "url": "https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Porcel\u00e1n",
+      "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 219474,
       "name": "CSILLAGT\u00daRA",
       "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "Porcel\u00e1n",
-        "url": "https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ"
-      },
-      "artists": [
-        {
-          "name": "Loophia",
-          "url": "https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Porcel\u00e1n",
-      "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1391,26 +1391,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "HARD TIMES",
-        "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
       },
       "artists": [
         {
-          "name": "OIEE",
-          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
-        },
-        {
-          "name": "M3NSA",
-          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
-        },
-        {
-          "name": "WaTa",
-          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
         }
       ],
-      "duration_ms": 157073,
-      "name": "HARD TIMES",
-      "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
     }
   ],
   "unique_name": "Nemazapop",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Maleh",
+  "description": "Proudly Southern African Afropop gems. Cover: Berita",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -3235,6 +3235,36 @@
     },
     {
       "album": {
+        "name": "NOSANGE",
+        "url": "https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "GVNT",
+          "url": "https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ"
+        },
+        {
+          "name": "Shwi Mantombazane",
+          "url": "https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "EThekwini (feat. Shwi Mantombazane)",
+      "url": "https://open.spotify.com/track/0uqXtHOucKim6xknqVXy9R"
+    },
+    {
+      "album": {
         "name": "Ewallet",
         "url": "https://open.spotify.com/album/5waXBwSbwwRqd4s0eJZmPy"
       },
@@ -5296,6 +5326,24 @@
       "duration_ms": 322552,
       "name": "Inkumbulo",
       "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
+    },
+    {
+      "album": {
+        "name": "Inqaba",
+        "url": "https://open.spotify.com/album/0lN2fNfvn5o8e4vaKbdcJw"
+      },
+      "artists": [
+        {
+          "name": "LaSauce",
+          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Inlove",
+      "url": "https://open.spotify.com/track/3f5Uqp13pMPR5V5auA8mDb"
     },
     {
       "album": {
@@ -8785,6 +8833,24 @@
     },
     {
       "album": {
+        "name": "Namhlanje",
+        "url": "https://open.spotify.com/album/7vAqgK4yDWXm85WVuKY1Jo"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190875,
+      "name": "Namhlanje",
+      "url": "https://open.spotify.com/track/5AI2bUt1yIeApAoBCMJLID"
+    },
+    {
+      "album": {
         "name": "Finally Me",
         "url": "https://open.spotify.com/album/0KDFmAIkwgU8mLRoPBx5Ja"
       },
@@ -8818,6 +8884,28 @@
       "duration_ms": 230344,
       "name": "Ndavuma",
       "url": "https://open.spotify.com/track/0c8AXyW6z3iFcW5yfNYY5F"
+    },
+    {
+      "album": {
+        "name": "Ndi A Ni Funa",
+        "url": "https://open.spotify.com/album/2fAkM4cyTKO8zR6FSuKwFz"
+      },
+      "artists": [
+        {
+          "name": "Eleh",
+          "url": "https://open.spotify.com/artist/3kPtdzzTFXY0AZIR1Iyrtl"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272741,
+      "name": "Ndi A Ni Funa",
+      "url": "https://open.spotify.com/track/2SsNEiaTIx5pYANxFIvn87"
     },
     {
       "album": {
@@ -9778,6 +9866,28 @@
       "duration_ms": 237525,
       "name": "Ngiyaku'Khumbula",
       "url": "https://open.spotify.com/track/5uHBDl7C5F7NxrxBP3Gx2b"
+    },
+    {
+      "album": {
+        "name": "Ngiyamthatha",
+        "url": "https://open.spotify.com/album/76xTChVJN12e7NXOMvkGUS"
+      },
+      "artists": [
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Sqiniseko SqinQ",
+          "url": "https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Ngiyamthatha",
+      "url": "https://open.spotify.com/track/0jzUaaXQEE793mRSsF93GR"
     },
     {
       "album": {
@@ -10815,6 +10925,28 @@
     },
     {
       "album": {
+        "name": "Omaqondana",
+        "url": "https://open.spotify.com/album/5mnCLnuHVYtMxOfv5pzC64"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Sqiniseko SqinQ",
+          "url": "https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218227,
+      "name": "Omaqondana",
+      "url": "https://open.spotify.com/track/0RgQ2wCSQOhwt6nOWicp9M"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5dtd5RmBNSujU8HBLWetT9"
       },
@@ -11122,7 +11254,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 197800,
       "name": "Phendula",
       "url": "https://open.spotify.com/track/1j1nOZttWVaZG8A7WdK9Jw"

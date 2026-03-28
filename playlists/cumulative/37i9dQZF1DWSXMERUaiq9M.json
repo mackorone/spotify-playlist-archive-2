@@ -3183,6 +3183,28 @@
     },
     {
       "album": {
+        "name": "Down Tonight",
+        "url": "https://open.spotify.com/album/0nM0v6yKvQgG2DxNbQrMK8"
+      },
+      "artists": [
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        },
+        {
+          "name": "DJ Cringey",
+          "url": "https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284932,
+      "name": "Down Tonight",
+      "url": "https://open.spotify.com/track/4FwtK1dIO1Ksl3MNflWkj6"
+    },
+    {
+      "album": {
         "name": "DR34M$",
         "url": "https://open.spotify.com/album/10M4qb2LIWkOk2dZWWo6os"
       },
@@ -13096,7 +13118,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 235500,
       "name": "What Music Felt Like In 2007",
       "url": "https://open.spotify.com/track/2F6ie4adRPCCQquwR03nui"

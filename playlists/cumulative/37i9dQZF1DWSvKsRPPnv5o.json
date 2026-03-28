@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Baby Keem",
+  "description": "Holdin' it down for the westside. Cover: Yeat",
   "name": "Westside",
   "tracks": [
     {
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 201600,
       "name": "A Few Things",
       "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
@@ -2303,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "AYE",
+        "url": "https://open.spotify.com/album/1OYr2wjX9Ev82084V2mpAf"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "AYE",
+      "url": "https://open.spotify.com/track/1pv2Yw2RN9ET9GZFFaHIWL"
+    },
+    {
+      "album": {
         "name": "Aye Bitch",
         "url": "https://open.spotify.com/album/7mWGptTpnhegCCaf94QQih"
       },
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 169756,
       "name": "Backyard Ball",
       "url": "https://open.spotify.com/track/3Yw9e8eUnFNkzPyJKA77EJ"
@@ -5146,7 +5164,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 187267,
       "name": "Bussdown",
       "url": "https://open.spotify.com/track/0xHahvUSLcrulhkXflBvwK"
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -7626,6 +7644,44 @@
       "duration_ms": 222360,
       "name": "Details",
       "url": "https://open.spotify.com/track/5aj1MVF2gDS7oKqvYDgwjy"
+    },
+    {
+      "album": {
+        "name": "DHS Inc. (feat. Lil Yee & ZayBang)",
+        "url": "https://open.spotify.com/album/3q6kPxAotO5hloywhU4kQJ"
+      },
+      "artists": [
+        {
+          "name": "1 Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159614,
+      "name": "DHS Inc. (feat. Lil Yee & ZayBang)",
+      "url": "https://open.spotify.com/track/1HS0SlJ269bUV4HLh47C9L"
     },
     {
       "album": {
@@ -9867,6 +9923,32 @@
     },
     {
       "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224125,
+      "name": "Face The Flam\u00eb",
+      "url": "https://open.spotify.com/track/5WTG3IGRkPoOj03HC4wT9v"
+    },
+    {
+      "album": {
         "name": "Faces & Names",
         "url": "https://open.spotify.com/album/0ifINVLYKCk8Cewukskp3F"
       },
@@ -10698,7 +10780,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 185943,
       "name": "Fly Swatter",
       "url": "https://open.spotify.com/track/12x4ENVYXHujbSXjtS3Cey"
@@ -11967,6 +12049,32 @@
     },
     {
       "album": {
+        "name": "Get Brackin & Come Back",
+        "url": "https://open.spotify.com/album/6mmKZiL37Nco87EQmD2Oy9"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182436,
+      "name": "Get Brackin & Come Back",
+      "url": "https://open.spotify.com/track/3bz3lrLCRYruSdKPkEno25"
+    },
+    {
+      "album": {
         "name": "Get Dough",
         "url": "https://open.spotify.com/album/73jSMc3qCgVQxakcKvu1CD"
       },
@@ -12671,6 +12779,28 @@
     },
     {
       "album": {
+        "name": "GOLD D'Z",
+        "url": "https://open.spotify.com/album/2J8gLE5O3gVYKNuxMLCpgo"
+      },
+      "artists": [
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        },
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159033,
+      "name": "GOLD D'Z",
+      "url": "https://open.spotify.com/track/2WVKabeJugPM66SiSwPERZ"
+    },
+    {
+      "album": {
         "name": "Gold Wrapper",
         "url": "https://open.spotify.com/album/2L2f5L4B8q52B1LsZKV2hY"
       },
@@ -12806,7 +12936,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
@@ -13092,6 +13222,28 @@
       "duration_ms": 229704,
       "name": "GRGP",
       "url": "https://open.spotify.com/track/73RwGh1ZPZHxXoUvnt7q5R"
+    },
+    {
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Griddl\u00eb",
+      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
     },
     {
       "album": {
@@ -22721,6 +22873,24 @@
     },
     {
       "album": {
+        "name": "Park It",
+        "url": "https://open.spotify.com/album/06nxMnrp5NrIPhUu4AwivH"
+      },
+      "artists": [
+        {
+          "name": "Drexthejoint",
+          "url": "https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179442,
+      "name": "Park It",
+      "url": "https://open.spotify.com/track/2HJ0MPsMMz3KFiOIdgmYw8"
+    },
+    {
+      "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
       },
@@ -25352,7 +25522,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 139875,
       "name": "Run Up",
       "url": "https://open.spotify.com/track/504UoMuVk5RO8f9eRnKjjm"
@@ -26787,6 +26957,24 @@
     },
     {
       "album": {
+        "name": "Sleaze SZN",
+        "url": "https://open.spotify.com/album/4rpDVBqBhzAVuLKYA3XmCj"
+      },
+      "artists": [
+        {
+          "name": "Younginsosleaze",
+          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104317,
+      "name": "Sleaze SZN",
+      "url": "https://open.spotify.com/track/5dwZS6o6nDKfqy4k1oxOVQ"
+    },
+    {
+      "album": {
         "name": "Slid Off",
         "url": "https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH"
       },
@@ -26798,7 +26986,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 140924,
       "name": "Slid Off",
       "url": "https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn"
@@ -27906,7 +28094,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 114964,
       "name": "STFU",
       "url": "https://open.spotify.com/track/65qLMJnpWBAUM0a53Vjqd9"
@@ -28186,6 +28374,24 @@
       "duration_ms": 110706,
       "name": "Stop Breathing",
       "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
+    },
+    {
+      "album": {
+        "name": "Stop Counting My Poccets",
+        "url": "https://open.spotify.com/album/3Xre7HVyyD1iakfWLhyJ0G"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123866,
+      "name": "Stop Counting My Poccets",
+      "url": "https://open.spotify.com/track/4POZ7rt05ZOcZCO8MwNDDa"
     },
     {
       "album": {
@@ -30780,7 +30986,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 173999,
       "name": "TOURMALINE",
       "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
@@ -32092,6 +32298,32 @@
       "duration_ms": 177479,
       "name": "waY bacK wheN",
       "url": "https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz"
+    },
+    {
+      "album": {
+        "name": "WE LIKE TO PARTY",
+        "url": "https://open.spotify.com/album/5OqY4CChAZ0dvpQve6Tlz6"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "WE LIKE TO PARTY",
+      "url": "https://open.spotify.com/track/0jF8eTODTY8W9BuGndetBy"
     },
     {
       "album": {

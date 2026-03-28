@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1ByqdKLWWvtKicg79xy3Wr.md) - [plain]
 
 > House Music 🏠🎵 + everything else \| Updated Weekly\-ish
 
-[RDGO](https://open.spotify.com/user/rgonzalez196) - 120 likes - 137 songs - 8 hr 1 min
+[RDGO](https://open.spotify.com/user/rgonzalez196) - 121 likes - 137 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Check Check](https://open.spotify.com/track/5z5udHhFRDtJvAAqLdU7Aa) | [Juush](https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo), [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [Check Check](https://open.spotify.com/album/1ACuk1BWGrlaNTcpKloWkj) | 2:43 |
-| 2 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Æ](https://open.spotify.com/artist/4Jp6hHKtWHf0Skka44mbJe) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
+| 2 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [y3kfae](https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
 | 3 | [BY MY SIDE](https://open.spotify.com/track/0VIO769924lW4gjyhRcvNP) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm), [ÜBERKLUBB](https://open.spotify.com/artist/64sr4agNPkR3dtVQV64eAy) | [DREAM](https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl) | 3:41 |
 | 4 | [DREAM](https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [DREAM](https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl) | 4:23 |
 | 5 | [Heaven](https://open.spotify.com/track/3MhivhKf1CEfSFwD1ZwB5I) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Heaven](https://open.spotify.com/album/2B8YmT6sPzZk41N8WClBuo) | 3:12 |

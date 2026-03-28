@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Świętujemy 5 lat EQUAL 💚 Sprawdź najczęściej słuchane ambasadorki programu! Cover: <a href="spotify:artist:0TMvoNR0AIJV138mHY6jdE">sanah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,090 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,126 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Płonę](https://open.spotify.com/track/3iwQY0Kd07B1JfqLa17NCj) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Ta, co płonie z Miłości](https://open.spotify.com/album/4tXV3ndpU786KGwaE9OVPA) | 3:29 |
 | 50 | [Wars](https://open.spotify.com/track/4VabxTWUI2mR80m0yHwEDT) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Nitki](https://open.spotify.com/album/62SbqDirvE2wDXU4HJB43u) | 3:14 |
 
-Snapshot ID: `AAAAABoBa3EJeW1ht9DOMVR76U3w4DWv`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Celebrating 5 Years of EQUAL ! 慶祝 EQUAL 五週年！\(cover: Sammi Cheung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,325 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,335 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [一律建議分手](https://open.spotify.com/track/0KOhktXlsA1KHE1g8LiJ0m) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [一律建議分手](https://open.spotify.com/album/0vBu53cgDImoXXhfRw1afc) | 3:27 |
 | 50 | [SPINNING](https://open.spotify.com/track/0VQq9eFikuEUMak1pj1ub5) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [SPINNING](https://open.spotify.com/album/5kYD77mePtd16CGcHmzXJC) | 3:08 |
 
-Snapshot ID: `AAAAAN3IFUFvpJRkR9iOdHvFEG6/2UZg`
+Snapshot ID: `AAAAAONOSDnbdRNFvmOcjP/tGN2F92d3`

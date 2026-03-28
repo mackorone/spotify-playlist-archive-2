@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 392994,
+  "num_followers": 393095,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtrure1myEaxh+VpmWHpjXQXIsX",
+  "snapshot_id": "AAAAANlrjMcYdWkLZLVp6G2XNoVR4sZZ",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:06",
+      "album": {
+        "name": "365 Flavors",
+        "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 238410,
+      "name": "365 Flavors",
+      "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
+    },
     {
       "added_at": "2026-03-20 04:00:30",
       "album": {
@@ -107,22 +123,6 @@
       "duration_ms": 166458,
       "name": "Something Serious",
       "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
-    },
-    {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "Lovin' Made Easy",
-        "url": "https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 283420,
-      "name": "Lovin' Made Easy",
-      "url": "https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4"
     },
     {
       "added_at": "2026-02-27 05:00:47",

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-172 songs - 16 hr 31 min
+173 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [The Red One](https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [I Can See Your House From Here](https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb) | 4:19 | 2021-02-12 |  |
 | [Thirty One](https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Thirty One](https://open.spotify.com/album/0qbO0VkbG4gPPdDF7vCjMb) | 3:47 | 2021-02-12 |  |
 | [Thirty One](https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 3:47 | 2021-02-12 | 2024-04-19 |
+| [Thrust](https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Thrust](https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz) | 4:27 | 2026-03-27 |  |
 | [Time Track](https://open.spotify.com/track/0XzrsFMFGy73yAoxMXazXj) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Light Years](https://open.spotify.com/album/6LhTsVh7o6NUHyecScBJ14) | 5:04 | 2023-08-14 |  |
 | [Trains](https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1) | [Steps Ahead](https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5) | [Magnetic](https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb) | 7:31 | 2021-02-12 |  |
 | [Trinity](https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Trinity](https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv) | 7:54 | 2022-06-10 |  |

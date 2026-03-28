@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Feet On Fire",
+        "url": "https://open.spotify.com/album/5IkqbCAn4Se3xF30JMGVEg"
+      },
+      "artists": [
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405555,
+      "name": "Feet On Fire",
+      "url": "https://open.spotify.com/track/29u3YYvbRhhrFWSVluEDnI"
+    },
+    {
+      "album": {
         "name": "Fire Season",
         "url": "https://open.spotify.com/album/42nv5MwhTWAkvmHI2AHK8a"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 284138,
       "name": "Fruits Of My Labour",
       "url": "https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 171053,
       "name": "Highways",
       "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
@@ -1958,6 +1976,24 @@
       "duration_ms": 271958,
       "name": "Mornings In Memphis",
       "url": "https://open.spotify.com/track/46LNEywm0qDSP0nE5an6yE"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
     },
     {
       "album": {
@@ -3348,7 +3384,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 169600,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5"

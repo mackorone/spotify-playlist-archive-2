@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 
 > Listen to JENNIE's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,692 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,880 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 | 24 | [SOLO \- Live](https://open.spotify.com/track/6V3dOOUiPg53wUf83tBLR8) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 2:45 |
 | 25 | [One Of The Girls \- Sped Up](https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 3:35 |
 | 26 | [SOLO \- BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"](https://open.spotify.com/track/5S7by1wwGii36WAs4sBjzc) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"](https://open.spotify.com/album/1dH4B2bWb5Ys7aszi9KWHA) | 2:50 |
-| 27 | [Special](https://open.spotify.com/track/4MwT3qzF3tfMtSFr9b2nKa) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:56 |
+| 27 | [Special](https://open.spotify.com/track/4MwT3qzF3tfMtSFr9b2nKa) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:56 |
 | 28 | [Black \(Feat\. JENNIE of BLACKPINK\)](https://open.spotify.com/track/44f1TNdoQUgf3PUYraCTsH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [COUP D'ETAT \(Korean Version\)](https://open.spotify.com/album/6A5g9sz5nChdBMdcATcCjB) | 3:23 |
 | 29 | [One Of The Girls \- A Cappella](https://open.spotify.com/track/4oN4odRiXgTMnaAjz7kinV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:09 |
 | 30 | [One Of The Girls \- Instrumental](https://open.spotify.com/track/7zNS5065xzKyhOBMOj7pCr) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 |

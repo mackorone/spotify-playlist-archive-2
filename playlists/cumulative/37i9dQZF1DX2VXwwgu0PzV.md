@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-1,610 songs - 3 day 13 hr 36 min
+1,611 songs - 3 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-09-15 | 2023-12-15 |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-01-19 | 2024-04-19 |
 | [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-01-19 |  |
+| [Good Father](https://open.spotify.com/track/0elKcwAtaliEC5nOCRppDt) | [Ta ni](https://open.spotify.com/artist/6xd6Zz4DcTTbiObY7Pozpr), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Good Father](https://open.spotify.com/album/67pulutK1Eu0ayKY1yNFnr) | 2:48 | 2026-03-27 |  |
 | [Good God](https://open.spotify.com/track/4Hpy8F1Sa2NBi8IaucroY8) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Good God](https://open.spotify.com/album/2sBADjn8q8zvQcDUNbvhXd) | 2:07 | 2025-07-18 | 2025-08-15 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2025-03-28 |
 | [GOOD GOOD GOD](https://open.spotify.com/track/3tMVmejZwzphx1kjnWqYLw) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [GOOD GOOD GOD](https://open.spotify.com/album/7D12vNVnTLlF3GIhTgKLPl) | 3:09 | 2023-04-07 | 2023-06-16 |

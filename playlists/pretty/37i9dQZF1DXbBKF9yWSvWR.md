@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: BLUAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,794 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,813 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 |
 | 100 | [Never The Same](https://open.spotify.com/track/4OM1Ljxiq04Ma2noNGsXTB) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Never The Same](https://open.spotify.com/album/3CAxVVqXBj0dLifmh3TdxI) | 2:50 |
 
-Snapshot ID: `AAAAAG3p7y8Sf93ybAxVH2qT/LlXo2bi`
+Snapshot ID: `AAAAAMx7z3KOx5vyVsM8BclPwrYpFvI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Celebrating 5 Years of EQUAL! Listen to women at full volume\. Cover: Annika 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,578 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,581 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 | 99 | [Til ungdommen](https://open.spotify.com/track/3mh1oYBAQy657NrVLONKlg) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Til ungdommen](https://open.spotify.com/album/1J1JmjaTOxnrlVfHj7J5zO) | 2:56 |
 | 100 | [Mange ting](https://open.spotify.com/track/4O87KCVGjmzCVWHEYg3oEv) | [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [Mange ting](https://open.spotify.com/album/2m18GK3BTJelj8iAlUVy6N) | 2:54 |
 
-Snapshot ID: `AAAAAAbLpddiZmDmKFS7JOkPuQBDa1kW`
+Snapshot ID: `AAAAABblvNdupMMlKKaixBkBNqwEkMjc`

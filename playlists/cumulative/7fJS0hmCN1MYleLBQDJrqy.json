@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Palermo",
+        "url": "https://open.spotify.com/album/4FtF3YXYt84Wo44Q6kKdPA"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        },
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158748,
+      "name": "Palermo",
+      "url": "https://open.spotify.com/track/1KU4DCpFnKz3HWvLsZZAKQ"
+    },
+    {
+      "album": {
         "name": "Papa's Geld",
         "url": "https://open.spotify.com/album/13YCIl3X503L1zASNd0JiN"
       },

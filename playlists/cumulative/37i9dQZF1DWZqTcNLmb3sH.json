@@ -17010,7 +17010,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 268552,
       "name": "Hrudayavu Kelade (From \"Cult\")",
       "url": "https://open.spotify.com/track/03hQGNaFzYJZ4D3HnYVx6Y"
@@ -29634,7 +29634,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 222648,
       "name": "Nan Yaru (From \"Calendar\")",
       "url": "https://open.spotify.com/track/5j1fdcypYcHGY63Q2V09Bs"
@@ -30042,6 +30042,28 @@
       "duration_ms": 202285,
       "name": "Nanna Kattikondre (From \"Sasanasabha - Kannada\")",
       "url": "https://open.spotify.com/track/0CdGODZAR8qBukydjANb6j"
+    },
+    {
+      "album": {
+        "name": "Goggayya",
+        "url": "https://open.spotify.com/album/5sgugcWlxWzj0VnTDeBElR"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276361,
+      "name": "Nanna Muddu Bombe",
+      "url": "https://open.spotify.com/track/6JQMdl0IhBHHNUVLnHIPF7"
     },
     {
       "album": {
@@ -30662,6 +30684,24 @@
       "duration_ms": 249000,
       "name": "Nee Chuttu Chuttu (From \"Skanda\")",
       "url": "https://open.spotify.com/track/2sYhYrHPNU8v5EjSqIqDXm"
+    },
+    {
+      "album": {
+        "name": "Goggayya",
+        "url": "https://open.spotify.com/album/5sgugcWlxWzj0VnTDeBElR"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257359,
+      "name": "Nee Hedarabeda Kanda",
+      "url": "https://open.spotify.com/track/10la6z1fQ3tpqMTKapz8Yf"
     },
     {
       "album": {
@@ -38626,7 +38666,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 216341,
       "name": "Romanchaka (From \"LANDLORD\")",
       "url": "https://open.spotify.com/track/5ZuDybcqxAO4evxgZ1j67L"
@@ -43720,6 +43760,32 @@
       "duration_ms": 254042,
       "name": "Thirugo Bhoomi (From \"Jotheyagi Hithavagi\")",
       "url": "https://open.spotify.com/track/6XRq0GS0OWhTZALAMKe4VF"
+    },
+    {
+      "album": {
+        "name": "Terror",
+        "url": "https://open.spotify.com/album/4ixqyVZpkI5dAz9wM8klug"
+      },
+      "artists": [
+        {
+          "name": "Madhwesh Bharadwaj",
+          "url": "https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH"
+        },
+        {
+          "name": "Harsha Vardhan Raaj",
+          "url": "https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc"
+        },
+        {
+          "name": "Dr V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/6cM9gbCPr3VxoJAR7BOrDO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219782,
+      "name": "Thirugo Ee Bhoomi",
+      "url": "https://open.spotify.com/track/5HCrM2iRdJ1SPjnuEbFCFZ"
     },
     {
       "album": {

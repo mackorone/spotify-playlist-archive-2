@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-130 songs - 7 hr 6 min
+131 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [For Me](https://open.spotify.com/track/4T4L3ZJWITDQpXqGOVNraQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [For Me](https://open.spotify.com/album/3AvM39VnniWUGgHD5LD6yn) | 3:23 | 2026-01-14 |  |
 | [Friend of Mine](https://open.spotify.com/track/5UKwBJycucZowKOzoBLONt) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Sad Songs for the Soul](https://open.spotify.com/album/4VU4XCA8IwDF9JVXEbIeQi) | 3:17 | 2026-01-14 |  |
 | [Girl to Girl](https://open.spotify.com/track/1fx6jheBK4WWQAI2fShdh1) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:12 | 2026-01-14 |  |
+| [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 | 2026-03-27 |  |
 | [Girls Like Me](https://open.spotify.com/track/5cSHji0JXin8rAkuOQ6CPi) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/27v62mfeYDZhOX2fXoIVcK) | 2:51 | 2026-01-14 | 2026-03-20 |
 | [God & Country](https://open.spotify.com/track/6IFlMgM8RvY4wA7dyxywKA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:19 | 2026-01-14 |  |
 | [God and a Good Man](https://open.spotify.com/track/5FdyZx9yvHUWLeCjy7zgXc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 4:56 | 2026-01-14 |  |

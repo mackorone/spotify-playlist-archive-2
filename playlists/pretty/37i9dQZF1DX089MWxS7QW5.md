@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: siso\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,444 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,456 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Filter\-Face](https://open.spotify.com/track/2IwhX7UNKcbZzdQiuaBwVR) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [Filter\-Face](https://open.spotify.com/album/4TVIjgKLKL8VpzZjtnk0XV) | 1:50 |
 | 50 | [UP ALL NITE \(Feat\. SUMIN\)](https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [FANG](https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq) | 3:06 |
 
-Snapshot ID: `AAAAAGbvLmNbjrzscReVsVLbb6itKWcs`
+Snapshot ID: `AAAAADv67MbbMhW5skPaPQ5kVR9IVtOK`

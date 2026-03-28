@@ -4,10 +4,11 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-592 songs - 1 day 11 hr 31 min
+593 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 | 2026-03-27 |  |
 | [3AM in Chicago](https://open.spotify.com/track/4PqjlKTXoRBJwHCwy0OHtQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Little Black Flies](https://open.spotify.com/album/3IELDMdo0nbuzRSduoXYwJ) | 3:36 | 2021-07-09 | 2022-07-02 |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 | 2023-08-05 |
 | [A Brighter Shade](https://open.spotify.com/track/1Y6JoaALDAviBBdIN2qMkO) | [Carlton Jumel Smith & The Soul Seeders](https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7), [The Soul Seeders](https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [A Brighter Shade](https://open.spotify.com/album/3ooZ8HrlEgtGLv6zW9QpUt) | 3:26 | 2024-09-06 |  |
@@ -310,7 +311,7 @@
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-10-26 |
 | [Lover Boy](https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Lover Boy](https://open.spotify.com/album/3VL9z3tG7Wr5g8iORdtF0M) | 2:55 | 2023-02-10 | 2024-09-07 |
 | [Lovers' Holiday](https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lovers' Holiday](https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM) | 3:25 | 2025-05-30 | 2025-06-28 |
-| [Lovin' Made Easy](https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Lovin' Made Easy](https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU) | 4:43 | 2026-02-27 |  |
+| [Lovin' Made Easy](https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Lovin' Made Easy](https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU) | 4:43 | 2026-02-27 | 2026-03-28 |
 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 | 2023-02-17 | 2025-08-02 |
 | [Loving You Is Easy](https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Loving You Is Easy](https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx) | 3:24 | 2022-06-10 | 2022-07-02 |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 | 2025-06-24 |

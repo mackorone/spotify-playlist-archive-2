@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1296644,
+  "num_followers": 1296668,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
-    },
-    {
-      "added_at": "2026-03-20 08:09:29",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2026-03-20 08:09:29",
+      "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
     },
     {
       "added_at": "2026-03-20 08:09:29",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
-        "name": "Cheek to Cheek",
-        "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        },
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        }
-      ],
-      "duration_ms": 423013,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
-    },
-    {
-      "added_at": "2026-03-20 08:09:29",
-      "album": {
         "name": "Our Love Is Here to Stay",
         "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 381733,
       "name": "Our Love Is Here to Stay",
       "url": "https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r"
+    },
+    {
+      "added_at": "2026-03-20 08:09:29",
+      "album": {
+        "name": "Cheek to Cheek",
+        "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        },
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        }
+      ],
+      "duration_ms": 423013,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
     },
     {
       "added_at": "2026-03-20 08:09:29",
@@ -1387,6 +1387,38 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
+        "name": "As We Are",
+        "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
+      },
+      "artists": [
+        {
+          "name": "Margareta Bengtson",
+          "url": "https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov"
+        },
+        {
+          "name": "Jan Allan",
+          "url": "https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6"
+        },
+        {
+          "name": "Anders Paulsson",
+          "url": "https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y"
+        },
+        {
+          "name": "Alberto Pinton",
+          "url": "https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2"
+        },
+        {
+          "name": "Third Saxes Galore",
+          "url": "https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI"
+    },
+    {
+      "added_at": "2026-03-20 08:09:29",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -1423,38 +1455,6 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
-        "name": "As We Are",
-        "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
-      },
-      "artists": [
-        {
-          "name": "Margareta Bengtson",
-          "url": "https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov"
-        },
-        {
-          "name": "Jan Allan",
-          "url": "https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6"
-        },
-        {
-          "name": "Anders Paulsson",
-          "url": "https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y"
-        },
-        {
-          "name": "Alberto Pinton",
-          "url": "https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2"
-        },
-        {
-          "name": "Third Saxes Galore",
-          "url": "https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI"
-    },
-    {
-      "added_at": "2026-03-20 08:09:29",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-03-20 08:09:29",
       "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
-    },
-    {
-      "added_at": "2026-03-20 08:09:29",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 279346,
       "name": "Let's Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG"
+    },
+    {
+      "added_at": "2026-03-20 08:09:29",
+      "album": {
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2026-03-20 08:09:29",

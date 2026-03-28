@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,859 likes - 104 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,888 likes - 104 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 7 | [You Are Good](https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [You Are Good](https://open.spotify.com/album/0aBb8Xrz2ESrNGYoXmvruV) | 9:09 |
 | 8 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 |
 | 9 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
-| 10 | [Track 1](https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj) | [Universal Catholic Church Choir](https://open.spotify.com/artist/5GZuDd422CdJBsCUNgiC6J) | [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/album/4G91WtwfW9HhhqwMYn7F4j) | 0:00 |
+| 10 | [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj) | [Universal Catholic Church Choir](https://open.spotify.com/artist/5GZuDd422CdJBsCUNgiC6J) | [HONA FAPANONG HONA LE SEDIBA](https://open.spotify.com/album/4G91WtwfW9HhhqwMYn7F4j) | 4:03 |
 | 11 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
 | 12 | [Uya Mangadza Yeso \- Live](https://open.spotify.com/track/2Sq6Dz0ARNawM0tQFKGh7X) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction S2](https://open.spotify.com/album/165Ml0Eqg19O3YgZr85vhU) | 6:40 |
 | 13 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 |

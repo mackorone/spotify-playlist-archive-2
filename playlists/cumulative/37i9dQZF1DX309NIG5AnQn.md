@@ -2,14 +2,14 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 BB asul
+> rock alternativo argentino\. <br/>📷 Marina Fages
 
-286 songs - 16 hr 10 min
+287 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [02:51](https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [02:51](https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl) | 4:11 | 2023-05-12 | 2023-09-16 |
-| [2 y diagonal](https://open.spotify.com/track/5xUACDPbDPvPg1HimpwyBK) | [Autos Robados](https://open.spotify.com/artist/5mTDazgxgE8HYpzPckCwV0) | [Estrés y alucinaciones](https://open.spotify.com/album/56QO5e29vGQoeZts6U2Ivf) | 2:43 | 2025-11-14 |  |
+| [2 y diagonal](https://open.spotify.com/track/5xUACDPbDPvPg1HimpwyBK) | [Autos Robados](https://open.spotify.com/artist/5mTDazgxgE8HYpzPckCwV0) | [Estrés y alucinaciones](https://open.spotify.com/album/56QO5e29vGQoeZts6U2Ivf) | 2:43 | 2025-11-14 | 2026-03-28 |
 | [31 de Diciembre](https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS) | 5:12 | 2024-05-09 | 2024-09-14 |
 | [31 de Diciembre](https://open.spotify.com/track/7eVPt0ywVYz2CgRYUOGC4G) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/4AB7LBCxKAdf96i5IOYUPl) | 5:12 | 2024-04-26 | 2024-05-17 |
 | [40](https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TRES PUNTOS SUSPENSIVOS](https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ) | 1:05 | 2022-03-25 | 2023-03-25 |
@@ -236,7 +236,7 @@
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 |  |
-| [Radio Jam](https://open.spotify.com/track/1H4hyPHLidWmoGXdvnKOkb) | [Samsara](https://open.spotify.com/artist/6VzEcHKJeWi4VweVa6VqYx) | [Radio Jam](https://open.spotify.com/album/6f9gIdFEfcK8tXg3gASMi5) | 2:54 | 2026-01-23 |  |
+| [Radio Jam](https://open.spotify.com/track/1H4hyPHLidWmoGXdvnKOkb) | [Samsara](https://open.spotify.com/artist/6VzEcHKJeWi4VweVa6VqYx) | [Radio Jam](https://open.spotify.com/album/6f9gIdFEfcK8tXg3gASMi5) | 2:54 | 2026-01-23 | 2026-03-28 |
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 | 2024-07-12 | 2025-02-07 |
 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 | 2025-11-21 |
@@ -256,6 +256,7 @@
 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 | 2023-09-01 | 2025-03-08 |
 | [Such A Witch](https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Such A Witch](https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr) | 4:02 | 2024-08-12 |  |
 | [tabaco para armar](https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [tabaco para armar](https://open.spotify.com/album/4wdpdfpjxUugDWTePO1BOn) | 2:47 | 2026-02-27 |  |
+| [Tan Adorable](https://open.spotify.com/track/7cSnscdxaW12w0T6eQzMAT) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [ATALAYA AVALANCHA](https://open.spotify.com/album/50Tx2aMQD2tI4mZDR7xRaQ) | 2:27 | 2026-03-27 |  |
 | [Temporal \(Bby date cuenta\)](https://open.spotify.com/track/2xWqMw3XIEnMni7GJDxqQc) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Temporal \(Bby date cuenta\)](https://open.spotify.com/album/0hxSPPhAH1qeVpf2nLX7R5) | 2:52 | 2025-03-07 |  |
 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 | 2023-03-23 | 2024-08-13 |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2023-03-23 | 2025-05-17 |

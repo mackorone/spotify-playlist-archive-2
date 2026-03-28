@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,903 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,525 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 8 | [Mere Mehboob](https://open.spotify.com/track/5ZjWYv5kOH1ywFmv5JjPNd) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Vicky Vidya Ka Woh Wala Video](https://open.spotify.com/album/3B54p8dKa2ehcMhpOmMRcb) | 3:36 |
 | 9 | [Halka Halka](https://open.spotify.com/track/3DbNXniRprbs23Vlmy4roM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Fanney Khan](https://open.spotify.com/album/1z7NW9uaQiS8aFlRjoYjPT) | 4:07 |
 | 10 | [Makhna \- From "Drive"](https://open.spotify.com/track/7ohit6uKKUf6nESaNcXAgp) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Drive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0pFyJDv0ehBp2lj6N6zuEk) | 3:03 |
-| 11 | [Main Aur Tu](https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Dhurandhar The Revenge](https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj) | 3:30 |
+| 11 | [Main Aur Tu](https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Dhurandhar The Revenge](https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj) | 3:30 |
 | 12 | [Akhiyaan Gulaab](https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:51 |
 | 13 | [Tareefan](https://open.spotify.com/track/2SN54RFfaafTk7TE1n1Na4) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Veere Di Wedding \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4B5LDuvrmHDJbPmNYzHZMB) | 3:06 |
 | 14 | [Laila Main Laila](https://open.spotify.com/track/0eNiqkazTEYJJ8fMRPyJx8) | [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX) | [Raees \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD) | 5:06 |

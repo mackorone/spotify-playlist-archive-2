@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 ### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POP YOURSまであと7日！】J\-Hip Hopの最新注目曲をまとめてチェック cover: ANARCHY \*水曜更新。マイライブラリに保存して毎週チェックしよう
+> 【POP YOURSまであと6日！】J\-Hip Hopの最新注目曲をまとめてチェック cover: Kohjiya \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,991 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,022 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2026 \(feat\. Watson\)](https://open.spotify.com/track/7yFxiIg2aMbzBVdlewvlCD) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Crest](https://open.spotify.com/album/3yEnBtEW0WtyoCH0VjRb0C) | 3:57 |
-| 2 | [LoveMyself](https://open.spotify.com/track/5TAQTdsGOHwcaxXJiTrm3I) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [LoveMyself](https://open.spotify.com/album/7nHLQSfS3hqJH5G3O9iJAR) | 3:54 |
-| 3 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
-| 4 | [違う](https://open.spotify.com/track/3UDXnCDzTv4yWO93HAJJ6E) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [違う](https://open.spotify.com/album/1uP8jI2re3s6MElvZZZuPI) | 4:27 |
-| 5 | [STARLIGHT](https://open.spotify.com/track/0FG5Byhhrxel96MUf1tTUb) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [STARLIGHT](https://open.spotify.com/album/5TibMNvMzjSot778RCMlDy) | 4:02 |
-| 6 | [Back Home](https://open.spotify.com/track/28cpUNiRybQ9h1we5NXyxv) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Back Home](https://open.spotify.com/album/5zLpSY8aZ75mqw57f0UcQK) | 3:01 |
+| 1 | [Back Home](https://open.spotify.com/track/28cpUNiRybQ9h1we5NXyxv) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Back Home](https://open.spotify.com/album/5zLpSY8aZ75mqw57f0UcQK) | 3:01 |
+| 2 | [2026 \(feat\. Watson\)](https://open.spotify.com/track/7yFxiIg2aMbzBVdlewvlCD) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Crest](https://open.spotify.com/album/3yEnBtEW0WtyoCH0VjRb0C) | 3:57 |
+| 3 | [LoveMyself](https://open.spotify.com/track/5TAQTdsGOHwcaxXJiTrm3I) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [LoveMyself](https://open.spotify.com/album/7nHLQSfS3hqJH5G3O9iJAR) | 3:54 |
+| 4 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
+| 5 | [違う](https://open.spotify.com/track/3UDXnCDzTv4yWO93HAJJ6E) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [違う](https://open.spotify.com/album/1uP8jI2re3s6MElvZZZuPI) | 4:27 |
+| 6 | [STARLIGHT](https://open.spotify.com/track/0FG5Byhhrxel96MUf1tTUb) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [STARLIGHT](https://open.spotify.com/album/5TibMNvMzjSot778RCMlDy) | 4:02 |
 | 7 | [THEME OF TAXMEN](https://open.spotify.com/track/3SWgMu41C5oF6pnw8NtRwF) | [TAXMEN](https://open.spotify.com/artist/3jPLkrcUodhzpbCXABDixk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [THEME OF TAXMEN](https://open.spotify.com/album/0fodGZkEU3fVNsnS4VnaMB) | 3:00 |
 | 8 | [Black Mamba \(feat\. VIGORMAN\)](https://open.spotify.com/track/3UJ0HSr7Ui3VttgLCu6q11) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Pain Makes You Better \(Deluxe Version\)](https://open.spotify.com/album/57saLav9W7UdX5qMczOONj) | 2:17 |
 | 9 | [CULT](https://open.spotify.com/track/5OLDBiTRdA9kWiyMYY2pim) | [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [CULT](https://open.spotify.com/album/5g9Cn8t1VuR6WGkNW1Acgy) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 99 | [Red Bull 64 Bars](https://open.spotify.com/track/7MJL0Vc4D5ux4ZsHGFXjZ8) | [Reichi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [Red Bull 64 Bars](https://open.spotify.com/album/7cD1fMnf3CH70hNAYj57zX) | 3:35 |
 | 100 | [Don't Judge Me](https://open.spotify.com/track/20FVZlSdlZGPL8HaUDiqq5) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [MACCHO](https://open.spotify.com/artist/2UgXaM5svmSrlO5lHU7SCe) | [Don't Judge Me](https://open.spotify.com/album/4FErbtTnwPij0OosM1gCZL) | 4:26 |
 
-Snapshot ID: `AAAAACJWvlPTMdG2r79AP/4P9zMOUdho`
+Snapshot ID: `AAAAAGkfU+5R114rXBYoymM3zQGvRDCp`

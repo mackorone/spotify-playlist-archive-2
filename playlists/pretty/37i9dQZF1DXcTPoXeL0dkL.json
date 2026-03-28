@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 222777,
+  "num_followers": 222806,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -439,8 +439,24 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Diomedes Diaz, La Ventana Marroncita y 15 \u00c9xitos M\u00e1s!",
-        "url": "https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
       "artists": [
         {
@@ -448,13 +464,13 @@
           "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 275040,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt"
+      "duration_ms": 290573,
+      "name": "Amarte Mas No Pude",
+      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -523,6 +539,26 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "Diomedes Diaz, La Ventana Marroncita y 15 \u00c9xitos M\u00e1s!",
+        "url": "https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -535,42 +571,6 @@
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Tu Eres La Reina",
-      "url": "https://open.spotify.com/track/4WqHkXEie9gJXUn524bIq4"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Amarte Mas No Pude",
-      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
+      "duration_ms": 252800,
+      "name": "Tu Eres La Reina",
+      "url": "https://open.spotify.com/track/4WqHkXEie9gJXUn524bIq4"
     },
     {
       "added_at": "2025-06-06 05:39:08",

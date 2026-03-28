@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-506 songs - 1 day 4 hr 44 min
+507 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 |  |
 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 |  |
 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-06-02 | 2026-02-20 |
-| [El tiempo en que te vas](https://open.spotify.com/track/4jEPLg82tsyjSYy7H61FXQ) | [Elena Carat](https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM) | [El tiempo en que te vas](https://open.spotify.com/album/2lcsIit738Oeo1pSppvoji) | 3:59 | 2026-03-26 |  |
+| [El tiempo en que te vas](https://open.spotify.com/track/4jEPLg82tsyjSYy7H61FXQ) | [Elena Carat](https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM) | [El tiempo en que te vas](https://open.spotify.com/album/2lcsIit738Oeo1pSppvoji) | 3:59 | 2026-03-26 | 2026-03-28 |
 | [El Vacío](https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn) | [Adam Guerrero](https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn) | [El Vacío](https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux) | 2:34 | 2026-02-19 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-10-01 | 2024-12-24 |
 | [em plou a dins](https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [em plou a dins](https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0) | 2:56 | 2025-09-18 |  |
@@ -150,6 +150,7 @@
 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-25 | 2026-01-17 |
 | [Esta noche](https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Esta noche](https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn) | 4:36 | 2025-03-06 | 2025-04-01 |
 | [Eterna Primavera](https://open.spotify.com/track/6YtxeABGxbtWYZ67oPq8f4) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [Lugar Nº0 \(D.L.Y\)](https://open.spotify.com/album/0FJ41Xj3STtDeNo52gfc2F) | 3:32 | 2025-12-04 | 2026-02-27 |
+| [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 | 2026-03-26 |  |
 | [Evergreen \(You Didn't Deserve Me At All\) \- Stripped](https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Stripped\]](https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2) | 3:35 | 2023-01-06 | 2023-01-25 |
 | [Every Breath You Take](https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take](https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH) | 3:43 | 2023-12-28 | 2024-04-19 |
 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2022-11-11 | 2024-01-14 |

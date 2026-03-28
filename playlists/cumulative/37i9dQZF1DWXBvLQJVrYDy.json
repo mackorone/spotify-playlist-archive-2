@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Line of Air",
+        "url": "https://open.spotify.com/album/059ifcmVUkS8584OLOCk3p"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233321,
+      "name": "A Line of Air",
+      "url": "https://open.spotify.com/track/70ECLM3lWEh7CmOdLgsdsf"
+    },
+    {
+      "album": {
         "name": "Jazz Moods - 'Round Midnight",
         "url": "https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 211563,
       "name": "After Winter Comes Spring",
       "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
@@ -2143,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Midnight Adventures",
+        "url": "https://open.spotify.com/album/0736IbzT29jwxKZZHkMCft"
+      },
+      "artists": [
+        {
+          "name": "Paddington St. Group",
+          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "Midnight Adventures",
+      "url": "https://open.spotify.com/track/4VfKg1ZQTy3fyjf2lROIZ1"
+    },
+    {
+      "album": {
         "name": "Mirror Images",
         "url": "https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg"
       },
@@ -4030,6 +4066,24 @@
       "duration_ms": 263624,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN"
+    },
+    {
+      "album": {
+        "name": "When I Was with You",
+        "url": "https://open.spotify.com/album/6nse6Bt7QKPGEuziLme7uE"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214874,
+      "name": "When I Was With You",
+      "url": "https://open.spotify.com/track/4tA3hYu9h9amO7uSatS3Bu"
     },
     {
       "album": {

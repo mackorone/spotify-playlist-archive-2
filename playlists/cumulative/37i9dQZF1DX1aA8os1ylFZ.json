@@ -8156,7 +8156,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 109511,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/3KHIZHZ3wAfpPVYdQF7oAs"
@@ -12069,6 +12069,28 @@
     },
     {
       "album": {
+        "name": "PSALM FUNK",
+        "url": "https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "The Rock (feat. 3DDY)",
+      "url": "https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM"
+    },
+    {
+      "album": {
         "name": "The Way You Felt",
         "url": "https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2"
       },
@@ -12084,6 +12106,24 @@
       "duration_ms": 182810,
       "name": "The Way You Felt",
       "url": "https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr"
+    },
+    {
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235511,
+      "name": "The WhatsApp Shakespeare.",
+      "url": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
     },
     {
       "album": {
@@ -12284,24 +12324,6 @@
       "duration_ms": 191752,
       "name": "Too Many Strings",
       "url": "https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr"
-    },
-    {
-      "album": {
-        "name": "PSALM FUNK",
-        "url": "https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk"
-      },
-      "artists": [
-        {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM"
     },
     {
       "album": {

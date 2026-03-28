@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jenevieve, Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,120 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,117 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 34 | [I BROUGHT U FLOWERS](https://open.spotify.com/track/4eyyerE9QXgNuonGVHMVFA) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [FLOWERS](https://open.spotify.com/album/08Qh2ZB44AvDW9N7gyg8XA) | 4:17 |
 | 35 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 | 36 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
-| 37 | [Track 10](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 0:00 |
+| 37 | [The Rock \(feat\. 3DDY\)](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:49 |
 | 38 | [You Can Fly On My Aeroplane \- English version](https://open.spotify.com/track/2lgQPPblT3pRoz8CSpSWX3) | [YUMA HARA](https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [You Can Fly On My Aeroplane](https://open.spotify.com/album/4AgR7xGS70KKKrjUTQOahV) | 5:36 |
 | 39 | [99%](https://open.spotify.com/track/0o3sj3ey0ToG7RFan4Iboa) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [99%](https://open.spotify.com/album/14qQptEky4jLSxxJ0jIuNn) | 2:58 |
 | 40 | [Side Effects](https://open.spotify.com/track/71sJonMpsxAnCGNJdCEjXU) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Side Effects](https://open.spotify.com/album/6aDqBN54TRlVhN4hdoPyF7) | 2:47 |

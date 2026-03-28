@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: error
 
-1,697 songs - 3 day 8 hr 7 min
+1,697 songs - 3 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Das Ende](https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Das Ende](https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5) | 3:44 | 2023-06-22 | 2023-07-28 |
 | [Das Ende der Welt](https://open.spotify.com/track/2AGBN8LFzvKs3LTFR7wiE9) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [Das Ende der Welt](https://open.spotify.com/album/2ARx5wdMe4ZFqzzajXwt0o) | 3:04 | 2023-08-24 | 2023-10-06 |
 | [Das Glück gehört Versagern](https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Das Glück gehört Versagern](https://open.spotify.com/album/5NiqrjXmfY2OwAhdNJ9fV5) | 3:28 | 2025-07-31 | 2025-09-13 |
+| [das größte was es gibt](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 3:02 | 2026-03-26 |  |
 | [Das hätte ich nie gedacht](https://open.spotify.com/track/3UYaW1kYpOtxecpMVkBVFv) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Das hätte ich nie gedacht](https://open.spotify.com/album/1KMN8O9FzZAvRDxyalmh3Z) | 2:28 | 2025-03-13 | 2025-04-11 |
 | [das Leben](https://open.spotify.com/track/5OahTR5HHCKcHuDETHQJSa) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [das Leben](https://open.spotify.com/album/4l9z5h14lvne5epV0P1Ybc) | 2:57 | 2024-11-21 | 2024-12-06 |
 | [Das Leben](https://open.spotify.com/track/4uCExAnSFZqLYiKTdcr83M) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Das Leben](https://open.spotify.com/album/16ltJ4OtzrxT7BX2yoA7Uz) | 2:19 | 2026-03-05 | 2026-03-27 |
@@ -1438,7 +1439,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 3](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 0:00 | 2026-03-26 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

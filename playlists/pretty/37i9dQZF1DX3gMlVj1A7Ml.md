@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ediție aniversară: sărbătorim 5 ani de EQUAL \. Cover: INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,807 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Oare auzi și tu?](https://open.spotify.com/track/3PLHCAzuNxdlqfet8HGax1) | [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Oare auzi și tu?](https://open.spotify.com/album/7ppg9R34iIfwOhALZhcGU5) | 2:53 |
 | 50 | [Acum](https://open.spotify.com/track/5sAI2CXnfuqXi4LS4A0YR8) | [Andreea Balan](https://open.spotify.com/artist/0EzdKL71gSNlSxnAmEQeGV) | [Acum](https://open.spotify.com/album/5k5fc2v9006E6NybuKTQM9) | 2:45 |
 
-Snapshot ID: `AAAAAFwZMa3YcyYr8kjWTnSPXFDQOdn2`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

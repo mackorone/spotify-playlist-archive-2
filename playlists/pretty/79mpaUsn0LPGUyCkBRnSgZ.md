@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 694 songs - 1 day 21 hr 19 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 697 songs - 1 day 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -701,6 +701,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 691 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 |
 | 692 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 |
 | 693 | [Traffick](https://open.spotify.com/track/3IrKrhqbRwrVwfWgVd2Nya) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [RASLA](https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd) | [Drive\-in Cinema 2.1](https://open.spotify.com/album/6cojhL5vnV2GCg3RaZz5bM) | 0:47 |
-| 694 | [Summer Babe \- Winter Version](https://open.spotify.com/track/1vnKvlb6cj5NLpd1BMJ2jD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Slanted & Enchanted](https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD) | 3:16 |
+| 694 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
+| 695 | [Summer Babe \- Winter Version](https://open.spotify.com/track/1vnKvlb6cj5NLpd1BMJ2jD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Slanted & Enchanted](https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD) | 3:16 |
+| 696 | [Play Money](https://open.spotify.com/track/0LjZNHcd7ztFKJzm5t0x0T) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Whiteout Conditions](https://open.spotify.com/album/7gSLfnSUAxJRMXhWsz9MYS) | 4:37 |
+| 697 | [Really Real](https://open.spotify.com/track/6xRB2fycu6goQZWumt5zVv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 |
 
-Snapshot ID: `AAAI1eCtfkG37kodfXZrjFLnvhuKZjWC`
+Snapshot ID: `AAAI2Vo9ckT1p6eLL0axD7wU0Isko2R7`

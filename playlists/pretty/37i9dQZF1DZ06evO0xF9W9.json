@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAABgtRSs9FUZlsg0JPI2Zpbl",
+  "snapshot_id": "acR3AAAAAADI1Jtat0SjgzFvbfI1O2g3",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        }
+      ],
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/2HbIpXTFRKHgZZknnQa12o"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 188969,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/1xM9xOhQlicmrc0tRvcNCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARTiANDO",
-        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "CHARTiANDO",
-      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
     },
     {
       "added_at": null,

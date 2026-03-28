@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,762 likes - 77 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,782 likes - 77 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

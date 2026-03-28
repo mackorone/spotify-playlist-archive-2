@@ -2,9 +2,9 @@
 
 ### [Pasito Sierreño](https://open.spotify.com/playlist/37i9dQZF1DX3itwlKYlqmb)
 
-> De está sierra a la otra sierra se divisa <br/>San José\. En portada: Danny Félix
+> De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alegres de la Sierra
 
-544 songs - 1 day 5 hr 49 min
+547 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [La Solución](https://open.spotify.com/track/0j8OGRGBjBMb286wJxt1o8) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro](https://open.spotify.com/album/2eSWBE52YZrtDpWDq4pd4b) | 2:30 | 2024-11-27 | 2025-06-12 |
 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 | 2024-01-10 | 2025-06-12 |
 | [La Trenzuda](https://open.spotify.com/track/5g3RWpqF5ybIpD5bqUV7bw) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10th Aniversario](https://open.spotify.com/album/0b8vJPWc9niOiz67AZ7o9w) | 3:55 | 2025-10-24 |  |
+| [La trenzuda](https://open.spotify.com/track/5GVwxBUPRkQjB4LvFeBgnw) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Cantando en casa](https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD) | 4:15 | 2026-03-27 |  |
 | [La Vida Mafiosa](https://open.spotify.com/track/4YYFiNN2NAwv2Tp6MMVNyf) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Los Canelos 17 Exitos](https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY) | 2:06 | 2025-06-11 | 2025-10-25 |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2024-01-08 | 2025-06-12 |
 | [La Yaquesita](https://open.spotify.com/track/4dlLGcRb73ECcc3aghHXEw) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Juegos Del Amor](https://open.spotify.com/album/0A8ueTmSdCwMs98HzgUK4u) | 3:10 | 2025-10-24 |  |
@@ -522,6 +523,7 @@
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-12-04 | 2025-06-12 |
 | [UNA BALA](https://open.spotify.com/track/4hFLzJh9DxyppZ12USxK6w) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [UNA BALA](https://open.spotify.com/album/4UCbyEBEsObCtqHcbJRphC) | 3:03 | 2024-01-08 | 2024-03-02 |
 | [UNA CERVEZA](https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 4:39 | 2024-01-10 | 2025-06-12 |
+| [Una flor quise cortar](https://open.spotify.com/track/0GQtlRggAcNzT8NLmqvODG) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Cantando en casa](https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD) | 2:23 | 2026-03-27 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 | 2023-01-16 | 2024-04-19 |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2023-01-16 | 2024-05-14 |
 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 | 2024-06-07 | 2024-11-26 |
@@ -542,6 +544,7 @@
 | [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 5:03 | 2023-01-16 | 2023-12-05 |
 | [Y Yo Que Te Amo](https://open.spotify.com/track/6G0led27r3W906zH8adkfg) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Clarito Oí Que Dijeron Salud \- Capitulo 3](https://open.spotify.com/album/16Y1JAzaDkJsKYTTHiuQ3m) | 2:57 | 2025-10-24 |  |
 | [Ya Estan Cantando los Gallos](https://open.spotify.com/track/0phceqGwuJIBCbqveTdBsK) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ya Estan Cantando los Gallos](https://open.spotify.com/album/5FshjLV0Y5sQQBuIHeok8Z) | 3:59 | 2025-10-24 |  |
+| [Ya están cantando los gallos](https://open.spotify.com/track/5fkOdxlV88uja5Hu3gS4NT) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Cantando en casa](https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD) | 4:31 | 2026-03-27 |  |
 | [Ya Me Canse](https://open.spotify.com/track/5NCkABOZXRaR6d7aDJwoVs) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [Ya Me Canse](https://open.spotify.com/album/3EfpRb21gVpOw6ToHEukSP) | 3:12 | 2025-10-24 |  |
 | [Ya no vuelvo a molestarte](https://open.spotify.com/track/37H8uCjPYSO3P13RIqw8YK) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 2:10 | 2025-10-24 |  |
 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2024-02-07 | 2025-06-12 |

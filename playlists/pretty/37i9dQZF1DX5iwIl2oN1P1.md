@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Nia Allen & MAJOR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,859 likes - 90 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,012 likes - 90 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

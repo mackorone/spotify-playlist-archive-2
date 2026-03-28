@@ -33289,7 +33289,7 @@
     },
     {
       "album": {
-        "name": "FIRST MOVE (Special Edition)",
+        "name": "FIRST MOVE",
         "url": "https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ"
       },
       "artists": [
@@ -36720,6 +36720,24 @@
       "duration_ms": 143773,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
     },
     {
       "album": {

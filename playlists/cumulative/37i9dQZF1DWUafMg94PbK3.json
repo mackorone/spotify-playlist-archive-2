@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "Go Go Go",
+        "url": "https://open.spotify.com/album/60haVFPrULT1eaGLzI2WRo"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121593,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/1bGMbn805C7ShUTdHbT8qj"
+    },
+    {
+      "album": {
         "name": "Smile in My Heart",
         "url": "https://open.spotify.com/album/4dYhbLticgz5Q4AWigzVSH"
       },

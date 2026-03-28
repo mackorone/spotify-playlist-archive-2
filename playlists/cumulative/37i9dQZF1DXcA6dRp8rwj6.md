@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-3,343 songs - 7 day 0 hr 29 min
+3,344 songs - 7 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3141,6 +3141,7 @@
 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI) | 4:15 | 2022-03-28 | 2022-05-06 |
 | [WE GON' BE ALRIGHT](https://open.spotify.com/track/0nBeVZqcRrWlldgC3uBlKc) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [EBENEZER](https://open.spotify.com/album/0NstPIuOHEPDZ0i8SMIwwr) | 3:03 | 2024-01-05 | 2024-02-16 |
 | [We Good \(From The TV Show "DAVE"\)](https://open.spotify.com/track/2rKPqxCmMQ68wYV1ArFvNy) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [GaTa](https://open.spotify.com/artist/5eJwzR2zzh5zkXcUjZAvDL) | [We Good \(From The TV Show "DAVE"\)](https://open.spotify.com/album/7r12oLHbuBAhYcEFAklRYE) | 2:47 | 2022-01-20 | 2022-01-28 |
+| [WE LIKE TO PARTY](https://open.spotify.com/track/0jF8eTODTY8W9BuGndetBy) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [WE LIKE TO PARTY](https://open.spotify.com/album/5OqY4CChAZ0dvpQve6Tlz6) | 2:44 | 2026-03-27 |  |
 | [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 | 2025-05-23 | 2025-07-11 |
 | [We Ride](https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [We Ride](https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k) | 3:07 | 2023-09-14 | 2023-11-18 |
 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 | 2023-11-09 | 2024-01-12 |

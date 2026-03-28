@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: horsegiirL",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Icona Pop, Daya",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2026 EDM",
   "tracks": [
     {
@@ -1412,6 +1412,24 @@
       "duration_ms": 160887,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
+    },
+    {
+      "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/1L3FzYYJGXTLYs7fXAxZzz"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/35ZJui4Jug7X3x7semGBbv"
     },
     {
       "album": {
@@ -7872,7 +7890,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 173093,
       "name": "It's Strange (feat. K.Flay) - jigitz Remix",
       "url": "https://open.spotify.com/track/1AONUJWKH8RufJKrN1p6Mr"
@@ -8814,6 +8832,24 @@
       "duration_ms": 125485,
       "name": "Lick (Fantasy)",
       "url": "https://open.spotify.com/track/3CWKVyRxg8iW9S1NmOp9bz"
+    },
+    {
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255639,
+      "name": "Life Boat.",
+      "url": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
     },
     {
       "album": {
@@ -11362,7 +11398,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180571,
       "name": "Okay",
       "url": "https://open.spotify.com/track/4Z6Zno1mFzfojOUkrgj6Le"
@@ -13168,6 +13204,28 @@
       "duration_ms": 171359,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6Go8Wuws8feT0R2VlaI3am"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM"
     },
     {
       "album": {
@@ -16042,7 +16100,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 160719,
       "name": "Ticket",
       "url": "https://open.spotify.com/track/1c6EaTufDorSoUk1xx7fXq"

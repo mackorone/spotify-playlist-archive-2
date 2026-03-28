@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/5hwVy24k5cFH3DcBNEBrLa"
+      },
+      "artists": [
+        {
+          "name": "Baccij",
+          "url": "https://open.spotify.com/artist/4df74iFn5aSG2wp7moVRl2"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/03ghQCKrHKXaP4DqcyhzIL"
+    },
+    {
+      "album": {
         "name": "4 The Trouble",
         "url": "https://open.spotify.com/album/3RnlEPL13M1cxDGzS26U2h"
       },
@@ -2440,6 +2458,32 @@
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
+      "album": {
+        "name": "Dancing in Shadows",
+        "url": "https://open.spotify.com/album/2E65IVzBVVSgAjemEhry2g"
+      },
+      "artists": [
+        {
+          "name": "7even Icon",
+          "url": "https://open.spotify.com/artist/3sHKLE2IhKyr1fkVBKNTcf"
+        },
+        {
+          "name": "Stefano de Paris",
+          "url": "https://open.spotify.com/artist/3Myqo5IA2EU1HEHQ1QDcGA"
+        },
+        {
+          "name": "Yako",
+          "url": "https://open.spotify.com/artist/3UIjgNCh5HL0bGRQ3LCV1C"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Dancing in Shadows",
+      "url": "https://open.spotify.com/track/12BVuZJv6SdiMlhaXgxAi3"
     },
     {
       "album": {
@@ -9758,6 +9802,24 @@
       "duration_ms": 359040,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/3j8exXspffrB9l4HFc80NY"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/62d9NhF3NcYB0qG8mS09BG"
+      },
+      "artists": [
+        {
+          "name": "LOW",
+          "url": "https://open.spotify.com/artist/2IAgVQVtEGiSXbKqwmiuc7"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258754,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5aWZmI5ZLxsYY7IMFjFmsT"
     },
     {
       "album": {

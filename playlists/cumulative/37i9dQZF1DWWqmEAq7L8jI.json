@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Trucha",
+  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Santi Celli & Ale Sergi",
   "name": "Radio Pop",
   "tracks": [
     {
@@ -749,6 +749,28 @@
     },
     {
       "album": {
+        "name": "ANTISOCIAL",
+        "url": "https://open.spotify.com/album/0m7cfNdbIi58vtLzea3vOb"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189209,
+      "name": "ANTISOCIAL",
+      "url": "https://open.spotify.com/track/22L3EoiJbGF1nTdBIHlo7B"
+    },
+    {
+      "album": {
         "name": "Small Town Boy (Track By Track)",
         "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
       },
@@ -778,7 +800,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 169014,
       "name": "Armas",
       "url": "https://open.spotify.com/track/0oVDfGZi67xpD3KDjA1iyl"
@@ -1373,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Cicatriz",
+        "url": "https://open.spotify.com/album/4Yvs6tky6OIovOUdqr8E9V"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223392,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/2xTB3i4UYd1mMmdLx4iVIg"
+    },
+    {
+      "album": {
         "name": "Clavaito",
         "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
       },
@@ -1627,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Cristal",
+        "url": "https://open.spotify.com/album/7bQrkog4mO8YtR6OCaVMEl"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245290,
+      "name": "Coraz\u00f3n Cristal",
+      "url": "https://open.spotify.com/track/5hpLssaozknr0BnWzEsrrd"
+    },
+    {
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -1682,7 +1744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 188757,
       "name": "CUANDO ES CON VOS",
       "url": "https://open.spotify.com/track/5PvzYLe95r3PG8MecvWZEq"
@@ -2216,7 +2278,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
@@ -2322,7 +2384,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 163000,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
@@ -2934,7 +2996,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 273084,
       "name": "Esto Es Amor",
       "url": "https://open.spotify.com/track/4wbYGHHcruNoxgOYVzfqea"
@@ -3968,7 +4030,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178711,
       "name": "las flores mueren en abril",
       "url": "https://open.spotify.com/track/3U0Mmz2ca70FZkSK0t07Us"
@@ -4128,7 +4190,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
@@ -4774,7 +4836,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 172333,
       "name": "me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0PeDuHyJb36Ni0hDTK0NNE"
@@ -4886,7 +4948,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 167236,
       "name": "Mi Chica",
       "url": "https://open.spotify.com/track/3kloO0cxNbUHSvC0oTY9Uc"
@@ -5024,7 +5086,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 170904,
       "name": "monumento..",
       "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
@@ -5791,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "paliza",
+        "url": "https://open.spotify.com/album/0Mv57n4WW63pmS4iprbinu"
+      },
+      "artists": [
+        {
+          "name": "Polska",
+          "url": "https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135654,
+      "name": "paliza",
+      "url": "https://open.spotify.com/track/6vjPSaM2TcNFltpA3eJs6d"
+    },
+    {
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -5802,7 +5882,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 212106,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX"
@@ -6268,7 +6348,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 209500,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
@@ -8266,7 +8346,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
@@ -8438,7 +8518,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 212466,
       "name": "vivir al mar",
       "url": "https://open.spotify.com/track/39CaUKbSRMrePjnvTSstIv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,674 likes - 70 songs - 4 hr 7 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,677 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 68 | [Fuck That](https://open.spotify.com/track/4ztmlSZinz3IbpJU5YX7JG) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:52 |
 | 69 | [Brooklyn](https://open.spotify.com/track/04L8upqYWKegTZOYdgyPeP) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Homieland vol.1](https://open.spotify.com/album/3U86hGdTE6sfypz1YHFMnD) | 5:19 |
 | 70 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 |
+| 71 | [Get Close](https://open.spotify.com/track/7IHeHb9qVqK3xbCggBmfIF) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg) | [Get Close](https://open.spotify.com/album/10lxKG4HAHMOWglWwYTYEr) | 3:14 |
 
-Snapshot ID: `AAAKiCpbDqcpui3BfM48R89sa/pXc5c4`
+Snapshot ID: `AAAKid04G7hXf+o8e78VQUBBp+q1re/O`

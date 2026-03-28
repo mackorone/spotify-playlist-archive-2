@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: King & Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,154 likes - 69 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,210 likes - 69 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

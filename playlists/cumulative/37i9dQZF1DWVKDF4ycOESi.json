@@ -44615,6 +44615,24 @@
     },
     {
       "album": {
+        "name": "Si riparano ricordi",
+        "url": "https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1"
+      },
+      "artists": [
+        {
+          "name": "Piotta",
+          "url": "https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171567,
+      "name": "E cos\u00ec te ne vai",
+      "url": "https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz"
+    },
+    {
+      "album": {
         "name": "E FORT CHE FORT",
         "url": "https://open.spotify.com/album/1pCb4h7jlkB9ehLUhsGcOg"
       },
@@ -83278,6 +83296,28 @@
       "duration_ms": 260927,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9"
+    },
+    {
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159857,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7f6kRhjrpsZzfcpI0o7xVr"
     },
     {
       "album": {
@@ -151261,24 +151301,6 @@
     },
     {
       "album": {
-        "name": "Si riparano ricordi",
-        "url": "https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1"
-      },
-      "artists": [
-        {
-          "name": "Piotta",
-          "url": "https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz"
-    },
-    {
-      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/null"
       },
@@ -151294,6 +151316,24 @@
       "duration_ms": 0,
       "name": "Track 5",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
+    },
+    {
+      "album": {
+        "name": "Tractor Beam",
+        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214381,
+      "name": "Tractor Beam",
+      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
     },
     {
       "album": {
@@ -161958,6 +161998,32 @@
       "duration_ms": 149394,
       "name": "We Don\u2019t Get Along (with Marshmello)",
       "url": "https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD"
+    },
+    {
+      "album": {
+        "name": "Cena di classe - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6C68nyJ8FUPBJX2sFlzH0p"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Zanotti",
+          "url": "https://open.spotify.com/artist/677ZJ3AlI4C4rHMsdjnSBK"
+        },
+        {
+          "name": "Marco Paganelli",
+          "url": "https://open.spotify.com/artist/6Z75vNRkk8CtcudcSJEe5Z"
+        },
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186382,
+      "name": "We Failed",
+      "url": "https://open.spotify.com/track/2yNuYywDOIpLosgJyzxZ6F"
     },
     {
       "album": {

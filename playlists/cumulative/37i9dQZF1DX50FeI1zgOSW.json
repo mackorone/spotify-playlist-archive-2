@@ -6165,6 +6165,28 @@
     },
     {
       "album": {
+        "name": "Karuppu Neraththi",
+        "url": "https://open.spotify.com/album/4Y5KsTVjCQhiF4pF58CdV1"
+      },
+      "artists": [
+        {
+          "name": "Gajaaaa01",
+          "url": "https://open.spotify.com/artist/20P0GIfGIXtAuicMsTXkVw"
+        },
+        {
+          "name": "naveen rithick",
+          "url": "https://open.spotify.com/artist/1PWNW8lEYKMs86fyC8BZPl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177229,
+      "name": "Karuppu Neraththi",
+      "url": "https://open.spotify.com/track/6xISuwRI0Ibm0ycWe2de1i"
+    },
+    {
+      "album": {
         "name": "Karuppu Thamizhan",
         "url": "https://open.spotify.com/album/3UBx6ayDK4ui8eTwIS4xna"
       },
@@ -12146,6 +12168,32 @@
       "duration_ms": 234939,
       "name": "Scene Podaathadi",
       "url": "https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV"
+    },
+    {
+      "album": {
+        "name": "Senthaamarai",
+        "url": "https://open.spotify.com/album/5eMwZ5D4PFWyy48q1pDnqM"
+      },
+      "artists": [
+        {
+          "name": "Keerthan",
+          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
+        },
+        {
+          "name": "Nikhil mathew",
+          "url": "https://open.spotify.com/artist/75IXbZzUYShK1S4MKcnXbb"
+        },
+        {
+          "name": "Varsha Renjith",
+          "url": "https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Senthaamarai",
+      "url": "https://open.spotify.com/track/7zsvcAEcBiGaFafBeMXC0e"
     },
     {
       "album": {

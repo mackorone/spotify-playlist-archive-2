@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12234,
+  "num_followers": 12238,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-03-24 04:56:14",
       "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        },
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
+    },
+    {
+      "added_at": "2026-03-24 04:56:14",
+      "album": {
         "name": "XO, My Cyberlove",
         "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 173732,
       "name": "Still In Time",
       "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
-    },
-    {
-      "added_at": "2026-03-24 04:56:14",
-      "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        },
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "HONEY",
-      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
       "added_at": "2026-03-24 04:56:14",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-03-24 04:56:14",
       "album": {
+        "name": "You're Mine, You're My Man",
+        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
+      },
+      "artists": [
+        {
+          "name": "LEE JI MIN",
+          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "You're Mine, You're My Man",
+      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
+    },
+    {
+      "added_at": "2026-03-24 04:56:14",
+      "album": {
         "name": "Press Winter",
         "url": "https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 212000,
       "name": "In your circle (Feat. Bumkey, Janet Suhh)",
       "url": "https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB"
-    },
-    {
-      "added_at": "2026-03-24 04:56:14",
-      "album": {
-        "name": "You're Mine, You're My Man",
-        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
-      },
-      "artists": [
-        {
-          "name": "LEE JI MIN",
-          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "You're Mine, You're My Man",
-      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
     },
     {
       "added_at": "2026-03-24 04:56:14",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-03-24 04:56:14",
       "album": {
-        "name": "Message (with Gist)",
-        "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
-      },
-      "artists": [
-        {
-          "name": "Suen",
-          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Message (with Gist)",
-      "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
-    },
-    {
-      "added_at": "2026-03-24 04:56:14",
-      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
+    },
+    {
+      "added_at": "2026-03-24 04:56:14",
+      "album": {
+        "name": "Message (with Gist)",
+        "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
+      },
+      "artists": [
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Message (with Gist)",
+      "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
     },
     {
       "added_at": "2026-03-24 04:56:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-24 04:56:14",
       "album": {
-        "name": "Seesaw",
-        "url": "https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp"
-      },
-      "artists": [
-        {
-          "name": "Ingyeong Choi",
-          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Seesaw",
-      "url": "https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE"
-    },
-    {
-      "added_at": "2026-03-24 04:56:14",
-      "album": {
         "name": "It just happened",
         "url": "https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 156306,
       "name": "\uadf8\ub807\uac8c \ub410\uc5b4 It just happened",
       "url": "https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm"
+    },
+    {
+      "added_at": "2026-03-24 04:56:14",
+      "album": {
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp"
+      },
+      "artists": [
+        {
+          "name": "Ingyeong Choi",
+          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE"
     }
   ],
   "unique_name": "\uc378 !",

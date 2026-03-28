@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Russo & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,709 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,749 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 2 | [Ik Ben Niet Meer Bang](https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Ben Niet Meer Bang](https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi) | 3:01 |
 | 3 | [Komt Goed](https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Komt Goed](https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs) | 2:28 |
 | 4 | [Voor de straten](https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Voor de straten](https://open.spotify.com/album/4LpLWzuQmZD581Z1NPyQtD) | 2:33 |
-| 5 | [Track 1](https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hardop](https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5) | 0:00 |
+| 5 | [Los Los Vast](https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hardop](https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5) | 2:29 |
 | 6 | [Ik Heb Gedanst](https://open.spotify.com/track/2iVaoOaqNKuSuc0nuhNOeY) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ik Heb Gedanst](https://open.spotify.com/album/1L0ki6ITtIOuIfMRZ72GmM) | 2:38 |
 | 7 | [In Je Hoek](https://open.spotify.com/track/75snVU5TWO4KbkIBbNITxq) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [In Je Hoek](https://open.spotify.com/album/4R4UjiDPSy31mPFDMukybB) | 3:29 |
 | 8 | [Vrijdag](https://open.spotify.com/track/1prlNZt7NUi58uqzIAsgrR) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Vrijdag](https://open.spotify.com/album/4ErVLyZ9dccD3rjeNz6skm) | 2:29 |

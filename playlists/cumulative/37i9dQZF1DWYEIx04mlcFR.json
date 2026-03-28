@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Valsian en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Mi$ha en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 173666,
       "name": "0%",
       "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
+    },
+    {
+      "album": {
+        "name": "05 quientedioflores",
+        "url": "https://open.spotify.com/album/6cTAxoDx16xMXyxz7m67jy"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "05 quientedioflores",
+      "url": "https://open.spotify.com/track/6hJhcYe60OY6kZfMpwXaFw"
     },
     {
       "album": {
@@ -2368,7 +2390,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 140240,
       "name": "Canciones de amor",
       "url": "https://open.spotify.com/track/2txptIWlISmcNTY06AG8L1"
@@ -6759,6 +6781,32 @@
     },
     {
       "album": {
+        "name": "la excepci\u00f3n",
+        "url": "https://open.spotify.com/album/1ePl74fBTBQ0yzoWCU1wNQ"
+      },
+      "artists": [
+        {
+          "name": "Masta Roi",
+          "url": "https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS"
+        },
+        {
+          "name": "Gio Kutia",
+          "url": "https://open.spotify.com/artist/28vZIQfyaApCPe9qCxW15z"
+        },
+        {
+          "name": "Amor Tempura",
+          "url": "https://open.spotify.com/artist/2hfRJk93mhi0GJ2ow56h0t"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "la excepci\u00f3n",
+      "url": "https://open.spotify.com/track/1tzpt29Q92h8gJBOgMoYXu"
+    },
+    {
+      "album": {
         "name": "La Humedad",
         "url": "https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv"
       },
@@ -7926,6 +7974,24 @@
       "duration_ms": 150615,
       "name": "Mamixhula",
       "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
+    },
+    {
+      "album": {
+        "name": "mani\u00e1tico",
+        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "mani\u00e1tico",
+      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
     },
     {
       "album": {
@@ -9781,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155322,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/42AStJYmglTAHAgER92gxv"
+    },
+    {
+      "album": {
         "name": "Noche en LA",
         "url": "https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw"
       },
@@ -10488,6 +10572,28 @@
       "duration_ms": 190062,
       "name": "Pa PRIVE",
       "url": "https://open.spotify.com/track/59EISn3QlxiItQFAlk4WVy"
+    },
+    {
+      "album": {
+        "name": "pa que (feat. Ed Maverick)",
+        "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196946,
+      "name": "pa que (feat. Ed Maverick)",
+      "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
     },
     {
       "album": {
@@ -11765,6 +11871,28 @@
     },
     {
       "album": {
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
+    },
+    {
+      "album": {
         "name": "qu\u00e9 voy a hacer conmigo???",
         "url": "https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg"
       },
@@ -11910,7 +12038,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 150240,
       "name": "record\u00e9 y me enoj\u00e9",
       "url": "https://open.spotify.com/track/0D3RX1V8dsj3YdWfqdyApr"
@@ -13318,7 +13446,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 179093,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/1WVg551B4ahuQzeV5vPnjY"
@@ -13958,7 +14086,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 172626,
       "name": "THINK ABOUT IT.",
       "url": "https://open.spotify.com/track/5dLumuQFPQYFX6Jq1m12ic"
@@ -14048,7 +14176,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 110691,
       "name": "TKM+",
       "url": "https://open.spotify.com/track/6yRBnBMJxCoXtvJ0UVVaKn"
@@ -14418,6 +14546,24 @@
       "duration_ms": 122693,
       "name": "Tra",
       "url": "https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6"
+    },
+    {
+      "album": {
+        "name": "TRAIC\u00a1\u00d3N",
+        "url": "https://open.spotify.com/album/0rUKxY6MywzJCAae9AArdi"
+      },
+      "artists": [
+        {
+          "name": "MI$HA",
+          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "TRAIC\u00a1\u00d3N",
+      "url": "https://open.spotify.com/track/69stWMjnuV1xvtRK6VsgdW"
     },
     {
       "album": {
@@ -14812,7 +14958,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 206250,
       "name": "Un buen d\u00eda",
       "url": "https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U"
@@ -14888,7 +15034,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 162424,
       "name": "un g que no siente",
       "url": "https://open.spotify.com/track/1GukOqG5DazqjAZhhEBCNO"

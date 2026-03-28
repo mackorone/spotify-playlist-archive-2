@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Baby Keem",
-  "num_followers": 44070,
+  "num_followers": 44072,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Leftie (Dlala Ngcobo)",
-        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Leftie (Dlala Ngcobo)",
-      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Leftie (Dlala Ngcobo)",
+        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Leftie (Dlala Ngcobo)",
+      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "KOMOLE",
-        "url": "https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        }
-      ],
-      "duration_ms": 122068,
-      "name": "KOMOLE",
-      "url": "https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Egberi",
         "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
       },
@@ -1131,22 +1115,38 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Soundtrack To The Good Life",
-        "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
+        "name": "KOMOLE",
+        "url": "https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS"
       },
       "artists": [
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
         }
       ],
-      "duration_ms": 235081,
-      "name": "Soft Life",
-      "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
+      "duration_ms": 122068,
+      "name": "KOMOLE",
+      "url": "https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
+      },
+      "artists": [
+        {
+          "name": "Kid MARLEY",
+          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     }
   ],
   "unique_name": "Hype List",

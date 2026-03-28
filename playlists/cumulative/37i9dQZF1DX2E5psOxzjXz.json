@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Natasha Baig",
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Natasha Humera Ejaz",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 242696,
       "name": "Dilwale",
       "url": "https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 147840,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
@@ -3298,6 +3298,32 @@
       "duration_ms": 172166,
       "name": "Hum Tum",
       "url": "https://open.spotify.com/track/4ETUS1BAxTSO0Gn249PsY6"
+    },
+    {
+      "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/3hAgrL1OaqRvff2SQ9ha3z"
+      },
+      "artists": [
+        {
+          "name": "Natasha Humera Ejaz",
+          "url": "https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp"
+        },
+        {
+          "name": "Uzair Jaswal",
+          "url": "https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM"
+        },
+        {
+          "name": "Sarmad Ghafoor",
+          "url": "https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/1tfwybHcR3GYHBWXUnn0nB"
     },
     {
       "album": {

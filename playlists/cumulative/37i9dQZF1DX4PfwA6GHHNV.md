@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-256 songs - 12 hr 40 min
+257 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Coragem](https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2), [Jaxonethebeat](https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X) | [Coragem](https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv) | 3:02 | 2024-11-08 | 2025-11-14 |
 | [Corpo Nu](https://open.spotify.com/track/7MJPdQG7vz2LanUrsVuyJN) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Corpo Nu](https://open.spotify.com/album/34yxeyLDLdBXvd3iCl35Ec) | 3:11 | 2023-09-15 | 2023-11-25 |
 | [Corrente](https://open.spotify.com/track/58slFsFwosSTeALLiPxIkI) | [Lz da França](https://open.spotify.com/artist/5wwIfBhmmcRChkLfFKxcu3), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Corrente](https://open.spotify.com/album/5D15hBPxJW8nm119i0T5cz) | 2:56 | 2024-08-30 | 2025-02-22 |
+| [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 | 2026-03-27 |  |
 | [Cria das ruas](https://open.spotify.com/track/02LSyOIhNOV9NZkuvBlxg9) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC JSP](https://open.spotify.com/artist/0lRhmQvg5nTo85aoHeDWNE), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Cria das ruas](https://open.spotify.com/album/3jDh9zY7sPxAY630A5pADv) | 3:07 | 2025-07-04 | 2025-08-23 |
 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 | 2026-01-09 |  |
 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 | 2023-12-01 | 2023-12-23 |
@@ -237,7 +238,7 @@
 | [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 | 2025-11-14 |  |
 | [TEMPORAL](https://open.spotify.com/track/7cLDMY44tHwRoFiB7as135) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:08 | 2025-04-01 | 2025-06-14 |
 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 | 2023-09-15 | 2023-10-28 |
-| [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 | 2025-06-13 |  |
+| [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 | 2025-06-13 | 2026-03-28 |
 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 | 2024-03-08 | 2026-02-22 |
 | [Toda Experiente](https://open.spotify.com/track/3R3kxryQs7QABbhT89oiPd) | [Silfer](https://open.spotify.com/artist/5w5BtUWqLSlrXePRVsfXup), [Liip Beats](https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Toda Experiente](https://open.spotify.com/album/2velP5TsSQrKIv1f5Ps54u) | 2:42 | 2025-06-13 | 2025-08-23 |
 | [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-07-14 |  |

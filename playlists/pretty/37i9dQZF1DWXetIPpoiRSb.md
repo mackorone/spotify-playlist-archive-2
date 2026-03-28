@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Glitter, glitch and gloss 👢 cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,846 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,845 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 51 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
 | 52 | [back to you!](https://open.spotify.com/track/7fQpP6BJeg4xteS93AgfwQ) | [marli](https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW) | [back to you!](https://open.spotify.com/album/5p1hvw0U3Loq0TD4wiUXPv) | 3:13 |
 | 53 | [Leave This City](https://open.spotify.com/track/1WgazhZVgvqkbTobFvqrnq) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Oh My](https://open.spotify.com/album/0b96OmXwEdvmsuTcH2iPt8) | 2:03 |
-| 54 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Æ](https://open.spotify.com/artist/4Jp6hHKtWHf0Skka44mbJe) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
+| 54 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [y3kfae](https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
 | 55 | [bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
 | 56 | [.5 OF ME](https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh) | [Juliet Daniel](https://open.spotify.com/artist/4zdPlubDFPnv9nUjXWK6au) | [.5 OF ME](https://open.spotify.com/album/1KPk8XuaL0CXd2Houf9iIJ) | 2:16 |
 | 57 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 |

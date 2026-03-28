@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 104,424 likes - 228 songs - 9 hr 52 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 104,444 likes - 229 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,5 +236,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 226 | [Clouds](https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ) | [LMNY](https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Clouds](https://open.spotify.com/album/5viICibskFftesQNvvyIOh) | 2:16 |
 | 227 | [Unreachable](https://open.spotify.com/track/1ZJf99SCDgvPmc5y5bFlaJ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Unreachable](https://open.spotify.com/album/2U3XIbR7gUgRnQQZJ68d9o) | 2:50 |
 | 228 | [I Need To Know](https://open.spotify.com/track/7o3ExI8VjcaFY3Kq30runZ) | [Sax'Appeal](https://open.spotify.com/artist/4bAREk3cDlzskT2ILU8bBG), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Sydney Ferrier](https://open.spotify.com/artist/0rYPVM3R5i0ei5Et6caX92) | [I Need To Know](https://open.spotify.com/album/36WEmDHsRSJ1a7SF39Xo3L) | 2:31 |
+| 229 | [Places](https://open.spotify.com/track/5SAIxBQiorccuI6tnMyhMO) | [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Places](https://open.spotify.com/album/0L4RS8WvsfEpBdQ72IMmhE) | 2:13 |
 
-Snapshot ID: `AABQ9JdnI0tcPcAr5r1T8IS54cmYCp3L`
+Snapshot ID: `AABQ9TRJgYbI8I3oDVz9zZNTAtrGj5Bl`

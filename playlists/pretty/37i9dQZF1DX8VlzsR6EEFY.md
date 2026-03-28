@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Vivian Baeza y María León en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,241 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,257 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 4 | [LABERINTO](https://open.spotify.com/track/6VML7jhukVfsspoeOFaDye) | [MALA MAÑA](https://open.spotify.com/artist/6oEnb01go5SoSwwyo8wbRa), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [LABERINTO](https://open.spotify.com/album/0qKWsGCgLTVOmkHbvid764) | 2:46 |
 | 5 | [Ay Dieguito](https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ay Dieguito](https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD) | 2:50 |
 | 6 | [Le Reclamé A Cupido](https://open.spotify.com/track/0YnR66KiP0J4BqDYF3lm4m) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Le Reclamé A Cupido](https://open.spotify.com/album/6ZbGUlwaGbv7GmJ57i1isb) | 2:56 |
-| 7 | [IMU](https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [IMU](https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i) | 2:19 |
+| 7 | [IMU](https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [IMU](https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i) | 2:18 |
 | 8 | [Hoy Toca \- En Vivo](https://open.spotify.com/track/5xQtuCAnheLi8aHXwpHBuM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [La Fiesta En El Rancho, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/28aVNb9V0fA9sbnpgorAJg) | 2:52 |
 | 9 | [50/50 \(cabrón equivocado\)](https://open.spotify.com/track/1GOnk7Tab8c4XSmUyhpQib) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [50/50 \(cabrón equivocado\)](https://open.spotify.com/album/12dChbZsYly1ihfYpm2rwK) | 2:43 |
 | 10 | [Labios De Cereza 3](https://open.spotify.com/track/2Lz88eC06q1CcGSIZhPcdR) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios De Cereza 3](https://open.spotify.com/album/5qtP533GK5rZtlGBl6Gnr4) | 3:36 |

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59878,
+  "num_followers": 59879,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA0JkDEfL2D6H5Dcmbu35U7m+nD6isX",
+  "snapshot_id": "AAA0Lyd0n1LHcaVgy6z+ScmdnfQwq3Ki",
   "tracks": [
     {
       "added_at": "2026-03-23 02:36:46",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-03-23 02:36:46",
       "album": {
+        "name": "Cats",
+        "url": "https://open.spotify.com/album/1AVVm3YwOmfBlC1TFwlJNm"
+      },
+      "artists": [
+        {
+          "name": "Mono Mochi",
+          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Cats",
+      "url": "https://open.spotify.com/track/7cMgKfIhvBL3uiI2rq34ux"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
         "name": "Wants For Everyone",
         "url": "https://open.spotify.com/album/3ZsHx9LkrY5B3AUOunvMQo"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 185327,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/7I6l9SZtExAjNYGtfHREN0"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
-        "name": "Cats",
-        "url": "https://open.spotify.com/album/1AVVm3YwOmfBlC1TFwlJNm"
-      },
-      "artists": [
-        {
-          "name": "Mono Mochi",
-          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Cats",
-      "url": "https://open.spotify.com/track/7cMgKfIhvBL3uiI2rq34ux"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -351,26 +351,6 @@
       "duration_ms": 114000,
       "name": "ibelieveu",
       "url": "https://open.spotify.com/track/7BeCMDwPZHJ8AKUVRmX1sY"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/6tt5et89aOGotKVimxBPge"
-      },
-      "artists": [
-        {
-          "name": "orseno",
-          "url": "https://open.spotify.com/artist/5svYyK2SyLuFmhglLymIch"
-        },
-        {
-          "name": "Aspen Forest",
-          "url": "https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/5e56XxDnziywfWVrruh3zJ"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -1211,6 +1191,26 @@
       "duration_ms": 285200,
       "name": "Angry Candy",
       "url": "https://open.spotify.com/track/6F6XTWwnJ7cVn5hqVtXtlf"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/6tt5et89aOGotKVimxBPge"
+      },
+      "artists": [
+        {
+          "name": "orseno",
+          "url": "https://open.spotify.com/artist/5svYyK2SyLuFmhglLymIch"
+        },
+        {
+          "name": "Aspen Forest",
+          "url": "https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/5e56XxDnziywfWVrruh3zJ"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -7643,26 +7643,6 @@
     {
       "added_at": "2026-03-23 02:36:46",
       "album": {
-        "name": "So Dumb",
-        "url": "https://open.spotify.com/album/6wX9w6uHjFNvbDxYkfx0Eg"
-      },
-      "artists": [
-        {
-          "name": "Count The Clock",
-          "url": "https://open.spotify.com/artist/3zJVj6smZ1DmBQNNeR5flg"
-        },
-        {
-          "name": "Leannie",
-          "url": "https://open.spotify.com/artist/3beDFsVnxgNsR4VnSuo7np"
-        }
-      ],
-      "duration_ms": 242347,
-      "name": "So Dumb",
-      "url": "https://open.spotify.com/track/3YB7w4Yq8arVWv68WEebPZ"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
         "name": "Legs In A Snare",
         "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
       },
@@ -7823,6 +7803,26 @@
       "duration_ms": 180832,
       "name": "MARIGOLD",
       "url": "https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
+        "name": "So Dumb",
+        "url": "https://open.spotify.com/album/6wX9w6uHjFNvbDxYkfx0Eg"
+      },
+      "artists": [
+        {
+          "name": "Count The Clock",
+          "url": "https://open.spotify.com/artist/3zJVj6smZ1DmBQNNeR5flg"
+        },
+        {
+          "name": "Leannie",
+          "url": "https://open.spotify.com/artist/3beDFsVnxgNsR4VnSuo7np"
+        }
+      ],
+      "duration_ms": 242347,
+      "name": "So Dumb",
+      "url": "https://open.spotify.com/track/3YB7w4Yq8arVWv68WEebPZ"
     },
     {
       "added_at": "2026-03-23 02:36:46",

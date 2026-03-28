@@ -4,7 +4,7 @@
 
 > Francamente in cover + tutto il meglio delle novità indie 🌸
 
-1,572 songs - 3 day 9 hr 46 min
+1,573 songs - 3 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Appuntamento](https://open.spotify.com/track/2GRURD3TZ0ZydlEMYG5Eej) | [Marea](https://open.spotify.com/artist/0ANh6KZ1nDlfULwksqAgmQ) | [Appuntamento](https://open.spotify.com/album/1jil1UbK0l7xgHV1H3sGBk) | 3:27 | 2025-10-02 | 2025-10-31 |
 | [AQUARIUM](https://open.spotify.com/track/4BsR5IA9iuyiXYY8eac7oZ) | [Martini Police](https://open.spotify.com/artist/3n9KprBEE2yopQJkqLDnO4) | [GLASS BREAKER](https://open.spotify.com/album/1qwKebRKvaL36hY8pSECKX) | 3:35 | 2026-01-29 | 2026-03-06 |
 | [Aquiloni](https://open.spotify.com/track/69mAxff6yNXpFfkXOMZ5Ny) | [Stain](https://open.spotify.com/artist/0NJHyLdeQpxPdGIUt29IMv) | [Aquiloni](https://open.spotify.com/album/7A7di0d1bP0JBCS04s8vlP) | 3:19 | 2026-03-19 |  |
+| [Argo](https://open.spotify.com/track/2CDJsmBoxh9ggjG6Z859O0) | [Corner in Bloom](https://open.spotify.com/artist/3bUPrQdK4Wgcv1nUIXLduT) | [Tiny Apartment](https://open.spotify.com/album/2DbiFim7VRhjk0TDCHeWTs) | 4:00 | 2026-03-26 |  |
 | [aria](https://open.spotify.com/track/6unNWLZMkBgUAoTj24laWP) | [greatwaterpressure](https://open.spotify.com/artist/5VGPD348DI9SiKx9mPXkAj) | [aria](https://open.spotify.com/album/6NnEwPBPWrCxlpxp014lOU) | 3:32 | 2026-03-19 |  |
 | [ARIA](https://open.spotify.com/track/5XHoVe1kvnmTRxbtzpgSxH) | [Linda Selvaggio](https://open.spotify.com/artist/55guDaZ3ct528eNlTuE5G5) | [ARIA](https://open.spotify.com/album/30C52vRVGb6o7THMjxSx8A) | 3:56 | 2026-01-15 | 2026-02-06 |
 | [ARIA](https://open.spotify.com/track/36sh6CJSRTGlEQp9886DQD) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP1](https://open.spotify.com/album/3aKyYcBlJsEIJYNGw6wciL) | 2:28 | 2025-11-13 | 2025-12-05 |
@@ -613,7 +614,7 @@
 | [I RAGAZZI BALLANO ANCORA I CURE](https://open.spotify.com/track/7kwHYZSzPzG0m3mdnumvye) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [EX](https://open.spotify.com/album/1gYLYLWky4NM9Gfx3sNWQT) | 3:50 | 2026-01-29 | 2026-02-25 |
 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 | 2026-02-25 | 2026-03-27 |
 | [I Treni](https://open.spotify.com/track/0VRqo8Lq3I0nHWmzIl4frP) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [I Treni](https://open.spotify.com/album/5QCKN7a53PzgtmWpSszO4e) | 2:52 | 2026-02-05 | 2026-03-13 |
-| [i tuoi occhi, i miei occhi](https://open.spotify.com/track/2tCdK93GTAwoh1PUSaPsup) | [IACAMPO](https://open.spotify.com/artist/7hGSUomCHDxbX6v4Ie2Mzx) | [Preghiere contemporanee](https://open.spotify.com/album/3JOpra820hJgACqKpoXulo) | 4:21 | 2026-03-19 |  |
+| [I tuoi occhi, i miei occhi](https://open.spotify.com/track/2tCdK93GTAwoh1PUSaPsup) | [IACAMPO](https://open.spotify.com/artist/7hGSUomCHDxbX6v4Ie2Mzx) | [Preghiere contemporanee](https://open.spotify.com/album/3JOpra820hJgACqKpoXulo) | 4:21 | 2026-03-19 |  |
 | [II](https://open.spotify.com/track/1oPAMJVzCcvQUMpaEFcNgb) | [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS), [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [II](https://open.spotify.com/album/5zaqbv67zP4htJI7WhsBUf) | 2:01 | 2025-11-06 | 2025-11-28 |
 | [III \- Primavera \(se fossi un verme\)](https://open.spotify.com/track/241FGz90TxJNJVn9PDUcCL) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC), [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [III \- Primavera \(se fossi un verme\)](https://open.spotify.com/album/5gTcSYdmatN8mxCX58urv1) | 2:49 | 2026-03-19 |  |
 | [ikea \(500 giorni\)](https://open.spotify.com/track/2rWjN8ZZ0EZ1pD3VpiNnUo) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [non è mai semplice quando](https://open.spotify.com/album/28Mp62QlKUr3eveweuZxEW) | 3:06 | 2025-12-11 | 2026-01-23 |
@@ -1178,7 +1179,7 @@
 | [Ragni](https://open.spotify.com/track/0yLSfJqNZj3ivJRu3NAHFl) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [Ragni](https://open.spotify.com/album/3IoHIyvz0TqZrBNZEYZtOq) | 2:19 | 2024-12-17 | 2025-01-24 |
 | [Rally](https://open.spotify.com/track/7CmKRiwU8w6ebTZMfSy9kB) | [Dorso](https://open.spotify.com/artist/1Pb3OD4s6gxNyTGPbmW2ZO) | [Rally](https://open.spotify.com/album/6qY2SMekH2no7YKlchepzP) | 2:03 | 2025-09-25 | 2025-10-24 |
 | [rancore](https://open.spotify.com/track/1ehU75GBqxpgNfgNRCtsF9) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [rancore](https://open.spotify.com/album/0bBA717CkOcxsZEJ2jvGwX) | 3:36 | 2025-11-20 | 2025-12-12 |
-| [Rane 'n' Roll](https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A) | [Joe Perrino](https://open.spotify.com/artist/6RczSd4yiRlgv7hWhSe7tg), [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Rane 'n' Roll](https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT) | 3:28 | 2026-03-26 |  |
+| [Rane'n'Roll](https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A) | [Joe Perrino](https://open.spotify.com/artist/6RczSd4yiRlgv7hWhSe7tg), [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Rane'n'Roll](https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT) | 3:28 | 2026-03-26 |  |
 | [REPLAY](https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [REPLAY](https://open.spotify.com/album/5dm3wk4h6JCZzM46lImPIP) | 2:07 | 2025-11-27 | 2026-01-15 |
 | [Restare a Guardarti](https://open.spotify.com/track/2EJwdoNwIIahe2FxJneui8) | [Sergio Ruggeri](https://open.spotify.com/artist/1dMe5P8bZzOgaIG4VGyivW) | [Come Quando Tagli un Ramo di More e ne Ricrescono Otto](https://open.spotify.com/album/6BxYrh3wk8iJluuoQykEdm) | 3:17 | 2025-09-18 | 2025-10-17 |
 | [Resto](https://open.spotify.com/track/3goJe8V0wMC33oeyPATcVB) | [LA POSA BULB](https://open.spotify.com/artist/2jibIwCr1hCpcXPIT2iYAv) | [Resto](https://open.spotify.com/album/3I9XMKbN5QJtioY44lS5Av) | 2:46 | 2025-06-12 | 2025-07-18 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAABcc1+whdjQwf7EhZSf0dML",
+  "snapshot_id": "acR3AAAAAADNTOBIHTtD4AFwYvoPqDlX",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 206010,
+      "name": "Devotion Sickness",
+      "url": "https://open.spotify.com/track/3avsyV7s5wju0EDounjcHv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Easy",
         "url": "https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 169764,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 206010,
-      "name": "Devotion Sickness",
-      "url": "https://open.spotify.com/track/3avsyV7s5wju0EDounjcHv"
     },
     {
       "added_at": null,
@@ -180,41 +180,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Bad Words",
-      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "Neighbourhood",
-      "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulture Culture",
-        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Viva Violent",
-      "url": "https://open.spotify.com/track/6q4clEp8vrma0ywWTys1u4"
+      "duration_ms": 204186,
+      "name": "Role Models",
+      "url": "https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw"
     },
     {
       "added_at": null,
@@ -235,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+        "name": "Vulture Culture",
+        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
       },
       "artists": [
         {
@@ -244,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 204186,
-      "name": "Role Models",
-      "url": "https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw"
+      "duration_ms": 212800,
+      "name": "Viva Violent",
+      "url": "https://open.spotify.com/track/6q4clEp8vrma0ywWTys1u4"
     },
     {
       "added_at": null,
@@ -263,6 +231,38 @@
       "duration_ms": 288750,
       "name": "Champagne Problems",
       "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Bad Words",
+      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "Neighbourhood",
+      "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
     },
     {
       "added_at": null,

@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Annabelle",
+        "url": "https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL"
+      },
+      "artists": [
+        {
+          "name": "Sons of Habit",
+          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217669,
+      "name": "Annabelle",
+      "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
+    },
+    {
+      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
       },
@@ -1318,6 +1336,24 @@
       "duration_ms": 197145,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86"
+    },
+    {
+      "album": {
+        "name": "takeaways",
+        "url": "https://open.spotify.com/album/7auX3hZqaH4Xlvfz8G5thm"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183815,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/6LGbYF62eHtdQlK0UCkq2m"
     },
     {
       "album": {
@@ -2696,7 +2732,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 297141,
       "name": "Cast Iron Heart",
       "url": "https://open.spotify.com/track/0EALtIhPNmWQgYdT3hxfIX"
@@ -5276,7 +5312,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 221248,
       "name": "Flying Things",
       "url": "https://open.spotify.com/track/68kAGTN3TTGgA5KlvCtZy5"
@@ -5786,7 +5822,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 305543,
       "name": "Gild the Lily",
       "url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ"
@@ -7120,7 +7156,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 181752,
       "name": "His Song (What\u2019s a Man Supposed to Be)",
       "url": "https://open.spotify.com/track/1N4gBqIf2Fa6OXew2T5AjW"
@@ -7713,6 +7749,24 @@
     },
     {
       "album": {
+        "name": "Dear Nashville",
+        "url": "https://open.spotify.com/album/5l51k8fbINOwpxzWJ3MIie"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216915,
+      "name": "I Hate Nashville",
+      "url": "https://open.spotify.com/track/7jdkWld2Y7DYQAqfQZZfIv"
+    },
+    {
+      "album": {
         "name": "I Just Came Home To Count The Memories",
         "url": "https://open.spotify.com/album/7rHnORf4k6tS3G8uJcPqT5"
       },
@@ -7938,7 +7992,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 150639,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/1ole2uJWvoT39yzKw6mXgp"
@@ -12711,6 +12765,24 @@
     },
     {
       "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/4wZ9RtuL0b46pD8dHzl606"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178494,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq"
+    },
+    {
+      "album": {
         "name": "Right Back to It",
         "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
       },
@@ -12766,7 +12838,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 177624,
       "name": "River",
       "url": "https://open.spotify.com/track/4eaoFuSSBD7gbjoykO5iFb"
@@ -13678,6 +13750,28 @@
       "duration_ms": 206336,
       "name": "Since You've Been Gone",
       "url": "https://open.spotify.com/track/1oNa7B5qiFbiMbWIiyl5Bi"
+    },
+    {
+      "album": {
+        "name": "Six O'Clock News",
+        "url": "https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl"
+      },
+      "artists": [
+        {
+          "name": "Brennan Wedl",
+          "url": "https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272722,
+      "name": "Six O'Clock News",
+      "url": "https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE"
     },
     {
       "album": {
@@ -15628,6 +15722,28 @@
       "duration_ms": 246857,
       "name": "The Mountain Song",
       "url": "https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242875,
+      "name": "The Other Side Of Blue",
+      "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
     },
     {
       "album": {

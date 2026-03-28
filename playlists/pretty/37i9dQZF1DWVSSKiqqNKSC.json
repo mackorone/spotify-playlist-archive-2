@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 528481,
+  "num_followers": 528538,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Camino al Cielo",
+        "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
+      },
+      "artists": [
+        {
+          "name": "Havana NRG",
+          "url": "https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Havana City",
+      "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Yo Vengo de Cuba",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Camino al Cielo",
-        "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
-      },
-      "artists": [
-        {
-          "name": "Havana NRG",
-          "url": "https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp"
-        }
-      ],
-      "duration_ms": 330666,
-      "name": "Havana City",
-      "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
+      },
+      "artists": [
+        {
+          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
+          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
+        }
+      ],
+      "duration_ms": 310079,
+      "name": "Arriba de la bola",
+      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "La Maquinaria (Remasterizado)",
         "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 313260,
       "name": "Eso Que Anda - Remasterizado",
       "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
-      },
-      "artists": [
-        {
-          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
-          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
-        }
-      ],
-      "duration_ms": 310079,
-      "name": "Arriba de la bola",
-      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
     }
   ],
   "unique_name": "Salsa Cubana",

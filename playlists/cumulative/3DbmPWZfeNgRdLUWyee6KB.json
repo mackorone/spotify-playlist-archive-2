@@ -9829,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "Occhi D\u2019argento",
+        "url": "https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1"
+      },
+      "artists": [
+        {
+          "name": "Lacrima",
+          "url": "https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161902,
+      "name": "Occhi D\u2019argento",
+      "url": "https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW"
+    },
+    {
+      "album": {
         "name": "Odesa Child",
         "url": "https://open.spotify.com/album/35qW8UqO9ouKHDH7VEZUqR"
       },

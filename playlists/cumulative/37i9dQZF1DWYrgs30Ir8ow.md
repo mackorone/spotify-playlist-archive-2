@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: FLEMMING & Turfy Gang
 
-1,267 songs - 2 day 13 hr 49 min
+1,269 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 | 2023-04-13 |
 | [Love = Scary](https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Love = Scary](https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8) | 2:27 | 2024-06-13 | 2024-07-23 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-02-23 | 2023-03-30 |
+| [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-03-27 |  |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-05-22 | 2024-07-23 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-05-06 | 2025-06-20 |
 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 | 2024-11-07 | 2024-11-29 |
@@ -826,6 +827,7 @@
 | [Oneindig](https://open.spotify.com/track/7AYYZIuwFwtA7oPXj8BOiC) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Oneindig](https://open.spotify.com/album/5odwQbmIjdcaBlzAcnFPlW) | 3:31 | 2025-03-11 | 2025-03-28 |
 | [Only Lover](https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Only Lover](https://open.spotify.com/album/2PrWENAZz992vvC92B129d) | 3:03 | 2023-08-17 | 2023-10-17 |
 | [Oost West Thuis Best](https://open.spotify.com/track/1IKPpNQOoyvgrycSKB3Wy3) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Oost West Thuis Best](https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya) | 2:50 | 2025-09-01 | 2025-10-31 |
+| [Op Afstand](https://open.spotify.com/track/3jion2IKcnOSfpyNheRvim) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Denisha](https://open.spotify.com/artist/3gFjb8adT9OpQEfTE3Oweg) | [Just A Girl](https://open.spotify.com/album/17Cy5j0Oajyx6HwVGh3zh5) | 2:44 | 2026-03-27 |  |
 | [Op De Zeeweg](https://open.spotify.com/track/4JOblmRHWzKGEhbyUybJjs) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/73Znb9DymBPQLBEKFDf1M7) | 2:21 | 2024-05-09 | 2024-06-11 |
 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 | 2026-02-16 |  |
 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 | 2023-10-09 | 2023-11-17 |

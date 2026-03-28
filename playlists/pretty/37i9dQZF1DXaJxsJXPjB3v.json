@@ -1,6 +1,6 @@
 {
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
-  "num_followers": 84689,
+  "num_followers": 84712,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "S'kumfete",
+        "url": "https://open.spotify.com/album/1GgqdXa6jVVVGj9Hui743C"
+      },
+      "artists": [
+        {
+          "name": "Doc Shebeleza",
+          "url": "https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB"
+        }
+      ],
+      "duration_ms": 347480,
+      "name": "Ghets Ghetsa",
+      "url": "https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "BullDawgz First Lady",
         "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 291613,
       "name": "Iphindlela",
       "url": "https://open.spotify.com/track/27CtgoA4uSgIYjf0ZS8zvX"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "S'kumfete",
-        "url": "https://open.spotify.com/album/1GgqdXa6jVVVGj9Hui743C"
-      },
-      "artists": [
-        {
-          "name": "Doc Shebeleza",
-          "url": "https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB"
-        }
-      ],
-      "duration_ms": 347480,
-      "name": "Ghets Ghetsa",
-      "url": "https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ"
     },
     {
       "added_at": "2024-05-22 11:00:00",

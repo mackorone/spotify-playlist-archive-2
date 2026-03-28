@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 
 > sólo para skatos
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,692 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,708 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 | 49 | [A Donde Vamos No Vemos](https://open.spotify.com/track/5fdbHC3uxejudpTPaAbIHU) | [Tavo Ice](https://open.spotify.com/artist/5sh0vwv906Cz9Pf7zed4VL) | [El Cuarto Frio](https://open.spotify.com/album/4gaPQ7ZG9KXRMldPUIOFJm) | 4:15 |
 | 50 | [A Donde Llegan Mis Pasos](https://open.spotify.com/track/6o84tBeLnYKmMm1z3BZvad) | [Randee Marsh](https://open.spotify.com/artist/40PG2GZNi1ySUjcRxkBuqy), [Maiky Navajas](https://open.spotify.com/artist/6Ht06jZnjvaVVZRqAi6Eux), [Yak\-Mag](https://open.spotify.com/artist/60IqCN3nOzZ13yd8dQy9cC) | [Crónicas Jazzianas](https://open.spotify.com/album/4aakFWwWca028h4pXStlSs) | 4:07 |
 
-Snapshot ID: `AAAAAErT5zINETui6DQspESa2dhFvy4w`
+Snapshot ID: `AAAAAM5v5NTYx11JQsOoTOh+6dkSvGxn`

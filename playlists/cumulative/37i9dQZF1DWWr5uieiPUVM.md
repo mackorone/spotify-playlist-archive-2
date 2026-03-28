@@ -2,7 +2,7 @@
 
 ### [O Trap Mais Caro](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> coração vazio, pente cheio, ódio no olhar
+> e aí tue, como foi o show?
 
 729 songs - 1 day 13 hr 44 min
 

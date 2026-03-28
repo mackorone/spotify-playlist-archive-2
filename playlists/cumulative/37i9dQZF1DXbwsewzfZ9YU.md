@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ Gouge Away.
 
-425 songs - 17 hr 21 min
+426 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 | 2025-02-11 |  |
 | [Landslide](https://open.spotify.com/track/0xZYAXXGFoe3PfjglBrr8B) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [This Is All We Ever Get](https://open.spotify.com/album/3W1oOBFsQ3OETOnmX1NmH4) | 1:36 | 2024-04-26 | 2026-03-10 |
 | [Landslide](https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Landslide](https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A) | 1:36 | 2024-01-30 | 2024-04-27 |
+| [Leglock](https://open.spotify.com/track/59c52S6cwLC9AH4RIqNCuV) | [Dry Socket](https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm) | [Self Defense Techniques](https://open.spotify.com/album/7zsc4MOhuJ1Im1yU3H8ijy) | 2:04 | 2026-03-27 |  |
 | [Let's Keep the Circle Small](https://open.spotify.com/track/72NvyfMA5r0YFfNU1mEFlV) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Let's Keep the Circle Small](https://open.spotify.com/album/1k3VkVZEyGGhvCLYc2u4Tz) | 1:25 | 2026-03-13 |  |
 | [LIAR](https://open.spotify.com/track/1nJ8mIgJWtDXIHzckDZtUV) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [LIAR](https://open.spotify.com/album/6jBHYrJCpKfDWKXeSlD6f8) | 2:35 | 2025-07-18 |  |
 | [Life](https://open.spotify.com/track/5Yoou8RssU63J1J3jX8wPg) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Life](https://open.spotify.com/album/6FYvq6Y0Ohx9bBF8BlB2sD) | 2:58 | 2024-11-08 |  |
@@ -311,7 +312,7 @@
 | [Resurrection II](https://open.spotify.com/track/6ekWBiiyu5wPAixB5ZtK2H) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Härvest](https://open.spotify.com/album/2BGvd8w4DoxN4DOjC47iQL) | 3:02 | 2023-04-21 | 2024-01-31 |
 | [Retribution](https://open.spotify.com/track/0Jzuwvzp8EpPv0nXBtM2XR) | [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN) | [A Love To Kill For](https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj) | 2:17 | 2023-07-18 | 2025-04-05 |
 | [RIDE IT](https://open.spotify.com/track/3oX2umsP57XAnLkaOnIAhy) | [LustSickPuppy](https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3) | [RIDE IT](https://open.spotify.com/album/4YVZqIH91AFGuKJwvBN2TS) | 2:59 | 2023-08-11 | 2023-12-14 |
-| [Rigged Survival](https://open.spotify.com/track/7EvCln0ttf3Jyjw8fuLvqr) | [Dry Socket](https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm) | [Rigged Survival](https://open.spotify.com/album/3ydlRZMBjnK0C5E0lLyLQB) | 2:23 | 2026-01-24 |  |
+| [Rigged Survival](https://open.spotify.com/track/7EvCln0ttf3Jyjw8fuLvqr) | [Dry Socket](https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm) | [Rigged Survival](https://open.spotify.com/album/3ydlRZMBjnK0C5E0lLyLQB) | 2:23 | 2026-01-24 | 2026-03-28 |
 | [Rose Bather](https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Rose Bather](https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA) | 3:37 | 2023-12-12 | 2024-06-29 |
 | [Run You Out](https://open.spotify.com/track/48moUW0Vxdov1v4fA6gfKU) | [Bazooka](https://open.spotify.com/artist/5JjaKHxTOvC4JkCSirZIVS) | [Dimo](https://open.spotify.com/album/6lXOlPTEes6l6SWK9qfyKe) | 2:24 | 2023-08-11 | 2023-11-11 |
 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 | 2025-12-12 |  |

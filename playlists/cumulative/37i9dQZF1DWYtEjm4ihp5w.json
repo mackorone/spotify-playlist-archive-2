@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Bo9al, Dollypran",
+  "description": "Cover: Inkonnu",
   "name": "ABAT\u2211RA",
   "tracks": [
+    {
+      "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "#31#",
+      "url": "https://open.spotify.com/track/7gwo8Ykbqf2g8Hx1AsgQdJ"
+    },
     {
       "album": {
         "name": "U",
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 178214,
       "name": "Doberwoman",
       "url": "https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg"
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 151487,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht"
@@ -3338,6 +3356,24 @@
       "duration_ms": 128000,
       "name": "Go",
       "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
+    },
+    {
+      "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148260,
+      "name": "GOD DAYM",
+      "url": "https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN"
     },
     {
       "album": {
@@ -4090,7 +4126,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 181011,
       "name": "kafini",
       "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
@@ -5692,6 +5728,24 @@
       "duration_ms": 170039,
       "name": "Money Cash",
       "url": "https://open.spotify.com/track/37enI5HLEliszFasVgpjlz"
+    },
+    {
+      "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/3LR2AShmeh0dhIdjDIw0R6"
     },
     {
       "album": {

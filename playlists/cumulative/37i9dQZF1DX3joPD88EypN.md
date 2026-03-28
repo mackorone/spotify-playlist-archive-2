@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-192 songs - 16 hr 51 min
+193 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blodspredikan](https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP) | [Håvard Stubø Quartet](https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd) | [Kautokeino Undercover](https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB) | 6:28 | 2022-06-01 | 2025-03-05 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Breathe](https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Breathe](https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB) | 2:58 | 2024-01-26 | 2024-07-18 |
+| [Broke](https://open.spotify.com/track/10r5n6tLuwNr2qwEcJjOpJ) | [Ludvig Søndergaard](https://open.spotify.com/artist/0OgM5b9YJsYijCJwRhkec7) | [Broke](https://open.spotify.com/album/5RCBqjEylw19tiSEx2pldg) | 5:58 | 2026-01-30 |  |
 | [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 | 2022-06-01 | 2025-11-01 |
 | [Caring](https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Caring](https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd) | 6:09 | 2022-06-01 | 2023-09-16 |
 | [Children's Day \- Small Group Version](https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44) | [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Anton Eger](https://open.spotify.com/artist/3Tlbv3PR6Xxton3Yp5dSZF) | [Children's Day](https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot) | 6:55 | 2022-06-01 | 2025-03-08 |
@@ -84,7 +85,7 @@
 | [Innrønt](https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Erland Dahlen](https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn) | [Innrønt](https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug) | 4:12 | 2024-02-16 |  |
 | [Insomnia](https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z) | [Søren Dahl Jeppesen](https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Pipe Dreams](https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8) | 4:50 | 2022-06-01 |  |
 | [Iturevet Almanak](https://open.spotify.com/track/41FUtBijvt3GUZhKY6mVGp) | [Hvalfugl](https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf) | [Iturevet Almanak](https://open.spotify.com/album/3a6vhpPL6ETp0wO0gv9JEI) | 3:46 | 2025-03-07 | 2025-03-25 |
-| [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 | 2022-06-01 |  |
+| [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 | 2022-06-01 | 2026-03-28 |
 | [Jumnien](https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l) | [Göteborg Jazz Orchestra](https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [A Letter to Eje Thelin](https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL) | 3:41 | 2026-01-30 |  |
 | [Kakonita](https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Solid Ether](https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R) | 4:59 | 2022-06-01 |  |
 | [Kingdom of Coldness](https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Kingdom of Coldness](https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY) | 7:37 | 2023-01-26 |  |

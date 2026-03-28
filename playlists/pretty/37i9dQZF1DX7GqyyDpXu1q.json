@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94178,
+  "num_followers": 94189,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "Deep in the Trouble",
-        "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 325254,
-      "name": "Pile of Bones",
-      "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
         "name": "The Outside (Deluxe Album Edition)",
         "url": "https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 117667,
       "name": "Til My Heart Don't Beat",
       "url": "https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
+        "name": "Deep in the Trouble",
+        "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 325254,
+      "name": "Pile of Bones",
+      "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Natchez",
+        "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
+      },
+      "artists": [
+        {
+          "name": "Bishop Gunn",
+          "url": "https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Alabama",
+      "url": "https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Truth And Lies",
         "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 217786,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt"
-      },
-      "artists": [
-        {
-          "name": "The Native Howl",
-          "url": "https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4"
-        }
-      ],
-      "duration_ms": 210715,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb"
     }
   ],
   "unique_name": "Southern Comfort",

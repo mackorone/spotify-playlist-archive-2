@@ -4,7 +4,7 @@
 
 > Check out BTS's <a href="https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa?si=9eJTL\-8PRHOIUiFx4ln41Q&pi=\-1cSpwezSo2dP">'SWIM'</a> music video!
 
-546 songs - 1 day 8 hr 12 min
+548 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,8 @@
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2022-06-10 |  |
 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-05-29 | 2024-04-19 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-20 |  |
+| [SWIMSIDE: A Message from BTS](https://open.spotify.com/track/6aaTaI3N55dboWtxjMENOG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIMSIDE: A Message from BTS](https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH) | 0:42 | 2026-03-27 |  |
+| [SWIMSIDE: A Message from BTS \(English ver.\)](https://open.spotify.com/track/4armFRlesCyzQuFiLr4cGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIMSIDE: A Message from BTS](https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH) | 0:37 | 2026-03-27 |  |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |
 | [Tear](https://open.spotify.com/track/3smbno1dKL410vC27M5KOS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:44 | 2022-05-27 |  |
 | [Tear](https://open.spotify.com/track/6L1rxT6NUotot2AAiLXGLj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:44 | 2022-06-10 | 2022-06-18 |

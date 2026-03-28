@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Felix Dyotte, Clea Vincent",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Arielle Soucy",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 226674,
       "name": "Baby (Version fran\u00e7aise)",
       "url": "https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x"
@@ -530,6 +530,24 @@
       "duration_ms": 175381,
       "name": "Bellechasse",
       "url": "https://open.spotify.com/track/3NTjxEYcqM6b3m7Qy4TLF6"
+    },
+    {
+      "album": {
+        "name": "Berceuses",
+        "url": "https://open.spotify.com/album/7eOZI0RkwUaf6wnxxNTISc"
+      },
+      "artists": [
+        {
+          "name": "galil\u00e9e",
+          "url": "https://open.spotify.com/artist/5CircD2DiQWV5jLh3HrBdu"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Berceuses",
+      "url": "https://open.spotify.com/track/1AOs9id5eQcP0Vea7x1D6t"
     },
     {
       "album": {
@@ -1523,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Dans une autre cours",
+        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144173,
+      "name": "Dans une autre cours",
+      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
+    },
+    {
+      "album": {
         "name": "Danser la nuit",
         "url": "https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB"
       },
@@ -1648,6 +1684,24 @@
       "duration_ms": 163374,
       "name": "Demain \u00e7a ira",
       "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+    },
+    {
+      "album": {
+        "name": "Demi-tour",
+        "url": "https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232674,
+      "name": "Demi-tour",
+      "url": "https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd"
     },
     {
       "album": {
@@ -2821,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/3swhPkNoiQpk2MBvRIg8sh"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255438,
+      "name": "J'pense que",
+      "url": "https://open.spotify.com/track/5G2eBHDlNQZzvMCFQdzyjT"
+    },
+    {
+      "album": {
         "name": "J'veux pas dormir",
         "url": "https://open.spotify.com/album/6jhRh6BBSaurmvk0Lc40xb"
       },
@@ -3059,6 +3131,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0xt2GpCFyw5N8IQom9e4ew"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178653,
+      "name": "Je t'en veux",
+      "url": "https://open.spotify.com/track/5PIDxgPBBfqijwwJ6JT21k"
+    },
+    {
+      "album": {
         "name": "Je te dirai tout",
         "url": "https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2"
       },
@@ -3258,6 +3348,24 @@
       "duration_ms": 138600,
       "name": "l'aigle et la sir\u00e8ne",
       "url": "https://open.spotify.com/track/7cX9f7u3IuKotSo00cydd7"
+    },
+    {
+      "album": {
+        "name": "L'amour des autres",
+        "url": "https://open.spotify.com/album/79TGAreNwAsg1UyEeAkXXL"
+      },
+      "artists": [
+        {
+          "name": "Meloire",
+          "url": "https://open.spotify.com/artist/4BTPhFbG3pPr2bUlh1mHAb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181480,
+      "name": "L'amour des autres",
+      "url": "https://open.spotify.com/track/3r4qVYEOtbKCxrkphXpkn6"
     },
     {
       "album": {
@@ -6049,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Que je vous aime",
+        "url": "https://open.spotify.com/album/1AiiElsCE9tm1xryxCswZP"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196994,
+      "name": "Que je vous aime",
+      "url": "https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0"
+    },
+    {
+      "album": {
         "name": "Quelque chose",
         "url": "https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH"
       },
@@ -6969,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "The Fog",
+        "url": "https://open.spotify.com/album/2TIBAa6QLF17KwPaTDdTIq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247679,
+      "name": "The Fog",
+      "url": "https://open.spotify.com/track/72saKsaBaeNVtxaYPl2nS7"
+    },
+    {
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
       },
@@ -7140,6 +7284,24 @@
       "duration_ms": 182106,
       "name": "Tout ce que je dis",
       "url": "https://open.spotify.com/track/4R0wdkiNyVehGsv4uMc58S"
+    },
+    {
+      "album": {
+        "name": "Westfalia",
+        "url": "https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Tout c\u2019qui faut",
+      "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"
     },
     {
       "album": {
@@ -7890,6 +8052,24 @@
       "duration_ms": 264580,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+    },
+    {
+      "album": {
+        "name": "Dogue de Luxe",
+        "url": "https://open.spotify.com/album/4IddCcBqbnwWgj0OQr44ns"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "\u00c2mes soeurs",
+      "url": "https://open.spotify.com/track/7rWZkygReO0P7KOyqwLEXH"
     },
     {
       "album": {

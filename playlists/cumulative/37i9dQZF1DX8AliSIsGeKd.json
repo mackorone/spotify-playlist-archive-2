@@ -114963,6 +114963,28 @@
     },
     {
       "album": {
+        "name": "Voodooland EP",
+        "url": "https://open.spotify.com/album/1cS0NmBKE8jAtp6JKrlISf"
+      },
+      "artists": [
+        {
+          "name": "Marc Lenz",
+          "url": "https://open.spotify.com/artist/5EYkzxJOA2c0wTCC7BjT4R"
+        },
+        {
+          "name": "Cari Golden",
+          "url": "https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380160,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5E2udR4TH1OEZw1kgItr6j"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/3mpYixfatoKMbOlezWPIEG"
       },
@@ -120508,42 +120530,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "Voodooland EP",
-        "url": "https://open.spotify.com/album/1cS0NmBKE8jAtp6JKrlISf"
-      },
-      "artists": [
-        {
-          "name": "Marc Lenz",
-          "url": "https://open.spotify.com/artist/5EYkzxJOA2c0wTCC7BjT4R"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5E2udR4TH1OEZw1kgItr6j"
-    },
-    {
-      "album": {
-        "name": "Jeopardy EP",
-        "url": "https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe"
     },
     {
       "album": {
@@ -128166,6 +128152,24 @@
       "duration_ms": 222608,
       "name": "We Need",
       "url": "https://open.spotify.com/track/3T6mQWLFKL5Gv1JxfBTJHU"
+    },
+    {
+      "album": {
+        "name": "Jeopardy EP",
+        "url": "https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214404,
+      "name": "We Owe This World",
+      "url": "https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe"
     },
     {
       "album": {

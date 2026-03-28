@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Quercia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,851 likes - 105 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,855 likes - 105 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [Prendere Fuoco](https://open.spotify.com/track/5sbMMLR3YYFUYrTltD1Thp) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Perché Non Si Sa Mai](https://open.spotify.com/album/6RwsMookpjspDygtfXxGhK) | 3:48 |
 | 3 | [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 |
 | 4 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
-| 5 | [Rane 'n' Roll](https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A) | [Joe Perrino](https://open.spotify.com/artist/6RczSd4yiRlgv7hWhSe7tg), [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Rane 'n' Roll](https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT) | 3:28 |
+| 5 | [Rane'n'Roll](https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A) | [Joe Perrino](https://open.spotify.com/artist/6RczSd4yiRlgv7hWhSe7tg), [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Rane'n'Roll](https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT) | 3:28 |
 | 6 | [Tersicore](https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [Tersicore](https://open.spotify.com/album/5a8jCIJaZd0wSr63b4eIr9) | 3:55 |
 | 7 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 |
 | 8 | [Dissacrante](https://open.spotify.com/track/5ZV2ObM0F03iGTQZWhR7nQ) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [Dissacrante](https://open.spotify.com/album/4fv8Owfn2yKg8Vkn8zpbwi) | 3:18 |

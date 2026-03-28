@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Natasha Baig
+> Explore Pakistan's thriving independent scene 🔥 Cover: Natasha Humera Ejaz
 
-444 songs - 1 day 0 hr 24 min
+445 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Dil ruba](https://open.spotify.com/track/4OHTcG30SKhZ86Da7kwSxS) | [MOHSIN!](https://open.spotify.com/artist/3IRP2z9Z8lqyvaxlSntMwD), [PABLO](https://open.spotify.com/artist/1xBk3kegjnuS5Ey8c7zK3M) | [Dil ruba](https://open.spotify.com/album/3LiAr1DodmCgkWH0DAhhIf) | 2:51 | 2026-01-23 | 2026-01-31 |
 | [Dil Sitara](https://open.spotify.com/track/6E49Dj1VZYHjtLNbiBlJ7H) | [KMRN](https://open.spotify.com/artist/6qilOLk8soI4DjjM2wZlO1), [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Dil Sitara](https://open.spotify.com/album/2Eiz0dpcqqtCfV4upVEe3Y) | 3:16 | 2022-03-04 | 2023-04-09 |
 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 | 2023-04-07 | 2025-12-20 |
-| [Dilwale](https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Dilwale](https://open.spotify.com/album/24oFlrBYEx5AuFZ5LyyB6R) | 4:02 | 2024-06-21 |  |
+| [Dilwale](https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Dilwale](https://open.spotify.com/album/24oFlrBYEx5AuFZ5LyyB6R) | 4:02 | 2024-06-21 | 2026-03-28 |
 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 | 2022-11-30 |  |
 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 | 2023-10-03 | 2024-08-17 |
 | [Don't Judge Us](https://open.spotify.com/track/22NK7yy9RSZw6CkklLVf69) | [JA$$A](https://open.spotify.com/artist/15kMGTugB8ykrokYUF3NAR), [BHB Music](https://open.spotify.com/artist/6a3NMhbdoGZ8P56wP41Jw0) | [Don't Judge Us](https://open.spotify.com/album/7HWhsdwlvnA6uhnwkmeOmr) | 3:37 | 2025-04-11 | 2025-05-02 |
@@ -116,7 +116,7 @@
 | [Dou Pal](https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Dou Pal](https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS) | 2:53 | 2021-12-06 | 2025-09-10 |
 | [Double Game](https://open.spotify.com/track/1bike5aQ7ZndnBodizi1oi) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Qirdaar](https://open.spotify.com/album/1jqTs5oGoHXrcr9M3EWyho) | 3:46 | 2023-12-30 | 2024-02-17 |
 | [Down](https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Down](https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud) | 2:06 | 2021-12-06 | 2023-04-09 |
-| [Dream Girl](https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn) | [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Dream Girl](https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa) | 2:27 | 2026-01-30 |  |
+| [Dream Girl](https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn) | [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Dream Girl](https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa) | 2:27 | 2026-01-30 | 2026-03-28 |
 | [Dukh](https://open.spotify.com/track/1pHGtZjWcMQjzNHlu0mTJA) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq) | [Dukh](https://open.spotify.com/album/5Q8NbEwRpK5YXQdza31MfD) | 3:41 | 2023-03-12 | 2023-04-09 |
 | [Dunya](https://open.spotify.com/track/3WGDOi0xw7qyPrPnjBg2iu) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Dunya](https://open.spotify.com/album/6EeQNbbIzoVQqQcrg7Tuyq) | 2:39 | 2024-06-07 | 2024-06-15 |
 | [Dur Nahi](https://open.spotify.com/track/3hYsIM29iqaooKXdtzgfIt) | [Anna Salman](https://open.spotify.com/artist/2NGSwSwsSD1ik4xDJ4l582) | [Dur Nahi](https://open.spotify.com/album/5xo216GInwuzHZjns0x9yv) | 3:34 | 2021-12-06 | 2023-04-09 |
@@ -166,6 +166,7 @@
 | [Hum band rahe](https://open.spotify.com/track/2DdFRAGP6oHUvc0YsGaxqL) | [AZKA](https://open.spotify.com/artist/3gwcA0giZrKzAc0UnKXWsS) | [Hum band rahe](https://open.spotify.com/album/7hzJp7KsGNzLboRqcXeptk) | 2:48 | 2025-09-09 |  |
 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 | 2022-02-17 |  |
 | [Hum Tum](https://open.spotify.com/track/4ETUS1BAxTSO0Gn249PsY6) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Ahtasham Bashir](https://open.spotify.com/artist/1PNQoDHkIIzjdYZNX4mb8p) | [Hum Tum](https://open.spotify.com/album/42Fox5coqRxdf9H5QSMCrl) | 2:52 | 2025-01-17 | 2025-05-19 |
+| [i'm sorry](https://open.spotify.com/track/1tfwybHcR3GYHBWXUnn0nB) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Sarmad Ghafoor](https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl) | [i'm sorry](https://open.spotify.com/album/3hAgrL1OaqRvff2SQ9ha3z) | 3:15 | 2026-03-27 |  |
 | [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 | 2023-04-07 | 2023-06-07 |
 | [Ijazat](https://open.spotify.com/track/1XMXEyJbj8qvHtuqLbOIq6) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/1VLL0I0Y1hG0nQThZ0seJy) | 1:30 | 2023-04-07 | 2023-05-21 |
 | [Ijazat Cover](https://open.spotify.com/track/18XICD9QHduuxiewBjFZga) | [Arnob Khan Akib](https://open.spotify.com/artist/6MmkwDpS1JUxr05xRBx5Tu) | [Ijazat Cover](https://open.spotify.com/album/58Ri6HbF07OMoYoE41Qfs9) | 1:30 | 2023-04-07 | 2023-04-27 |

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-560 songs - 1 day 6 hr 49 min
+561 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Sleep Walking](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Sleep Walking](https://open.spotify.com/album/0N78Ojgqv1VEpkw9sEbFF3) | 2:26 | 2023-12-08 | 2026-01-06 |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2022-05-26 |  |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-04-24 | 2021-05-08 |
+| [Slide](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4) | [April Girl](https://open.spotify.com/artist/6F6kiCnzdyGJlHGCeGukPs) | [Slide](https://open.spotify.com/album/6TzGJljb9tURwXTsBJEXb9) | 2:54 | 2026-03-27 |  |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2020-09-15 | 2021-01-02 |
 | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/album/5nel6SmpP1TrXX3Ci9XXPx) | 3:52 | 2021-03-08 | 2021-06-12 |
 | [So in Love](https://open.spotify.com/track/6AULbho0NXMnsaQDCEgUAR) | [Robert Burian](https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg) | [Enormous Tunes \- Ibiza Nights 2017](https://open.spotify.com/album/7r9CI2uypeA9UEfF05jDHl) | 3:42 | 2020-09-13\* | 2021-03-06 |

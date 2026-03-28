@@ -2,7 +2,7 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Alfonso Dubraz, Luís Trigacheiro
+> Uma playlist de pura alma pop! Foto: Afonso Dubraz, Luís Trigacheiro
 
 459 songs - 1 day 0 hr 12 min
 
@@ -367,7 +367,7 @@
 | [Recomeçar](https://open.spotify.com/track/1XDJv6oiATTKhMc5xwLXsJ) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [Recomeçar](https://open.spotify.com/album/6RHEt7a31vDEVM9jS1lpvE) | 3:21 | 2026-01-23 | 2026-03-06 |
 | [Regresso À Infância](https://open.spotify.com/track/7qFmXBTDYviyGh3W1p32bI) | [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Oração Ao Tempo](https://open.spotify.com/album/4MeybEpXYrzioJUo6PWhWJ) | 3:28 | 2026-03-20 |  |
 | [Respirar](https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Respirar](https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H) | 4:14 | 2025-02-28 |  |
-| [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 3:00 | 2026-03-13 |  |
+| [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 2:52 | 2026-03-13 |  |
 | [Ride or Die](https://open.spotify.com/track/1j4kYsMuewIYAYqtKfyTwj) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [Ride or Die](https://open.spotify.com/album/0WVxIbOT1EOAqGVrEZhXr9) | 2:28 | 2025-07-11 | 2025-11-14 |
 | [Rio do Esquecimento \(Feiras Novas\)](https://open.spotify.com/track/7L371LhPhHqD6n3M1wZnyd) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Rio do Esquecimento \(Feiras Novas\)](https://open.spotify.com/album/52NrtbltfK9K8k23ehS78D) | 2:21 | 2025-09-11 | 2026-02-20 |
 | [Riqueza](https://open.spotify.com/track/7uAPXH7RXCpfoT1jez4ASm) | [GNTK](https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0) | [Riqueza](https://open.spotify.com/album/6J1fR0ADIjsYAUabOVy9am) | 3:49 | 2024-10-24 | 2025-03-07 |
@@ -449,7 +449,7 @@
 | [VAMPIROS](https://open.spotify.com/track/4Jlh1A7Lv28qVk08mLcdf5) | [Peculiar](https://open.spotify.com/artist/6m3yCxyoE4000Nd18hdEaC) | [VAMPIROS](https://open.spotify.com/album/2KC9XbtziG5bLOEViQAKXF) | 3:08 | 2025-04-24 | 2025-05-09 |
 | [Vem Cá](https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Vem Cá](https://open.spotify.com/album/4adzp1LS9pbLRNMv3SUKxO) | 2:53 | 2025-01-10 | 2025-03-28 |
 | [Verdade](https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Verdade](https://open.spotify.com/album/0X5dtxwXxNbiv4qfi6uhWN) | 3:07 | 2025-05-15 | 2025-11-07 |
-| [Verão \(feat\. Luís Trigacheiro\)](https://open.spotify.com/track/3Q8OsGmIiJfFxGMB1Ley0u) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Verão \(feat\. Luís Trigacheiro\)](https://open.spotify.com/album/0Xhs68lKAlMj5UdTBo6GY8) | 3:14 | 2026-03-27 |  |
+| [Verão](https://open.spotify.com/track/3Q8OsGmIiJfFxGMB1Ley0u) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Verão](https://open.spotify.com/album/0Xhs68lKAlMj5UdTBo6GY8) | 3:14 | 2026-03-27 |  |
 | [Viagem](https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [A Viagem](https://open.spotify.com/album/4IVB1cL3uZrOxyaMLsQzcR) | 3:09 | 2025-10-09 | 2026-01-30 |
 | [Vida de Cão](https://open.spotify.com/track/05w6de7LbQSnGqilshZLJT) | [Edmundo Inácio](https://open.spotify.com/artist/04CmgOhFRROgjxTnL7dKlR) | [Vida de Cão](https://open.spotify.com/album/4KMBwRSiwcHKWmsGQhuoZp) | 2:55 | 2026-03-13 |  |
 | [Vive o dia](https://open.spotify.com/track/5lcjHPZUhIPUdunrIAMpy4) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Vive o dia](https://open.spotify.com/album/1kaPrridSNurOrrWWoeDaF) | 2:48 | 2025-07-17 | 2025-10-03 |

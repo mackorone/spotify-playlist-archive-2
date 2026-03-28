@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "20 Little Ducks",
+        "url": "https://open.spotify.com/album/2wWarhRuCWQjn76JsD54lA"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135616,
+      "name": "20 Little Ducks",
+      "url": "https://open.spotify.com/track/0Ev9KDBcOt41CyHia4NoQU"
+    },
+    {
+      "album": {
         "name": "7 Days of the Week Dance",
         "url": "https://open.spotify.com/album/3jpahirgKN4SM1J6zymWN6"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 138832,
       "name": "ABC Democracy",
       "url": "https://open.spotify.com/track/5XwnyK8vOHt7Nsc8kPHyKh"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 195496,
       "name": "Animal Noises are FUN!",
       "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
@@ -2360,6 +2378,24 @@
       "duration_ms": 151666,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ"
+    },
+    {
+      "album": {
+        "name": "Bug Bops",
+        "url": "https://open.spotify.com/album/28lOStHjYJqLz7MnJ98ajS"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61519,
+      "name": "Bug Bop",
+      "url": "https://open.spotify.com/track/61AybXmMBZqtdkc5dgRFo4"
     },
     {
       "album": {
@@ -5262,7 +5298,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 73740,
       "name": "Fine Farm Day",
       "url": "https://open.spotify.com/track/01b9sAPnSGxUa3xozlS1ti"
@@ -5666,7 +5702,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 106708,
       "name": "Four Seasons",
       "url": "https://open.spotify.com/track/6rORlgBILt7hESfgmW0YKj"
@@ -6090,6 +6126,28 @@
       "duration_ms": 131597,
       "name": "Go Find the Hero in You",
       "url": "https://open.spotify.com/track/5AfMUMUK2W9LGrOuBu5nVG"
+    },
+    {
+      "album": {
+        "name": "Go Go Go",
+        "url": "https://open.spotify.com/album/60haVFPrULT1eaGLzI2WRo"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121593,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/1bGMbn805C7ShUTdHbT8qj"
     },
     {
       "album": {
@@ -7707,6 +7765,28 @@
     },
     {
       "album": {
+        "name": "Hop Hop Hop Hop",
+        "url": "https://open.spotify.com/album/3TheDiXE2nWclOsy75nNV1"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        },
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31968,
+      "name": "Hop Hop Hop Hop",
+      "url": "https://open.spotify.com/track/4kSAOaAceTvXADS4ZpcNIh"
+    },
+    {
+      "album": {
         "name": "Hot Coco!",
         "url": "https://open.spotify.com/album/1VM78UkbpGQbErnRQgAXSa"
       },
@@ -9032,7 +9112,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 98684,
       "name": "If You're Thankful and You Know It",
       "url": "https://open.spotify.com/track/2KHf86tval7jWIqYa7Qjtx"
@@ -10754,7 +10834,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192677,
       "name": "Little Old You",
       "url": "https://open.spotify.com/track/1DOxXwapZRaMXYeoCaFQow"
@@ -11987,6 +12067,24 @@
     },
     {
       "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/0UgTBWkzfSVKQcikrW9SGz"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109842,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/2AwvfJ4pOCIEgTrXEclwJl"
+    },
+    {
+      "album": {
         "name": "My Daddy",
         "url": "https://open.spotify.com/album/5lrShGJjQB54FR9vSB1vNR"
       },
@@ -12942,7 +13040,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 149500,
       "name": "Ope (DJ Mad Mardigan Remix)",
       "url": "https://open.spotify.com/track/0jpy67SG8McrAWqSVWQwxj"
@@ -14675,6 +14773,28 @@
     },
     {
       "album": {
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129029,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB"
+    },
+    {
+      "album": {
         "name": "Good Foot",
         "url": "https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin"
       },
@@ -16189,6 +16309,24 @@
     },
     {
       "album": {
+        "name": "Swinging In The Park",
+        "url": "https://open.spotify.com/album/0B13DSysTEOYrOUaVM9cYT"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112924,
+      "name": "Swinging In The Park",
+      "url": "https://open.spotify.com/track/3TU25g5NMYPNCAVbVXo6Eh"
+    },
+    {
+      "album": {
         "name": "Eclipse: The Musical",
         "url": "https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L"
       },
@@ -17056,7 +17194,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 30588,
       "name": "The Glittery Trail",
       "url": "https://open.spotify.com/track/52YR2W820xBQiPFJxpZKQY"
@@ -18948,7 +19086,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 136306,
       "name": "Water",
       "url": "https://open.spotify.com/track/00tbaXxwJl4wUFMvtT4ePX"
@@ -19295,6 +19433,28 @@
     },
     {
       "album": {
+        "name": "Weather: Snow",
+        "url": "https://open.spotify.com/album/1cTSorn6MATkO0TruT8GC4"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        },
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Weather: Snow",
+      "url": "https://open.spotify.com/track/4nyzbYjBkvNGZR96Zx1Urv"
+    },
+    {
+      "album": {
         "name": "Mr. Sun and Other Circle Time Songs",
         "url": "https://open.spotify.com/album/1U7uH75gmwNkeepseh0t0s"
       },
@@ -19620,6 +19780,24 @@
       "duration_ms": 143416,
       "name": "Wheels on the Bus (feat. Paul Wall) (H-Town Remix)",
       "url": "https://open.spotify.com/track/4h530TdFjTGeeoiLwRcY17"
+    },
+    {
+      "album": {
+        "name": "Wheels On The Bus Circle Time",
+        "url": "https://open.spotify.com/album/35i5WRwkAQl4xF4TYtcNiH"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123961,
+      "name": "Wheels On The Bus Circle Time",
+      "url": "https://open.spotify.com/track/0SKfXV25efEAqzrVLkPnR9"
     },
     {
       "album": {

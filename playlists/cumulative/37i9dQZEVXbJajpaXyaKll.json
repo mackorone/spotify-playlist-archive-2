@@ -6255,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "Bicicleta (Remastered 2012)",
+        "url": "https://open.spotify.com/album/1qaq3gfrFUMwNoZ5lM2i7z"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Canci\u00f3n De Alicia En El Pa\u00eds - Remastered 2012",
+      "url": "https://open.spotify.com/track/519WGo9DQCtYP72a7Lmprj"
+    },
+    {
+      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -11892,7 +11910,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 98644,
       "name": "el infierno en persona",
       "url": "https://open.spotify.com/track/2kN2e4CHerNHTOEO7EP22Q"

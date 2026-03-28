@@ -517,6 +517,32 @@
     },
     {
       "album": {
+        "name": "At Last (feat. Derek Trucks)",
+        "url": "https://open.spotify.com/album/7rfTIFiwSaJ6fvv6AU2NP9"
+      },
+      "artists": [
+        {
+          "name": "Symon Hook",
+          "url": "https://open.spotify.com/artist/3HilMVXeZFvgpljHR4XgDX"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "At Last (feat. Derek Trucks)",
+      "url": "https://open.spotify.com/track/2PWLGh2s2E1NjNelh86vkz"
+    },
+    {
+      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -1056,7 +1082,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 173437,
       "name": "Choir",
       "url": "https://open.spotify.com/track/640jkbfHDZM8SVBqMnHJg6"

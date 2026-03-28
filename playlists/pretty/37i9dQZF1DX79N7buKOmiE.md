@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Az 5 éves EQUAL programot ünnepeljük\. Borító: Sisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,402 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,405 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [Zavar A Csend](https://open.spotify.com/track/5S3O74hmL5i7vXNur3Y2nI) | [Czeglady](https://open.spotify.com/artist/6uTpA5i7V2IfR8FOOZiLWm), [Henderson David](https://open.spotify.com/artist/2fRqNTvoJvrLYOLnYTAmn8) | [Zavar A Csend](https://open.spotify.com/album/2n17fEHNO9ZsqgVNSnpCBG) | 2:39 |
 | 50 | [Two\-Headed Fox](https://open.spotify.com/track/0z5ffxRA2NWUWixvDx8QRC) | [Villő](https://open.spotify.com/artist/5qlX0ApNWukXe5g6Gb7cmJ) | [Two\-Headed Fox](https://open.spotify.com/album/0P1IZkY7SihRNMMT5mE9aL) | 3:53 |
 
-Snapshot ID: `AAAAAG2C/EJsukWN8rs6evNyo1GATdQP`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

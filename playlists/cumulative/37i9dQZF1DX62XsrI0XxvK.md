@@ -4,7 +4,7 @@
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: yuandirty
 
-225 songs - 13 hr 19 min
+228 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,9 +50,9 @@
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-10-03 | 2025-05-02 |
 | [Claw Machine](https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Claw Machine](https://open.spotify.com/album/6FpIHvOps6UZMgJudEJEtV) | 3:18 | 2025-09-25 | 2025-11-28 |
 | [crimson lullaby](https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [crimson lullaby](https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo) | 3:25 | 2025-01-09 | 2025-11-14 |
-| [Crown](https://open.spotify.com/track/1KxuP61yS7dLOqcdnXWgVb) | [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze), [Italiani](https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Crown](https://open.spotify.com/album/0QULlRrskGGkNA5lc06dMH) | 3:23 | 2025-11-27 |  |
+| [Crown](https://open.spotify.com/track/1KxuP61yS7dLOqcdnXWgVb) | [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze), [Italiani](https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Crown](https://open.spotify.com/album/0QULlRrskGGkNA5lc06dMH) | 3:23 | 2025-11-27 | 2026-03-28 |
 | [Damn, Gurl](https://open.spotify.com/track/6g3VcGmYGlg0UzFSFknCyI) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [Damn, Gurl](https://open.spotify.com/album/2NjkcPqxOgwK7qnCKL8hnY) | 3:12 | 2025-02-06 | 2025-07-18 |
-| [Dari Jauh](https://open.spotify.com/track/74ICl8FcIvdaGoHYuQg24T) | [Mario Ginanjar](https://open.spotify.com/artist/2PfcNw7RHl1aDoZ4tYg6ky), [Andity](https://open.spotify.com/artist/66P3FEL28QNJw9ylq00wRa) | [Dari Jauh](https://open.spotify.com/album/644fwyrhqmwVKMtc6wxYJO) | 3:35 | 2025-11-20 |  |
+| [Dari Jauh](https://open.spotify.com/track/74ICl8FcIvdaGoHYuQg24T) | [Mario Ginanjar](https://open.spotify.com/artist/2PfcNw7RHl1aDoZ4tYg6ky), [Andity](https://open.spotify.com/artist/66P3FEL28QNJw9ylq00wRa) | [Dari Jauh](https://open.spotify.com/album/644fwyrhqmwVKMtc6wxYJO) | 3:35 | 2025-11-20 | 2026-03-28 |
 | [Dekat](https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Dekat](https://open.spotify.com/album/15hJ6liZuJPpbWw3BrpqfC) | 4:27 | 2025-05-29 |  |
 | [Delusional](https://open.spotify.com/track/2V5NrnoZajhUP5pVZZVjs9) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:31 | 2025-05-08 | 2025-08-29 |
 | [Denganmu](https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo) | [Amabel Odelia](https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU) | [A Little Bit Dramatic](https://open.spotify.com/album/0CH6kIXtMB46QJ3H4akna3) | 3:27 | 2025-11-06 | 2026-03-06 |
@@ -181,6 +181,7 @@
 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 | 2025-09-18 |  |
 | [Salah Paham](https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Salah Paham](https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k) | 3:27 | 2025-10-24 | 2026-02-20 |
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-10-03 | 2025-05-30 |
+| [Satellites](https://open.spotify.com/track/0Zrz6L9L4tPxsxLvOU22iZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Satellites](https://open.spotify.com/album/0hZQAfI8flXYmK4PgonzzI) | 3:39 | 2026-03-27 |  |
 | [Satu Hari Tanpa Kita](https://open.spotify.com/track/511lgmyXJ2BApxUU6mKAYd) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Satu Hari Tanpa Kita](https://open.spotify.com/album/0aJ7G5YyWHt2kWG9kOxxKZ) | 4:32 | 2025-07-17 | 2025-11-21 |
 | [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 | 2025-06-05 |  |
 | [Say Goodbye](https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp) | [Elmand](https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Say Goodbye](https://open.spotify.com/album/3fG3Pg6tLeTfXlWySGuE1v) | 3:04 | 2025-10-23 | 2026-01-15 |
@@ -192,10 +193,12 @@
 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 | 2024-10-03 | 2025-05-02 |
 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 | 2025-05-01 |  |
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2024-10-03 |  |
+| [Siapa Kamu?](https://open.spotify.com/track/55KjeBjTgIEBHgtdJqWcTP) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Siapa Kamu?](https://open.spotify.com/album/1ubd8CFUMzsjwDsfQN3ylF) | 3:21 | 2026-03-27 |  |
 | [SILVER LINING](https://open.spotify.com/track/02385GSFhRkEpONl9xNOwb) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [SILVER LINING](https://open.spotify.com/album/65cFOLa7aqja0VTKMTCq5j) | 4:25 | 2026-02-05 |  |
 | [Singing Again](https://open.spotify.com/track/0q9ceMhLuxiIoGtcxOsozy) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [Singing Again](https://open.spotify.com/album/5tcpgJ1av9iWBIy8vBYQED) | 3:41 | 2025-10-09 |  |
 | [Sini](https://open.spotify.com/track/6hc5Ryshu6sdcJSShDQc8F) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Sini](https://open.spotify.com/album/312vsgcSCjvlPvKVriVXQg) | 3:58 | 2024-10-03 |  |
 | [Siratan](https://open.spotify.com/track/2TNQiEVrgQhwj3akf8nPhz) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/4VXfamSWSkK2CTv6hUPImL) | 3:45 | 2025-05-29 | 2025-11-14 |
+| [Slow Ride](https://open.spotify.com/track/48RtOdZydalAcG5S8LkgiY) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Slow Ride](https://open.spotify.com/album/0TydQJLAnqnm5rJzGbp640) | 2:48 | 2026-03-27 |  |
 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 | 2025-10-09 |  |
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2024-12-13 |  |
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2024-10-03 | 2025-10-17 |

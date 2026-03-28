@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Lance Savali
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,091 likes - 158 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,120 likes - 158 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 9 | [After Five](https://open.spotify.com/track/0EW1GSsCSgQ9npkDtbLn5B) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [After Five](https://open.spotify.com/album/0eeTVhPSUs6M5kCLEfT6UG) | 3:13 |
 | 10 | [Vacio](https://open.spotify.com/track/7kjzANjt1Zvh8BIomTvPKI) | [Womack](https://open.spotify.com/artist/004xZiDWaSRvDVUYv3CyLd) | [Vacio](https://open.spotify.com/album/3HEJEdKnGkFBGIldD4YFZS) | 6:40 |
 | 11 | [Luigi \- Adrian Lux Remix](https://open.spotify.com/track/1MZNgovvRNWxQ7xplEwsGX) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Luigi \(Adrian Lux Remix\)](https://open.spotify.com/album/2S9ctSioXWVbalXzev18p7) | 4:40 |
-| 12 | [Track 5](https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 0:00 |
+| 12 | [Make Me Feel Better](https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 5:02 |
 | 13 | [My Name is Who](https://open.spotify.com/track/0MTt9xiwDGm0glzpYn7a55) | [1\-800 Techno](https://open.spotify.com/artist/2X2lZoNNwgxRD7kZpBn0sS), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj), [Karl Lihagen](https://open.spotify.com/artist/39xx7uSO1RiFK5YyJwgAa3) | [My Name is Who](https://open.spotify.com/album/6Fhkcq7KmV53FS2ZLnz8E4) | 6:51 |
 | 14 | [TRNS](https://open.spotify.com/track/7qAHnqzfocGSbUdfoObkBR) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Silent Way](https://open.spotify.com/album/0VNrAhVsTuL1RLopapcQFE) | 8:56 |
 | 15 | [Mission Barnhus](https://open.spotify.com/track/6HiIHHOVVop7G50iwqrUAr) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk) | [Mission Barnhus](https://open.spotify.com/album/5x9H7C39y7M7SS4juDAZ3f) | 5:50 |

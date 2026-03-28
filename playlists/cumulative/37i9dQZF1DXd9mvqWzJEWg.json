@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Tira, Dankie Boi",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Lelowhatsgood, Uncle Ken, Moonchild Sanelly",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 384439,
       "name": "Bozza Mthathe",
       "url": "https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1"
@@ -2196,6 +2196,36 @@
       "duration_ms": 273447,
       "name": "Dhalsim - Rotterdam Sghubu",
       "url": "https://open.spotify.com/track/1UCzeMyAYC0FPxqHQi2znV"
+    },
+    {
+      "album": {
+        "name": "Dika",
+        "url": "https://open.spotify.com/album/6hyWmTvJCW2PTbjuJ11ngn"
+      },
+      "artists": [
+        {
+          "name": "Unkle Ken",
+          "url": "https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Lelowhatsgood",
+          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
+        },
+        {
+          "name": "Rifle Deep",
+          "url": "https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398887,
+      "name": "Dika",
+      "url": "https://open.spotify.com/track/2XALVknNnh2APguPIqsrGE"
     },
     {
       "album": {

@@ -5571,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Avatar",
+        "url": "https://open.spotify.com/album/0aYM02dMtb5SShWP6cTpyx"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126075,
+      "name": "Avatar",
+      "url": "https://open.spotify.com/track/3FWPTZmG1Ee6AlfB7trJof"
+    },
+    {
+      "album": {
         "name": "ave | \u014dnsen",
         "url": "https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA"
       },
@@ -43496,7 +43514,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 132607,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/2hbcvXGu8ztbkVrevLgAU9"
@@ -48490,7 +48508,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 111610,
       "name": "Midnight Drive",
       "url": "https://open.spotify.com/track/0RgCZ9RKtQGQpvfASJ01B6"
@@ -66986,6 +67004,28 @@
       "duration_ms": 130588,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/6AS1SZynUhjKz7zz3wFcFN"
+    },
+    {
+      "album": {
+        "name": "School Kids",
+        "url": "https://open.spotify.com/album/5tkUkptMPsOWoFSFUNwi4J"
+      },
+      "artists": [
+        {
+          "name": "Lock",
+          "url": "https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "School Kids",
+      "url": "https://open.spotify.com/track/1Ty1JGgZNi9jEV2E9ceXpt"
     },
     {
       "album": {

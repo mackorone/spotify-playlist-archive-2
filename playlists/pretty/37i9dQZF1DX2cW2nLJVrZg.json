@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 254222,
+  "num_followers": 254212,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Greatest Hits: The Road Less Traveled",
+        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "I Need To Wake Up",
+      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Glory (From the Motion Picture Selma)",
         "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 272727,
       "name": "Glory (From the Motion Picture Selma)",
       "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Greatest Hits: The Road Less Traveled",
-        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "I Need To Wake Up",
-      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
     },
     {
       "added_at": "2024-01-23 19:55:12",

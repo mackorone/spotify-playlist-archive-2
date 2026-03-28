@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 573073,
+  "num_followers": 573045,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-03-28 04:59:02",
       "album": {
+        "name": "Bruxelles je t'aime",
+        "url": "https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 228211,
+      "name": "Bruxelles je t\u2019aime",
+      "url": "https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb"
+    },
+    {
+      "added_at": "2025-03-28 04:59:02",
+      "album": {
         "name": "last day on earth",
         "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/34VD6GZycwcLUMXwpIur9M"
-    },
-    {
-      "added_at": "2025-03-28 04:59:02",
-      "album": {
-        "name": "Bruxelles je t'aime",
-        "url": "https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 228211,
-      "name": "Bruxelles je t\u2019aime",
-      "url": "https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb"
     },
     {
       "added_at": "2025-03-28 04:59:02",

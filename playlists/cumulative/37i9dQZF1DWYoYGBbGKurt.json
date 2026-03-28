@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "After the Sun Leaves",
+        "url": "https://open.spotify.com/album/57IT9gx7uMGN9wSH15GNHV"
+      },
+      "artists": [
+        {
+          "name": "Unmade Bed",
+          "url": "https://open.spotify.com/artist/5XYhH4Vnl4zce8VkvTqFCb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "After the Sun Leaves",
+      "url": "https://open.spotify.com/track/3CoCi4bkZLAdppKSBjqZ1U"
+    },
+    {
+      "album": {
         "name": "after wednesday",
         "url": "https://open.spotify.com/album/63XifhqpYZh88FwjyO7eY1"
       },
@@ -14486,6 +14504,28 @@
       "duration_ms": 140776,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
+    },
+    {
+      "album": {
+        "name": "Good Week",
+        "url": "https://open.spotify.com/album/4lbNrAZ7lxSsNrDHbi9itb"
+      },
+      "artists": [
+        {
+          "name": "Mareel",
+          "url": "https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z"
+        },
+        {
+          "name": "ddc.",
+          "url": "https://open.spotify.com/artist/3pMNi4CdK2pn9Kh54ywmx6"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227839,
+      "name": "Good Week",
+      "url": "https://open.spotify.com/track/12u5TttiLndLFZFcdzBkbH"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
-  "num_followers": 217329,
+  "num_followers": 217351,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbmS7exPABPTO7dsU74zKOs4lI+",
+  "snapshot_id": "AAAAABHNcfJa7cRv7BzwhxkJcvO1OrHR",
   "tracks": [
+    {
+      "added_at": "2026-03-27 04:00:06",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Thrust",
+      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
+    },
     {
       "added_at": "2026-01-23 05:00:20",
       "album": {

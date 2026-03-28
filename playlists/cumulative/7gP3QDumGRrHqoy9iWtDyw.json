@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/10lxKG4HAHMOWglWwYTYEr"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194197,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/7IHeHb9qVqK3xbCggBmfIF"
+    },
+    {
+      "album": {
         "name": "Get Flavor",
         "url": "https://open.spotify.com/album/4uZ31Ph9ssSSBgY2UOgekC"
       },

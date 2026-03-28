@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-172 songs - 10 hr 52 min
+173 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Copo Vazio](https://open.spotify.com/track/7Ln4YB6fKXHq6GhP2H6BF0) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Copo Vazio](https://open.spotify.com/album/1RNjXvxEB0NjT6rl8rh7Fj) | 3:13 | 2021-12-31 | 2022-01-21 |
 | [Coração Vagabundo](https://open.spotify.com/track/20vPQfpYA6qfYGblGAWSvS) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 2:36 | 2021-12-31 | 2022-01-21 |
 | [Corra e Olhe o Céu](https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Canta Cartola](https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5) | 2:26 | 2022-06-24 | 2024-04-19 |
-| [Corra e Olhe o Céu \- Ao Vivo](https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Corra e Olhe o Céu \(Ao Vivo\)](https://open.spotify.com/album/79DPA9Kvc8oVkSQCqt8rSV) | 2:25 | 2021-12-31 |  |
+| [Corra e Olhe o Céu \- Ao Vivo](https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Corra e Olhe o Céu \(Ao Vivo\)](https://open.spotify.com/album/79DPA9Kvc8oVkSQCqt8rSV) | 2:25 | 2021-12-31 | 2026-03-28 |
 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 | 2021-12-31 |  |
 | [De Volta Ao Começo](https://open.spotify.com/track/3gKVp2pfgNXXoENC4UXbIo) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 2:50 | 2021-12-31 | 2022-01-21 |
 | [Depois](https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 2:53 | 2022-06-24 | 2024-04-19 |
@@ -134,6 +134,7 @@
 | [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 | 2021-12-31 |  |
 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 | 2021-12-31 |  |
 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 | 2021-12-31 |  |
+| [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 | 2026-03-27 |  |
 | [Planos do Céu](https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Planos do Céu](https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V) | 4:07 | 2024-07-26 | 2024-12-10 |
 | [Pote D'Água](https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lourimbau](https://open.spotify.com/artist/2DADvBzRBVfGLburXTOb7y), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Pote D'Água](https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg) | 3:28 | 2025-01-17 | 2025-02-01 |
 | [Prazer De Viver \(Barra\)](https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3) | [Paulinho Boca De Cantor](https://open.spotify.com/artist/2CMkJfPBOkw1hQSi8EWLbU) | [Prazer De Viver](https://open.spotify.com/album/31X7O3CHeltLrDAz0P9AOS) | 3:45 | 2025-03-07 | 2025-10-25 |

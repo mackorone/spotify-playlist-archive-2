@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5791,
+  "num_followers": 5793,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "The Albums 1970-73",
-        "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Disco Tango [Remastered]",
         "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 170173,
       "name": "Disco Tango",
       "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "The Albums 1970-73",
+        "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
-      },
-      "artists": [
-        {
-          "name": "Sandra & Andres",
-          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Als Het Om De Liefde Gaat",
-      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Tal Como Eramos",
         "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 209786,
       "name": "T\u00fa Volver\u00e1s",
       "url": "https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
+      },
+      "artists": [
+        {
+          "name": "Sandra & Andres",
+          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Als Het Om De Liefde Gaat",
+      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Sol och v\u00e5r",
-        "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
-      },
-      "artists": [
-        {
-          "name": "Inger Berggren",
-          "url": "https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Sol och v\u00e5r",
-      "url": "https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Het Beste Van Louis Neefs",
         "url": "https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 145920,
       "name": "Oh Oh Ik Heb Zorgen",
       "url": "https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Sol och v\u00e5r",
+        "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
+      },
+      "artists": [
+        {
+          "name": "Inger Berggren",
+          "url": "https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Sol och v\u00e5r",
+      "url": "https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Solino",
-        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
-      },
-      "artists": [
-        {
-          "name": "Emilio Pericoli",
-          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Uno Per Tutte",
-      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Succ\u00e8s et raret\u00e9s (Collection \"78 tours et puis s'en vont...\")",
         "url": "https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 183040,
       "name": "Tom Pillibi",
       "url": "https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Solino",
+        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
+      },
+      "artists": [
+        {
+          "name": "Emilio Pericoli",
+          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Uno Per Tutte",
+      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
     },
     {
       "added_at": "2025-03-14 16:55:23",

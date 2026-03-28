@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "chiello ti pensiamo sempre, soprattutto ascoltando l'album nuovo \ud83d\udda4",
+  "description": "Willie Peyote ha una nuova canzone tutta blu e sad \ud83e\udec2",
   "name": "Indie Italia",
   "tracks": [
+    {
+      "album": {
+        "name": "(siamo tutti) animali notturni",
+        "url": "https://open.spotify.com/album/11ZU7S4OWEM1TsRrY7wjvY"
+      },
+      "artists": [
+        {
+          "name": "Malika Ayane",
+          "url": "https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5"
+        },
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "(siamo tutti) animali notturni",
+      "url": "https://open.spotify.com/track/4rXfzp0P7yZCH3JEz2eXzy"
+    },
     {
       "album": {
         "name": "Infinito +1",
@@ -874,7 +896,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 181523,
       "name": "Bandiera",
       "url": "https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k"
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224219,
       "name": "buco nero",
       "url": "https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb"
@@ -1082,6 +1104,24 @@
       "duration_ms": 175000,
       "name": "Buio",
       "url": "https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ"
+    },
+    {
+      "album": {
+        "name": "Burrasca",
+        "url": "https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162613,
+      "name": "Burrasca",
+      "url": "https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz"
     },
     {
       "album": {
@@ -2090,6 +2130,24 @@
       "duration_ms": 149519,
       "name": "Dormire in macchina",
       "url": "https://open.spotify.com/track/3fTRovjAPslcHFDeaHeNj2"
+    },
+    {
+      "album": {
+        "name": "Dove andiamo a ballare questa sera?",
+        "url": "https://open.spotify.com/album/2cmr3ljiT9HU69PdilyMt7"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181615,
+      "name": "Dove andiamo a ballare questa sera?",
+      "url": "https://open.spotify.com/track/2mvoDitYZLiL2XarlaMSru"
     },
     {
       "album": {
@@ -3381,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Incanto",
+        "url": "https://open.spotify.com/album/6HJ9P7FB73UYG9UxwVEWXl"
+      },
+      "artists": [
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Incanto",
+      "url": "https://open.spotify.com/track/7dKFWuoIZBbkvmSpduW8qd"
+    },
+    {
+      "album": {
         "name": "Indimenticabile",
         "url": "https://open.spotify.com/album/2mui5jZaosq5UyQDziHz0K"
       },
@@ -4318,6 +4394,24 @@
       "duration_ms": 115333,
       "name": "Lily",
       "url": "https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V"
+    },
+    {
+      "album": {
+        "name": "Mangiami pure",
+        "url": "https://open.spotify.com/album/5ZOaNaQEE4vNuWTcbyT1Cr"
+      },
+      "artists": [
+        {
+          "name": "Roshelle",
+          "url": "https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181422,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/20p0SmBBE4NrXLhfrj9TkU"
     },
     {
       "album": {
@@ -6611,6 +6705,24 @@
     },
     {
       "album": {
+        "name": "Potevamo fare schifo insieme",
+        "url": "https://open.spotify.com/album/6UGIlKxUZ8B4Kywp2BrB0E"
+      },
+      "artists": [
+        {
+          "name": "SARAFINE",
+          "url": "https://open.spotify.com/artist/6uejEU9tKd16IvCqvf2n5E"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205405,
+      "name": "Potevamo fare schifo insieme",
+      "url": "https://open.spotify.com/track/7FLt6SkjRi9pQM0HrtJ9KH"
+    },
+    {
+      "album": {
         "name": "44.SUMMER",
         "url": "https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76"
       },
@@ -7632,6 +7744,24 @@
       "duration_ms": 176140,
       "name": "Signorina, buonasera",
       "url": "https://open.spotify.com/track/6x0LM8WZ7T77Jn0MXv36sL"
+    },
+    {
+      "album": {
+        "name": "Sirene sulla Luna",
+        "url": "https://open.spotify.com/album/6Z9H1XZzTIq9HPFVBo6rBV"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Sirene sulla Luna",
+      "url": "https://open.spotify.com/track/1b6a73kDPEKLZxw5YfMerN"
     },
     {
       "album": {

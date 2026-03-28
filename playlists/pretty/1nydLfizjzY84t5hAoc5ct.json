@@ -6,24 +6,8 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AAB2+C2XGjAb/doVOJscJOn63pTBwzXh",
+  "snapshot_id": "AAB3FKv/NmLOQD8tQfN+jyfLpnRdv2jf",
   "tracks": [
-    {
-      "added_at": "2026-03-20 15:26:56",
-      "album": {
-        "name": "I Can't Sleep",
-        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
-      },
-      "artists": [
-        {
-          "name": "Diving Horse",
-          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
-        }
-      ],
-      "duration_ms": 275621,
-      "name": "I Can't Sleep",
-      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
-    },
     {
       "added_at": "2026-02-26 17:03:26",
       "album": {
@@ -41,6 +25,54 @@
       "url": "https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON"
     },
     {
+      "added_at": "2026-03-27 18:21:27",
+      "album": {
+        "name": "Your Sign",
+        "url": "https://open.spotify.com/album/3wY2mhYXNCYs2VQtq8WIe3"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Your Sign",
+      "url": "https://open.spotify.com/track/4oxCyxj46lqD1pIyQX99In"
+    },
+    {
+      "added_at": "2026-03-27 18:20:02",
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/2Vzt3e0Zn0qrxRgsEWVWTJ"
+      },
+      "artists": [
+        {
+          "name": "Girl Upstairs",
+          "url": "https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9"
+        }
+      ],
+      "duration_ms": 200744,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T"
+    },
+    {
+      "added_at": "2026-03-27 18:20:12",
+      "album": {
+        "name": "Love Heist",
+        "url": "https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN"
+      },
+      "artists": [
+        {
+          "name": "Florence Jack",
+          "url": "https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Baby I've Got It",
+      "url": "https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5"
+    },
+    {
       "added_at": "2026-03-22 11:46:49",
       "album": {
         "name": "Out Of Wine",
@@ -55,6 +87,22 @@
       "duration_ms": 185227,
       "name": "Out Of Wine",
       "url": "https://open.spotify.com/track/3GmBZBdFrcipnjygnZkLkq"
+    },
+    {
+      "added_at": "2026-03-20 15:26:56",
+      "album": {
+        "name": "I Can't Sleep",
+        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "duration_ms": 275621,
+      "name": "I Can't Sleep",
+      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
     },
     {
       "added_at": "2026-03-16 08:08:54",
@@ -645,6 +693,54 @@
       "url": "https://open.spotify.com/track/0QV8Rgw3puKgvODemZPVhX"
     },
     {
+      "added_at": "2026-03-27 18:20:40",
+      "album": {
+        "name": "The Dreamer",
+        "url": "https://open.spotify.com/album/00O1ouk8SZeJAPHlTjiSf3"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "duration_ms": 200285,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/21GNvaS4AaXlsWAhpknOUE"
+    },
+    {
+      "added_at": "2026-03-27 18:19:13",
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/2Vzt3e0Zn0qrxRgsEWVWTJ"
+      },
+      "artists": [
+        {
+          "name": "Girl Upstairs",
+          "url": "https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9"
+        }
+      ],
+      "duration_ms": 200744,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T"
+    },
+    {
+      "added_at": "2026-03-27 18:20:07",
+      "album": {
+        "name": "Love Heist",
+        "url": "https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN"
+      },
+      "artists": [
+        {
+          "name": "Florence Jack",
+          "url": "https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Baby I've Got It",
+      "url": "https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5"
+    },
+    {
       "added_at": "2026-03-21 10:53:52",
       "album": {
         "name": "South Paw",
@@ -1029,6 +1125,22 @@
       "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
     },
     {
+      "added_at": "2026-03-27 18:19:38",
+      "album": {
+        "name": "Love Heist",
+        "url": "https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN"
+      },
+      "artists": [
+        {
+          "name": "Florence Jack",
+          "url": "https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Baby I've Got It",
+      "url": "https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5"
+    },
+    {
       "added_at": "2026-03-06 17:45:32",
       "album": {
         "name": "At Nathan's House",
@@ -1059,6 +1171,38 @@
       "duration_ms": 232365,
       "name": "The Neighbour's House",
       "url": "https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ"
+    },
+    {
+      "added_at": "2026-03-27 18:21:16",
+      "album": {
+        "name": "The Dreamer",
+        "url": "https://open.spotify.com/album/00O1ouk8SZeJAPHlTjiSf3"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "duration_ms": 200285,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/21GNvaS4AaXlsWAhpknOUE"
+    },
+    {
+      "added_at": "2026-03-24 01:11:09",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
     },
     {
       "added_at": "2026-02-26 17:16:13",
@@ -1107,6 +1251,22 @@
       "duration_ms": 275621,
       "name": "I Can't Sleep",
       "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
+    },
+    {
+      "added_at": "2026-03-27 18:21:39",
+      "album": {
+        "name": "Your Sign",
+        "url": "https://open.spotify.com/album/3wY2mhYXNCYs2VQtq8WIe3"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Your Sign",
+      "url": "https://open.spotify.com/track/4oxCyxj46lqD1pIyQX99In"
     },
     {
       "added_at": "2026-03-06 22:01:09",
@@ -1253,6 +1413,22 @@
       "url": "https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU"
     },
     {
+      "added_at": "2026-03-24 01:10:34",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
       "added_at": "2026-03-06 22:01:05",
       "album": {
         "name": "Vol 1 (Experience, Strength and Broke)",
@@ -1337,6 +1513,38 @@
       "url": "https://open.spotify.com/track/7hoHVAVvZJbku8CTsBVdEC"
     },
     {
+      "added_at": "2026-03-27 18:19:57",
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/2Vzt3e0Zn0qrxRgsEWVWTJ"
+      },
+      "artists": [
+        {
+          "name": "Girl Upstairs",
+          "url": "https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9"
+        }
+      ],
+      "duration_ms": 200744,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/67A5a3C1BneAZRgsgenS8T"
+    },
+    {
+      "added_at": "2026-03-24 01:11:05",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
+    },
+    {
       "added_at": "2026-02-26 17:16:58",
       "album": {
         "name": "Here To Stay",
@@ -1367,6 +1575,22 @@
       "duration_ms": 305065,
       "name": "BY MY SIDE",
       "url": "https://open.spotify.com/track/5qP1Nk4oybYfeFgueTB7Wy"
+    },
+    {
+      "added_at": "2026-03-24 01:10:25",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
     },
     {
       "added_at": "2026-03-21 11:17:38",
@@ -1721,22 +1945,6 @@
       "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
     },
     {
-      "added_at": "2026-03-24 01:10:25",
-      "album": {
-        "name": "Clover Honey",
-        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Clover Honey",
-      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
-    },
-    {
       "added_at": "2026-03-24 01:10:29",
       "album": {
         "name": "Clover Honey",
@@ -1751,54 +1959,6 @@
       "duration_ms": 248173,
       "name": "Clover Honey",
       "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
-    },
-    {
-      "added_at": "2026-03-24 01:10:34",
-      "album": {
-        "name": "Clover Honey",
-        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
-      },
-      "artists": [
-        {
-          "name": "Myshkin's Ruby Warblers",
-          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Clover Honey",
-      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
-    },
-    {
-      "added_at": "2026-03-24 01:11:05",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
-      },
-      "artists": [
-        {
-          "name": "The Cosmic Dead",
-          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
-    },
-    {
-      "added_at": "2026-03-24 01:11:09",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
-      },
-      "artists": [
-        {
-          "name": "The Cosmic Dead",
-          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
     },
     {
       "added_at": "2026-03-24 01:11:37",

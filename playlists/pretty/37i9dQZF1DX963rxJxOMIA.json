@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante, como Aria Vega. ",
-  "num_followers": 221153,
+  "num_followers": 221154,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChhRSXRew5eG4B9caqP6mnOCHHT",
+  "snapshot_id": "AAAAAKsRROinK4TOEuVqFxfjkzD1ts9o",
   "tracks": [
     {
       "added_at": "2026-03-06 04:59:28",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
     },
     {
-      "added_at": "2026-03-26 18:21:05",
+      "added_at": "2026-03-27 04:59:29",
       "album": {
-        "name": "Tonto",
-        "url": "https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v"
+        "name": "Pal Agua",
+        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
       },
       "artists": [
         {
@@ -38,15 +38,11 @@
         {
           "name": "Ryan Castro",
           "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 140816,
-      "name": "Tonto",
-      "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
+      "duration_ms": 206296,
+      "name": "Pal Agua",
+      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
     },
     {
       "added_at": "2026-03-26 18:21:05",
@@ -203,6 +199,30 @@
       "duration_ms": 259008,
       "name": "REINA VALERA - Spotify Sessions",
       "url": "https://open.spotify.com/track/6vzVW3oArF7RU9YM0MwmNQ"
+    },
+    {
+      "added_at": "2026-03-26 18:21:05",
+      "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
     },
     {
       "added_at": "2026-03-26 18:21:05",

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,765 songs - 3 day 21 hr 25 min
+1,766 songs - 3 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1103,6 +1103,7 @@
 | [Open Up The Night \- X\-Coast Remix](https://open.spotify.com/track/3ehVl9NZhGa1YiORJvaWxh) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [Open Up The Night \(X\-Coast Remix\)](https://open.spotify.com/album/0fQpW2er88psARpgcgXPgy) | 2:49 | 2024-03-21 | 2024-10-04 |
 | [Open Up Your Love](https://open.spotify.com/track/6NcezRFMc5LCivQ55aHBsC) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Open Up Your Love](https://open.spotify.com/album/37IFg1rTL2XndcvxoyygZ4) | 2:55 | 2025-05-08 |  |
 | [Optimum](https://open.spotify.com/track/31EsjlgeNVhraX8mxHGasr) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Optimum](https://open.spotify.com/album/2twX4o0DfHH0XjE4DYFgKb) | 3:47 | 2022-06-09 | 2022-06-24 |
+| [Orange](https://open.spotify.com/track/3QDMRjEw9lwNlNesjFw0am) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Orange](https://open.spotify.com/album/2hRVRqscqI4SvBTm3H7Y7n) | 2:51 | 2026-03-27 |  |
 | [Oumuamua](https://open.spotify.com/track/5Jzmp4VSCccJVsLTyjADYQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 5:25 | 2022-06-09 | 2022-07-22 |
 | [Our First Christmas \(Mix Edit\) \- Festive Mix](https://open.spotify.com/track/1tLe71Z9ABLTWdwhiVBlJg) | [DJ Spen](https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ), [The Muthafunkaz](https://open.spotify.com/artist/3CrLtbGgITB9kp3egpZ9ZL) | [Armada Music \- Christmas Hits, Mini Mix](https://open.spotify.com/album/5iqFcIQmP4nMEkvQFtUtwx) | 1:10 | 2025-12-19 | 2026-01-02 |
 | [Our Power](https://open.spotify.com/track/6kzb5xFIVQloGO2utSH55O) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Our Power](https://open.spotify.com/album/684NGswNZ4FIRNkga7eRKF) | 3:40 | 2023-02-16 | 2023-08-04 |

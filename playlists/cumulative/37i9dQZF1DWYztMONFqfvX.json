@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 261818,
       "name": "Ek Din Title Track - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/2abR4ilhs5JWqZq12SB3GB"
@@ -2334,6 +2334,36 @@
       "duration_ms": 214076,
       "name": "Khudaya Ishq (From \"Abir Gulaal\")",
       "url": "https://open.spotify.com/track/1ia7wdw9VLYDI3stHR0CZO"
+    },
+    {
+      "album": {
+        "name": "Khwaab Dekhoon (From \"Ek Din\")",
+        "url": "https://open.spotify.com/album/5qbGkDFM97AtfRmfv2QV9C"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Tarannum Malik Jain",
+          "url": "https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253536,
+      "name": "Khwaab Dekhoon - From \"Ek Din\"",
+      "url": "https://open.spotify.com/track/4bgLijHlYnG50GcGe4dzfE"
     },
     {
       "album": {

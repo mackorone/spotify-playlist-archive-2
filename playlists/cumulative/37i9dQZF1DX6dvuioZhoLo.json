@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/7hCI25fJEZKVNU0E2uF0Or"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176117,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/0ccPLt8AT7dmaapCRevKHP"
+    },
+    {
+      "album": {
         "name": "Better to My Baby",
         "url": "https://open.spotify.com/album/62VwM9Z6qTwE1kkoGm2Z53"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 275114,
       "name": "Broken Wing",
       "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
@@ -558,7 +576,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192266,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
@@ -832,6 +850,24 @@
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
+    },
+    {
+      "album": {
+        "name": "Fastest Gun Alive",
+        "url": "https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "Fastest Gun Alive",
+      "url": "https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt"
     },
     {
       "album": {
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 218493,
       "name": "Good Kisser",
       "url": "https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5"
@@ -1246,6 +1282,24 @@
       "duration_ms": 218493,
       "name": "Good Kisser",
       "url": "https://open.spotify.com/track/7BDbyDs5FUmnh955RABFd7"
+    },
+    {
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "album": {
@@ -1782,7 +1836,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 172929,
       "name": "How Far Will We Take It?",
       "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
@@ -2086,7 +2140,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/1jzBSEvkIH8uDZbLstFVbV"
@@ -3719,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/1ztMEOs9UAIsrb6Dv9h8Tw"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296926,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12"
+    },
+    {
+      "album": {
         "name": "Snakelife",
         "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
       },
@@ -4567,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Wild At Heart",
+        "url": "https://open.spotify.com/album/6KVSZpBdO0ZiUzIRabBS3d"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "Wild At Heart",
+      "url": "https://open.spotify.com/track/7EVeo9YXY0UlctpcrrCxfp"
+    },
+    {
+      "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
@@ -4618,6 +4708,24 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "album": {
+        "name": "You Make Sense To Me",
+        "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235804,
+      "name": "You Make Sense To Me",
+      "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
     },
     {
       "album": {

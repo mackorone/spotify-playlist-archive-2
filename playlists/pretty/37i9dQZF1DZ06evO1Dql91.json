@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2449,
+  "num_followers": 2450,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAAAiflIbRwoYQrxvHKBvxcH2",
+  "snapshot_id": "acR3AAAAAAAUW1cdZmhn7hUs05gpWbK9",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 156764,
       "name": "Strong",
       "url": "https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She's A Sweetheart",
+        "url": "https://open.spotify.com/album/4wi5zpgsT4tZm0MRmkSBmB"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 215753,
+      "name": "She's A Sweetheart",
+      "url": "https://open.spotify.com/track/55BuEPrfvpeYx5zUkRSoAS"
     },
     {
       "added_at": null,
@@ -64,21 +84,21 @@
       "added_at": null,
       "album": {
         "name": "American Love Song",
-        "url": "https://open.spotify.com/album/40Ei1ez25PaNJRGFBoXSXu"
+        "url": "https://open.spotify.com/album/1v87Db6C6ll3Ha7eZzEOOt"
       },
       "artists": [
         {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        },
-        {
           "name": "Momo Boyd",
           "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
       "duration_ms": 201949,
       "name": "American Love Song",
-      "url": "https://open.spotify.com/track/6WsRA3jPlF1d5TKqzNWp0P"
+      "url": "https://open.spotify.com/track/2qPRysyqvhLiZKK44fA2P4"
     },
     {
       "added_at": null,
@@ -524,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 246788,
-      "name": "EOS Brussels - Live",
-      "url": "https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ"
+      "duration_ms": 79701,
+      "name": "Intro - Live",
+      "url": "https://open.spotify.com/track/6yynZDWbyfY4emRXrNSExQ"
     },
     {
       "added_at": null,
@@ -572,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 79701,
-      "name": "Intro - Live",
-      "url": "https://open.spotify.com/track/6yynZDWbyfY4emRXrNSExQ"
+      "duration_ms": 246788,
+      "name": "EOS Brussels - Live",
+      "url": "https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ"
     },
     {
       "added_at": null,

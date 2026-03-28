@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Mr.Children \*👉 <a href="https://spice.eplus.jp/articles/344995">連動記事</a>をSPICEでチェック!
 
-14,095 songs - 37 day 9 hr 10 min
+14,096 songs - 37 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1726,7 +1726,7 @@
 | [Coming Outs!](https://open.spotify.com/track/1dWxTJLqaSBSxqtsLxgWYj) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [Coming Outs!](https://open.spotify.com/album/5njxeWgiKaS7tnYFPj7LUv) | 2:55 | 2023-10-31 | 2023-11-08 |
 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 | 2024-08-20 | 2024-08-28 |
 | [commonplace music](https://open.spotify.com/track/75s6eyzJl36qGI1MnV3Asp) | [paionia](https://open.spotify.com/artist/2keUnfkvAavHXvVEvSf83e) | [commonplace music](https://open.spotify.com/album/5DPqM1EGVaMJPQMX7hhEqz) | 4:12 | 2023-04-12 | 2023-04-19 |
-| [COMPASS](https://open.spotify.com/track/70MlCAGHdfLvWXZL3dQJM3) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [FIRST MOVE \(Special Edition\)](https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ) | 4:06 | 2026-03-24 |  |
+| [COMPASS](https://open.spotify.com/track/70MlCAGHdfLvWXZL3dQJM3) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [FIRST MOVE](https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ) | 4:06 | 2026-03-24 |  |
 | [COMPLEX BREAK OUT \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/5gd0lEJcnBFNzR5DjLyjnf) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [早見優 – Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/6Gfcu3hliVeg1BGfdrLOQo) | 2:58 | 2023-07-18 | 2023-07-26 |
 | [Concealer](https://open.spotify.com/track/3G4m53LqtrSirc6M4vCsMg) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Concealer](https://open.spotify.com/album/7gMV492wFJaptqQUzEfQqo) | 3:03 | 2025-11-04 | 2025-11-12 |
 | [Conclusion](https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE) | [Conclusion](https://open.spotify.com/album/7oEhBHRIGkwc4QOBFB1iBP) | 3:14 | 2024-05-28 | 2024-06-05 |
@@ -1905,6 +1905,7 @@
 | [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 | 2024-01-09 | 2024-01-17 |
 | [Danger Danger \- Remix](https://open.spotify.com/track/6RXLMIc3lmODzT38tgBvwG) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Danger Danger \(Remix\)](https://open.spotify.com/album/61BSuwT7gcKc7gZQdZIkh3) | 2:38 | 2024-12-25 | 2025-01-01 |
 | [Dangerous](https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Dangerous](https://open.spotify.com/album/6ufSIMU4eAQjkI37l8ecoO) | 2:23 | 2024-09-04 | 2024-09-11 |
+| [Dangerous](https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [Dangerous](https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV) | 3:30 | 2026-03-24 |  |
 | [DANGEROUS ANGEL ～危険な天使～](https://open.spotify.com/track/0y21FPyQcqGemUljDjKxUQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [DANGEROUS ANGEL ～危険な天使～](https://open.spotify.com/album/68roJudykTtH9WjOekMrQ1) | 4:10 | 2025-12-23 | 2026-01-15 |
 | [daratto](https://open.spotify.com/track/2xQ6WvFriFHAJR3ngSICRr) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [daratto](https://open.spotify.com/album/6ub5vVdPmp568lPaBwPBDA) | 3:54 | 2024-10-09 | 2024-10-16 |
 | [DARE ME](https://open.spotify.com/track/7c81kigUIwDoQqz5EXmsZy) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [DARE ME](https://open.spotify.com/album/4odWFnjGSf2eYUqBea9f7q) | 2:43 | 2025-04-22 | 2025-04-30 |

@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/1L3FzYYJGXTLYs7fXAxZzz"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/35ZJui4Jug7X3x7semGBbv"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -2494,6 +2512,24 @@
       "duration_ms": 266246,
       "name": "hold my hand",
       "url": "https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt"
+    },
+    {
+      "album": {
+        "name": "Hold Shift Press 4",
+        "url": "https://open.spotify.com/album/7lMAvXgGt0u2xlypoqrenX"
+      },
+      "artists": [
+        {
+          "name": "Halogen",
+          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229204,
+      "name": "Hold Shift Press 4",
+      "url": "https://open.spotify.com/track/59pLf8189kR08FbIDisnuj"
     },
     {
       "album": {
@@ -5475,6 +5511,28 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM"
+    },
+    {
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/64cXhx8WR3ajHanczSaoZS"
       },
@@ -5516,6 +5574,32 @@
       "duration_ms": 150500,
       "name": "Run With The Sun",
       "url": "https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG"
+    },
+    {
+      "album": {
+        "name": "Runes",
+        "url": "https://open.spotify.com/album/67vSAYJL2xq4rEwdG5VCaZ"
+      },
+      "artists": [
+        {
+          "name": "OSFUR",
+          "url": "https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Twiins",
+          "url": "https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142689,
+      "name": "Runes",
+      "url": "https://open.spotify.com/track/3Kj6HZuObYzptOEkHcyyVF"
     },
     {
       "album": {
@@ -6410,7 +6494,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
@@ -6644,7 +6728,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 121795,
       "name": "U WON'T!",
       "url": "https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl"

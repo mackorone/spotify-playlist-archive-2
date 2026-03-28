@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 295,
+  "num_followers": 299,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI2QaWvJZP7R3CYwuiaKc1UJdtbWJk",
+  "snapshot_id": "AAAI3uDtFrAh0JtEGEJF0Nnzz9agYged",
   "tracks": [
     {
       "added_at": "2026-03-18 17:33:09",
@@ -35803,6 +35803,86 @@
       "duration_ms": 186279,
       "name": "Quiet Saloon",
       "url": "https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU"
+    },
+    {
+      "added_at": "2026-03-27 09:16:07",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP"
+    },
+    {
+      "added_at": "2026-03-27 09:25:58",
+      "album": {
+        "name": "Say something",
+        "url": "https://open.spotify.com/album/2GDeDZxD4xaYU9NQaM3qZA"
+      },
+      "artists": [
+        {
+          "name": "Joy Rabit",
+          "url": "https://open.spotify.com/artist/5G4cn7feNtHiI2P7Qzt40d"
+        }
+      ],
+      "duration_ms": 238311,
+      "name": "Say something",
+      "url": "https://open.spotify.com/track/3MbPvLgyM75WY8mQqlCNNl"
+    },
+    {
+      "added_at": "2026-03-27 10:11:42",
+      "album": {
+        "name": "I Still Remember",
+        "url": "https://open.spotify.com/album/5yeptka7yzMVVXWVhDBwd9"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Boim",
+          "url": "https://open.spotify.com/artist/62BMqVGhureZeMoUk7CtN5"
+        }
+      ],
+      "duration_ms": 287930,
+      "name": "I Still Remember",
+      "url": "https://open.spotify.com/track/7JAti2ONpcLz6tqnz5tPB2"
+    },
+    {
+      "added_at": "2026-03-27 10:12:30",
+      "album": {
+        "name": "The Girl in the Green Dress",
+        "url": "https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda"
+      },
+      "artists": [
+        {
+          "name": "Unlucky, the Artist",
+          "url": "https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN"
+        }
+      ],
+      "duration_ms": 138006,
+      "name": "Where'd the Time Go",
+      "url": "https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn"
+    },
+    {
+      "added_at": "2026-03-27 10:13:42",
+      "album": {
+        "name": "Aguaceros",
+        "url": "https://open.spotify.com/album/2PA5rTN8j5tOjtiHhW5Hmw"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Maltrago",
+          "url": "https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "Aguaceros",
+      "url": "https://open.spotify.com/track/5bhhG0nGomKZE8LtSjvVpq"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

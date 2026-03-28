@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Emily A\. Sprague
 
-274 songs - 1 day 1 hr 12 min
+275 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 | 2024-09-12 |  |
 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 | 2022-07-22 | 2024-04-19 |
 | [Brush](https://open.spotify.com/track/6lNrPAYL1ShzpzEEQNcUeo) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 1:20 | 2022-03-08 | 2022-07-29 |
+| [burning \| counting \(sleeping\)](https://open.spotify.com/track/3fZyNlhbyHnyEGaYTjgJeJ) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt) | [burning \| counting \(sleeping\)](https://open.spotify.com/album/5afwm4gKweceI2v5GUtWqe) | 2:27 | 2026-03-27 |  |
 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 | 2022-03-11 |  |
 | [Canopies](https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 7:11 | 2022-03-08 | 2025-03-12 |
 | [Car Alarm, Turn Signal](https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Car Alarm, Turn Signal](https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z) | 4:47 | 2024-09-12 | 2025-09-05 |
@@ -63,7 +64,7 @@
 | [Ciclo del agua](https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:45 | 2023-08-21 | 2025-09-05 |
 | [Circles](https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Circles](https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR) | 1:20 | 2025-01-31 |  |
 | [Circular](https://open.spotify.com/track/3YUPQcXGenybP2gi5985oB) | [Sarah Neufeld](https://open.spotify.com/artist/17YxHBveizVRDwCUBVn1X0), [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd), [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY) | [Circular](https://open.spotify.com/album/5PijKfbcBsz8Pmuj5hjdXW) | 3:04 | 2024-10-14 | 2025-04-26 |
-| [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 | 2024-09-12 |  |
+| [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 | 2024-09-12 | 2026-03-28 |
 | [Composition Of Flowers \(Excerpt\)](https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works Preview](https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ) | 6:21 | 2023-08-11 | 2025-09-05 |
 | [Continuum 1](https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Continuum 1](https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4) | 7:13 | 2024-08-12 | 2026-03-14 |
 | [Continuum 2](https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:01 | 2024-09-12 |  |

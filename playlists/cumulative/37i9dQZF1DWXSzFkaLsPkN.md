@@ -2,9 +2,9 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Ankur Tewari
+> Hindi hai, Indie hai! Cover\- Tanishka Bahl
 
-343 songs - 18 hr 52 min
+344 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 | 2023-05-02 | 2024-01-17 |
 | [Bhaage Naina](https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Shishir](https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220) | [Bhaage Naina](https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl) | 2:39 | 2026-03-05 |  |
 | [Birha](https://open.spotify.com/track/7dLAGyOgd1gbwuNAck0E0l) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Shaurya Saxena](https://open.spotify.com/artist/15YoAoQ9jr1YyDSgcTQXsf), [Pin Drop Music](https://open.spotify.com/artist/6K3RnXxEha4B4Gj3pjZLsx) | [Birha](https://open.spotify.com/album/37V6tuJiSBxtp025zl9TZu) | 3:27 | 2025-07-25 | 2025-08-15 |
+| [Birha](https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Birha](https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv) | 2:37 | 2026-03-27 |  |
 | [Bohot Bechain](https://open.spotify.com/track/3GtNTPRVYv86zXqrnLctlo) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Bohot Bechain](https://open.spotify.com/album/43GiOUSgHdwyo9PD6Bh6ZI) | 3:51 | 2024-12-13 | 2025-05-10 |
 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 | 2025-08-14 | 2025-09-17 |
 | [Buri Nazar](https://open.spotify.com/track/4AqbSfxFsG7G2w6W7OJUi6) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Buri Nazar](https://open.spotify.com/album/5yiYXQIoe7o1uR7KRZiv8p) | 2:09 | 2023-11-07 | 2023-12-14 |
@@ -88,7 +89,7 @@
 | [ESWY](https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [ESWY](https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI) | 2:59 | 2025-06-20 | 2025-09-26 |
 | [Faasle](https://open.spotify.com/track/2sUCQRozz4pBXmjhbFLzCj) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Rishi Pathak](https://open.spotify.com/artist/70ay8w6FiSddbDt3g8yFxM) | [Faasle](https://open.spotify.com/album/4ewFSPW3fnWlkkdLqTskXZ) | 3:32 | 2025-04-18 | 2025-06-26 |
 | [Falak](https://open.spotify.com/track/2GkmxOZ0hrTk3ey6fqtgSS) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Falak](https://open.spotify.com/album/4yf5coqfiRHGShTIhLbwwx) | 3:25 | 2024-10-24 | 2025-07-26 |
-| [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 | 2026-03-05 |  |
+| [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 | 2026-03-05 | 2026-03-28 |
 | [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-05-02 | 2024-01-18 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-20 | 2023-12-30 |
 | [Fidaa](https://open.spotify.com/track/0YdQ6qljvd2PgLi7Rb7r5z) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY), [Sunny Subramanian](https://open.spotify.com/artist/4Otbfyw3dUGWXAp3C7zbS2) | [Fidaa](https://open.spotify.com/album/4LVYYC0kGPAlPQ91S7hZdf) | 3:28 | 2026-02-06 | 2026-02-10 |

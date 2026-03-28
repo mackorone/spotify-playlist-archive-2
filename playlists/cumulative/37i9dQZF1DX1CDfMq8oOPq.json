@@ -999,6 +999,28 @@
     },
     {
       "album": {
+        "name": "Soffisticada",
+        "url": "https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Vinex",
+          "url": "https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150437,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4MI74pChD6IazETUmHdAoH"
+    },
+    {
+      "album": {
         "name": "BOSS BITCH",
         "url": "https://open.spotify.com/album/1rVEEGfUIxIkIH5ZlOBIGc"
       },
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 128932,
       "name": "CHAPA QUENTE",
       "url": "https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP"
@@ -3016,6 +3038,32 @@
       "duration_ms": 114645,
       "name": "Fuso",
       "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
+    },
+    {
+      "album": {
+        "name": "FUTURO DO PA\u00cdS",
+        "url": "https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0"
+      },
+      "artists": [
+        {
+          "name": "Mylena Drague",
+          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
+        },
+        {
+          "name": "Luzk",
+          "url": "https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy"
+        },
+        {
+          "name": "Damarcus",
+          "url": "https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184896,
+      "name": "FUTURO DO PA\u00cdS",
+      "url": "https://open.spotify.com/track/5bWGglIdnSSCScb4ddDGRM"
     },
     {
       "album": {
@@ -5270,7 +5318,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180310,
       "name": "Old School",
       "url": "https://open.spotify.com/track/1PmAw0Pn1C6AT8Hj1yf5zM"

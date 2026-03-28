@@ -4,7 +4,7 @@
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 0 min
+41 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Crimen Organizado](https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Compa Nava](https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF) | [Crimen Organizado](https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1) | 3:06 | 2025-04-20 |  |
 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 | 2024-01-29 |  |
 | [Dicen Que Soy Marihuano](https://open.spotify.com/track/6bo5XTVD5D84mECgjaZXad) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:03 | 2024-01-29 |  |
+| [DIOSA](https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [DIOSA](https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ) | 3:34 | 2026-03-28 |  |
 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 | 2024-01-29 |  |
 | [Elegante Y A Mi Modo](https://open.spotify.com/track/0j6oGKzOeO0oADcHivpq78) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:44 | 2026-02-11 | 2026-03-08 |
 | [Eternamente](https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Eternamente](https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1) | 3:58 | 2024-10-28 |  |

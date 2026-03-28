@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr & Angelique Kidjo, Darkoo & Ruger, Black Sherif, Yarden, T.I BLaze,  Apex Village,   and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,647 likes - 45 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,333 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 4 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 5 | [I Believe In Better](https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Believe In Better](https://open.spotify.com/album/5JEpbiNqmy1IfsdrM8SQks) | 2:33 |
 | 6 | [Lucid Dreams](https://open.spotify.com/track/1MHZaTZvSGR7kE5a5gBl4g) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Lucid Dreams](https://open.spotify.com/album/5EdudBzo4bemtwY2jp0y5T) | 3:23 |
-| 7 | [Track 5](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 0:00 |
+| 7 | [PERFECT](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 3:06 |
 | 8 | [HOW FAR?](https://open.spotify.com/track/0qRiTOwGSqofLgLKOfclBZ) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP), [Marv OTM](https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq) | [WELCOME 2 THE VILLE](https://open.spotify.com/album/67FvSNo4BQU0I46AuwIbvU) | 1:55 |
 | 9 | [Baggage](https://open.spotify.com/track/44A3D6wFzNHMBS5RenZRfe) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Baggage](https://open.spotify.com/album/1DOzQHmdMjRKcIpihuf89s) | 3:01 |
 | 10 | [Stack](https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [ROAD TO PARATI](https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f) | 2:52 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [Arise](https://open.spotify.com/track/6p1qrgCy5epVwjlbUXdps4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Arise](https://open.spotify.com/album/6wZV3F5q3vtN1gBA17UR0l) | 2:46 |
 | 22 | [24 Karat](https://open.spotify.com/track/4zaiuTaf9ZKSNl2uCABFBa) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [24 Karat](https://open.spotify.com/album/3PCahgqJvo7FDL4rFQ47dA) | 2:27 |
 | 23 | [Mzala \(feat\. Tango Supreme\)](https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mzala \(feat\. Tango Supreme\)](https://open.spotify.com/album/4qcQsHhLCuP2kxiE9SjrpH) | 7:51 |
-| 24 | [Get 2 Know \(feat\. Kúnlé\)](https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Kúnlé](https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI) | [Get 2 Know \(feat\. Kúnlé\)](https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF) | 2:58 |
+| 24 | [Get 2 Know](https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Kúnlé](https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI) | [Get 2 Know](https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF) | 2:58 |
 | 25 | [Save Your Soul](https://open.spotify.com/track/41EHgT0K5DKVMem0uRl249) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Bpositive](https://open.spotify.com/album/0UYD8rH7VwRceoYf6P56hG) | 2:06 |
 | 26 | [Version of Me](https://open.spotify.com/track/6gOnQCdPVDWd9y4irSVJvt) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [Version of Me](https://open.spotify.com/album/0AfFomTt9EXgCsbqttT6Fm) | 3:38 |
 | 27 | [Toma Song II](https://open.spotify.com/track/6Rd6QPDtl2MW6eO4dkv7Bo) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Toma Song II](https://open.spotify.com/album/7HBnn6oZr7PtBo7MGoSmJW) | 2:42 |

@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
+    },
+    {
+      "album": {
         "name": "Baby Wants To Disco",
         "url": "https://open.spotify.com/album/2qP60bpTetqj1xyZgu5eXl"
       },
@@ -6378,7 +6396,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 221586,
       "name": "I Could Get Used To This",
       "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
@@ -8742,7 +8760,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 377419,
       "name": "Love Will Fix It - 2025 Refresh",
       "url": "https://open.spotify.com/track/6AnL6Q5hYo3BW6RhlmFO5Z"
@@ -9514,7 +9532,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 171692,
       "name": "Motel Love",
       "url": "https://open.spotify.com/track/3kywV5yVk3Ya8zi1RLDLXa"
@@ -13693,6 +13711,24 @@
     },
     {
       "album": {
+        "name": "Sweet Escape",
+        "url": "https://open.spotify.com/album/6m6j833XxTbJUwMrfALd5U"
+      },
+      "artists": [
+        {
+          "name": "ALEXA PERL",
+          "url": "https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160822,
+      "name": "Sweet Escape",
+      "url": "https://open.spotify.com/track/6N36JpKqbewo9GHYUai7ug"
+    },
+    {
+      "album": {
         "name": "Sweet One Morning",
         "url": "https://open.spotify.com/album/7HivA6N0vAsSDipGSISmPi"
       },
@@ -15110,6 +15146,24 @@
       "duration_ms": 181935,
       "name": "We Groovin (with Jazzy)",
       "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
+    },
+    {
+      "album": {
+        "name": "Jeopardy EP",
+        "url": "https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214404,
+      "name": "We Owe This World",
+      "url": "https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe"
     },
     {
       "album": {

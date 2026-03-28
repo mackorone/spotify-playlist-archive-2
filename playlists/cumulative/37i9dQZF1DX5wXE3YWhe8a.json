@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Amber Skies",
+        "url": "https://open.spotify.com/album/0d9CrWlahws5Csf9lQIs1L"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "twofiveone",
+          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Amber Skies",
+      "url": "https://open.spotify.com/track/0zRQHbtFAVBXBI9zbURwsn"
+    },
+    {
+      "album": {
         "name": "Above the clouds",
         "url": "https://open.spotify.com/album/4zM0j0yaaHIw1tHu2qnhiH"
       },
@@ -613,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0Gs24OAqnN1kSdAgc8BvYM"
+      },
+      "artists": [
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147529,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1rsUd0Di73ER1FAzadgtWm"
+    },
+    {
+      "album": {
         "name": "Oaktree / When We Sleep",
         "url": "https://open.spotify.com/album/0F3fg3EB0pPrP5gg6OeZGO"
       },
@@ -802,6 +842,24 @@
       "duration_ms": 125142,
       "name": "Sodium Light",
       "url": "https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N"
+    },
+    {
+      "album": {
+        "name": "soulmates",
+        "url": "https://open.spotify.com/album/6dOyi41HlOa2BSdwu6bqzG"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114393,
+      "name": "soulmates",
+      "url": "https://open.spotify.com/track/7EnfB8FsjByMbQJE4ORhI1"
     },
     {
       "album": {
@@ -1052,6 +1110,28 @@
       "duration_ms": 150361,
       "name": "When Flowers Bloom",
       "url": "https://open.spotify.com/track/4c69F0hbshPqbkQEKAZcTq"
+    },
+    {
+      "album": {
+        "name": "when the flowers bloom",
+        "url": "https://open.spotify.com/album/0yzSbT2nKFfHHgeUXJdNpk"
+      },
+      "artists": [
+        {
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120200,
+      "name": "when the flowers bloom",
+      "url": "https://open.spotify.com/track/1GvfyqXqndCwWW5r02jAt6"
     },
     {
       "album": {

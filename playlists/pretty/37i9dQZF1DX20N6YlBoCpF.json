@@ -1,12 +1,12 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met MOEGOE, Die Piesangskille, Danny Smoke, Nicholis Louw en meer!",
-  "num_followers": 42981,
+  "num_followers": 43027,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKW1htSnHTUwtzFssfMKRyt6aWpX",
+  "snapshot_id": "AAAAANy4msCHApti4YRLebVmhW3IxlJp",
   "tracks": [
     {
       "added_at": "2026-03-26 22:00:26",
@@ -383,6 +383,22 @@
       "duration_ms": 240451,
       "name": "Saam Jou",
       "url": "https://open.spotify.com/track/0mg266rTGhkro3hRAu5ZlL"
+    },
+    {
+      "added_at": "2026-03-27 07:52:44",
+      "album": {
+        "name": "Skaakmat",
+        "url": "https://open.spotify.com/album/1a4D35n5AvB5rKEYOaCJJB"
+      },
+      "artists": [
+        {
+          "name": "PJ Moll",
+          "url": "https://open.spotify.com/artist/2DxTse8dON1AbgTlo2cvHR"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Skaakmat",
+      "url": "https://open.spotify.com/track/47CTcKuABlWUJ89Lyikx56"
     },
     {
       "added_at": "2026-03-12 22:00:20",
@@ -1627,22 +1643,6 @@
       "duration_ms": 204102,
       "name": "Aan My Sy",
       "url": "https://open.spotify.com/track/5jZzS7X6DglSX3TuvKD2jm"
-    },
-    {
-      "added_at": "2026-03-06 08:48:22",
-      "album": {
-        "name": "Meisie Van My Drome",
-        "url": "https://open.spotify.com/album/4tkXQNpAKhTiOtwV0hBVTA"
-      },
-      "artists": [
-        {
-          "name": "Desmond Wells",
-          "url": "https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19"
-        }
-      ],
-      "duration_ms": 211566,
-      "name": "Meisie Van My Drome",
-      "url": "https://open.spotify.com/track/2lg9qBGh5eWYu8By9ASjlY"
     },
     {
       "added_at": "2026-03-06 08:48:22",

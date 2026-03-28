@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 134115,
+  "num_followers": 134128,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Charango Peruano",
         "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 182293,
       "name": "Munaspaqa Suyaykuway",
       "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+      },
+      "artists": [
+        {
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Alpamayo: Music From Peru and Ecuador",
-        "url": "https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK"
-      },
-      "artists": [
-        {
-          "name": "Alpamayo",
-          "url": "https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "La lluvia (The Rain)",
-      "url": "https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Guitarra y Canto del Ande",
         "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 341210,
       "name": "Panorama ayacuchano",
       "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Alpamayo: Music From Peru and Ecuador",
+        "url": "https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK"
+      },
+      "artists": [
+        {
+          "name": "Alpamayo",
+          "url": "https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "La lluvia (The Rain)",
+      "url": "https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 219297,
       "name": "Caminar en Belleza",
       "url": "https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "La Estrella y la Isla",
-        "url": "https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Correa",
-          "url": "https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96"
-        },
-        {
-          "name": "Cavito Mendoza",
-          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
-        }
-      ],
-      "duration_ms": 241083,
-      "name": "La Estrella y la Isla",
-      "url": "https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo"
     }
   ],
   "unique_name": "Entre los Andes",

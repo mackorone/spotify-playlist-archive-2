@@ -7772,7 +7772,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 216333,
       "name": "I Do",
       "url": "https://open.spotify.com/track/0SXRPH2xsb2KEcuyoYNM08"
@@ -12038,7 +12038,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 200011,
       "name": "On a SunnyDay",
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
@@ -13388,7 +13388,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -13586,7 +13586,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -18835,6 +18835,24 @@
     },
     {
       "album": {
+        "name": "THE PROT\u00c9G\u00c9",
+        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "\u2060\u6211\u5f88\u5c0f\u670b\u53cb",
+      "url": "https://open.spotify.com/track/3ND61PaujUQeITpan0QDrt"
+    },
+    {
+      "album": {
         "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
       },
@@ -21518,7 +21536,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224348,
       "name": "\u5973\u5152\u6bbf\u4e0b",
       "url": "https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK"
@@ -22189,6 +22207,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
+        "url": "https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179022,
+      "name": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
+      "url": "https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh"
+    },
+    {
+      "album": {
         "name": "\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u96fb\u5f71\u539f\u8072\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1"
       },
@@ -22620,6 +22656,24 @@
       "duration_ms": 221791,
       "name": "\u6211\u7684\u652f\u6301\u578b\u4f34\u4fb6",
       "url": "https://open.spotify.com/track/5y3pmjOQvxW5TT5JuLyZRh"
+    },
+    {
+      "album": {
+        "name": "Goodnight, Lillie.",
+        "url": "https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR"
+      },
+      "artists": [
+        {
+          "name": "\u665a\u5b89\u8389\u8389",
+          "url": "https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244054,
+      "name": "\u6211\u770b\u898b\u4eca\u665a\u7684\u6708\u8272\u5f88\u7f8e\uff0c\u4f60\u5462\uff1f",
+      "url": "https://open.spotify.com/track/0m6n3IqumWw9HVEDo930CZ"
     },
     {
       "album": {
@@ -24390,7 +24444,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 250333,
       "name": "\u6dd8\u91d1\u5c0f\u93ae",
       "url": "https://open.spotify.com/track/6TK8UMYTqZ4ZIqRVLa8A0a"
@@ -25008,10 +25062,28 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 210026,
       "name": "\u7528\u80cc\u810a\u5531\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E"
+    },
+    {
+      "album": {
+        "name": "THE PROT\u00c9G\u00c9",
+        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "\u7528\u80cc\u810a\u5531\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/56KAZ7TDmxSHw1L5gNvESi"
     },
     {
       "album": {
@@ -25876,10 +25948,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 222668,
       "name": "\u7dca\u6025\u806f\u7d61\u4eba",
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
+    },
+    {
+      "album": {
+        "name": "THE PROT\u00c9G\u00c9",
+        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222668,
+      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+      "url": "https://open.spotify.com/track/3qejxDQ65H8Wz5y0GsUgsN"
     },
     {
       "album": {
@@ -26024,7 +26114,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 175333,
       "name": "\u8056\u5f92",
       "url": "https://open.spotify.com/track/1bpFHVwe2a3tKbaw0agIGk"
@@ -26328,7 +26418,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 182862,
       "name": "\u82b1\u908a\u7d30\u80de",
       "url": "https://open.spotify.com/track/6IsPYRqlNhhVLr9o3jWquT"
@@ -27206,7 +27296,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 202333,
       "name": "\u9109\u9593\u7684\u8def",
       "url": "https://open.spotify.com/track/2zGfjphwTvRKcQ8tunAmsa"

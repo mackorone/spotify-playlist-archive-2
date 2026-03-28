@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-229 songs - 11 hr 11 min
+230 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Fly Apart](https://open.spotify.com/track/6RXPW7XKoR4SqSogstTzsY) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Sam Noton](https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj) | [Fly Apart](https://open.spotify.com/album/6Wba9nMjwQqkSCDsCcpDb2) | 2:47 | 2025-07-04 |  |
 | [Follow The Rhythm](https://open.spotify.com/track/7rkFwGFRVkmOsenN6nkSHf) | [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG), [JaySic](https://open.spotify.com/artist/5OgXwDsd6Emt2JDOZgKhmY), [Jason Robert](https://open.spotify.com/artist/6iZXOmbBpTTsKGqG8Jtb3Z) | [Follow The Rhythm](https://open.spotify.com/album/2EnoxOt4bCkIOGnlcHA4ru) | 2:46 | 2025-07-04 |  |
 | [Found myself](https://open.spotify.com/track/1QnZ3x8AOd7EiS3WUcaiUa) | [SixCap](https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s) | [Found myself](https://open.spotify.com/album/02EmsUivrblicHCubLlsFj) | 2:37 | 2025-07-04 |  |
-| [Freaks](https://open.spotify.com/track/4wbA8wvhhsHib3em69PUqa) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Freaks](https://open.spotify.com/album/26epLAiWNANFcI5FBfbyTi) | 2:06 | 2025-07-04 |  |
+| [Freaks](https://open.spotify.com/track/4wbA8wvhhsHib3em69PUqa) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Freaks](https://open.spotify.com/album/26epLAiWNANFcI5FBfbyTi) | 2:06 | 2025-07-04 | 2026-03-28 |
 | [Freeze Time \- Cuebrick & Manse Remix](https://open.spotify.com/track/6aIE4b3Ifwxab3nTkU873L) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Freeze Time \(Cuebrick & Manse Remix\)](https://open.spotify.com/album/0EXrkLNOuJQCvKwfnagQIg) | 3:23 | 2025-07-24 |  |
 | [Fuga](https://open.spotify.com/track/6hiZThRLPZtTFiwiMBfZJj) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Ela Sabe EP](https://open.spotify.com/album/134y2ihwAlwkjbLlCmkk2x) | 2:03 | 2025-07-04 |  |
 | [Future Rave Is Now](https://open.spotify.com/track/5phqs1kTBLOWhG7FD3MVDv) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Future Rave Is Now](https://open.spotify.com/album/05GxrCfoBcSwBNeiDO0tEm) | 4:40 | 2025-07-04 |  |
@@ -147,6 +147,7 @@
 | [Never Gonna Slow Down](https://open.spotify.com/track/6wR88ec53TNKxJ2V42WRmu) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Never Gonna Slow Down](https://open.spotify.com/album/6ct4eLUzPoNuSHc8DE1HJp) | 2:38 | 2025-07-04 |  |
 | [Nobody Else](https://open.spotify.com/track/1Gg1UJxlKPYFi6jvxqiXFV) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Nobody Else](https://open.spotify.com/album/30Dkv0eLc0WT3vr2mn5b6t) | 2:57 | 2025-07-04 |  |
 | [Nostalgia \- CHRNS Remix](https://open.spotify.com/track/2PJynaBgZkI5GDKgiw7c0z) | [JEFFREY SUTORIUS](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Krimsonn](https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU), [CHRNS](https://open.spotify.com/artist/0UO2eme5GrM4O3neniq7Ql) | [\#aparttogether \(The Remixes Part 3\)](https://open.spotify.com/album/79jofxveyaNOe26JvtDp2X) | 3:20 | 2025-07-04 |  |
+| [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 | 2026-03-27 |  |
 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2025-07-04 |  |
 | [Now Or Never](https://open.spotify.com/track/6Cvy0frVEbjRulnNWkO3Ud) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Now Or Never](https://open.spotify.com/album/4U9hxqI2pwtjN9ahZs7IDM) | 2:29 | 2025-07-04 |  |
 | [Oldskool Sound](https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Oldskool Sound](https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx) | 3:36 | 2025-07-04 |  |

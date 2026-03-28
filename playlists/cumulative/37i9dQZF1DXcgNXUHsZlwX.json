@@ -8823,6 +8823,24 @@
     },
     {
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4PwBkrPKj8TJM8cxIbFONo"
+      },
+      "artists": [
+        {
+          "name": "Ghostnaut",
+          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121607,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/1TeOquEB6ZzZIO33kG8R1F"
+    },
+    {
+      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -9698,7 +9716,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 221690,
       "name": "Un chant d'amour",
       "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"

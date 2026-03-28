@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Tegi Pannu
+> Best of Punjabi Hip\-Hop! Cover:  Sardar Khehra
 
-325 songs - 16 hr 4 min
+326 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [ASTARR](https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 3:15 | 2024-11-21 |  |
 | [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 | 2025-07-03 |  |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-08-30 | 2025-06-14 |
-| [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 | 2025-01-17 |  |
+| [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 | 2025-01-17 | 2026-03-28 |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-05 | 2024-08-27 |
 | [Baddest Majhail](https://open.spotify.com/track/0ZbbwnSKviNVKMplBr8DuM) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Baddest Majhail](https://open.spotify.com/album/4zeVZs3qcoPDYA5BoqzAJN) | 2:43 | 2025-08-15 |  |
 | [Badland](https://open.spotify.com/track/1MvSyJE0RcXWfcEVpWaTPO) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Spaceship](https://open.spotify.com/artist/6w4hV4erWlCgsaNUEmS7od) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 3:21 | 2024-09-03 | 2024-09-21 |
@@ -95,6 +95,7 @@
 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 | 2025-10-10 |  |
 | [DASS JATTA](https://open.spotify.com/track/7040CjemGFRjCvVzVEwa6R) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:35 | 2024-08-23 | 2024-11-21 |
 | [Dawood](https://open.spotify.com/track/6hHmenkXJDvL7XcKNxSoRU) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB), [AJ Gill](https://open.spotify.com/artist/3CqwuXmwcjkf4MgtwkRl7g) | [Dawood](https://open.spotify.com/album/2vkv2Z0G3tV2It4lgMeYo6) | 3:25 | 2024-03-29 | 2024-07-27 |
+| [Dealer](https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Da Future](https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR), [Virk Andaaz](https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l) | [Dealer](https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N) | 1:50 | 2026-03-27 |  |
 | [Deeply](https://open.spotify.com/track/5JXr0sWJbEqxuRojwLQaNl) | [Gurdeep Singh Garry](https://open.spotify.com/artist/4o7TyECXFcrJlwZCrbZIrk) | [Crazily Madly Deeply](https://open.spotify.com/album/2HinCCd58BSYDzim12EEtg) | 1:55 | 2024-08-26 | 2024-08-28 |
 | [Deewana](https://open.spotify.com/track/2KDDpTTvMODGoo3vmz29x4) | [BAGI MUNDA](https://open.spotify.com/artist/0HBnrWuJIS5VK5HVNP5y6Y), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [SANJU & SALLU RETURNS](https://open.spotify.com/album/14DNtUvxgQ2eIh7BCmo6D1) | 3:31 | 2025-05-23 |  |
 | [Defend](https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Defend](https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1) | 2:53 | 2023-03-18 | 2023-09-05 |

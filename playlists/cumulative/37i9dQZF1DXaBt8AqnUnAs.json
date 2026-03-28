@@ -425,6 +425,32 @@
     },
     {
       "album": {
+        "name": "A \u00daltima das L\u00e1grimas",
+        "url": "https://open.spotify.com/album/3oiNcdHA94UuBO6FxXWUkP"
+      },
+      "artists": [
+        {
+          "name": "Alec'",
+          "url": "https://open.spotify.com/artist/1E0YoYzep0Ou0Pma61XYeD"
+        },
+        {
+          "name": "Aranha4real",
+          "url": "https://open.spotify.com/artist/2Qg7ipItiM0iGBQM5ad1rg"
+        },
+        {
+          "name": "Dourado",
+          "url": "https://open.spotify.com/artist/4y7sQ6DxY3m7pqkMmxoYNx"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182555,
+      "name": "A \u00daltima das L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6fX0OOsIIDSHfogMl10XEi"
+    },
+    {
+      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/2bfJo9eXLWk3QnGEDfWfBu"
       },
@@ -1652,7 +1678,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 236656,
       "name": "Bagun\u00e7a na Mente",
       "url": "https://open.spotify.com/track/76LOUbijiT76FQHGfARbAD"
@@ -3392,6 +3418,36 @@
       "duration_ms": 203520,
       "name": "Confusa",
       "url": "https://open.spotify.com/track/2egdO5Dpe4yk0b4S26knYa"
+    },
+    {
+      "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "pluglip",
+          "url": "https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV"
+        },
+        {
+          "name": "Link do Zap",
+          "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "Confuso",
+      "url": "https://open.spotify.com/track/7A3BVCo4vr9OujgsGm6pNu"
     },
     {
       "album": {
@@ -5450,7 +5506,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 270175,
       "name": "Essa Daqui Vira Trend",
       "url": "https://open.spotify.com/track/6gAD9BkdcEXM9X3ObuuWjC"
@@ -11208,7 +11264,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 127360,
       "name": "N\u00c3O SINTO SUA VIBE - Remastered 2026",
       "url": "https://open.spotify.com/track/1cwv2vBCeSapTs35LFO3pu"
@@ -11622,6 +11678,28 @@
       "duration_ms": 181500,
       "name": "O Que Voc\u00ea Faz",
       "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
+    },
+    {
+      "album": {
+        "name": "O QUE \u00c9 O AMOR?",
+        "url": "https://open.spotify.com/album/5K6H514pSDDzO2GtOY8x1s"
+      },
+      "artists": [
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141219,
+      "name": "O QUE \u00c9 O AMOR?",
+      "url": "https://open.spotify.com/track/77PUcKl2HCqOLlsTgzpcWa"
     },
     {
       "album": {

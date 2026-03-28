@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "El Granero (En Vivo)",
+        "url": "https://open.spotify.com/album/5FhpIgXkun03cVnyKpyWlj"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136299,
+      "name": "Aquella - En Vivo",
+      "url": "https://open.spotify.com/track/5oRipyMJFbxFz9v8V8vWHx"
+    },
+    {
+      "album": {
         "name": "Que Empiece El Borlote, Vol.1 (En Vivo)",
         "url": "https://open.spotify.com/album/2mbhSJBOBVszdfG6JrDCiH"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 186304,
       "name": "Chevrolet 4x4 - Version Banda",
       "url": "https://open.spotify.com/track/4Lm8ENpqox9XeamYAKrDYL"
@@ -804,6 +822,24 @@
       "duration_ms": 199893,
       "name": "Con Cartitas Y Palabras",
       "url": "https://open.spotify.com/track/2rDdA37XDd7fxFhciggls8"
+    },
+    {
+      "album": {
+        "name": "En Vivo Vol.4",
+        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226378,
+      "name": "Con Que Me Pagas - En Vivo",
+      "url": "https://open.spotify.com/track/5awg9QXX7oCuoRzoSvLxAy"
     },
     {
       "album": {
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 173034,
       "name": "El Amor No Se Vende - En Vivo",
       "url": "https://open.spotify.com/track/5Tr2eIyQC5P19xCKb4heTb"
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 246177,
       "name": "El Rey Midas - En Vivo",
       "url": "https://open.spotify.com/track/7I4muuHRVtiYejV9fvG5DS"
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 195117,
       "name": "Inventame - En Vivo",
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
@@ -2998,7 +3034,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203406,
       "name": "Julio Beltran - En Vivo",
       "url": "https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP"
@@ -3508,6 +3544,24 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
+    },
+    {
+      "album": {
+        "name": "La Venganza De Tina (En Vivo)",
+        "url": "https://open.spotify.com/album/1tuzHZlbW6BAsqYTEUJhmm"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195541,
+      "name": "La Venganza De Tina (En Vivo)",
+      "url": "https://open.spotify.com/track/30ny6TIdHONtE26rgEJpkw"
     },
     {
       "album": {
@@ -4412,7 +4466,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224387,
       "name": "N1, el Perfil o el Chavalon - En Vivo",
       "url": "https://open.spotify.com/track/0foKTkWsTnXXEl0rGrqFDy"
@@ -4430,7 +4484,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 215400,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
@@ -5087,6 +5141,28 @@
     },
     {
       "album": {
+        "name": "California Deluxe, Parte 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5Y3lR4Z7tEHb7tar38rYcA"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129542,
+      "name": "Sal\u00ed Pal Norte - En Vivo",
+      "url": "https://open.spotify.com/track/4TByMB8sEC0TxJKYuKb8E7"
+    },
+    {
+      "album": {
         "name": "Sangre De Reyes (En Vivo)",
         "url": "https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E"
       },
@@ -5559,6 +5635,42 @@
     },
     {
       "album": {
+        "name": "Hasta Que Se Apag\u00f3 El Carb\u00f3n...",
+        "url": "https://open.spotify.com/album/51n0ozzAIBKpsXxTch4M50"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189552,
+      "name": "Una Explicaci\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/43Wlm3QVR47gG6MHXF9GoG"
+    },
+    {
+      "album": {
+        "name": "Cantando en casa",
+        "url": "https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143893,
+      "name": "Una flor quise cortar",
+      "url": "https://open.spotify.com/track/0GQtlRggAcNzT8NLmqvODG"
+    },
+    {
+      "album": {
         "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
         "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
       },
@@ -5661,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Vol.4",
+        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226101,
+      "name": "Y Por Lo Pronto - En Vivo",
+      "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -5720,6 +5850,24 @@
       "duration_ms": 198826,
       "name": "Ya Es Muy Tarde - En Vivo",
       "url": "https://open.spotify.com/track/6Q8gRaUgFm0PrDV2nzg7Zv"
+    },
+    {
+      "album": {
+        "name": "Cantando en casa",
+        "url": "https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271044,
+      "name": "Ya est\u00e1n cantando los gallos",
+      "url": "https://open.spotify.com/track/5fkOdxlV88uja5Hu3gS4NT"
     },
     {
       "album": {
@@ -5810,7 +5958,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 158268,
       "name": "\u00bfQu\u00e9 Caso Tiene? - En Vivo",
       "url": "https://open.spotify.com/track/6vJ79p0FyRvDcdqV0GOHtU"

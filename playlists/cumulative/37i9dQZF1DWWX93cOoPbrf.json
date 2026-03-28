@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Antonin Padilla, Cheko MG en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Plan de Escape, Grupo Selectivo en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 175102,
       "name": "141",
       "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "album": {
+        "name": "15 A\u00f1os",
+        "url": "https://open.spotify.com/album/4xtkpRAmX1Sy9yoFjHyC71"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247104,
+      "name": "15 A\u00f1os",
+      "url": "https://open.spotify.com/track/1HhVb2idokJ5V0JDTIgnLU"
     },
     {
       "album": {
@@ -5927,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
+    },
+    {
+      "album": {
         "name": "Retro-Corridos, Vol. 2",
         "url": "https://open.spotify.com/album/0lzTVbPrR9DTpiX6LqJ9Gj"
       },
@@ -6164,7 +6200,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 187083,
       "name": "D.E.T",
       "url": "https://open.spotify.com/track/3S9eiYtzbW6xVeSI8c3tcK"
@@ -8418,7 +8454,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 217834,
       "name": "El Barbas",
       "url": "https://open.spotify.com/track/4WjwH2By59jF7ND6XA9YZh"
@@ -16265,6 +16301,24 @@
     },
     {
       "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190536,
+      "name": "ESO SI ES DE GANGSTER",
+      "url": "https://open.spotify.com/track/6BYbqI9bkD74ycmCcpwVe5"
+    },
+    {
+      "album": {
         "name": "Esperando Mi Suerte",
         "url": "https://open.spotify.com/album/3wPdknofMpDr7Pux0enC5S"
       },
@@ -17836,6 +17890,24 @@
       "duration_ms": 167367,
       "name": "gervonta",
       "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
+    },
+    {
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147567,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
     },
     {
       "album": {
@@ -21500,6 +21572,28 @@
       "duration_ms": 279734,
       "name": "La Nochebuena M\u00e1s Triste",
       "url": "https://open.spotify.com/track/3tJ6nVpIt37M3KiYQB8jAm"
+    },
+    {
+      "album": {
+        "name": "Mis Compas El Final",
+        "url": "https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203710,
+      "name": "La Opini\u00f3n",
+      "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
     },
     {
       "album": {
@@ -27761,6 +27855,28 @@
     },
     {
       "album": {
+        "name": "Nomas Pa Que Sepan",
+        "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169830,
+      "name": "Nomas Pa Que Sepan",
+      "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "album": {
         "name": "Noruega",
         "url": "https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC"
       },
@@ -27940,7 +28056,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 147750,
       "name": "Obsesi\u00f3n De Ni\u00f1o",
       "url": "https://open.spotify.com/track/3cba4GzduJqGUKDNCOVcwz"
@@ -28996,7 +29112,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 166106,
       "name": "Placosa La Troka",
       "url": "https://open.spotify.com/track/6ysS0xzwu6fz2Y6sB9ZQ0S"
@@ -31452,7 +31568,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 163164,
       "name": "Se Pasea La Princesita",
       "url": "https://open.spotify.com/track/2LQNilBsXGj9jtRabfYA7j"
@@ -34424,7 +34540,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 159109,
       "name": "Tumbense El Rollo",
       "url": "https://open.spotify.com/track/00DeA25KmuHLM4Vnqd6y2K"

@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2697,
+  "num_followers": 2701,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "\u00a1BANG BANG!",
+        "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 173000,
       "name": "Yalleg\u00f3",
       "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "\u00a1BANG BANG!",
-        "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I"
     },
     {
       "added_at": "2025-10-10 17:36:00",

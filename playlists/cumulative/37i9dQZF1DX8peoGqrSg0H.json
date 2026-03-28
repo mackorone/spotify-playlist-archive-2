@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GEMINI",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 216494,
       "name": "BF",
       "url": "https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM"
@@ -1140,6 +1140,24 @@
       "duration_ms": 195195,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0kO4mdnP7JOXSmgjrZafac"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
     },
     {
       "album": {
@@ -1804,6 +1822,24 @@
       "duration_ms": 207000,
       "name": "HUH?",
       "url": "https://open.spotify.com/track/0utAUYiWZZatIr8hZ5SLGP"
+    },
+    {
+      "album": {
+        "name": "HURRICANE",
+        "url": "https://open.spotify.com/album/7KFCnbqQzV4qFyoqjTaGno"
+      },
+      "artists": [
+        {
+          "name": "NAMP",
+          "url": "https://open.spotify.com/artist/3PswRd4t5e69N3OEMZrzSA"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "HURRICANE",
+      "url": "https://open.spotify.com/track/4EBha8njgnyRajfMvrvfBW"
     },
     {
       "album": {
@@ -2967,6 +3003,28 @@
     },
     {
       "album": {
+        "name": "Not The Best But Still Good (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
+        "url": "https://open.spotify.com/album/63OpYylyNXwzwo5hse1AxZ"
+      },
+      "artists": [
+        {
+          "name": "TEETEE",
+          "url": "https://open.spotify.com/artist/2dsc5BVS6AVRv99iXNBMTO"
+        },
+        {
+          "name": "Por Suppakarn",
+          "url": "https://open.spotify.com/artist/0MDoSGuZKbwMhpA5MZv703"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "Not The Best But Still Good (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
+      "url": "https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn"
+    },
+    {
+      "album": {
         "name": "nowhere (\u0e44\u0e21\u0e48\u0e1c\u0e39\u0e01\u0e21\u0e31\u0e14 \u0e44\u0e21\u0e48\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19)",
         "url": "https://open.spotify.com/album/4jX1nrWGV4InsSnJzWg8hR"
       },
@@ -3444,6 +3502,24 @@
       "duration_ms": 169523,
       "name": "Salsa No Drama",
       "url": "https://open.spotify.com/track/50pfIFByCcalSljlTNIgrB"
+    },
+    {
+      "album": {
+        "name": "SEASON",
+        "url": "https://open.spotify.com/album/329ccxS7VMcYSktPFbFol2"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "SEASON",
+      "url": "https://open.spotify.com/track/5CSLorshBm7YRm1mvpaYSP"
     },
     {
       "album": {
@@ -5174,7 +5250,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203013,
       "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) - From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series",
       "url": "https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj"
@@ -9085,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
+        "url": "https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
+      "url": "https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e04\u0e48\u0e2d\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Last Request)",
         "url": "https://open.spotify.com/album/0qUTOrRpXLVKgcW1uCYR1o"
       },
@@ -10626,7 +10724,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 195500,
       "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
       "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
@@ -14704,7 +14802,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 202235,
       "name": "\u0e41\u0e21\u0e48\u0e1a\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ"
@@ -15666,7 +15764,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 144000,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e35\u0e1a\u0e07\u0e31\u0e1a\u0e1b\u0e4b\u0e21 (Don't Rush!)",
       "url": "https://open.spotify.com/track/6V5mI4Ey65xUpPR7iJi0zn"

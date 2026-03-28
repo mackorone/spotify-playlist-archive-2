@@ -14739,6 +14739,24 @@
     },
     {
       "album": {
+        "name": "Si riparano ricordi",
+        "url": "https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1"
+      },
+      "artists": [
+        {
+          "name": "Piotta",
+          "url": "https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171567,
+      "name": "E cos\u00ec te ne vai",
+      "url": "https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz"
+    },
+    {
+      "album": {
         "name": "Perfetto imperfetto",
         "url": "https://open.spotify.com/album/14aYnO4eGHEyBjEl4tF6zo"
       },
@@ -46893,7 +46911,7 @@
     },
     {
       "album": {
-        "name": "Surfboard",
+        "name": "SURFBOARD",
         "url": "https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF"
       },
       "artists": [
@@ -46910,7 +46928,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212727,
-      "name": "Surfboard",
+      "name": "SURFBOARD",
       "url": "https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384"
     },
     {
@@ -50664,24 +50682,6 @@
       "duration_ms": 186720,
       "name": "Tra le onde",
       "url": "https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc"
-    },
-    {
-      "album": {
-        "name": "Si riparano ricordi",
-        "url": "https://open.spotify.com/album/04WzJ7cxlVoN77nNXvxHm1"
-      },
-      "artists": [
-        {
-          "name": "Piotta",
-          "url": "https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/09WwM5nvU1irMW2CXYZipz"
     },
     {
       "album": {

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: MonoNeon
+> The best of today's funk\. Cover: The Philharmonik
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,547 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,589 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One More Hit](https://open.spotify.com/track/72aGI2Ou1FxGFRUEaLzoFQ) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [One More Hit](https://open.spotify.com/album/4Xvfd1guvTrWHj1vKaa5v8) | 2:55 |
-| 2 | [GETCHONAME](https://open.spotify.com/track/45PhU1YgJYSqUrXoYbgWy8) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [GETCHONAME](https://open.spotify.com/album/3Arfa3wDPNpNb6GieQ6KGM) | 2:47 |
-| 3 | [Which Side You're On](https://open.spotify.com/track/5F9qFX3tPKWdEvy9OikkHT) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Which Side You're On](https://open.spotify.com/album/3BAhmSlTgUFpeiN9H5uLdw) | 3:36 |
+| 1 | [Writing On The Wall](https://open.spotify.com/track/5fO61R5NP6MENpsvADXQ1K) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Transcendentalism I](https://open.spotify.com/album/5sIV04LlLJ7PlwmS7EZw5F) | 3:29 |
+| 2 | [One More Hit](https://open.spotify.com/track/72aGI2Ou1FxGFRUEaLzoFQ) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [One More Hit](https://open.spotify.com/album/4Xvfd1guvTrWHj1vKaa5v8) | 2:55 |
+| 3 | [GETCHONAME](https://open.spotify.com/track/45PhU1YgJYSqUrXoYbgWy8) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [GETCHONAME](https://open.spotify.com/album/3Arfa3wDPNpNb6GieQ6KGM) | 2:47 |
 | 4 | [Runnin'](https://open.spotify.com/track/5OgeCVeIpbhGGfRtkjaXxt) | [Pockets](https://open.spotify.com/artist/1puOMsBwXpCEU7lk1rjYK2), [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runnin'](https://open.spotify.com/album/1Kf9kAAluhR6x74DVIytsI) | 3:59 |
 | 5 | [Filter](https://open.spotify.com/track/27x84waijAjKcpnlB79giI) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Filter](https://open.spotify.com/album/3Leo9qjxyd7KxYYRLvfh8a) | 3:06 |
 | 6 | [Blame It On The Moon](https://open.spotify.com/track/1dVkXJh3lQnnybKKbKyT65) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Blame It On The Moon](https://open.spotify.com/album/2UBLrV1nUoxMq8n8pYQPRC) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Heavy \(Wake the Wild Remix\)](https://open.spotify.com/track/2HStqTtRnHeqwNoq2lvdsh) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Heavy \(Wake the Wild Remix\)](https://open.spotify.com/album/1pDoHLUbVmhNTndhoEPjnG) | 3:31 |
 | 100 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 |
 
-Snapshot ID: `AAAAALO7UWo0JrqgJsn71HlQKovIs/cw`
+Snapshot ID: `AAAAABu5jFT3bpY41+uekg9HoZ58FJKo`

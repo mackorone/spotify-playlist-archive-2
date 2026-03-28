@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-502 songs - 1 day 6 hr 9 min
+503 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Hi Laila](https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Hi Laila](https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m) | 3:43 | 2024-12-13 | 2026-01-21 |
 | [Idega Prema](https://open.spotify.com/track/064ixsMnRni9dj13BoOXvT) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu) | [Idega Prema](https://open.spotify.com/album/2OdQtTapi5rAT2shgxiyd1) | 5:12 | 2024-01-18 | 2024-04-26 |
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 | 2025-08-15 |
-| [Idhivarakepudu](https://open.spotify.com/track/2X171GMMznwh0UZr5QJ0gF) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Idhivarakepudu](https://open.spotify.com/album/2K0f2Co8UA0qxGwKmGPGkY) | 3:58 | 2025-11-06 |  |
+| [Idhivarakepudu](https://open.spotify.com/track/2X171GMMznwh0UZr5QJ0gF) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Idhivarakepudu](https://open.spotify.com/album/2K0f2Co8UA0qxGwKmGPGkY) | 3:58 | 2025-11-06 | 2026-03-28 |
 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 | 2023-04-05 | 2023-07-04 |
 | [INDIAN HIPHOP](https://open.spotify.com/track/113BYbdqf0kWunlw3ZG6nb) | [IN SAINITY](https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj), [MAAMSAHARI](https://open.spotify.com/artist/7hwk312K7gTvkDm62e36eR) | [INDIAN HIPHOP](https://open.spotify.com/album/423h0WhPvPaMpQaeBAngli) | 2:50 | 2025-09-05 | 2025-11-12 |
 | [Indrajaalam](https://open.spotify.com/track/6bBtQflwHLrskjlPciYyoI) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Indrajaalam](https://open.spotify.com/album/2ih6hzcJEBCmeKgXJbIivT) | 4:26 | 2022-10-28 | 2023-05-26 |
@@ -259,6 +259,7 @@
 | [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 | 2024-10-01 | 2024-12-21 |
 | [Nachadhe](https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Nachadhe](https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc) | 3:18 | 2024-09-25 | 2025-09-16 |
 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 | 2023-10-11 |
+| [Nalla Addhal](https://open.spotify.com/track/7atlt82FhkVXvZ40OyvltP) | [ARKID ZANE](https://open.spotify.com/artist/52zmye5qgCJW85bpleNsko) | [N.E.N.U \(Nothing Ever Numbs Us\)](https://open.spotify.com/album/1lPCz7OHCzmlvoemqTJBzl) | 3:14 | 2026-03-27 |  |
 | [Nalo](https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Nalo](https://open.spotify.com/album/3FRkVdClzNnYcYllwG2v6Q) | 2:23 | 2026-02-20 |  |
 | [Namma Raa Nesthama](https://open.spotify.com/track/3sAzCBUjCfW5b3sPvFY6Uw) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv) | [Namma Raa Nesthama](https://open.spotify.com/album/7rmKWAVqfU3H5CoDx9657n) | 4:55 | 2024-07-29 | 2025-10-24 |
 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 | 2024-03-26 | 2024-07-31 |

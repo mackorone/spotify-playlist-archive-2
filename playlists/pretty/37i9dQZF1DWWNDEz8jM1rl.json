@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 155321,
+  "num_followers": 155337,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Abatido",
-        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Makaco el Cerebro",
-          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
-        }
-      ],
-      "duration_ms": 289043,
-      "name": "Abatido",
-      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 240136,
       "name": "Eres Mi Bendicion (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/3lMZAnQgm5Sjr6KDR0uZNw"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Abatido",
+        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Makaco el Cerebro",
+          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
+        }
+      ],
+      "duration_ms": 289043,
+      "name": "Abatido",
+      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Esta VIDA es una SOLA",
-        "url": "https://open.spotify.com/album/2fhqjbwXudU64GrGc7Vyk1"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "Esta VIDA es una SOLA",
-      "url": "https://open.spotify.com/track/6om1gtHJvJjC7cUZK6djoE"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/7AmFvgPJvwvPiSNNT2WwiM"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 208146,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/1UIsRbF0BDVaxWKI0PHjQ8"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Esta VIDA es una SOLA",
+        "url": "https://open.spotify.com/album/2fhqjbwXudU64GrGc7Vyk1"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "Esta VIDA es una SOLA",
+      "url": "https://open.spotify.com/track/6om1gtHJvJjC7cUZK6djoE"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 206367,
-      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 157685,
       "name": "Eco",
       "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 206367,
+      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
+      },
+      "artists": [
+        {
+          "name": "Eiem",
+          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
-      },
-      "artists": [
-        {
-          "name": "Eiem",
-          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Ya Casi (EP)",
         "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
       },
@@ -839,6 +839,38 @@
       "duration_ms": 210000,
       "name": "Perfecto Amor",
       "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -867,38 +899,6 @@
       "duration_ms": 169494,
       "name": "EASY - REMIX",
       "url": "https://open.spotify.com/track/2X3oy7KFbJcaMPl2pT8j9t"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Probar de Ti",
-        "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "duration_ms": 153366,
-      "name": "Probar de Ti",
-      "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Probar de Ti",
+        "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 153366,
+      "name": "Probar de Ti",
+      "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 177804,
       "name": "Pasa La Pagina",
       "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1639,6 +1623,22 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1843,18 +1843,26 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+        "name": "Tu Eres Mi Alegr\u00eda",
+        "url": "https://open.spotify.com/album/0RoX4wyu0X44BsiILlt41z"
       },
       "artists": [
         {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+          "name": "Nitro X",
+          "url": "https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW"
+        },
+        {
+          "name": "Kaelyn Reese",
+          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
+        },
+        {
+          "name": "TTIMO",
+          "url": "https://open.spotify.com/artist/6uQtVt05v9t3SmaYZlgaG9"
         }
       ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+      "duration_ms": 208321,
+      "name": "Tu Eres Mi Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg"
     },
     {
       "added_at": "2026-03-23 15:09:03",

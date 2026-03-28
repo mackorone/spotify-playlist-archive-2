@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 176142,
       "name": "Espacial No Especial",
       "url": "https://open.spotify.com/track/7gcAKkeVvjys3ZHeXdUMxs"
@@ -4953,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "Nalguita y Teta",
+        "url": "https://open.spotify.com/album/0jwalP0wios13VlRWKILbC"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Nalguita y Teta",
+      "url": "https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ"
+    },
+    {
+      "album": {
         "name": "Ni bien ni mal",
         "url": "https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs"
       },
@@ -6328,6 +6346,32 @@
       "duration_ms": 202409,
       "name": "Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/4WLsCjZDZG1An9BrbVyN4c"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Quieres De M\u00ed?",
+        "url": "https://open.spotify.com/album/1C7xEBM6Ng2RBDeMZUTJjz"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194677,
+      "name": "Qu\u00e9 Quieres De M\u00ed?",
+      "url": "https://open.spotify.com/track/0kBWmn3W9bl8ZnVmU3cxAE"
     },
     {
       "album": {
@@ -7852,7 +7896,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 155675,
       "name": "TUxXxiPiNK!",
       "url": "https://open.spotify.com/track/1pxAhBf1WyjHCydsuv5nsh"
@@ -7993,7 +8037,7 @@
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160624,
+      "duration_ms": 156500,
       "name": "UN GUSTO",
       "url": "https://open.spotify.com/track/74XvuYXS9VjhlnEn9Ctf7y"
     },

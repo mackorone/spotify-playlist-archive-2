@@ -5595,6 +5595,32 @@
     },
     {
       "album": {
+        "name": "Villainous (feat. Maria Brink of In This Moment)",
+        "url": "https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Maria Brink",
+          "url": "https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR"
+        },
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "Villainous (feat. Maria Brink of In This Moment)",
+      "url": "https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X"
+    },
+    {
+      "album": {
         "name": "Voodoo Doll",
         "url": "https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv"
       },

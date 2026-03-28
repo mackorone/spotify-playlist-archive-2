@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,223 songs - 4 day 22 hr 0 min
+2,224 songs - 4 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Cambiaron Las Cosas](https://open.spotify.com/track/3rBGk2iShKhDnWdyDO7hFK) | [Sin Futuro Mafia](https://open.spotify.com/artist/5R0hPD0TwLNLBWUyO7Y3hj), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Alvso](https://open.spotify.com/artist/5kNCvXZufkVxoFzx4l9EtW) | [Sin Futuro Mafia](https://open.spotify.com/album/2jBofPmg0HORzb1b4kqfuN) | 3:08 | 2025-06-24 | 2025-07-06 |
 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 | 2026-02-03 | 2026-02-11 |
 | [Cancion Del Mariachi](https://open.spotify.com/track/6ADGPL0l00u9jjljylhBem) | [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Cancion Del Mariachi](https://open.spotify.com/album/46j2ikC4XOmxbBYV79DbUu) | 2:07 | 2025-07-02 | 2025-07-13 |
+| [Canción De Alicia En El País \- Remastered 2012](https://open.spotify.com/track/519WGo9DQCtYP72a7Lmprj) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Bicicleta \(Remastered 2012\)](https://open.spotify.com/album/1qaq3gfrFUMwNoZ5lM2i7z) | 4:24 | 2026-03-27 |  |
 | [Canción Sin Miedo](https://open.spotify.com/track/4txaBpmZBOneum5HnxKKnJ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:33 | 2024-03-11 | 2024-03-17 |
 | [Caos](https://open.spotify.com/track/0lBWid38bC0D7Iro09xejL) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Caos](https://open.spotify.com/album/205zBCl3spQv1NObiYzk2r) | 2:39 | 2024-02-27 | 2024-03-10 |
 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 | 2024-12-10 | 2024-12-26 |
@@ -576,7 +577,7 @@
 | [El Hechizo RKT \(Techengue\) \- Remix](https://open.spotify.com/track/4XMXxeAxTaHxfPGZetCWak) | [Dj Taurus](https://open.spotify.com/artist/0HrRe20mw7pYwR5eN0ejab), [MorFed](https://open.spotify.com/artist/1eIC9s8LYgcW6h5kPEqDJe) | [El Hechizo RKT \(Techengue\) \[Remix\]](https://open.spotify.com/album/0T5WpE0E0NginETjKIVfaI) | 3:50 | 2024-01-29 | 2024-01-31 |
 | [El Hombre Puerco](https://open.spotify.com/track/1zjqTDMUxpWxmH0KFSt3OX) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 3:12 | 2025-06-03 | 2025-06-11 |
 | [El Hombre Que Yo Amo \- Demo](https://open.spotify.com/track/0BUXZKKEnlIxVO9QgHe2u9) | [Mara Tamagnini](https://open.spotify.com/artist/6z0soIuXjuXH2KunYAtz0q) | [El Hombre Que Yo Amo \(Demo\)](https://open.spotify.com/album/09j6MAxG7AluWTQJcXIJyJ) | 2:33 | 2026-01-27 | 2026-01-29 |
-| [el infierno en persona](https://open.spotify.com/track/2kN2e4CHerNHTOEO7EP22Q) | [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi) | [zelly](https://open.spotify.com/album/7lNdUIg9CS88Kye35acvOW) | 1:38 | 2026-03-24 |  |
+| [el infierno en persona](https://open.spotify.com/track/2kN2e4CHerNHTOEO7EP22Q) | [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi) | [zelly](https://open.spotify.com/album/7lNdUIg9CS88Kye35acvOW) | 1:38 | 2026-03-24 | 2026-03-28 |
 | [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 | 2025-01-14 | 2025-02-15 |
 | [El Ingeniero vs Me Rehuso \(Mashup dj Remix\)](https://open.spotify.com/track/6JcaezefReCHsaDoYxSSfI) | [Vilu Gontero](https://open.spotify.com/artist/5bPIRYYgVG70w7LNFW8a9P) | [El Ingeniero vs Me Rehuso \(Mashup dj Remix\)](https://open.spotify.com/album/1Lomk1ZStPZ1I80Zw1D3aV) | 3:42 | 2025-05-06 | 2025-05-11 |
 | [El Magnetismo](https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 1:28 | 2025-05-06 | 2025-05-24 |

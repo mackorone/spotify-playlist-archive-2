@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from RAYE, Central Cee, Robyn and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,897 likes - 98 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,568 likes - 98 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 42 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 |
 | 43 | [Found You](https://open.spotify.com/track/3fJH4BNXHp9052ookv4SYl) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Found You](https://open.spotify.com/album/1SBJWivs4OHUIcIKbUSWDE) | 3:36 |
 | 44 | [GIRL IS A KNIFE](https://open.spotify.com/track/5ydaxJclktz93A13R2fveZ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Do You Know Everything?](https://open.spotify.com/album/7sKoyAPsazCn5iqP4ZZtOw) | 2:56 |
-| 45 | [Track 3](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 0:00 |
+| 45 | [Pressure](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 2:11 |
 | 46 | [Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Love Is A State](https://open.spotify.com/album/5Zg0eoLb7vBv7EgqfTzxRZ) | 3:52 |
 | 47 | [I Gotta](https://open.spotify.com/track/2R7UKptnQM1ZHSYKb035aG) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Music For Lovers](https://open.spotify.com/album/00JviBshCN82s36PJNpMcX) | 3:37 |
 | 48 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 70 | [Workin'](https://open.spotify.com/track/35Dj515Ju4vvsGFVQ4YXPW) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [A.L.T.](https://open.spotify.com/album/1exLcroSoMKCdQ6NCohGJ0) | 3:56 |
 | 71 | [Glassman](https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Swan Songs](https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc) | 4:28 |
 | 72 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
-| 73 | [Track 8](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 0:00 |
+| 73 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 |
 | 74 | [how to cry](https://open.spotify.com/track/4ilVxVq2uBqucP2zQUt91p) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [how to cry](https://open.spotify.com/album/1ZE5hNkANjRaN012WP490o) | 3:23 |
 | 75 | [LEGENDARY STATUS](https://open.spotify.com/track/7atzfWlDlU5IfriEe75tIR) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Natty D](https://open.spotify.com/artist/4YVfy4E4spd1ZpHRpa5K8f), [Klaudia Keziah](https://open.spotify.com/artist/6LxjYYRkYzxpRzPxZy8mXW) | [LEGENDARY STATUS](https://open.spotify.com/album/7fdPnqw5zsToeczeJWu3ry) | 2:39 |
 | 76 | [say nothing](https://open.spotify.com/track/14kvSSMXYjRRath6EaxGlg) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Whole World As Vigil](https://open.spotify.com/album/1FijSy0VEvdrUTNCwJqgRJ) | 4:57 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 78 | [Motherlands](https://open.spotify.com/track/06sG5VlhwSezls1aa8Zy2m) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Motherlands](https://open.spotify.com/album/06K67wtSPJMfOuOhUzyCPJ) | 3:19 |
 | 79 | [Rainman](https://open.spotify.com/track/2WuQbARDnVaBP6iwpZPQlQ) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Rainman](https://open.spotify.com/album/3f2ZRPxpYfzsXDdncDs6mD) | 3:20 |
 | 80 | [True Love](https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [WILDFIRE](https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN) | 3:40 |
-| 81 | [Track 10](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 0:00 |
+| 81 | [Guilty](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 2:36 |
 | 82 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 83 | [MARATHON](https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [MARATHON](https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1) | 2:49 |
 | 84 | [Phoenix](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Phoenix](https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx) | 2:24 |

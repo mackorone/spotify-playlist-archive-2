@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Tito Torbellino Jr en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Codiciado en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 156789,
       "name": "Ahora Estoy De M\u00e1s",
       "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 235392,
       "name": "Amigos Con Derechos - En Vivo",
       "url": "https://open.spotify.com/track/22NXjAZPjgkfFQO0gRBnI1"
@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/2eIenGkP3a7WijVIOf5GVO"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158559,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/5vya4fm5iIzzJUAWlwWuDK"
+    },
+    {
+      "album": {
         "name": "Pura Pieza De Mi Gusto, Vol. 2",
         "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
@@ -2272,6 +2290,28 @@
       "duration_ms": 206533,
       "name": "Castillo De Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/4fULKqADhPqLutoSfZZtEo"
+    },
+    {
+      "album": {
+        "name": "Celos Enfermizos",
+        "url": "https://open.spotify.com/album/0qNnjHc7i5p5YoJhViSgAg"
+      },
+      "artists": [
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Celos Enfermizos",
+      "url": "https://open.spotify.com/track/7EqaHbY1uwWET2CwpCj1c2"
     },
     {
       "album": {
@@ -3026,6 +3066,24 @@
       "duration_ms": 167000,
       "name": "Cuando Dijiste Adi\u00f3s",
       "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
+    },
+    {
+      "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "album": {
@@ -6893,6 +6951,24 @@
     },
     {
       "album": {
+        "name": "Flor De Capomo",
+        "url": "https://open.spotify.com/album/10M4VCHai7mAOcjUtgypBM"
+      },
+      "artists": [
+        {
+          "name": "Los Rabiosos del norte",
+          "url": "https://open.spotify.com/artist/6IKMTKOYzisBPjgTtKPw4k"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179433,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/2Lg3Mytou7RnwZbYrFXlAz"
+    },
+    {
+      "album": {
         "name": "Pura Pieza De Mi Gusto, Vol. 2",
         "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
@@ -7218,6 +7294,24 @@
       "duration_ms": 144561,
       "name": "Gente del F1",
       "url": "https://open.spotify.com/track/18BxN76lhDm1F2K8Mg3bk8"
+    },
+    {
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147567,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
     },
     {
       "album": {
@@ -7930,7 +8024,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 147750,
       "name": "Justo En El Cora",
       "url": "https://open.spotify.com/track/0bkxr2YDc09a2ghJbD2UTe"
@@ -9154,7 +9248,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 220184,
       "name": "Las Caguamas",
       "url": "https://open.spotify.com/track/1wp7Br6IhQNgmnwTSn3orZ"
@@ -10650,7 +10744,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 192234,
       "name": "Mi Kid",
       "url": "https://open.spotify.com/track/4lKKLawxuOjwuQ1buFGhAp"
@@ -12071,6 +12165,28 @@
     },
     {
       "album": {
+        "name": "Nomas Pa Que Sepan",
+        "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169830,
+      "name": "Nomas Pa Que Sepan",
+      "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -12444,6 +12560,24 @@
       "duration_ms": 185735,
       "name": "Pap\u00e1 Mundo",
       "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
+    },
+    {
+      "album": {
+        "name": "Para Bien o Para Mal",
+        "url": "https://open.spotify.com/album/0HQxejwYA5ky23ztbKpoog"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Para Bien o Para Mal",
+      "url": "https://open.spotify.com/track/6vIv1jSmIqEjPFwaHp3MW3"
     },
     {
       "album": {
@@ -13310,7 +13444,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 144791,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
@@ -13436,7 +13570,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 224490,
       "name": "Pueblito",
       "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
@@ -14654,7 +14788,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 215117,
       "name": "Siempre Ibas A Estar",
       "url": "https://open.spotify.com/track/5lcaUxGoGJm4yNW3RAN0M6"
@@ -15403,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "TAN FACIL",
+        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162711,
+      "name": "TAN FACIL",
+      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+    },
+    {
+      "album": {
         "name": "Tan Il\u00f3gico",
         "url": "https://open.spotify.com/album/4bCIsqj4PNtpvWNSSHRRvb"
       },
@@ -15830,6 +15982,24 @@
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
+    },
+    {
+      "album": {
+        "name": "Tiempos Perfectos",
+        "url": "https://open.spotify.com/album/5F5TGGoEc2dhGIBBlSEwL0"
+      },
+      "artists": [
+        {
+          "name": "Los Mentados De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161037,
+      "name": "Tiempos Perfectos",
+      "url": "https://open.spotify.com/track/6gwlGxgzU0P4I13tPlrLP1"
     },
     {
       "album": {
@@ -16296,7 +16466,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 203500,
       "name": "Un Enga\u0144o Mas",
       "url": "https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ"
@@ -16412,7 +16582,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 205295,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/0mR2PTNHzFUYmIag4PEVNY"
@@ -16596,7 +16766,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 153137,
       "name": "Valiendo VRG",
       "url": "https://open.spotify.com/track/1v2ZTWxQdzWK9c6CmndvYk"
@@ -16636,6 +16806,28 @@
       "duration_ms": 168878,
       "name": "Varios A\u00f1os",
       "url": "https://open.spotify.com/track/5bCibcsWBAsa4Pqjg4ZR9q"
+    },
+    {
+      "album": {
+        "name": "Vengache Pa\u2019 Aca",
+        "url": "https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163667,
+      "name": "Vengache Pa\u2019 Aca",
+      "url": "https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl"
     },
     {
       "album": {
@@ -17012,6 +17204,24 @@
       "duration_ms": 189903,
       "name": "Y Lloro",
       "url": "https://open.spotify.com/track/41QZr6pc6EtWPtPMMqc0Yx"
+    },
+    {
+      "album": {
+        "name": "En Vivo Vol.4",
+        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226101,
+      "name": "Y Por Lo Pronto - En Vivo",
+      "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
     },
     {
       "album": {

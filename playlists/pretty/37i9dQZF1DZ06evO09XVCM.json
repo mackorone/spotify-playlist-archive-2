@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35029,
+  "num_followers": 35032,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAADQ+j5spnnfeUZXkaJ7VgxW",
+  "snapshot_id": "acR3AAAAAAA1nREVfc8nF8CumwKA7utv",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Circle Of Peace",
+      "url": "https://open.spotify.com/track/6xqnSKk0vyzp8KhkeKj9oG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
         "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 243226,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/1VilEaotlgWLe02BEUIyZP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Circle Of Peace",
-      "url": "https://open.spotify.com/track/6xqnSKk0vyzp8KhkeKj9oG"
     },
     {
       "added_at": null,

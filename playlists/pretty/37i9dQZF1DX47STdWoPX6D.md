@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Dell Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,162 likes - 99 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,190 likes - 99 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 26 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs), [Rudoson](https://open.spotify.com/artist/5Fy5Bk5iT1L2FkrIHRLdiS), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
 | 27 | [VI\. BRING A LIGHT](https://open.spotify.com/track/0QnjrPQAAvpJJos8z5tY4K) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [1995](https://open.spotify.com/artist/5JbYUdjaOALZLyhYRI79K2) | [VI\. BRING A LIGHT](https://open.spotify.com/album/20coa8vidXHH3ydOTSXLAc) | 2:19 |
 | 28 | [The Love I Give](https://open.spotify.com/track/18Yax7PNiiTq7EWimqJ1Nl) | [Will Kellum](https://open.spotify.com/artist/6Bkf6jGjP12SdXs9otgLJ1) | [The Love I Give](https://open.spotify.com/album/1Fnfgwr6ez8RwRFya7nIGS) | 2:36 |
-| 29 | [Lost & Found](https://open.spotify.com/track/1XeucRhGXobiwkaFwTyIwX) | [J.Rob The Chief](https://open.spotify.com/artist/3eFvhpLbVKTlhGWaazeeG6) | [Lost & Found](https://open.spotify.com/album/4rOS0dIGvaKkY4kIOs132d) | 2:25 |
+| 29 | [Lost & Found](https://open.spotify.com/track/1XeucRhGXobiwkaFwTyIwX) | [Robbie Ray](https://open.spotify.com/artist/5ubbGqPguwPeb7kopswgbe) | [Lost & Found](https://open.spotify.com/album/4rOS0dIGvaKkY4kIOs132d) | 2:25 |
 | 30 | [Renovate](https://open.spotify.com/track/4tMRGNgEArg9V5IKa6phbP) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14), [Rabbi Recc](https://open.spotify.com/artist/02JB7ZgwMtDMBLmdDiHSkz) | [Renovate](https://open.spotify.com/album/1zv5SlS1I6AKnwP0XW67gO) | 3:33 |
 | 31 | [Above All Else](https://open.spotify.com/track/1VIdaPSQgVe1jkgRj94pWz) | [Dee Black](https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI), [Mouthpi3ce](https://open.spotify.com/artist/5ccLg9PXtgNpXdkIzw7Pvw), [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Above All Else](https://open.spotify.com/album/74y1NFF0w6tFbyfWG1xtwU) | 2:44 |
 | 32 | [Gave My Life](https://open.spotify.com/track/2KZM55HCrW4Mxrw38fXRwm) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [the north starr](https://open.spotify.com/album/4YBN34TJuHA5Z1uMPw4MuW) | 3:18 |

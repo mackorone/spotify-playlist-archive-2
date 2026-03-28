@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3133,
+  "num_followers": 3135,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAACsaXeXRyo56h6YzSMW6+0n",
+  "snapshot_id": "acR3AAAAAACRq/4gR8DE7OeXMC6tRD5x",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return of the Giant Slits",
-        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 400906,
-      "name": "Animal Space / Spacier",
-      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full moon",
         "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 183960,
       "name": "Full moon",
       "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return of the Giant Slits",
+        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 400906,
+      "name": "Animal Space / Spacier",
+      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
     },
     {
       "added_at": null,
@@ -299,54 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return of the Giant Slits",
-        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 95960,
-      "name": "Shoplifting",
-      "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at the Gibus Club",
         "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
       },
@@ -372,9 +324,41 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Or What Is It?",
-      "url": "https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1"
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 95960,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 212506,
       "name": "Grapevine (Live)",
       "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return of the Giant Slits",
+        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Or What Is It?",
+      "url": "https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83789,
+  "num_followers": 83783,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
+        "url": "https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs"
+      },
+      "artists": [
+        {
+          "name": "MC Teuzin PV",
+          "url": "https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ"
+        },
+        {
+          "name": "MC Skcot",
+          "url": "https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb"
+        }
+      ],
+      "duration_ms": 115807,
+      "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
+      "url": "https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "202 (Speed)",
         "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 102250,
       "name": "Plug! (Speed Plug)",
       "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
-        "url": "https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs"
-      },
-      "artists": [
-        {
-          "name": "MC Teuzin PV",
-          "url": "https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ"
-        },
-        {
-          "name": "MC Skcot",
-          "url": "https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb"
-        }
-      ],
-      "duration_ms": 115807,
-      "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
-      "url": "https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Joga na Cara (Vers\u00e3o Speed)",
+        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Joga na Cara (Vers\u00e3o Speed)",
+      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Kill Bill - Speed",
         "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
       },
@@ -427,22 +447,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Joga na Cara (Vers\u00e3o Speed)",
-        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
       "artists": [
         {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
         },
         {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
         }
       ],
-      "duration_ms": 97714,
-      "name": "Joga na Cara (Vers\u00e3o Speed)",
-      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -467,26 +487,6 @@
       "duration_ms": 120100,
       "name": "Karma - Speed",
       "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
     },
     {
       "added_at": "2024-07-08 19:10:57",

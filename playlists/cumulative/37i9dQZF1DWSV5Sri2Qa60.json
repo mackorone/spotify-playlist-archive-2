@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Little Less",
+        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202887,
+      "name": "A Little Less",
+      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
+    },
+    {
+      "album": {
         "name": "Adam & Steve",
         "url": "https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 255579,
       "name": "Are You Bored",
       "url": "https://open.spotify.com/track/6bUfyombLi4XwgCTunf3kf"
+    },
+    {
+      "album": {
+        "name": "Articulate Animal",
+        "url": "https://open.spotify.com/album/1KUSPQqbqX91snE9Jm7xE6"
+      },
+      "artists": [
+        {
+          "name": "Lemoncello",
+          "url": "https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "Articulate Animal",
+      "url": "https://open.spotify.com/track/5kGKAC4Pk7OUWT91SkfPTZ"
     },
     {
       "album": {
@@ -772,7 +808,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 161013,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/4sH3K3n7qYxp14WyWy3sQA"
@@ -794,6 +830,24 @@
       "duration_ms": 218537,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1byfGV9rZiQ6JUWusNlFSm"
+    },
+    {
+      "album": {
+        "name": "carry your bones",
+        "url": "https://open.spotify.com/album/1ZmIcfNws491tDsq1ypbgb"
+      },
+      "artists": [
+        {
+          "name": "bride and groom",
+          "url": "https://open.spotify.com/artist/4sYunLf1ig0MHniQyTffLF"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "carry your bones",
+      "url": "https://open.spotify.com/track/0eI8yKkZuxxFDHbR4ROzqS"
     },
     {
       "album": {
@@ -1103,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/2zDS01VT4oGDTJELj9pYD9"
+      },
+      "artists": [
+        {
+          "name": "the north",
+          "url": "https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181081,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/0jnPGD9FIVHa5SsM9upOr0"
+    },
+    {
+      "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/2QmEscO87UBIOXNH1wiQyX"
       },
@@ -1280,6 +1352,24 @@
       "duration_ms": 167277,
       "name": "Davey Says",
       "url": "https://open.spotify.com/track/0taAI29AhzNRcrnWhGPMwZ"
+    },
+    {
+      "album": {
+        "name": "dazed",
+        "url": "https://open.spotify.com/album/7h8ZMhcYjCYhEIdPVCNbiD"
+      },
+      "artists": [
+        {
+          "name": "drifting.",
+          "url": "https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "dazed",
+      "url": "https://open.spotify.com/track/27GUcXfqCPgS1njuwbvL30"
     },
     {
       "album": {
@@ -1672,7 +1762,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 196644,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/66mge0rOG9i1gUCnHOHKN5"
@@ -1762,7 +1852,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 213280,
       "name": "father's daughter",
       "url": "https://open.spotify.com/track/7mFcA8fmhx64jB3rngJZvD"
@@ -2212,7 +2302,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 187306,
       "name": "Golden Daze",
       "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
@@ -2360,6 +2450,24 @@
       "duration_ms": 166471,
       "name": "Harry",
       "url": "https://open.spotify.com/track/2VxJAC74aGYL22QGjHJFJu"
+    },
+    {
+      "album": {
+        "name": "Hate That I Care",
+        "url": "https://open.spotify.com/album/4VnlTJ6z3wN9XEzUeFl98Y"
+      },
+      "artists": [
+        {
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259583,
+      "name": "Hate That I Care",
+      "url": "https://open.spotify.com/track/04s4eUMRhrzjkX38qPbh2D"
     },
     {
       "album": {
@@ -3980,7 +4088,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 309973,
       "name": "Picto",
       "url": "https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn"
@@ -4661,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Snapdragon",
+        "url": "https://open.spotify.com/album/4GPzPtAUTCl0BvQ5MGM9zr"
+      },
+      "artists": [
+        {
+          "name": "Sandhouse",
+          "url": "https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168180,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/2MPPfi5cmH58o6MExajW6W"
+    },
+    {
+      "album": {
         "name": "Snow White",
         "url": "https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK"
       },
@@ -4690,7 +4816,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 118000,
       "name": "Snug Barber",
       "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
@@ -4996,7 +5122,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 278302,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV"
@@ -5626,7 +5752,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 136310,
       "name": "Watching Over Me",
       "url": "https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06"
@@ -5792,6 +5918,24 @@
       "duration_ms": 185133,
       "name": "Won't Obey",
       "url": "https://open.spotify.com/track/3W5cpcTbjcGLwqD4ktR0nY"
+    },
+    {
+      "album": {
+        "name": "won't speak again",
+        "url": "https://open.spotify.com/album/5otwUcLBDVYuk4TQU14TAs"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "won't speak again",
+      "url": "https://open.spotify.com/track/1ynfvyFOlaRb3HLC7WMS8c"
     },
     {
       "album": {

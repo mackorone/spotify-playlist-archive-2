@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: WANIMA
 
-3,088 songs - 8 day 0 hr 41 min
+3,089 songs - 8 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 | 2024-04-02 | 2024-04-19 |
 | [Kimochy](https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 3:18 | 2023-04-04 | 2023-05-12 |
 | [Kindanshoujo10](https://open.spotify.com/track/1MIqyPvm4m2TNxDOHfd8UL) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Kindanshoujo10](https://open.spotify.com/album/3LnnIo1ZpNxaFZp5benma9) | 3:36 | 2025-09-16 | 2025-10-08 |
+| [KINTSUGI feat\. Koie](https://open.spotify.com/track/5HxM1saoFXmxuegcBvf8gP) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Koie](https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC) | [KINTSUGI feat\. Koie](https://open.spotify.com/album/6rLUcfQJ9m1ZYNSrj5kcu0) | 3:23 | 2026-03-27 |  |
 | [Kirabune](https://open.spotify.com/track/1vIQ4j4tQ6jAKQ75sI1922) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [CITRUS CURIO CITY](https://open.spotify.com/album/243GjQxP8eSbAH16qcueQt) | 3:59 | 2024-11-19 | 2025-02-05 |
 | [Kirifuda \(feat\. TAKUMA from 10\-FEET\)](https://open.spotify.com/track/5vL44zUh8BW1BNJsE5TV45) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [Wabi Sabi \-Sabi\-](https://open.spotify.com/album/4rXzqtHbEYt1UyMQjFLRCR) | 2:29 | 2025-03-18 | 2025-04-02 |
 | [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 | 2025-10-21 | 2025-11-19 |
@@ -1159,7 +1160,7 @@
 | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/track/71ozKkId3VfVFpqT7T98cA) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/album/0oqiUTJKwoCEKjrbHpDfES) | 3:14 | 2023-05-16 | 2023-05-31 |
 | [S.O.S.\(さいていおよびさいあく\)](https://open.spotify.com/track/3Wq6qTf6EyS2ULINf2pcLv) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S.\(さいていおよびさいあく\)](https://open.spotify.com/album/2OFlLpgYjRqSvo7CS8tdcg) | 3:14 | 2023-05-16 | 2023-05-18 |
 | [Saa Hajimeyo](https://open.spotify.com/track/5GEYOWLJTeK2d49SzLbFf5) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [Saa Hajimeyo](https://open.spotify.com/album/1HY14kETSgJORY4E7cRiyI) | 4:29 | 2026-02-17 | 2026-03-04 |
-| [sacrifice](https://open.spotify.com/track/6XS45vIJtJdlAnXIOOj76L) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [sacrifice](https://open.spotify.com/album/1cCiuEQTIUzuLldt3ntB4B) | 1:49 | 2026-03-17 |  |
+| [sacrifice](https://open.spotify.com/track/6XS45vIJtJdlAnXIOOj76L) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [sacrifice](https://open.spotify.com/album/1cCiuEQTIUzuLldt3ntB4B) | 1:49 | 2026-03-17 | 2026-03-28 |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-08-22 | 2023-09-27 |
 | [Sad Song](https://open.spotify.com/track/7A6FL46PS9sa4xLKmUYvFP) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0KINjwUwxK2iRQIqVwQSmv) | 3:23 | 2023-08-22 | 2023-08-24 |
 | [Saiai No Yukue.](https://open.spotify.com/track/2hTcj0PSKDczMBV2DtwQhP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Saiai No Yukue.](https://open.spotify.com/album/7boDE5vcCHaPqBcibwH8f2) | 4:05 | 2023-12-05 | 2024-01-17 |

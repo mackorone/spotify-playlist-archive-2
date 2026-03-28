@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,759 likes - 112 songs - 7 hr 23 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,762 likes - 117 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 110 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 |
 | 111 | [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 |
 | 112 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 |
+| 113 | [Heavy](https://open.spotify.com/track/4PVLXOvVkAocdHWnMd1uKC) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [Fight Or Flight](https://open.spotify.com/album/4BzdHrKWyE1q0bXHAefLYp) | 5:44 |
+| 114 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 |
+| 115 | [Cry](https://open.spotify.com/track/4E0v2cl3rGm3xZHXbNgGiV) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 4:21 |
+| 116 | [You Know Why](https://open.spotify.com/track/1p9GJAvKBbWHdTE4PPcaXl) | [SHAHEV SEN](https://open.spotify.com/artist/39bVqvCrhbkvGCYtgg3Mw0) | [You Know Why](https://open.spotify.com/album/0LOEeuvLsJtykXkNsqzzL3) | 4:41 |
+| 117 | [Pasadena](https://open.spotify.com/track/49pZFYgeo8gRIpmbar1iqs) | [Jeff Butler](https://open.spotify.com/artist/6hWNFESgxwPMms42T2Fu9x) | [Pasadena](https://open.spotify.com/album/2A3Q7e5APcgUwQexc95GBZ) | 4:35 |
 
-Snapshot ID: `AAAK6yh2L88Y8h2DyjCS8v8+vIOl2Woj`
+Snapshot ID: `AAAK8HTfFuuWuRe0o40M86jEAY1m9cJl`

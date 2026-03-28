@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,246 songs - 9 day 10 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,248 songs - 9 day 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4254,5 +4254,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4244 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 |
 | 4245 | [7 Stories High](https://open.spotify.com/track/7lLkM5uwtOko2oRjudvNHp) | [Paytron Saint](https://open.spotify.com/artist/7fYqPJkpE2ME609cAy8HVG), [emzae](https://open.spotify.com/artist/07o9bmQoF82RqJz4ey7oJr) | [7 Stories High](https://open.spotify.com/album/7jicdugUw0UuzGNOqoQUPE) | 4:14 |
 | 4246 | [Dream \(Ek Khwaab\)](https://open.spotify.com/track/4DSXk7IIAQ6ZCyxaTFOuen) | [Sunsara](https://open.spotify.com/artist/2vcmaaRJAq9YmTX5OIbrqH) | [Dream \(Ek Khwaab\)](https://open.spotify.com/album/5dfliLlUA3EPs3WlSABvu5) | 3:02 |
+| 4247 | [Remain with Grey](https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Remain with Grey](https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW) | 3:34 |
+| 4248 | [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 |
 
-Snapshot ID: `AAAIFVTKgm2X9SH6aLhbeKcvEARq2QTg`
+Snapshot ID: `AAAIF18j2iW99+gKrWmRWgcwF9aCc1Hg`

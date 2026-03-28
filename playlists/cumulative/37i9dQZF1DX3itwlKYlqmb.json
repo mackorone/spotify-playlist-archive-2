@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "De est\u00e1 sierra a la otra sierra se divisa \nSan Jos\u00e9. En portada: Danny F\u00e9lix",
+  "description": "De est\u00e1 sierra a la otra sierra se divisa \nSan Jos\u00e9. En portada: Los Alegres de la Sierra",
   "name": "Pasito Sierre\u00f1o",
   "tracks": [
     {
@@ -5471,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Cantando en casa",
+        "url": "https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "La trenzuda",
+      "url": "https://open.spotify.com/track/5GVwxBUPRkQjB4LvFeBgnw"
+    },
+    {
+      "album": {
         "name": "Los Canelos 17 Exitos",
         "url": "https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY"
       },
@@ -10237,6 +10255,24 @@
     },
     {
       "album": {
+        "name": "Cantando en casa",
+        "url": "https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143893,
+      "name": "Una flor quise cortar",
+      "url": "https://open.spotify.com/track/0GQtlRggAcNzT8NLmqvODG"
+    },
+    {
+      "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
       },
@@ -10638,6 +10674,24 @@
       "duration_ms": 239306,
       "name": "Ya Estan Cantando los Gallos",
       "url": "https://open.spotify.com/track/0phceqGwuJIBCbqveTdBsK"
+    },
+    {
+      "album": {
+        "name": "Cantando en casa",
+        "url": "https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271044,
+      "name": "Ya est\u00e1n cantando los gallos",
+      "url": "https://open.spotify.com/track/5fkOdxlV88uja5Hu3gS4NT"
     },
     {
       "album": {

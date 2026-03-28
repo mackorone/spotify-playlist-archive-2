@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,997 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,999 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 30 | [話したいこと](https://open.spotify.com/track/3yrjK7wPGK8KBEs7BFxpGh) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [話したいこと](https://open.spotify.com/album/68ueeot3gIKOf4RzltZa0j) | 3:55 |
 | 31 | [ヨルノカタスミ](https://open.spotify.com/track/3yuPUKOjeVrKBzJZiXgIOP) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [ヨル ヲ ムカエニ](https://open.spotify.com/album/4mxo3trB2Ziv7ARCIGtTQ6) | 4:17 |
 | 32 | [トーキョーナイトダイブ](https://open.spotify.com/track/37UCqZmUcGXMmAHRg12fuS) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [kike](https://open.spotify.com/album/0C9SQBmFwAUgXvsZ4mkaKH) | 3:41 |
-| 33 | [白昼夢](https://open.spotify.com/track/4c3Yc94YVGOByi408921Fn) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [FIRST MOVE \(Special Edition\)](https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ) | 4:18 |
+| 33 | [白昼夢](https://open.spotify.com/track/4c3Yc94YVGOByi408921Fn) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [FIRST MOVE](https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ) | 4:18 |
 | 34 | [Pretender](https://open.spotify.com/track/5LkWXxDxUTwEVHL0pfKL55) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Pretender](https://open.spotify.com/album/5SM9Ykd2q8xfv1LBlVFlhz) | 5:26 |
 | 35 | [SAD SONG.](https://open.spotify.com/track/0RDv80jOB0bzsucUJtQJF9) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Velvet Grace](https://open.spotify.com/album/3XWJNVbKsVpQFMA7jIg9uy) | 2:32 |
 | 36 | [フラれてみたんだよ](https://open.spotify.com/track/7gbS4o4vxZmJatf8sFB8N3) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [フラれてみたんだよ](https://open.spotify.com/album/5GWMhgOGTTOKQ4gjusIt7G) | 4:32 |

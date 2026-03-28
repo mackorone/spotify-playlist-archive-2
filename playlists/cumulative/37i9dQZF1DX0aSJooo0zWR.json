@@ -3411,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Thrust",
+      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
+    },
+    {
+      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/6LhTsVh7o6NUHyecScBJ14"
       },

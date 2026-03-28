@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 11990,
+  "num_followers": 12007,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acMlgAAAAAAvuVT7HihCf2B/UtDxxtXT",
+  "snapshot_id": "acR3AAAAAAAIJ02N8hY5qbYu6J5dP3gD",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Talk Talk",
-        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Talk Talk Talk",
-      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold On Me (feat. Emei)",
         "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
       },
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
       },
       "artists": [
         {
@@ -440,9 +424,25 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 119900,
-      "name": "Human Being - Demo",
-      "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
+      "duration_ms": 195946,
+      "name": "Talk Talk Talk",
+      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR"
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD"
+      "duration_ms": 119900,
+      "name": "Human Being - Demo",
+      "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
     },
     {
       "added_at": null,

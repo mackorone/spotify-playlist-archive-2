@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover:  Andi Rianto, Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,632 likes - 101 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,648 likes - 101 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

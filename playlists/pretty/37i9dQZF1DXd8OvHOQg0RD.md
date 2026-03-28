@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 
 > Si se siente tranquilo, es ahí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,853 likes - 53 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,885 likes - 53 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

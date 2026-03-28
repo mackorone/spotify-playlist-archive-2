@@ -4,7 +4,7 @@
 
 > Hand\-picked grooves.
 
-473 songs - 1 day 4 hr 7 min
+473 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [The Ones We Loved](https://open.spotify.com/track/4gTWaM2SzQjZ75Q7u1vGvz) | [Georgie Sweet](https://open.spotify.com/artist/3krtDVQSQZcDFcKm29jim7) | [The Ones We Loved / Bedsheets](https://open.spotify.com/album/1QOxK5NmoQf0TpN0N8L2eG) | 4:43 | 2025-05-19 |  |
 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 | 2025-08-14 |  |
 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2022-09-09 | 2022-10-15 |
+| [The Rock \(feat\. 3DDY\)](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:49 | 2026-03-26 |  |
 | [Therapy](https://open.spotify.com/track/7rO5L6Eo85xO0fBJ6YKK27) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Therapy](https://open.spotify.com/album/0Rbs0JsOZzn5cbVVePLNpJ) | 4:36 | 2022-09-29 | 2024-03-21 |
 | [Things You Don't Say](https://open.spotify.com/track/3KSFfg72bfirtdDTm7LJaT) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Things You Don't Say](https://open.spotify.com/album/1M0jZfqAcF8D514Y1NFXzh) | 3:47 | 2023-06-22 | 2025-02-07 |
 | [This Ain't Loving Without You](https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 2:57 | 2022-10-14 | 2024-04-11 |
@@ -441,7 +442,6 @@
 | [Too Big \- Atjazz Remix](https://open.spotify.com/track/2PsqQ6h3BoK1nLoTsUqTUv) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Too Big \(Atjazz Remix\)](https://open.spotify.com/album/2Mpkl9q3cLbupeV9g3NeAs) | 4:08 | 2022-09-22 | 2022-09-28 |
 | [too fast](https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [too fast](https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp) | 3:14 | 2024-04-25 | 2025-12-13 |
 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 | 2023-10-05 | 2024-09-27 |
-| [Track 10](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 0:00 | 2026-03-26 |  |
 | [Treat Me Like A Star](https://open.spotify.com/track/76IEzUmZmrOoThFx0vKX4o) | [Naoma](https://open.spotify.com/artist/36QZEGnq3QtTsA1HtNe3QF) | [Treat Me Like A Star](https://open.spotify.com/album/40oatx8U2yVPoeccSUfQ1G) | 3:25 | 2025-03-13 | 2026-03-27 |
 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-09-09 | 2024-03-21 |
 | [Trippin](https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF) | 3:10 | 2023-11-16 | 2024-03-21 |

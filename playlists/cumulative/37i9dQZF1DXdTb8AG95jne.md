@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학 \(Gogohawk\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,290 songs - 3 day 6 hr 2 min
+1,292 songs - 3 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
 | [Dizzy](https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CODA](https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp) | 4:19 | 2025-09-16 | 2025-11-03 |
 | [Do You Believe in Love?](https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Do You Believe in Love?](https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht) | 3:29 | 2024-05-22 | 2024-06-19 |
+| [Do You Need My Love?](https://open.spotify.com/track/1qwCzGkeb2m67yrtWXXtbY) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Do You Need My Love?](https://open.spotify.com/album/4ZzfIglSSp9HBuNDWafoFM) | 2:44 | 2026-03-27 |  |
 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 | 2022-08-04 | 2024-01-31 |
 | [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 | 2025-04-11 | 2025-06-07 |
 | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/track/0GveX1FMRVjfXQtPJAvQJJ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/album/6i8NTK3zdu3TJxo1TR8uzG) | 3:16 | 2022-05-11 | 2022-05-24 |
@@ -338,7 +339,7 @@
 | [Falling Star](https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56) | [Up\-Dawn](https://open.spotify.com/artist/2iuvwj3RhVBo3OM1WTSlZu) | [Falling Star](https://open.spotify.com/album/163ztGWzGI1Wk6sB9QAPHG) | 4:03 | 2021-12-21 | 2022-07-21 |
 | [Far 멀리](https://open.spotify.com/track/7y4ye2TL1fT2WUTes5Q921) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Between 사이](https://open.spotify.com/album/6H8uxH4wbBRchrN1O6lgOh) | 3:34 | 2022-03-31 | 2022-04-16 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2021-12-21 | 2022-07-28 |
-| [Feel it Coming](https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM) | [xeom boi](https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M) | [Day 5](https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP) | 2:39 | 2026-02-02 |  |
+| [Feel it Coming](https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM) | [xeom boi](https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M) | [Day 5](https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP) | 2:39 | 2026-02-02 | 2026-03-28 |
 | [Feeling You](https://open.spotify.com/track/5wvADQcJzUbNE1s1SnKTC3) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4) | [Feeling You](https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c) | 2:45 | 2025-11-17 | 2026-01-15 |
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 | 2025-01-31 |
 | [Fighting! 응원해](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2022-10-07 | 2022-11-13 |
@@ -1010,6 +1011,7 @@
 | [Still Me](https://open.spotify.com/track/0AtVk8YAYvLWdEf0lnrVGq) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Afterimage](https://open.spotify.com/album/6gaUVkqNgwMGogFvBgRnru) | 3:12 | 2025-10-17 | 2025-11-11 |
 | [Still, Alive](https://open.spotify.com/track/2D6y91fPS8anxXLmYuFIIm) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Still, Alive](https://open.spotify.com/album/3YQzgiNGQQo8QBK3j4oxMS) | 3:41 | 2025-07-22 | 2025-08-19 |
 | [Stillness](https://open.spotify.com/track/2r4sl4hds7xyfT9im6N1ZL) | [pylat](https://open.spotify.com/artist/1zMe4f8RnQ4rEKV6DOHER3) | [Stillness](https://open.spotify.com/album/4iK991XKjt5gyJ2YrVqIHq) | 5:25 | 2025-01-30 | 2025-04-11 |
+| [Sting](https://open.spotify.com/track/55Rhc7hgkvZKs2SPUSdLBF) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Sting](https://open.spotify.com/album/5o5toYpusuMeQ4YaAH1Upf) | 2:48 | 2026-03-27 |  |
 | [Story Line \(Feat.Dawon\) \(Korean ver.\)](https://open.spotify.com/track/51ZLM32YbcAQ1aSl292T5N) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [Story Line](https://open.spotify.com/album/5QoTyucanJ6ilfPNENdseH) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/4uoKLZ5dHkP1NLHRudbQFw) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-23 | 2025-11-29 |
 | [Struggle](https://open.spotify.com/track/0vTFne5Auul5yGMFcWsNPU) | [JaeDal](https://open.spotify.com/artist/7eRzbxCxgpBeDQf07H6cwW) | [Struggle](https://open.spotify.com/album/5YRerCvXlvSVUIdAFksZHI) | 3:30 | 2022-03-31 | 2022-04-05 |
@@ -1139,7 +1141,7 @@
 | [Unhappy Ending](https://open.spotify.com/track/2Y3yV7ILRKPwJeO3ebbGNm) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Unhappy Ending](https://open.spotify.com/album/7vB2E47K84M1m1QH3Adto6) | 2:51 | 2026-03-25 |  |
 | [Universe](https://open.spotify.com/track/1PADgC899dnHdG6fXHBLS9) | [Blue Lamb](https://open.spotify.com/artist/1Cr1LdGDo0RY3ihHkXQt7m) | [Universe](https://open.spotify.com/album/4C3NODVeITNjrOpiyCFUIa) | 3:55 | 2022-03-31 | 2022-04-21 |
 | [unsaid](https://open.spotify.com/track/52KCHvo4qZRGqiu3W7hk17) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [unsaid](https://open.spotify.com/album/3Zj0XuAa3Xzl439gDiFArR) | 3:08 | 2025-11-28 | 2026-02-03 |
-| [Unstable](https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp) | [Itzel](https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O) | [Unstable](https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI) | 2:54 | 2026-02-09 |  |
+| [Unstable](https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp) | [Itzel](https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O) | [Unstable](https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI) | 2:54 | 2026-02-09 | 2026-03-28 |
 | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB) | [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR), [P.RAO](https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz) | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS) | 3:38 | 2024-01-30 | 2024-05-10 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |
 | [Untitled Youth](https://open.spotify.com/track/2seJWl70G8rJa4eNI2bef6) | [RYE](https://open.spotify.com/artist/1cxx3blWps3N86tFei5Yji) | [Untitled Youth](https://open.spotify.com/album/6UINEg2FXlzPV4WEDyx4Tp) | 3:29 | 2025-04-30 | 2025-05-14 |

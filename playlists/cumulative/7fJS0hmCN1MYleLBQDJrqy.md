@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Samuel Welten, Bankzitters
 
-134 songs - 6 hr 0 min
+135 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Ordinair](https://open.spotify.com/track/033bjiKl7ytbU1W9XRvZD8) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Ordinair](https://open.spotify.com/album/4ZlMuABcza8aefzN5yxfL4) | 2:34 | 2025-11-07 | 2026-02-11 |
 | [Over Datum](https://open.spotify.com/track/4KCbrGjAVjAN6ZmvHtcDtX) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:31 | 2025-07-18 | 2026-02-11 |
 | [Padellen](https://open.spotify.com/track/1Sr0JwYtHhuzGgPldwmN7x) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/5mksVJL2acmzYXn7KiEghH) | 2:08 | 2026-02-10 |  |
+| [Palermo](https://open.spotify.com/track/1KU4DCpFnKz3HWvLsZZAKQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Palermo](https://open.spotify.com/album/4FtF3YXYt84Wo44Q6kKdPA) | 2:38 | 2026-03-27 |  |
 | [Papa's Geld](https://open.spotify.com/track/0zwazASa657BlcIcx8lYyk) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Papa's Geld](https://open.spotify.com/album/13YCIl3X503L1zASNd0JiN) | 2:00 | 2025-07-18 | 2026-02-11 |
 | [Proost](https://open.spotify.com/track/0KfKG23F2eWsq3iJazXYvS) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:27 | 2025-07-18 | 2025-10-11 |
 | [Ruggengraat](https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Ruggengraat](https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj) | 2:14 | 2026-02-10 |  |

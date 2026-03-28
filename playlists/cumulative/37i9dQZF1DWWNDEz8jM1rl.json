@@ -4335,6 +4335,32 @@
     },
     {
       "album": {
+        "name": "Tu Eres Mi Alegr\u00eda",
+        "url": "https://open.spotify.com/album/0RoX4wyu0X44BsiILlt41z"
+      },
+      "artists": [
+        {
+          "name": "Nitro X",
+          "url": "https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW"
+        },
+        {
+          "name": "Kaelyn Reese",
+          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
+        },
+        {
+          "name": "TTIMO",
+          "url": "https://open.spotify.com/artist/6uQtVt05v9t3SmaYZlgaG9"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208321,
+      "name": "Tu Eres Mi Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg"
+    },
+    {
+      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
       },
@@ -4346,7 +4372,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 169146,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"

@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 282,
+  "num_followers": 281,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIFVTKgm2X9SH6aLhbeKcvEARq2QTg",
+  "snapshot_id": "AAAIF18j2iW99+gKrWmRWgcwF9aCc1Hg",
   "tracks": [
     {
       "added_at": "2026-03-26 15:39:41",
@@ -69275,6 +69275,38 @@
       "duration_ms": 182922,
       "name": "Dream (Ek Khwaab)",
       "url": "https://open.spotify.com/track/4DSXk7IIAQ6ZCyxaTFOuen"
+    },
+    {
+      "added_at": "2026-03-27 12:52:17",
+      "album": {
+        "name": "Remain with Grey",
+        "url": "https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "Remain with Grey",
+      "url": "https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ"
+    },
+    {
+      "added_at": "2026-03-27 13:58:27",
+      "album": {
+        "name": "Butterfly Kiss",
+        "url": "https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF"
+      },
+      "artists": [
+        {
+          "name": "Eufrocina Manigos and Eyvind Bilstad",
+          "url": "https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo"
+        }
+      ],
+      "duration_ms": 268546,
+      "name": "Butterfly Kiss",
+      "url": "https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3"
     }
   ],
   "unique_name": "playlist spotify free",

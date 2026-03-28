@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Святкуємо пʼятиріччя програми EQUAL! Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,649 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,652 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [Жидає](https://open.spotify.com/track/5vxAvcH6Om1YD1MHP9L9PJ) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [Спомина Любову](https://open.spotify.com/album/7MLxUCY1XSnQQYIs8URLhC) | 3:25 |
 | 50 | [Неймовірно тонка](https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Неймовірно тонка](https://open.spotify.com/album/6my1K6UekghuCoude69cg7) | 3:09 |
 
-Snapshot ID: `AAAAAO7yYijBcdaFPr5Hxo35r93KgkhS`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

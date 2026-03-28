@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-668 songs - 1 day 15 hr 15 min
+669 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Getaway](https://open.spotify.com/track/4Cb6AY4bjiSz6zIJmK2gWD) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Getaway](https://open.spotify.com/album/1UDjEv6O7uO6Mq9IQ3regW) | 1:56 | 2025-12-19 | 2026-01-15 |
 | [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 | 2025-08-21 |
 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 | 2026-02-20 |  |
+| [Gleaning](https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [See You, Evergreen](https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ) | 4:27 | 2026-03-27 |  |
 | [Going Home](https://open.spotify.com/track/2XgJawz0ICRWPMu6fLUM18) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [School 2017, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TNyLDNbnUnxnoLTS8pouH) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-12-10 | 2024-09-03 |
 | [GONE BY THE MORNING](https://open.spotify.com/track/0KlY3QwVmVZnW4fcuqoccY) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 2:09 | 2021-12-10 | 2022-06-07 |

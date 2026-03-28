@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "you met me at a very indie twang time in my life... Ratboys on the cover",
+  "description": "you met me at a very indie twang time in my life... Sluice on the cover",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 316468,
       "name": "Acolyte",
       "url": "https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "bends / dirt",
+        "url": "https://open.spotify.com/album/2gUIAQlCxVPhqIbxBKTBx5"
+      },
+      "artists": [
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "dirt",
+      "url": "https://open.spotify.com/track/1LHQi8pKzL2M6O9mD1LITm"
+    },
+    {
+      "album": {
         "name": "At the Moonbase",
         "url": "https://open.spotify.com/album/3WpSDJ3xP0D8CgWxEeApzA"
       },
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 190955,
       "name": "Dog Has Its Day",
       "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 242093,
       "name": "Golden Days",
       "url": "https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc"
@@ -3075,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247498,
+      "name": "I'm So Wasted",
+      "url": "https://open.spotify.com/track/01iHurTpAQoOiwaRVyiIB2"
+    },
+    {
+      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -3346,7 +3382,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 246119,
       "name": "Kind Of Girl",
       "url": "https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC"
@@ -3390,6 +3426,24 @@
       "duration_ms": 165463,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/52S4b4JkoeKrCRRKjzPHKW"
+    },
+    {
+      "album": {
+        "name": "Hopeful Woman",
+        "url": "https://open.spotify.com/album/7CzWRTEkDT86573k129prU"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane Hill",
+          "url": "https://open.spotify.com/artist/4fuJe6HS0wXyzuNeffCoSu"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193998,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1njd49XoagpPLhPrHOwz1K"
     },
     {
       "album": {
@@ -3976,7 +4030,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 251153,
       "name": "Not My Body",
       "url": "https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH"
@@ -4564,7 +4618,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 235223,
       "name": "Sandy",
       "url": "https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU"
@@ -5036,6 +5090,24 @@
       "duration_ms": 147355,
       "name": "SPANISH ARMADA VAR. XV",
       "url": "https://open.spotify.com/track/4s5xjrNtmAKKv1A66rfHVR"
+    },
+    {
+      "album": {
+        "name": "i26connector",
+        "url": "https://open.spotify.com/album/0M5N9u8oX9pPq8oeVcwr9F"
+      },
+      "artists": [
+        {
+          "name": "i26connector",
+          "url": "https://open.spotify.com/artist/4O6RKDvxGhEChWGZOZSmmq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "Spirit Manger",
+      "url": "https://open.spotify.com/track/6XMZCoxwWeNRC3bAtX699y"
     },
     {
       "album": {
@@ -5738,7 +5810,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 251493,
       "name": "True Love",
       "url": "https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F"
@@ -6037,6 +6109,24 @@
     },
     {
       "album": {
+        "name": "My Days of 58",
+        "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418617,
+      "name": "Why Do Men Sing",
+      "url": "https://open.spotify.com/track/3XOapyiO6vB1v6k9KqHz2O"
+    },
+    {
+      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/77ETBs8gKb44SezIbEMOp9"
       },
@@ -6124,6 +6214,24 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/33wEfMAeQatCfZ77VgYj4T"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212943,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3YQ3oBkCkDeRiKhf11mCYQ"
     },
     {
       "album": {

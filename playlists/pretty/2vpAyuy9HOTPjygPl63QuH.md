@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
 
-[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,435 likes - 55 songs - 2 hr 53 min
+[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,440 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,10 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 53 | [Ice In My Eyes](https://open.spotify.com/track/6h7BeqJkbKztoZxGY8gk1R) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [Ice In My Eyes](https://open.spotify.com/album/1lPMHePBKwDbVYwcr60iHB) | 3:05 |
 | 54 | [Obsession](https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn) | [Obsession](https://open.spotify.com/album/19wqpXo5KGyYLE4QMVCiVj) | 3:11 |
 | 55 | [Tension](https://open.spotify.com/track/4gKXDKK8dqwOVkmpXxK8Ql) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [Tension](https://open.spotify.com/album/6VfMfYObM7LdE8tNSneHbY) | 2:49 |
+| 56 | [Alcoholic](https://open.spotify.com/track/5Iedc3D20KJoj95uQRp5p0) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Alcoholic](https://open.spotify.com/album/6jVysJUSRFQnpCzWmfVWkC) | 3:14 |
+| 57 | [Bad & U Know It](https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bad & U Know It](https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc) | 3:11 |
+| 58 | [Bow Down](https://open.spotify.com/track/4fmVAGdkTqr54qzFtb2ZOB) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm), [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Bow Down](https://open.spotify.com/album/5iEXOYgssW3uniETbypS7t) | 4:56 |
+| 59 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 60 | [Talking To Myself](https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Talking To Myself](https://open.spotify.com/album/1pYdfqXGZQlgXz2jnUwrpi) | 7:52 |
 
-Snapshot ID: `AAAocsZ+bBoAXRtYOKpzYjmjCSliknRY`
+Snapshot ID: `AAAod3UBLz+F7E82tG36c2VUQ/XP3o8D`

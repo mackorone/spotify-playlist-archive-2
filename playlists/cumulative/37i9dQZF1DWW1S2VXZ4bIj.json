@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NuNew",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Season Five",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 179317,
       "name": "cry jar",
       "url": "https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp"
@@ -1210,6 +1210,24 @@
       "duration_ms": 166000,
       "name": "Dancing By Myself",
       "url": "https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
     },
     {
       "album": {
@@ -2493,6 +2511,28 @@
     },
     {
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
       },
@@ -3000,6 +3040,28 @@
       "duration_ms": 174000,
       "name": "NO.1 LADY",
       "url": "https://open.spotify.com/track/2PY2MKxpi9id6MEV5P5tkS"
+    },
+    {
+      "album": {
+        "name": "Not The Best But Still Good (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
+        "url": "https://open.spotify.com/album/63OpYylyNXwzwo5hse1AxZ"
+      },
+      "artists": [
+        {
+          "name": "TEETEE",
+          "url": "https://open.spotify.com/artist/2dsc5BVS6AVRv99iXNBMTO"
+        },
+        {
+          "name": "Por Suppakarn",
+          "url": "https://open.spotify.com/artist/0MDoSGuZKbwMhpA5MZv703"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "Not The Best But Still Good (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
+      "url": "https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn"
     },
     {
       "album": {
@@ -3723,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "SEASON",
+        "url": "https://open.spotify.com/album/329ccxS7VMcYSktPFbFol2"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "SEASON",
+      "url": "https://open.spotify.com/track/5CSLorshBm7YRm1mvpaYSP"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
         "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
       },
@@ -4082,7 +4162,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
@@ -5502,7 +5582,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 181090,
       "name": "\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 (LANDMINE)",
       "url": "https://open.spotify.com/track/4CtU1yqaZnWnbD1HfEeOkV"
@@ -6057,6 +6137,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
+        "url": "https://open.spotify.com/album/06qIplvukzO5NyH9UwJG45"
+      },
+      "artists": [
+        {
+          "name": "SEA.",
+          "url": "https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231187,
+      "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/3ImxRQnfrCXFrBFxJIvJuR"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e23\u0e36\u0e48\u0e07\u0e41\u0e23\u0e01 (halftime)",
         "url": "https://open.spotify.com/album/2BoxbOFfft1eBL6o8wvRuS"
       },
@@ -6264,7 +6366,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 201176,
       "name": "\u0e04\u0e31\u0e1a\u0e40\u0e2e\u0e35\u0e22 (KUB HERE)",
       "url": "https://open.spotify.com/track/0ygsAhW2qrXbIFdH9Z84kx"
@@ -6632,7 +6734,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 230571,
       "name": "\u0e08\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e2d\u0e07\u0e21\u0e37\u0e2d (Both Hands) [feat. JustmineNika]",
       "url": "https://open.spotify.com/track/3Vh7nFhdNBoDhB5es1u4pM"
@@ -8456,6 +8558,28 @@
       "duration_ms": 195789,
       "name": "\u0e1e\u0e23\u0e23\u0e04\u0e14\u0e35 (Yellow Heart)",
       "url": "https://open.spotify.com/track/12QO9VD6rIipEV0kkzk8Xr"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
+        "url": "https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
+      "url": "https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l"
     },
     {
       "album": {
@@ -10931,6 +11055,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/22wfvhxm30TMX63M1Fljyr"
+      },
+      "artists": [
+        {
+          "name": "Season Five",
+          "url": "https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285187,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/6iM2Mxp2kfqm5YZ1uW9sRK"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
         "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
       },
@@ -12028,7 +12170,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 198518,
       "name": "\u0e42\u0e07\u0e48\u0e01\u0e47\u0e41\u0e04\u0e48\u0e40\u0e07\u0e35\u0e22\u0e1a",
       "url": "https://open.spotify.com/track/0Qr9lJgfbFJUFV6puT3FC7"

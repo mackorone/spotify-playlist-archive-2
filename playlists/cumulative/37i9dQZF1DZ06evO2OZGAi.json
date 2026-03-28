@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/4D4dxm3EDTWgEUFHNhNgCL"
+    },
+    {
+      "album": {
         "name": "Infectado",
         "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-28",
       "duration_ms": 157524,
       "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
       "url": "https://open.spotify.com/track/2HyeBicZ4LbQmfmTq3bZCQ"

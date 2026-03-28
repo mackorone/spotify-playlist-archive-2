@@ -1,6 +1,6 @@
 {
   "description": "A tua alternativa ao mainstream. Os \u00faltimos concertos europeus do MARO acontecem em Portugal esta semana.",
-  "num_followers": 38275,
+  "num_followers": 38511,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -188,8 +188,8 @@
           "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 169814,
+      "name": "outro fim",
       "url": "https://open.spotify.com/track/7AdFZaaQbSzJdpU0JtnRMm"
     },
     {
@@ -1319,30 +1319,18 @@
     {
       "added_at": "2026-03-27 00:00:36",
       "album": {
-        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
-        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        },
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 208461,
-      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
-      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     }
   ],
   "unique_name": "Cena Indie",

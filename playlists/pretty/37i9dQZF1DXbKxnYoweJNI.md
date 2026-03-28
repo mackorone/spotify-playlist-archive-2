@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: AuZTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,938 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,932 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 49 | [STEADY](https://open.spotify.com/track/5KPLfNAPxbLjj63H8s2ljW) | [ILAN](https://open.spotify.com/artist/3aUbVnaGQ44QDaaqa3wclx), [ZiUwhY 子優](https://open.spotify.com/artist/3Wpz6qJGsmZd90OX2CuiYM) | [STEADY](https://open.spotify.com/album/2D0bk5kIjfYVcJ5VJ6knW7) | 2:54 |
 | 50 | [Back To You Again](https://open.spotify.com/track/2sljPNr20KTYjdntQYXV2G) | [Jeffery C](https://open.spotify.com/artist/1pu8bqVGuRDYyTOQMLqv86) | [Back To You Again](https://open.spotify.com/album/3i5wTl90GXK9zRyZxo5Rxy) | 2:51 |
 | 51 | [想要保護的 \- 電影《功夫》主題曲](https://open.spotify.com/track/3j0l0O8haMn4QsktFn9MMx) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK), [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [想要保護的 \(電影《功夫》主題曲\)](https://open.spotify.com/album/6ji6MIrhkYlM2MfoBepuUM) | 4:15 |
-| 52 | [Wo Ai Ni \- 我愛你](https://open.spotify.com/track/5efm2o17lxEfvE92y4XdMZ) | [Irène Drésel](https://open.spotify.com/artist/23bTAvgtZrtRCWgEtqxQwA), [潘PAN](https://open.spotify.com/artist/7CSxBm8HoVZ01BUtvbfgww) | [Wo Ai Ni \- 我愛你](https://open.spotify.com/album/78GEado9yLRr1GI5pgVlnx) | 3:22 |
+| 52 | [Wo Ai Ni \- 我愛你](https://open.spotify.com/track/5efm2o17lxEfvE92y4XdMZ) | [Irène Drésel](https://open.spotify.com/artist/23bTAvgtZrtRCWgEtqxQwA), [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Wo Ai Ni \- 我愛你](https://open.spotify.com/album/78GEado9yLRr1GI5pgVlnx) | 3:22 |
 | 53 | [金钱之上](https://open.spotify.com/track/4e9sxeaQnbihWckkf8synZ) | [彈殼Danko](https://open.spotify.com/artist/3fkwbLdzv3rzPg19f2YHOL), [那奇沃夫](https://open.spotify.com/artist/55iOsAnSzccznIVvXeHzhI) | [金钱之上](https://open.spotify.com/album/4ESNeJzvdPMFRCMEaqkdym) | 2:47 |
 | 54 | [碎片 \- Live](https://open.spotify.com/track/6617AJworONJhIFUovLDK6) | [康姆士\(COM’Z\)](https://open.spotify.com/artist/4O9yXuMzkIoRezqlpgkdjK) | [碎片 \(Live\)](https://open.spotify.com/album/4T3Ba0LxGdpiFxDuKDRdQC) | 5:40 |
 | 55 | [clouded](https://open.spotify.com/track/5yPq4ziGEtcFfSEhoM9mVb) | [高隆華KAOLONGHUA](https://open.spotify.com/artist/1C6rrLb5TXFkKYHG8h5miQ) | [clouded](https://open.spotify.com/album/6Er9JgtGWeXJ334JLqnqBm) | 3:54 |
