@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With blazingfairis, Die Mannequin, Cherri Bomb and more",
+  "description": "With blazingfairis, Die Mannequin, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 324259,
       "name": "Another After-Break Up Song",
       "url": "https://open.spotify.com/track/5Kn0MelgROC2HH4ns360KI"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 215481,
       "name": "Gods",
       "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
@@ -2300,6 +2300,24 @@
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
+    },
+    {
+      "album": {
+        "name": "\u96fb\u7af6\u5973\u5b69\u96fb\u5f71\u914d\u6a02\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/7McNz1JpIEoby9Ba9ZsfHt"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "GRIND",
+      "url": "https://open.spotify.com/track/6c4jDD6ZT1E5pKNzKghVF4"
     },
     {
       "album": {
@@ -2577,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Jason Diebner",
+        "url": "https://open.spotify.com/album/5cecalyrQ3KniYAeOWvy0j"
+      },
+      "artists": [
+        {
+          "name": "Jason Diebner",
+          "url": "https://open.spotify.com/artist/3ZVL82im0igcw5SNOuL7NC"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Hourglass Sand",
+      "url": "https://open.spotify.com/track/7GKsGHwrYYeocWOImH1CMU"
+    },
+    {
+      "album": {
         "name": "House of the Infamous",
         "url": "https://open.spotify.com/album/5XALylqBL98Zd0MfRDoWbi"
       },
@@ -2624,7 +2660,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -2786,7 +2822,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -3064,7 +3100,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 172719,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT"
@@ -3100,7 +3136,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -3406,7 +3442,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "leftovers",
       "url": "https://open.spotify.com/track/4Oc7jgC7AFhfETMwy4SEt8"
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -3864,7 +3900,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 222933,
       "name": "messy",
       "url": "https://open.spotify.com/track/3LfW2tSMgOp93RTUlJHuD2"
@@ -4044,7 +4080,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -4318,7 +4354,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 203065,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/7DCsATBggMRlqC0Zun9GLW"
@@ -4390,7 +4426,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 193732,
       "name": "Occupied",
       "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
@@ -4840,7 +4876,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -5128,7 +5164,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 215850,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/1nvgo4zmHlLbVbpn3BQVF6"
@@ -5258,6 +5294,28 @@
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
+    },
+    {
+      "album": {
+        "name": "Since U Been Gone (from American Idol)",
+        "url": "https://open.spotify.com/album/2FsGgXAm05r4PiNxcalCby"
+      },
+      "artists": [
+        {
+          "name": "Madison Moon",
+          "url": "https://open.spotify.com/artist/78uCf10UzEgHyTtQRZ2gwU"
+        },
+        {
+          "name": "American Idol",
+          "url": "https://open.spotify.com/artist/106OSwra6lgjqxVfyIHcaK"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129420,
+      "name": "Since U Been Gone (from American Idol)",
+      "url": "https://open.spotify.com/track/70f6tuFJoNMtubS6cujKd5"
     },
     {
       "album": {
@@ -5726,7 +5784,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -6000,7 +6058,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 159433,
       "name": "Turborage Flow",
       "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
@@ -6457,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "Nose Dive",
+        "url": "https://open.spotify.com/album/3GwYnbXsebGFZrROqNeXBL"
+      },
+      "artists": [
+        {
+          "name": "Seraphina",
+          "url": "https://open.spotify.com/artist/0E8fHh9XSpIDP7K45aquA3"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237656,
+      "name": "You Suck",
+      "url": "https://open.spotify.com/track/05iyySQj9q4pqWZJjhFs0Q"
+    },
+    {
+      "album": {
         "name": "You're So Boring",
         "url": "https://open.spotify.com/album/0WavYB0UcPmv0zff0VnJP6"
       },
@@ -6472,7 +6548,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 190616,
       "name": "You're So Boring",
       "url": "https://open.spotify.com/track/1YKafihyFLxNnaCr14C0wP"

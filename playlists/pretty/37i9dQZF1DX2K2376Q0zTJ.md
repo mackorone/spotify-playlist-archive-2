@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > \[EQUAL 5周年を祝して\] 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 加藤ミリヤ
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,711 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,714 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [golden lighter](https://open.spotify.com/track/4rZh3T96SXCwTj2pqfHvT1) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [golden lighter](https://open.spotify.com/album/5vhutgtENV2ejAScLdFcI0) | 7:42 |
 | 50 | [Josho](https://open.spotify.com/track/0b5EkS1MB75CcQK1O3lB4m) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [Metamorphosis](https://open.spotify.com/album/3bS9wKuwcvMA0a9JUOnxZQ) | 1:27 |
 
-Snapshot ID: `AAAAAEiRRsaRcXYH8vaUnY5/U0wJTDwh`
+Snapshot ID: `AAAAAKUkRRmxRy+NlFSuzHL6ObADQH2B`

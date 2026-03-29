@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,078 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,092 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 18 | [TE QUIERO](https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [TE QUIERO](https://open.spotify.com/album/2a0hMD2XGea5eYLL7lOlYv) | 2:36 |
 | 19 | [Funny Valentine](https://open.spotify.com/track/5rXxnp0uCZzmbMmtm4kaan) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Adams](https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv) | [Funny Valentine](https://open.spotify.com/album/5t1xFZTzHUxB0l3geZEuad) | 2:52 |
 | 20 | [KATHE FORA POU TON HLIO PIANO](https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [GYALINOS KOSMOS](https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ) | 4:07 |
-| 21 | [Lete Lete](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Lete Lete](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |
+| 21 | [LETE LETE](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [LETE LETE](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |
 | 22 | [90th FLOOR](https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [90th FLOOR](https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq) | 2:35 |
 | 23 | [50 CENT](https://open.spotify.com/track/27f62QDRVencjisrZxarp9) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [50 CENT](https://open.spotify.com/album/0urfxc46odu6zD7UvZlHyI) | 2:21 |
 | 24 | [Margarita](https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Margarita](https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ) | 3:05 |

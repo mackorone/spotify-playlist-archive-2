@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Moses Bliss, Philippa Hanna and Israel Houghton
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,466 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,494 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 4 | [Impossibility Shatterer](https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 3:24 |
 | 5 | [Only You](https://open.spotify.com/track/1FBv0lVe3a99N6tlaqxTA3) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Only You](https://open.spotify.com/album/13FiR7Ge2a8XzmbuoI6Dqg) | 2:42 |
 | 6 | [JOY](https://open.spotify.com/track/289OMZkpqscCFYOsnVYwzF) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 3:07 |
-| 7 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Chukwuma](https://open.spotify.com/artist/5OBDxw2Vy487nGaIY7D0oI), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
+| 7 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
 | 8 | [Tinbake](https://open.spotify.com/track/0wzAX5LWL1qKj8wFJPTwHs) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:59 |
 | 9 | [The Reign of the Heart](https://open.spotify.com/track/5TffAmoQvaOEOhQ3iYbnnp) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [The Reign of the Heart](https://open.spotify.com/album/6Il923fgP4Ua4p0GvjAnPb) | 3:20 |
 | 10 | [God Dey 2](https://open.spotify.com/track/4vsztLGXcb6rntiTMqT0J7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Gospel Force](https://open.spotify.com/artist/00M1UkoSlitGAaMN2ng5kh) | [God Dey 2](https://open.spotify.com/album/5DLvmyPdGCBK9MSTEm0yTR) | 7:12 |

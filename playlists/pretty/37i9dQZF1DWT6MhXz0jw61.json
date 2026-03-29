@@ -1,12 +1,12 @@
 {
   "description": "Chillout hip-hop vibes. Cover: J. Cole",
-  "num_followers": 1398225,
+  "num_followers": 1398261,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIfHun3SU9x6j+CKMWeJ0ZQTABGP",
+  "snapshot_id": "AAAAAO5RiVy4kw0p8eUykaMYQ0x4iDqQ",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:24",
@@ -27,6 +27,26 @@
       "duration_ms": 270626,
       "name": "The Villest (with Erykah Badu)",
       "url": "https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN"
+    },
+    {
+      "added_at": "2026-03-28 16:17:43",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 119272,
+      "name": "WHATEVER WORKS",
+      "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
     },
     {
       "added_at": "2026-03-27 04:00:24",

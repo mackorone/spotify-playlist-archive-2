@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36494,
+      "name": "Aquarium (Intro)",
+      "url": "https://open.spotify.com/track/5T9GO8wAeBidT1vAobhGSE"
+    },
+    {
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4OeA68LyLKcKR4g4DYkc5t"
       },

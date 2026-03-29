@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee & The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,531 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,535 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Busy Girl](https://open.spotify.com/track/5fWIgbo26HAvQr5M5KnQ3B) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Grace](https://open.spotify.com/album/0nsE8WfVuc1uB9RtJwEDGx) | 2:30 |
 | 100 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
 
-Snapshot ID: `AAAAAHmFsoLr8rr2nxpyr3ttSg5+9Wl/`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

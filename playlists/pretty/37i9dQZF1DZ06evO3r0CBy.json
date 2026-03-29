@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 43482,
+  "num_followers": 43487,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAABmpPuJJ6cCzRqduDfEBWmf",
+  "snapshot_id": "acXIgAAAAADdIzgbUS3UpBapAy9PCnha",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodriguez Rocks: Live In Australia",
-        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+        "name": "For Rodriguez",
+        "url": "https://open.spotify.com/album/2E2KQbNjw96S8Wf8pNXOzJ"
       },
       "artists": [
         {
+          "name": "SA for Sugar Man",
+          "url": "https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka"
+        },
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd"
+        },
+        {
+          "name": "Sandra Rodriguez",
+          "url": "https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb"
+        },
+        {
+          "name": "Marc Skarda",
+          "url": "https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye"
+        },
+        {
+          "name": "Mark Beling",
+          "url": "https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V"
+        },
+        {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        },
+        {
+          "name": "Graham Gillot",
+          "url": "https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD"
+        },
+        {
+          "name": "Kahn Morbee",
+          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
         }
       ],
-      "duration_ms": 200713,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0"
+      "duration_ms": 241836,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6ZSaR6SkzKNuBvU1bRziYA"
     },
     {
       "added_at": null,
@@ -196,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 241348,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
+      "duration_ms": 200713,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0"
     },
     {
       "added_at": null,
@@ -231,98 +259,6 @@
       "duration_ms": 201826,
       "name": "To Whom It May Concern",
       "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Rodriguez",
-        "url": "https://open.spotify.com/album/1T6SJIgdXL7tMQXmE258sp"
-      },
-      "artists": [
-        {
-          "name": "SA for Sugar Man",
-          "url": "https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka"
-        },
-        {
-          "name": "Ross Learmonth",
-          "url": "https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd"
-        },
-        {
-          "name": "Sandra Rodriguez",
-          "url": "https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb"
-        },
-        {
-          "name": "Marc Skarda",
-          "url": "https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye"
-        },
-        {
-          "name": "Mark Beling",
-          "url": "https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V"
-        },
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        },
-        {
-          "name": "Graham Gillot",
-          "url": "https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD"
-        },
-        {
-          "name": "Kahn Morbee",
-          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
-        }
-      ],
-      "duration_ms": 241836,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/5tUBiU75b0UgKLUgdzAmaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rodriguez Rocks: Live In Australia",
-        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 152444,
-      "name": "Learnin' the Blues",
-      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "Rich Folks Hoax",
-      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming From Reality",
-        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 397413,
-      "name": "Sandrevan Lullaby - Lifestyles",
-      "url": "https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE"
     },
     {
       "added_at": null,
@@ -360,9 +296,77 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 182601,
-      "name": "Just One of Those Things",
-      "url": "https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA"
+      "duration_ms": 241348,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "Rich Folks Hoax",
+      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 397413,
+      "name": "Sandrevan Lullaby - Lifestyles",
+      "url": "https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QMusic Top 500 van de 90's",
+        "url": "https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Ecuador (feat. Rodriguez) - Single Mix",
+      "url": "https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 152444,
+      "name": "Learnin' the Blues",
+      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
     },
     {
       "added_at": null,
@@ -399,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "QMusic Top 500 van de 90's",
-        "url": "https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB"
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
       },
       "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
         {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Ecuador (feat. Rodriguez) - Single Mix",
-      "url": "https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip"
+      "duration_ms": 182601,
+      "name": "Just One of Those Things",
+      "url": "https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA"
     }
   ],
   "unique_name": "This Is Rodr\u00edguez",

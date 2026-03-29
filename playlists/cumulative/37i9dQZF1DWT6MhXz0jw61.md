@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-1,489 songs - 3 day 6 hr 30 min
+1,490 songs - 3 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1449,6 +1449,7 @@
 | [What You Want](https://open.spotify.com/track/7ekZQdTEbFA3GElh4WVv3x) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [What You Want](https://open.spotify.com/album/1vtUDVP5fIl57KHOJkVahm) | 2:57 | 2025-03-28 | 2025-04-19 |
 | [What's Life \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [What's Life \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/6UzuK8kBzwIpKbEex4BouB) | 3:11 | 2021-06-18 | 2022-04-23 |
 | [what3ver](https://open.spotify.com/track/0Hp2r3xb1Th9ZEeuQGOGiS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [what3ver](https://open.spotify.com/album/5hEcSnIt8esLenvAP1f2qv) | 2:55 | 2025-01-03 | 2025-01-25 |
+| [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:59 | 2026-03-28 |  |
 | [What’s on My Mind](https://open.spotify.com/track/6cFSADQHocJfxpkk76HtJZ) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [What's on My Mind](https://open.spotify.com/album/6b5PWnG1YXmEXLBZMCsXAa) | 2:11 | 2023-06-02 | 2023-07-08 |
 | [When I Get My Turn?](https://open.spotify.com/track/0BGhMJvmPwf8nWGNpLWFiH) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [When I Get My Turn?](https://open.spotify.com/album/4r1zS7SDOvvnWiKJyakfyr) | 2:49 | 2023-07-28 | 2023-12-16 |
 | [When I'm Gone](https://open.spotify.com/track/3M2gIudnbke08mHonTJE4h) | [Jesse Boone](https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO) | [When I'm Gone](https://open.spotify.com/album/5K3nW7r2TR5BE0ws6Xpats) | 2:18 | 2022-01-21 | 2022-09-17 |

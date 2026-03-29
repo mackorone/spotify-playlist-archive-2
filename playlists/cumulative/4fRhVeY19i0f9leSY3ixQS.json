@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Bellissimo",
+        "url": "https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ"
+      },
+      "artists": [
+        {
+          "name": "Crawl Town",
+          "url": "https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bellissimo",
+      "url": "https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md"
+    },
+    {
+      "album": {
         "name": "BEND THE TRUTH",
         "url": "https://open.spotify.com/album/0qY4mBrrJuL565VsvPbFze"
       },
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 163718,
       "name": "Bleeding You",
       "url": "https://open.spotify.com/track/00LyefdHtjsZl6RsKpDav6"
@@ -4760,6 +4778,24 @@
       "duration_ms": 66836,
       "name": "Disclaimer*",
       "url": "https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or"
+    },
+    {
+      "album": {
+        "name": "MUTANTE",
+        "url": "https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Disc\u00edpulo - Hierofante Mix",
+      "url": "https://open.spotify.com/track/1kWZaubUIbzZb2q1n8lIhQ"
     },
     {
       "album": {
@@ -8325,6 +8361,24 @@
     },
     {
       "album": {
+        "name": "Acid Viking",
+        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
+      },
+      "artists": [
+        {
+          "name": "Lady Owl",
+          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "Hits Hard",
+      "url": "https://open.spotify.com/track/2fblQwOSFg4tacGq8DtO9B"
+    },
+    {
+      "album": {
         "name": "Hold The Line",
         "url": "https://open.spotify.com/album/40IenIHnq1Cr2zBKYXOChg"
       },
@@ -11034,6 +11088,24 @@
       "duration_ms": 128425,
       "name": "Mad Puppies",
       "url": "https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA"
+    },
+    {
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/5uHj80vUAeSnbx92ddO9mL"
+      },
+      "artists": [
+        {
+          "name": "Passing grade",
+          "url": "https://open.spotify.com/artist/6cM6cbpILW8TfpfZCqAFls"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/07AqQxvXuIQummbZnMfDUg"
     },
     {
       "album": {
@@ -14610,7 +14682,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 315683,
       "name": "Reckoner",
       "url": "https://open.spotify.com/track/2iydK1qSBLuqkOogdnWzQT"

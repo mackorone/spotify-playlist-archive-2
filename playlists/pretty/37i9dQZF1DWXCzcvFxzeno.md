@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,595 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,952 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 |
 | 100 | [YOU ARE MINE](https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [YOU ARE MINE](https://open.spotify.com/album/1iFfeclCvyoctBXLDYLiAg) | 3:16 |
 
-Snapshot ID: `AAAAAMeB3I6OT8TdUxE8sN5doEfWHWk4`
+Snapshot ID: `AAAAAAvz5YJMYRtSg1eFfbP1aFWV9prr`

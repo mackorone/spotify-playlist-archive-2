@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Sinaka & Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,647 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,655 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 7 | [Can Am](https://open.spotify.com/track/2iqEFENoUWJh9q1qs84n1o) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye) | [Can Am](https://open.spotify.com/album/6TJVtNKIdc2DDvWqb47NUq) | 3:13 |
 | 8 | [LA TRIPLE C](https://open.spotify.com/track/7rGY1XjoF36W8DlJWgzvFB) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Guelo Star](https://open.spotify.com/artist/54AbdWd0XTHGLorkVwINN2), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [LA TRIPLE C](https://open.spotify.com/album/1lbuoXBesHeObQkVpdK8JS) | 2:56 |
 | 9 | [Tequilita](https://open.spotify.com/track/5Wf9wPiQ52XwmX9nkqUOVd) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [Tequilita](https://open.spotify.com/album/2zhJfXGtcZqR6e8pxLm6I0) | 3:25 |
-| 10 | [Telegram](https://open.spotify.com/track/3FqGzVDyg9VY4YUQVpPQ2w) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [Telegram](https://open.spotify.com/album/40jFn3XGvba8z7hkkC9dxq) | 2:29 |
+| 10 | [TELEGRAM](https://open.spotify.com/track/3FqGzVDyg9VY4YUQVpPQ2w) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [TELEGRAM](https://open.spotify.com/album/40jFn3XGvba8z7hkkC9dxq) | 2:29 |
 | 11 | [BAILAS](https://open.spotify.com/track/6qIvysO7Mjp4dcpPyIwKLh) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP) | [BAILAS](https://open.spotify.com/album/2GmwOKBKeIKVN8wrN8ZxeC) | 2:13 |
 | 12 | [no eres buena xika](https://open.spotify.com/track/5YHY8l2gurNPzUdsTHwAvP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [no eres buena xika](https://open.spotify.com/album/2Pkc4T7voMFapUVGUCoxrc) | 2:52 |
 | 13 | [Texteando](https://open.spotify.com/track/3rKpnMQ8ko9X116yIj5V9S) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [Texteando](https://open.spotify.com/album/7bs0PbEq3o0tDm6UfFJhkn) | 2:40 |

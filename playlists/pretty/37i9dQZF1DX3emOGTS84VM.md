@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,427 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,432 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 13 | [Love We Share \(feat\. Roka\)](https://open.spotify.com/track/46IDXQnJ0esEmlZKAVuwRz) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [Roka](https://open.spotify.com/artist/0GNjQ4UsF0AJiksilivETU) | [Love We Share](https://open.spotify.com/album/4cxYcfBBOxuU8QiTsYSZiE) | 3:38 |
 | 14 | [Sideways \(feat\. Coco Jones\)](https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 3:55 |
 | 15 | [So Bad](https://open.spotify.com/track/7cdtujPSnz9q2OEOfpaDXj) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [So Bad](https://open.spotify.com/album/7JMMy7YvimBF1d4Fu8fNYZ) | 3:02 |
-| 16 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC), [Slim Gabriel](https://open.spotify.com/artist/2V1pidmyk9HpSXo1CvxxwI), [Darren Jones](https://open.spotify.com/artist/4tUPPW4XEPUuQ83r89er8G), [Sam Every](https://open.spotify.com/artist/6sLx1QhilPrtx51Mh5wMJv) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
+| 16 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
 | 17 | [500 DEGREE$](https://open.spotify.com/track/1OKEnhQPJOtJIxvlWhr5Hr) | [spaceluvrrr](https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb) | [500 DEGREE$](https://open.spotify.com/album/5VD3b1pC38V7eQQQ8xAxkX) | 3:56 |
 | 18 | [intention \(with Brandy\)](https://open.spotify.com/track/1ZGQug62wWSfELA3Jvufl5) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [girl music vol\. 1](https://open.spotify.com/album/5GUXKPrSqb6kdXQHKmKmHm) | 3:15 |
 | 19 | [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 |

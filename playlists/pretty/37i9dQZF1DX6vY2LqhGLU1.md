@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,192 likes - 150 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,181 likes - 150 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 124 | [Hope Is Born \(2025\)](https://open.spotify.com/track/5OO8lwTALUoZikT7Az4FFN) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Peace On Earth](https://open.spotify.com/album/6uIWkNigeSF2T1lN5xtal2) | 3:22 |
 | 125 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 |
 | 126 | [O Holy Night](https://open.spotify.com/track/0nkezeQsDA5Owpul6PxRSJ) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [O Holy Night](https://open.spotify.com/album/25qGXXBtKj4DeBFg0BUmz8) | 3:43 |
-| 127 | [Silent Night](https://open.spotify.com/track/676tHI3mIYd8ZhJ8rxfcBH) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Silent Night](https://open.spotify.com/album/3oLyg6F37yCYcHSi96Dv2f) | 4:09 |
-| 128 | [O Holy Night \- Live](https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Melinda Watts](https://open.spotify.com/artist/0GCLncgrzKk95NwdvHjxw7) | [A Weary World Rejoices](https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z) | 6:24 |
+| 127 | [O Holy Night \- Live](https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Melinda Watts](https://open.spotify.com/artist/0GCLncgrzKk95NwdvHjxw7) | [A Weary World Rejoices](https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z) | 6:24 |
+| 128 | [Silent Night](https://open.spotify.com/track/676tHI3mIYd8ZhJ8rxfcBH) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Silent Night](https://open.spotify.com/album/3oLyg6F37yCYcHSi96Dv2f) | 4:09 |
 | 129 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 |
 | 130 | [If You Listen](https://open.spotify.com/track/6ayW4lNxB2dxFU9Kb812lw) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm) | [If You Listen](https://open.spotify.com/album/0zI9FCWpB5YBOw0Npi2ZLo) | 4:12 |
 | 131 | [Advent Song \(Christ Has Come\)](https://open.spotify.com/track/5SqjFvC9d9bTn3cCGOYGnt) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR), [Channing Gillespie](https://open.spotify.com/artist/0PYc251XnbuIb80WbNusnf) | [Advent Song \(Christ Has Come\)](https://open.spotify.com/album/5BDdcMskJYCIcGto5Brtg4) | 3:35 |

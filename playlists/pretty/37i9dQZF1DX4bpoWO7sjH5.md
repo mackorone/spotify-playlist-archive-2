@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 ### [Navidad Cristiana](https://open.spotify.com/playlist/37i9dQZF1DX4bpoWO7sjH5)
 
-> Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Marcos Witt
+> Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Israel & New Breed, Unified Sound, Adrienne Bailon\-Houghton, Claudette Bailon, Diana Marie, Travy Joe, Aaron Moses, & Nate Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,059 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,056 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "sex toy",
+        "url": "https://open.spotify.com/album/4UBaohjI3bU6TzlcSiToLZ"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140743,
+      "name": "sex toy",
+      "url": "https://open.spotify.com/track/162DwVaggLyODXjkrePYFd"
+    },
+    {
+      "album": {
         "name": "SQUEAK",
         "url": "https://open.spotify.com/album/2DxCAkR3SnD8qUm21bRiXY"
       },

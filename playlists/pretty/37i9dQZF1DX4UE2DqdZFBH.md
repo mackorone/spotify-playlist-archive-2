@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,147 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,159 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 67 | [A Walk Through Brindavan \(feat\. Vijay Gopal & Nel Bucktowar\)](https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR) | [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB), [Vijay Gopal](https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F), [Nel Bucktowar](https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl) | [A Walk Through Brindavan \(feat\. Vijay Gopal & Nel Bucktowar\)](https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn) | 4:28 |
 | 68 | [Change Is Constant](https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r) | [Celestial Teapot](https://open.spotify.com/artist/6aHtkeW2toEgtMdYoiaVg8) | [One Big Sky](https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw) | 6:44 |
 | 69 | [Peregrination \(feat\. Anjna Swaminathan\)](https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa) | [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA), [Anjna Swaminathan](https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ) | [Of Agency and Abstraction](https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B) | 4:09 |
-| 70 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 |
-| 71 | [Mind Games](https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ), [Shirish Malhotra](https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2) | [Duality](https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN) | 5:28 |
+| 70 | [Mind Games](https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ), [Shirish Malhotra](https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2) | [Duality](https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN) | 5:28 |
+| 71 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 |
 | 72 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 |
 | 73 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 |
 | 74 | [Uncooked Blues](https://open.spotify.com/track/10tlq5YUvPL5b0amy5nUL3) | [Pratik Tushar](https://open.spotify.com/artist/2p1KvPYsNNgLBfLhicmUvG) | [Uncooked Blues](https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2) | 2:59 |

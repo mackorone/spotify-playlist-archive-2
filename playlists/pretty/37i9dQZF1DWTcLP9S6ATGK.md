@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakirra Vier
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,946 likes - 124 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,960 likes - 124 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

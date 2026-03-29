@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-475 songs - 1 day 3 hr 43 min
+477 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 | 2025-08-25 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-14 |  |
-| [SickS ckS](https://open.spotify.com/track/2NEUbfNRmFYxd4tlcYgBfF) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/1uOwGiCEqP2wzogsNBSsiS) | 5:02 | 2025-10-28 |  |
+| [SickS ckS](https://open.spotify.com/track/2NEUbfNRmFYxd4tlcYgBfF) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/1uOwGiCEqP2wzogsNBSsiS) | 5:02 | 2025-10-28 | 2026-03-29 |
 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |
 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
@@ -291,6 +291,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-08-04 |  |
 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 | 2024-12-07 |  |
 | [White Happy](https://open.spotify.com/track/5XpvrP7gXzvIXprPar1QBO) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [White Happy](https://open.spotify.com/album/6SOFbTseMyGB6Teu7igCUd) | 3:46 | 2026-01-11 |  |
+| [Why I hate you](https://open.spotify.com/track/4AigtKmfzJzNCrKaBmTv3W) | [ゐろは苹果](https://open.spotify.com/artist/1X0DrV6PmfG5ZoVNCszNNh) | [Why I hate you](https://open.spotify.com/album/6VCQYmfIufXBhxFHMiuK9L) | 1:58 | 2026-03-28 |  |
 | [Wild Side \(From "Beastars"\)](https://open.spotify.com/track/2OppMWpVJYpd7aRFabrknT) | [MrLopez2112](https://open.spotify.com/artist/4r0pewWwxxqoq4KVrj897v) | [Wild Side \(From "Beastars"\)](https://open.spotify.com/album/7Fb3tJESZBCCA7bBWU2YQ1) | 2:43 | 2021-07-06 |  |
 | [Wine Red Night](https://open.spotify.com/track/5ODlBOueVnoq2WXbPFV85G) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Wine Red Night](https://open.spotify.com/album/30Eg5Z9eLHIVpQ2FySN9DU) | 2:56 | 2025-07-07 |  |
 | [witch trial](https://open.spotify.com/track/5v9f1ZftJVVWV6Hg2FwYov) | [Len](https://open.spotify.com/artist/6oMfS8fHX0CyDwRptywVjr), [否](https://open.spotify.com/artist/57Rl65o9Q40FfEWqgc05tx) | [witch trial](https://open.spotify.com/album/5F8hbFbQ6gLDkhwYaoGI4t) | 2:36 | 2025-07-07 |  |
@@ -439,6 +440,7 @@
 | [毒の王子さま](https://open.spotify.com/track/6btke96zwYQHwsoMGNeQM9) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [毒の王子さま](https://open.spotify.com/album/2HQmMyOZF4D3MWWfFfUeVM) | 3:35 | 2022-07-24 |  |
 | [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 | 2025-07-27 | 2025-08-17 |
 | [泡沫の夜](https://open.spotify.com/track/2fGQH6lxM7dQbgY2rbtEIG) | [nqrse](https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3) | [泡沫の夜](https://open.spotify.com/album/1QkpaHdfrYfCUIw4OCYXAa) | 3:37 | 2023-12-04 |  |
+| [浴槽とネオンテトラ](https://open.spotify.com/track/38PB5u8pEPKefAtLqbCDtK) | [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [stream](https://open.spotify.com/album/3iaN1P4JHrgcrQCn10htLd) | 4:23 | 2026-03-28 |  |
 | [浴槽とネオンテトラ](https://open.spotify.com/track/07LC3H76ceeFbrA6XDjPxL) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [浴槽とネオンテトラ](https://open.spotify.com/album/4VqnMClvFtkT4GnQqQUHs8) | 4:25 | 2024-09-02 |  |
 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2025-02-17 |  |
 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 | 2024-08-19 |  |

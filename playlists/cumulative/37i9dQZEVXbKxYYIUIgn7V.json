@@ -6297,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of Anatolia",
+        "url": "https://open.spotify.com/album/1dv8sZaatrst6pGBGbn8v4"
+      },
+      "artists": [
+        {
+          "name": "Ankara Echoes",
+          "url": "https://open.spotify.com/artist/18SuKvcITcf0mACwhitMeM"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Beni Al",
+      "url": "https://open.spotify.com/track/5iMubxU4DwNpW3JOAN4PGF"
+    },
+    {
+      "album": {
         "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
         "url": "https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm"
       },
@@ -9730,7 +9748,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 139431,
       "name": "CDY",
       "url": "https://open.spotify.com/track/6BRGGHydYjs2xpSjw8Dwx7"
@@ -21357,6 +21375,40 @@
     },
     {
       "album": {
+        "name": "T\u00d6RKE MIT DER MASKE",
+        "url": "https://open.spotify.com/album/1lmDsM6glo1ANc3sl2rXOc"
+      },
+      "artists": [
+        {
+          "name": "DJ T\u00d6RKE",
+          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+        },
+        {
+          "name": "LOKIMITDERMASKE",
+          "url": "https://open.spotify.com/artist/12sYca2Uo32YM8nzx70cnQ"
+        },
+        {
+          "name": "Doktormethoden & Doktormithoden",
+          "url": "https://open.spotify.com/artist/0xsQy6ZpcHBskCcLXKJqDY"
+        },
+        {
+          "name": "LOCO ERNO",
+          "url": "https://open.spotify.com/artist/6kj5n6wyb0A4iR90R62s8t"
+        },
+        {
+          "name": "TekkSchuster",
+          "url": "https://open.spotify.com/artist/1VKaowxI7IbpaCEuJmdtII"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175738,
+      "name": "HARDTEKK ALLSTARS",
+      "url": "https://open.spotify.com/track/6TSSH1u6fbW8x5acEQl6wq"
+    },
+    {
+      "album": {
         "name": "HARDTEKK ALLSTARS",
         "url": "https://open.spotify.com/album/5wTPN8mzWIlkI0QBUC0qw9"
       },
@@ -21384,7 +21436,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 175741,
       "name": "HARDTEKK ALLSTARS",
       "url": "https://open.spotify.com/track/33wKhsADQ7casfw2oK3w4o"
@@ -26970,7 +27022,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 203777,
       "name": "Ja volim",
       "url": "https://open.spotify.com/track/0AK9qNlmQiXELRgydcDXRl"
@@ -28038,7 +28090,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 160629,
       "name": "Kein Vodka x World Hold On",
       "url": "https://open.spotify.com/track/0EuhbRzyqb4NOLAcClP0mB"
@@ -37554,7 +37606,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 158394,
       "name": "Nimm das Leben nicht zu ernst (Tequila)",
       "url": "https://open.spotify.com/track/5a9BxOggHJF1uEztFte2FM"
@@ -39406,7 +39458,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -40482,7 +40534,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 175121,
       "name": "Per sempre s\u00ec",
       "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
@@ -43710,7 +43762,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -51140,7 +51192,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 134918,
       "name": "The Ketchup Song (Aserej\u00e9) - Techno Mix",
       "url": "https://open.spotify.com/track/4X4HhhDKp3iLIRLwBorhZd"
@@ -52066,6 +52118,24 @@
       "duration_ms": 199821,
       "name": "Tiryakinim",
       "url": "https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1"
+    },
+    {
+      "album": {
+        "name": "Titanium (Edit)",
+        "url": "https://open.spotify.com/album/5pghvOPRGZDVmA5Wcwzdbh"
+      },
+      "artists": [
+        {
+          "name": "Lieselotte",
+          "url": "https://open.spotify.com/artist/7CJSBuPqUo0swJoLiabWN2"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101926,
+      "name": "Titanium - Edit - Slowed",
+      "url": "https://open.spotify.com/track/56A87IFLsH3Q98QXSbDQNR"
     },
     {
       "album": {
@@ -56634,6 +56704,24 @@
     {
       "album": {
         "name": "When I Stand",
+        "url": "https://open.spotify.com/album/1ZZnKO1LCDBxjqdJ5n4EvT"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/1GdddKSMtXbKovNOwlgGXd"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
         "url": "https://open.spotify.com/album/0Pe7ejbkWmA2z8D0fkmsjy"
       },
       "artists": [
@@ -56644,7 +56732,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 199720,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/4XjFqcG2mmU4XewrRhC5Ey"

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546881,
+  "num_followers": 546909,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Murder the Mountains (Deluxe Version)",
         "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 343306,
       "name": "Wires",
       "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "In Search Of",
-        "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 306973,
-      "name": "Neptune's Convoy",
-      "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Reflections of a Floating World",
         "url": "https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 618053,
       "name": "Staving off Truth",
       "url": "https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "In Search Of",
+        "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 306973,
+      "name": "Neptune's Convoy",
+      "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
     },
     {
       "added_at": "2026-03-13 04:00:13",

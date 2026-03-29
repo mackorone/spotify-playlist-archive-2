@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di RAYE, Madame, BLANCO con Elisa, Fred De Palma con Emis Killa e Anitta, Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,021 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,024 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 11 | [Piove Metallo](https://open.spotify.com/track/5VIuELxegdSs0nwVfjuJos) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Doppia Mozzarella](https://open.spotify.com/album/0MZ4ObEaKYLX2YtA9Q3gyK) | 2:31 |
 | 12 | [200 MOTIVI \(feat\. Ernia\)](https://open.spotify.com/track/4YdanSko5467SjOaVKWlxJ) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [MORENDO AD OCCHI APERTI](https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C) | 2:55 |
 | 13 | [Tutte Le Ragazze Vogliono Canzoni D'Amore](https://open.spotify.com/track/1D8tT3ubjjLQJlPV6OPSey) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Tutte Le Ragazze Vogliono Canzoni D'Amore](https://open.spotify.com/album/4hZpfHAZaxGVuvWjkJo96C) | 2:29 |
-| 14 | [Burrasca](https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Burrasca](https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4) | 2:42 |
+| 14 | [Burrasca](https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Burrasca](https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4) | 2:42 |
 | 15 | [Incanto](https://open.spotify.com/track/7dKFWuoIZBbkvmSpduW8qd) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Incanto](https://open.spotify.com/album/6HJ9P7FB73UYG9UxwVEWXl) | 3:38 |
 | 16 | [Don't Wanna Go Home \(feat\. Henry Camamile\)](https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Henry Camamile](https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB) | [Don't Wanna Go Home \(feat\. Henry Camamile\)](https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn) | 2:37 |
 | 17 | [MARATHON](https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [MARATHON](https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1) | 2:49 |

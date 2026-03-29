@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,100 songs - 2 day 23 hr 35 min
+1,101 songs - 2 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6oq1L27bdnLF3rb8O4V41t) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 4:57 | 2022-11-29 |  |
 | [Anything](https://open.spotify.com/track/4NBMaIRzUTUUKWivAJGZ9d) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Able Bodies](https://open.spotify.com/album/7E6ctLR5KdMHeM3Y83BbYw) | 4:02 | 2025-10-08 |  |
 | [Ape Sounds Opening](https://open.spotify.com/track/1XuIxhSfZs0NBJVv1z2K6t) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Ape Sounds](https://open.spotify.com/album/3R65oX0hqHdZMLc1fwtcV1) | 0:25 | 2024-05-28 |  |
+| [Aquarium \(Intro\)](https://open.spotify.com/track/5T9GO8wAeBidT1vAobhGSE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 0:36 | 2026-03-29 |  |
 | [Arcadia](https://open.spotify.com/track/0EfJlpGqnmEPkGHgU0I2ax) | [Ramona Lisa](https://open.spotify.com/artist/4rznUCgRWVTHQX9tUyQ4BV) | [Arcadia](https://open.spotify.com/album/4OeA68LyLKcKR4g4DYkc5t) | 4:11 | 2023-10-17 |  |
 | [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 | 2024-05-31 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |

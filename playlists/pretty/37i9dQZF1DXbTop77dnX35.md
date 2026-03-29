@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr & Angelique Kidjo, Darkoo & Ruger, Black Sherif, Yarden, T.I BLaze,  Apex Village,   and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,333 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,438 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 31 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |
 | 32 | [Night and Day](https://open.spotify.com/track/2Fbylu0PvNDc4jUw26jiTc) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Tytanium](https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX) | [Káshìmaawòó \(Mixtape\)](https://open.spotify.com/album/41cjEqVgGcuzukb9VvoLxK) | 3:03 |
 | 33 | [Like Magic](https://open.spotify.com/track/0T87bdqeknkZyZ9d432UeJ) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [And Everything in Between](https://open.spotify.com/album/1sSoHbJevycMXej0EZJQwi) | 2:24 |
-| 34 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Chukwuma](https://open.spotify.com/artist/5OBDxw2Vy487nGaIY7D0oI), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
+| 34 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
 | 35 | [Sabi](https://open.spotify.com/track/6Xnpe3dxgMpthm9RatmpGl) | [Suxcity](https://open.spotify.com/artist/4CIMrLM12K2dZ0mL4STNaf), [Lareez](https://open.spotify.com/artist/3CDU98foU3tQuKRs7DxaqL), [Ramadel](https://open.spotify.com/artist/5lg5KUZY9sjLvSgZ1WKWg9) | [Sabi](https://open.spotify.com/album/7vbzvag8MlDt2dr9Y4bZml) | 2:16 |
 | 36 | [Arabambi](https://open.spotify.com/track/58RNc2HaIp3QnJhavQMDET) | [Natureboii](https://open.spotify.com/artist/5jq1J1j1GH07mpL9yw4hQj) | [Arabambi](https://open.spotify.com/album/65JvIutCen4xMk3xiQtsoz) | 1:53 |
 | 37 | [Scata](https://open.spotify.com/track/0Zeqrw8gabyHHQ4WrWGNaC) | [Joy Makita](https://open.spotify.com/artist/7rkmGoqPUUVUgpLCKvwgdp) | [Scata](https://open.spotify.com/album/3OHMCfzihjLWRrxs1qGK6z) | 3:07 |

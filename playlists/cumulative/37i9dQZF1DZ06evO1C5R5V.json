@@ -732,10 +732,36 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 155852,
       "name": "Juan el Descuartizador",
       "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+    },
+    {
+      "album": {
+        "name": "Juan el Descuartizador",
+        "url": "https://open.spotify.com/album/4wXmyG5vYdxGVlvkIBxm7S"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Jos\u00e9 Andr\u00eba",
+          "url": "https://open.spotify.com/artist/3gxND003R6Jf4U41ODfMFJ"
+        },
+        {
+          "name": "Kabr\u00f6nes",
+          "url": "https://open.spotify.com/artist/7daRDWS4dMeyuIeieB6oSS"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181002,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/7Dh45ouPTSqztckOTIJXNQ"
     },
     {
       "album": {
@@ -754,6 +780,24 @@
       "duration_ms": 228373,
       "name": "La Noche y el Silencio",
       "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193004,
+      "name": "La Perra Brava",
+      "url": "https://open.spotify.com/track/5sc61LCz9wWpRrb6ziYilE"
     },
     {
       "album": {
@@ -1416,7 +1460,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 223468,
       "name": "Tu Te las Tomaste S\u00f3lo",
       "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"

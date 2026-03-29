@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 238801,
+  "num_followers": 238868,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAABaFB6S5CTavn+9qShebTan",
+  "snapshot_id": "acXIgAAAAABy7Gt+BXxfCnKPaHx0kDg/",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo del Palenque",
         "url": "https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 189933,
       "name": "Nomas Las Mujeres Quedan",
       "url": "https://open.spotify.com/track/5HzKotagepRiIhC0af8EqB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Arturo Garza Trevino",
-      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Tres Tumbas",
         "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Amigos",
-        "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
+        "name": "20 Norte\u00f1as Los Cadetes De Linares",
+        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 171693,
-      "name": "La Tumba de Mi Madre",
-      "url": "https://open.spotify.com/track/63nEJSYwC2tp7PEhI6goQc"
+      "duration_ms": 160310,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/3TB15LyJNEwFvvwg9Q3cxA"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Norte\u00f1as Los Cadetes De Linares",
-        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
       },
       "artists": [
         {
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 160310,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/3TB15LyJNEwFvvwg9Q3cxA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenaje A Las Madres",
-        "url": "https://open.spotify.com/album/5wMmOWgWRTOyexSe2LvAEl"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Una Flor Para Mi Madre",
-      "url": "https://open.spotify.com/track/4X1i2059LF9nzr6ojOQJ8U"
+      "duration_ms": 171693,
+      "name": "La Tumba de Mi Madre",
+      "url": "https://open.spotify.com/track/63nEJSYwC2tp7PEhI6goQc"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 178760,
       "name": "Sonora y Sus Ojos Negros",
       "url": "https://open.spotify.com/track/3kO70lSqCm8dAEWYmVgNpf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje A Las Madres",
+        "url": "https://open.spotify.com/album/5wMmOWgWRTOyexSe2LvAEl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Una Flor Para Mi Madre",
+      "url": "https://open.spotify.com/track/4X1i2059LF9nzr6ojOQJ8U"
     },
     {
       "added_at": null,

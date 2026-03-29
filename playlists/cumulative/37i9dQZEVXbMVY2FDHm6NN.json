@@ -4262,7 +4262,7 @@
     {
       "album": {
         "name": "\u592a\u967d\u4e4b\u5b50",
-        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
       "artists": [
         {
@@ -4273,6 +4273,24 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216333,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/0SXRPH2xsb2KEcuyoYNM08"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2026-03-29",
       "duration_ms": 216333,
       "name": "I Do",
       "url": "https://open.spotify.com/track/455ReXXJlyUGyqlapuaBEY"
@@ -10606,10 +10624,28 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 193356,
       "name": "\u4e03\u6708\u7684\u6975\u5149",
       "url": "https://open.spotify.com/track/2L27CnyDa2XeENxR3mai7c"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193356,
+      "name": "\u4e03\u6708\u7684\u6975\u5149",
+      "url": "https://open.spotify.com/track/5Yldd3TzBRAnZIxssvGTHl"
     },
     {
       "album": {
@@ -11650,7 +11686,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 221952,
       "name": "\u55ae\u7a0b\u7968",
       "url": "https://open.spotify.com/track/1Y75eWEIVy1Efa1p1fySRC"
@@ -11668,7 +11704,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 221952,
       "name": "\u55ae\u7a0b\u7968",
       "url": "https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC"
@@ -11910,10 +11946,28 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 297371,
       "name": "\u592a\u967d\u4e4b\u5b50",
       "url": "https://open.spotify.com/track/5GU70RRkomyBBqLkCYcqem"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297371,
+      "name": "\u592a\u967d\u4e4b\u5b50",
+      "url": "https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp"
     },
     {
       "album": {
@@ -12282,7 +12336,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 197384,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/3P6hXhSXC85qbaO9o9SaTz"
@@ -12304,7 +12358,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 197384,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi"
@@ -12928,7 +12982,7 @@
     {
       "album": {
         "name": "\u592a\u967d\u4e4b\u5b50",
-        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
       "artists": [
         {
@@ -12939,6 +12993,24 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214333,
+      "name": "\u611b\u7434\u6d77",
+      "url": "https://open.spotify.com/track/3lzHO8msJ0ykGa0v8s4vu0"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2026-03-29",
       "duration_ms": 214333,
       "name": "\u611b\u7434\u6d77",
       "url": "https://open.spotify.com/track/7FHaLCO86rDg5umhdq8w9r"
@@ -13422,7 +13494,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -13440,7 +13512,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -14000,7 +14072,7 @@
     {
       "album": {
         "name": "\u592a\u967d\u4e4b\u5b50",
-        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
       "artists": [
         {
@@ -14011,6 +14083,24 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 238361,
+      "name": "\u6e58\u5973\u591a\u60c5",
+      "url": "https://open.spotify.com/track/2B8vNkGx8sXH6U9bugIEqJ"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2026-03-29",
       "duration_ms": 238361,
       "name": "\u6e58\u5973\u591a\u60c5",
       "url": "https://open.spotify.com/track/5YUQbuyl3jrunVHO2yMyMj"
@@ -14786,10 +14876,28 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 229404,
       "name": "\u897f\u897f\u91cc",
       "url": "https://open.spotify.com/track/3aTj7PBZwB7xcBnXh9RTLD"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229404,
+      "name": "\u897f\u897f\u91cc",
+      "url": "https://open.spotify.com/track/51d6dBUY3Dczsl2DdHu6EP"
     },
     {
       "album": {
@@ -14932,7 +15040,7 @@
     {
       "album": {
         "name": "\u592a\u967d\u4e4b\u5b50",
-        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
       "artists": [
         {
@@ -14943,6 +15051,24 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262336,
+      "name": "\u8ab0\u7a00\u7f55",
+      "url": "https://open.spotify.com/track/3VdNjKwpNm6rVRSjeL2Ucq"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2026-03-29",
       "duration_ms": 262336,
       "name": "\u8ab0\u7a00\u7f55",
       "url": "https://open.spotify.com/track/3o48XqWAWW8cCN2mcIP8K6"
@@ -15250,7 +15376,7 @@
     {
       "album": {
         "name": "\u592a\u967d\u4e4b\u5b50",
-        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
       "artists": [
         {
@@ -15261,6 +15387,24 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223333,
+      "name": "\u90a3\u5929\u4e0b\u96e8\u4e86",
+      "url": "https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/4dMIYhrKin0DcYPyHTYFdN"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2026-03-29",
       "duration_ms": 223333,
       "name": "\u90a3\u5929\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/3IDhIUeNCVmAxDt7XRMPQb"

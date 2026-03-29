@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。RAYE, Charlie Puth, HANA, Miley Cyrus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,233 likes - 88 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,254 likes - 88 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [AKIRAMERU](https://open.spotify.com/track/6HfR86mbrD5LO8SPO1x6Ys) | [BRIAN SHINSEKAI](https://open.spotify.com/artist/1PVcbOXDaNvUmNjjb9iNEq) | [AKIRAMERU](https://open.spotify.com/album/5x9KxYYZzKn6FWWOZ5AVq6) | 3:23 |
 | 73 | [Long Way Home](https://open.spotify.com/track/6BsHcAWmzajPsuvGlzOWCB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Long Way Home](https://open.spotify.com/album/7tYLXNTWLT9ZhpKLTHGQgn) | 3:05 |
 | 74 | [Sweetest Tea](https://open.spotify.com/track/5ZYfXRgSGwLU6J0t5z85lp) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [Pindxng](https://open.spotify.com/artist/2Bx7M5BCzUMFGtZoqi9AVg) | [Sweetest Tea](https://open.spotify.com/album/7dXiLr9XRzj1FD8d0xY3hj) | 1:40 |
-| 75 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC), [Slim Gabriel](https://open.spotify.com/artist/2V1pidmyk9HpSXo1CvxxwI), [Darren Jones](https://open.spotify.com/artist/4tUPPW4XEPUuQ83r89er8G), [Sam Every](https://open.spotify.com/artist/6sLx1QhilPrtx51Mh5wMJv) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
+| 75 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
 | 76 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 |
 | 77 | [Flutter](https://open.spotify.com/track/1h7BredQJxe70R90k69FoS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Daisy](https://open.spotify.com/album/5FFE0Lmz20phfvrju1VK7m) | 3:14 |
 | 78 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |

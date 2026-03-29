@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 147 songs - 8 hr 39 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 149 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 145 | [Castle Treasure](https://open.spotify.com/track/61e5SSs901lBfFpnGTlL8j) | [Pernoste](https://open.spotify.com/artist/1ZphGjO7Q9HRDSBaxgkAT8) | [Even Love](https://open.spotify.com/album/4oLR1DUvEbLXlBDluodmZ0) | 7:00 |
 | 146 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 |
 | 147 | [Occhi D’argento](https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Occhi D’argento](https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1) | 2:41 |
+| 148 | [Smile](https://open.spotify.com/track/6uKneVDbug79oVARPAqfKG) | [Asher Saipe](https://open.spotify.com/artist/11qtvzvtcIBq9S5gNPnBDD) | [Smile](https://open.spotify.com/album/24KgIkZhea3iRt93nKb8xw) | 4:05 |
+| 149 | [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 |
 
-Snapshot ID: `AAASVzwoxKgZd4oTC0GFcR9M47bmCnxr`
+Snapshot ID: `AAASWeUPy9xDjSQ4ZIN+O8MkOudInEBE`

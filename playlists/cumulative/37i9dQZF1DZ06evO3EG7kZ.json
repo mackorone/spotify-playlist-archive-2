@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129029,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB"
+    },
+    {
+      "album": {
         "name": "Sleepytime",
         "url": "https://open.spotify.com/album/594hazIUZ5Y3um2QVc6GJu"
       },

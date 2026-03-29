@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Willie Peyote ha una nuova canzone tutta blu e sad 🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,251 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,241 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Burrasca](https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Burrasca](https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4) | 2:42 |
+| 1 | [Burrasca](https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Burrasca](https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4) | 2:42 |
 | 2 | [Vulcano](https://open.spotify.com/track/1OWAVqDhJ2w1gupu9HZE7b) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Agonia](https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW) | 3:24 |
 | 3 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 | 4 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 |

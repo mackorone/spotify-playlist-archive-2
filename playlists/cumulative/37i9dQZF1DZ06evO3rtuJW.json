@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "I Remember/Dear Zavier (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/6Oiqx3WAy5uNdnPF0NAtkg"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328574,
+      "name": "I Remember/Dear Zavier (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/30Hyt5QtfCBUYlC10rZtCo"
+    },
+    {
+      "album": {
         "name": "ONLY BUILT 4 DIAMOND LINKS",
         "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
       },
@@ -2268,7 +2290,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 190646,
       "name": "Longevity",
       "url": "https://open.spotify.com/track/1DoUK8xVHImACABHPSz7Vh"

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-164 songs - 9 hr 4 min
+165 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 | 2025-08-03 |  |
 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 | 2025-07-14 |
 | [CELOSO](https://open.spotify.com/track/2zQaIkHQ4Z0QZI50z4kYWC) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:05 | 2025-04-24 | 2025-08-11 |
+| [Chiclona](https://open.spotify.com/track/36tSNlKEoGe7Wwb6PKRgc9) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Chiclona](https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue) | 2:32 | 2026-03-29 |  |
 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:03 | 2025-02-28 | 2026-03-08 |
 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/17P1GVYuIElGQGZKbmr2nY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:03 | 2025-03-05 | 2025-03-26 |
 | [Con la U y la P](https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4) | [Geovany Montaño](https://open.spotify.com/artist/3pbmkTrI87Q1z4n6cr009F), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [Con la U y la P](https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t) | 3:16 | 2024-01-29 | 2025-12-20 |
@@ -71,7 +72,7 @@
 | [El Rival](https://open.spotify.com/track/2IvkCzmXWixXtMA1v8S2eT) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Esta Que Arde la Finikera](https://open.spotify.com/album/7lM5mJprKzHhntpJ5uXB5y) | 3:09 | 2024-12-15 | 2024-12-20 |
 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/1x8Fw4vwlxsupmVUDEK6hl) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EL SUBE Y BAJA \(En Vivo\)](https://open.spotify.com/album/6J4oo3VvSrs8OsNwS0Tp9E) | 2:47 | 2025-02-02 | 2025-04-14 |
 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 | 2025-04-14 |  |
-| [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 |  |
+| [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 | 2026-03-29 |
 | [El Tucanazo \- En Vivo](https://open.spotify.com/track/08EQVtwQGWyXRUNYeXBwMz) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:10 | 2025-12-21 | 2026-01-18 |
 | [fake](https://open.spotify.com/track/4g42FsFm9WVhl1fReFPxNg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:56 | 2024-06-09 | 2024-06-22 |
 | [Falsas Amistades](https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8), [Grupo Xclusivo](https://open.spotify.com/artist/3ow1pOzmEWbtGbqtMUXHdq), [El Buffalo](https://open.spotify.com/artist/2TeBC9zX5PmG0YzvtGIbWe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Falsas Amistades](https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT) | 3:44 | 2024-01-29 | 2025-12-22 |

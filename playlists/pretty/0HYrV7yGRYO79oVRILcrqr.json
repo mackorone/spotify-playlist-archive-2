@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc49 Free Pitch : audiartist.com | Insta : stardust_from_sun | Email : musiqueslibre2droit@gmail.com | \ud83c\udfb8 Rock &#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul. Soulful rhythms, timeless riffs, and electrifying energy. Follow now and vibe with the best of rock and blues!",
-  "num_followers": 1762,
+  "num_followers": 1763,
   "original_name": "\ud83c\udfb8 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), Soul",
   "owner": {
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAK8HTfFuuWuRe0o40M86jEAY1m9cJl",
+  "snapshot_id": "AAAK9Qh4sftf9wZIn3zBElS51eGufX/H",
   "tracks": [
     {
       "added_at": "2026-03-02 08:41:02",
@@ -277,6 +277,22 @@
       "url": "https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA"
     },
     {
+      "added_at": "2026-03-28 13:53:23",
+      "album": {
+        "name": "When I Get Old",
+        "url": "https://open.spotify.com/album/4gLSznIkD0X8ndqSGe5rZn"
+      },
+      "artists": [
+        {
+          "name": "Richie Cross",
+          "url": "https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "When I Get Old",
+      "url": "https://open.spotify.com/track/6yFzWY5DuTVibHfhUF4H8C"
+    },
+    {
       "added_at": "2025-11-30 17:39:07",
       "album": {
         "name": "Huckleberry",
@@ -309,6 +325,22 @@
       "url": "https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy"
     },
     {
+      "added_at": "2026-03-28 13:49:21",
+      "album": {
+        "name": "Heaven Is Home",
+        "url": "https://open.spotify.com/album/1Yr6VgrFollbKhjQpP16kV"
+      },
+      "artists": [
+        {
+          "name": "Bobby McClintock",
+          "url": "https://open.spotify.com/artist/4BCFlFcAXkXBrdzccAuSKQ"
+        }
+      ],
+      "duration_ms": 267869,
+      "name": "Heaven Is Home",
+      "url": "https://open.spotify.com/track/1hGZtcGyWiDFA7GRklKnyd"
+    },
+    {
       "added_at": "2025-10-17 07:25:12",
       "album": {
         "name": "Something Blue",
@@ -323,6 +355,22 @@
       "duration_ms": 219252,
       "name": "Something Blue",
       "url": "https://open.spotify.com/track/6IBvK2Xia5U5Wmg6jkI73G"
+    },
+    {
+      "added_at": "2026-03-28 11:41:40",
+      "album": {
+        "name": "All The Light",
+        "url": "https://open.spotify.com/album/64HqU069ukivftqhZQIigS"
+      },
+      "artists": [
+        {
+          "name": "Lotus Grove",
+          "url": "https://open.spotify.com/artist/26mBaP2fnwi2GnYNRWn9vR"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "All The Light",
+      "url": "https://open.spotify.com/track/3jcjiSz3CQHyVLNbWcVKpo"
     },
     {
       "added_at": "2025-12-08 22:17:21",
@@ -1927,6 +1975,38 @@
       "duration_ms": 275110,
       "name": "Pasadena",
       "url": "https://open.spotify.com/track/49pZFYgeo8gRIpmbar1iqs"
+    },
+    {
+      "added_at": "2026-03-28 11:48:46",
+      "album": {
+        "name": "See The Fun",
+        "url": "https://open.spotify.com/album/2DrEO9bJMAeqNVHCkpcw4y"
+      },
+      "artists": [
+        {
+          "name": "Park Crescent",
+          "url": "https://open.spotify.com/artist/0eH4YPI7CuV9eWHgjxvqwH"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "See The Fun",
+      "url": "https://open.spotify.com/track/5Usry4IsZuNFBNSjUE6DUb"
+    },
+    {
+      "added_at": "2026-03-28 12:06:28",
+      "album": {
+        "name": "Run Like Hell",
+        "url": "https://open.spotify.com/album/0YpOLzprIMHKTDPFoOmMdb"
+      },
+      "artists": [
+        {
+          "name": "Juan El Grande",
+          "url": "https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "Run Like Hell",
+      "url": "https://open.spotify.com/track/73P4RnHmHOtwYI3nSIueR7"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), Soul",

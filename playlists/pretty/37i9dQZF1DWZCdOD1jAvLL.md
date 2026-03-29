@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,158 likes - 121 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,197 likes - 121 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

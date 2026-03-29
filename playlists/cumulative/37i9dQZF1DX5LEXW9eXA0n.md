@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 지아 \(Zia\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Ra.D\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,709 songs - 4 day 15 hr 4 min
+1,710 songs - 4 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 | 2023-06-06 | 2023-12-14 |
 | [Gravity](https://open.spotify.com/track/5iflfzsLm8GwB8nXeglqbQ) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5bOcT4IKuy49u5nbDH3hnn) | 3:09 | 2022-03-24 | 2022-04-18 |
 | [Gravity of You](https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [SINCERELY MELODIES](https://open.spotify.com/album/3TxzTHwIDN6XFVtIVDDA3o) | 3:33 | 2025-09-24 |  |
-| [Greatest Moment](https://open.spotify.com/track/0AU3XZ0sL55ooBVpwxOhub) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [UNFOLD](https://open.spotify.com/album/5ifjUzy1LkJJAKqVSPfcsk) | 4:24 | 2025-12-04 |  |
+| [Greatest Moment](https://open.spotify.com/track/0AU3XZ0sL55ooBVpwxOhub) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [UNFOLD](https://open.spotify.com/album/5ifjUzy1LkJJAKqVSPfcsk) | 4:24 | 2025-12-04 | 2026-03-29 |
 | [Guilt](https://open.spotify.com/track/3TMIl4bxG9D4nlJQjkMJwz) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [Guilt](https://open.spotify.com/album/2DyLO9uBuy8jN4hMeyPRyJ) | 4:30 | 2026-01-13 |  |
 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-06-18 | 2022-08-19 |
 | [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-08-31 | 2023-10-03 |
@@ -729,6 +729,7 @@
 | [I’ll Be Waiting](https://open.spotify.com/track/2yPHZA0El8Wea9sArvEfMw) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 24](https://open.spotify.com/album/3cNZ2zZb7sVr6DOIZGdAgd) | 3:40 | 2023-09-11 | 2023-11-16 |
 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 | 2023-09-18 | 2023-11-14 |
 | [I’ll Never Know You](https://open.spotify.com/track/3W3DMcutGcZan4KnpNrkw9) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Parting](https://open.spotify.com/album/4ffRADPvsTjnATr8zCg2Ta) | 4:03 | 2021-12-23 | 2022-07-08 |
+| [I’m fine, really](https://open.spotify.com/track/0bgBCVoNy7OS0WC5ADTzSY) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Still Shining OST Part.8](https://open.spotify.com/album/4b0H5ID0HPW4fTILjt7EsX) | 3:36 | 2026-03-28 |  |
 | [I′m Fine](https://open.spotify.com/track/5HHIWjALSDmfZJGG8Nw6aS) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [I'm Fine](https://open.spotify.com/album/4w85vsZs8LOMXnQMCXO7Ff) | 4:09 | 2023-02-24 | 2023-06-23 |
 | [I′m Sad without You \(Feat\. DOKO\)](https://open.spotify.com/track/35gNUShmNzCuSccQ5XheBp) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [I'm Sad without You](https://open.spotify.com/album/1T5vbcHbRYU9ICbvmfexFe) | 3:34 | 2022-11-09 | 2023-01-21 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-11 | 2023-02-15 |

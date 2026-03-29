@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 195136,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
@@ -4696,7 +4696,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 219820,
       "name": "Melodica",
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
@@ -4736,6 +4736,28 @@
       "duration_ms": 256112,
       "name": "Memories of Grass",
       "url": "https://open.spotify.com/track/3bbozj0fLmHcD8iXrqhcPL"
+    },
+    {
+      "album": {
+        "name": "Sunbeam of No Illusion",
+        "url": "https://open.spotify.com/album/6ZJ4BvSqeVBwyKjfYnEs8T"
+      },
+      "artists": [
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        },
+        {
+          "name": "John Thayer",
+          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248238,
+      "name": "Memory Garden",
+      "url": "https://open.spotify.com/track/3uDlFdakzc4b7oyrmnFkiY"
     },
     {
       "album": {
@@ -6930,6 +6952,24 @@
       "duration_ms": 152000,
       "name": "Slow Worm",
       "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
+    },
+    {
+      "album": {
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486000,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
     },
     {
       "album": {

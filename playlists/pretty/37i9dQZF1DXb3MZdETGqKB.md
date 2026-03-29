@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,840 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,856 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 5 | [My Everything](https://open.spotify.com/track/7mhgdTcT5Zont0DXYKIjyU) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Prayer and Pleasure](https://open.spotify.com/album/32mxNFVLvz1w7iTaAh1J5t) | 3:49 |
 | 6 | [ATM](https://open.spotify.com/track/1VjLo8p2kIz3gsdgdIrsit) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [ATM](https://open.spotify.com/album/4I65kECMNWuvQPbzm1N3Hi) | 2:26 |
 | 7 | [Weekends Are for Making Love](https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Weekends Are for Making Love](https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc) | 2:49 |
-| 8 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 8 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:02 |
 | 9 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
 | 10 | [Naked In The Jungle](https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Naked In The Jungle](https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c) | 3:14 |
 | 11 | [Alone](https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [The Love Anthology](https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM) | 3:45 |

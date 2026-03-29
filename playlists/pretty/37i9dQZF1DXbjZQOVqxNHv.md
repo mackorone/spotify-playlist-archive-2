@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,015 likes - 200 songs - 19 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,098 likes - 200 songs - 19 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,11 +154,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 144 | [Zip Left, Zip Right](https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Digitalis](https://open.spotify.com/album/6SwEpgSxk3oRekFjMl69Oo) | 5:55 |
 | 145 | [Right Time Right Place](https://open.spotify.com/track/2n5wJWJwTabSA2zJk7xEO3) | [Blectum From Blechdom](https://open.spotify.com/artist/2iDfyLGn8aPFWfY6v7yd40) | [Haus de Snaus](https://open.spotify.com/album/3GJDbkBNxLqQ3qaLe3rGan) | 2:09 |
 | 146 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 |
-| 147 | [Re\-Folk](https://open.spotify.com/track/1YXfPGzX4KWvEepSpz9X7u) | [Dat Politics](https://open.spotify.com/artist/56UPLEcLj18f5hSxWOvHaZ) | [Plugs Plus](https://open.spotify.com/album/1XDqQLZons2lMucBSSi6uF) | 3:24 |
-| 148 | [Accent](https://open.spotify.com/track/10vbaNdPMRVmHZvRIAGen0) | [Christian Kleine](https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj) | [Valis](https://open.spotify.com/album/4eXbpc1durSnCg1GFV9tKh) | 4:04 |
+| 147 | [Accent](https://open.spotify.com/track/10vbaNdPMRVmHZvRIAGen0) | [Christian Kleine](https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj) | [Valis](https://open.spotify.com/album/4eXbpc1durSnCg1GFV9tKh) | 4:04 |
+| 148 | [Re\-Folk](https://open.spotify.com/track/1YXfPGzX4KWvEepSpz9X7u) | [Dat Politics](https://open.spotify.com/artist/56UPLEcLj18f5hSxWOvHaZ) | [Plugs Plus](https://open.spotify.com/album/1XDqQLZons2lMucBSSi6uF) | 3:24 |
 | 149 | [Scatter Fold 28](https://open.spotify.com/track/22C4cc807ceeFGrsrRqdfr) | [Richard Devine](https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv) | [Lipswitch](https://open.spotify.com/album/6oYX9Cqeod5b8xk9YDduDh) | 4:24 |
-| 150 | [Hector's House](https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0l8dymo7QwPHkQRNEInA9A) | 4:26 |
-| 151 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 |
+| 150 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 |
+| 151 | [Hector's House](https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0l8dymo7QwPHkQRNEInA9A) | 4:26 |
 | 152 | [Horse And Trap](https://open.spotify.com/track/1RM4T1hmEBie4QvqmmmhK5) | [Team Doyobi](https://open.spotify.com/artist/3PwebPlXy8NoRTcLIMmOrw) | [Cryptoburners](https://open.spotify.com/album/1J6cgnJ2VDd2P9tsNs96hf) | 5:55 |
 | 153 | [FRT3](https://open.spotify.com/track/5rMghWmSKXgk6XmpZlcL5e) | [The Fear Ratio](https://open.spotify.com/artist/6e6qkEsLUF72vmxPuQQPHG) | [Kasm01](https://open.spotify.com/album/4LPlZdxxGCkWJCn0pquO4V) | 2:54 |
 | 154 | [GM Memory](https://open.spotify.com/track/102zS5JmV0pGRdMXZZ3K4r) | [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O) | [Hobby Industries Split EP 3](https://open.spotify.com/album/5evflGXiNO7a6pGkkhOnVW) | 4:37 |
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 173 | [Denn Runner Oh](https://open.spotify.com/track/3jNLVbQIEHthI0lqZvCBAI) | [Oberman Knocks](https://open.spotify.com/artist/52N9NaM6bgKbK70MQix3EP) | [Wrecque Byte Quarters EP](https://open.spotify.com/album/5lZXcZ185wZ1npni7ylgqR) | 5:31 |
 | 174 | [Has Been Trying Not To Wonder](https://open.spotify.com/track/0wY9cUFQWQL0V4R3RHXV2w) | [Lexaunculpt](https://open.spotify.com/artist/503hICfx078zJ1Y4Vhl4Md) | [The Blurring Of Trees](https://open.spotify.com/album/5cFl0kAEgXRZgXROZkm94Z) | 7:55 |
 | 175 | [Tango N' Vectif](https://open.spotify.com/track/0WtQ6d5cLyhfvZyLrElZbw) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:10 |
-| 176 | [Centercourt](https://open.spotify.com/track/3bEyXhlK8dg1yg6VEVS0zN) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Tadley Management](https://open.spotify.com/album/3766e1WmYg9o3X6px7YAme) | 5:39 |
-| 177 | [Duck Vortex](https://open.spotify.com/track/7wNfkDOLVCFf4NfElBTeL2) | [My Selfish Desire](https://open.spotify.com/artist/4UXuhx13ehiK1XQJka4kpF) | [Duck Vortex](https://open.spotify.com/album/1vWVB1pEpUyX7vAQEAn2Bk) | 3:26 |
+| 176 | [Duck Vortex](https://open.spotify.com/track/7wNfkDOLVCFf4NfElBTeL2) | [My Selfish Desire](https://open.spotify.com/artist/4UXuhx13ehiK1XQJka4kpF) | [Duck Vortex](https://open.spotify.com/album/1vWVB1pEpUyX7vAQEAn2Bk) | 3:26 |
+| 177 | [Centercourt](https://open.spotify.com/track/3bEyXhlK8dg1yg6VEVS0zN) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Tadley Management](https://open.spotify.com/album/3766e1WmYg9o3X6px7YAme) | 5:39 |
 | 178 | [Dayvan Cowboy](https://open.spotify.com/track/4Y2W4zKa3q72ztbkA0r8Va) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:00 |
 | 179 | [Planet Pancake](https://open.spotify.com/track/6PQFSlR6Bz6nLEO0y2PpbZ) | [Arcade Audio Assault System](https://open.spotify.com/artist/2NhPscZ49iTXCLVpjD7gpc) | [Planet Funnel](https://open.spotify.com/album/51X6KknzC45kGK76KiIzKd) | 3:30 |
 | 180 | [Open Eye Signal](https://open.spotify.com/track/6wMTeVootJ8RdCLNOZy5Km) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 7:48 |
@@ -202,9 +202,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 | 192 | [Frosch](https://open.spotify.com/track/0Wo1zuzCZGSZfemRwzDIjf) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Vulvaland](https://open.spotify.com/album/5GFh1VWsv5TXj7CqLIXvsV) | 9:19 |
 | 193 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 194 | [Fahrenheit Fair Enough](https://open.spotify.com/track/3RozFGB92T3PBGfdXeQS5K) | [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC) | [Fahrenheit Fair Enough](https://open.spotify.com/album/5OnTABNHitszrtiIE3zGoZ) | 6:40 |
-| 195 | [Covert Action](https://open.spotify.com/track/6MEbu9VaPFCVU1k16bDGNE) | [Urban Tribe](https://open.spotify.com/artist/68nImMIMkSvdg8ivSyJfsr) | [20 Fucking Years Of Planet E: We Ain't Dead Yet](https://open.spotify.com/album/2VqgNTwrcrMbgPClJns73L) | 7:45 |
+| 195 | [De\-Orbit](https://open.spotify.com/track/51dIflTO3AYBlox82UXDuG) | [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 6:13 |
 | 196 | [Clipper](https://open.spotify.com/track/0tH7mxb2ML1VlOinHRcelQ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 8:34 |
-| 197 | [De\-Orbit](https://open.spotify.com/track/51dIflTO3AYBlox82UXDuG) | [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 6:13 |
+| 197 | [Covert Action](https://open.spotify.com/track/6MEbu9VaPFCVU1k16bDGNE) | [Urban Tribe](https://open.spotify.com/artist/68nImMIMkSvdg8ivSyJfsr) | [20 Fucking Years Of Planet E: We Ain't Dead Yet](https://open.spotify.com/album/2VqgNTwrcrMbgPClJns73L) | 7:45 |
 | 198 | [Left Side Drive](https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:20 |
 | 199 | [Ralome](https://open.spotify.com/track/1XLeX0E7yeFHrSkTgVNtMm) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Rest Proof Clockwork](https://open.spotify.com/album/4IkvCDzidC5XbElsN1SUsg) | 4:29 |
 | 200 | [Daymares, It Is What It Is](https://open.spotify.com/track/6RYWmzwyyKEZxrQWwQRiTH) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 6:37 |

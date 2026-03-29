@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,160 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,173 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 99 | [Cómotu](https://open.spotify.com/track/0LJTp3MB60HmW6YaXGckPd) | [Binny](https://open.spotify.com/artist/1xfAfaMDflIQ6eUDtuQ1q3), [Sixtina](https://open.spotify.com/artist/6Utuwz6QcMufemPQsYT7Uu) | [Cómotu](https://open.spotify.com/album/3YSoXxrDu3IfLMeqILmTNk) | 2:44 |
 | 100 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 
-Snapshot ID: `AAAAAC145vctHlZqizaRBK5BxiPBFix7`
+Snapshot ID: `AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt`

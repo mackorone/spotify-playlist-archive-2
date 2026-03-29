@@ -4,7 +4,7 @@
 
 > The latest in hip\-hop, updated weekly\. Cover: Yeat
 
-4,745 songs - 9 day 10 hr 18 min
+4,746 songs - 9 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1381,6 +1381,7 @@
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 | 2023-03-10 | 2023-03-18 |
 | [Fatality](https://open.spotify.com/track/0PN3ehH0hcjSbwCmy5WtWR) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fatality](https://open.spotify.com/album/1O2zImTgvxU8lRdkGvcTUi) | 2:15 | 2023-05-26 | 2023-06-03 |
 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 | 2025-02-28 | 2025-03-22 |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-28 |  |
 | [Fatt Blacc Twins \(feat\. Bfb Da Packman\)](https://open.spotify.com/track/1pt3QCdswMCylVdsvyzUIi) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Fatt Blacc Twins \(feat\. Bfb Da Packman\)](https://open.spotify.com/album/5BHojtLx1CqlQDlvosFHzk) | 2:43 | 2023-06-16 | 2023-06-24 |
 | [FATTY](https://open.spotify.com/track/2i7T1Y39HUMvnCcFIz0Sjl) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [FATTY](https://open.spotify.com/album/0EyzwRhE0gOelqxESBVLgk) | 1:56 | 2025-05-23 | 2025-05-31 |
 | [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 | 2024-12-13 | 2024-12-21 |

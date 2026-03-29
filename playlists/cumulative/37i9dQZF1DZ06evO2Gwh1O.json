@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/60bH50UKupkhEAHfmKBqoc"
+    },
+    {
+      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },

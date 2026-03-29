@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Grasu XXL",
-  "num_followers": 22952,
+  "num_followers": 22959,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-03-26 22:00:31",
       "album": {
+        "name": "SCRISOARE DE CARTIER",
+        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "duration_ms": 101015,
+      "name": "SCRISOARE DE CARTIER",
+      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
+    },
+    {
+      "added_at": "2026-03-26 22:00:31",
+      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 193481,
       "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
       "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
-    },
-    {
-      "added_at": "2026-03-26 22:00:31",
-      "album": {
-        "name": "SCRISOARE DE CARTIER",
-        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
-      },
-      "artists": [
-        {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
-        }
-      ],
-      "duration_ms": 101015,
-      "name": "SCRISOARE DE CARTIER",
-      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
     },
     {
       "added_at": "2026-03-26 22:00:31",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-03-26 22:00:31",
       "album": {
+        "name": "Cine E\u0219ti Tu?",
+        "url": "https://open.spotify.com/album/2tDMZPK7136n55jdSz3GL1"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "duration_ms": 129512,
+      "name": "Cine E\u0219ti Tu?",
+      "url": "https://open.spotify.com/track/78YoRX0Q9a407ZTgpcdzSJ"
+    },
+    {
+      "added_at": "2026-03-26 22:00:31",
+      "album": {
         "name": "Grinch",
         "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 194000,
       "name": "Grinch",
       "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
-    },
-    {
-      "added_at": "2026-03-26 22:00:31",
-      "album": {
-        "name": "Cine E\u0219ti Tu?",
-        "url": "https://open.spotify.com/album/2tDMZPK7136n55jdSz3GL1"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 129512,
-      "name": "Cine E\u0219ti Tu?",
-      "url": "https://open.spotify.com/track/78YoRX0Q9a407ZTgpcdzSJ"
     },
     {
       "added_at": "2026-03-26 22:00:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Charlotte Cornfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,120 likes - 149 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,113 likes - 149 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

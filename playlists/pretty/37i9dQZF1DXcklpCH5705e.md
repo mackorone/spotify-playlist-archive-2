@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,652 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,651 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 |
 | 2 | [牽掛 \- 滾石撞樂隊2 \(原唱:伍佰 & China Blue\)](https://open.spotify.com/track/7ymJpLWqJIZN1sMyyELFAG) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [滾石撞樂隊2 \- 牽掛](https://open.spotify.com/album/4cJQpg06BwS34dEp7vQ8kk) | 3:49 |
 | 3 | [西岸小法咒](https://open.spotify.com/track/3CJXCELQP2I62NN6OgOyvA) | [Bu$Y](https://open.spotify.com/artist/3Q0Nfmn14Htr4eNblqA1gC) | [西岸小法咒](https://open.spotify.com/album/2YrYRpFOdYr3E4oeiVlDHT) | 2:30 |
-| 4 | [都知订](https://open.spotify.com/track/718dSu3kQMgpN6WzUDviEv) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [瘦恒SoulHan](https://open.spotify.com/artist/2yEM6FQHRg8FRSbQ2qNV46), [PlayerJ](https://open.spotify.com/artist/3ZROSle4RFBt5LeZbeSWko), [步步高先生](https://open.spotify.com/artist/5LMG6LAfmneyTRKhs7uu1Q), [阿牛](https://open.spotify.com/artist/7imlHyMoxRnxJpYQPqu6JO) | [都知订](https://open.spotify.com/album/5zbCQHWtSFLYDDkKHSRHpG) | 3:44 |
+| 4 | [都知订](https://open.spotify.com/track/718dSu3kQMgpN6WzUDviEv) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [瘦恒SoulHan](https://open.spotify.com/artist/2yEM6FQHRg8FRSbQ2qNV46), [PlayerJ](https://open.spotify.com/artist/3ZROSle4RFBt5LeZbeSWko), [步步高先生](https://open.spotify.com/artist/5LMG6LAfmneyTRKhs7uu1Q), [阿牛](https://open.spotify.com/artist/7imlHyMoxRnxJpYQPqu6JO), [伍條柒](https://open.spotify.com/artist/6Fi392oL5jTzkzvG5ASBOh) | [都知订](https://open.spotify.com/album/5zbCQHWtSFLYDDkKHSRHpG) | 3:44 |
 | 5 | [你怎麼捨得我難過 \- 滾石撞樂隊2 \(原唱:黃品源\)](https://open.spotify.com/track/1fZhClIljIAn0qC2E0JMAo) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [滾石撞樂隊2 \- 你怎麼捨得我難過](https://open.spotify.com/album/30JaE8G16R1929l9KKnGxG) | 4:11 |
 | 6 | [追](https://open.spotify.com/track/51p4wh1TSASZUPEenUgelq) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [1994前傳 \- 追](https://open.spotify.com/album/2XwqXjWUNPzaBh3qZ2Twg2) | 4:45 |
 | 7 | [怎麼你連再見都沒說就走了](https://open.spotify.com/track/7qKUp7bqUiXNVme8ba5Cx5) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [怎麼你連再見都沒說就走了](https://open.spotify.com/album/7tUvsu80skGQ5MyLjado2o) | 3:19 |

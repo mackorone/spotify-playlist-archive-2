@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURSまであと6日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Manaka
+> 【POP YOURSまであと5日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Rama Pantera
 
-1,392 songs - 2 day 16 hr 9 min
+1,393 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,8 +840,9 @@
 | [OMOI](https://open.spotify.com/track/5PHi326jUlgjQO6e6DpGCg) | [YOUNG GAGA GG DIOR](https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd) | [88](https://open.spotify.com/album/7cuugyR6AQxlGikdRQtXym) | 2:28 | 2025-04-08 | 2025-06-18 |
 | [omoi](https://open.spotify.com/track/7olTMtrNFCBPHmtSltZ6vS) | [yura](https://open.spotify.com/artist/1fdU76nbdxEwt2OkXmpP7f) | [omoi](https://open.spotify.com/album/7aqwkxDCxhsTBg5ZpXf6nX) | 2:29 | 2025-04-01 | 2025-06-04 |
 | [Omou](https://open.spotify.com/track/1LmIEotl9cVgZL3WdlqWzw) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5) | [Omou](https://open.spotify.com/album/3X8MzI5MFNRYbARMD4zB8V) | 3:04 | 2026-03-03 |  |
-| [On & On](https://open.spotify.com/track/79Rt9uybHReZvhZLDNGke5) | [Rama Pantera](https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0) | [On & On](https://open.spotify.com/album/2ITObQLGNC6LWatwLnlkRD) | 3:25 | 2025-12-16 |  |
+| [On & On](https://open.spotify.com/track/79Rt9uybHReZvhZLDNGke5) | [Rama Pantera](https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0) | [On & On](https://open.spotify.com/album/2ITObQLGNC6LWatwLnlkRD) | 3:25 | 2025-12-16 | 2026-03-29 |
 | [On Ma HOOD](https://open.spotify.com/track/7pbqDuMhhs4vJ8e3CHlLEv) | [$till.J.Cark](https://open.spotify.com/artist/7Ib2pqwSqhPdgsRV28N9gt) | [On Ma HOOD](https://open.spotify.com/album/3eojasFEDq2h2RZ6RmOb7k) | 1:55 | 2024-07-16 | 2024-08-28 |
+| [On My Way \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/0gdmTNbDCETvqfAnreNpbX) | [Rama Pantera](https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [SHARNGA : Before the Arrow Flies](https://open.spotify.com/album/3ae5AFkrgCmxki6N9Qo3LC) | 3:44 | 2026-03-28 |  |
 | [On The Island \(feat\. AKLO\)](https://open.spotify.com/track/7ygc0VnKRRRaUW7KeH7tWM) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [On The Island \(feat\. AKLO\)](https://open.spotify.com/album/5SScW3rzsybxPqYJR5y7tu) | 2:52 | 2025-07-22 | 2025-12-03 |
 | [One Love](https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 3:04 | 2023-12-07 | 2024-03-27 |
 | [One More Time](https://open.spotify.com/track/0ubPRDaIbWJzz5BaepbXJY) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [One More Time](https://open.spotify.com/album/2OmFaODKIMmfw4w1UkTaLW) | 2:47 | 2024-05-08 | 2024-06-26 |

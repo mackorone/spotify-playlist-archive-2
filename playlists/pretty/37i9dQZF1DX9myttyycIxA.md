@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Girl Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,982 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,988 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 98 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
 | 99 | [Strawberry](https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Strawberry](https://open.spotify.com/album/4HwBZ2vn1kF7ba0PdZTsOW) | 2:51 |
 
-Snapshot ID: `AAAAAPQnHWFfgNyG88qRz8+6u0ZHlD0F`
+Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`

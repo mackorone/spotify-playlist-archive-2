@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,177 likes - 120 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,282 likes - 120 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 4 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 |
 | 5 | [Santo Pra Sempre \- Ao Vivo no Mineirão](https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo Pra Sempre \(Ao Vivo no Mineirão\)](https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i) | 6:49 |
 | 6 | [Clamo Jesus \- Ao Vivo](https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Clamo Jesus \(Ao Vivo\)](https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC) | 7:17 |
-| 7 | [Sublime \- Ao Vivo](https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa) | 7:25 |
+| 7 | [Sublime \- Ao Vivo](https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Caio Freitas](https://open.spotify.com/artist/7ffCL7plBaDkeHkQyLjz59) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa) | 7:25 |
 | 8 | [Tudo É Perda \- Ao Vivo](https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Tudo É Perda \(Ao Vivo\)](https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd) | 8:38 |
 | 9 | [Eu Te Entrego o Meu Dia](https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Te Entrego o Meu Dia](https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p) | 3:19 |
 | 10 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 |

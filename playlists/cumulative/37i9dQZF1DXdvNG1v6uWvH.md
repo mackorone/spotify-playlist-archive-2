@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Daði Freyr, RAYE og mörgum fleiri!
 
-10,220 songs - 22 day 21 hr 23 min
+10,220 songs - 22 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8125,7 +8125,7 @@
 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 | 2024-07-12 | 2024-07-19 |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 | 2026-03-20 |
 | [STAR](https://open.spotify.com/track/5pZg3eZoySTJOQA6DgmTn1) | [M Can](https://open.spotify.com/artist/4HH1mWwB2TwqdqBdStHy2X), [BTB808](https://open.spotify.com/artist/1bpP740kdj8Qjtw9ZGFG9i) | [STAR](https://open.spotify.com/album/74NQphcq71MT5ThzyNlgL2) | 1:36 | 2026-01-16 | 2026-01-23 |
-| [STAR](https://open.spotify.com/track/3CxgpyhkQPnMjhMzWP4YE8) | [Maïcee](https://open.spotify.com/artist/7pyfZGDbwdsRidi4yjomoA) | [STAR](https://open.spotify.com/album/3lpsQJ1ehFFTWi6wfTyjIJ) | 2:32 | 2026-03-27 |  |
+| [STAR](https://open.spotify.com/track/3CxgpyhkQPnMjhMzWP4YE8) | [Maïcee](https://open.spotify.com/artist/7pyfZGDbwdsRidi4yjomoA) | [STAR](https://open.spotify.com/album/3lpsQJ1ehFFTWi6wfTyjIJ) | 2:32 | 2026-03-27 | 2026-03-29 |
 | [Star](https://open.spotify.com/track/6jPa3Iy4pwoBNypTHDOTOR) | [Torfi Olafsson](https://open.spotify.com/artist/3pxxBHXiuykakJSsdvOXrN) | [Star](https://open.spotify.com/album/3xXGkL4R8SS78ACeOMXAeZ) | 3:07 | 2025-10-31 | 2025-11-07 |
 | [Stara](https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [Stara](https://open.spotify.com/album/33lQUgEpLZ3eFp6pYCgbog) | 3:19 | 2025-02-21 | 2025-02-28 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-03 | 2024-05-10 |
@@ -8220,6 +8220,7 @@
 | [STILL FEEL LIKE A CHILD](https://open.spotify.com/track/5mTsYMUOijXjPLazzXyVBD) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [STILL FEEL LIKE A CHILD](https://open.spotify.com/album/1G09jPWbVdXohc46M0UZkd) | 3:15 | 2026-01-30 | 2026-02-06 |
 | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW) | 3:19 | 2025-10-10 | 2025-10-17 |
 | [Still Gonna Love You](https://open.spotify.com/track/2ljbgNysDsYQcFd3yapdZn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet \(Deluxe\)](https://open.spotify.com/album/0rTqvDgJ5Ec2zuuQrxVP1W) | 3:30 | 2025-03-14 | 2025-03-21 |
+| [still here though](https://open.spotify.com/track/3F0WJ8nNpQ9IrgQmExH3gB) | [@melissageurts](https://open.spotify.com/artist/2kzYxRlizKl4XKk2piAsWA) | [maintenance mode](https://open.spotify.com/album/63lFnlzOMMtBczWf8ZVWvU) | 4:25 | 2026-03-27 |  |
 | [still i struggle](https://open.spotify.com/track/5OaKfKgOSP3e3LtiOEOV5A) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [last chance to see](https://open.spotify.com/album/1R6wJt1Dlk9fYwHpqvwwfz) | 2:51 | 2024-06-14 | 2024-06-21 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2024-12-14 |
 | [Still In The Middle](https://open.spotify.com/track/0Ofa8vLNylTenlTzZfFk87) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Still In The Middle](https://open.spotify.com/album/6idukWVqPAdQgxSIZRtFOy) | 3:15 | 2025-07-18 | 2025-07-20 |
@@ -9158,7 +9159,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2024-12-14 |
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-06-28 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-28 | 2025-04-04 |
-| [Track 13](https://open.spotify.com/track/3F0WJ8nNpQ9IrgQmExH3gB) | [@melissageurts](https://open.spotify.com/artist/2kzYxRlizKl4XKk2piAsWA) | [maintenance mode](https://open.spotify.com/album/63lFnlzOMMtBczWf8ZVWvU) | 0:00 | 2026-03-27 | 2026-03-28 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 |  |
 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 | 2024-05-17 | 2024-05-24 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-04-18 |

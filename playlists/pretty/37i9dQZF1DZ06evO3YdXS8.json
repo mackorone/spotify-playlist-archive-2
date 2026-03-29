@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 642360,
+  "num_followers": 642391,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAABeV3TdkOqVVeSEuq1/84AS",
+  "snapshot_id": "acXIgAAAAAD5LB/o7iqAYNEYJuQH+0SM",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 171638,
+      "name": "No Debes Jugar - Remastered 2026",
+      "url": "https://open.spotify.com/track/7KNKAcTwtrFneIV4eKRR9U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 290773,
       "name": "I Could Fall In Love",
       "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selena LIVE (Remastered 2026)",
-        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 171638,
-      "name": "No Debes Jugar - Remastered 2026",
-      "url": "https://open.spotify.com/track/7KNKAcTwtrFneIV4eKRR9U"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Terco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr"
+      "duration_ms": 190621,
+      "name": "La Llamada - Remastered 2026",
+      "url": "https://open.spotify.com/track/3OHyYRTocI6tTTB0RgIxj6"
     }
   ],
   "unique_name": "This Is Selena",

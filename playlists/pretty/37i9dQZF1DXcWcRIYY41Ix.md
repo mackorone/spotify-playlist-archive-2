@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Gabriel Vidanauta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,397 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,401 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Bolero de plata](https://open.spotify.com/track/78Cks9r7aj6hhE0zKhN9iy) | [Amaia Miranda](https://open.spotify.com/artist/4ij2OlNjoDeAZBcqmOkqh8) | [Cada vez que te veo lo entiendo](https://open.spotify.com/album/0nMz6Opy03MIwU4W8Uw6ro) | 2:21 |
 | 100 | [En el río](https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Casi tierra](https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY) | 3:08 |
 
-Snapshot ID: `AAAAAD+fOgHs2gbWyGIyA1H+WDyxX/1P`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

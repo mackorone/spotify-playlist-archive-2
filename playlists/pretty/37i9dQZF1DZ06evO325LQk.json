@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38111,
+  "num_followers": 38113,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAABZyFZIwtMRBKAH2W6g1qlA",
+  "snapshot_id": "acXIgAAAAACFjH8tHGW0xD5KLbIRWTP2",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 188520,
-      "name": "JUST LIKE WE NEVER SAID GOODBYE",
-      "url": "https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N"
+      "duration_ms": 151519,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 151519,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
+      "duration_ms": 188520,
+      "name": "JUST LIKE WE NEVER SAID GOODBYE",
+      "url": "https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N"
     },
     {
       "added_at": null,

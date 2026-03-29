@@ -499,8 +499,8 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 489 | [The Fool](https://open.spotify.com/track/7BSadtswKNAyWfiuHZNeih) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 1:53 |
 | 490 | [Out of the Blue](https://open.spotify.com/track/507Z8HdRGcRExCKrc3jcp2) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 4:41 |
 | 491 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
-| 492 | [We Were Lovers](https://open.spotify.com/track/615nJULTt5bVaxrWzfA0JB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:08 |
-| 493 | [50/50](https://open.spotify.com/track/5MPryR3oJGmWnSYM7X2GGE) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 2:43 |
+| 492 | [50/50](https://open.spotify.com/track/5MPryR3oJGmWnSYM7X2GGE) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 2:43 |
+| 493 | [We Were Lovers](https://open.spotify.com/track/615nJULTt5bVaxrWzfA0JB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:08 |
 | 494 | [Storm and Stress](https://open.spotify.com/track/0O7ZJ4wdVHJ4q9n6xdnWtU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Little Thoughts \- EP](https://open.spotify.com/album/4rdldUL6CaQB4mXVqyA32i) | 2:46 |
 | 495 | [On a Mission](https://open.spotify.com/track/5NUD9Te4zpqIj91B6dCiNf) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:06 |
 | 496 | [Killing Lies](https://open.spotify.com/track/0HaELdKUUyrNiDzuADLEoa) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:48 |
@@ -712,4 +712,4 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 702 | [One Month Off](https://open.spotify.com/track/40tPgr6VzfwSMwa32pvEwy) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 3:35 |
 | 703 | [opening a door](https://open.spotify.com/track/18PjNY64kBvNNehSyqoVNu) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [as i watch my life online](https://open.spotify.com/album/4jcWDyIoZ1WVswLlWgF1Oq) | 3:39 |
 
-Snapshot ID: `AAAkz4yELAb/je7Z0XxtB0yGppS1e8kN`
+Snapshot ID: `AAAk0bU9YutpL2Q2PqoJ5gOCKAM8JsuQ`

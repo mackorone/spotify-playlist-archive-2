@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 387,
+  "num_followers": 386,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABa5gH1sk7C5cbo0b0TeHS1orDsHRV",
+  "snapshot_id": "AAABbbNmPtrFFB0CXCx2ZYnZyTa8M5MO",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1119,6 +1119,38 @@
       "duration_ms": 163915,
       "name": "Cut and Sell",
       "url": "https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v"
+    },
+    {
+      "added_at": "2026-03-28 16:23:27",
+      "album": {
+        "name": "Cherry Vice",
+        "url": "https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Daffodils",
+          "url": "https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm"
+        }
+      ],
+      "duration_ms": 258948,
+      "name": "Cherry Vice",
+      "url": "https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a"
+    },
+    {
+      "added_at": "2026-03-28 18:37:22",
+      "album": {
+        "name": "Burning Hell",
+        "url": "https://open.spotify.com/album/5SuTrgKemwnr0culrcxuCS"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "duration_ms": 286365,
+      "name": "Burning Hell",
+      "url": "https://open.spotify.com/track/0a9kz1MrbUGQlz8MqE9WTr"
     }
   ],
   "unique_name": "Local Rock Bands",

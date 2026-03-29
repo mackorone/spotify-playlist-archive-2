@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: \ud6a8\uc5f0 (HYO))",
-  "num_followers": 35789,
+  "num_followers": 35818,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "NO DRUGS",
-        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        },
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "DRIFT",
-      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 208780,
       "name": "SCIENTIST (R3HAB Remix)",
       "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -787,30 +787,6 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "\ud76c / \ub178 / \uc560 / \ub77d",
-        "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
-      },
-      "artists": [
-        {
-          "name": "kimj",
-          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
-        },
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "audiogothh",
-          "url": "https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "\ud76c (love type shit)",
-      "url": "https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -827,22 +803,6 @@
       "duration_ms": 227677,
       "name": "Supernova (Grimes Remix)",
       "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -867,26 +827,42 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
-        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+        "name": "\ud76c / \ub178 / \uc560 / \ub77d",
+        "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
       },
       "artists": [
         {
-          "name": "KINO",
-          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
         },
         {
-          "name": "UWA",
-          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+          "name": "audiogothh",
+          "url": "https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "DIRTY BOY (feat. JAMIE & UWA)",
-      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+      "duration_ms": 150956,
+      "name": "\ud76c (love type shit)",
+      "url": "https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -907,6 +883,30 @@
       "duration_ms": 129677,
       "name": "TOMBOY (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
+        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "UWA",
+          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "DIRTY BOY (feat. JAMIE & UWA)",
+      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
+        "name": "iScreaM Vol.26 : Spicy Remix",
+        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/60p5zyDuyeBzIO9hbA08LI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Spicy - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
         "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
         "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 186857,
       "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 - Effie & Eurohead Remix",
       "url": "https://open.spotify.com/track/217pG31hswPFS8zFo2KONE"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
-        "name": "iScreaM Vol.26 : Spicy Remix",
-        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/60p5zyDuyeBzIO9hbA08LI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Spicy - Nitepunk Remix",
-      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
         "name": "Rich Man (Remixes)",
         "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 190370,
       "name": "Rich Man - Yellow Claw Remix",
       "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "SPAZ",
-        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Bassister (Feat. Kid Milli)",
-      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 188000,
       "name": "Armageddon (2Spade Remix)",
       "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "SPAZ",
+        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Bassister (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 185218,
       "name": "The Feels (Benny Benassi Remix)",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
+        "name": "Love Tune: Rewired",
+        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 184936,
+      "name": "SOS - Miami Bass Remix",
+      "url": "https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
         "name": "SET ME FREE (Remixes)",
         "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 211573,
       "name": "SET ME FREE (Lindgren Remix)",
       "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
-        "name": "Love Tune: Rewired",
-        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 184936,
-      "name": "SOS - Miami Bass Remix",
-      "url": "https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2"
     },
     {
       "added_at": "2026-03-23 09:32:41",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-03-23 09:32:41",
       "album": {
-        "name": "KETCHUP (with DAUL)",
-        "url": "https://open.spotify.com/album/3eB1Tdfgc4NTy5biUJXHRT"
-      },
-      "artists": [
-        {
-          "name": "Coco K",
-          "url": "https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs"
-        },
-        {
-          "name": "DAUL",
-          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "KETCHUP (with DAUL)",
-      "url": "https://open.spotify.com/track/7vRbgGeSOrVw4BLHJWsiuH"
-    },
-    {
-      "added_at": "2026-03-23 09:32:41",
-      "album": {
         "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
         "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 194146,
       "name": "Make A Wish (Birthday Song) - Wuki Remix",
       "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+    },
+    {
+      "added_at": "2026-03-23 09:32:41",
+      "album": {
+        "name": "KETCHUP (with DAUL)",
+        "url": "https://open.spotify.com/album/3eB1Tdfgc4NTy5biUJXHRT"
+      },
+      "artists": [
+        {
+          "name": "Coco K",
+          "url": "https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs"
+        },
+        {
+          "name": "DAUL",
+          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "KETCHUP (with DAUL)",
+      "url": "https://open.spotify.com/track/7vRbgGeSOrVw4BLHJWsiuH"
     },
     {
       "added_at": "2026-03-23 09:32:41",

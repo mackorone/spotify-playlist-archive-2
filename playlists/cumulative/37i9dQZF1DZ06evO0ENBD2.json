@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 247186,
       "name": "Face It Alone",
       "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
@@ -578,6 +578,24 @@
       "duration_ms": 255600,
       "name": "Fat Bottomed Girls - Remastered 2011",
       "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
+    },
+    {
+      "album": {
+        "name": "Queen II (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HkKjf80Bkby4XpBQl0te0"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372773,
+      "name": "Father To Son - 2026 Mix",
+      "url": "https://open.spotify.com/track/6doNuP5cvN0DB7jLJCVkSw"
     },
     {
       "album": {

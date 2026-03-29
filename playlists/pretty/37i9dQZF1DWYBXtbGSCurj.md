@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,843 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,844 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 5 | [Boladão Escutando Orochi](https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Boladão Escutando Orochi](https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S) | 3:26 |
 | 6 | [Chuva de Notas](https://open.spotify.com/track/2apEexUIJIxPQMv4GOwsIr) | [Jub](https://open.spotify.com/artist/7Fsrzvp6wVxQQ5yCUuFFJT), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Chuva de Notas](https://open.spotify.com/album/6GC8zvD8BCi1oJusAA52zq) | 2:35 |
 | 7 | [Melhor Dia: Dopamina](https://open.spotify.com/track/78csEnL5LYOQc9eVITJTpu) | [Marcos Baroni](https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Chamier](https://open.spotify.com/artist/21SwGvJt7jCblRoHyVJOVf), [ht !](https://open.spotify.com/artist/0hnKd6vQgFiVxfkPkCczXO) | [Melhor Dia: Dopamina](https://open.spotify.com/album/1U4rf44d0tsEqviaAKuu1m) | 4:20 |
-| 8 | [Mania Feia](https://open.spotify.com/track/1LexpwpMGZb2GTLpR0TvV2) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Mania Feia](https://open.spotify.com/album/7o0MrIGfJNlFy401PvL9zu) | 2:50 |
+| 8 | [Mania Feia](https://open.spotify.com/track/1LexpwpMGZb2GTLpR0TvV2) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Bertoi](https://open.spotify.com/artist/36UCsM7sdK6dOjTlcZnH8T) | [Mania Feia](https://open.spotify.com/album/7o0MrIGfJNlFy401PvL9zu) | 2:50 |
 | 9 | [Mundão Estranho](https://open.spotify.com/track/57RxY0cMydndFO9f8m2qjn) | [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Mundão Estranho](https://open.spotify.com/album/2iHLu26OdBFVeaOTootUIh) | 2:36 |
 | 10 | [EFEITO REFLEXO](https://open.spotify.com/track/7J0vfETiENh6kVtEaeOtka) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [EFEITO REFLEXO](https://open.spotify.com/album/2rd4WDEzvsoCEGoP6dG1Dr) | 3:13 |
 | 11 | [FATALIIITY](https://open.spotify.com/track/3vH2y7g5NwARwGhW7iBRCS) | [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [VETIIIN & PSIIIKO](https://open.spotify.com/album/6oCtv8Id0TnwocJ47PJ44U) | 2:40 |

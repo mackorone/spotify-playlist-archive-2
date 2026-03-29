@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,703 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,724 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 12 | [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 |
 | 13 | [You Are Good](https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [You Are Good](https://open.spotify.com/album/0aBb8Xrz2ESrNGYoXmvruV) | 9:09 |
 | 14 | [Oh One \- Freestyle](https://open.spotify.com/track/1KR8psRrqKAYmUCOjRxlTg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Oh One \(Freestyle\)](https://open.spotify.com/album/5JXVlnYe3UbHc07SQ0F0t7) | 3:06 |
-| 15 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Chukwuma](https://open.spotify.com/artist/5OBDxw2Vy487nGaIY7D0oI), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
+| 15 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
 | 16 | [No Man Dare](https://open.spotify.com/track/4sdffkRaBSsec5AARs5Vrd) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [No Man Dare](https://open.spotify.com/album/7cgNPAL3Z467KaDRikPExt) | 3:01 |
 | 17 | [noises](https://open.spotify.com/track/6vLrw0gHyEFH1YNnHQZI2a) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [noises](https://open.spotify.com/album/2mKDRN3feRcYd4AIAmbHpV) | 1:56 |
 | 18 | [BUILT ON YOU](https://open.spotify.com/track/5IhLGBsho1eNGjQiAPhtfU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Mallary Hope](https://open.spotify.com/artist/6FjFSDCzBRTcJzymqzfaJS) | [BUILT ON YOU](https://open.spotify.com/album/7HiU0qve0AYrcOSXmeZb1g) | 2:35 |

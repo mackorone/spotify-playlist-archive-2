@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Class",
-        "url": "https://open.spotify.com/album/3NlvDTSCXBRcGGLsEWmXEe"
-      },
-      "artists": [
-        {
-          "name": "Slash4L",
-          "url": "https://open.spotify.com/artist/3n6TbPQYtcx4F1w9Yg388N"
-        }
-      ],
-      "duration_ms": 125401,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me & Mine, Pt. 1",
         "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
       },
@@ -139,22 +123,6 @@
       "duration_ms": 198149,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloody Bruddas",
-        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        }
-      ],
-      "duration_ms": 128312,
-      "name": "AR-15",
-      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
     },
     {
       "added_at": null,
@@ -175,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Bruddas",
+        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        }
+      ],
+      "duration_ms": 128312,
+      "name": "AR-15",
+      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aliv\u00eb",
         "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
       },
@@ -191,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood In Blood Out 2",
-        "url": "https://open.spotify.com/album/1jD5f2StWQPB4YWoP1ixez"
-      },
-      "artists": [
-        {
-          "name": "Fluhkunxhkos",
-          "url": "https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU"
-        }
-      ],
-      "duration_ms": 89236,
-      "name": "Trapped Out",
-      "url": "https://open.spotify.com/track/1Xi8QYlSLfQJ1szCh3goMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Take",
         "url": "https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 119813,
       "name": "One Take",
       "url": "https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood In Blood Out 2",
+        "url": "https://open.spotify.com/album/1jD5f2StWQPB4YWoP1ixez"
+      },
+      "artists": [
+        {
+          "name": "Fluhkunxhkos",
+          "url": "https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU"
+        }
+      ],
+      "duration_ms": 89236,
+      "name": "Trapped Out",
+      "url": "https://open.spotify.com/track/1Xi8QYlSLfQJ1szCh3goMH"
     },
     {
       "added_at": null,
@@ -271,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Child, Chapter 3",
-        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winners Circle",
         "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
       },
@@ -299,22 +267,6 @@
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never (Song Wars)",
-        "url": "https://open.spotify.com/album/1zki3YkkK14AiiuJ8Ufm7P"
-      },
-      "artists": [
-        {
-          "name": "Klouxt",
-          "url": "https://open.spotify.com/artist/7amPR2iYhPopP72zLTtbKR"
-        }
-      ],
-      "duration_ms": 153646,
-      "name": "Never (Song Wars)",
-      "url": "https://open.spotify.com/track/2DxphzIOl6Drfi5Bjsl3io"
     },
     {
       "added_at": null,
@@ -347,50 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarecrow",
-        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+        "name": "Golden Child, Chapter 3",
+        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
       },
       "artists": [
         {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Pub Sub",
-      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "imposter",
-        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
-      },
-      "artists": [
-        {
-          "name": "boolymon",
-          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
-        }
-      ],
-      "duration_ms": 108437,
-      "name": "imposter",
-      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
-      },
-      "artists": [
-        {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+      "duration_ms": 125217,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
     },
     {
       "added_at": null,
@@ -419,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Pub Sub",
+      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LO NE LY",
         "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
       },
@@ -431,22 +367,6 @@
       "duration_ms": 143520,
       "name": "LO NE LY",
       "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUINS",
-        "url": "https://open.spotify.com/album/3s637sjUEzCxplSTHOz9gW"
-      },
-      "artists": [
-        {
-          "name": "babygeo",
-          "url": "https://open.spotify.com/artist/0AanX5CfD9V7K2SZenwhsc"
-        }
-      ],
-      "duration_ms": 187803,
-      "name": "Drugs And Pretty Girls",
-      "url": "https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS"
     },
     {
       "added_at": null,
@@ -467,18 +387,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "splat!",
-        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
       },
       "artists": [
         {
-          "name": "Marwick",
-          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
         }
       ],
-      "duration_ms": 137142,
-      "name": "splat!",
-      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never (Song Wars)",
+        "url": "https://open.spotify.com/album/1zki3YkkK14AiiuJ8Ufm7P"
+      },
+      "artists": [
+        {
+          "name": "Klouxt",
+          "url": "https://open.spotify.com/artist/7amPR2iYhPopP72zLTtbKR"
+        }
+      ],
+      "duration_ms": 153646,
+      "name": "Never (Song Wars)",
+      "url": "https://open.spotify.com/track/2DxphzIOl6Drfi5Bjsl3io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUINS",
+        "url": "https://open.spotify.com/album/3s637sjUEzCxplSTHOz9gW"
+      },
+      "artists": [
+        {
+          "name": "babygeo",
+          "url": "https://open.spotify.com/artist/0AanX5CfD9V7K2SZenwhsc"
+        }
+      ],
+      "duration_ms": 187803,
+      "name": "Drugs And Pretty Girls",
+      "url": "https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Class",
+        "url": "https://open.spotify.com/album/3NlvDTSCXBRcGGLsEWmXEe"
+      },
+      "artists": [
+        {
+          "name": "Slash4L",
+          "url": "https://open.spotify.com/artist/3n6TbPQYtcx4F1w9Yg388N"
+        }
+      ],
+      "duration_ms": 125401,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m"
     },
     {
       "added_at": null,
@@ -499,34 +467,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+        "name": "splat!",
+        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "Marwick",
+          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
         }
       ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+      "duration_ms": 137142,
+      "name": "splat!",
+      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Trifling",
-        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+        "name": "imposter",
+        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
       },
       "artists": [
         {
-          "name": "acleast",
-          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+          "name": "boolymon",
+          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         }
       ],
-      "duration_ms": 211931,
-      "name": "Trifling",
-      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
+      "duration_ms": 108437,
+      "name": "imposter",
+      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
     },
     {
       "added_at": null,
@@ -559,6 +527,22 @@
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trifling",
+        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+      },
+      "artists": [
+        {
+          "name": "acleast",
+          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+        }
+      ],
+      "duration_ms": 211931,
+      "name": "Trifling",
+      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
     },
     {
       "added_at": null,
@@ -599,18 +583,118 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purple Moncler",
-        "url": "https://open.spotify.com/album/5n67CRBoyBcsDGtMPu06I4"
+        "name": "1, 2, 3, X!",
+        "url": "https://open.spotify.com/album/2qxBwpY8my1hy1wO1k3ZuO"
       },
       "artists": [
         {
-          "name": "Trimskii",
-          "url": "https://open.spotify.com/artist/5lt3g2Pk2jwy0nrZKsMdPF"
+          "name": "dopemine!",
+          "url": "https://open.spotify.com/artist/7uFWa3pAlFXOfe7IKzfjZL"
+        },
+        {
+          "name": "$olotique Beats",
+          "url": "https://open.spotify.com/artist/3S59TiTkWQCqQIUEsEnfly"
         }
       ],
-      "duration_ms": 212088,
-      "name": "Purple Moncler",
-      "url": "https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw"
+      "duration_ms": 374164,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/15Ktbhx210kAe5yZjzR6Ch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz"
+      },
+      "artists": [
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3"
+        }
+      ],
+      "duration_ms": 122298,
+      "name": "Outta Time",
+      "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winners Circle",
+        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
+      },
+      "artists": [
+        {
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+        }
+      ],
+      "duration_ms": 128026,
+      "name": "CURRY SLIDE",
+      "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALL HOGGIN",
+        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
+      },
+      "artists": [
+        {
+          "name": "Shadstackzz",
+          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
+        }
+      ],
+      "duration_ms": 108946,
+      "name": "Leave the state",
+      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+      },
+      "artists": [
+        {
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+        }
+      ],
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ">Music",
+        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 156815,
+      "name": "Straight Forward",
+      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
     },
     {
       "added_at": null,
@@ -639,54 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intervals",
-        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
-      },
-      "artists": [
-        {
-          "name": "\u0141ee",
-          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
-        }
-      ],
-      "duration_ms": 143775,
-      "name": "Intervals",
-      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BALL HOGGIN",
-        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
-      },
-      "artists": [
-        {
-          "name": "Shadstackzz",
-          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
-        }
-      ],
-      "duration_ms": 108946,
-      "name": "Leave the state",
-      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Godfather",
-        "url": "https://open.spotify.com/album/0N9IJOtB5sXtdSz2zCYYKc"
-      },
-      "artists": [
-        {
-          "name": "Duwap Kaine",
-          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
-        }
-      ],
-      "duration_ms": 133382,
-      "name": "Gotta Do That",
-      "url": "https://open.spotify.com/track/3RYRb0Ci3NGg8l3UaqyF0b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bank Is Open",
         "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
       },
@@ -699,38 +735,6 @@
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ">Music",
-        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 156815,
-      "name": "Straight Forward",
-      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winners Circle",
-        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
-      },
-      "artists": [
-        {
-          "name": "rexv2",
-          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
-        }
-      ],
-      "duration_ms": 128026,
-      "name": "CURRY SLIDE",
-      "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
     },
     {
       "added_at": null,
@@ -819,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Ya Life!",
-        "url": "https://open.spotify.com/album/6YPUz3kvUSCiVgxre25MdR"
-      },
-      "artists": [
-        {
-          "name": "xtsy*",
-          "url": "https://open.spotify.com/artist/5spNfNcEgssXmB1893yRLN"
-        },
-        {
-          "name": "pink6",
-          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
-        }
-      ],
-      "duration_ms": 150928,
-      "name": "Live Ya Life!",
-      "url": "https://open.spotify.com/track/01jaNqZRf5rBKPF5CfKQVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
         "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
@@ -855,26 +839,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/23YuMwACsvWrPlBf3mPOXi"
+        "name": "Purple Moncler",
+        "url": "https://open.spotify.com/album/5n67CRBoyBcsDGtMPu06I4"
       },
       "artists": [
         {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        },
-        {
-          "name": "Danny G Beats",
-          "url": "https://open.spotify.com/artist/2GKXcaJjE7H2z9WdY7sG0x"
-        },
-        {
-          "name": "jakesand",
-          "url": "https://open.spotify.com/artist/3H9itUD9PSCzrLJfe3tllo"
+          "name": "Trimskii",
+          "url": "https://open.spotify.com/artist/5lt3g2Pk2jwy0nrZKsMdPF"
         }
       ],
-      "duration_ms": 122618,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq"
+      "duration_ms": 212088,
+      "name": "Purple Moncler",
+      "url": "https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG 3",
+        "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "Slimeto",
+          "url": "https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4"
+        }
+      ],
+      "duration_ms": 122483,
+      "name": "BIG 3",
+      "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
     }
   ],
   "unique_name": "Taewitdak Radio",

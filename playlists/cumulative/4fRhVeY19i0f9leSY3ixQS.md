@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,201 songs - 2 day 19 hr 37 min
+1,205 songs - 2 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [BEAVER CREAM](https://open.spotify.com/track/294bk3KsT4gWATUjSKBnKM) | [Gunnar Gill](https://open.spotify.com/artist/0c1Bw1PiVMLuH06XwPKzep) | [BEAVER CREAM](https://open.spotify.com/album/4Apcv9FIdOYf98cTBOjX3t) | 0:44 | 2026-03-09 |  |
 | [Behind The Eleven](https://open.spotify.com/track/1uEgFdzgTM6szgHtsto5N1) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [The Codes In The Stones](https://open.spotify.com/album/2fLJyG7Tm4sETaSLdkZFkL) | 5:14 | 2026-01-12 | 2026-02-03 |
 | [Behind The Mask](https://open.spotify.com/track/2cVdtrGa8BC3EtXSGIfgIv) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Psychic Surfing](https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F) | 2:38 | 2026-01-08 |  |
+| [Bellissimo](https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md) | [Crawl Town](https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd) | [Bellissimo](https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ) | 2:40 | 2026-03-28 |  |
 | [BEND THE TRUTH](https://open.spotify.com/track/0Rb0ktvRa2LmCsQK2AGpFh) | [Crimson Arcanum](https://open.spotify.com/artist/64C6mWlxyAnVHiYmQ1iDNe) | [BEND THE TRUTH](https://open.spotify.com/album/0qY4mBrrJuL565VsvPbFze) | 3:25 | 2026-01-01 | 2026-01-22 |
 | [BESIDED](https://open.spotify.com/track/2A8Q23wkcnV9cek1rFTSos) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [BESIDED](https://open.spotify.com/album/1uQbY8B8sEOVII2Er1hODs) | 3:25 | 2026-01-14 | 2026-02-03 |
 | [Better Days](https://open.spotify.com/track/7yfoUwkMB1PZjV74xvUCpQ) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Missing Since Monday](https://open.spotify.com/album/6rfNqD4BYVSDlko64nP080) | 2:25 | 2025-10-24 | 2025-12-10 |
@@ -112,7 +113,7 @@
 | [Black](https://open.spotify.com/track/0ul44PajiEmkNrTe8iOCMH) | [Adam Alford](https://open.spotify.com/artist/5NOQhV94Dia7LiieRRWWuV) | [Desert nights](https://open.spotify.com/album/2457jyGvDUxCAlRihGaxFQ) | 2:52 | 2025-12-04 | 2025-12-24 |
 | [Black Magick Rock 'N' Roll](https://open.spotify.com/track/7bjGoS9ibje6H3bFYgw5PU) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW), [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [Black Magick Rock 'N' Roll](https://open.spotify.com/album/4mGgayITPhDcxmNIzdY6q6) | 3:40 | 2026-03-23 |  |
 | [Blaze](https://open.spotify.com/track/58AdlO3Hoqc8HLm7JpePNN) | [Hook & Lace](https://open.spotify.com/artist/7paQNTCMf2I8SHBvLG4cwN) | [Blaze](https://open.spotify.com/album/5gFX83LBIgN7JAxsimPbX8) | 3:09 | 2026-01-31 | 2026-03-03 |
-| [Bleeding You](https://open.spotify.com/track/00LyefdHtjsZl6RsKpDav6) | [Against the Grave](https://open.spotify.com/artist/2txUYDRABdPVQcCqx0EJfB) | [Bleeding You](https://open.spotify.com/album/1GBNuPGY2C4QDMnCmvkl5t) | 2:43 | 2026-02-25 |  |
+| [Bleeding You](https://open.spotify.com/track/00LyefdHtjsZl6RsKpDav6) | [Against the Grave](https://open.spotify.com/artist/2txUYDRABdPVQcCqx0EJfB) | [Bleeding You](https://open.spotify.com/album/1GBNuPGY2C4QDMnCmvkl5t) | 2:43 | 2026-02-25 | 2026-03-29 |
 | [Bllsht](https://open.spotify.com/track/1mPvLR9n3yS9C6rM1UyhM5) | [Banquise](https://open.spotify.com/artist/6mhN65o4OWOpxoSni648WG) | [Bllsht](https://open.spotify.com/album/6mZooqVyOx7Tp7dMyvr2sl) | 3:34 | 2025-12-23 | 2026-01-24 |
 | [Blood Box](https://open.spotify.com/track/5nu4zGgTzOqYkJjhE2pADg) | [All Flags Are Grey](https://open.spotify.com/artist/0nOJqqhCirGUuV2DAxhIEa) | [Blood Box](https://open.spotify.com/album/4WWSMSPWNCSXCcn9EoauwO) | 3:50 | 2026-03-09 | 2026-03-12 |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-12-17 | 2026-01-06 |
@@ -269,6 +270,7 @@
 | [DINKY](https://open.spotify.com/track/4PcYojEeQPi8Mz9gvCes1d) | [Obsolescence](https://open.spotify.com/artist/6IxEerSy0GrEJo2At5NIKd) | [DINKY](https://open.spotify.com/album/0eZV4Vs34YQ8MJ88pPWiEz) | 3:25 | 2026-02-19 | 2026-03-23 |
 | [Dirty Road](https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF) | [JACK FLINT](https://open.spotify.com/artist/3C9CMQQDcbCQ9uUkg2ribC) | [Dirty Road](https://open.spotify.com/album/3NlyK2erdevSrtUhHEBIkD) | 5:41 | 2025-12-03 | 2025-12-24 |
 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 | 2026-02-16 | 2026-03-09 |
+| [Discípulo \- Hierofante Mix](https://open.spotify.com/track/1kWZaubUIbzZb2q1n8lIhQ) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [MUTANTE](https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj) | 3:05 | 2026-03-28 |  |
 | [Disgrace](https://open.spotify.com/track/5x8SJh0vyRhPbwJaghlv7M) | [Neurasthenic](https://open.spotify.com/artist/0ybvYZgxRQWGifh9Fi3Ogr), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [North Pope](https://open.spotify.com/artist/2KRTFJ3tkGjQLYl5eS8obs) | [Disgrace](https://open.spotify.com/album/2qSaKUub8VjDdw69fyfgSu) | 2:19 | 2026-02-24 | 2026-03-17 |
 | [Disgust](https://open.spotify.com/track/7B73WiWIZyPILcJbO1m81e) | [Miniluv](https://open.spotify.com/artist/4OtryTb8CSnDX2asGlYFA1) | [Disgust](https://open.spotify.com/album/5zgNYYADAR4oGmBIwdDVjD) | 2:52 | 2025-12-04 | 2025-12-24 |
 | [DISGUSTING DISCUSSION](https://open.spotify.com/track/4JHnrhdfCz9qXlqtMv9VsF) | [Angel Tuesday](https://open.spotify.com/artist/7tpY9KaNmsNLtuqmETRgN5) | [DISGUSTING DISCUSSION](https://open.spotify.com/album/1I79x8Pa9KJAiO56Q5VPe7) | 2:08 | 2026-03-12 |  |
@@ -464,6 +466,7 @@
 | [High Waves](https://open.spotify.com/track/3EnpPXWnbkcOgb4VN3UZuk) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [High Waves](https://open.spotify.com/album/7yBWbfqK8KrB5SAofb4y2H) | 6:25 | 2026-01-16 | 2026-02-05 |
 | [higher](https://open.spotify.com/track/6qg7kcIeVMsGCBVFo9jMwb) | [hologramme](https://open.spotify.com/artist/1BGuYvloWzXEEDKzPoy7Kt) | [higher](https://open.spotify.com/album/0Hz6W8cEl7nwZEp8wKkKQd) | 4:38 | 2026-03-20 |  |
 | [Highway Maintenance](https://open.spotify.com/track/0SlCUGQmeS4u1bnroVW08r) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Highway Maintenance](https://open.spotify.com/album/0J1QQLCiEgAWgbHS1H5eiO) | 5:37 | 2025-12-15 | 2026-01-06 |
+| [Hits Hard](https://open.spotify.com/track/2fblQwOSFg4tacGq8DtO9B) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:43 | 2026-03-28 |  |
 | [Hold The Line](https://open.spotify.com/track/5RDoRjFsaQNWvYH0XZym3V) | [Ceramics](https://open.spotify.com/artist/4XtfdGn6rSGua0VIL79eFi) | [Hold The Line](https://open.spotify.com/album/40IenIHnq1Cr2zBKYXOChg) | 4:24 | 2025-11-27 | 2025-12-24 |
 | [Holder Meg På Toppen](https://open.spotify.com/track/71pkN9tahoUcvZt3z2oatt) | [DJ Lampe](https://open.spotify.com/artist/4wB8qI42VP5vR3J41lerWX), [Pinned Comment](https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV) | [Holder Meg På Toppen](https://open.spotify.com/album/0L7YfEH6Fh67ZbqQyq4WEe) | 2:30 | 2026-01-03 | 2026-01-22 |
 | [Hole](https://open.spotify.com/track/7E1lQnTyKkUVWLMysiAomV) | [Black Reuss](https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R) | [Journey](https://open.spotify.com/album/7zcZjxKJPjtnwlaxfWPAKA) | 4:20 | 2025-10-27 | 2025-12-10 |
@@ -612,6 +615,7 @@
 | [Lykkeland](https://open.spotify.com/track/65VqFJa0WStL5umZ3k0Mmw) | [Lysne](https://open.spotify.com/artist/4RsfxkBO6jZw4qHNEJp5xm) | [Lykkeland](https://open.spotify.com/album/4Ew3xeUtj2zLVJyq2IKioi) | 2:14 | 2026-01-14 | 2026-02-03 |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-15 | 2026-02-03 |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2026-01-25 | 2026-02-24 |
+| [Madrid](https://open.spotify.com/track/07AqQxvXuIQummbZnMfDUg) | [Passing grade](https://open.spotify.com/artist/6cM6cbpILW8TfpfZCqAFls) | [Madrid](https://open.spotify.com/album/5uHj80vUAeSnbx92ddO9mL) | 3:00 | 2026-03-28 |  |
 | [Magazines](https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC) | [Gardenia](https://open.spotify.com/artist/6CfgSJflgY2ETbB1RqH3ry) | [Gardenia](https://open.spotify.com/album/3kk1h4CujwsYtyzdFOUnlB) | 3:32 | 2026-03-27 |  |
 | [Magic Dots](https://open.spotify.com/track/3yGrz2tZ6y8MwnD7lHaucI) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [Magic Dots](https://open.spotify.com/album/2g8U7447dCSIWIZ4B0a2r2) | 2:49 | 2026-01-23 | 2026-02-12 |
 | [Magika](https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:25 | 2026-01-17 | 2026-02-06 |
@@ -807,7 +811,7 @@
 | [Reading With the Lights Off](https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX) | [halfstride](https://open.spotify.com/artist/1ayEPgY4iGZBVbyk4euwnn) | [Reading With the Lights Off](https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL) | 3:09 | 2026-01-09 | 2026-02-10 |
 | [Real Woman \(Alternate Mix\)](https://open.spotify.com/track/4TsFSZhRCJfNc1bgkFdz2b) | [Dan Tanas](https://open.spotify.com/artist/2yzyxkgMmo3NHftdGfhXui) | [Real Woman \(Alternate Mix\)](https://open.spotify.com/album/3qeJzn5YhNZmyXk0gi5Yh6) | 5:12 | 2026-01-15 | 2026-02-03 |
 | [Reanimatrix](https://open.spotify.com/track/4RwmCfgq9AYs8QFRYmvhoy) | [Lake Mar/E](https://open.spotify.com/artist/0MmYo1dIk0fPxoGIsYWRkg) | [Reanimatrix](https://open.spotify.com/album/0zveQ08GWmblWerK3rMyBg) | 3:55 | 2026-03-12 |  |
-| [Reckoner](https://open.spotify.com/track/2iydK1qSBLuqkOogdnWzQT) | [Late Night Fights](https://open.spotify.com/artist/6GkSLJj5CGLIckLIb8J4LR) | [Reckoner](https://open.spotify.com/album/5S6gBnGssCAdZ4diqX1Y5q) | 5:15 | 2026-02-25 |  |
+| [Reckoner](https://open.spotify.com/track/2iydK1qSBLuqkOogdnWzQT) | [Late Night Fights](https://open.spotify.com/artist/6GkSLJj5CGLIckLIb8J4LR) | [Reckoner](https://open.spotify.com/album/5S6gBnGssCAdZ4diqX1Y5q) | 5:15 | 2026-02-25 | 2026-03-29 |
 | [Red Flag](https://open.spotify.com/track/29ylbdInlkxo9EBbaJfKWq) | [MOODE.ART](https://open.spotify.com/artist/18OtkFSnmwUZFiPFBMnZIH) | [S'THANDWA](https://open.spotify.com/album/3yqGzNSW7vxbq95BZ1raCb) | 3:44 | 2026-03-19 |  |
 | [Red Light, Danger!](https://open.spotify.com/track/62y4Ymu5RGcFzl9VyjWe2N) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Red Light, Danger!](https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO) | 4:05 | 2026-01-01 | 2026-01-22 |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |

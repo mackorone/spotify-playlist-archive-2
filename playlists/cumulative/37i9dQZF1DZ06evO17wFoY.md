@@ -4,7 +4,7 @@
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 58 min
+68 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [The Well\-Tempered Clavier I, Prelude & Fugue No\. 1 in C Major, BWV 846: I\. Prelude](https://open.spotify.com/track/4i8ly7ffzWu8nfKLI8SZFj) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [J.S\. Bach: The Well\-Tempered Clavier, Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude](https://open.spotify.com/album/638fM7ibl3YWInMONVwmse) | 2:19 | 2025-10-30 | 2026-02-28 |
 | [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 | 2025-10-23 |  |
 | [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 | 2025-10-02 |  |
+| [Vocalise, Op\. 34, No\. 14 \(Arr\. Kocsis for Piano\)](https://open.spotify.com/track/1FNHEJepEQqCpY7h0pjIiC) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Rachmaninoff: Vocalise, Op\. 34, No\. 14 \(Arr\. Kocsis for Piano\)](https://open.spotify.com/album/2C6DwyzO24W1rS2KiOHw4f) | 5:38 | 2026-03-29 |  |
 | [Waltz in A Minor “Found in New York” \- 2024 World Premiere Recording](https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin: Waltz in A Minor “Found in New York” \(2024 World Premiere Recording\)](https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0) | 1:21 | 2025-10-02 |  |
 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 | 2025-10-02 |  |
 | [Wild Swans Suite: II\. Eliza Aria \(Version for Piano\)](https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 3:10 | 2025-10-02 |  |

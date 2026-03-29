@@ -4,7 +4,7 @@
 
 > 
 
-2,940 songs - 6 day 8 hr 4 min
+2,941 songs - 6 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1922,6 +1922,7 @@
 | [OUR DESTRUCTION](https://open.spotify.com/track/5YwRFrawW6m3gQnnnbL5CO) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [OUR DESTRUCTION](https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H) | 3:16 | 2024-04-05 |  |
 | [Our Kingdom](https://open.spotify.com/track/1v0Nqnir1eJc7QTWo8t5nt) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Our Kingdom](https://open.spotify.com/album/6x3Vwunw5rmltcSIYPEFC3) | 4:43 | 2022-08-23 |  |
 | [Our Memories \(feat\. Kotori Koiwai\)](https://open.spotify.com/track/6HQwQv4rAacqVlGLCBLrqI) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [Kotori Koiwai](https://open.spotify.com/artist/12q1go3q8W7t3PTSSX2peL) | [Our Memories](https://open.spotify.com/album/3xXmrtnzGqrEv4wK5KXziA) | 3:19 | 2023-10-20 |  |
+| [Out Of Control](https://open.spotify.com/track/3ne7LaIXRylq5eD5LlPFDa) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Out Of Control](https://open.spotify.com/album/0luEadJVR8tBq1So2GfumP) | 2:19 | 2026-03-28 |  |
 | [Out Of Control](https://open.spotify.com/track/2EPj1VLwNycb9Q4TeXJVIp) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Out Of Control](https://open.spotify.com/album/4C09267QB07CdzJqXLWi4f) | 3:00 | 2023-06-30 |  |
 | [Out Of Control](https://open.spotify.com/track/0snp3wshRGtzStZbwPtsfa) | [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy) | [Out Of Control](https://open.spotify.com/album/2dpiuKha5BJa5VwDstbgnq) | 1:54 | 2025-03-22 |  |
 | [Out of Control \- Phenex Kicks Mix](https://open.spotify.com/track/4ybWNMknSEjAh0cF171DzF) | [Fracus](https://open.spotify.com/artist/2YfwTOT9y032E2VXJ8LUuZ), [Darwin](https://open.spotify.com/artist/0m8AmAlmjQt1L06EZmIP4B), [Kyla](https://open.spotify.com/artist/4CyIneTKWrwEJ49i8oovdn) | [Hardcore Addiction 6](https://open.spotify.com/album/6WT8bEo24d3dhUlYuYXyu6) | 3:11 | 2022-12-19 |  |

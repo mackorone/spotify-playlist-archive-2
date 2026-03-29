@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno y Valentina Marquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,409 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,557 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Por Qué Será](https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Por Qué Será](https://open.spotify.com/album/3giuLFpvYRGQdoxaLTMbXn) | 2:48 |
 | 100 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 |
 
-Snapshot ID: `AAAAAEvv2ShbVoC738U8VZJvGJI+wzTu`
+Snapshot ID: `AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX`

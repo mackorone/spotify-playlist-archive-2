@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 盧廣仲
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,609 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,646 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 14 | [I Still Love You](https://open.spotify.com/track/3UaCZ4fZmyTvYgdTPFLApz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I Still Love You](https://open.spotify.com/album/2220Ntb1EOuzBiIqtxYyAv) | 2:57 |
 | 15 | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/track/3P6hXhSXC85qbaO9o9SaTz) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [mac ova seas](https://open.spotify.com/artist/1a3bTQmBNmgiY3U7sMh9pf) | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/album/4s8LVjyZg1PpZdTTuu41Ts) | 3:17 |
 | 16 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
-| 17 | [我受夠了](https://open.spotify.com/track/3w71TlXbEeZeZcI7BtHy2G) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90), [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [我受夠了](https://open.spotify.com/album/156pIYY9nM5eJm6ppOwsCw) | 3:10 |
+| 17 | [我受夠了](https://open.spotify.com/track/3w71TlXbEeZeZcI7BtHy2G) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90), [吳霏 FEI](https://open.spotify.com/artist/4oZwnqHUPpMUBCCNniVVzP) | [我受夠了](https://open.spotify.com/album/156pIYY9nM5eJm6ppOwsCw) | 3:10 |
 | 18 | [布拉格廣場 \- JOLIN Version/ 星宇航空布拉格開航主題曲](https://open.spotify.com/track/0HnESxAFR5lTHioAlI7wo3) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [布拉格廣場 \(JOLIN Version/ 星宇航空布拉格開航主題曲\)](https://open.spotify.com/album/3jHOfMN5e5dcAgxQEZnodk) | 3:12 |
 | 19 | [我怕你把我忘了（我怕你和别人太好）](https://open.spotify.com/track/4VT98RB6toGQRj4XDUXebg) | [林妤](https://open.spotify.com/artist/1b9LOlIsQV9L3FhG4JHsgw) | [我怕你把我忘了（我怕你和别人太好）](https://open.spotify.com/album/7tDpYyz0fdScXE4KYmdOjL) | 3:37 |
 | 20 | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/track/2GPH6riPn4RdRTKOJON4jK) | [孫淑媚](https://open.spotify.com/artist/6yURsPRbhzMKvHc0pcNDUf) | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/album/5mtj4myH6kQBJ0y45WPpZp) | 3:41 |

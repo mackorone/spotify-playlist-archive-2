@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Mayke & Rodrigo, Panda
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,088,647 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,089,344 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Dama do Baralho \- Ao Vivo](https://open.spotify.com/track/4Nj2zoYULwyYnJTU3AZf6B) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia Vol\. 01](https://open.spotify.com/album/6nVk02INL9nxhppU0Sqi5o) | 2:45 |
 | 50 | [Vacilona \- Ao Vivo](https://open.spotify.com/track/0EfOfW72dE43humkvijiYq) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Vacilona \(Ao Vivo\)](https://open.spotify.com/album/5ZzS1sHF60IsFGFcEsTD51) | 2:16 |
 
-Snapshot ID: `AAAAAEIylJFRA5MpxRZ9aSspCV/x9mmU`
+Snapshot ID: `AAAAAKU2e4DTaXsSpo2uSg/miaXeTbxR`

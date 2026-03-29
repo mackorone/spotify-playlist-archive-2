@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Suspect 95
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,330 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,401 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 13 | [Gnanhi](https://open.spotify.com/track/58SldGaCjTH0OgRz4Al8nO) | [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Ambiance Facile 2,5](https://open.spotify.com/album/4qPa9RPwcWr1D2AciMOiLW) | 2:33 |
 | 14 | [L'OISEAU RARE](https://open.spotify.com/track/61ABoH9zJSg1SGqowUeLS6) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [L'OISEAU RARE](https://open.spotify.com/album/5Mp79epqwjSv19A0F5BO2Q) | 2:16 |
 | 15 | [HÉ TCHAI \(feat\. Jojo Le Barbu & Suspect95\)](https://open.spotify.com/track/2JU211mqTr6zscPs4kfqMU) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [HÉ TCHAI \(feat\. Jojo Le Barbu & Suspect95\)](https://open.spotify.com/album/1f1twGZ4S4vGuV4BlFSxtm) | 4:57 |
-| 16 | [No Signal \- I](https://open.spotify.com/track/4YSvFBdJbfqdpu9a6Edpv4) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [No Signal \(I\)](https://open.spotify.com/album/4ZCYP7ezvRdBDNiAZbyzH1) | 1:10 |
+| 16 | [No Signal \- 01](https://open.spotify.com/track/4YSvFBdJbfqdpu9a6Edpv4) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [No Signal \- 01](https://open.spotify.com/album/4ZCYP7ezvRdBDNiAZbyzH1) | 1:10 |
 | 17 | [NINTENDO \(feat\. Cash Crime\)](https://open.spotify.com/track/59mFNcQ4w1ivAexgua99F0) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:21 |
 | 18 | [Télé contre Télé](https://open.spotify.com/track/7bVy2WCPEvVAIj4YuXJOzh) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [HP](https://open.spotify.com/artist/0GDCPKuao2EDbIPKGcMwDZ) | [Juventus Nueva Era \(Deluxe Edition\)](https://open.spotify.com/album/6wFsAMvb2JxIKvwMW1TMv9) | 2:16 |
 | 19 | [Tale](https://open.spotify.com/track/1wpyMgXu9YOjHKZ6nDHdH7) | [D14](https://open.spotify.com/artist/3y3XReRDa8zAZop35uXw0h), [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Turn Up Ivoire 2](https://open.spotify.com/album/0whylFcTWRqtF93DkFLTvU) | 2:36 |

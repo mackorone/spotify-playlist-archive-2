@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Da\u00f0i Freyr, RAYE og m\u00f6rgum fleiri!",
-  "num_followers": 9606,
+  "num_followers": 9605,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
+        "name": "maintenance mode",
+        "url": "https://open.spotify.com/album/63lFnlzOMMtBczWf8ZVWvU"
+      },
+      "artists": [
+        {
+          "name": "@melissageurts",
+          "url": "https://open.spotify.com/artist/2kzYxRlizKl4XKk2piAsWA"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "still here though",
+      "url": "https://open.spotify.com/track/3F0WJ8nNpQ9IrgQmExH3gB"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
         "name": "Bruised",
         "url": "https://open.spotify.com/album/4QlE9lRwtAhaHNDx76oXOF"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 299956,
       "name": "it must be so nice to hide in small spaces",
       "url": "https://open.spotify.com/track/1z5mUN9nmZYrRWYXCJ5rc6"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/3lpsQJ1ehFFTWi6wfTyjIJ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00efcee",
-          "url": "https://open.spotify.com/artist/7pyfZGDbwdsRidi4yjomoA"
-        }
-      ],
-      "duration_ms": 152988,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/3CxgpyhkQPnMjhMzWP4YE8"
     }
   ],
   "unique_name": "New Music Friday Iceland",

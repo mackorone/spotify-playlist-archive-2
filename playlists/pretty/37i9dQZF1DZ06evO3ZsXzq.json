@@ -1,12 +1,12 @@
 {
   "description": "This is Harry Styles. The essential tracks, all in one playlist.",
-  "num_followers": 12987,
+  "num_followers": 12990,
   "original_name": "This Is Harry Styles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAADp2ktCtddvUGN96HrUN/tI",
+  "snapshot_id": "acXIgAAAAAARgstA7SuUvCnZV5yFo0hK",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 192400,
-      "name": "Are You Listening Yet?",
-      "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 248866,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+      "duration_ms": 192400,
+      "name": "Are You Listening Yet?",
+      "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
     },
     {
       "added_at": null,

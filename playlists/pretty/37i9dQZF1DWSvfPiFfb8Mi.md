@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,211 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,390 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 124 | [Let It Go, Baby](https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh), [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Let It Go, Baby](https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ) | 2:29 |
 | 125 | [Swiss Sensation](https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Swiss Sensation](https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo) | 3:47 |
 
-Snapshot ID: `AAAAAB1/mfJQkjsQ+ohaEzPH/AM7yhYh`
+Snapshot ID: `AAAAAHJTlcRt7PcOW+ds/5yRm2dCTUwp`

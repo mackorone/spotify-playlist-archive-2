@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 4114,
+  "num_followers": 4119,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAACgizHMPVo0myuD55M7h5oX",
+  "snapshot_id": "acXIgAAAAADp6zv4D0x+PsmEr/G/f1JP",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 270333,
-      "name": "Ama de Casa un Poco Triste",
-      "url": "https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3"
+      "duration_ms": 164226,
+      "name": "Algo de Suerte",
+      "url": "https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 164226,
-      "name": "Algo de Suerte",
-      "url": "https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST"
+      "duration_ms": 270333,
+      "name": "Ama de Casa un Poco Triste",
+      "url": "https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together in the End",
-        "url": "https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW"
+        "name": "Not From This Neighborhood",
+        "url": "https://open.spotify.com/album/2qIfAO5AwiqtJoIHAJMGJv"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 247934,
-      "name": "Together in the End",
-      "url": "https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo"
+      "duration_ms": 273418,
+      "name": "Not From This Neighborhood",
+      "url": "https://open.spotify.com/track/32FIj8Ff7mkjC0P2Art9GX"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

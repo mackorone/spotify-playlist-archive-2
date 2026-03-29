@@ -18616,7 +18616,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 319575,
       "name": "Cora\u00e7\u00e3o Novo",
       "url": "https://open.spotify.com/track/3p9pRtdQOYS0WswINSwF9q"
@@ -22968,6 +22968,24 @@
       "duration_ms": 150616,
       "name": "Disk P@#$%&!",
       "url": "https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR"
+    },
+    {
+      "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245441,
+      "name": "DISNEY PRINCESS",
+      "url": "https://open.spotify.com/track/3Jyf9XodbRv3fC9Z1HBDyC"
     },
     {
       "album": {
@@ -43776,7 +43794,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -49098,7 +49116,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 205403,
       "name": "Mel\u00f4 De Pra N\u00e3o Dar K.O - Reggae Funk",
       "url": "https://open.spotify.com/track/13tEaXv72jvgRcR81akpNo"
@@ -55462,7 +55480,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
@@ -92424,6 +92442,32 @@
       "duration_ms": 182769,
       "name": "Xerecation",
       "url": "https://open.spotify.com/track/69B1LNCFR2kjrJczNeQdRf"
+    },
+    {
+      "album": {
+        "name": "Xereka de Tesoura",
+        "url": "https://open.spotify.com/album/55pUYfNTlbrp9o7kDkwLAW"
+      },
+      "artists": [
+        {
+          "name": "DJ SX",
+          "url": "https://open.spotify.com/artist/3XDZZV46hPdaCTPd8pObjT"
+        },
+        {
+          "name": "Ari Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b"
+        },
+        {
+          "name": "Os Taef",
+          "url": "https://open.spotify.com/artist/6xLwMXZov1Duj9fkp6ekQ3"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Xereka de Tesoura",
+      "url": "https://open.spotify.com/track/7sE8kraWg50XBKNcbsFoo9"
     },
     {
       "album": {

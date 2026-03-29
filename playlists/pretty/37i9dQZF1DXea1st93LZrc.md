@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2025\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,024 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,032 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 29 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |
 | 30 | [PHANTOM](https://open.spotify.com/track/0bDl2O1qRF08SM62wHSaiq) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [PHANTOM](https://open.spotify.com/album/5eUqkk3UilnjCrYIRu7uvH) | 1:49 |
 | 31 | [Ekptotos Aggelos](https://open.spotify.com/track/2IJFUJ5KrF5TiMxrAi3NDQ) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [11 Me Liga Logia](https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe) | 4:23 |
-| 32 | [Petheno](https://open.spotify.com/track/5mIZDaHvWBSSFCOdQrlhEd) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Lived](https://open.spotify.com/artist/6nlLQysyyJ6vyTxZeEJh1A) | [Petheno](https://open.spotify.com/album/12HrnnfJLlsjtOKt7YcD5V) | 2:58 |
+| 32 | [Petheno](https://open.spotify.com/track/5mIZDaHvWBSSFCOdQrlhEd) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Lived](https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz) | [Petheno](https://open.spotify.com/album/12HrnnfJLlsjtOKt7YcD5V) | 2:58 |
 | 33 | [Kamia](https://open.spotify.com/track/0ABIJTZCkBwlGe5noJq1QI) | [Notis Sfakianakis](https://open.spotify.com/artist/31ID15xoalmnSgwPhHJZrR) | [...Kai O Eros Theos Einai](https://open.spotify.com/album/1PGtkSq9k685Yy4wCHFaf5) | 3:44 |
 | 34 | [FOS STO DROMO](https://open.spotify.com/track/1R3RMMX96zftzTPnboEa6N) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [MAIS](https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj) | 3:14 |
 | 35 | [BAM BAM](https://open.spotify.com/track/7yJbZo0ev4D9ZaJgf1kaYX) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [BAM BAM](https://open.spotify.com/album/28kbRttYb5AGa9qZQQYu7k) | 3:04 |

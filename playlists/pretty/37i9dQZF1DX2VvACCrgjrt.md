@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 featuring bradeazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,251 likes - 125 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,275 likes - 125 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [Sweating](https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Sweating](https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F) | 3:27 |
 | 125 | [Good Girls](https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Good Girls](https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI) | 3:01 |
 
-Snapshot ID: `AAAAALBagTIvnMrTn4/xpiBZFqWSilVA`
+Snapshot ID: `AAAAAOtx56n6AlApZA440VJcp41/ggPa`

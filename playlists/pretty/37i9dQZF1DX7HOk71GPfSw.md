@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > This playlist features Dylan Brady, underscores, and more good hyperpop music
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,282 likes - 125 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,374 likes - 125 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

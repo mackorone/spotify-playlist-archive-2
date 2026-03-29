@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,919,018 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,918,915 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Believe](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Believe](https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX) | 3:58 |
 | 100 | [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 |
 
-Snapshot ID: `AAAAAJ1waPO6AZkiB6yTQARDyVXgsN/C`
+Snapshot ID: `AAAAAODVM1SI9F64jI1syx718XZQj0eW`

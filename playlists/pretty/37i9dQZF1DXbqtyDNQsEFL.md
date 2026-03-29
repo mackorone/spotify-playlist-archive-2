@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,445 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,481 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 14 | [God Dey 2](https://open.spotify.com/track/4vsztLGXcb6rntiTMqT0J7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Gospel Force](https://open.spotify.com/artist/00M1UkoSlitGAaMN2ng5kh) | [God Dey 2](https://open.spotify.com/album/5DLvmyPdGCBK9MSTEm0yTR) | 7:12 |
 | 15 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
 | 16 | [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 |
-| 17 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Chukwuma](https://open.spotify.com/artist/5OBDxw2Vy487nGaIY7D0oI), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
+| 17 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
 | 18 | [Give Myself Away](https://open.spotify.com/track/2t8CRj7Stst5iWK5f4JuhT) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Give Myself Away](https://open.spotify.com/album/5vmnvnVwjZKT3gSJWnfu0J) | 3:18 |
 | 19 | [Fire](https://open.spotify.com/track/2AhmFyKuWPEMoie3RbT0Gg) | [Miriam Jaydah](https://open.spotify.com/artist/0WD1OVRYVzK0UGWfh42NrG) | [Fire](https://open.spotify.com/album/1HPhM6imos4KxycwA6KKe6) | 2:23 |
 | 20 | [Your Presence](https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Your Presence](https://open.spotify.com/album/3M4GSnoWcAoeHA1Ubo6UJP) | 4:55 |

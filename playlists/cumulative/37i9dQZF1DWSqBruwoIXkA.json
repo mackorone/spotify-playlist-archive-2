@@ -5328,7 +5328,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 191122,
       "name": "Forever Start",
       "url": "https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew"
@@ -10820,6 +10820,24 @@
       "duration_ms": 188785,
       "name": "Love Under The Influence",
       "url": "https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl"
+    },
+    {
+      "album": {
+        "name": "Love Will Kill Me",
+        "url": "https://open.spotify.com/album/1hRgrg6gwZmLV9DkSaxtdx"
+      },
+      "artists": [
+        {
+          "name": "Hetta Falzon",
+          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Love Will Kill Me",
+      "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
     },
     {
       "album": {

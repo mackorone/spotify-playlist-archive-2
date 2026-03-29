@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ"
+      },
+      "artists": [
+        {
+          "name": "DAWN PATROL",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169167,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2plxZbunq262aPivPjURsw"
+    },
+    {
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },

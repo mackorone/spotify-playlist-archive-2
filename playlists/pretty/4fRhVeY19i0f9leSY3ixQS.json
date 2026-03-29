@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1303,
+  "num_followers": 1305,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAANDZXPMKEt/I0ifWLvPDJMWJmRDklD",
+  "snapshot_id": "AAANE+Gb9Vs0RMDk01XFbAnb1K6ImlHT",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -1627,38 +1627,6 @@
       "duration_ms": 191992,
       "name": "The Uncommanded Bitch",
       "url": "https://open.spotify.com/track/1GPr44AjouiFL8O8CQgVIT"
-    },
-    {
-      "added_at": "2026-02-25 11:20:57",
-      "album": {
-        "name": "Reckoner",
-        "url": "https://open.spotify.com/album/5S6gBnGssCAdZ4diqX1Y5q"
-      },
-      "artists": [
-        {
-          "name": "Late Night Fights",
-          "url": "https://open.spotify.com/artist/6GkSLJj5CGLIckLIb8J4LR"
-        }
-      ],
-      "duration_ms": 315683,
-      "name": "Reckoner",
-      "url": "https://open.spotify.com/track/2iydK1qSBLuqkOogdnWzQT"
-    },
-    {
-      "added_at": "2026-02-25 11:05:33",
-      "album": {
-        "name": "Bleeding You",
-        "url": "https://open.spotify.com/album/1GBNuPGY2C4QDMnCmvkl5t"
-      },
-      "artists": [
-        {
-          "name": "Against the Grave",
-          "url": "https://open.spotify.com/artist/2txUYDRABdPVQcCqx0EJfB"
-        }
-      ],
-      "duration_ms": 163718,
-      "name": "Bleeding You",
-      "url": "https://open.spotify.com/track/00LyefdHtjsZl6RsKpDav6"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -5063,6 +5031,70 @@
       "duration_ms": 226850,
       "name": "Insomnio (FT. HIT-GRL)",
       "url": "https://open.spotify.com/track/1xpNvr7dpTMIaI6MSagpAM"
+    },
+    {
+      "added_at": "2026-03-28 11:17:50",
+      "album": {
+        "name": "Acid Viking",
+        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
+      },
+      "artists": [
+        {
+          "name": "Lady Owl",
+          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Hits Hard",
+      "url": "https://open.spotify.com/track/2fblQwOSFg4tacGq8DtO9B"
+    },
+    {
+      "added_at": "2026-03-28 21:49:48",
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/5uHj80vUAeSnbx92ddO9mL"
+      },
+      "artists": [
+        {
+          "name": "Passing grade",
+          "url": "https://open.spotify.com/artist/6cM6cbpILW8TfpfZCqAFls"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/07AqQxvXuIQummbZnMfDUg"
+    },
+    {
+      "added_at": "2026-03-28 21:49:30",
+      "album": {
+        "name": "MUTANTE",
+        "url": "https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Disc\u00edpulo - Hierofante Mix",
+      "url": "https://open.spotify.com/track/1kWZaubUIbzZb2q1n8lIhQ"
+    },
+    {
+      "added_at": "2026-03-28 21:51:24",
+      "album": {
+        "name": "Bellissimo",
+        "url": "https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ"
+      },
+      "artists": [
+        {
+          "name": "Crawl Town",
+          "url": "https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellissimo",
+      "url": "https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md"
     }
   ],
   "unique_name": "Shuffle Roulette",

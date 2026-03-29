@@ -39602,6 +39602,24 @@
     {
       "album": {
         "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/0luEadJVR8tBq1So2GfumP"
+      },
+      "artists": [
+        {
+          "name": "RAYZEN",
+          "url": "https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139878,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/3ne7LaIXRylq5eD5LlPFDa"
+    },
+    {
+      "album": {
+        "name": "Out Of Control",
         "url": "https://open.spotify.com/album/4C09267QB07CdzJqXLWi4f"
       },
       "artists": [

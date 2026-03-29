@@ -1,13 +1,37 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 37498,
+  "num_followers": 37504,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAAAX8747dbdp2s/jt34dAm+4",
+  "snapshot_id": "acXIgAAAAAASaEqEKGyxEBLRb714Qkus",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juan el Descuartizador",
+        "url": "https://open.spotify.com/album/4wXmyG5vYdxGVlvkIBxm7S"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Jos\u00e9 Andr\u00eba",
+          "url": "https://open.spotify.com/artist/3gxND003R6Jf4U41ODfMFJ"
+        },
+        {
+          "name": "Kabr\u00f6nes",
+          "url": "https://open.spotify.com/artist/7daRDWS4dMeyuIeieB6oSS"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/7Dh45ouPTSqztckOTIJXNQ"
+    },
     {
       "added_at": null,
       "album": {
@@ -216,9 +240,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 155852,
-      "name": "Juan el Descuartizador",
-      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+      "duration_ms": 179350,
+      "name": "El Chamuco",
+      "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
     },
     {
       "added_at": null,
@@ -284,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 179350,
-      "name": "El Chamuco",
-      "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
+      "duration_ms": 145217,
+      "name": "Antes Me Gustabas",
+      "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
     },
     {
       "added_at": null,
@@ -348,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 145217,
-      "name": "Antes Me Gustabas",
-      "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
+      "duration_ms": 193004,
+      "name": "La Perra Brava",
+      "url": "https://open.spotify.com/track/5sc61LCz9wWpRrb6ziYilE"
     },
     {
       "added_at": null,
@@ -371,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Sin Visa, Vol. 5",
-        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "La Noche y el Silencio",
-      "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -399,6 +407,22 @@
       "duration_ms": 183576,
       "name": "Sue\u00f1os de la Ciudad",
       "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Sin Visa, Vol. 5",
+        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "La Noche y el Silencio",
+      "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
     },
     {
       "added_at": null,
@@ -435,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capella, Vol. 2",
-        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "Tiempo de Lluvia",
-      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -463,6 +471,22 @@
       "duration_ms": 249568,
       "name": "Injerto",
       "url": "https://open.spotify.com/track/073KZTEjnCU8ur8LAjG5r0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Tiempo de Lluvia",
+      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
     },
     {
       "added_at": null,
@@ -503,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capella, Vol. 2",
-        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 210094,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -531,6 +539,22 @@
       "duration_ms": 306503,
       "name": "Otro D\u00eda",
       "url": "https://open.spotify.com/track/2g44zupqx5AajCy6XD5fMT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 210094,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
     },
     {
       "added_at": null,
@@ -567,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "Saber Amar",
+      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capella, Vol. 2",
         "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
       },
@@ -579,22 +619,6 @@
       "duration_ms": 230016,
       "name": "Alejandro",
       "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 233964,
-      "name": "El Primer Destino",
-      "url": "https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1"
     },
     {
       "added_at": null,
@@ -631,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 233964,
+      "name": "El Primer Destino",
+      "url": "https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capella, Vol. 2",
         "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
       },
@@ -647,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
+        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
       "artists": [
         {
@@ -656,25 +696,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 194676,
-      "name": "Saber Amar",
-      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 267059,
-      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
+      "duration_ms": 306293,
+      "name": "Un D\u00eda A La Vez",
+      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
     },
     {
       "added_at": null,
@@ -695,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
-        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
+        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
       },
       "artists": [
         {
@@ -704,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 306293,
-      "name": "Un D\u00eda A La Vez",
-      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
+      "duration_ms": 267059,
+      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
     },
     {
       "added_at": null,
@@ -759,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Trabajo del Hombre",
         "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
       },
@@ -791,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
       },
       "artists": [
         {
@@ -800,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 223468,
-      "name": "Tu Te las Tomaste S\u00f3lo",
-      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
+      "duration_ms": 263640,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
     },
     {
       "added_at": null,

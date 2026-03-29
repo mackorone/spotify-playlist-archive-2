@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Jenevieve
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,765 likes - 160 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,797 likes - 160 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

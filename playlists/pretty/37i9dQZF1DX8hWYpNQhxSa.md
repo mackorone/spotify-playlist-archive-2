@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,076 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,088 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 47 | [Summoning the Courage](https://open.spotify.com/track/4359fsHWwu2NheuWSccB3v) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 2:00 |
 | 48 | [【Season２】\#20…Podcast Season2も今回でラスト！「●●●みたいだった…最終回のPodcast」](https://open.spotify.com/episode/5PkNLlN9SaaL8WdaSh4xzX) | [SPY×FAMILY オペレーション〈ポッドキャスト〉 Season 2](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉 Season 2](https://open.spotify.com/album/5vSDpbHdx2YaXQPWzLSFri) | 30:58 |
 | 49 | [CODE: White](https://open.spotify.com/track/4f6O97yeLWdxxA721vRKAB) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [『劇場版 SPY×FAMILY CODE: White』　オリジナル･サウンドトラック](https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or) | 3:38 |
-| 50 | [Until the End](https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End （TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP) | 2:53 |
+| 50 | [Until the End](https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Until the End （TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP) | 2:53 |
 | 51 | [Little steps](https://open.spotify.com/track/5x3zRaTo5gHTsEvNvbt5C8) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Little steps（TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/6qohjfb1eC5gveRdxYd5kH) | 4:27 |
 | 52 | [Garden \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/track/4V6fcozb4qSZBsQto6nQ7g) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:NIKIIE](https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8) | [Garden \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/album/0qUqGs6PP9wiM0ImrMoYV4) | 1:59 |
 | 53 | [uneven fruit](https://open.spotify.com/track/0wvwmnT6T4d9wokxeOCTdV) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:NIKIIE](https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8) | [TVアニメ『SPY×FAMILY』Season 2 オリジナル･サウンドトラック](https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF) | 4:05 |

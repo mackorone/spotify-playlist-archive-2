@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-851 songs - 2 day 2 hr 2 min
+853 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Sky Castles](https://open.spotify.com/track/6grhaVHkFcpNhIydGg7OJe) | [Andaluz](https://open.spotify.com/artist/1fVpy9sfYVCnGSDG8EyrQo), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [The Sky Silk Road](https://open.spotify.com/album/2egcGjuz3oX770IVcxZDiX) | 3:52 | 2023-04-20 | 2025-11-29 |
 | [Slow Burn \- Double Vision Version](https://open.spotify.com/track/0yL9xTEQqKMN6X7WR84Zke) | [H.Foolio](https://open.spotify.com/artist/5eNBzS4wwUkRETeE2TekKX) | [Soundtrack of my life vol.1](https://open.spotify.com/album/5F6jL1xjwvm2zDuu6RtAaY) | 3:29 | 2026-03-10 |  |
 | [SLOW MOTION](https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [SLOW MOTION](https://open.spotify.com/album/7k2W3QNQoaesDP3UCg0oDW) | 2:35 | 2026-02-25 |  |
+| [Smile](https://open.spotify.com/track/6uKneVDbug79oVARPAqfKG) | [Asher Saipe](https://open.spotify.com/artist/11qtvzvtcIBq9S5gNPnBDD) | [Smile](https://open.spotify.com/album/24KgIkZhea3iRt93nKb8xw) | 4:05 | 2026-03-28 |  |
 | [Smile at Anger](https://open.spotify.com/track/6kaYH8n5R5FxtW4CkxdSia) | [Benny Bianco](https://open.spotify.com/artist/0hhm40NV7HM1x69XiMDrna) | [Another Day of Life](https://open.spotify.com/album/6s42xcYpbSLbwx4MOnlcDn) | 3:16 | 2026-01-06 | 2026-02-03 |
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-03-03 | 2026-03-25 |
 | [Snap](https://open.spotify.com/track/5t2KnkJ348gY4DvYudL47k) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/4ErbPCHn0Fc7yGiNTnoFOr) | 3:23 | 2025-10-17 | 2025-12-21 |
@@ -778,6 +779,7 @@
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-11 | 2025-12-21 |
 | [Undercurrents](https://open.spotify.com/track/4MS830aig1FAP5loRX82nU) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Undercurrents](https://open.spotify.com/album/2Lu0CjzJuQ4coG2LRxPzsC) | 3:37 | 2026-03-10 |  |
 | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/track/0hfikWpzoANNDL4o9Kz2A0) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/album/0Xq9hTLQCUBnhGVNBqg9DS) | 2:47 | 2025-11-17 | 2025-12-21 |
+| [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 | 2026-03-28 |  |
 | [UNPREDICTABLE](https://open.spotify.com/track/7sYqRny0YCdeTPTZ4cdFb4) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [UNPREDICTABLE](https://open.spotify.com/album/0yCsT2thys4cYqlQ63A7j6) | 4:04 | 2025-12-29 | 2026-02-03 |
 | [Until the End of the World](https://open.spotify.com/track/1pE14eN9lfdPeg73TcCM46) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:09 | 2025-11-14 | 2025-12-21 |
 | [untitled](https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [untitled](https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3) | 4:04 | 2026-03-09 |  |

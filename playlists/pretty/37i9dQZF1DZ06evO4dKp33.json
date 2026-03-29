@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 90176,
+  "num_followers": 90268,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAABka3eycZ2NC9piDRUzFQWO",
+  "snapshot_id": "acXIgAAAAACJ4TuFBk2k6a5pIQ/ZTfga",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illegal + Four Tet",
-        "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Illegal + Four Tet",
-      "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 119314,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/6aE1kHca8lxdIDMgZwAwfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illegal + Four Tet",
+        "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Illegal + Four Tet",
+      "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
     },
     {
       "added_at": null,

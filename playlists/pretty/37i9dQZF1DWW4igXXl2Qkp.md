@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5IyinZYJjqYfHlgtdyUYnm">Pradabagshawty</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,762 likes - 104 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,812 likes - 104 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 20 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 21 | [PIERCING ON MY HAND](https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [PIERCING ON MY HAND](https://open.spotify.com/album/61m68G4BXancb8MdOMKwZl) | 2:06 |
 | 22 | [Do It For A Dub](https://open.spotify.com/track/1S0LFIgIcGskXJYzwfOQFh) | [Babyspazzo](https://open.spotify.com/artist/7dADVeTD5F52OSu4HSsia3) | [Who Spazz?](https://open.spotify.com/album/27uYwV25CVTYRZ7k8QXTit) | 2:30 |
-| 23 | [Stilletos](https://open.spotify.com/track/2qxuj3G2cf2USvyUimTT59) | [Yonnie](https://open.spotify.com/artist/6RvAYlow6wTDLrqAagwAyQ) | [Stilletos](https://open.spotify.com/album/2PRRWxRs6HWYXwv1UDfkBl) | 2:51 |
+| 23 | [Stilletos](https://open.spotify.com/track/2qxuj3G2cf2USvyUimTT59) | [Yonnie](https://open.spotify.com/artist/2wpnQtOsxuy77l3woLRSiV) | [Stilletos](https://open.spotify.com/album/2PRRWxRs6HWYXwv1UDfkBl) | 2:51 |
 | 24 | [Just In Case](https://open.spotify.com/track/1zLqfd5MwGGPO1NZO0Fm21) | [Sizzy](https://open.spotify.com/artist/1LWDnIAtYtUVFNo8Id0uYZ) | [Just In Case](https://open.spotify.com/album/6Qnz3JIspy0PjSuM1746ma) | 2:58 |
 | 25 | [LA Lakers](https://open.spotify.com/track/1cSkj5yKNKGXx3ba0yFaMo) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Sharks Never Stop Swimming 2](https://open.spotify.com/album/5y7AuFcf3HSVJD5XpPEO47) | 2:21 |
 | 26 | [Shoe Box](https://open.spotify.com/track/4CXPGLT5vcQ9Fl5yH0Mw4Z) | [A2P Fred](https://open.spotify.com/artist/1NCYuwDTI9FZWIEtbDX1Jc) | [Shoe Box](https://open.spotify.com/album/5iiLQab53AfHXVVeyaGlrA) | 2:15 |

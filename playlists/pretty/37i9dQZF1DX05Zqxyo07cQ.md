@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,027 likes - 158 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,965 likes - 158 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 157 | [Rooted](https://open.spotify.com/track/2qegphyohaqW4UZVpHxERI) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Rooted](https://open.spotify.com/album/6yJQRwrmBlA7JQTHcbswq6) | 3:06 |
 | 158 | [Harmonic Haze](https://open.spotify.com/track/3FGFNoIyjM3mij5XOcSK8K) | [Somniare](https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn) | [Harmonic Haze](https://open.spotify.com/album/5ofxhR5PP2k1zX1CbxfV4J) | 2:22 |
 
-Snapshot ID: `AAAAAKjOOpzWT15TLnhJCBHFK9ZrSWF0`
+Snapshot ID: `AAAAABOxrDlVN2+8J4K+cG0DSuPl5wh5`

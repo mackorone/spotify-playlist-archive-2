@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! FLVCKKA en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,948 likes - 160 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,971 likes - 160 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

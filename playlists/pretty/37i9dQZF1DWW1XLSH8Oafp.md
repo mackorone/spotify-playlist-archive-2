@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Lone
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,948 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,942 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [Take Control](https://open.spotify.com/track/1Vyo6gFgeLbTW2nQTy0vrZ) | [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [Take Control](https://open.spotify.com/album/2SeY4fAp7LFa2WtqgO2N7T) | 3:50 |
 | 100 | [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Airglow](https://open.spotify.com/album/2aPKoJXKtbfzZHbI6gVzyB) | 4:50 |
 
-Snapshot ID: `AAAAAMr+YeWBkpSPaLl9ZOhq9bB3dozJ`
+Snapshot ID: `AAAAAEfzyKqZ8v1wjuHixbvhYXKqSAb9`

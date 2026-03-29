@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-[beanspaces](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 379 likes - 268 songs - 8 hr 23 min
+[beanspaces](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 378 likes - 268 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

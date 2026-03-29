@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 68 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 |
 | 69 | [NOIR](https://open.spotify.com/track/6j9o2EMWUSdTG3JnetYfAv) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [NOIR](https://open.spotify.com/album/4RlBJWlVB5OPhdxb0NAj3W) | 2:46 |
 
-Snapshot ID: `AAAAAHgw7Bcto4Xa/yRewd5Z0ltWvsBo`
+Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`

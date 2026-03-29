@@ -3323,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL MADNESS",
+        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178447,
+      "name": "TRIGGER",
+      "url": "https://open.spotify.com/track/3srvw1uBqlEfOBmCyUEcqz"
+    },
+    {
+      "album": {
         "name": "Vulnerability1000",
         "url": "https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y"
       },

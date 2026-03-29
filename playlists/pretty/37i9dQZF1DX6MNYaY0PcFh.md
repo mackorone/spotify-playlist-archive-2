@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Ghoulish
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,430 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,453 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
 | 70 | [Dis Badman](https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Dis Badman](https://open.spotify.com/album/7rWOE4qznyqy2eggc1jR91) | 2:49 |
 
-Snapshot ID: `AAAAAKGLXYSq9j8l5QQR4QL2F9PfPNAB`
+Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

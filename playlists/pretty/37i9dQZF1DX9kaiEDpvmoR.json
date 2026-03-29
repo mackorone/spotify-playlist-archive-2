@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93841,
+  "num_followers": 93845,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
+        "name": "Mannen i spegeln",
+        "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
         }
       ],
-      "duration_ms": 200183,
-      "name": "D\u00e4r huden \u00e4r tunnast",
-      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
+      "duration_ms": 212800,
+      "name": "Mannen i spegeln",
+      "url": "https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Mannen i spegeln",
-        "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
       },
       "artists": [
         {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Mannen i spegeln",
-      "url": "https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7"
+      "duration_ms": 200183,
+      "name": "D\u00e4r huden \u00e4r tunnast",
+      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "Du & jag & mera tid",
         "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 174101,
       "name": "Bara kom",
       "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
+        "name": "Give and Take",
+        "url": "https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Give and Take",
+      "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 205896,
       "name": "Can't Frame the Moonlight",
       "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
-        "name": "Give and Take",
-        "url": "https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Give and Take",
-      "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "H\u00f6kvind",
         "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 188493,
       "name": "Stronger Than",
       "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Human (feat. Jesse & Joy)",
-        "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 243795,
-      "name": "Human (feat. Jesse & Joy)",
-      "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9"
       },
@@ -907,18 +887,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "Human (feat. Jesse & Joy)",
+        "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 243795,
+      "name": "Human (feat. Jesse & Joy)",
+      "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -935,6 +919,22 @@
       "duration_ms": 317160,
       "name": "Mother's Love Conquers All",
       "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
-        "url": "https://open.spotify.com/album/4qRHL64zHw3EcVIGuI2ohf"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
-      "url": "https://open.spotify.com/track/4WjN78YNJnxBuif5QHjRaI"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 279186,
       "name": "Tro",
       "url": "https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
+        "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
+        "url": "https://open.spotify.com/album/4qRHL64zHw3EcVIGuI2ohf"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
+      "url": "https://open.spotify.com/track/4WjN78YNJnxBuif5QHjRaI"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
+      },
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
+        }
+      ],
+      "duration_ms": 224168,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 193142,
       "name": "Liquid Courage",
       "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
-      },
-      "artists": [
-        {
-          "name": "Pernilla Andersson",
-          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
-        }
-      ],
-      "duration_ms": 224168,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 345866,
-      "name": "Unsatisfied Heart",
-      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "Andra landskap 50",
         "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 295520,
       "name": "\u00d6stra Svealand (2025)",
       "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
+        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
+      },
+      "artists": [
+        {
+          "name": "Sannex",
+          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
+        "name": "The Spectrum of Love",
+        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
       },
       "artists": [
         {
-          "name": "Sannex",
-          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
         }
       ],
-      "duration_ms": 225466,
-      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
+      "duration_ms": 193114,
+      "name": "The Spectrum of Love",
+      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "The Spectrum of Love",
-        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
+        "name": "K\u00e4rleken \u00e4r kung",
+        "url": "https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap"
       },
       "artists": [
         {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
         }
       ],
-      "duration_ms": 193114,
-      "name": "The Spectrum of Love",
-      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
+      "duration_ms": 149153,
+      "name": "K\u00e4rleken \u00e4r kung",
+      "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -1367,18 +1383,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "K\u00e4rleken \u00e4r kung",
-        "url": "https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap"
+        "name": "H\u00e4lsingevind",
+        "url": "https://open.spotify.com/album/0SqezURYw039gJ7livqLby"
       },
       "artists": [
         {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+          "name": "Engmans Kapell",
+          "url": "https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v"
+        },
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
         }
       ],
-      "duration_ms": 149153,
-      "name": "K\u00e4rleken \u00e4r kung",
-      "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
+      "duration_ms": 287745,
+      "name": "H\u00e4lsingevind",
+      "url": "https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -1403,22 +1423,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Country Enough",
-      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "Henrys gitarr",
         "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
       },
@@ -1435,6 +1439,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Country Enough",
+      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 245614,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
-        "name": "H\u00e4lsingevind",
-        "url": "https://open.spotify.com/album/0SqezURYw039gJ7livqLby"
-      },
-      "artists": [
-        {
-          "name": "Engmans Kapell",
-          "url": "https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v"
-        },
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        }
-      ],
-      "duration_ms": 287745,
-      "name": "H\u00e4lsingevind",
-      "url": "https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq"
     },
     {
       "added_at": "2026-03-26 23:00:19",

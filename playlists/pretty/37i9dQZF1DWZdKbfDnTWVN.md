@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=Rn\-RYfRaRkqbDKPu4xVRHA"> Boutross</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,647 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,668 likes - 54 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 9 | [Running Late](https://open.spotify.com/track/77OEOwuTMCp4rLmgGiGF8k) | [BoiBlacc](https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Running Late](https://open.spotify.com/album/54hU3DYQbPEOHiiuhSFI1Z) | 3:12 |
 | 10 | [Nijea](https://open.spotify.com/track/3fBfSl58u7RmJOit53saMA) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd) | [Nostalgia](https://open.spotify.com/album/6tgB1mNZSQEZyha1P7skgi) | 2:34 |
 | 11 | [CRASH OUT](https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [WAMEYO](https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU) | 2:23 |
-| 12 | [Grace Ya God](https://open.spotify.com/track/6zXGzlGNUQQ8YpXIM381Lc) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Grace Ya God](https://open.spotify.com/album/53CLMpjuNbOHNIx3tZfrSK) | 2:18 |
+| 12 | [Grace Ya God](https://open.spotify.com/track/6zXGzlGNUQQ8YpXIM381Lc) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Grace Ya God](https://open.spotify.com/album/53CLMpjuNbOHNIx3tZfrSK) | 2:41 |
 | 13 | [Stick](https://open.spotify.com/track/4aIRrp8XnsnOQMRgN672Gq) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Stick](https://open.spotify.com/album/6PGhi1qr9j4NQ225Ml79l2) | 2:35 |
 | 14 | [Side Hii](https://open.spotify.com/track/6iYlDamEIl6ZYV2ZXcZuFQ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Side Hii](https://open.spotify.com/album/07arGqg5UyYlDYJcUoD95g) | 2:45 |
 | 15 | [The Mission\(WYFL Riddim\)](https://open.spotify.com/track/4dMcXQiha2cDuq7kZbwpvN) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [The Mission\(WYFL Riddim\)](https://open.spotify.com/album/3FhP31BYNsGzuBBz0GFEi7) | 2:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 慶祝 EQUAL 五週年！一起來欣賞女性音樂人的精采表現！Cover: A\-Lin
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,415 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,432 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [食等睡等](https://open.spotify.com/track/5HxzqzEFMlYgziO5Y87H78) | [陳以諾Sarah](https://open.spotify.com/artist/3IYmKNTLMRm9lR9lJ3sqHZ) | [慢花誌](https://open.spotify.com/album/0FFy1KMSH0NGk4eygHzlUZ) | 2:34 |
 | 50 | [我為未知活著](https://open.spotify.com/track/7KOsZsYbPq8URAcmdK2N3G) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [UNLOCKED](https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn) | 3:10 |
 
-Snapshot ID: `AAAAAONRe1wNnyj6Dg0AaASId/RbuezV`
+Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`

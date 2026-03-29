@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,923 likes - 120 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,928 likes - 120 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 9 | [Unending Joy](https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Unending Joy](https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr) | 9:45 |
 | 10 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
 | 11 | [Give Myself Away](https://open.spotify.com/track/2t8CRj7Stst5iWK5f4JuhT) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Give Myself Away](https://open.spotify.com/album/5vmnvnVwjZKT3gSJWnfu0J) | 3:18 |
-| 12 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Chukwuma](https://open.spotify.com/artist/5OBDxw2Vy487nGaIY7D0oI), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
+| 12 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
 | 13 | [Cole Palmer](https://open.spotify.com/track/1Ow7vaOAp5ZXx6lMF6JBGI) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:48 |
 | 14 | [After The Storm](https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ) | [After The Storm](https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4) | 2:48 |
 | 15 | [Your Lead](https://open.spotify.com/track/0dfFm85NRrRj8XchR4nqEW) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Your Lead](https://open.spotify.com/album/5azCVHO1QJp8hBcixAVWGc) | 2:22 |

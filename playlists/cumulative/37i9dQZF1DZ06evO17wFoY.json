@@ -1429,6 +1429,28 @@
     },
     {
       "album": {
+        "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Kocsis for Piano)",
+        "url": "https://open.spotify.com/album/2C6DwyzO24W1rS2KiOHw4f"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338533,
+      "name": "Vocalise, Op. 34, No. 14 (Arr. Kocsis for Piano)",
+      "url": "https://open.spotify.com/track/1FNHEJepEQqCpY7h0pjIiC"
+    },
+    {
+      "album": {
         "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
         "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Świętujemy 5 lat EQUAL 💚 Sprawdź najczęściej słuchane ambasadorki programu! Cover: <a href="spotify:artist:0TMvoNR0AIJV138mHY6jdE">sanah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,126 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,142 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

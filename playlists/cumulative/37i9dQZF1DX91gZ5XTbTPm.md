@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: MAF Teeski
 
-1,527 songs - 2 day 21 hr 35 min
+1,530 songs - 2 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Fashion Week](https://open.spotify.com/track/4FjuYI27ToM2hATy6NsJv0) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Fashion Week](https://open.spotify.com/album/7FkBKLKqVCRoqJziqh7ExA) | 3:54 | 2023-09-08 | 2023-11-25 |
 | [FASHO](https://open.spotify.com/track/3nRF4GMXhR76qgxNNdVMbB) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FASHO](https://open.spotify.com/album/3czDNbQY3T12tazXEzn5JQ) | 2:45 | 2024-05-31 | 2024-06-15 |
 | [Fast Dudes](https://open.spotify.com/track/7ruqJE1F5iRZuzMVdPjx9F) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Fast Dudes](https://open.spotify.com/album/4YDtNRPk4vJBgBKUAiKXn7) | 2:27 | 2024-10-25 | 2024-11-09 |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-28 |  |
 | [Fawk Em](https://open.spotify.com/track/5WREBHEIOEXhmx330taPKf) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Big 1/Fawk Em](https://open.spotify.com/album/0oiF0O6rXSWONdkSiLtgyx) | 2:29 | 2024-02-02 | 2024-02-11 |
 | [Feel Bad \(feat\. G Herbo\)](https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I NEVER GAVE AF](https://open.spotify.com/album/5U0od07DPyVqElA9cbO364) | 2:54 | 2025-09-12 | 2025-12-20 |
 | [Feel Like Bart](https://open.spotify.com/track/2phfrAiwQpJnt4gruPs1Cx) | [Lil Mello](https://open.spotify.com/artist/1vN9H1ZYksBpbz25dcdPUu) | [Hot Boy](https://open.spotify.com/album/0YGE6npbgl6LI8s21NA6Pl) | 2:34 | 2022-02-11 | 2022-04-02 |
@@ -1034,6 +1035,7 @@
 | [PTP](https://open.spotify.com/track/48PnQVhkwaDBLfp5ftpSep) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [PTP](https://open.spotify.com/album/4x1z2D5r5KWATLDqsmtqB9) | 2:09 | 2024-07-12 | 2025-03-01 |
 | [PTP \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/track/5nZ73ycbCA2lkEyuM1K6zB) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [PTP \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/album/6ebHPcgg3mkgUg8sO0XjoI) | 2:29 | 2025-02-28 | 2025-05-10 |
 | [PULL UP GHOST\-CLAN \(feat\. 2 Chainz\)](https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:03 | 2024-03-15 | 2024-03-23 |
+| [PUNCH DRUNK](https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:48 | 2026-03-28 |  |
 | [Punk Rock](https://open.spotify.com/track/3VYpEMCOiDid6lT1O6hcMB) | [Frank Beats](https://open.spotify.com/artist/37iERFydd05SXci7v4Y88X), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Punk Rock](https://open.spotify.com/album/3QaorxqjtdVQ9eydBcUNo9) | 2:22 | 2025-10-24 | 2025-11-08 |
 | [Put Me Last](https://open.spotify.com/track/6zWAQg0Pwj8Per8gcGPDij) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Put Me Last](https://open.spotify.com/album/2gIc3juspjUnLavEbOAlqU) | 2:06 | 2025-08-08 | 2025-08-16 |
 | [Pyrex](https://open.spotify.com/track/3TGBtGsWQPfhtPGGzzbc6m) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pyrex](https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5) | 1:52 | 2022-08-19 | 2022-09-24 |
@@ -1339,6 +1341,7 @@
 | [Think You Glowed](https://open.spotify.com/track/4BiPiRcHvzF8Vk3FQRxIPj) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:55 | 2025-03-28 | 2025-04-05 |
 | [Thinking Of You](https://open.spotify.com/track/1lVJbunitVV2YBmlOCuJG7) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Thinking Of You](https://open.spotify.com/album/2oHvIk5IL9sgqaZkuzfo9W) | 2:29 | 2025-02-14 | 2025-03-01 |
 | [This & That](https://open.spotify.com/track/2AXGCcKn8YSxc4a2ohhom4) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [This & That](https://open.spotify.com/album/3HujArLwQRC7zpnBPPZ7jv) | 2:37 | 2023-11-10 | 2024-01-27 |
+| [THIS A MUST](https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:26 | 2026-03-28 |  |
 | [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 | 2025-11-14 | 2025-12-13 |
 | [This N That \(feat\. Bryson Tiller & Kodak Black\)](https://open.spotify.com/track/7evkF9xaNtay5beh1w9QyQ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:09 | 2024-09-13 | 2024-09-21 |
 | [This Summer](https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [This Summer](https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC) | 2:21 | 2023-04-07 | 2023-07-01 |

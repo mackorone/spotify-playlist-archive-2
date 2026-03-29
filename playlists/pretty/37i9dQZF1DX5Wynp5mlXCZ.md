@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Мейнстримні та нішеві поп треки, якими захоплюється Україна і світ! Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,397 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,479 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

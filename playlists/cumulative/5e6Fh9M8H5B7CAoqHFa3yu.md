@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,035 songs - 5 day 0 hr 51 min
+2,036 songs - 5 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Causeless Shall Not Come](https://open.spotify.com/track/62iMW0wwToL65MyYuM7cdw) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb) | [Causeless Shall Not Come](https://open.spotify.com/album/7dj9AEsY6krvVoWOQq9eYv) | 4:10 | 2024-03-23 |  |
 | [Causeless Shall Not Come \- Dub Mix](https://open.spotify.com/track/18rpP8pakMn3HV5k4CFVPh) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb) | [Causeless Shall Not Come](https://open.spotify.com/album/7dj9AEsY6krvVoWOQq9eYv) | 4:17 | 2024-03-23 |  |
 | [Cave Spring Hollow](https://open.spotify.com/track/2pGmkawHD3JM9DzYZnVLO7) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 | 2025-12-01 |  |
+| [Cave Spring Hollow \- INSTRUMENTAL](https://open.spotify.com/track/3l7lMxZg8x9szlL8ij6fPx) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Cave Spring Hollow \(INSTRUMENTAL\)](https://open.spotify.com/album/6E0tHu2CUCTgND1yrk0WZz) | 3:09 | 2026-03-29 |  |
 | [Celebration on the Rocks](https://open.spotify.com/track/14LXgpNLe9Ba51ohBXEkfa) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Celebration on the Rocks](https://open.spotify.com/album/0id2nUjjMtWX3mx9UsBUNO) | 3:07 | 2025-06-13 |  |
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [Celos que me Delatan](https://open.spotify.com/track/1VfRt5kJCYWlOXYMIqkali) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Celos que me Delatan](https://open.spotify.com/album/7xdIneTMjCsxrobnkyLqxx) | 3:36 | 2026-03-12 |  |

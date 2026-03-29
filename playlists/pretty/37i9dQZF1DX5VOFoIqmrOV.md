@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,206 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,299 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 9 | [Adiga Adiga](https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 3:29 |
 | 10 | [Hoyna Hoyna](https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU), [Anantha Sriram](https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:31 |
 | 11 | [Unnatundi Gundey](https://open.spotify.com/track/7MO3e3jJ8iczmix3WeDMFO) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 4:38 |
-| 12 | [Neeli Meghamulalo \(From "35 Chinna Katha Kaadu"\)\(Telugu\)](https://open.spotify.com/track/0sYNZqHarbkRCJ1TOIkhqB) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Prithvi Harish](https://open.spotify.com/artist/5CvvhVKTXcOx2QEx4C8T3t), [Bharadwaj Gali](https://open.spotify.com/artist/3p5E50NaPL1YFcK4njAswK) | [Neeli Meghamulalo \(From "35 Chinna Katha Kaadu"\)\(Telugu\)](https://open.spotify.com/album/5gdcQ1Te7nQe9ooc6flHOv) | 4:52 |
+| 12 | [Neeli Meghamulalo \(From "35 Chinna Katha Kaadu"\)\(TeIugu\)](https://open.spotify.com/track/0sYNZqHarbkRCJ1TOIkhqB) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Prithvi Harish](https://open.spotify.com/artist/5CvvhVKTXcOx2QEx4C8T3t), [Kalyan Vasanth](https://open.spotify.com/artist/0QIH4zuHY4qk1hdedGCC1F), [Bharadwaj Gali](https://open.spotify.com/artist/3p5E50NaPL1YFcK4njAswK) | [Neeli Meghamulalo \(From "35 Chinna Katha Kaadu"\)\(TeIugu\)](https://open.spotify.com/album/5gdcQ1Te7nQe9ooc6flHOv) | 4:52 |
 | 13 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 |
 | 14 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 |
 | 15 | [Emannavoo](https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Vennelakanti](https://open.spotify.com/artist/2BJEnjcz5E2JuIdpwSXwwQ) | [Nava Manmadhudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0) | 3:34 |

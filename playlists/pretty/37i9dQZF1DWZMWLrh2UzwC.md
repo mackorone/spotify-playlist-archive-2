@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Jay Chou, RAYE,  Miley Cyrus, Yuna, Amir Jahari, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,644 likes - 121 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,656 likes - 121 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 116 | [Bexy](https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Bexy](https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV) | 1:50 |
 | 117 | [i can see \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/1GxMB4D5WYWa9QHpMYaYZP) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Kiannacore 4](https://open.spotify.com/album/2wbW3i4q0SWGd1rCDV2nHn) | 2:09 |
 | 118 | [Is Joy Easy](https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Is Joy Easy](https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk) | 3:30 |
-| 119 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC), [Slim Gabriel](https://open.spotify.com/artist/2V1pidmyk9HpSXo1CvxxwI), [Darren Jones](https://open.spotify.com/artist/4tUPPW4XEPUuQ83r89er8G), [Sam Every](https://open.spotify.com/artist/6sLx1QhilPrtx51Mh5wMJv) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
+| 119 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
 | 120 | [The Landfill](https://open.spotify.com/track/37jZ4OmmPlkJ3ClpFtAM07) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Landfill](https://open.spotify.com/album/4WbH9XB301NLVeclpbRFbu) | 2:55 |
 | 121 | [Rockcurry](https://open.spotify.com/track/2AFeJ0e0kAoKi3IVU4GkGk) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Rockcurry](https://open.spotify.com/album/3S7q9XpuNwuj9Xp3eMSduV) | 3:29 |
 

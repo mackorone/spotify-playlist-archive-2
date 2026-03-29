@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with more than a billion streams on Spotify\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,836 likes - 1,229 songs - 3 day 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,294 likes - 1,229 songs - 3 day 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

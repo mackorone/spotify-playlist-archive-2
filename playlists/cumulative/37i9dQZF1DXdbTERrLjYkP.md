@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Cloe Wilder
 
-1,039 songs - 2 day 8 hr 0 min
+1,041 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-02 | 2025-02-15 |
 | [If You'll Be Mine](https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [If You'll Be Mine](https://open.spotify.com/album/2hWRvVLlBOGkTVfB776DaF) | 2:51 | 2023-12-15 | 2024-08-17 |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-16 |  |
-| [Immune](https://open.spotify.com/track/257vYk90jZBxKvgW2ZZH0D) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:24 | 2025-11-25 |  |
+| [Immune](https://open.spotify.com/track/257vYk90jZBxKvgW2ZZH0D) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:24 | 2025-11-25 | 2026-03-29 |
 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
 | [In Between](https://open.spotify.com/track/6MpH0CFS4ikDVF8nc8mEY3) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [In Between](https://open.spotify.com/album/3GPnRyr4N0RBZM5sAgTYH0) | 3:54 | 2025-11-21 |  |
 | [In Love With A Ghost](https://open.spotify.com/track/7xmK0BKKlAG6ifxZr99Qpc) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [In Love With A Ghost](https://open.spotify.com/album/2HFEuad71R07xQK0WWI0eo) | 2:49 | 2026-03-06 |  |
@@ -517,7 +517,7 @@
 | [Inside Out](https://open.spotify.com/track/5p3EiMypl7QejayVenmLEM) | [Beth McKenzie](https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq) | [Inside Out](https://open.spotify.com/album/1tAXnxI5LkZPc2NuGHTW2u) | 2:29 | 2024-10-11 | 2025-04-05 |
 | [Introverted](https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Introverted](https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm) | 4:00 | 2023-05-05 | 2023-08-12 |
 | [Irish Eyes](https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Irish Eyes](https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ) | 2:16 | 2023-07-14 | 2023-12-14 |
-| [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/album/7LtmQnN6io8NnwN2ggLjHt) | 3:29 | 2025-11-21 |  |
+| [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/album/7LtmQnN6io8NnwN2ggLjHt) | 3:29 | 2025-11-21 | 2026-03-29 |
 | [Is It Enough](https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Is It Enough](https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY) | 2:33 | 2022-07-08 | 2022-09-03 |
 | [Isabel](https://open.spotify.com/track/5TyN1lnBNcQzomwOhfqGxN) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Isabel](https://open.spotify.com/album/6agP6NpGBGCN2O7UyzhfHO) | 4:19 | 2024-06-17 | 2024-12-07 |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-11-17 | 2024-08-03 |
@@ -601,6 +601,7 @@
 | [Love of My Life](https://open.spotify.com/track/3swoC2pDa2pQsGFJIvyd4g) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/0coJ1KcqSFSsC1OJM5gQ7C) | 3:52 | 2022-09-09 | 2022-11-13 |
 | [love who you want to](https://open.spotify.com/track/0m8tszo2fzaSsBTlv43dRE) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [love who you want to](https://open.spotify.com/album/2Rd0jhqAsjQceN2NvbTav2) | 2:44 | 2024-03-01 | 2024-08-17 |
 | [Love Will Find Me](https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist \(Gold Edition\)](https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu) | 3:50 | 2025-03-21 | 2025-07-19 |
+| [Love Will Kill Me](https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK) | [Hetta Falzon](https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH) | [Love Will Kill Me](https://open.spotify.com/album/1hRgrg6gwZmLV9DkSaxtdx) | 3:18 | 2026-03-28 |  |
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2022-01-14 | 2022-02-26 |
 | [Love You More](https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You More](https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac) | 2:49 | 2022-02-25 | 2022-07-02 |
 | [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-20 | 2024-03-16 |
@@ -829,6 +830,7 @@
 | [so fast](https://open.spotify.com/track/2fcixmEODeToeEAVE5ct3f) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [so fast](https://open.spotify.com/album/6djywrn8aN9dvRVS1uz8TH) | 4:09 | 2022-12-16 | 2023-02-25 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Soft Boy](https://open.spotify.com/track/6rrbZTkpzaV7CaBoSogKHi) | [Wilbur Music](https://open.spotify.com/artist/3ZHaki4MMPDvFsEE4apthg) | [Soft Boy](https://open.spotify.com/album/004syik0RCJkwKCwVX5fpe) | 2:25 | 2022-09-27 | 2022-12-24 |
+| [Software Developer](https://open.spotify.com/track/3CnLMXhLxdbFMxldjAn7XS) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Software Developer](https://open.spotify.com/album/0PAgb5E8gJEUNTwHaKHSCS) | 3:47 | 2026-03-28 |  |
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-08-17 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 | 2024-04-19 |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2022-01-14 | 2022-03-12 |

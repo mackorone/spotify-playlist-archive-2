@@ -1,13 +1,77 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2718,
+  "num_followers": 2719,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARwWNp4GQnsJmFWkAxsCMUnaZ0pPOF",
+  "snapshot_id": "AAARxbpTsVZmtfca2YXHI+OVlrKYsuCf",
   "tracks": [
+    {
+      "added_at": "2026-03-28 23:06:55",
+      "album": {
+        "name": "Simplemente Hernan",
+        "url": "https://open.spotify.com/album/0cZLmWhYY4WJjjpb1QR6PZ"
+      },
+      "artists": [
+        {
+          "name": "DJ MARC ASTELL",
+          "url": "https://open.spotify.com/artist/2laMIA9iOtGhKmy8OmiEQZ"
+        }
+      ],
+      "duration_ms": 407520,
+      "name": "Simplemente Hernan",
+      "url": "https://open.spotify.com/track/7LWfjpIVAWGIoxDQcydc0a"
+    },
+    {
+      "added_at": "2026-03-28 19:32:14",
+      "album": {
+        "name": "Feel the Jam Tonight",
+        "url": "https://open.spotify.com/album/7wgRN3D4WSMYq8YXs8zXyC"
+      },
+      "artists": [
+        {
+          "name": "DJ MARC ASTELL",
+          "url": "https://open.spotify.com/artist/2laMIA9iOtGhKmy8OmiEQZ"
+        }
+      ],
+      "duration_ms": 199959,
+      "name": "Feel the Jam Tonight",
+      "url": "https://open.spotify.com/track/4fO0BQ0SeBMWUdP7jpdRWr"
+    },
+    {
+      "added_at": "2026-03-28 15:04:55",
+      "album": {
+        "name": "Spring in the Night",
+        "url": "https://open.spotify.com/album/7Drk9BVp9B7lk9nbg87ZOf"
+      },
+      "artists": [
+        {
+          "name": "ADIMME",
+          "url": "https://open.spotify.com/artist/1uSK5s3oQu3Kw3V632E6tJ"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Spring in the Night",
+      "url": "https://open.spotify.com/track/5xIv874wlj03Gc9ULkIZdM"
+    },
+    {
+      "added_at": "2026-03-28 09:55:22",
+      "album": {
+        "name": "Dancing in the moonlight (Remix Version 2026)",
+        "url": "https://open.spotify.com/album/6aK6R2AoRoJJfATBvoYq0O"
+      },
+      "artists": [
+        {
+          "name": "Damasco Dj",
+          "url": "https://open.spotify.com/artist/1VZrKUMcbLfxPFxDfTHJFb"
+        }
+      ],
+      "duration_ms": 223937,
+      "name": "Dancing in the moonlight - Remix Version 2026",
+      "url": "https://open.spotify.com/track/29zYXOV8Urzpp4T77gsjBm"
+    },
     {
       "added_at": "2026-03-27 22:39:37",
       "album": {

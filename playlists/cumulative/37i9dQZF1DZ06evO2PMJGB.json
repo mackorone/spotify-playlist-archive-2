@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
+    },
+    {
+      "album": {
         "name": "fugitivos :)",
         "url": "https://open.spotify.com/album/3KQJDIJ0CzU7hHqlwEFglu"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 155545,
       "name": "Samba de Ver\u00e3o",
       "url": "https://open.spotify.com/track/78T4yGkVB5AWaJ5v9EvQk7"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 154185,
       "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4sXcwMbKlD9eEy4gTK4t2L"

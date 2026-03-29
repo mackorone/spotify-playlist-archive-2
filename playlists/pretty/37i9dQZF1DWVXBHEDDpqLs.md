@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the global underground 💎 featuring QRTR 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,003 likes - 115 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,026 likes - 115 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 114 | [NOS](https://open.spotify.com/track/5SJFNn2TeUXxpyeQlQDfnL) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [NOS](https://open.spotify.com/album/6qVKwBubnKaRQ8zD77jQrm) | 3:02 |
 | 115 | [All Night](https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [i can’t remember the name of this, but that's ok](https://open.spotify.com/album/5QhQi6ShBaqc7PX4XfOwKJ) | 4:09 |
 
-Snapshot ID: `AAAAAPVNpTo8U57xqol0qSLb9WlKGlWv`
+Snapshot ID: `AAAAAMjq/qtgdtNxpw1Dwnr1B0yrNYxp`

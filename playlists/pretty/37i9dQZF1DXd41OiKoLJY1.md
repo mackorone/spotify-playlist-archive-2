@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Paul Monserrate
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,437 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,451 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Ikaw Talaga.](https://open.spotify.com/track/4QCWlicxD9Jacap6CTW2hs) | [Patrick Kristoffer](https://open.spotify.com/artist/35WK3gcFIjOhmYF3AK6ZyL) | [Ikaw Talaga.](https://open.spotify.com/album/0Y0Fyzchhk3AlCZ8AX9Yhv) | 3:08 |
 | 100 | [Dirty Linen](https://open.spotify.com/track/7ujMaeYhvpboFG8alNJ1We) | [Joaquin De Leon](https://open.spotify.com/artist/5hI9wKUfUb7eRgYS1vQJHl) | [Dirty Linen](https://open.spotify.com/album/3XEXEGYvNp5NJDAHVUn2fu) | 3:00 |
 
-Snapshot ID: `AAAAAIiaU5LP6sjvXYQ+SXuqto32p/ZA`
+Snapshot ID: `AAAAAHcaxQkBWZ0pr2tzYipef9Pp1dpy`

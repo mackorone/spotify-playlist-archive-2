@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-880 songs - 2 day 14 hr 19 min
+881 songs - 2 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Amaqatha Amancane](https://open.spotify.com/track/5bofupjpn4LaZBJV39Zohk) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [The Joy](https://open.spotify.com/album/3jVdY0oNzOo0QkWT2aMdDc) | 1:37 | 2024-07-05 | 2024-08-12 |
 | [Amazone](https://open.spotify.com/track/3b41lO2hVuWUPuXUU48JxS) | [Djosa](https://open.spotify.com/artist/6fbLoqbGYp98LrFDp4GMeC) | [Super\-Sonic Family](https://open.spotify.com/album/1iuCyYELL21E3Tc9TeszT3) | 3:59 | 2021-10-06 | 2023-11-03 |
 | [Amerika](https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ) | [BANK](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Amerika](https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u) | 4:09 | 2024-07-05 | 2025-03-22 |
+| [Amidinin Wadar Nohar](https://open.spotify.com/track/1doB5fsejwWxgVty2C6mlp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Hoggar](https://open.spotify.com/album/2gqUcbYA8djTbahHOE7hjx) | 3:12 | 2026-03-28 |  |
 | [An ba jouk \- Olivier Portal Playin' 4 The Beach Remix](https://open.spotify.com/track/75clowU1UTWTs5MG2jtKJB) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF), [Olivier Portal](https://open.spotify.com/artist/4LcB4qomBlRnu8X1VoX0BD) | [An ba jouk](https://open.spotify.com/album/3LfyJ0F4uG3jpiAho5Jjir) | 6:12 | 2021-10-06 | 2022-06-01 |
 | [Ana Qalbi Ehtar \- Habibi Funk 021](https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ana Qalbi Ehtar \(Habibi Funk 021\)](https://open.spotify.com/album/4g7J4UG3vYNDBGmJCQER1P) | 4:45 | 2023-02-14 | 2023-05-24 |
 | [Angels On A Pin](https://open.spotify.com/track/6HjWUmDcJCvWXeXNMYyqrV) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Angels On A Pin](https://open.spotify.com/album/5dfGRfsik4iBH05h9OfUe1) | 4:44 | 2025-05-09 | 2025-06-07 |
@@ -863,7 +864,7 @@
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2023-08-31 | 2023-12-06 |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/1nkKYuTCHJAczQSpbgigO9) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Yaykatekara Dub \(Love Dub\)](https://open.spotify.com/album/143yn83F4xFKVKSWmAFPlb) | 5:10 | 2022-02-03 | 2022-07-29 |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Tonkori In The Moonlight](https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx) | 5:10 | 2023-10-29 | 2023-12-17 |
-| [Yağmur Olsan](https://open.spotify.com/track/3WF1zSUfFniIMGtabsTkCH) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Yağmur Olsan](https://open.spotify.com/album/3olrLmpz6CxdEipUOZmAU6) | 3:53 | 2026-03-06 |  |
+| [Yağmur Olsan](https://open.spotify.com/track/3WF1zSUfFniIMGtabsTkCH) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Yağmur Olsan](https://open.spotify.com/album/3olrLmpz6CxdEipUOZmAU6) | 3:53 | 2026-03-06 | 2026-03-29 |
 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc) | 5:26 | 2021-10-06 | 2024-04-19 |
 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/7L667oKoPNZZQW6AMuxK9a) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/6zfD5ApPpXLXFXqNoaX7b6) | 5:26 | 2021-10-06 | 2022-07-29 |
 | [Yellow Sari](https://open.spotify.com/track/2xRB7a9UJXns10FMexgKn8) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Yellow Sari](https://open.spotify.com/album/2c0QZvuJ1KGVT4mD8rRQCb) | 3:00 | 2021-10-06 | 2022-07-13 |

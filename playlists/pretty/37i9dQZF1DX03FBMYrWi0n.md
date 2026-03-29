@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Les Lunatiques
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,902 likes - 89 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,906 likes - 89 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

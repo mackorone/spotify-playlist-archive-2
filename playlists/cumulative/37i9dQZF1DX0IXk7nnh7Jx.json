@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nD\u00e2mares Gomes",
+  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nJonathan Ogden",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 150000,
       "name": "Be My Peace",
       "url": "https://open.spotify.com/track/7fEb4dVIBpAuVSgBMYsLVQ"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 192352,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1V5g3PIB0cjdZABax9yfo6"
@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 228250,
       "name": "First Light",
       "url": "https://open.spotify.com/track/1mwVr4ixbRTPzsrYP4Di9g"
@@ -3742,7 +3742,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 191050,
       "name": "Focus - String Version",
       "url": "https://open.spotify.com/track/2eJU8M6w3hvFk7FDERASGv"
@@ -4292,6 +4292,24 @@
       "duration_ms": 133408,
       "name": "GOD DON'T LIE",
       "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
+    },
+    {
+      "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
     },
     {
       "album": {
@@ -8903,6 +8921,24 @@
     },
     {
       "album": {
+        "name": "The Lion",
+        "url": "https://open.spotify.com/album/4DoERFot0mneUyrLYl5OQf"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Needs Reminding",
+      "url": "https://open.spotify.com/track/2uVs6YttPRfHiESD3sDBlz"
+    },
+    {
+      "album": {
         "name": "Never Abandoned You (Acoustic)",
         "url": "https://open.spotify.com/album/11THsrkGDPzKiFwEpJ7iiZ"
       },
@@ -10465,6 +10501,24 @@
     },
     {
       "album": {
+        "name": "DAY",
+        "url": "https://open.spotify.com/album/3b9ImDd2bG8YDyERA57PXf"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0VgkDPY3jHMxr3Q4kVYjfU"
+    },
+    {
+      "album": {
         "name": "Remember This",
         "url": "https://open.spotify.com/album/0JhbHC4SI9YSrpecbTYndw"
       },
@@ -11620,6 +11674,28 @@
       "duration_ms": 250263,
       "name": "Song Of Victory",
       "url": "https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ"
+      },
+      "artists": [
+        {
+          "name": "DAWN PATROL",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169167,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2plxZbunq262aPivPjURsw"
     },
     {
       "album": {

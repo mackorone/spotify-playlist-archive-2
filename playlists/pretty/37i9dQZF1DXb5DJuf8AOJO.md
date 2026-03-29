@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him this Lenten Season
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,190 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,193 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 29 | [Pananagutan](https://open.spotify.com/track/2bY6cvgQhc73dpj2Mqnd2g) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Mga Awitin sa Misang Pilipino](https://open.spotify.com/album/5TtD1LmON4OYV9OKhmlYuw) | 2:24 |
 | 30 | [Kordero Ng Diyos](https://open.spotify.com/track/5DGP9hTLk9uMjonwe30594) | [RB Hizon SJ](https://open.spotify.com/artist/7iXmJJfhNwU1QPv7y4sSx0), [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2) | [The Best of Himig Heswita](https://open.spotify.com/album/4GWdOVJz8t8QsXNqGDY2uj) | 2:08 |
 
-Snapshot ID: `AAAAABJQEjww+3L0ONZmphfoLSngamKo`
+Snapshot ID: `AAAAAAHT7si5PTfJTzbb9uRIqqydwPRQ`

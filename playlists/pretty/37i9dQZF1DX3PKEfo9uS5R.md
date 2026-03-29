@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,272 likes - 150 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,322 likes - 150 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 149 | [Nothing Something](https://open.spotify.com/track/72x7XbgBL8gUcUeSvgIVUg) | [Midnight Side Eye](https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3) | [Nothing Something](https://open.spotify.com/album/0wyX0w697B275hc9GhjmOD) | 2:13 |
 | 150 | [In The Valley](https://open.spotify.com/track/7GIxUTAb606x29LfoWWAjz) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [In The Valley](https://open.spotify.com/album/2ux6fhCk1aJiyV9iJGa080) | 2:56 |
 
-Snapshot ID: `AAAAAGGRwqsnrEHzzJtW+PT/r8v/MXuJ`
+Snapshot ID: `AAAAANITpPlLW60kx3p1NRaH2MrLNgUT`

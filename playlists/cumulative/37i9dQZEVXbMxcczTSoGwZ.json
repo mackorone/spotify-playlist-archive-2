@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 186017,
       "name": "Aitous ei oo myynniss\u00e4",
       "url": "https://open.spotify.com/track/7aunzDlJop67v4YAYRWxbr"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 175970,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
@@ -5498,7 +5498,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -8048,7 +8048,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 115834,
       "name": "DD",
       "url": "https://open.spotify.com/track/395VR5pcjvUJ1bIwQzVtI7"
@@ -9288,7 +9288,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -15591,6 +15591,24 @@
     },
     {
       "album": {
+        "name": "Hei Supermario/Huudan taas",
+        "url": "https://open.spotify.com/album/4ps7AmlwOCpvYL6Mi9jVSl"
+      },
+      "artists": [
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Hei Supermario",
+      "url": "https://open.spotify.com/track/7mibsbnXQyI4HuWEBYXuqB"
+    },
+    {
+      "album": {
         "name": "Hei \u00e4ij\u00e4",
         "url": "https://open.spotify.com/album/4xhelDpR5zhABaXZVNWXfg"
       },
@@ -18488,7 +18506,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/0MAn9fS281plpvCfbr9QNk"
@@ -18902,7 +18920,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 200666,
       "name": "Ikuisesti",
       "url": "https://open.spotify.com/track/0ZDSLXj5SAezpXLd8UZLR7"
@@ -20450,6 +20468,24 @@
       "duration_ms": 185786,
       "name": "Jos menet pois (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/7hM1klNeJ3qz68lpWLw2vz"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161714,
+      "name": "Jos mua ei olis ollenkaan",
+      "url": "https://open.spotify.com/track/2NkbxY0JoAVpbhuysBfGFl"
     },
     {
       "album": {
@@ -22157,6 +22193,50 @@
     },
     {
       "album": {
+        "name": "Kaikki tahtoo taivaaseen",
+        "url": "https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154247,
+      "name": "Kaikki tahtoo taivaaseen",
+      "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
+    },
+    {
+      "album": {
+        "name": "Kaikki viel edess\u00e4",
+        "url": "https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184377,
+      "name": "Kaikki viel edess\u00e4",
+      "url": "https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j"
+    },
+    {
+      "album": {
         "name": "Asioilla on tapana j\u00e4rjesty\u00e4",
         "url": "https://open.spotify.com/album/1WjBoh9FLz6D98P2YYyVGG"
       },
@@ -22986,6 +23066,24 @@
       "duration_ms": 165085,
       "name": "Kauniita lupauksii",
       "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143688,
+      "name": "Kaunis ajatus",
+      "url": "https://open.spotify.com/track/4dfBOWuvnUfQlV8riTaemc"
     },
     {
       "album": {
@@ -25751,6 +25849,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/7HUdXQkNCT1VU6f89qaMrx"
+    },
+    {
+      "album": {
         "name": "LIMBO",
         "url": "https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ"
       },
@@ -28193,6 +28309,24 @@
     },
     {
       "album": {
+        "name": "Limee ja suolaa",
+        "url": "https://open.spotify.com/album/3Pl188gepWX1HVKonTwAUl"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193947,
+      "name": "Limee ja suolaa",
+      "url": "https://open.spotify.com/track/7Lg9ofCGw4UUYXPKyTpzRp"
+    },
+    {
+      "album": {
         "name": "Lippu salkoon",
         "url": "https://open.spotify.com/album/72obAbLYpMG01RakESQhYi"
       },
@@ -28908,7 +29042,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 166026,
       "name": "Lululai",
       "url": "https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1"
@@ -29180,7 +29314,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -34680,7 +34814,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 160714,
       "name": "Mun vuoro luovuttaa",
       "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
@@ -34948,7 +35082,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 177804,
       "name": "Mutta mill\u00e4 hinnalla",
       "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
@@ -35997,6 +36131,28 @@
     },
     {
       "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159535,
+      "name": "Naura nyt, itke my\u00f6hemmin (feat. Ares)",
+      "url": "https://open.spotify.com/track/2sTgesWB2lqfEE030pAKiJ"
+    },
+    {
+      "album": {
         "name": "Nautin el\u00e4m\u00e4st\u00e4",
         "url": "https://open.spotify.com/album/4jJKWaX4BFRRqT1AMftFVw"
       },
@@ -36690,6 +36846,24 @@
       "duration_ms": 175896,
       "name": "No Rules!",
       "url": "https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq"
+    },
+    {
+      "album": {
+        "name": "No. 1 Fani",
+        "url": "https://open.spotify.com/album/4GF6JioXBG870YaDW5rXjn"
+      },
+      "artists": [
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "No. 1 Fani",
+      "url": "https://open.spotify.com/track/0mJA8xolE0lLnB7JjxMvug"
     },
     {
       "album": {
@@ -38918,7 +39092,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 155704,
       "name": "Oulu",
       "url": "https://open.spotify.com/track/4QP0XyroDByj7SAVIb4tHy"
@@ -40699,6 +40873,24 @@
     },
     {
       "album": {
+        "name": "Perhonen",
+        "url": "https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218965,
+      "name": "Perhonen",
+      "url": "https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz"
+    },
+    {
+      "album": {
         "name": "H\u00f6yheni\u00e4 ja saaria",
         "url": "https://open.spotify.com/album/1uZ1gPFFuroiiFWp2K4htG"
       },
@@ -41677,6 +41869,24 @@
     },
     {
       "album": {
+        "name": "Poitsu",
+        "url": "https://open.spotify.com/album/63mnly1kjGNJyXMb2fp7hV"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Poitsu",
+      "url": "https://open.spotify.com/track/5W14lDIUvUFfHtuC2JabRu"
+    },
+    {
+      "album": {
         "name": "Mun tapa pelata",
         "url": "https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK"
       },
@@ -42198,6 +42408,46 @@
       "duration_ms": 174800,
       "name": "Punasel",
       "url": "https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178804,
+      "name": "Puoliks min\u00e4",
+      "url": "https://open.spotify.com/track/31hycOlVI8KbOM7mIPWC0M"
+    },
+    {
+      "album": {
+        "name": "Tulihevonen",
+        "url": "https://open.spotify.com/album/0KjxJ16ydhZ9gFl1umT1QE"
+      },
+      "artists": [
+        {
+          "name": "Juha Tapio",
+          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
+        },
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "Puoliksi sun (feat. VIIVI)",
+      "url": "https://open.spotify.com/track/7MjsUe5VJfa42zqEZ0DE3J"
     },
     {
       "album": {
@@ -44207,6 +44457,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169647,
+      "name": "Rikon kaikki mihin kosken",
+      "url": "https://open.spotify.com/track/01cn1Zys6ZNkl9gFhIlF3j"
+    },
+    {
+      "album": {
         "name": "DMNS & MOSQUITOES",
         "url": "https://open.spotify.com/album/2UQhyW3mdQfZTcBjrfFQCj"
       },
@@ -45088,6 +45356,24 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194335,
+      "name": "Sade osuu ikkunaan",
+      "url": "https://open.spotify.com/track/5jwaBW8cH6mk2XfoeiDcqU"
     },
     {
       "album": {
@@ -46062,7 +46348,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 170343,
       "name": "Se ei mennyt niin",
       "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
@@ -46084,6 +46370,28 @@
       "duration_ms": 152967,
       "name": "Se kes\u00e4",
       "url": "https://open.spotify.com/track/3tRSvQB3E7sxHIgJBcUqIm"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179331,
+      "name": "Se mit\u00e4 ei ollut koskaan (feat. pehmoaino)",
+      "url": "https://open.spotify.com/track/3WgijA0QBwSSe2HcUgdPlx"
     },
     {
       "album": {
@@ -50184,7 +50492,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -51578,7 +51886,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 169500,
       "name": "Takatukka",
       "url": "https://open.spotify.com/track/4ZC9E410eX5fMNWI5ITnHd"
@@ -51850,6 +52158,28 @@
       "duration_ms": 153602,
       "name": "Tarpeeks",
       "url": "https://open.spotify.com/track/4BHj4RBkypgrAcRWTfOQCu"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158829,
+      "name": "Tarviin jonkun joka tarvii mua (feat. louna0nline)",
+      "url": "https://open.spotify.com/track/6llAbvwBRx1VHLAdMvPyvp"
     },
     {
       "album": {
@@ -53040,6 +53370,24 @@
       "duration_ms": 214787,
       "name": "Tikapuut (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/661bSX8tJ948FzRRUTGZQD"
+    },
+    {
+      "album": {
+        "name": "Tilaisuus teki varkaan",
+        "url": "https://open.spotify.com/album/2hl0rmxAKNhcBSruMnLBpN"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219169,
+      "name": "Tilaisuus teki varkaan",
+      "url": "https://open.spotify.com/track/6Sa7iRnnkQEXkRsh2e5MfO"
     },
     {
       "album": {
@@ -55867,6 +56215,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160387,
+      "name": "T\u00e4\u00e4 tarina ei kertonu meist\u00e4",
+      "url": "https://open.spotify.com/track/41NnA94Z0Jf2Ipy3e9GZwM"
+    },
+    {
+      "album": {
         "name": "T\u00e4\u00e4 tunne",
         "url": "https://open.spotify.com/album/3nAhQyPcUPixMmaubT3Ecq"
       },
@@ -58270,7 +58636,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 168498,
       "name": "Vihaa mua",
       "url": "https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv"
@@ -58354,7 +58720,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 196250,
       "name": "Vihdoinkin T\u00e4\u00e4ll\u00e4",
       "url": "https://open.spotify.com/track/1jFVfybnaJfWzsOLMO8cIq"
@@ -59134,7 +59500,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 240280,
       "name": "Voiko enkelitkin eksy\u00e4",
       "url": "https://open.spotify.com/track/6autRemLR1u9uO5qGa8edx"
@@ -61896,7 +62262,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 164285,
       "name": "\u00c4iti Teresa (feat. Bizi)",
       "url": "https://open.spotify.com/track/5uRLHI5PO8ou0f7cvfH7Y6"

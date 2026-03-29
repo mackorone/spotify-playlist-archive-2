@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > No viene CR7 pero si muchas rolitas hasta más top que el Bicho\. Maria Daniela y Su Sonido Lasser y Denisse Guerrero en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,351 likes - 72 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,849 likes - 72 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

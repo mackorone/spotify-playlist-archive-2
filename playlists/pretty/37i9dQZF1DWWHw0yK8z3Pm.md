@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Whitehorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,863 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,864 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Goldie Montana](https://open.spotify.com/track/5vKml30abCjY2IAlborIm2) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Montana](https://open.spotify.com/album/1yU6oeWp9QFRGZO4hwRQYk) | 4:05 |
 | 100 | [Hell of a Daydream](https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc) | [Richard Inman](https://open.spotify.com/artist/0eha96FtThymbm5svvfopg) | [Hell of a Daydream](https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV) | 3:18 |
 
-Snapshot ID: `AAAAAAkVTTtONNNXDitr4trGhyiNydGJ`
+Snapshot ID: `AAAAAJF0x9PDB/uTGhczyp8DRa/YsD67`

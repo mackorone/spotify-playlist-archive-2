@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Anna Ullrich
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,200 likes - 81 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,271 likes - 81 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

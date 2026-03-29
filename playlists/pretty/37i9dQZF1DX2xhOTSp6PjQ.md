@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Lihle Xhakaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,503 likes - 98 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,651 likes - 98 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 68 | [Mubi kamnandi](https://open.spotify.com/track/4GuiGH1qje9eYA4trD0hti) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Amakhothangqoko](https://open.spotify.com/album/3US0Yz8A4um5LpqDKZLooj) | 4:55 |
 | 69 | [Wawungekho](https://open.spotify.com/track/1QSPqvHIeDBNGKfrIpCeKt) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q), [Inkos' Yamagcokama](https://open.spotify.com/artist/426EsL2s4GgDdGIeuVnzM6), [Somcimbi](https://open.spotify.com/artist/6TyGHN4KowIxUILULvXXi3) | [Wawungekho EP](https://open.spotify.com/album/0Zjplas4HjDHnrkCrvuHDe) | 4:57 |
 | 70 | [Ijuba](https://open.spotify.com/track/5jsO87ShnH2lEXhIfjMAUj) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ijuba](https://open.spotify.com/album/0vfOenK6KA9EexqpixRjMF) | 5:12 |
-| 71 | [Umjolo Lowo](https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Umjolo Lowo](https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB) | 4:04 |
+| 71 | [Umjolo Lowo](https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi) | [Umjolo Lowo](https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB) | 4:04 |
 | 72 | [NGIJOLA NEBHINCA](https://open.spotify.com/track/5jPckUbvd78IYYd1bEJSwJ) | [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM), [MAFIKIZOLO](https://open.spotify.com/artist/4CGkafZ4aKS4BusYAgwS6q) | [NGIJOLA NEBHINCA](https://open.spotify.com/album/4MhctQYDrwFPnsv8Kg0P7k) | 4:28 |
 | 73 | [uHerodi](https://open.spotify.com/track/2OaiWMFJMnUSFLpdsYWgup) | [Madlala](https://open.spotify.com/artist/0e7YfyK9v0fTHo43iJV8Oj) | [Sizohlabelela](https://open.spotify.com/album/2X6RQrGxetaRNPOdx1TgGo) | 3:54 |
 | 74 | [SONGENA NGODLAME](https://open.spotify.com/track/15Bz72dEexfEuWTF5sZJjv) | [Isitha sama ex](https://open.spotify.com/artist/2GOfe0DJ3DguIIisSvb7R0) | [SONGENA NGODLAME](https://open.spotify.com/album/7muraJoOyMyTgv3xHGQ4dx) | 4:24 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 90 | [Dali Ungavumi](https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/2JKuODJH36pqK6s3gLcnVe) | [Dali Ungavumi](https://open.spotify.com/album/4TMSarXXnwy2RN5qD6tsKd) | 5:43 |
 | 91 | [Emendweni \(Official Audio\)](https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:54 |
 | 92 | [Healing](https://open.spotify.com/track/7Ejxa1MQT8DlsdQSoxP7Wq) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 3:49 |
-| 93 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 |
+| 93 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 |
 | 94 | [Bafuna Sihlukane](https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [S'qhuba Izinkomo](https://open.spotify.com/album/3ivjLXlzcdqXFspHzhyCm2) | 4:26 |
 | 95 | [Kawungondli](https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH) | [Ithwasa Lekhansela](https://open.spotify.com/artist/6NBgad7h0rc4Q75Ek8nt89), [Indoni](https://open.spotify.com/artist/4WQsq6xk7Wu2WqM7aqpdTI) | [Zehla](https://open.spotify.com/album/05jPZZIhjOGQOJduelCSPV) | 4:30 |
 | 96 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 |

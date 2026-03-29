@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380624,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
+    },
+    {
+      "album": {
         "name": "Late in life",
         "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 424000,
       "name": "halfway",
       "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 420979,
       "name": "Hamon",
       "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"

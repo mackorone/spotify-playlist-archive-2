@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Burning Hell",
+        "url": "https://open.spotify.com/album/5SuTrgKemwnr0culrcxuCS"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286365,
+      "name": "Burning Hell",
+      "url": "https://open.spotify.com/track/0a9kz1MrbUGQlz8MqE9WTr"
+    },
+    {
+      "album": {
         "name": "Guardians of the Phallicy",
         "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
       },
@@ -582,6 +600,24 @@
       "duration_ms": 265500,
       "name": "Chaos Brigade",
       "url": "https://open.spotify.com/track/1j2nbyRDm8jQInkIIVFfb2"
+    },
+    {
+      "album": {
+        "name": "Cherry Vice",
+        "url": "https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Daffodils",
+          "url": "https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258948,
+      "name": "Cherry Vice",
+      "url": "https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a"
     },
     {
       "album": {

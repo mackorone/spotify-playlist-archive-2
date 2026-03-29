@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Francamente in cover + tutto il meglio delle novità indie 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,617 likes - 108 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,621 likes - 108 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sirene sulla Luna](https://open.spotify.com/track/1b6a73kDPEKLZxw5YfMerN) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Sirene sulla Luna](https://open.spotify.com/album/6Z9H1XZzTIq9HPFVBo6rBV) | 3:03 |
-| 2 | [Burrasca](https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Burrasca](https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4) | 2:42 |
+| 2 | [Burrasca](https://open.spotify.com/track/6ptRiEQ56A8bThjqMmOcGz) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Burrasca](https://open.spotify.com/album/55vAeUXEdkN93BdjlBJsr4) | 2:42 |
 | 3 | [Incanto](https://open.spotify.com/track/7dKFWuoIZBbkvmSpduW8qd) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Incanto](https://open.spotify.com/album/6HJ9P7FB73UYG9UxwVEWXl) | 3:38 |
 | 4 | [Limbo](https://open.spotify.com/track/20p0SmBBE4NrXLhfrj9TkU) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Mangiami pure](https://open.spotify.com/album/5ZOaNaQEE4vNuWTcbyT1Cr) | 3:01 |
 | 5 | [\(siamo tutti\) animali notturni](https://open.spotify.com/track/4rXfzp0P7yZCH3JEz2eXzy) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5), [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [\(siamo tutti\) animali notturni](https://open.spotify.com/album/11ZU7S4OWEM1TsRrY7wjvY) | 3:07 |

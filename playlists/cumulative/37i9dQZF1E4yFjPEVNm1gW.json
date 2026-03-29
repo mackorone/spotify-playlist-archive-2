@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 133382,
       "name": "Gotta Do That",
       "url": "https://open.spotify.com/track/3RYRb0Ci3NGg8l3UaqyF0b"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 150928,
       "name": "Live Ya Life!",
       "url": "https://open.spotify.com/track/01jaNqZRf5rBKPF5CfKQVV"
@@ -1822,6 +1822,28 @@
       "duration_ms": 156727,
       "name": "Matte Black",
       "url": "https://open.spotify.com/track/4OwEcqvSCRtqR3Hjm51DfP"
+    },
+    {
+      "album": {
+        "name": "1, 2, 3, X!",
+        "url": "https://open.spotify.com/album/2qxBwpY8my1hy1wO1k3ZuO"
+      },
+      "artists": [
+        {
+          "name": "dopemine!",
+          "url": "https://open.spotify.com/artist/7uFWa3pAlFXOfe7IKzfjZL"
+        },
+        {
+          "name": "$olotique Beats",
+          "url": "https://open.spotify.com/artist/3S59TiTkWQCqQIUEsEnfly"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374164,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/15Ktbhx210kAe5yZjzR6Ch"
     },
     {
       "album": {
@@ -2306,7 +2328,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2350,7 +2372,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 122618,
       "name": "Pause",
       "url": "https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq"

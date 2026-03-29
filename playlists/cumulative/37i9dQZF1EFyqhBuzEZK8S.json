@@ -4512,10 +4512,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 211933,
       "name": "One Foot",
       "url": "https://open.spotify.com/track/1SGLgGAv1W2CRF9sovnJXu"
+    },
+    {
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/7c6TRb4cvgHWVhTJDfRqth"
     },
     {
       "album": {
@@ -4574,6 +4592,24 @@
     {
       "album": {
         "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "date_added": "2026-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261426,
+      "name": "Out on the Town - Bonus Track",
+      "url": "https://open.spotify.com/track/23wTcSwRHu8E513oeri4xK"
+    },
+    {
+      "album": {
+        "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
       "artists": [
@@ -4584,7 +4620,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 261426,
       "name": "Out on the Town - Bonus Track",
       "url": "https://open.spotify.com/track/4NfK33ReDnc5qJluvErGnF"

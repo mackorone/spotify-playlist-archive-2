@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 125 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 85 | [I'm Good](https://open.spotify.com/track/6Cyky0ziRozMxICkpI7Y8Y) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 3:22 |
 | 86 | [If I Had](https://open.spotify.com/track/3cZAvJaJ87a4xYl6gZ9FYG) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [FO&O](https://open.spotify.com/album/5WB9VHvp4ttDEv9V5KS6Jg) | 2:43 |
 | 87 | [My Girl](https://open.spotify.com/track/3CZtwixJvnRkfgNOxaF3Dn) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:27 |
-| 88 | [Losing a Friend](https://open.spotify.com/track/5WuqhfcJD6iu9xyxo2SiKu) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:14 |
-| 89 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 |
+| 88 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 |
+| 89 | [Losing a Friend](https://open.spotify.com/track/5WuqhfcJD6iu9xyxo2SiKu) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:14 |
 | 90 | [I Go Ego](https://open.spotify.com/track/6AVaVofzVcFIIhh31M54NL) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 3:29 |
 | 91 | [Naked](https://open.spotify.com/track/692zUiY0W2zLVW4uOxZ32h) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Naked](https://open.spotify.com/album/2NBe0dHXbrQptDoD1xkck8) | 2:52 |
 | 92 | [Scripted Reality](https://open.spotify.com/track/2Wj5DMYpzDL525k0N9w7lm) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Scripted Reality](https://open.spotify.com/album/1jgsTuiJqAp38ymZpzcmRn) | 2:54 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 105 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 106 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcNSFgAAAADhEOFG1yuKmZYKBsZ8Ht+J`
+Snapshot ID: `AcNXwAAAAAAYAoACEuH+0PXnAV6qYWRc`

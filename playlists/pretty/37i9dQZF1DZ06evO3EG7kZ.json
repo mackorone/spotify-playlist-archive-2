@@ -1,18 +1,18 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51176,
+  "num_followers": 51193,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acR3AAAAAAAgmtiglEcgZPRkHjF+0avb",
+  "snapshot_id": "acXIgAAAAADuiMJH4mGUX0kfaRgzyK2D",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Sleepytime",
-        "url": "https://open.spotify.com/album/594hazIUZ5Y3um2QVc6GJu"
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
       },
       "artists": [
         {
@@ -24,25 +24,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 301805,
-      "name": "Sleepytime",
-      "url": "https://open.spotify.com/track/7MyLpkB4QVgIw4mBL0WurR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 132906,
-      "name": "Bluey Theme Tune (Instrument Parade)",
-      "url": "https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7"
+      "duration_ms": 129029,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 118893,
       "name": "Dance Mode",
       "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 132906,
+      "name": "Bluey Theme Tune (Instrument Parade)",
+      "url": "https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7"
     },
     {
       "added_at": null,
@@ -107,30 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
-        }
-      ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Mode!",
         "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
       },
@@ -155,6 +131,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
+        }
+      ],
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
+        "name": "Sleepytime",
+        "url": "https://open.spotify.com/album/594hazIUZ5Y3um2QVc6GJu"
       },
       "artists": [
         {
@@ -188,9 +188,25 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 64311,
-      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
+      "duration_ms": 301805,
+      "name": "Sleepytime",
+      "url": "https://open.spotify.com/track/7MyLpkB4QVgIw4mBL0WurR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Mode!",
+        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 246939,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/5M80oeQX9BRz2tryvy5S9r"
     },
     {
       "added_at": null,
@@ -215,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Mode!",
-        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 246939,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/5M80oeQX9BRz2tryvy5S9r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -251,36 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verandah Santa",
-        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Emma Dean",
-          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
-        },
-        {
-          "name": "Joseph Twist",
-          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
-        }
-      ],
-      "duration_ms": 109145,
-      "name": "Verandah Santa",
-      "url": "https://open.spotify.com/track/07XZT6TrQTwt3QqY1wD8nh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
       },
       "artists": [
         {
@@ -292,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 64311,
+      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
     },
     {
       "added_at": null,
@@ -327,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -347,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rug Island (Full Version)",
-        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
       },
       "artists": [
         {
@@ -358,11 +350,35 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Emma Dean",
+          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
+        },
+        {
+          "name": "Joseph Twist",
+          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
         }
       ],
-      "duration_ms": 244476,
-      "name": "Rug Island - Full Version",
-      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
+      "duration_ms": 109145,
+      "name": "Verandah Santa",
+      "url": "https://open.spotify.com/track/07XZT6TrQTwt3QqY1wD8nh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Mode!",
+        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 65038,
+      "name": "It Was Yesterday",
+      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Mode!",
-        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 65038,
-      "name": "It Was Yesterday",
-      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -423,24 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onesies",
-        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Onesies",
-      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+        "name": "Rug Island (Full Version)",
+        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 244476,
+      "name": "Rug Island - Full Version",
+      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
     },
     {
       "added_at": null,
@@ -483,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 202098,
+      "name": "Wagon Ride",
+      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -499,6 +503,22 @@
       "duration_ms": 193938,
       "name": "Bin Night",
       "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onesies",
+        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Onesies",
+      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
     },
     {
       "added_at": null,

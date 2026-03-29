@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 133622,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/0TpWtQlUdr9biLLEZjdIxQ"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 231480,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/6ncAHtk4M9RkhwI8ytXBb7"
@@ -594,6 +594,28 @@
       "duration_ms": 267133,
       "name": "D\u00edas Mejores",
       "url": "https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq"
+    },
+    {
+      "album": {
+        "name": "Eco de un Enamorado",
+        "url": "https://open.spotify.com/album/7EPYU4EbsHRMnbLwSkvDRO"
+      },
+      "artists": [
+        {
+          "name": "revoestereo",
+          "url": "https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J"
+        },
+        {
+          "name": "Manolo Ramos",
+          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207691,
+      "name": "Eco de un Enamorado",
+      "url": "https://open.spotify.com/track/6QViuAa24J3TrWuv3RGmUm"
     },
     {
       "album": {
@@ -1174,7 +1196,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 275513,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/2OUxFYzVubPW1uzBqcAQ4j"
@@ -1322,6 +1344,28 @@
       "duration_ms": 228110,
       "name": "Mi Fortuna",
       "url": "https://open.spotify.com/track/39JsvoZcpWvQHYlh12rn6l"
+    },
+    {
+      "album": {
+        "name": "Mi Mirada Puesta en Ti",
+        "url": "https://open.spotify.com/album/5rBMnQBX6Krk7RvFeRO7Gc"
+      },
+      "artists": [
+        {
+          "name": "Fos Rock",
+          "url": "https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK"
+        },
+        {
+          "name": "Jan Earle",
+          "url": "https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151124,
+      "name": "Mi Mirada Puesta en Ti",
+      "url": "https://open.spotify.com/track/1DbbtSXVtQ10yZ9i0yvRRq"
     },
     {
       "album": {
@@ -2288,6 +2332,24 @@
       "duration_ms": 225542,
       "name": "Vamos a Cantar",
       "url": "https://open.spotify.com/track/2Br9dGiApsxGbh6B1OGJA8"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo (Versi\u00f3n en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/1BAk3O366o0NHw8bsXVJGo"
+      },
+      "artists": [
+        {
+          "name": "Coqu\u00ed",
+          "url": "https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Ven Conmigo (Versi\u00f3n en Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/7781m5m2vQgXtBBm3C5YfX"
     },
     {
       "album": {

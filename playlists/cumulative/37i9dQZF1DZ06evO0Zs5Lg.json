@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Jewelry Duty (with T-Pain)",
+        "url": "https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187129,
+      "name": "Jewelry Duty (with T-Pain)",
+      "url": "https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8"
+    },
+    {
+      "album": {
         "name": "Horse",
         "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
@@ -786,7 +808,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-29",
       "duration_ms": 232483,
       "name": "Penny Nickel Dime",
       "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"

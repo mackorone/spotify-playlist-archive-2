@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,680,585 likes - 200 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,680,589 likes - 200 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 199 | [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 |
 | 200 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 |
 
-Snapshot ID: `AAAAAKJAbSh8Q8IRD2Mfk1sZSqAPlVgR`
+Snapshot ID: `AAAAAJmJmRpCVIk6nSrd2XBehh3PW65l`
