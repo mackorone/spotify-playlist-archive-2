@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 225689,
+  "num_followers": 225745,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAAAsVlAGj6twwpKxwqa580n1",
+  "snapshot_id": "accaAAAAAACrFkcYWKgkyiqQENMx3X1o",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Wish (Live from The O2 Arena)",
-        "url": "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 227351,
-      "name": "Death Wish - Live from The O2 Arena",
-      "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
+      "duration_ms": 269280,
+      "name": "Gave You I Gave You I",
+      "url": "https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Death Wish (Live from The O2 Arena)",
+        "url": "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 269280,
-      "name": "Gave You I Gave You I",
-      "url": "https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt"
+      "duration_ms": 227351,
+      "name": "Death Wish - Live from The O2 Arena",
+      "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
     },
     {
       "added_at": null,

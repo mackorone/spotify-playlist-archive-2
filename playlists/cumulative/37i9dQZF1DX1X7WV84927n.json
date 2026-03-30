@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 209426,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/7HFSVYp0PEsDpTkwoG7eZe"
@@ -6901,6 +6901,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/10fSnvxVFAJCm0DejVqnPc"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216685,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/7dLAJQG3gkQxN08ReKQlch"
+    },
+    {
+      "album": {
         "name": "D\u00e9sol\u00e9 (feat. JJ Wilde)",
         "url": "https://open.spotify.com/album/7rc8TzbmpfblcaKQ3M4hh4"
       },
@@ -8104,6 +8122,24 @@
       "duration_ms": 197400,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB"
+    },
+    {
+      "album": {
+        "name": "FAST LANE",
+        "url": "https://open.spotify.com/album/6h8SeMYQ0jjE9wmEsZrkbn"
+      },
+      "artists": [
+        {
+          "name": "SCATTERBRAIN",
+          "url": "https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213136,
+      "name": "FAST LANE",
+      "url": "https://open.spotify.com/track/3pYUTM7wzT7Z5GQAfPGWtl"
     },
     {
       "album": {
@@ -23744,7 +23780,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 200439,
       "name": "The Decay",
       "url": "https://open.spotify.com/track/5BWSFDSypkeifVQE16p3p1"

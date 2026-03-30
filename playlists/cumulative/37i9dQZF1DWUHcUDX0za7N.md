@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: 6uff
 
-728 songs - 1 day 10 hr 17 min
+729 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [No Wam](https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [No Wam](https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE) | 3:03 | 2023-10-13 | 2024-05-17 |
 | [No Wam](https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [No Wam](https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR) | 2:29 | 2026-03-13 |  |
 | [Nobody](https://open.spotify.com/track/3FM1mMiAxyK5cAw1molDtw) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Codename, Vol\. 1](https://open.spotify.com/album/5xwIkodIxjHymcGMLQDhrI) | 4:34 | 2022-10-14 | 2022-10-29 |
-| [NOBODY](https://open.spotify.com/track/7zez4kQXEoH831LiVNEAPc) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [NOBODY](https://open.spotify.com/album/1n9oLXOtGnDdTjwne0LLh2) | 2:26 | 2026-03-06 |  |
+| [NOBODY](https://open.spotify.com/track/7zez4kQXEoH831LiVNEAPc) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [NOBODY](https://open.spotify.com/album/1n9oLXOtGnDdTjwne0LLh2) | 2:26 | 2026-03-06 | 2026-03-30 |
 | [Normal Day](https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [N6](https://open.spotify.com/artist/7FFQabcYovGITece3mUXZM), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Normal Day](https://open.spotify.com/album/1dlQtLIYsBaeHGi0djemHE) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 | 2025-10-24 | 2025-12-15 |
 | [NOSTALGIA](https://open.spotify.com/track/7aIYf40dMcEKIz4cDMJ1io) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [SPORT](https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm) | 2:05 | 2023-11-13 | 2024-01-12 |
@@ -625,6 +625,7 @@
 | [STAND ATTENTION](https://open.spotify.com/track/5oJXi8943xjgqoYUtdhiPS) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 3:06 | 2023-07-13 | 2023-07-19 |
 | [Sticks & Stones](https://open.spotify.com/track/1fLBuA2iyrsFbZ78b7dCMT) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Sticks & Stones](https://open.spotify.com/album/60v0m0FzuoBlbFwd9WkknL) | 3:30 | 2026-03-27 |  |
 | [Still Up](https://open.spotify.com/track/72FcNQ4PJNAWEaNS2lgpty) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 2:56 | 2022-10-14 | 2022-10-29 |
+| [Stormy](https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Stormy](https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB) | 2:30 | 2026-03-27 |  |
 | [Streets](https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Happens After](https://open.spotify.com/album/374kRLUEswPACwvirpCPG1) | 2:30 | 2024-10-18 | 2024-10-26 |
 | [Streibullet](https://open.spotify.com/track/4QJ2bx23jxkSNdIkM4fVuL) | [Rumerh](https://open.spotify.com/artist/6TAlQevovkVIIyokVsINju) | [Streibullet](https://open.spotify.com/album/3MI0GG0vBBwo6nu6zwh8yB) | 2:55 | 2025-11-14 | 2025-11-28 |
 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 | 2022-10-28 | 2023-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Elori Saxl. The essential tracks, all in one playlist.",
-  "num_followers": 12,
+  "num_followers": 13,
   "original_name": "This Is Elori Saxl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADgOxo5S2xXM2ZrznUX+Q9N",
+  "snapshot_id": "accaAAAAAACeBMqaEFDP9TMA3csZLGJF",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 246853,
-      "name": "A Thousand Steps",
-      "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
+      "duration_ms": 216373,
+      "name": "Seeing Is Forgetting",
+      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 378000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv"
+      "duration_ms": 246853,
+      "name": "A Thousand Steps",
+      "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Seeing Is Forgetting",
-      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
+      "duration_ms": 378000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv"
     },
     {
       "added_at": null,

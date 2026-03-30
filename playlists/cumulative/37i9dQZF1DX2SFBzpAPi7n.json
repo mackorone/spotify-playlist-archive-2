@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "a plumber",
+        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209774,
+      "name": "a plumber",
+      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u"
       },
@@ -5024,7 +5042,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
@@ -6350,6 +6368,24 @@
       "duration_ms": 219760,
       "name": "Goddess of Despair",
       "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+    },
+    {
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC"
+      },
+      "artists": [
+        {
+          "name": "Far East Asian Tigers",
+          "url": "https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254750,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2"
     },
     {
       "album": {
@@ -9336,7 +9372,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 267618,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3HQ8YFDPf8H8hy6j762naI"
@@ -19102,7 +19138,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
@@ -19834,6 +19870,24 @@
       "duration_ms": 197493,
       "name": "Wind Blows",
       "url": "https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc"
+    },
+    {
+      "album": {
+        "name": "Where Is Here",
+        "url": "https://open.spotify.com/album/5pNjRCmjOS5aTm4QJcC0Lq"
+      },
+      "artists": [
+        {
+          "name": "BOOHWAL",
+          "url": "https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216743,
+      "name": "Wind in the Sails",
+      "url": "https://open.spotify.com/track/2tuSmGcfM9LM6AhrQUVlL3"
     },
     {
       "album": {

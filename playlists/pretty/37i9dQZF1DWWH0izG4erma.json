@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 656762,
+  "num_followers": 656861,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -195,8 +195,8 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Next to You",
-        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 241668,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -399,8 +399,8 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+      "duration_ms": 241668,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 236823,
-      "name": "Met the Devil in Oklahoma",
-      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 236823,
+      "name": "Met the Devil in Oklahoma",
+      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -951,22 +951,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Living Proof (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 218986,
-      "name": "Living Proof (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -987,6 +983,26 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
+        "name": "Living Proof (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 218986,
+      "name": "Living Proof (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
         "name": "If I Know You",
         "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 163637,
       "name": "Midnight Dancer",
       "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "I Met This Girl",
-        "url": "https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz"
-      },
-      "artists": [
-        {
-          "name": "Logan Michael",
-          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "I Met This Girl",
-      "url": "https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Alexis Texas",
-        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
+        "name": "I Met This Girl",
+        "url": "https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz"
       },
       "artists": [
         {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
         }
       ],
-      "duration_ms": 164441,
-      "name": "Alexis Texas",
-      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
+      "duration_ms": 199615,
+      "name": "I Met This Girl",
+      "url": "https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Blackout Betty",
-      "url": "https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "World On Fire",
         "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
@@ -1607,18 +1575,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+      "duration_ms": 241533,
+      "name": "Blackout Betty",
+      "url": "https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
         "name": "Dirt Road When I Die - EP",
         "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 174280,
       "name": "Dirt Road When I Die",
       "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Alexis Texas",
+        "url": "https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Alexis Texas",
+      "url": "https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Find You",
-        "url": "https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E"
-      },
-      "artists": [
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        },
-        {
-          "name": "Rory Rodriguez",
-          "url": "https://open.spotify.com/artist/2tb0p49ZszUQpEGQNTZuz0"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "INSIGNIFICANT OTHER",
         "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
       },
@@ -1703,6 +1683,22 @@
       "duration_ms": 207230,
       "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
       "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     }
   ],
   "unique_name": "Country Rocks",

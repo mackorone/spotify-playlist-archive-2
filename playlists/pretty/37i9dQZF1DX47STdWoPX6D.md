@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Dell Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,210 likes - 99 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,237 likes - 99 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 98 | [Million Dollar Deal](https://open.spotify.com/track/7MU7iEoP5b5auME8zq56vM) | [Tay Stunna](https://open.spotify.com/artist/61VjSNGhMpoJ8xsVZkXP4A), [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Million Dollar Deal](https://open.spotify.com/album/3ZgLX9G6hlLMaM4KojxA6g) | 2:19 |
 | 99 | [Crashout](https://open.spotify.com/track/4jzjJGa4Z54n6dxGFFnYF0) | [Cyfë II](https://open.spotify.com/artist/0g4dqela7F6gOIk4wEOgOv), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [Crashout](https://open.spotify.com/album/7zESVC21Q7XswCAAXfxI7R) | 2:33 |
 
-Snapshot ID: `AAAAAO50oJ98P4pzQ38TVH+zmePLJxtU`
+Snapshot ID: `AAAAAGnVbL6OFgra+KU6rH/CuF77mPzi`

@@ -75605,6 +75605,24 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/06YLM99aqGBnTeE1b4cmOH"
+      },
+      "artists": [
+        {
+          "name": "Darmain stiile",
+          "url": "https://open.spotify.com/artist/79mSOWZLtSEzvk1s5bP1pw"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2RfvahNZxizqVJ4XKG7e3Z"
+    },
+    {
+      "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3"
       },
@@ -98912,6 +98930,24 @@
       "duration_ms": 202236,
       "name": "too much",
       "url": "https://open.spotify.com/track/42kLJ2njWE483ncUp6oUzC"
+    },
+    {
+      "album": {
+        "name": "Too Much (Broken Souls)",
+        "url": "https://open.spotify.com/album/40GP1V56aDXiHKBC8kM5bR"
+      },
+      "artists": [
+        {
+          "name": "katarina",
+          "url": "https://open.spotify.com/artist/6QtLMXFogzOKn1KEii1VQp"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142312,
+      "name": "Too Much (Broken Souls)",
+      "url": "https://open.spotify.com/track/5zZXq91iziLyWT9cvigho6"
     },
     {
       "album": {

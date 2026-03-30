@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Arima Ederra
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,717 likes - 165 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,739 likes - 165 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

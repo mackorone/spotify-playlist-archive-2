@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284978,
+  "num_followers": 285002,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
-      },
-      "artists": [
-        {
-          "name": "Micah Wagner",
-          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Aerials",
         "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 228490,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
+      },
+      "artists": [
+        {
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All I Ever Need Is You",
-        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 210459,
-      "name": "All I Ever Need Is You",
-      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "All I Ever Need Is You",
+        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 210459,
+      "name": "All I Ever Need Is You",
+      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Black Muddy River",
-        "url": "https://open.spotify.com/album/60dyRHRGrAEPYlDE3WA7AO"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 300575,
-      "name": "Black Muddy River",
-      "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Black Muddy River",
+        "url": "https://open.spotify.com/album/60dyRHRGrAEPYlDE3WA7AO"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 300575,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The Set",
-        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 356484,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 295528,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The Set",
+        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 356484,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Verry Garcia",
-        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 302720,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The Very Best Yet (The Very Best Yet Version)",
         "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 218091,
       "name": "Can't Feel My Face - The Very Best Yet Version",
       "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Verry Garcia",
+        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "duration_ms": 302720,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 298250,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "All Will Be Well",
+      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All Will Be Well",
-        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "All Will Be Well",
-      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 223005,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1383,22 +1399,6 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Simply Bluegrass (Live / Vol. 1)",
         "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 190955,
       "name": "Drivin' Nails In My Coffin - Live",
       "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "We Just Disagree",
-        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
-      },
-      "artists": [
-        {
-          "name": "Volume Five",
-          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 185305,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "We Just Disagree",
+        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
+      },
+      "artists": [
+        {
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Jukebox",
-        "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
-      },
-      "artists": [
-        {
-          "name": "Matt Carson",
-          "url": "https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8"
-        },
-        {
-          "name": "Madilyn Carson",
-          "url": "https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Family, Friends & Heroes",
         "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
       },
@@ -1763,22 +1743,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Guess I'm Doing Fine",
-        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
+        "name": "Jukebox",
+        "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
       },
       "artists": [
         {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+          "name": "Matt Carson",
+          "url": "https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8"
         },
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Madilyn Carson",
+          "url": "https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7"
         }
       ],
-      "duration_ms": 280441,
-      "name": "Guess I'm Doing Fine",
-      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+      "duration_ms": 193000,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1799,6 +1779,26 @@
       "duration_ms": 243789,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 280441,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
     },
     {
       "added_at": "2026-02-04 05:00:53",

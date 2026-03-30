@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 223840,
       "name": "2 Good 4 U",
       "url": "https://open.spotify.com/track/7JjyJly7Fm17M0C9E01E6Q"
@@ -18255,6 +18255,24 @@
     },
     {
       "album": {
+        "name": "Innerstadsbarn",
+        "url": "https://open.spotify.com/album/4WF01x0BqUTFxe3xRRbnXM"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185571,
+      "name": "Innerstadsbarn",
+      "url": "https://open.spotify.com/track/1af9NItaItY3j3NkbrfmNd"
+    },
+    {
+      "album": {
         "name": "Innocent Love",
         "url": "https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5"
       },
@@ -36041,6 +36059,24 @@
     },
     {
       "album": {
+        "name": "Tillbaka till dig",
+        "url": "https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156010,
+      "name": "Tillbaka till dig",
+      "url": "https://open.spotify.com/track/0Vnw5tTxEIa3PkMrLeUXhc"
+    },
+    {
+      "album": {
         "name": "Slutscen",
         "url": "https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ"
       },
@@ -36168,7 +36204,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 173043,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"

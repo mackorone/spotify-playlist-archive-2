@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Bia Marques",
-  "num_followers": 363116,
+  "num_followers": 363088,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "antes que voc\u00ea v\u00e1",
-        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
       },
       "artists": [
         {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 160284,
-      "name": "antes que voc\u00ea v\u00e1",
-      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -179,6 +179,22 @@
       "duration_ms": 179874,
       "name": "Gata Anos 2000",
       "url": "https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "antes que voc\u00ea v\u00e1",
+        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160284,
+      "name": "antes que voc\u00ea v\u00e1",
+      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -239,6 +255,26 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "MANIA (oi amor, bom dia)",
+        "url": "https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 167183,
+      "name": "MANIA (oi amor, bom dia)",
+      "url": "https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
       },
@@ -259,26 +295,6 @@
       "duration_ms": 134755,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -339,6 +355,26 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Clube dos Cora\u00e7\u00f5es Partidos",
         "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
       },
@@ -351,22 +387,6 @@
       "duration_ms": 170286,
       "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
       "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "APGC (Ao Vivo Na Casa Da Colina)",
-        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
-      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -391,22 +411,18 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
+        "name": "APGC (Ao Vivo Na Casa Da Colina)",
+        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
       },
       "artists": [
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Jotap\u00ea",
-          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 180666,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
+      "duration_ms": 195094,
+      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
+      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -447,42 +463,42 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Me Deixa Partir",
-        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
         }
       ],
-      "duration_ms": 174107,
-      "name": "Me Deixa Partir",
-      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
+      "duration_ms": 180666,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
     },
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "MEU FI",
-        "url": "https://open.spotify.com/album/0Hlp4I7AHtMabfVEtA8pi7"
+        "name": "sinto saudade",
+        "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
         },
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
         }
       ],
-      "duration_ms": 161343,
-      "name": "MEU FI",
-      "url": "https://open.spotify.com/track/2g2jgVqx4Bn7SLCAM2EPsP"
+      "duration_ms": 150978,
+      "name": "sinto saudade",
+      "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -511,22 +527,18 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "sinto saudade",
-        "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
+        "name": "Me Deixa Partir",
+        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
       },
       "artists": [
         {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        },
-        {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
         }
       ],
-      "duration_ms": 150978,
-      "name": "sinto saudade",
-      "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
+      "duration_ms": 174107,
+      "name": "Me Deixa Partir",
+      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -547,6 +559,58 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "MEU FI",
+        "url": "https://open.spotify.com/album/0Hlp4I7AHtMabfVEtA8pi7"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 161343,
+      "name": "MEU FI",
+      "url": "https://open.spotify.com/track/2g2jgVqx4Bn7SLCAM2EPsP"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Fim Do Mundo",
+        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Beeside Records",
+          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Fim Do Mundo",
+      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "quanto tempo tem o tempo?",
         "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
       },
@@ -563,22 +627,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -591,6 +639,22 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -691,6 +755,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
         "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
       },
@@ -707,22 +787,6 @@
       "duration_ms": 183337,
       "name": "sera que esse \u00e9 mesmo o nosso fim?",
       "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -815,6 +879,22 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "MUCHO SEXY - ASTRO SESSIONS LIVE",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -1159,34 +1239,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Fim Do Mundo",
-        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Beeside Records",
-          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Fim Do Mundo",
-      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Bem Bem",
         "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
       },
@@ -1199,58 +1251,6 @@
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS LIVE",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244821,
-      "name": "Fruto Do Tempo",
-      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "MANIA (oi amor, bom dia)",
-        "url": "https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 167183,
-      "name": "MANIA (oi amor, bom dia)",
-      "url": "https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT"
     }
   ],
   "unique_name": "Palco POP",

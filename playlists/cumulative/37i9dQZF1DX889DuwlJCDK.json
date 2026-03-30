@@ -22050,7 +22050,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 224480,
       "name": "\u4e09\u65e5\u6708",
       "url": "https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B"
@@ -23510,6 +23510,24 @@
       "duration_ms": 198293,
       "name": "\u541b\u306e\u8857\u307e\u3067",
       "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u8a00\u3046\u901a\u308a\u3060\u3063\u305f",
+        "url": "https://open.spotify.com/album/7sQ58KpywwgiUk0AMqrVF4"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30fc\u30de\u30a4\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "\u541b\u306e\u8a00\u3046\u901a\u308a\u3060\u3063\u305f",
+      "url": "https://open.spotify.com/track/76OqofoW0vCkAvyxkkWvbg"
     },
     {
       "album": {
@@ -26484,6 +26502,24 @@
       "duration_ms": 141226,
       "name": "\u6625\u98a8\u306f\u904e\u304e\u3066",
       "url": "https://open.spotify.com/track/2szKG772egNChtpUexSNYB"
+    },
+    {
+      "album": {
+        "name": "\u6628\u65e5\u306b\u5247\u3063\u3066",
+        "url": "https://open.spotify.com/album/2kU6FH4ZwcwEnRFr4HGB6I"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u3089\u3070\u3093\u3057",
+          "url": "https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203241,
+      "name": "\u6628\u65e5\u306b\u5247\u3063\u3066",
+      "url": "https://open.spotify.com/track/2RHIpb9NyMaHZ56XTMpKIg"
     },
     {
       "album": {
@@ -29984,7 +30020,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 285186,
       "name": "\u95a2\u4fc2\u306e\u30e9\u30d7\u30bd\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/6Mpqo6mLIQ0qbf0Bz68hHp"

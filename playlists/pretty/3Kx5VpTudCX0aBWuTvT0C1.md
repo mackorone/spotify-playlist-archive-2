@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,526 likes - 42 songs - 2 hr 28 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,531 likes - 43 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 40 | [Spotkamy Się](https://open.spotify.com/track/0o8WYe52SJCuH6AJXfaqfl) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [Spotkamy Się](https://open.spotify.com/album/4XLheMiPz8YUwEL9Q1TXnG) | 6:34 |
 | 41 | [Turn into You](https://open.spotify.com/track/6Lz1tAR0AMy1lxPxwWkOnL) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Turn into You](https://open.spotify.com/album/17ccZ72JqjSYFi6MjGmEXm) | 3:43 |
 | 42 | [Everybody Needs Love](https://open.spotify.com/track/1VGurATUB0A5j4OdVS3Kzi) | [Lewdale Canyon](https://open.spotify.com/artist/5vYKvlJefPcoPfJOYy6iCH) | [Everybody Needs Love](https://open.spotify.com/album/72HSq0tAxKHm86zBerZOgB) | 4:09 |
+| 43 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 |
 
-Snapshot ID: `AAACfIl4PrFTxYlNFSIOoYATa6RNYeFr`
+Snapshot ID: `AAACfd1ei0FePRMbPf91Z22gLuVS+d1z`

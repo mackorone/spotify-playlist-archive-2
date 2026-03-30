@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-503 songs - 1 day 2 hr 38 min
+504 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [DEAD POETS SOCIETY](https://open.spotify.com/track/3JnwVQoO6kJwvN84Q5tQf0) | [cysteke](https://open.spotify.com/artist/4alcy3GdAmXMNsNXObxjsd), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [AFTERSHOCK](https://open.spotify.com/album/4sA7rp7GNDEAA9WvYdhwzt) | 6:57 | 2024-07-22 | 2025-11-10 |
 | [Delete All Your Socials](https://open.spotify.com/track/0FXg5omnMhBUbGBhMjSGZC) | [delle](https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF) | [Bay Area Demon](https://open.spotify.com/album/0TmiQoUOsXrnvmY1VoJGNz) | 2:22 | 2024-07-22 |  |
 | [DESIIRE](https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [DESIIRE](https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7) | 5:04 | 2025-01-25 | 2025-10-05 |
-| [Desperate Measure \- Lyric version](https://open.spotify.com/track/0qnQCqmFLJq5rUcdUYuWUM) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [Desperate Measure \(Lyric version\)](https://open.spotify.com/album/3UXv2WMg45XUruZYloSLqJ) | 3:48 | 2026-03-18 |  |
+| [Desperate Measure \- Lyric version](https://open.spotify.com/track/0qnQCqmFLJq5rUcdUYuWUM) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [Desperate Measure \(Lyric version\)](https://open.spotify.com/album/3UXv2WMg45XUruZYloSLqJ) | 3:48 | 2026-03-18 | 2026-03-30 |
 | [Determination](https://open.spotify.com/track/6xnYqujJZOarqDQ0HGGUeR) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb), [Zane de Klerk](https://open.spotify.com/artist/6P203pkgmGipAdomu0a3cH) | [Determination](https://open.spotify.com/album/4HXshGxrNPjY2etRb02SxM) | 2:34 | 2023-06-14 |  |
 | [diaries of a small town](https://open.spotify.com/track/6maCQUoO6Ld9GwK1fN0NYQ) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [diaries of a small town](https://open.spotify.com/album/1VQNdZ6m27lRsuPXJyiwX7) | 4:03 | 2024-11-18 | 2026-03-01 |
 | [DIGITAL](https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [DIGITAL](https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac) | 3:18 | 2025-01-18 | 2026-03-01 |
@@ -405,6 +405,7 @@
 | [Sleeve](https://open.spotify.com/track/6XuNHkA5iAVP5MZCFILt4r) | [Cathanol](https://open.spotify.com/artist/099yaibIXjBmQumhcPayiF) | [Detours](https://open.spotify.com/album/4Mo7Tfao2FVSl916lHOd6D) | 4:14 | 2024-02-09 |  |
 | [SLUGCAT PINBALL](https://open.spotify.com/track/1wkOvV481vWHJcBi0C4Zq0) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [SLUGCAT PINBALL](https://open.spotify.com/album/1A8lHXbpi3RawUMlqwq8vN) | 3:25 | 2024-02-01 |  |
 | [smile](https://open.spotify.com/track/4J4tnoWcItyeWFFDd308HQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:38 | 2025-02-03 | 2026-03-01 |
+| [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH) | 3:25 | 2026-03-29 |  |
 | [Snow Angels](https://open.spotify.com/track/2gXMJFkJziWpOV5BVGNKfY) | [Blackmajic](https://open.spotify.com/artist/2E7JfpHr5S3CepjpL4Dt6C), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [Snow Angels](https://open.spotify.com/album/2L1rT5fyQ1SUNZHPEei8gr) | 2:44 | 2024-05-28 | 2025-08-13 |
 | [Snow In Sweden](https://open.spotify.com/track/0drASf0itVnhlkcD0hHfsp) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Snow In Sweden](https://open.spotify.com/album/25N7jpmW7GFaB4H3yWRdxt) | 2:38 | 2023-06-14 | 2026-03-01 |
 | [Snow In Sweden \- Orchestral Cover](https://open.spotify.com/track/57ojBkTzWmDMDsqVJzYJKP) | [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P) | [Schizophrenia](https://open.spotify.com/album/5umhDCK3Btxe4JDgN9YHX0) | 3:45 | 2024-07-14 |  |

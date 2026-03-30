@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,189 songs - 9 day 7 hr 9 min
+4,191 songs - 9 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,6 +895,7 @@
 | [DENTRO DI TE](https://open.spotify.com/track/5Ty4yEu6X6L4nmDlkpXtWI) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [DENTRO DI TE](https://open.spotify.com/album/6ZPq9PvhPZlvTky4sAABkw) | 3:42 | 2025-06-01 |  |
 | [Dentro me](https://open.spotify.com/track/0fDz6Mirtj0nx7bN3oRycu) | [Noemi Shy Voice](https://open.spotify.com/artist/45cXKfdtkEgzHryseMpNpW) | [Dentro me](https://open.spotify.com/album/7rlIw2fG0TejaAfW8I3BMH) | 3:16 | 2026-02-13 |  |
 | [Dentro quell'ora](https://open.spotify.com/track/6J5X0qtjRQKgKCgcAPvuWU) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 4:09 | 2021-11-13 |  |
+| [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 | 2026-03-29 |  |
 | [Departure to the next level](https://open.spotify.com/track/7cQyydZLW2GlXg1Bz2DxXM) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Departure to the next level](https://open.spotify.com/album/0kdJ9sK59U0nv1LUMP2RM4) | 5:55 | 2025-06-04 |  |
 | [Deportivo](https://open.spotify.com/track/24xdHV73sUJcVjN6DPeiJJ) | [Teosngt](https://open.spotify.com/artist/2YMfDulhdav25HLpOXBswU) | [Deportivo](https://open.spotify.com/album/4eRiJw285IDW56Ue9mCDBo) | 2:34 | 2025-12-18 |  |
 | [Descifrar](https://open.spotify.com/track/0cNJnZTnGO7txFYAT3HUkK) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 4:17 | 2025-07-29 |  |
@@ -1752,6 +1753,7 @@
 | [I Share a Rhythm](https://open.spotify.com/track/3Upnhoegpbv1P9KaAlJlzL) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [It's Not Them\. It Couldn't Be Them\. It Is Them!](https://open.spotify.com/album/42j2CF0ZZPHnUZyBEadCCN) | 2:02 | 2025-11-05 |  |
 | [I Still Believe \(In Jim Jones\)](https://open.spotify.com/track/7BfowQx3v4NsA9vIvCXiUn) | [The Dream Machine](https://open.spotify.com/artist/2ngmfPvH3LUeSGOX0kXIgi) | [Vol 1: Sacraments](https://open.spotify.com/album/66BEC4kowFC1HdEWp3zF6N) | 2:38 | 2025-11-05 |  |
 | [I Swear](https://open.spotify.com/track/4bgJjf15bqCeIVftizK6fE) | [G4T](https://open.spotify.com/artist/3yjoXvWYWUxM3CARNxwjJG) | [I Swear](https://open.spotify.com/album/6CzJqShYHsucYFl2Jgf2eb) | 1:42 | 2025-03-03 |  |
+| [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 | 2026-03-29 |  |
 | [I Wanna Dance](https://open.spotify.com/track/5UYU0ufM6XPmCnso9qXfRj) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:43 | 2025-06-05 |  |
 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 | 2025-05-01 |  |
 | [I WANT ONLY YOU](https://open.spotify.com/track/4eDdtYN1bZxtZmPpKNZejd) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [I WANT ONLY YOU](https://open.spotify.com/album/5KSBD5XNCMaGywx3k10H1l) | 3:45 | 2025-06-15 |  |

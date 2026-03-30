@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,260 likes - 20 songs - 1 hr 25 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,258 likes - 21 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 18 | [Distant Ships](https://open.spotify.com/track/7IhwT37vQe9IsXv51h9V7x) | [Rose Melberg](https://open.spotify.com/artist/3UArwiOs2JWYZ9oNxfTUBM) | [Distant Ships](https://open.spotify.com/album/5wWKCNj3559eqDbykB93CL) | 2:04 |
 | 19 | [Mother Of Pearl](https://open.spotify.com/track/3UYbX558Zg0bte6PlOWw3v) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [The Museum Of Imaginary Animals](https://open.spotify.com/album/39KtuXAPlbb1O88ozEyTZS) | 5:09 |
 | 20 | [Push Ups](https://open.spotify.com/track/0TYAYDR79QLLNWW95fPXSh) | [Natasha Sandworms](https://open.spotify.com/artist/4CCbEgPF1jwGjIyTGNP2ba) | [No Magic](https://open.spotify.com/album/1AUJCbAlbRugB3hAo5fzHt) | 5:12 |
+| 21 | [Pick up the Phone](https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:55 |
 
-Snapshot ID: `AAAODE2YodAqanVpJphsBWqeTyvGCIEo`
+Snapshot ID: `AAAODb0YDT++wZUeH2PuubvLTeDlMOE9`

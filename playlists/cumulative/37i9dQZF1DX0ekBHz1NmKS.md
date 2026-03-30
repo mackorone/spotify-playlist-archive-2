@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,208 songs - 4 day 18 hr 42 min
+2,210 songs - 4 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 | 2025-06-13 |
 | [180](https://open.spotify.com/track/3jxCt8bqqdFmsW8R2AlFb0) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [180](https://open.spotify.com/album/1jkSQISZ1yztdQ9W412JMS) | 3:20 | 2024-04-18 | 2024-05-17 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-28 | 2023-06-23 |
-| [2 Good 4 U](https://open.spotify.com/track/7JjyJly7Fm17M0C9E01E6Q) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [2 Good 4 U](https://open.spotify.com/album/7rJGVn5RFUhwBU7Kz07hzO) | 3:43 | 2026-03-19 |  |
+| [2 Good 4 U](https://open.spotify.com/track/7JjyJly7Fm17M0C9E01E6Q) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [2 Good 4 U](https://open.spotify.com/album/7rJGVn5RFUhwBU7Kz07hzO) | 3:43 | 2026-03-19 | 2026-03-30 |
 | [2004](https://open.spotify.com/track/0O1lum01nn74MSINutTz9Q) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [2004](https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t) | 3:13 | 2023-10-19 | 2024-01-26 |
 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 | 2024-06-06 | 2024-08-09 |
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-13 | 2024-08-16 |
@@ -985,6 +985,7 @@
 | [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 | 2025-01-30 | 2025-02-18 |
 | [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 | 2025-11-20 | 2026-03-14 |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-06-27 | 2024-10-13 |
+| [Innerstadsbarn](https://open.spotify.com/track/1af9NItaItY3j3NkbrfmNd) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Innerstadsbarn](https://open.spotify.com/album/4WF01x0BqUTFxe3xRRbnXM) | 3:05 | 2026-03-26 |  |
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 | 2022-09-16 |
 | [Inombords](https://open.spotify.com/track/5QMnvHrkUdJ86rPwZHAkYe) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Inombords](https://open.spotify.com/album/042ZowqJbaddqs1S1knF8g) | 2:25 | 2025-12-26 | 2026-03-20 |
 | [Inside Out](https://open.spotify.com/track/6Z9nNatxC7Nbm4VY15A3ij) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Inside Out](https://open.spotify.com/album/67iY4D5SSaw1eRfExYzWh3) | 2:58 | 2024-03-21 | 2024-05-03 |
@@ -1936,13 +1937,14 @@
 | [Till evigheten](https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF) | [Edvin Törnblom](https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2) | [Till evigheten](https://open.spotify.com/album/4pPX1hnP4aUtTmDhAYZFiA) | 3:11 | 2025-11-24 | 2026-03-20 |
 | [Till slutet av augusti \- Live från Benjamin's](https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti \(Live från Benjamin's\)](https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR) | 4:10 | 2022-04-07 | 2023-10-06 |
 | [Till Solen Brinner Ut](https://open.spotify.com/track/2DTa2kupO7EwBcVDJrENJ2) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Till Solen Brinner Ut](https://open.spotify.com/album/6PlbjhdgIeBavM5EcNztvB) | 3:19 | 2022-09-29 | 2022-10-07 |
+| [Tillbaka till dig](https://open.spotify.com/track/0Vnw5tTxEIa3PkMrLeUXhc) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tillbaka till dig](https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO) | 2:36 | 2026-03-26 |  |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-06 | 2024-08-09 |
 | [Tillräcklig](https://open.spotify.com/track/5KTWAnAjNvWpJ5oTlzkOUU) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Tillräcklig](https://open.spotify.com/album/5fwPOg0afgFvEnVZFY6Dqa) | 2:46 | 2023-10-26 | 2024-02-09 |
 | [Tills idag](https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tills idag](https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki) | 3:01 | 2025-05-08 | 2025-07-25 |
 | [Tillsammans](https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ) | [Tim Damerau](https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ), [Linnea Andersson](https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4) | [Tillsammans](https://open.spotify.com/album/2QO70oJcBK5tRNHZWk3Z2t) | 3:21 | 2024-01-18 | 2024-02-04 |
 | [Tillsammans](https://open.spotify.com/track/77l26wJl8mAWROEuZvMBIl) | [Tim Damerau](https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ), [Linnea Andersson](https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4) | [Tillsammans](https://open.spotify.com/album/4Mxr4PtZv8WDmX2yrm0rJ8) | 3:21 | 2024-02-08 | 2024-02-23 |
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |
-| [Time Machine](https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Time Machine](https://open.spotify.com/album/1kCx0AeVglLalUMl16ad97) | 2:53 | 2026-01-15 |  |
+| [Time Machine](https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Time Machine](https://open.spotify.com/album/1kCx0AeVglLalUMl16ad97) | 2:53 | 2026-01-15 | 2026-03-30 |
 | [Timmar](https://open.spotify.com/track/5sXAGhrXIeUtAVLzpdJIfH) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Timmar](https://open.spotify.com/album/4gajMx6fgWWLyPrrPCfc1Z) | 3:33 | 2021-12-16 | 2022-01-13 |
 | [Tiotusen](https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Tiotusen](https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk) | 3:14 | 2023-08-31 | 2023-11-26 |
 | [Tip Tip](https://open.spotify.com/track/0znYdugASndFp2FhnK3Wdf) | [Ambivalensen](https://open.spotify.com/artist/0ZF9JhwucCz0sMbxOGVa4Z) | [Tip Tip](https://open.spotify.com/album/7uWku96UiAAe02QJH0xcmN) | 3:12 | 2024-05-02 | 2024-05-24 |

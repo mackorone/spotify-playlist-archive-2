@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 108946,
       "name": "Leave the state",
       "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 150928,
       "name": "Live Ya Life!",
       "url": "https://open.spotify.com/track/01jaNqZRf5rBKPF5CfKQVV"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 212088,
       "name": "Purple Moncler",
       "url": "https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -3038,6 +3038,24 @@
       "duration_ms": 79448,
       "name": "Temari",
       "url": "https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo"
+    },
+    {
+      "album": {
+        "name": "tempted",
+        "url": "https://open.spotify.com/album/3u5j1nVg9tq2vFdSWvSKnD"
+      },
+      "artists": [
+        {
+          "name": "Shameless",
+          "url": "https://open.spotify.com/artist/2XMnrlg83FzaoLirkS91uP"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114301,
+      "name": "tempted",
+      "url": "https://open.spotify.com/track/1Qm0FSIjb94bsiAs4KcPb6"
     },
     {
       "album": {
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 138814,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"

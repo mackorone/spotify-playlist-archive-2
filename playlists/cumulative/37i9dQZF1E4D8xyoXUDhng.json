@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Le'Andria Johnson, Kurt Carr & The Kurt Carr Singers, Donald Lawrence & The Tri-City Singers and more",
+  "description": "With Walter Hawkins, Donald Lawrence & The Tri-City Singers, Kurt Carr & The Kurt Carr Singers and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 450426,
       "name": "Be Grateful",
       "url": "https://open.spotify.com/track/4LZVc4rcsKZX96d4SIMZsl"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 244822,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4Cuyv8LmfYvlatEuTHDT8U"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 507893,
       "name": "Beyond The Veil - Live",
       "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
@@ -4258,7 +4258,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 236400,
       "name": "Come By Here, Good Lord",
       "url": "https://open.spotify.com/track/1mU3NmppHgmySEHb7WKcRa"
@@ -4294,7 +4294,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 438960,
       "name": "Come On In the Room",
       "url": "https://open.spotify.com/track/0LfPC4pCvTJSvhgmc5lzhc"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 422013,
       "name": "Come Thou Almighty King",
       "url": "https://open.spotify.com/track/5oXlU3gXVu99ZsQnI44Zfp"
@@ -5232,6 +5232,24 @@
       "duration_ms": 210280,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/2dbQRtaxDuXI8GfLDGXEgi"
+    },
+    {
+      "album": {
+        "name": "Cry Your Last Tear",
+        "url": "https://open.spotify.com/album/6VWyhZjnwZrABMryTQHJr3"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279466,
+      "name": "Don't Do It Without Me",
+      "url": "https://open.spotify.com/track/0KLdLnXKgQadUCmE8ME1p3"
     },
     {
       "album": {
@@ -8022,7 +8040,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 243159,
       "name": "God Can Heal It",
       "url": "https://open.spotify.com/track/4CqzICYRfXVNxGdODlKS8X"
@@ -8742,7 +8760,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 379880,
       "name": "God Will Take Care of You",
       "url": "https://open.spotify.com/track/3wa382hrbEurJIXCLj5sxz"
@@ -8988,7 +9006,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 310600,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/0CddhzZQHcXL71o94gy4WX"
@@ -11770,7 +11788,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 351240,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0V9X25GyJcv39iz8UDsgIU"
@@ -11806,7 +11824,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 281325,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3pIeF1tYZOIM958BeAJ2eV"
@@ -11868,7 +11886,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 456666,
       "name": "Hold Out",
       "url": "https://open.spotify.com/track/06F9lzR4cxzb9PKvyh8DKz"
@@ -12502,7 +12520,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 340280,
       "name": "I Almost Let Go",
       "url": "https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W"
@@ -14462,7 +14480,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 421220,
       "name": "I Threw In The Towel",
       "url": "https://open.spotify.com/track/13BNT5tyNkMGQUxYKijweO"
@@ -14510,7 +14528,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 270093,
       "name": "I Told The Storm",
       "url": "https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL"
@@ -15004,7 +15022,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 293545,
       "name": "I Win",
       "url": "https://open.spotify.com/track/30w9M5Ve4pi2944Szk15rQ"
@@ -15080,7 +15098,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 484560,
       "name": "I Won't Complain Medley (feat. Yolanda Morgan)",
       "url": "https://open.spotify.com/track/35ocW2X9XMmsZLOYdMHhIC"
@@ -15334,7 +15352,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 379734,
       "name": "I'm Available to You",
       "url": "https://open.spotify.com/track/2lWFN5HviKVkFtybv85FaU"
@@ -15652,7 +15670,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 291730,
       "name": "I'm Not God",
       "url": "https://open.spotify.com/track/5kkUWXxfOiLVGEFqLN95pA"
@@ -16458,7 +16476,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 368760,
       "name": "In the Sanctuary - Live",
       "url": "https://open.spotify.com/track/7okZiRqgL1K0lKTKDJe9OT"
@@ -17418,7 +17436,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 247946,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/2sMSTkFc6gPohsZEDFaQCm"
@@ -18264,7 +18282,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 403426,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2hNFryDQo4b0HEmYA9HNo6"
@@ -19592,7 +19610,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 468280,
       "name": "Let The Church Say Amen",
       "url": "https://open.spotify.com/track/794MiXq5ktzEv9lQpFpHi0"
@@ -23306,7 +23324,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 630852,
       "name": "Never Would Have Made It (BMI Broadcast) [Live]",
       "url": "https://open.spotify.com/track/0g4P26FGXNtvIfOxowTwf5"
@@ -24534,7 +24552,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 351640,
       "name": "Oh Lord Let Me Lean On You",
       "url": "https://open.spotify.com/track/4FbjLYCMDaQngE3FNQX4gj"
@@ -27456,7 +27474,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 326493,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/5Gz1Esq9PTE4ZToRlJgPtY"
@@ -27698,7 +27716,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 295160,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/6LfQnWVGxmKbha6XclRrLD"
@@ -29354,7 +29372,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 258573,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1Qjp4VEOz7usvQTDLf3D2I"
@@ -30954,7 +30972,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 642560,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p"
@@ -31976,7 +31994,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 288413,
       "name": "The Lord Is Blessing Me",
       "url": "https://open.spotify.com/track/3PWzBVskGNV5YRThi0Sxh8"
@@ -32340,7 +32358,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 347000,
       "name": "The Promise (Marvin's Testimony) - Bonus Track",
       "url": "https://open.spotify.com/track/4LS6XT4bxEwpfFqrWT60gl"
@@ -32700,7 +32718,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 367893,
       "name": "There Is No Way",
       "url": "https://open.spotify.com/track/3vOjNcU69o8kkLCu09JNtO"
@@ -32990,7 +33008,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 401500,
       "name": "This Is How I'm Telling It Now",
       "url": "https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA"
@@ -33390,7 +33408,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 436874,
       "name": "Together",
       "url": "https://open.spotify.com/track/3qrQELneT3DYFHorpigLwI"
@@ -34316,7 +34334,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 235066,
       "name": "Victory",
       "url": "https://open.spotify.com/track/4otC7bmVwKBztnEPcO2uQY"
@@ -35106,7 +35124,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 418333,
       "name": "We're Going to Make It",
       "url": "https://open.spotify.com/track/1CI1RwcIYXOlslDApmHkCB"
@@ -35124,7 +35142,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 197080,
       "name": "We've Come This Far By Faith",
       "url": "https://open.spotify.com/track/0eOuv62u5tavJlZUxM5knT"

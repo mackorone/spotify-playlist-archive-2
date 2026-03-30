@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-15",
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: BTS) (Enjoy a playlist of songs that support music video features!) ",
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: YUNA) (Enjoy a playlist of songs that support music video features!) ",
   "name": "K-Pop Music Video Hits",
   "tracks": [
     {
@@ -1639,6 +1639,42 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/3CjxTjmJ0IefgzQzmVc7aG"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188403,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5wxUDqvvV1S2mmQ9X04QWB"
+    },
+    {
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188438,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy"
+    },
+    {
+      "album": {
         "name": "Ice On My Teeth",
         "url": "https://open.spotify.com/album/0FAJNe9ryBqwz4OX54Fk9g"
       },
@@ -2174,6 +2210,24 @@
       "duration_ms": 162005,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/6FfKVcRELC01p2V64HXsRH"
+    },
+    {
+      "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197589,
+      "name": "MUSEUM",
+      "url": "https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD"
     },
     {
       "album": {
@@ -3565,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "X room",
+        "url": "https://open.spotify.com/album/70kNjkfecMiiFCKfkvE2sp"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "X room",
+      "url": "https://open.spotify.com/track/1QrvItFJXHpGnZBLV4x2Qa"
+    },
+    {
+      "album": {
         "name": "XOXZ",
         "url": "https://open.spotify.com/album/7wOQSRLo59L8TO2dIXY04C"
       },
@@ -3634,6 +3706,28 @@
       "duration_ms": 179733,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/3sSyfg5iyw2LGK3mEMkoJN"
+    },
+    {
+      "album": {
+        "name": "YOU LIKE IT I LOVE IT",
+        "url": "https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192617,
+      "name": "YOU LIKE IT I LOVE IT",
+      "url": "https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL"

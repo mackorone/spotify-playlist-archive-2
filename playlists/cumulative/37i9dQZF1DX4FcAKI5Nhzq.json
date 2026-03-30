@@ -680,7 +680,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 219920,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
@@ -4395,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "[ASTROCHILD IN THE LONELY PLANET] CSR - Can\u2019t Hide Anymore",
+        "url": "https://open.spotify.com/album/0CY2nYcIPRrCVOKtkQFw65"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164642,
+      "name": "Can't Hide Anymore",
+      "url": "https://open.spotify.com/track/2N8BgF1Fe9FNR6hQ2rkqYF"
+    },
+    {
+      "album": {
         "name": "Can't Stop This Party",
         "url": "https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI"
       },
@@ -6718,7 +6736,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 144106,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0"
@@ -16296,7 +16314,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 169000,
       "name": "LOVEPOCALYPSE",
       "url": "https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9"
@@ -17456,7 +17474,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 170653,
       "name": "Mono (Feat. skaiwater)",
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
@@ -17794,6 +17812,24 @@
       "duration_ms": 209093,
       "name": "mumumumuch",
       "url": "https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z"
+    },
+    {
+      "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194069,
+      "name": "MUSEUM",
+      "url": "https://open.spotify.com/track/52otRjqSDSPOpLYmiLU7cj"
     },
     {
       "album": {
@@ -22608,6 +22644,24 @@
       "duration_ms": 201960,
       "name": "Save",
       "url": "https://open.spotify.com/track/0nW8KgIzm3Q6DCLHUtEHDh"
+    },
+    {
+      "album": {
+        "name": "SAVE",
+        "url": "https://open.spotify.com/album/2CPUwFvdsmvqDCHo0QHwBq"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "SAVE",
+      "url": "https://open.spotify.com/track/5g9LfjVn4hniOy7pqDt6Da"
     },
     {
       "album": {

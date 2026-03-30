@@ -1922,6 +1922,28 @@
     {
       "album": {
         "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328574,
+      "name": "FLORIDA FLOW",
+      "url": "https://open.spotify.com/track/0n0WCuHUS2n4iZrKmUUzbH"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
       },
       "artists": [
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 328574,
       "name": "FLORIDA FLOW",
       "url": "https://open.spotify.com/track/5VIaKcmQyU9dt4DKN1NOlm"

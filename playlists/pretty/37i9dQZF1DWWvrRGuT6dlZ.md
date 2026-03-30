@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: ANNÉ Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,042 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,041 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 49 | [NO THANKS](https://open.spotify.com/track/3xPDY1ei8CfpXK4C7UD8J3) | [Shohini](https://open.spotify.com/artist/3WcxoMXDOK4nZBUCm1QCSd) | [NO THANKS](https://open.spotify.com/album/0Ff2Gdu9qrgz37yDWzhBXY) | 3:08 |
 | 50 | [Indahnya](https://open.spotify.com/track/5XTAj7kldK4mzQsq7BzHoN) | [Axtin](https://open.spotify.com/artist/5cXYBacWlfemTc0222wlA7), [Erika Foo](https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3) | [Indahnya](https://open.spotify.com/album/07DVidAjyF3OPYImiibOCF) | 3:17 |
 
-Snapshot ID: `AAAAAD9IifqddHcY4BqFOlzKGGTn0OZD`
+Snapshot ID: `AAAAAPImWnUXJlMHSlXRAN888bIRQIA1`

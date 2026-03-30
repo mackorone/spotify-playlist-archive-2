@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-946 songs - 2 day 9 hr 14 min
+947 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe), [Advance Base](https://open.spotify.com/artist/4YIMPSc3zZLRwe4Ujaxjce) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 | 2025-10-14 | 2025-11-15 |
 | [Piano and Strings](https://open.spotify.com/track/0sh5zsux5zhW8GfRXCwFsK) | [Bunkbed](https://open.spotify.com/artist/4dYWdB9oHoB9fFjBjdgdRV) | [Swimming Back to Shore Without Me](https://open.spotify.com/album/6SaUq1zQQBKuEm5DJxtCAA) | 3:30 | 2026-01-08 | 2026-03-13 |
 | [Pianoflage](https://open.spotify.com/track/7A6UqQiwFNqdq1Lb7EsRYl) | [Fate Marable's Society Syncopators](https://open.spotify.com/artist/5GhkhuFjGA8XTplgVd07dr) | [New Orleans Jazz Of The 1920s](https://open.spotify.com/album/1HKiHdoWuwObf7QFSZzf4q) | 3:12 | 2025-12-24 | 2026-01-15 |
+| [Pick up the Phone](https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:55 | 2026-03-30 |  |
 | [Place Where I Go](https://open.spotify.com/track/1ivMAc4gwF8d9mEXFHYcbz) | [Keanu Nelson](https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG) | [Place Where I Go](https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk) | 3:36 | 2025-10-26 | 2025-11-15 |
 | [Plans Get Complex](https://open.spotify.com/track/5FEzARoBNBiXHMc0zIwVGY) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:41 | 2024-05-30 | 2024-07-12 |
 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 | 2025-08-22 | 2025-09-11 |

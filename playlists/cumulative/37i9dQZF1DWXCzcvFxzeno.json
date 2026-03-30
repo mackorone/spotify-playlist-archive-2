@@ -5131,6 +5131,28 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0Zd6ZxUrYlt4XpBDivljUO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Sparks (UK)",
+          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+        },
+        {
+          "name": "AZYR",
+          "url": "https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254930,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/3pmVYUybrSXz79BBwL9RWW"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
@@ -7404,7 +7426,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 196527,
       "name": "YOU ARE MINE",
       "url": "https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS"

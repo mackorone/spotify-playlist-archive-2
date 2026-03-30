@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 6 hr 36 min
+109 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Angels](https://open.spotify.com/track/7bLxSkJfRz3WGg6LWiKDtX) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0) | [Angels](https://open.spotify.com/album/0NiKLQIaD0J1LecvqwWawl) | 3:31 | 2026-02-20 |  |
 | [Asleep In My Head](https://open.spotify.com/track/0CrtfFrPLlmH03BRg62qFp) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo), [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [Second Sight](https://open.spotify.com/album/5I6PqYr0qD0CJjXa9IGqE7) | 3:55 | 2026-02-20 |  |
 | [Aurora](https://open.spotify.com/track/2Epz6BuViL81J94OwuJzQg) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures \(Deluxe\)](https://open.spotify.com/album/4LAy4NaGGkeKq0Jfs1C864) | 4:07 | 2025-10-27 |  |
-| [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H) | 3:32 | 2026-02-20 |  |
+| [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/179C3K3JVRcqiLa2gC9r08) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Infinity](https://open.spotify.com/album/3sRcAEZJlzV4w67gnpR2jL) | 3:32 | 2026-03-29 |  |
+| [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H) | 3:32 | 2026-02-20 | 2026-03-30 |
 | [Big Blue](https://open.spotify.com/track/4y9gk842Csn0wVRrx5s9Kg) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Big Blue](https://open.spotify.com/album/2lFBIpW2YMFPwdkLzTXSu5) | 3:00 | 2025-10-27 |  |
 | [Blew My Life Up](https://open.spotify.com/track/44wlCR0bU5oz0P3WscbgzK) | [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Blew My Life Up](https://open.spotify.com/album/69v6fMoI5rhGV6B4vfUW7K) | 3:08 | 2025-10-27 |  |
 | [Bloom Again](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Bloom Again](https://open.spotify.com/album/3Yz3PNoOnlwYwoARFkEydC) | 3:09 | 2025-10-27 |  |

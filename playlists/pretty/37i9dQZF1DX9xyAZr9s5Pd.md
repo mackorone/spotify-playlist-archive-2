@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,420 likes - 63 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,423 likes - 63 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

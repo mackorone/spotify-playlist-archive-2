@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Iga Jaworska
 
-785 songs - 1 day 14 hr 21 min
+786 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Arachnophobia](https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Arachnophobia](https://open.spotify.com/album/3QATSYk5TsPkoEJKvZIM7P) | 4:29 | 2024-09-06 | 2024-11-08 |
 | [Arkadia](https://open.spotify.com/track/3PMYCND2OpaEV74EQkWrOZ) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Arkadia](https://open.spotify.com/album/2p4Udkis07aTRZIDjpyNTQ) | 3:34 | 2025-03-20 | 2025-04-12 |
 | [Ataki Paniki](https://open.spotify.com/track/0MJketFpC5gs4S8JoHKw3p) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Ataki Paniki](https://open.spotify.com/album/5nbxNbFcAIxg1EgNfO04qk) | 3:34 | 2025-05-29 | 2025-06-06 |
-| [Avewaw](https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP) | [Domin](https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [Avewaw](https://open.spotify.com/album/12wH1mQyAU1a1ExfMdGQjs) | 2:13 | 2026-01-16 | 2026-03-27 |
+| [Avewaw](https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP) | [Domin](https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [Avewaw](https://open.spotify.com/album/12wH1mQyAU1a1ExfMdGQjs) | 2:13 | 2026-01-16 |  |
 | [azs](https://open.spotify.com/track/2vq6rl7RArxCQvz4mJs7bC) | [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [azs](https://open.spotify.com/album/1q4eCy4H5R0uZcVLLx5NOv) | 2:44 | 2024-11-07 | 2024-11-22 |
 | [Ałłtobus](https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD), [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [Ałłtobus](https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe) | 3:04 | 2025-09-23 | 2026-01-17 |
 | [Aż Będziesz Wiedzieć](https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Tylko Lepiej EP](https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC) | 2:27 | 2024-09-19 | 2025-01-24 |
@@ -202,6 +202,7 @@
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 | 2025-07-04 |
 | [Eden](https://open.spotify.com/track/08jFD3rM4Te1f0pNIBDufn) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Eden](https://open.spotify.com/album/3KTzupD13J5RuaHdTwsCDl) | 3:23 | 2025-11-11 | 2025-12-19 |
 | [Eden \- Remix](https://open.spotify.com/track/1aXdRJxYplSbCoUUnpmSl7) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd) | [Eden \(Remix\)](https://open.spotify.com/album/2Uqa62c2kjcgksBpeD57O7) | 3:23 | 2026-01-30 |  |
+| [Egipt](https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Egipt](https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6) | 2:39 | 2026-03-26 |  |
 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 | 2024-07-25 | 2025-01-24 |
 | [ernest](https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [ernest](https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL) | 4:23 | 2025-09-23 | 2025-11-20 |
 | [ESCAPE](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [ESCAPE](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 | 2025-05-29 | 2025-09-24 |
@@ -551,7 +552,7 @@
 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 | 2025-02-20 | 2025-08-20 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 | 2025-01-24 |
 | [psychokiller](https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [psychokiller / myself](https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB) | 1:53 | 2026-02-27 | 2026-03-13 |
-| [Ptak](https://open.spotify.com/track/7owZ1yAKJvTs8xrjZnAlTh) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Ptak](https://open.spotify.com/album/6B7rqtm0PHoJxnSivZ1eTr) | 2:33 | 2026-03-05 |  |
+| [Ptak](https://open.spotify.com/track/7owZ1yAKJvTs8xrjZnAlTh) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Ptak](https://open.spotify.com/album/6B7rqtm0PHoJxnSivZ1eTr) | 2:33 | 2026-03-05 | 2026-03-30 |
 | [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 | 2025-02-13 | 2025-04-25 |
 | [Punch Drunk Love](https://open.spotify.com/track/3z2obVsOJkPHUXTgRjjbHe) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/6bAQ0jnn6C7MWgjevnkPT6) | 3:17 | 2025-09-23 | 2025-10-01 |
 | [puste słowa](https://open.spotify.com/track/5EXUV3N9nAibypoeBTZnlb) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn) | [puste słowa](https://open.spotify.com/album/6VcBpdcLmlNtaw6mzime7f) | 2:37 | 2025-07-17 | 2025-10-15 |
@@ -635,7 +636,7 @@
 | [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/album/3RcOv7x1WcBvlrip58kEKF) | 1:49 | 2026-01-30 | 2026-02-11 |
 | [szklane słowa](https://open.spotify.com/track/5iSxwQxs4cQ6XOUhCUrhRk) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5) | [szklane słowa](https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD) | 2:41 | 2025-07-31 | 2025-10-08 |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |
-| [Sztorm](https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Sztorm](https://open.spotify.com/album/5skJjjAuikeP6B7iowZvai) | 3:26 | 2026-02-27 |  |
+| [Sztorm](https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Sztorm](https://open.spotify.com/album/5skJjjAuikeP6B7iowZvai) | 3:26 | 2026-02-27 | 2026-03-30 |
 | [Sztorm](https://open.spotify.com/track/6MLoaND0PUNQD2itqN87LQ) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Sztorm](https://open.spotify.com/album/6ibXEXjfR42Zj3zX7boe8o) | 3:37 | 2024-06-28 | 2024-07-19 |
 | [Sztuka](https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Sztuka](https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH) | 4:00 | 2025-02-27 | 2025-03-09 |
 | [szukam](https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [szukam](https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef) | 3:25 | 2024-08-22 | 2025-01-24 |

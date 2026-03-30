@@ -188,7 +188,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 299013,
       "name": "Amor Sin Comparaci\u00f3n",
       "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 252320,
       "name": "Calvario",
       "url": "https://open.spotify.com/track/3KyYP6N1HqfR00s9Locjzm"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 219208,
       "name": "El Dios Que Cambia Nombre",
       "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
@@ -880,6 +880,24 @@
       "duration_ms": 323344,
       "name": "En Memoria De Ti",
       "url": "https://open.spotify.com/track/62fL5RqurblUV6egM3IVjf"
+    },
+    {
+      "album": {
+        "name": "Fiel Amor Vol. 2",
+        "url": "https://open.spotify.com/album/72gxwZH8TW7LqvbtpVjJ3I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360133,
+      "name": "En Tu Nombre (In Jesus\u2019 Name)",
+      "url": "https://open.spotify.com/track/3x4CjUZgmqiZGSb5NDRQ06"
     },
     {
       "album": {
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 291173,
       "name": "Inmenso Amor",
       "url": "https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs"
@@ -1632,6 +1650,24 @@
       "duration_ms": 293440,
       "name": "Jes\u00fas",
       "url": "https://open.spotify.com/track/5epQs3E7iHTteEvvxghYNg"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas",
+        "url": "https://open.spotify.com/album/5M4JXbkdCzKij4fwOCELqC"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322661,
+      "name": "Jes\u00fas",
+      "url": "https://open.spotify.com/track/0bbazu3GjvnPGxZ39vaqsO"
     },
     {
       "album": {
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 297230,
       "name": "Mi Coraz\u00f3n Te Anhela",
       "url": "https://open.spotify.com/track/3GHXUGdVIWz4KJWG9pUsrr"
@@ -2228,7 +2264,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 218942,
       "name": "Misericordia",
       "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
@@ -2246,7 +2282,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 368683,
       "name": "Muerte Por Vida",
       "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
@@ -2438,6 +2474,32 @@
       "duration_ms": 320200,
       "name": "Nos Levantaremos",
       "url": "https://open.spotify.com/track/3uuZV7AlZQIDqTNDddla5x"
+    },
+    {
+      "album": {
+        "name": "PUESTOS LOS OJOS EN JES\u00daS",
+        "url": "https://open.spotify.com/album/47EqP1G54kdoaEgLErL77i"
+      },
+      "artists": [
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 700380,
+      "name": "Nuestro Dios Reinar\u00e1 por Siempre (Our God Reigns)",
+      "url": "https://open.spotify.com/track/1BOa6aGaOQXlWrcFvjQy6O"
     },
     {
       "album": {
@@ -2857,6 +2919,50 @@
     },
     {
       "album": {
+        "name": "Resucit\u00f3",
+        "url": "https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370279,
+      "name": "Resucit\u00f3",
+      "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"
+    },
+    {
+      "album": {
+        "name": "Experiencia Resurrecci\u00f3n 2025 ( En Vivo Desde Santa Marta)",
+        "url": "https://open.spotify.com/album/1HnGtdu1TCcPd18hZ2QPeK"
+      },
+      "artists": [
+        {
+          "name": "Zero M\u00fasica",
+          "url": "https://open.spotify.com/artist/7e2syyHGfVKZv3DXFXedkM"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376074,
+      "name": "Resucit\u00f3",
+      "url": "https://open.spotify.com/track/1toBEU2SNmfjMYufSOF2Ym"
+    },
+    {
+      "album": {
         "name": "La Bondad de Dios",
         "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
       },
@@ -3166,7 +3272,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 201946,
       "name": "Te Dejo Ganar",
       "url": "https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb"
@@ -3471,6 +3577,32 @@
     },
     {
       "album": {
+        "name": "Viene el Rey",
+        "url": "https://open.spotify.com/album/10r5EoQSsBT4gDttUC2KEX"
+      },
+      "artists": [
+        {
+          "name": "Jon Carlo",
+          "url": "https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK"
+        },
+        {
+          "name": "Caleb Worship",
+          "url": "https://open.spotify.com/artist/2ZDCD2EjRayoBZGm3vClFL"
+        },
+        {
+          "name": "Efren Rivera",
+          "url": "https://open.spotify.com/artist/4OuQcs3ivm8kZxuKPTIMvj"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417282,
+      "name": "Viene el Rey",
+      "url": "https://open.spotify.com/track/3vVUzorXavZFrmnxwSIyuH"
+    },
+    {
+      "album": {
         "name": "Como en Casa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
       },
@@ -3486,6 +3618,24 @@
       "duration_ms": 363772,
       "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
+    },
+    {
+      "album": {
+        "name": "Yahweh Se Manifestar\u00e1 (Live)",
+        "url": "https://open.spotify.com/album/2d4OJrfbobigzZMZXxV3d1"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603920,
+      "name": "Yahweh Se Manifestar\u00e1 - Live",
+      "url": "https://open.spotify.com/track/04hV8gSYwrEmzwC05AQY4j"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ6Uxoz4EF1y"

@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Emily A\. Sprague
 
-275 songs - 1 day 1 hr 15 min
+276 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 | 2022-03-25 | 2024-08-04 |
 | [a path between the clouds](https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Frozen Passages](https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R) | 5:42 | 2022-03-08 |  |
 | [A Requiem](https://open.spotify.com/track/4AjmRc8wqgmMayhwWLYoXl) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [A Requiem](https://open.spotify.com/album/1bXQFRiD2l4PY3Fije46QR) | 5:26 | 2025-02-27 | 2025-06-20 |
+| [A Second is a Choir](https://open.spotify.com/track/6VLtQ4xqnSwrnVGxF3Iedf) | [Hara Alonso](https://open.spotify.com/artist/4eQRBa0rDiIn1qsWegcM1i), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [A Second is a Choir](https://open.spotify.com/album/3tock7ZWYnbWqpUPoKCQwV) | 5:40 | 2026-03-27 |  |
 | [A Woman Escapes Cue 4](https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works II](https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB) | 5:35 | 2023-09-08 | 2026-03-15 |
 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 | 2023-06-09 |  |
 | [Ad Astra](https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Ad Astra](https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk) | 4:20 | 2025-01-31 | 2026-03-14 |
@@ -62,7 +63,7 @@
 | [Ceò](https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv) | [Claire M Singer](https://open.spotify.com/artist/19vNq14qOd4uJFqXvSNTfo) | [Trian](https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS) | 5:39 | 2022-03-11 | 2025-02-28 |
 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 | 2022-03-08 | 2026-03-07 |
 | [Ciclo del agua](https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:45 | 2023-08-21 | 2025-09-05 |
-| [Circles](https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Circles](https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR) | 1:20 | 2025-01-31 |  |
+| [Circles](https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Circles](https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR) | 1:20 | 2025-01-31 | 2026-03-30 |
 | [Circular](https://open.spotify.com/track/3YUPQcXGenybP2gi5985oB) | [Sarah Neufeld](https://open.spotify.com/artist/17YxHBveizVRDwCUBVn1X0), [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd), [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY) | [Circular](https://open.spotify.com/album/5PijKfbcBsz8Pmuj5hjdXW) | 3:04 | 2024-10-14 | 2025-04-26 |
 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 | 2024-09-12 | 2026-03-28 |
 | [Composition Of Flowers \(Excerpt\)](https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works Preview](https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ) | 6:21 | 2023-08-11 | 2025-09-05 |

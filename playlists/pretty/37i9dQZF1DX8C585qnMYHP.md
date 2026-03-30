@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw">Bono / Burattini</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,819 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,844 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [Another Version of You](https://open.spotify.com/track/2wj12tINYjAXHMzTX8yQ28) | [Kaymo](https://open.spotify.com/artist/50xF3MVAwmJ5xHzwPYgHFc) | [Another Version of You](https://open.spotify.com/album/0Ksc08PxB1ev3DwvUKI8TX) | 2:13 |
 | 50 | [Children Of The Dusk](https://open.spotify.com/track/3B9XcCIA4LubFXBcyMDIeJ) | [Bloody Head](https://open.spotify.com/artist/1Nd9VrvRLgc0bAMA7pk6nK) | [Bend Down And Kiss The Ground](https://open.spotify.com/album/3RJ3TLoOU6UvVU8Q8MK0SO) | 5:26 |
 
-Snapshot ID: `AAAAALT2QatCbLMAGOhTV30p3aGTV/uA`
+Snapshot ID: `AAAAAI5iUBIbCebXCoUsxWnJ30kpbLNc`

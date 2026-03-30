@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 149307,
+  "num_followers": 149315,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 240704,
       "name": "For\u00e7a",
       "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
-        "name": "Cordeiro e Le\u00e3o",
-        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 236295,
-      "name": "Cordeiro e Le\u00e3o",
-      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "KINTSUGI (DELUXE)",
         "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 166812,
       "name": "No Princ\u00edpio",
       "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 339354,
-      "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Falhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 379130,
       "name": "Falhas - Ao Vivo",
       "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 339354,
+      "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Quebre as Correntes",
-        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        }
-      ],
-      "duration_ms": 248348,
-      "name": "Quebre as Correntes",
-      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Ele \u00e9 o Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 461500,
       "name": "Ele \u00e9 o Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Quebre as Correntes",
+        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        }
+      ],
+      "duration_ms": 248348,
+      "name": "Quebre as Correntes",
+      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
     },
     {
       "added_at": "2025-10-24 18:38:07",

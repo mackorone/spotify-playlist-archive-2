@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 685,
+  "num_followers": 687,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADVe+TYEsw0GcqNaQGoy+sas/rXyKa",
+  "snapshot_id": "AAADVpByWBV6gRJSewMQfS4hSeH5L/4O",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -1239,6 +1239,22 @@
       "duration_ms": 206053,
       "name": "Where Did The Time Go ?",
       "url": "https://open.spotify.com/track/54fj963AplMqKDMKX5KxTR"
+    },
+    {
+      "added_at": "2026-03-29 12:33:09",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/344uJUD7uj9Ps7VB4G2mgC"
+      },
+      "artists": [
+        {
+          "name": "Echoeswave",
+          "url": "https://open.spotify.com/artist/1MtZxcUYya2yS1cpJaFJ0P"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50621,
+  "num_followers": 50622,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADmAZsMCQTqvH+qEM1+tFUc",
+  "snapshot_id": "accaAAAAAACEFczvrbV6CtVvj0v6Xz6T",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 192218,
-      "name": "No Tiene Comparaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 164195,
       "name": "A Qu\u00e9 Le Tiras",
       "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 192218,
+      "name": "No Tiene Comparaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
     },
     {
       "added_at": null,

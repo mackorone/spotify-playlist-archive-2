@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Attraction (Marsh's Mix)",
+        "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285797,
+      "name": "Attraction - Marsh's Mix",
+      "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
+    },
+    {
+      "album": {
         "name": "Illusion of Perfection",
         "url": "https://open.spotify.com/album/26medpL8stPGWfE0xRuJT2"
       },
@@ -1682,7 +1704,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 184615,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
@@ -2437,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Communicate +",
+        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351666,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
+    },
+    {
+      "album": {
         "name": "Cronus",
         "url": "https://open.spotify.com/album/6oG4Ho6fD8lXRsMC2K0LEn"
       },
@@ -2966,7 +3006,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 184737,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
@@ -6908,6 +6948,24 @@
       "duration_ms": 207638,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "album": {
+        "name": "Lily At The Valley",
+        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "Lily At The Valley",
+      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "album": {
@@ -12026,7 +12084,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 191250,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"

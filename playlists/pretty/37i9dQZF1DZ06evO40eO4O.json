@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 6809,
+  "num_followers": 6820,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAAAWSQHWQqZV4AINx22yi0MR",
+  "snapshot_id": "accaAAAAAAB1SlXm6Ys2nHEOq++VntW8",
   "tracks": [
     {
       "added_at": null,
@@ -147,38 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La vida rosa",
-        "url": "https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "La vida rosa",
-      "url": "https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/70BCmegyMAdPzFadlYGXfv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 199340,
       "name": "Las Leyes de La Vida",
       "url": "https://open.spotify.com/track/1E9mUWox7ZaSnfGS4P3fBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 178016,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/70BCmegyMAdPzFadlYGXfv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La vida rosa",
+        "url": "https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "La vida rosa",
+      "url": "https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt"
     },
     {
       "added_at": null,
@@ -415,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "mitad",
-        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 172392,
-      "name": "mitad",
-      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": null,
@@ -467,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+        "name": "mitad",
+        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+      "duration_ms": 172392,
+      "name": "mitad",
+      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabi Suarez, Day & Lara",
-  "num_followers": 483831,
+  "num_followers": 483878,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Barzin, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
-      },
-      "artists": [
-        {
-          "name": "Bruna Lipiani",
-          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Porteira Fechada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
         "name": "Depois Nois Melhora",
         "url": "https://open.spotify.com/album/6tH25ZGHnI4GulRJ8cDy13"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 145535,
       "name": "Depois Nois Melhora",
       "url": "https://open.spotify.com/track/2yU5H3o6QnEfNrqF6USOE5"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
+        "name": "Barzin, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
+      },
+      "artists": [
+        {
+          "name": "Bruna Lipiani",
+          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Porteira Fechada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -255,6 +255,26 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Ela Me Largou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6zpPc3DcMnC2SxXa6NOCuS"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho De Lima",
+          "url": "https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        }
+      ],
+      "duration_ms": 176122,
+      "name": "Ela Me Largou - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CGYMVrw95jgyYQllWlEyS"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Lugar de Fala",
         "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 131432,
       "name": "Congela",
       "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Ela Me Largou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6zpPc3DcMnC2SxXa6NOCuS"
-      },
-      "artists": [
-        {
-          "name": "Marcelinho De Lima",
-          "url": "https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT"
-        },
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        }
-      ],
-      "duration_ms": 176122,
-      "name": "Ela Me Largou - Ao Vivo",
-      "url": "https://open.spotify.com/track/4CGYMVrw95jgyYQllWlEyS"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Cadeado No Dedo",
+        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
+      },
+      "artists": [
+        {
+          "name": "Ruan e Davi",
+          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
+        }
+      ],
+      "duration_ms": 125970,
+      "name": "Cadeado No Dedo",
+      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Rastros",
         "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
       },
@@ -503,22 +519,18 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Desce \u00c1lcool",
-        "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
+        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
       },
       "artists": [
         {
-          "name": "Ricco Montana",
-          "url": "https://open.spotify.com/artist/4MBeBh9z2p0bpbD79Lrqu7"
-        },
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
         }
       ],
-      "duration_ms": 132291,
-      "name": "Desce \u00c1lcool",
-      "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
+      "duration_ms": 166500,
+      "name": "Tanto Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -539,54 +551,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+        "name": "Desce \u00c1lcool",
+        "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
       "artists": [
         {
-          "name": "Nando Moreno",
-          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Cadeado No Dedo",
-        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
-      },
-      "artists": [
-        {
-          "name": "Ruan e Davi",
-          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
-        }
-      ],
-      "duration_ms": 125970,
-      "name": "Cadeado No Dedo",
-      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "A\u00ed \u00c9 Loucura, Ep. 3",
-        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
-      },
-      "artists": [
-        {
-          "name": "Borges & Dedeu",
-          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
+          "name": "Ricco Montana",
+          "url": "https://open.spotify.com/artist/4MBeBh9z2p0bpbD79Lrqu7"
         },
         {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 242316,
-      "name": "Seu Astral / Enquanto Houver Raz\u00f5es",
-      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
+      "duration_ms": 132291,
+      "name": "Desce \u00c1lcool",
+      "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -607,6 +587,26 @@
       "duration_ms": 151049,
       "name": "Parava De Beber - Ao Vivo",
       "url": "https://open.spotify.com/track/2Y3L8NDqMnlXpjJEenRyeW"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
+        "name": "A\u00ed \u00c9 Loucura, Ep. 3",
+        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
+      },
+      "artists": [
+        {
+          "name": "Borges & Dedeu",
+          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 242316,
+      "name": "Seu Astral / Enquanto Houver Raz\u00f5es",
+      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
-      },
-      "artists": [
-        {
-          "name": "Augusto & At\u00edlio",
-          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
-        }
-      ],
-      "duration_ms": 156443,
-      "name": "Morena do Paran\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
         "name": "Vou Ou N\u00e3o Vou",
         "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 171526,
       "name": "Vou ou N\u00e3o Vou",
       "url": "https://open.spotify.com/track/5MbLwOO7IGcDSD3r7NYSJQ"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
+        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
+      },
+      "artists": [
+        {
+          "name": "Augusto & At\u00edlio",
+          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
+        }
+      ],
+      "duration_ms": 156443,
+      "name": "Morena do Paran\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Ao Vivo em Campo Grande, EP. 1",
-        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
-      },
-      "artists": [
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 145900,
-      "name": "Vivendo Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
         "name": "Atitude (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 193891,
       "name": "Atitude - Ao Vivo",
       "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
+        "name": "Ao Vivo em Campo Grande, EP. 1",
+        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 145900,
+      "name": "Vivendo Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
-        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
-      },
-      "artists": [
-        {
-          "name": "Murilo e Romario",
-          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
-      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
         "name": "Resenha Particular 2 (Ao Vivo / EP1)",
         "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 197600,
       "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
       "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+      },
+      "artists": [
+        {
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
     },
     {
       "added_at": "2026-03-20 03:00:31",

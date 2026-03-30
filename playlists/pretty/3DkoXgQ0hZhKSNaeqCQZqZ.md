@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,054 likes - 360 songs - 18 hr 18 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,054 likes - 360 songs - 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [isolation\_](https://open.spotify.com/track/4f9Q0bMKeTB0AEx3Yn49db) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [why are you here](https://open.spotify.com/album/53b8jXxxkUZcdGrZWIRwjI) | 2:48 |
-| 2 | [So Long](https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [So Long](https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz) | 4:15 |
-| 3 | [Desperate Measure \- Lyric version](https://open.spotify.com/track/0qnQCqmFLJq5rUcdUYuWUM) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [Desperate Measure \(Lyric version\)](https://open.spotify.com/album/3UXv2WMg45XUruZYloSLqJ) | 3:48 |
+| 1 | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH) | 3:25 |
+| 2 | [isolation\_](https://open.spotify.com/track/4f9Q0bMKeTB0AEx3Yn49db) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [why are you here](https://open.spotify.com/album/53b8jXxxkUZcdGrZWIRwjI) | 2:48 |
+| 3 | [So Long](https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [So Long](https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz) | 4:15 |
 | 4 | [NI4NI](https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [NI4NI](https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF) | 4:12 |
 | 5 | [anything4u](https://open.spotify.com/track/10ovr4LpA0ZP7yYoNmhKuP) | [mayflowers](https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z) | [anything4u](https://open.spotify.com/album/4uqZBwMo4q1FZE1FaxxGhp) | 3:30 |
 | 6 | [PTSU](https://open.spotify.com/track/2GCFtDFjaIHq7eKZKTZ4eU) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PTSU](https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB) | 2:59 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 359 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 360 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFHjy1wy+upmTTDPZNk+7PTEPw7vHv`
+Snapshot ID: `AAAFIJMAiZZFlq5U3OlEwrKTqhHBv2Ey`

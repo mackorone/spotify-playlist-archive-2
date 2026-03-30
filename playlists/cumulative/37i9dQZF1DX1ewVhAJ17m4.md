@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Free Throw
 
-556 songs - 1 day 3 hr 51 min
+557 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 | 2025-06-23 | 2026-02-21 |
 | [Better Man](https://open.spotify.com/track/4s9FAw4DbvTZUdQsnU2ctB) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Better Man](https://open.spotify.com/album/35ag9Wdq7LC3JyMZVVbxK1) | 2:33 | 2025-02-21 | 2025-06-15 |
+| [Bexy](https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Bexy](https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV) | 1:50 | 2026-03-27 |  |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-10 |  |
 | [Birthright](https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Birthright](https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ) | 3:05 | 2022-10-13 | 2023-01-26 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-20 | 2022-07-29 |
@@ -308,7 +309,7 @@
 | [Low](https://open.spotify.com/track/4641mOGXY28NtlxA6D71cV) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Low](https://open.spotify.com/album/1bhl6OKLF4J64oFQZ7pqFP) | 2:49 | 2025-05-15 | 2026-03-28 |
 | [Low Tide](https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Low Tide](https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV) | 3:37 | 2022-09-09 | 2023-06-21 |
 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 | 2023-10-19 | 2024-07-14 |
-| [magnet](https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [MOON](https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB) | 2:46 | 2025-02-21 |  |
+| [magnet](https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [MOON](https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB) | 2:46 | 2025-02-21 | 2026-03-30 |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-14 |  |
 | [Make Your Way Back To Me](https://open.spotify.com/track/4rm0AaSomwKARe8tWmZa8X) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Make Your Way Back To Me](https://open.spotify.com/album/4QieEdPgit5CHB4DG5z8C5) | 3:30 | 2024-08-14 | 2024-09-07 |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-07-06 |  |

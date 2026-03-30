@@ -59,6 +59,32 @@
     },
     {
       "album": {
+        "name": "Classic Shit (feat. Darryl J)",
+        "url": "https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD"
+      },
+      "artists": [
+        {
+          "name": "BANKKNOT P",
+          "url": "https://open.spotify.com/artist/6q2uYmU6O2kWPZGZRQYKpv"
+        },
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        },
+        {
+          "name": "Darryl J",
+          "url": "https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Classic Shit (feat. Darryl J)",
+      "url": "https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk"
+    },
+    {
+      "album": {
         "name": "Everlasting: The Best Of Carl Carlton",
         "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
       },

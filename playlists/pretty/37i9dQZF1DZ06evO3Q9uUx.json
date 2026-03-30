@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15972,
+  "num_followers": 15975,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADd6aTiTss+g8tvCF4P8Vu0",
+  "snapshot_id": "accaAAAAAADFBwRh2epA0Ot2QLAyj7Nc",
   "tracks": [
     {
       "added_at": null,
@@ -272,7 +272,7 @@
       "added_at": null,
       "album": {
         "name": "USB",
-        "url": "https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX"
+        "url": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo"
       },
       "artists": [
         {
@@ -286,7 +286,7 @@
       ],
       "duration_ms": 232727,
       "name": "ICEY..",
-      "url": "https://open.spotify.com/track/5LGabrBNxzNvyJNyF9mndz"
+      "url": "https://open.spotify.com/track/2lzWxjcHX7RibjHX9UE5lN"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy What U Want",
-        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
-      },
-      "artists": [
-        {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 227669,
-      "name": "Buy What U Want",
-      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIRTHDAY BEHAVIOR",
         "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 197461,
       "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
       "url": "https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy What U Want",
+        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
+      },
+      "artists": [
+        {
+          "name": "Black Fortune",
+          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 227669,
+      "name": "Buy What U Want",
+      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
     },
     {
       "added_at": null,

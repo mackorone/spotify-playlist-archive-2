@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Central Cee, Yeat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,742 likes - 59 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,841 likes - 59 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

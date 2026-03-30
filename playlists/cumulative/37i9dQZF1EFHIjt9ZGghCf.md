@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 19 hr 6 min
+183 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Grateful](https://open.spotify.com/track/6sem2CC8ZtzgWCDhyw58a2) | [Falcon](https://open.spotify.com/artist/1CyTHAIIX3WyRdFwkz0vnb) | [Nova](https://open.spotify.com/album/3OsuGDfJXeBFUUlYCtkjpq) | 3:33 | 2024-06-11 | 2025-12-18 |
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-06-11 | 2024-07-14 |
 | [Gratitude](https://open.spotify.com/track/4VI7berVSzuaBt1BGrBksC) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 5:37 | 2024-07-13 |  |
+| [Gratitude + Great Are You Lord \(A Worship Medley\)](https://open.spotify.com/track/61J5caseGEBm3IB5kpjBmj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Church Moments](https://open.spotify.com/album/2RTlVdXyZEVDEzVZY8e4W2) | 5:25 | 2026-03-29 |  |
 | [Gratitude / Great are you Lord \- Acoustic Version](https://open.spotify.com/track/2bHImes7aOp7CffOyONwgt) | [Chris Boanca](https://open.spotify.com/artist/3pfHfCgK6aaRcvvUWd5CTV), [Philip Steele](https://open.spotify.com/artist/7aRu5nCQ1nEwuMHMfUzOfx) | [Gratitude / Great are you Lord \(Acoustic Version\)](https://open.spotify.com/album/47jNGrqApx1ygBLKmzcJGQ) | 5:55 | 2025-02-19 |  |
 | [Gratitude / Worthy of it All / You’re Worthy of My Praise \(feat\. Brandon Lake, Natalie Grant & Mav City Gospel Choir\)](https://open.spotify.com/track/0KWGmjdgmpuovXuwWDrDt4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 13:12 | 2024-06-11 |  |
 | [Have Your Way](https://open.spotify.com/track/1YgJuNin4wrjCO8YMvpUJx) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 5:20 | 2024-06-11 | 2025-02-28 |

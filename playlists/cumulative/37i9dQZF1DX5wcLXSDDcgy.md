@@ -4,7 +4,7 @@
 
 > This Is Agust D\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 32 min
+50 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [so far away \(Feat\. SURAN\)](https://open.spotify.com/track/2FviiM1DSKfJSRxMV5TD9w) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 5:58 | 2023-05-11 | 2024-04-19 |
 | [Strange \(feat\. RM\)](https://open.spotify.com/track/5sF4GOOSRELn8zn6DDGzUP) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:16 | 2023-05-11 | 2024-04-19 |
 | [Strange \(feat\. RM\)](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:16 | 2023-04-04 |  |
+| [SWIM with SUGA \(Melodic Techno Remix\)](https://open.spotify.com/track/5AL5OrvyIMPqKjl9iw3xO5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:39 | 2026-03-30 |  |
 | [The Last](https://open.spotify.com/track/2FUZnIf0LasXgvXMewJ0lO) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 4:05 | 2023-05-11 | 2024-04-19 |
 | [The Last](https://open.spotify.com/track/5GPiG4vIuDfYus1gRcXEok) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 4:05 | 2023-04-04 |  |
 | [Tony Montana](https://open.spotify.com/track/2EIxlkSRyejFdD2Rp1Mmza) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [Yankie](https://open.spotify.com/artist/3EuteIwWAP4mLq0kvLML99) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 3:27 | 2023-04-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 74399,
+  "num_followers": 74403,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
       "artists": [
         {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Whole Again",
-      "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
+      "duration_ms": 262693,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -967,6 +951,22 @@
       "duration_ms": 288360,
       "name": "I Don't Feel Like Dancin'",
       "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
+      },
+      "artists": [
+        {
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "If Tomorrow Never Comes",
-      "url": "https://open.spotify.com/track/7tbJozWewwmFvTkXCUFtt0"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Atomic Kitten",
         "url": "https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 205360,
       "name": "The Tide Is High - Radio Mix",
       "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "If Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/7tbJozWewwmFvTkXCUFtt0"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "When Love Takes Over",
         "url": "https://open.spotify.com/album/27255AeNTU1KuApN9KjmjM"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 189000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0"
-      },
-      "artists": [
-        {
-          "name": "Twarres",
-          "url": "https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "W\u00ear Bisto",
-      "url": "https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Some Things",
         "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 220973,
       "name": "Something",
       "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0"
+      },
+      "artists": [
+        {
+          "name": "Twarres",
+          "url": "https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "W\u00ear Bisto",
+      "url": "https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK"
     },
     {
       "added_at": "2024-07-19 06:48:03",

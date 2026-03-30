@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "Recipe for a Boiled Egg",
+        "url": "https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342327,
+      "name": "Rich, Sticky, Sweet",
+      "url": "https://open.spotify.com/track/434fNClMan2sL4bZ26Iw2Z"
+    },
+    {
+      "album": {
         "name": "Too Small to be a Plain",
         "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
       },

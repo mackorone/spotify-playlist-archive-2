@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 685 likes - 75 songs - 4 hr 13 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 687 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 73 | [Where Did The Time Go ?](https://open.spotify.com/track/54fj963AplMqKDMKX5KxTR) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Where Did The Time Go ?](https://open.spotify.com/album/5HsFc733bwG90PUlCPjPR4) | 3:26 |
 | 74 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 |
 | 75 | [Where Did The Time Go ?](https://open.spotify.com/track/54fj963AplMqKDMKX5KxTR) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Where Did The Time Go ?](https://open.spotify.com/album/5HsFc733bwG90PUlCPjPR4) | 3:26 |
+| 76 | [Horizon](https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ) | [Echoeswave](https://open.spotify.com/artist/1MtZxcUYya2yS1cpJaFJ0P) | [Horizon](https://open.spotify.com/album/344uJUD7uj9Ps7VB4G2mgC) | 3:27 |
 
-Snapshot ID: `AAADVe+TYEsw0GcqNaQGoy+sas/rXyKa`
+Snapshot ID: `AAADVpByWBV6gRJSewMQfS4hSeH5L/4O`

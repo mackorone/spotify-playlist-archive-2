@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Kyle Alessandro, Robyn,  Delara og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,919 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,920 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 86 | [Cykla berusad](https://open.spotify.com/track/4RINCo71l5Q3Hx7pcOvGlk) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Cykla berusad](https://open.spotify.com/album/1gHlYnFJvzv1Vtlqfd4mjc) | 2:32 |
 | 87 | [ALL THE TIME](https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [ALL THE TIME](https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy) | 3:00 |
 | 88 | [Nikotin](https://open.spotify.com/track/4UCOYE2I5owZn6CnmXQOG7) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Nikotin](https://open.spotify.com/album/2g2ExRNo04LVH9JL049Nol) | 3:06 |
-| 89 | [Monster](https://open.spotify.com/track/5VxCXBvDl8byML2S94gONF) | [C · AYA](https://open.spotify.com/artist/0QsR24G5WuiuAAELd3OCgy) | [Monster](https://open.spotify.com/album/6DsypUMZXSne7mtHBsaGGp) | 2:33 |
+| 89 | [monster](https://open.spotify.com/track/5VxCXBvDl8byML2S94gONF) | [C · AYA](https://open.spotify.com/artist/0QsR24G5WuiuAAELd3OCgy) | [monster](https://open.spotify.com/album/6DsypUMZXSne7mtHBsaGGp) | 2:33 |
 | 90 | [Figure It Out](https://open.spotify.com/track/41UdmMzDehvDU2gaay1szc) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Figure It Out](https://open.spotify.com/album/7aPh2nzGGO28rCuQaehYr0) | 2:35 |
 | 91 | [Guard Down](https://open.spotify.com/track/3mRTdzBfOa5tXcONfrgoZp) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Guard Down](https://open.spotify.com/album/0lRL3oJ5BJqmpNeO26AmRM) | 2:30 |
 | 92 | [Lakkegata](https://open.spotify.com/track/5cCKQN9meOUcvzSE42uLxJ) | [Hantropa](https://open.spotify.com/artist/3OU1ziw5lO6Mr1y6myhQFz) | [Lakkegata](https://open.spotify.com/album/2OLb55PHVGoAmcNUkf86bR) | 3:08 |

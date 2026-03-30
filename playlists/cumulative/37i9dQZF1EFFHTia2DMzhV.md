@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-158 songs - 8 hr 40 min
+159 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [My Favorite Things](https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 2:20 | 2024-07-26 |  |
 | [My Girl Back Home](https://open.spotify.com/track/51olew3lXYIWqsNxeYUizR) | [Lt\. Cable](https://open.spotify.com/artist/4a65sNLFtwrbOHN3DNPnX5), [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:40 | 2024-07-26 |  |
 | [My Lord And Master](https://open.spotify.com/track/2WIdd3pjdZ8wwGghGIZtPJ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:11 | 2024-07-26 |  |
+| [Oh What A Beautiful Morning](https://open.spotify.com/track/4krFvyefk8icsBJAEngopi) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Pure Imagination \-the hit covers collection\-](https://open.spotify.com/album/48ITEThElRGDGqMPyWg0lT) | 2:05 | 2026-03-29 |  |
 | [Oh, What a Beautiful Mornin' \- Oklahoma!, 1955](https://open.spotify.com/track/37ZAXJkdunm9ABV99fnWuN) | [Fred zinnemann](https://open.spotify.com/artist/2Arv9WHiEGyxyMblCt9FD9), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [Best FRED ZINNEMANN Movie Themes](https://open.spotify.com/album/2ouUKPPIQUyDysNQrQZCVE) | 2:32 | 2025-08-22 |  |
 | [Oh, What A Beautiful Morning](https://open.spotify.com/track/6VPgRpaWOXuDRMJmTfWork) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [High on a Windy Hill \- The Great Hit Sounds of Gordon MacRae](https://open.spotify.com/album/7lzZymH9tZtwicEGXZVnoA) | 2:35 | 2024-07-26 | 2025-08-23 |
 | [Oklahoma \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/4VdZPkoW0cNrhZHK7Xhh3m) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 3:16 | 2025-11-03 |  |

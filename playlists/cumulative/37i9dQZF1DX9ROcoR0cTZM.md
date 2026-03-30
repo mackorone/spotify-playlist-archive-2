@@ -4,7 +4,7 @@
 
 > Are you 'Happy' with Jin? 💜
 
-35 songs - 1 hr 41 min
+36 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Running Wild \(Instrumental\)](https://open.spotify.com/track/3WBkiZRpmyDBXIHi0o4xjK) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:31 | 2024-11-20 |  |
 | [Running Wild \(UK Garage Remix\)](https://open.spotify.com/track/0K0lpwTATjvexmWWVURaZP) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:42 | 2024-11-20 |  |
 | [Super Tuna](https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT) | 1:54 | 2024-11-15 |  |
+| [SWIM with Jin \(Alternative Rock Remix\)](https://open.spotify.com/track/5dZLsPskKzph16LWo31uxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:13 | 2026-03-30 |  |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2024-11-15 |  |
 | [This Is Jin \- Intro](https://open.spotify.com/track/49JqqzD3qEcyUy0FIcyUao) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [This Is Jin \- Audio Liner](https://open.spotify.com/album/5olFX9UHaONUdMvR1VxUuf) | 0:19 | 2024-11-15 |  |
 | [To Me, Today](https://open.spotify.com/track/3f7rVNaBNocDLtPmnds9eE) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:01 | 2025-05-16 |  |

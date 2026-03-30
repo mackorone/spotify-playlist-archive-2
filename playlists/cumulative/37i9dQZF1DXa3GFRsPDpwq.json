@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "KEEP SWIMMING",
+        "url": "https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "SWIM with RM (Chill Hip Hop Remix)",
+      "url": "https://open.spotify.com/track/7EytKcb3klVPpN5IW1sj1Y"
+    },
+    {
+      "album": {
         "name": "Drunken Tiger X: Rebirth of Tiger Jk",
         "url": "https://open.spotify.com/album/0dSDs3V1AH4jANHJueedGV"
       },

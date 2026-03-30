@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 218453,
       "name": "Death Is Even More Terrifying",
       "url": "https://open.spotify.com/track/2NmO9Re21YdfqIUqxKItfI"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 205250,
       "name": "Detached",
       "url": "https://open.spotify.com/track/6W6ktN80W3pwJ6AlD424xg"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 282551,
       "name": "For Now (feat. Emily Gray)",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -4964,7 +4964,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 167000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/77xe4sZAX1YmDREwxDfpcI"
@@ -5234,7 +5234,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 318634,
       "name": "Me vs You",
       "url": "https://open.spotify.com/track/7syrqaq98tcJGwSgCEOs60"
@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 213937,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/4OIDgQifs1MGAsjeFNnF6R"
@@ -6238,7 +6238,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 254117,
       "name": "Politics of Love",
       "url": "https://open.spotify.com/track/6WxM7FGGsL2CZvgZEXmGzw"
@@ -6260,7 +6260,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 309020,
       "name": "Porcelain - Black Remix",
       "url": "https://open.spotify.com/track/4AkRx8vmUX3JLOkPtMXE0t"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -6340,7 +6340,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Primary",
       "url": "https://open.spotify.com/track/50UnLkGHxZzbwsoocDKdhd"
@@ -6687,6 +6687,24 @@
     },
     {
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/0xDBnRgtcgjnpsBqls0ZsF"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186549,
+      "name": "Robey Ven",
+      "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
+    },
+    {
+      "album": {
         "name": "To Die Like a God",
         "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
       },
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 144000,
       "name": "Sanguine",
       "url": "https://open.spotify.com/track/7rARuszC0Pa239vUm2JZoV"
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -7912,7 +7930,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "Sugar Baby",
       "url": "https://open.spotify.com/track/6ZtLXd2xnNKVmU3I9OCKJ3"
@@ -7988,6 +8006,28 @@
       "duration_ms": 259146,
       "name": "Suspirium",
       "url": "https://open.spotify.com/track/0rPpW88Hr3Z1h6Y4bhwrD9"
+    },
+    {
+      "album": {
+        "name": "SPIRITUALIZER",
+        "url": "https://open.spotify.com/album/3HGcC4VGQbig4r8DgpWgO9"
+      },
+      "artists": [
+        {
+          "name": "Red Industrie",
+          "url": "https://open.spotify.com/artist/0xa7WZBynbvyibscm06jbs"
+        },
+        {
+          "name": "Sara Noxx",
+          "url": "https://open.spotify.com/artist/7f4A7MBsvMkeAGUBU8YDyy"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240744,
+      "name": "Sweet Nightmare",
+      "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
     },
     {
       "album": {
@@ -8086,7 +8126,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 250000,
       "name": "Tear The Cloth",
       "url": "https://open.spotify.com/track/2jyiFUGacxnvwlpVRIVGnV"
@@ -8206,7 +8246,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 208993,
       "name": "The Crushed",
       "url": "https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo"
@@ -8242,7 +8282,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 257309,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/1USFHPbSX1xxLcmvdCkwDi"
@@ -9810,6 +9850,24 @@
       "duration_ms": 154706,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/5Ga5LWxZDuvrVT0jnL13oe"
+    },
+    {
+      "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/78T7Zjbvy9SfC2fyduBvdt"
+      },
+      "artists": [
+        {
+          "name": "Desperate Journalist",
+          "url": "https://open.spotify.com/artist/3bQOdXdA0JLHAVHavCMqs8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/7t2RSXQcekvzIrMOEuFSlJ"
     },
     {
       "album": {

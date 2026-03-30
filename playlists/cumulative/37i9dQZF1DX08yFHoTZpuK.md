@@ -4,11 +4,11 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-79 songs - 5 hr 34 min
+80 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 | 2026-02-10 |  |
+| [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 | 2026-02-10 | 2026-03-30 |
 | [Baiu mirage \- Risa Taniguchi Remix](https://open.spotify.com/track/2flDw7wtTynOUH4kSY5gfQ) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [TIMER](https://open.spotify.com/artist/2GxhgZGDysB1Q0l75SgViY), [SHIHAL](https://open.spotify.com/artist/4sYuxxYvMAQxfXpTNK0EZP), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Baiu mirage \(Risa Taniguchi Remix\)](https://open.spotify.com/album/6Fgpvb7eVxGrsxAekAgkzB) | 5:53 | 2025-11-07 | 2026-03-09 |
 | [Beautiful Moment \- Original Floor Mix](https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Christa](https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp) | [Republica Cafe Gold \(Compiled by Marco Fullone\)](https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy) | 5:26 | 2025-10-24 | 2025-12-01 |
 | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC) | 4:53 | 2026-02-10 | 2026-03-22 |
@@ -68,6 +68,7 @@
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2025-10-24 |  |
 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 | 2025-10-24 |  |
 | [Sunset Girls](https://open.spotify.com/track/4IH5Ner6ZZw7kY8u0OrG3z) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [Summer Cutz](https://open.spotify.com/album/4h3n3omyc1zrm5ZZJHJGie) | 3:42 | 2025-10-24 | 2026-01-24 |
+| [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 | 2026-03-25 |  |
 | [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 | 2025-10-24 | 2026-03-26 |
 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 | 2025-10-24 |  |
 | [The Endless Lovers \- Pasocom Music Club Remix](https://open.spotify.com/track/53tuINhmAtikGpXPmNlUQO) | [CHERRYBOY FUNCTION](https://open.spotify.com/artist/5XekZo5tIoBmrTb0dsEXx0), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [suggested function EP\#5](https://open.spotify.com/album/06hsjkU7SE0WktfQskjDPX) | 5:54 | 2025-10-24 | 2025-11-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,607 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,657 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 21 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 |
 | 22 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [MIXTAPE \- BIG G](https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3) | 2:57 |
 | 23 | [SET DO JAPA NK 2.0](https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [SET DO JAPA NK 2.0](https://open.spotify.com/album/0IJNesGOY68YOquXRgGENh) | 8:38 |
-| 24 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia](https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX) | 2:42 |
+| 24 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6tUdNbB9aYbX0sUDXOzX1u) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia Vol\. 02](https://open.spotify.com/album/2gbsDRJhXlBr23ab9O95c9) | 2:42 |
 | 25 | [Assunto Que Dói](https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:46 |
 | 26 | [Ignora \(Ao Vivo\)](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
 | 27 | [One More Night](https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Lembrei de Tu](https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Lembrei de Tu](https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq) | 2:53 |
 | 50 | [Saudade do Carai](https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Saudade do Carai](https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn) | 2:50 |
 
-Snapshot ID: `MVs/cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVyQ8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

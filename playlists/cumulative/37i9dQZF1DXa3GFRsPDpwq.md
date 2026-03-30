@@ -4,7 +4,7 @@
 
 > This is Rkive of RM 💜
 
-69 songs - 3 hr 58 min
+70 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 | 2025-05-08 |  |
 | [Strange \(feat\. RM\)](https://open.spotify.com/track/5sF4GOOSRELn8zn6DDGzUP) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:16 | 2023-05-22 | 2024-04-19 |
 | [Strange \(feat\. RM\)](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:16 | 2022-12-02 |  |
+| [SWIM with RM \(Chill Hip Hop Remix\)](https://open.spotify.com/track/7EytKcb3klVPpN5IW1sj1Y) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:43 | 2026-03-30 |  |
 | [Timeless](https://open.spotify.com/track/3wRn6i5bOJPAUg9trFSRCN) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Drunken Tiger X: Rebirth of Tiger Jk](https://open.spotify.com/album/0dSDs3V1AH4jANHJueedGV) | 3:35 | 2022-12-02 |  |
 | [tokyo](https://open.spotify.com/track/2YCTRzLwXgiNvbod8xuCHl) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb) | 3:28 | 2022-12-06 | 2024-04-19 |
 | [tokyo](https://open.spotify.com/track/3RvScmBWbdbnOVMF6FMcXI) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:28 | 2022-12-02 |  |

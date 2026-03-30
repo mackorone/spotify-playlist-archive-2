@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "a plumber",
+        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209774,
+      "name": "a plumber",
+      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
+    },
+    {
+      "album": {
         "name": "a song i like to sing",
         "url": "https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT"
       },
@@ -7499,6 +7517,24 @@
     },
     {
       "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC"
+      },
+      "artists": [
+        {
+          "name": "Far East Asian Tigers",
+          "url": "https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254750,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2"
+    },
+    {
+      "album": {
         "name": "Golden Time !",
         "url": "https://open.spotify.com/album/6k102m55xMi1OheH96tfRY"
       },
@@ -8902,7 +8938,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 219125,
       "name": "Humanity Declaration",
       "url": "https://open.spotify.com/track/7884VOACIC4FPBpfbi2mGR"
@@ -10944,7 +10980,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 149449,
       "name": "Krapow",
       "url": "https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC"
@@ -15348,7 +15384,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 216886,
       "name": "Pieces of You",
       "url": "https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu"
@@ -22554,6 +22590,24 @@
       "duration_ms": 381546,
       "name": "Wish - Live",
       "url": "https://open.spotify.com/track/1rQobZf16Gfs5GDSJlGC1L"
+    },
+    {
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/3z1Wf05O960hlh7GBuqm6A"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189970,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE"
     },
     {
       "album": {

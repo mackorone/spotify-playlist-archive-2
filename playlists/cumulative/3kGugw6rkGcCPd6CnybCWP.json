@@ -3033,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Pushing Forty",
+        "url": "https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm"
+      },
+      "artists": [
+        {
+          "name": "Ellie Heath",
+          "url": "https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188204,
+      "name": "Pushing Forty",
+      "url": "https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP"
+    },
+    {
+      "album": {
         "name": "Rage (Makes Me Feel Pretty)",
         "url": "https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh"
       },
@@ -4342,6 +4360,24 @@
       "duration_ms": 226245,
       "name": "Why",
       "url": "https://open.spotify.com/track/01aVZOmB5sQlkSfi38cgNE"
+    },
+    {
+      "album": {
+        "name": "Spiked Mike & His Blue Dog",
+        "url": "https://open.spotify.com/album/28020YcAnH2zblFJ7EzfVd"
+      },
+      "artists": [
+        {
+          "name": "The Westside",
+          "url": "https://open.spotify.com/artist/7zqIGGncTa8QJFEvxtTAC0"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222953,
+      "name": "Why Are You Always Late?",
+      "url": "https://open.spotify.com/track/1pVb0ycW2iq78WiUZ4K6OW"
     },
     {
       "album": {

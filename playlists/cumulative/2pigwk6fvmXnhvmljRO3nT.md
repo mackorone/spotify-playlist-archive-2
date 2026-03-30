@@ -4,7 +4,7 @@
 
 > 
 
-8,570 songs - 21 day 20 hr 3 min
+8,571 songs - 21 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2458,7 +2458,7 @@
 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2024-12-14 |  |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2026-03-21 |  |
 | [Goal To My SHIP \- 2021 Remastered Version](https://open.spotify.com/track/2fKWWuRVXRt6YRFhnH88EI) | [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE) | [『ウマ娘 プリティーダービー』STARTING GATE 03 \(2021 Remastered Version\)](https://open.spotify.com/album/7z6MDpKepVU9W2WmkzRkC2) | 4:13 | 2025-10-27 |  |
-| [GOCHISO様](https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY) | [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG), [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr), [カツラギエース \(CV\. 藤原夏海\)](https://open.spotify.com/artist/4XGQkF8hcw6jDWULBRUvCo), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD) | [GOCHISO様](https://open.spotify.com/album/1MOckS48Hgg5Leoyh3OFLw) | 3:18 | 2026-03-04 | 2026-03-22 |
+| [GOCHISO様](https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY) | [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG), [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr), [カツラギエース \(CV\. 藤原夏海\)](https://open.spotify.com/artist/4XGQkF8hcw6jDWULBRUvCo), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD) | [GOCHISO様](https://open.spotify.com/album/1MOckS48Hgg5Leoyh3OFLw) | 3:18 | 2026-03-04 |  |
 | [God Help Me](https://open.spotify.com/track/2WENGOCeE22o5G9tfvAw8K) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 4:23 | 2025-01-03 |  |
 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 | 2025-07-25 |  |
 | [God Is Fair, Sexy Nasty \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6hzbRKhJHo6cfCHSnNaDS8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:20 | 2025-01-04 |  |
@@ -4050,6 +4050,7 @@
 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 | 2025-01-03 |  |
 | [Manchester](https://open.spotify.com/track/0B7dpDSkwLok2I2B8aaNyh) | [J.A.M](https://open.spotify.com/artist/4M8axty6zg4UWKoagjZjwi) | [Silent Notes](https://open.spotify.com/album/4VB1nRECM3bkSU6QxLRsdK) | 5:55 | 2025-03-25 |  |
 | [Maneater](https://open.spotify.com/track/4aKIs5t9TqP59btlCGPrgw) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/5nDQAU3K52JimAaShsZoSn) | 4:31 | 2024-12-27 |  |
+| [MANIAC](https://open.spotify.com/track/35ZccqI4iHVR0puhGc1u0U) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/0QMR5pNGuNu4ao6v7ux9Yt) | 3:15 | 2026-03-29 |  |
 | [Manifest Content of Dream](https://open.spotify.com/track/4rYMuuLsYBdJjIEK64kdvs) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 1\) \[Original Game Soundtrack\]](https://open.spotify.com/album/1kh5E8u7JurLf7RnuyAIFg) | 1:32 | 2025-08-11 |  |
 | [Manito](https://open.spotify.com/track/7oubiaqVBOGd91g7Qlx8jv) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 3:15 | 2025-01-15 |  |
 | [Mannequin \(feat\. Lil Tjay\)](https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:40 | 2025-01-15 |  |

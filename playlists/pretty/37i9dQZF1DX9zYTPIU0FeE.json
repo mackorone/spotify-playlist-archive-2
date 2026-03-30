@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 13134,
+  "num_followers": 13150,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Reawakening",
-        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        },
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        }
-      ],
-      "duration_ms": 449112,
-      "name": "A Fallist's Prayer",
-      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "Come Home (feat. Filah Lah Lah)",
         "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Our People",
         "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
       },
@@ -519,42 +519,6 @@
       "duration_ms": 199480,
       "name": "Our People",
       "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 311750,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "kulungile",
-        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        }
-      ],
-      "duration_ms": 346924,
-      "name": "kulungile",
-      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -583,6 +547,26 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 346924,
+      "name": "kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 311750,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 210666,
       "name": "Bawo Ndi Xolele (Hymn)",
       "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -655,6 +635,26 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -715,6 +715,30 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "ZINZA",
+        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+      },
+      "artists": [
+        {
+          "name": "BandaBanda",
+          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Sombhuluka",
+      "url": "https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "Homecoming (Part 1) [Revisited]",
         "url": "https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 371396,
       "name": "Homecoming (Part 1) - Revisited",
       "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
-      },
-      "artists": [
-        {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        },
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Sombhuluka",
-      "url": "https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -799,70 +799,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Njia",
-        "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
-      },
-      "artists": [
-        {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
-        },
-        {
-          "name": "Jonno Sweetman",
-          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
-        },
-        {
-          "name": "Gontse Makhene",
-          "url": "https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD"
-        },
-        {
-          "name": "Micca Manganye",
-          "url": "https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae"
-        }
-      ],
-      "duration_ms": 113750,
-      "name": "Njia",
-      "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "Born Coloured, not Born-Free",
-        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Jephta",
-          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
-        }
-      ],
-      "duration_ms": 334300,
-      "name": "Gadija (Pt. 1)",
-      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
-      },
-      "artists": [
-        {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
         "url": "https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle"
       },
@@ -891,6 +827,42 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "ZINZA",
+        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+      },
+      "artists": [
+        {
+          "name": "BandaBanda",
+          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Ngeke!",
+      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Born Coloured, not Born-Free",
+        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "duration_ms": 334300,
+      "name": "Gadija (Pt. 1)",
+      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
@@ -903,6 +875,58 @@
       "duration_ms": 236202,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Njia",
+        "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
+      },
+      "artists": [
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        },
+        {
+          "name": "Jonno Sweetman",
+          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
+        },
+        {
+          "name": "Gontse Makhene",
+          "url": "https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD"
+        },
+        {
+          "name": "Micca Manganye",
+          "url": "https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae"
+        }
+      ],
+      "duration_ms": 113750,
+      "name": "Njia",
+      "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
+        }
+      ],
+      "duration_ms": 416493,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -971,30 +995,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jacomo Bairos",
-          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
-        }
-      ],
-      "duration_ms": 416493,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "MaBrrrrrrrrr",
         "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
       },
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Mbuluzi / the flute song",
-        "url": "https://open.spotify.com/album/791LOrITeMAMdpIG6RFnC9"
-      },
-      "artists": [
-        {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
-        },
-        {
-          "name": "Cara Stacey",
-          "url": "https://open.spotify.com/artist/61wW94ACljX2jsBnRP9uCR"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Mbuluzi / the flute song",
-      "url": "https://open.spotify.com/track/5w5sZ3vPzXgbGiNfLeBSY1"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Apho Kungenje",
         "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 413906,
       "name": "Ebhedini",
       "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Mbuluzi / the flute song",
+        "url": "https://open.spotify.com/album/791LOrITeMAMdpIG6RFnC9"
+      },
+      "artists": [
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        },
+        {
+          "name": "Cara Stacey",
+          "url": "https://open.spotify.com/artist/61wW94ACljX2jsBnRP9uCR"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Mbuluzi / the flute song",
+      "url": "https://open.spotify.com/track/5w5sZ3vPzXgbGiNfLeBSY1"
     },
     {
       "added_at": "2026-03-13 08:01:55",

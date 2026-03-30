@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-251 songs - 14 hr 34 min
+253 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/track/2a5P1JUuU4eTizy9pgcYZ7) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/album/0upU91StxEwO874hng87uN) | 2:52 | 2026-03-26 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 | 2026-02-02 | 2026-03-10 |
+| [Pushing Forty](https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm) | 3:08 | 2026-03-29 |  |
 | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/track/7AzxTnwsUBw23TfOKpGk71) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh) | 3:35 | 2025-11-02 | 2026-01-15 |
 | [Raise the Flag](https://open.spotify.com/track/3FPJOKXbHLeHbD82qHGDG5) | [M.E.109](https://open.spotify.com/artist/5O7bcW05QzF1Ixl3uS442D) | [Raise the Flag](https://open.spotify.com/album/4IIemHPTrZXD5qStydTv7d) | 3:40 | 2026-03-28 |  |
 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 | 2026-01-03 | 2026-02-07 |
@@ -246,6 +247,7 @@
 | [When the Smoke Clears](https://open.spotify.com/track/4o4HfCqu4tMpmPMBzILKzF) | [Aviela Sivia](https://open.spotify.com/artist/3rIBjdx8IaKKTLcAPm7VOm) | [When the Smoke Clears](https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR) | 3:25 | 2026-02-18 |  |
 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 | 2026-02-08 | 2026-03-29 |
 | [Why](https://open.spotify.com/track/01aVZOmB5sQlkSfi38cgNE) | [Jordan Fouts](https://open.spotify.com/artist/1uhMgxnye3vSNgs8x3d3B4) | [Nostalgia](https://open.spotify.com/album/0JUaANUSWY4hAh8sbOgU40) | 3:46 | 2026-02-25 |  |
+| [Why Are You Always Late?](https://open.spotify.com/track/1pVb0ycW2iq78WiUZ4K6OW) | [The Westside](https://open.spotify.com/artist/7zqIGGncTa8QJFEvxtTAC0) | [Spiked Mike & His Blue Dog](https://open.spotify.com/album/28020YcAnH2zblFJ7EzfVd) | 3:42 | 2026-03-29 |  |
 | [Why Not Try? \(Chill\)](https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Why Not Try? \(Chill\)](https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs) | 2:36 | 2026-02-07 | 2026-03-10 |
 | [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 | 2026-02-16 |  |
 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 | 2026-02-23 |  |

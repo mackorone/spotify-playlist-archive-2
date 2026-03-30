@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: L\u00e9o Santana",
-  "num_followers": 761013,
+  "num_followers": 761022,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Pela \u00daltima Vez (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 162325,
-      "name": "Pela \u00daltima Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Nem Pagando",
         "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
       },
@@ -363,18 +343,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Tubar\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+        "name": "Pela \u00daltima Vez (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Tubar\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
+      "duration_ms": 162325,
+      "name": "Pela \u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -391,6 +375,22 @@
       "duration_ms": 159480,
       "name": "C\u00f3pia Proibida",
       "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 195794,
-      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
         "url": "https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 144812,
       "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
       "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 137272,
-      "name": "ESCADA DO PR\u00c9DIO",
-      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Arrocha Safad\u00e3o",
         "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 137272,
+      "name": "ESCADA DO PR\u00c9DIO",
+      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -687,30 +687,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "BOTA",
-        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "BOTA",
-      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Me Apaixonei Nessa Morena",
         "url": "https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 171480,
       "name": "Me Apaixonei Nessa Morena",
       "url": "https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "BOTA",
+        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 167528,
+      "name": "Aquele Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 167528,
-      "name": "Aquele Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Vampirinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Vampirinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Medley Mu\u00eddo de Vaquejada - Desce do Cavalo / Balada do Vaqueiro / Monta Logo Vai / Calma / Senta No Fazendeiro / Deixa Ela Montar Na Minha Garupa / Botad\u00e3o Do GW",
         "url": "https://open.spotify.com/album/05yNuhZYZ4LhKyFJYFo5MY"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Me Ama Ou Me Larga (Ao Vivo)",
         "url": "https://open.spotify.com/album/1UkbgOVEnnomwxvclUDYmS"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 148719,
       "name": "Me Ama Ou Me Larga - Ao Vivo",
       "url": "https://open.spotify.com/track/2TSYxcrcrtLpdbsLY9NmzL"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Vampirinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 191439,
+      "name": "Vampirinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -1003,22 +1019,6 @@
       "duration_ms": 158060,
       "name": "Menina",
       "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 180832,
-      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
-      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Obrigado Deus",
-        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 176556,
-      "name": "Cabelo de Sol",
-      "url": "https://open.spotify.com/track/5K71WiSDgJv48q07H7NklJ"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "\u00c9 Tarde Demais / Estou Mal (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 238271,
       "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
       "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 176556,
+      "name": "Cabelo de Sol",
+      "url": "https://open.spotify.com/track/5K71WiSDgJv48q07H7NklJ"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Pared\u00f5es",
-        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 175621,
-      "name": "Pared\u00f5es",
-      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
         "name": "Pega Pega",
         "url": "https://open.spotify.com/album/5hbmDXVfBit3tgCCidiZlx"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 115909,
       "name": "Maravilhosa - Ao Vivo",
       "url": "https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
+        "name": "Pared\u00f5es",
+        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 175621,
+      "name": "Pared\u00f5es",
+      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
     },
     {
       "added_at": "2026-03-27 03:00:30",

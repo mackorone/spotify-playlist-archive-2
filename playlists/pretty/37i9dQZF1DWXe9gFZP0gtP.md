@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855,207 likes - 200 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,855,898 likes - 200 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 199 | [Haven](https://open.spotify.com/track/2QPQ9ClR69KZ6BOacRex9x) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Haven](https://open.spotify.com/album/2SGVjt5HnLpS3fYZndWeOU) | 2:51 |
 | 200 | [Relativity](https://open.spotify.com/track/2xKZonkmVH7RtBpRFQNl9v) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Relativity](https://open.spotify.com/album/3Q5zTHGirQpz4nDJdGB7RD) | 2:46 |
 
-Snapshot ID: `AAAAAAGtZqABpxY27asRZFz3ltzGW9DH`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

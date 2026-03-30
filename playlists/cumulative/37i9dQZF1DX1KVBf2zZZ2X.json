@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 156800,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf"
@@ -4528,6 +4528,24 @@
       "duration_ms": 171305,
       "name": "Scots Pine",
       "url": "https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ"
+      },
+      "artists": [
+        {
+          "name": "Faux Moon",
+          "url": "https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152542,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc"
     },
     {
       "album": {
@@ -5406,7 +5424,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 147200,
       "name": "Thoughts Outside My Window",
       "url": "https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t"
@@ -5680,6 +5698,24 @@
       "duration_ms": 189076,
       "name": "Variations",
       "url": "https://open.spotify.com/track/7rM7Awo7rpVrS7O8egu5Mx"
+    },
+    {
+      "album": {
+        "name": "Veil of Sylva",
+        "url": "https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79"
+      },
+      "artists": [
+        {
+          "name": "Far North",
+          "url": "https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Veil of Sylva",
+      "url": "https://open.spotify.com/track/0deuii5DgfxodJswCQicZb"
     },
     {
       "album": {

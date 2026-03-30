@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 193169,
+  "num_followers": 193178,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Ninja Mental - Unplugged MTV",
-        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Jaguar House",
-      "url": "https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Turf",
         "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 271266,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Ninja Mental - Unplugged MTV",
+        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Jaguar House",
+      "url": "https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Quiero - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Romaphonic Sessions",
         "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 279994,
       "name": "Paloma - Romaphonic",
       "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Quiero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Tributo A Los Fabulosos Cadillacs",
         "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 186984,
       "name": "Eres",
       "url": "https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
-      },
-      "artists": [
-        {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Acuarela",
-      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Superpoder",
-        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
         }
       ],
-      "duration_ms": 144272,
-      "name": "Superpoder",
-      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+      "duration_ms": 242784,
+      "name": "Acuarela",
+      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1167,6 +1151,22 @@
       "duration_ms": 273985,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Superpoder",
+        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 144272,
+      "name": "Superpoder",
+      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Es Broma, En Serio",
-        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Es Broma, En Serio",
-      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "No Estes Triste (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 178000,
       "name": "No Estes Triste - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
     },
     {
       "added_at": "2026-01-23 03:00:06",

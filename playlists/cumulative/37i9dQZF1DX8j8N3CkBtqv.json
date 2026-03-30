@@ -17781,6 +17781,32 @@
     },
     {
       "album": {
+        "name": "Mora Saawan Sookh Gaya",
+        "url": "https://open.spotify.com/album/5tuTRzARSE9KPwNxCpDAnH"
+      },
+      "artists": [
+        {
+          "name": "Nihira Joshi",
+          "url": "https://open.spotify.com/artist/4cSJs8KQW0qPqIEOyXsWix"
+        },
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Mora Saawan Sookh Gaya",
+      "url": "https://open.spotify.com/track/6oDSJGlPT8lLAKAqQ7PKiu"
+    },
+    {
+      "album": {
         "name": "More Sajan",
         "url": "https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN"
       },
@@ -22798,7 +22824,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 173800,
       "name": "Saiyyan Beiman",
       "url": "https://open.spotify.com/track/2qLBYUpdiUwu6UqyADEztY"

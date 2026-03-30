@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211259,
+  "num_followers": 211248,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAACnIa6zG820e/UuNk/eEwAG",
+  "snapshot_id": "accaAAAAAAAAF7qUs4ToXms0zGgnuF5V",
   "tracks": [
     {
       "added_at": null,
@@ -1071,18 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
       },
       "artists": [
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
         }
       ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

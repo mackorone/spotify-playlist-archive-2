@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/7CRolYDXJsl10y3UkJv8jX"
+    },
+    {
+      "album": {
         "name": "Turnaround",
         "url": "https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO"
       },

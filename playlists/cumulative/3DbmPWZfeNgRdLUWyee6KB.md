@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-853 songs - 2 day 2 hr 11 min
+854 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 | 2026-02-28 |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
 | [In the Rain](https://open.spotify.com/track/2UxTpgqN3i6IRuJCNEnBWZ) | [Tyell](https://open.spotify.com/artist/3vn1K9sRLk08d2DV2A6Y2B) | [In the Rain](https://open.spotify.com/album/7dtUQxnDwg3rrQioBDRW0K) | 4:26 | 2026-02-24 | 2026-03-25 |
+| [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 | 2026-03-29 |  |
 | [Indecisa Paixão](https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Indecisa Paixão](https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST) | 3:18 | 2026-02-12 | 2026-03-15 |
 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 | 2026-02-21 | 2026-03-25 |
 | [Inside Out](https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Inside Out](https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi) | 2:30 | 2024-01-28 | 2025-12-28 |

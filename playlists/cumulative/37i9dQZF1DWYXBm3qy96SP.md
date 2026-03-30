@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Courtney Barnett
 
-1,927 songs - 4 day 15 hr 45 min
+1,929 songs - 4 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-11-23 | 2023-12-01 |
 | [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-10-02 | 2025-11-23 |
 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 | 2023-08-18 |
-| [Bloody Eyes](https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Bloody Eyes](https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU) | 2:39 | 2026-01-29 |  |
+| [Bloody Eyes](https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Bloody Eyes](https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU) | 2:39 | 2026-01-29 | 2026-03-30 |
 | [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-03 | 2025-05-16 |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-16 | 2025-07-29 |
 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 | 2023-09-21 | 2023-10-13 |
@@ -1161,7 +1161,7 @@
 | [no\_thing](https://open.spotify.com/track/7Fh3k7xOMQoy2t1d30CowT) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [no\_thing](https://open.spotify.com/album/2IOiijnNO407GV2j6tlyWn) | 3:08 | 2024-06-06 | 2024-07-19 |
 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 | 2023-06-22 | 2023-11-16 |
 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 | 2024-03-04 | 2025-09-19 |
-| [Nobody's Heroes](https://open.spotify.com/track/3OEImZroksYhkQYVV6b8GE) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Nobody's Heroes](https://open.spotify.com/album/6RXmJuQbcIgD2dLSKqtPB7) | 3:39 | 2026-03-12 |  |
+| [Nobody's Heroes](https://open.spotify.com/track/3OEImZroksYhkQYVV6b8GE) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Nobody's Heroes](https://open.spotify.com/album/6RXmJuQbcIgD2dLSKqtPB7) | 3:39 | 2026-03-12 | 2026-03-30 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 | 2025-01-31 |
 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 | 2024-02-29 | 2024-05-03 |
 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 | 2026-03-05 |  |
@@ -1257,6 +1257,7 @@
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-02-29 | 2024-05-24 |
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-02-08 | 2024-02-23 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2023-03-16 | 2023-04-21 |
+| [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 | 2026-03-26 |  |
 | [Pacifico](https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Pacifico](https://open.spotify.com/album/4Uri4Wdt8nLr6ICEpyfsBI) | 3:13 | 2026-03-12 |  |
 | [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-22 | 2024-03-01 |
 | [Pall To The Wall](https://open.spotify.com/track/0BoUmEpU5vKwrx0O7lBHGy) | [Press To Enter](https://open.spotify.com/artist/6D9h9kJWyTNpFhDRY7XWjy) | [From Mirror To Road](https://open.spotify.com/album/5ClicSf9mXsyXzHVP7BDHs) | 5:41 | 2023-12-14 | 2023-12-22 |
@@ -1280,6 +1281,7 @@
 | [perfect feeling](https://open.spotify.com/track/23XZguFmK2fovXqbwSGdCi) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [about time](https://open.spotify.com/album/1CHjDka3l88hNQQtQc3SnQ) | 2:56 | 2024-02-22 | 2024-03-01 |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-20 | 2024-07-12 |
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-17 | 2023-09-22 |
+| [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 | 2026-03-26 |  |
 | [Petroleum](https://open.spotify.com/track/22IHrv0zdTCRwKh3nlqYiD) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Petroleum](https://open.spotify.com/album/3LNsDUxrOFNU1VTP2DF3vz) | 3:39 | 2023-11-30 | 2023-12-08 |
 | [PETTY \(feat\. TiaCorine\)](https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BAD SON](https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf) | 3:06 | 2023-06-22 | 2023-06-30 |
 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-10-31 | 2024-12-13 |

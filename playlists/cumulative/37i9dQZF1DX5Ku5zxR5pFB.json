@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "KEEP SWIMMING",
+        "url": "https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140871,
+      "name": "SWIM with V (Electronic Remix)",
+      "url": "https://open.spotify.com/track/7msJH9xSJP7C7KTo3HM0i2"
+    },
+    {
+      "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
       },

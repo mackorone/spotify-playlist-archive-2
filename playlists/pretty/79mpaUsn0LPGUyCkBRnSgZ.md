@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 698 songs - 1 day 21 hr 32 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 700 songs - 1 day 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -706,5 +706,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 696 | [Summer Babe \- Winter Version](https://open.spotify.com/track/1vnKvlb6cj5NLpd1BMJ2jD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Slanted & Enchanted](https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD) | 3:16 |
 | 697 | [Play Money](https://open.spotify.com/track/0LjZNHcd7ztFKJzm5t0x0T) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Whiteout Conditions](https://open.spotify.com/album/7gSLfnSUAxJRMXhWsz9MYS) | 4:37 |
 | 698 | [Really Real](https://open.spotify.com/track/6xRB2fycu6goQZWumt5zVv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 |
+| 699 | [Ur](https://open.spotify.com/track/7sg9ToL94GAiksETi5GZGz) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:55 |
+| 700 | [Opening Night](https://open.spotify.com/track/7kdgWMeO6IBEvDMbfLYShG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:19 |
 
-Snapshot ID: `AAAI26x8yPvcMHVIY9cUfxmtS26dxanN`
+Snapshot ID: `AAAI3VxR6Subsm92hkYJfyDtthKgj7Ug`

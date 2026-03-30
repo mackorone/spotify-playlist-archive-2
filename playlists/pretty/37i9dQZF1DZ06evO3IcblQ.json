@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36185,
+  "num_followers": 36199,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADRRTmR0m39+Rq3WFneUHaj",
+  "snapshot_id": "accaAAAAAAA1f+NyEDvTOk611kCVWbP+",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE LIVES",
-        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
       "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        },
         {
           "name": "Pennywise",
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 172573,
-      "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
-      "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": null,
@@ -239,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+        "name": "NINE LIVES",
+        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
       "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
         {
           "name": "Pennywise",
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+      "duration_ms": 172573,
+      "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
+      "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Date With Destiny - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
     },
     {
       "added_at": null,
@@ -520,25 +520,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "My God",
-      "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
+      "duration_ms": 175853,
+      "name": "Date With Destiny - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 196026,
       "name": "It's Up To Me - 2005 Remaster",
       "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 131480,
-      "name": "American Lies",
-      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189413,
       "name": "As Long As We Can (Intro)",
       "url": "https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 131480,
+      "name": "American Lies",
+      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
     },
     {
       "added_at": null,

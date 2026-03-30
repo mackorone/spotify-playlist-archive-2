@@ -2257,6 +2257,28 @@
     },
     {
       "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160395,
+      "name": "Alice - LSDXOXO Remix",
+      "url": "https://open.spotify.com/track/050s0Msd1WXkSdG8UjFDEa"
+    },
+    {
+      "album": {
         "name": "Alice in Wonderland",
         "url": "https://open.spotify.com/album/4JXo4nvXKYbUTGbG7md0P8"
       },

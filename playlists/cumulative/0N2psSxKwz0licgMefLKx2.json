@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 243506,
       "name": "Big Ole Fancy House",
       "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 183813,
       "name": "Cowboy Crazy",
       "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
@@ -1446,6 +1446,24 @@
       "duration_ms": 219673,
       "name": "CRZY",
       "url": "https://open.spotify.com/track/2RPYFQOWTtTLiFyuoDwPdA"
+    },
+    {
+      "album": {
+        "name": "Her Rodeo",
+        "url": "https://open.spotify.com/album/0WaztXTUiIN1CS8Ebx4bxe"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170752,
+      "name": "Cut Him Loose",
+      "url": "https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK"
     },
     {
       "album": {
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 151016,
       "name": "Lonely For You",
       "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
@@ -4378,6 +4396,24 @@
       "duration_ms": 193056,
       "name": "Missin You In San Antone",
       "url": "https://open.spotify.com/track/4cWu9xQoWpazNSZ88OAw4d"
+    },
+    {
+      "album": {
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Montgomery County",
+      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
     },
     {
       "album": {
@@ -5539,6 +5575,24 @@
     },
     {
       "album": {
+        "name": "Runnin' On E",
+        "url": "https://open.spotify.com/album/3VGbvxcnoPaVGXp9WKjCVS"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Runnin' On E",
+      "url": "https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh"
+    },
+    {
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
       },
@@ -5876,7 +5930,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 167226,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/6hyTFtcjGipSetWlZyGT2G"
@@ -7662,7 +7716,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 156640,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/4ohvE3g8odEvv3aIZ3T70n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 656 likes - 506 songs - 1 day 0 hr 25 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 658 likes - 506 songs - 1 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -349,7 +349,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 339 | [feel my pain.](https://open.spotify.com/track/2JNBXZevWS0xyPrgj4Kq70) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [feel my pain.](https://open.spotify.com/album/23Aotv7GfUF68IUpGZIp3K) | 2:27 |
 | 340 | [REGGAE, Pt\. 1](https://open.spotify.com/track/6HUpjHrxcdSGxHsjAzSh6S) | [neyoooo FIM Collective FireGuy](https://open.spotify.com/artist/3P2AJtqqXWOPigEquFKooj) | [REGGAE, Pt\. 1](https://open.spotify.com/album/2rT9G5ikVPJNDtxTtUrLOF) | 2:16 |
 | 341 | [MARRAKESH \- Original Mix](https://open.spotify.com/track/5M4D12QFGYWoTqeKKmfAqP) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Flexxed](https://open.spotify.com/artist/3q1SRcJP93o1xjPrsooXVs), [Dorobeats](https://open.spotify.com/artist/7q6ZVdSQOAfbszYceujW0L), [Casap4u](https://open.spotify.com/artist/4sQpni5A9pbu60JL7Tsh54) | [MARRAKESH \(Original Mix\)](https://open.spotify.com/album/1qN3o2ZX0MTxu4PSS94nJR) | 2:27 |
-| 342 | [BIG X \- Official Instrumental](https://open.spotify.com/track/0ZHH3hwFJxcE69dlERYKcA) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [glxzzy](https://open.spotify.com/artist/2To0OkzxRBqUJKNi9Qy3Ep), [Kash coco](https://open.spotify.com/artist/4IgEyjCaFIx7uk3vjDzhQG) | [MOST WANTED \(Official Instrumentals\)](https://open.spotify.com/album/0XfSGKS06F53MBGOcBJTjN) | 2:05 |
+| 342 | [BIG X \- Official Instrumental](https://open.spotify.com/track/0ZHH3hwFJxcE69dlERYKcA) | [neyoooo glxzzy Kash coco](https://open.spotify.com/artist/4ZHhXTdHPZzvKV78U1PQ0G) | [MOST WANTED \(Official Instrumentals\)](https://open.spotify.com/album/0XfSGKS06F53MBGOcBJTjN) | 2:05 |
 | 343 | [Struggling & Strolling](https://open.spotify.com/track/0ZJPoMXTuQ1lHFgPGzBzCy) | [Lullabies For Lovers](https://open.spotify.com/artist/4XVyZvtWtc0GRSTWC3gV1K) | [Struggling & Strolling](https://open.spotify.com/album/4FmGAbxi36T7Mtl3ZjyFoX) | 4:08 |
 | 344 | [her](https://open.spotify.com/track/2KFVxdgdoTFIGNzhK0ebe7) | [ghø$t](https://open.spotify.com/artist/54kqwFR4Bmw72WoSJvzeEh) | [her](https://open.spotify.com/album/0A7Ovby4zmJ7BLfBmVXAXa) | 2:47 |
 | 345 | [Do U Really ?](https://open.spotify.com/track/2n6DPOMf8EIl6HUhYu0Msc) | [Que K](https://open.spotify.com/artist/7dcJm2exRKPpt1j6Pk91ML) | [Do U Really ?](https://open.spotify.com/album/6lQclYpv8SwwwmPQT7qgQI) | 2:51 |

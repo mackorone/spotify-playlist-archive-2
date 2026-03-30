@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,488 songs - 3 day 3 hr 10 min
+1,489 songs - 3 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,7 +599,7 @@
 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-02-01 | 2025-11-06 |
 | [Gözyaşı Rapsodi 3](https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Gözyaşı Rapsodi 3](https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f) | 3:46 | 2022-12-24 | 2022-12-26 |
 | [Göçebe](https://open.spotify.com/track/0wvcfZY5c8B2j0rsqMzWdy) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Göçebe](https://open.spotify.com/album/4QBR6vaCwYHe3PQQKhk4Cu) | 2:49 | 2025-08-09 | 2025-08-13 |
-| [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 | 2025-01-11 |  |
+| [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 | 2025-01-11 | 2026-03-30 |
 | [Gülüşüne Yanıyorum](https://open.spotify.com/track/1u2disQzfl3rUEhfZx35gL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Gülüşüne Yanıyorum](https://open.spotify.com/album/0j819GekftC9QyypkgPlLx) | 2:03 | 2024-01-27 | 2024-03-10 |
 | [Gülşen](https://open.spotify.com/track/6DI8vp0suhomDFI6ItyLzr) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/4Bm0osYvUOWgDRC3vM1Ecy) | 2:26 | 2024-12-26 | 2025-02-01 |
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
@@ -922,6 +922,7 @@
 | [Manolya](https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Manolya](https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb) | 3:05 | 2023-07-08 | 2024-02-10 |
 | [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 | 2025-06-07 | 2025-06-15 |
 | [Maraton](https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Maraton](https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE) | 3:33 | 2025-12-27 |  |
+| [Maraton x 366](https://open.spotify.com/track/6LN3QmXVdmKdqWpHpTqmfI) | [wyborowa lover](https://open.spotify.com/artist/6pXvKvkLzbrF6tjvGaemGY), [carlsberg lover](https://open.spotify.com/artist/4w83euEqop45IfVaLZqVMm) | [Maraton x 366](https://open.spotify.com/album/3vXwOphV4jMN98Jd1twUl3) | 2:42 | 2026-03-29 |  |
 | [Margiela](https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Margiela](https://open.spotify.com/album/4e2mD2qvVzVoA165EzPg5B) | 3:21 | 2023-10-28 | 2024-04-03 |
 | [Marlon Brando](https://open.spotify.com/track/0O2zRCntGYssJk4bGn6dXk) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Marlon Brando](https://open.spotify.com/album/746vxoUmfdqRya2d924CPj) | 3:30 | 2021-05-09 | 2021-05-23 |
 | [Marlon Brando](https://open.spotify.com/track/7ii8zZXL1SvOzQCf0FHGow) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 3:30 | 2021-05-23 | 2021-08-15 |

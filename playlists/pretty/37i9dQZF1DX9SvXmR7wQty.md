@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Statzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,513 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,512 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 24 | [je n'entends plus](https://open.spotify.com/track/45I6Tnlo8gSv3kYKWu4f1c) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [je n'entends plus](https://open.spotify.com/album/7BsHuSyxz1pZ7hDbf8GB5h) | 2:10 |
 | 25 | [Y'a Quoi](https://open.spotify.com/track/1w6kUNvQFldF0bm4WSVVg2) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Y'a Quoi](https://open.spotify.com/album/07R3fl5CTughBLkCiWsz3t) | 2:20 |
 | 26 | [La nuit](https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [La nuit](https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5) | 3:27 |
-| 27 | [Dans une autre cours](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cours](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 |
+| 27 | [Dans une autre cour](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cour](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 |
 | 28 | [JUSTE HUMAINS](https://open.spotify.com/track/5c7p5PmqMtMOq9K5DOJaor) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [JUSTE HUMAINS](https://open.spotify.com/album/6fYW56Gwz8NdWHRCPRedMf) | 3:17 |
 | 29 | [17 ans](https://open.spotify.com/track/0AoSbvUm7GFl4JQgTrFwTZ) | [François Lachance](https://open.spotify.com/artist/65BfMuZOTQn7vQZCXdRUSE) | [17 ans](https://open.spotify.com/album/6bHdnq36ztzJV6Xwh7BwCu) | 3:35 |
 | 30 | [RFD](https://open.spotify.com/track/5vBMjRxBaSHUI6tKE4wXg8) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [RFD](https://open.spotify.com/album/33D7ADHkWncZq0h2mAFqCh) | 2:52 |

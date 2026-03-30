@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fred again.., Jamie T",
-  "num_followers": 42376,
+  "num_followers": 42408,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 173772,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
+    },
+    {
+      "added_at": "2026-03-16 14:30:48",
+      "album": {
         "name": "Say\u014dnara",
         "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
-    },
-    {
-      "added_at": "2026-03-16 14:30:48",
-      "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 173772,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
     },
     {
       "added_at": "2026-03-16 14:30:48",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
+    },
+    {
+      "added_at": "2026-03-16 14:30:48",
+      "album": {
         "name": "Ah Ya",
         "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 253317,
       "name": "Ah Ya",
       "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
-    },
-    {
-      "added_at": "2026-03-16 14:30:48",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
     },
     {
       "added_at": "2026-03-16 14:30:48",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
+    },
+    {
+      "added_at": "2026-03-16 14:30:48",
+      "album": {
         "name": "Soulseek",
         "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 311666,
       "name": "Soulseek",
       "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
-    },
-    {
-      "added_at": "2026-03-16 14:30:48",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
     },
     {
       "added_at": "2026-03-16 14:30:48",

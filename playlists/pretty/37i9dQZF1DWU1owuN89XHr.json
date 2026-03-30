@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296324,
+  "num_followers": 296332,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 172466,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
-      },
-      "artists": [
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 185617,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "No Lo Van a Impedir",
         "url": "https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 208466,
       "name": "Hacerte venir",
       "url": "https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
+      },
+      "artists": [
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+        }
+      ],
+      "duration_ms": 185617,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
-    },
-    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -915,6 +899,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 212481,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 280000,
       "name": "Norte",
       "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Evolucion",
-        "url": "https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW"
-      },
-      "artists": [
-        {
-          "name": "Sara Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Su Nombre Es Pueblo",
-      "url": "https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D"
     },
     {
       "added_at": "2023-08-01 14:42:56",
@@ -963,18 +947,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+        "name": "Evolucion",
+        "url": "https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW"
       },
       "artists": [
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Sara Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R"
         }
       ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+      "duration_ms": 281000,
+      "name": "Su Nombre Es Pueblo",
+      "url": "https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -995,6 +979,22 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Silvio",
-        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Qui\u00e9n Fuera",
-      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
-    },
-    {
       "added_at": "2022-01-11 03:05:13",
       "album": {
         "name": "30 A\u00f1os",
@@ -1083,6 +1067,22 @@
       "duration_ms": 280893,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Silvio",
+        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Ser\u00e1 Posible El Sur?",
         "url": "https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 290666,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Adivinanza",
-        "url": "https://open.spotify.com/album/3rlFptmri4KCKaniDoJpqX"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 137667,
-      "name": "La Adivinanza",
-      "url": "https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "De Carne y Hueso",
         "url": "https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 261493,
       "name": "Kil\u00f3metros de Cielo",
       "url": "https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Adivinanza",
+        "url": "https://open.spotify.com/album/3rlFptmri4KCKaniDoJpqX"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 137667,
+      "name": "La Adivinanza",
+      "url": "https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Primer Amor",
-        "url": "https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "El Primer Amor",
-      "url": "https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Guapa",
         "url": "https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 285289,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "El Primer Amor",
+        "url": "https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "El Primer Amor",
+      "url": "https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "A mi lado",
         "url": "https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 239717,
       "name": "A mi lado",
       "url": "https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
     },
     {
       "added_at": "2021-10-26 03:29:04",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Todos los ojos te miran",
-        "url": "https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 253323,
-      "name": "Todos los ojos te miran (feat. Chico Buarque)",
-      "url": "https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Ox\u00edgeno",
         "url": "https://open.spotify.com/album/4X6HawmqhHshwuBPuikoPa"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 266329,
       "name": "Ox\u00edgeno",
       "url": "https://open.spotify.com/track/4EKrkdIoEw7ki9VdODozi9"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Todos los ojos te miran",
+        "url": "https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "Todos los ojos te miran (feat. Chico Buarque)",
+      "url": "https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Quiero Cantar",
-        "url": "https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Tan Distintos (A Duo Con Edgar Oceransky)",
-      "url": "https://open.spotify.com/track/74F1KIP295hdmD2pAMySo9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Juro",
         "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 222783,
       "name": "Juro",
       "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Quiero Cantar",
+        "url": "https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Tan Distintos (A Duo Con Edgar Oceransky)",
+      "url": "https://open.spotify.com/track/74F1KIP295hdmD2pAMySo9"
     },
     {
       "added_at": "2021-07-29 16:46:05",

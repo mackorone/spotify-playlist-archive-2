@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 101780,
+  "num_followers": 101812,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "We Got Latin Soul",
-      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Latin Bugalu",
         "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 148866,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "We Got Latin Soul",
+      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mr. Watermelon Man",
-        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Dry Coconuts - G\u00fceita Caim\u00e1n",
         "url": "https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6"
       },
@@ -487,22 +471,34 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "La Rueda. Pachangas",
-        "url": "https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF"
+        "name": "Mr. Watermelon Man",
+        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
       },
       "artists": [
         {
-          "name": "Manolin Morel Y Sus Charangueros",
-          "url": "https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W"
-        },
-        {
-          "name": "Wilfredo Figueroa",
-          "url": "https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl"
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         }
       ],
-      "duration_ms": 181240,
-      "name": "La Pachanga Que No Cansa",
-      "url": "https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy"
+      "duration_ms": 238053,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Vud\u00fa",
+        "url": "https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU"
+      },
+      "artists": [
+        {
+          "name": "Jean Paul \"El Troglodita\"",
+          "url": "https://open.spotify.com/artist/31FPC692u24VnZ5qU8FalR"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Everything's Gonna Change",
+      "url": "https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -523,18 +519,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Vud\u00fa",
-        "url": "https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU"
+        "name": "La Rueda. Pachangas",
+        "url": "https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF"
       },
       "artists": [
         {
-          "name": "Jean Paul \"El Troglodita\"",
-          "url": "https://open.spotify.com/artist/31FPC692u24VnZ5qU8FalR"
+          "name": "Manolin Morel Y Sus Charangueros",
+          "url": "https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W"
+        },
+        {
+          "name": "Wilfredo Figueroa",
+          "url": "https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Everything's Gonna Change",
-      "url": "https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks"
+      "duration_ms": 181240,
+      "name": "La Pachanga Que No Cansa",
+      "url": "https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy"
     },
     {
       "added_at": "2024-07-18 20:57:58",

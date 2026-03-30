@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "KEEP SWIMMING",
+        "url": "https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219573,
+      "name": "SWIM with SUGA (Melodic Techno Remix)",
+      "url": "https://open.spotify.com/track/5AL5OrvyIMPqKjl9iw3xO5"
+    },
+    {
+      "album": {
         "name": "Agust D",
         "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
       },

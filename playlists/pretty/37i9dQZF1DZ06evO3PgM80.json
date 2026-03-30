@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22046,
+  "num_followers": 22049,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADeiRukcy4fIEw+xAKK7WTC",
+  "snapshot_id": "accaAAAAAABQ8Ge3biuTajfgvpTx7Gwu",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Princ\u00edpio e Fim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 383913,
+      "name": "Princ\u00edpio e Fim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -263,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Princ\u00edpio e Fim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
+        "name": "Tu \u00e9s Bom",
+        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
       },
       "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 383913,
-      "name": "Princ\u00edpio e Fim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
+      "duration_ms": 202000,
+      "name": "Tu \u00e9s Bom",
+      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
     },
     {
       "added_at": null,
@@ -295,26 +315,6 @@
       "duration_ms": 516000,
       "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) - Ao Vivo",
       "url": "https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu \u00e9s Bom",
-        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tu \u00e9s Bom",
-      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
-        }
-      ],
-      "duration_ms": 417426,
-      "name": "Alfa e \u00d4mega - Ao Vivo",
-      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 283365,
       "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "added_at": null,

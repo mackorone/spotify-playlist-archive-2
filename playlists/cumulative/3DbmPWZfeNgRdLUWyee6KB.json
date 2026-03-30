@@ -6375,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "Inconvenient",
+        "url": "https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Ahrent",
+          "url": "https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243161,
+      "name": "Inconvenient",
+      "url": "https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt"
+    },
+    {
+      "album": {
         "name": "Indecisa Paix\u00e3o",
         "url": "https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST"
       },

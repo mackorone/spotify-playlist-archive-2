@@ -4,7 +4,7 @@
 
 > Welcome to the Hope World! 💜
 
-60 songs - 2 hr 52 min
+61 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Sweet Dreams \(feat\. Miguel\) \(Johnny GOLD Remix\)](https://open.spotify.com/track/6hUuDzQlDWxe9G7zlEqbMa) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(zzZ Remixes\)](https://open.spotify.com/album/0Xrer7BRN2vxSqEbdreehr) | 3:16 | 2025-03-18 |  |
 | [Sweet Dreams \(feat\. Miguel\) \(Slowed Down\)](https://open.spotify.com/track/7rSl7gqDI4Cw7nB4IgUOfX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(zzZ Remixes\)](https://open.spotify.com/album/0Xrer7BRN2vxSqEbdreehr) | 3:25 | 2025-03-18 |  |
 | [Sweet Dreams \(feat\. Miguel\) \(Sped Up\)](https://open.spotify.com/track/7L8BByIqkjZFblBRTCfZie) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(zzZ Remixes\)](https://open.spotify.com/album/0Xrer7BRN2vxSqEbdreehr) | 2:29 | 2025-03-18 |  |
+| [SWIM with j\-hope \(Afrobeat Remix\)](https://open.spotify.com/track/3MCJY7lXCHa0UNIjsAucaJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:33 | 2026-03-30 |  |
 | [Trivia 起 : Just Dance](https://open.spotify.com/track/1N466WSyxFVyLx893YYP3O) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/50a3txbpZf1NqzydC8acoU) | 3:45 | 2024-03-29 |  |
 | [Trivia 起 : Just Dance](https://open.spotify.com/track/4YDHRtzm0OGuieCTVQjVuk) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:45 | 2023-05-22 | 2024-04-19 |
 | [What if…](https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:16 | 2022-07-15 |  |

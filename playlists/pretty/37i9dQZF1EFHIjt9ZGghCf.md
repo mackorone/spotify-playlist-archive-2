@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 136 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 137 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 132 | [Holy Ghost \- Live](https://open.spotify.com/track/5PGQZRmJjrgyhpELOzvMx5) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 15:52 |
 | 133 | [Most Beautiful](https://open.spotify.com/track/0doDyKeTxd20ks4M9K9yxD) | [Medi Kay](https://open.spotify.com/artist/6Y2lu0327wke3FYutwXZXG) | [Here On Earth](https://open.spotify.com/album/0Njmye5mpDaoGnN5Y4kmb6) | 7:38 |
 | 134 | [Same God / Gratitude](https://open.spotify.com/track/7EnFudQtYBWoKf8gsROiuM) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/6btX53WGNAsdEw7xierJth) | 5:03 |
-| 135 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
-| 136 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
+| 135 | [Gratitude + Great Are You Lord \(A Worship Medley\)](https://open.spotify.com/track/61J5caseGEBm3IB5kpjBmj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Church Moments](https://open.spotify.com/album/2RTlVdXyZEVDEzVZY8e4W2) | 5:25 |
+| 136 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
+| 137 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcNXwAAAAAAmwsqHAeh19iRoOOsIGcJ5`
+Snapshot ID: `AcNdYAAAAAB+s+HJV8GKer3sBp5dJtkA`

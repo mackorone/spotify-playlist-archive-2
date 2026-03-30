@@ -1,6 +1,6 @@
 {
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
-  "num_followers": 84759,
+  "num_followers": 84786,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
@@ -582,11 +582,15 @@
         {
           "name": "Boom Shaka",
           "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
+        },
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
         }
       ],
-      "duration_ms": 294200,
-      "name": "Ibuhlungu",
-      "url": "https://open.spotify.com/track/0Kto1TI0CW1ARsxEWkezw2"
+      "duration_ms": 286600,
+      "name": "Thobela",
+      "url": "https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -662,15 +666,11 @@
         {
           "name": "Boom Shaka",
           "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
-        },
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
         }
       ],
-      "duration_ms": 286600,
-      "name": "Thobela",
-      "url": "https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1"
+      "duration_ms": 294200,
+      "name": "Ibuhlungu",
+      "url": "https://open.spotify.com/track/0Kto1TI0CW1ARsxEWkezw2"
     },
     {
       "added_at": "2024-05-22 11:00:00",

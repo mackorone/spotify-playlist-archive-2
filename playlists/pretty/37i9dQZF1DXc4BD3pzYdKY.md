@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Childlike CiCi
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,607 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,648 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [2 Major](https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [2 Major](https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn) | 2:18 |
 | 75 | [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 |
 
-Snapshot ID: `AAAAAMML8w4sW/xGBUw3aWwoupUXFjxi`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [One More Night](https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 |
 | 50 | [Ministarat Na Veselieto](https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD), [Lora Karajova](https://open.spotify.com/artist/5io8vM6q4wMK12XmOdEYIt), [Bo\-Bo](https://open.spotify.com/artist/0Vgy22BLANHhK4IXt52xEB) | [Ministarat Na Veselieto](https://open.spotify.com/album/2UDNAQc1BPelhkcRxCCyHO) | 3:26 |
 
-Snapshot ID: `MVs/cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVyQ8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

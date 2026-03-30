@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Isla Disco",
-        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Mayag\u00fcez",
-      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Isla Disco",
+        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Mayag\u00fcez",
+      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Who's there / Vida",
         "url": "https://open.spotify.com/album/2xsYK6gmc0Zirq75RI4tDm"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 209761,
       "name": "Who's there",
       "url": "https://open.spotify.com/track/0zLgFtLgOHrR1wN1hDfdFK"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 184000,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Machete",
-        "url": "https://open.spotify.com/album/2elafEvK3yD3nWm29E5oVK"
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
       "artists": [
         {
-          "name": "Bejuco",
-          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 219086,
-      "name": "F\u00e1tima",
-      "url": "https://open.spotify.com/track/4Q3K5GVBUPJNBJDznA5ewT"
+      "duration_ms": 365146,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
     }
   ],
   "unique_name": "tropic.alt",

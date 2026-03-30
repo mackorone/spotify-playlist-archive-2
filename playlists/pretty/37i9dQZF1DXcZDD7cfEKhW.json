@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4175290,
+  "num_followers": 4175092,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARuV4wo0SJ3iLFAQBMfoBzQ1+iy",
+  "snapshot_id": "AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl",
   "tracks": [
     {
       "added_at": "2026-02-13 05:00:21",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Girl, so confusing featuring lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "Girl, so confusing featuring lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Peru (Peace Control Remix)",
-        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Peru - Peace Control Remix",
-      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "The Cruelest Summer",
         "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 192900,
       "name": "Cruel Summer - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Peru (Peace Control Remix)",
+        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 287179,
+      "name": "Peru - Peace Control Remix",
+      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1249,26 +1249,6 @@
       "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
     },
     {
-      "added_at": "2025-10-07 21:54:57",
-      "album": {
-        "name": "she got a thing about her (luc\u00f8 remix)",
-        "url": "https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        },
-        {
-          "name": "LUC\u00d8",
-          "url": "https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "she got a thing about her - luc\u00f8 remix",
-      "url": "https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb"
-    },
-    {
       "added_at": "2025-09-05 13:32:53",
       "album": {
         "name": "Rise (Sam Feldt Remix)",
@@ -1287,6 +1267,26 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2025-10-07 21:54:57",
+      "album": {
+        "name": "she got a thing about her (luc\u00f8 remix)",
+        "url": "https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        },
+        {
+          "name": "LUC\u00d8",
+          "url": "https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "she got a thing about her - luc\u00f8 remix",
+      "url": "https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb"
     },
     {
       "added_at": "2025-09-05 13:32:53",

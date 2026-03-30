@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 435409,
+  "num_followers": 435666,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -937,26 +937,6 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Noche de Amor",
-        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        },
-        {
-          "name": "Juancho Vargas",
-          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
-        }
-      ],
-      "duration_ms": 443874,
-      "name": "Noche de Amor",
-      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
       "added_at": "2023-10-10 03:31:09",
       "album": {
         "name": "Switched-On",
@@ -987,6 +967,26 @@
       "duration_ms": 170083,
       "name": "Don\u00b4t Give Up",
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Noche de Amor",
+        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        },
+        {
+          "name": "Juancho Vargas",
+          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
+        }
+      ],
+      "duration_ms": 443874,
+      "name": "Noche de Amor",
+      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
       "added_at": "2022-08-11 18:18:05",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
+      "added_at": "2024-08-23 01:16:41",
+      "album": {
+        "name": "Green Ivy Tapestry",
+        "url": "https://open.spotify.com/album/4aW5fIVwUnvnuStm0AHWkS"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 147915,
+      "name": "Green Ivy Tapestry",
+      "url": "https://open.spotify.com/track/3mtSuDBEROnM30OouovNny"
+    },
+    {
       "added_at": "2023-03-16 23:40:55",
       "album": {
         "name": "Dj friendly",
@@ -1235,22 +1251,6 @@
       "duration_ms": 234900,
       "name": "V\u00e1monos - Vazl\u00e1 Remix",
       "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
-    },
-    {
-      "added_at": "2024-08-23 01:16:41",
-      "album": {
-        "name": "Green Ivy Tapestry",
-        "url": "https://open.spotify.com/album/4aW5fIVwUnvnuStm0AHWkS"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 147915,
-      "name": "Green Ivy Tapestry",
-      "url": "https://open.spotify.com/track/3mtSuDBEROnM30OouovNny"
     },
     {
       "added_at": "2023-03-31 18:14:20",

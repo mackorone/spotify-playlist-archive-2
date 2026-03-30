@@ -1,4 +1,4 @@
-## Playlists \(9160\)
+## Playlists \(9162\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -796,6 +796,7 @@
 - [Bass Lounge](/playlists/pretty/37i9dQZF1DWX8l0PIEOYVj.md)
 - [Bassline Bangers](/playlists/pretty/37i9dQZF1DX13R6rBZEpj7.md)
 - [Bath Songs to Relax 🛀](/playlists/pretty/64UxLey0FHAua3Y5XEHUBy.md)
+- [Battlefield Official Playlist](/playlists/pretty/37i9dQZF1DX7p9vfYXtARc.md)
 - [Be Lifted](/playlists/pretty/37i9dQZF1DXbqtyDNQsEFL.md)
 - [Be Still](/playlists/pretty/37i9dQZF1DXbhg05xUNqBY.md)
 - [Be Yourself](/playlists/pretty/37i9dQZF1DWSAdqTQgzvYM.md)
@@ -8984,6 +8985,7 @@
 - [すとぷり \-Strawberry Prince\-](/playlists/pretty/37i9dQZF1DXaMXPT7ghdqO.md)
 - [せきらら](/playlists/pretty/37i9dQZF1DX5Q8nvtZqrFa.md)
 - [せつない胸に風が吹いてた](/playlists/pretty/37i9dQZF1DX8Bcfs9StvNM.md)
+- [ちびまる子ちゃん  CHIBI MARUKO CHAN](/playlists/pretty/37i9dQZF1DWXL5bWfnjoIL.md)
 - [ふつうの軽音部 Girl Meets Rock!](/playlists/pretty/37i9dQZF1DX5VlHTIlGw3z.md)
 - [まどろみの中で](/playlists/pretty/37i9dQZF1DX9rVeQ0kNLOd.md)
 - [みんな集まれ！アンパンマン \-Anpanman\-](/playlists/pretty/37i9dQZF1DX73ib6GpVI5Z.md)

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,036 songs - 5 day 0 hr 54 min
+2,037 songs - 5 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1199,6 +1199,7 @@
 | [My Soul](https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [My Soul](https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl) | 2:15 | 2026-03-03 |  |
 | [My Sound Is Heavy \(Dubstrumental\)](https://open.spotify.com/track/2u2X2bAYWhlyOhGEW5kPec) | [Subatomic Sound System](https://open.spotify.com/artist/2zloJjqv2Evy5ZXEr1lQPr), [Screechy Dan](https://open.spotify.com/artist/31mV1uFOdvl2gpzu1i0XOJ) | [My Sound Is Heavy](https://open.spotify.com/album/2M1vwGZJ9aiDTicR5T5xzq) | 3:18 | 2026-02-07 |  |
 | [my tiny human](https://open.spotify.com/track/7bgUhKhOmyJRxHVncoUOG0) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:31 | 2025-10-28 |  |
+| [My Type](https://open.spotify.com/track/5RhzVmRbZixvy5PkuwaEEY) | [Dopamine](https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU), [Ch7nky](https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq) | [My Type](https://open.spotify.com/album/7eBkiVzcGVyKyVBQhbseMn) | 2:29 | 2026-03-29 |  |
 | [Mystical Valley](https://open.spotify.com/track/1JbtGRLzmOWZwGhnjSRZDf) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Mystical Valley](https://open.spotify.com/album/5OsvRK0lLOih8TTZfPNc4o) | 3:56 | 2024-03-10 |  |
 | [Mój dom płonie](https://open.spotify.com/track/7gkqLO6szdtimfob12XTnw) | [Marcin Szczurski](https://open.spotify.com/artist/2Xpzr2bznB8kGemBUeyw7y) | [Mój dom płonie](https://open.spotify.com/album/50CDVBcxLAkZt1Fs4dyXnW) | 3:07 | 2025-06-20 |  |
 | [Naci Para Vencer](https://open.spotify.com/track/6mQ0rwtbH3p2BP8emPOBuk) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Naci Para Vencer](https://open.spotify.com/album/75xfB6cUBnro2DJs7c4iHm) | 7:23 | 2026-03-12 |  |

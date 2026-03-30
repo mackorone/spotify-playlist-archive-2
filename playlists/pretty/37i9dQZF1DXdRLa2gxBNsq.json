@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Eskorbuto.",
-  "num_followers": 114969,
+  "num_followers": 114986,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-26 23:00:04",
       "album": {
-        "name": "Putos Nazis",
-        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 137963,
-      "name": "Putos Nazis",
-      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
-    },
-    {
-      "added_at": "2026-03-26 23:00:04",
-      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "added_at": "2026-03-26 23:00:04",
+      "album": {
+        "name": "Putos Nazis",
+        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "Putos Nazis",
+      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
     },
     {
       "added_at": "2026-03-26 23:00:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-26 23:00:04",
       "album": {
-        "name": "Hip\u00f3critas",
-        "url": "https://open.spotify.com/album/4xuB2mtzWogiZaUQ06XITY"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "Hip\u00f3critas",
-      "url": "https://open.spotify.com/track/4JGzUB4flqlW4542UoAkGh"
-    },
-    {
-      "added_at": "2026-03-26 23:00:04",
-      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 150701,
       "name": "Figurante",
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-03-26 23:00:04",
+      "album": {
+        "name": "Hip\u00f3critas",
+        "url": "https://open.spotify.com/album/4xuB2mtzWogiZaUQ06XITY"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Hip\u00f3critas",
+      "url": "https://open.spotify.com/track/4JGzUB4flqlW4542UoAkGh"
     },
     {
       "added_at": "2026-03-26 23:00:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-26 23:00:04",
       "album": {
-        "name": "A Por Ellos - Canci\u00f3n Hiriente (En Directo)",
-        "url": "https://open.spotify.com/album/5dONQEWPZXmz5sbLnGCaYn"
-      },
-      "artists": [
-        {
-          "name": "Yeska",
-          "url": "https://open.spotify.com/artist/745VrAQSrPtpBc7rIOQ5J1"
-        }
-      ],
-      "duration_ms": 190408,
-      "name": "A Por Ellos - Canci\u00f3n Hiriente - En Directo",
-      "url": "https://open.spotify.com/track/0mpcVrpKO92V7Miy3ejdbe"
-    },
-    {
-      "added_at": "2026-03-26 23:00:04",
-      "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 205696,
       "name": "Rico deprimido - XX5",
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-03-26 23:00:04",
+      "album": {
+        "name": "A Por Ellos - Canci\u00f3n Hiriente (En Directo)",
+        "url": "https://open.spotify.com/album/5dONQEWPZXmz5sbLnGCaYn"
+      },
+      "artists": [
+        {
+          "name": "Yeska",
+          "url": "https://open.spotify.com/artist/745VrAQSrPtpBc7rIOQ5J1"
+        }
+      ],
+      "duration_ms": 190408,
+      "name": "A Por Ellos - Canci\u00f3n Hiriente - En Directo",
+      "url": "https://open.spotify.com/track/0mpcVrpKO92V7Miy3ejdbe"
     },
     {
       "added_at": "2026-03-26 23:00:04",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-03-26 23:00:04",
       "album": {
+        "name": "Revi\u00e9ntales",
+        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Revi\u00e9ntales",
+      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
+    },
+    {
+      "added_at": "2026-03-26 23:00:04",
+      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2026-03-26 23:00:04",
       "album": {
-        "name": "Revi\u00e9ntales",
-        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
+        "name": "El Cuervo",
+        "url": "https://open.spotify.com/album/5di2lJMn5ZpCohFFlYe1Mk"
       },
       "artists": [
         {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+          "name": "Alkayata",
+          "url": "https://open.spotify.com/artist/4MXRiGG7FclTSSc9bsZdzQ"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Revi\u00e9ntales",
-      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
+      "duration_ms": 228930,
+      "name": "El Cuervo",
+      "url": "https://open.spotify.com/track/1MNE0f00Gm5zlJCvxSL1Sz"
     },
     {
       "added_at": "2026-03-26 23:00:04",
@@ -1395,22 +1411,6 @@
       "duration_ms": 290369,
       "name": "Muros de Cristal",
       "url": "https://open.spotify.com/track/23JPltf9ba5dDctQQhuXHW"
-    },
-    {
-      "added_at": "2026-03-26 23:00:04",
-      "album": {
-        "name": "El Cuervo",
-        "url": "https://open.spotify.com/album/5di2lJMn5ZpCohFFlYe1Mk"
-      },
-      "artists": [
-        {
-          "name": "Alkayata",
-          "url": "https://open.spotify.com/artist/4MXRiGG7FclTSSc9bsZdzQ"
-        }
-      ],
-      "duration_ms": 228930,
-      "name": "El Cuervo",
-      "url": "https://open.spotify.com/track/1MNE0f00Gm5zlJCvxSL1Sz"
     },
     {
       "added_at": "2026-03-26 23:00:04",
@@ -1447,6 +1447,22 @@
       "duration_ms": 274261,
       "name": "El Baile de los que Sobran",
       "url": "https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2"
+    },
+    {
+      "added_at": "2026-03-26 23:00:04",
+      "album": {
+        "name": "La \u00faltima bala",
+        "url": "https://open.spotify.com/album/6ijF7PxfiicFqKA4Qcs3vT"
+      },
+      "artists": [
+        {
+          "name": "La Groupie",
+          "url": "https://open.spotify.com/artist/1ub0t0cPeZW5lIOy9J3dp6"
+        }
+      ],
+      "duration_ms": 134991,
+      "name": "LGP",
+      "url": "https://open.spotify.com/track/4QrmTN3BT7h6dLIE4uTfvk"
     },
     {
       "added_at": "2026-03-26 23:00:04",
@@ -1511,22 +1527,6 @@
       "duration_ms": 134700,
       "name": "de madrid al infierno",
       "url": "https://open.spotify.com/track/3FilZwgFE4Ccu5Bti1tTVV"
-    },
-    {
-      "added_at": "2026-03-26 23:00:04",
-      "album": {
-        "name": "La \u00faltima bala",
-        "url": "https://open.spotify.com/album/6ijF7PxfiicFqKA4Qcs3vT"
-      },
-      "artists": [
-        {
-          "name": "La Groupie",
-          "url": "https://open.spotify.com/artist/1ub0t0cPeZW5lIOy9J3dp6"
-        }
-      ],
-      "duration_ms": 134991,
-      "name": "LGP",
-      "url": "https://open.spotify.com/track/4QrmTN3BT7h6dLIE4uTfvk"
     },
     {
       "added_at": "2026-03-26 23:00:04",

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "3Am",
+        "url": "https://open.spotify.com/album/0Hvchx9FLBwmYYpwVxoXa6"
+      },
+      "artists": [
+        {
+          "name": "H&H SoulSurvivors",
+          "url": "https://open.spotify.com/artist/1PBYbrSMQkz42uJ2eNhftc"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163079,
+      "name": "3Am",
+      "url": "https://open.spotify.com/track/031WPypJkBuErqOYNmBCgw"
+    },
+    {
+      "album": {
         "name": "Year End Report",
         "url": "https://open.spotify.com/album/3wjEIHofWgy2IEv7iflfUc"
       },
@@ -1660,6 +1678,24 @@
       "duration_ms": 222644,
       "name": "Atomic Nucleus",
       "url": "https://open.spotify.com/track/5hD7s4IhEGs213qBeo0L98"
+    },
+    {
+      "album": {
+        "name": "Atrophy (here's to you, my narcissist)",
+        "url": "https://open.spotify.com/album/7nc8hQnP3GwxHyRlipNj9L"
+      },
+      "artists": [
+        {
+          "name": "Saint Matthew",
+          "url": "https://open.spotify.com/artist/0p0J5JFcHW3DiSwk0t5HKy"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189072,
+      "name": "Atrophy (here's to you, my narcissist)",
+      "url": "https://open.spotify.com/track/4VW2G9yGYpwpsju2lN6cxa"
     },
     {
       "album": {
@@ -3449,6 +3485,24 @@
     },
     {
       "album": {
+        "name": "Broken Souls",
+        "url": "https://open.spotify.com/album/6ofkmUfdEREGjWgiNWi1j1"
+      },
+      "artists": [
+        {
+          "name": "Me & Melancholy",
+          "url": "https://open.spotify.com/artist/6ZZZwGgM356RFi7YH7uSOs"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Broken Souls",
+      "url": "https://open.spotify.com/track/7n7ZCoTMHrngc0dYlTrzEQ"
+    },
+    {
+      "album": {
         "name": "Broken Tides",
         "url": "https://open.spotify.com/album/6tJj2g3yDW41sePPqnEjYD"
       },
@@ -4722,7 +4776,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 210000,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/6hOAuCNTZ0SKMjgKzSJQlU"
@@ -5392,7 +5446,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 174551,
       "name": "Darkness silence",
       "url": "https://open.spotify.com/track/22yRMIPaiEs0FbtEGFsmF7"
@@ -5799,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "diffusione",
+        "url": "https://open.spotify.com/album/0uGgdOp6UeQjBn8bmLhRWn"
+      },
+      "artists": [
+        {
+          "name": "sottoliceberg",
+          "url": "https://open.spotify.com/artist/65aSZGpPlUv80z5w7uCUCh"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232806,
+      "name": "diffusione",
+      "url": "https://open.spotify.com/track/0nySMINqN73j5ANpdjrEQJ"
+    },
+    {
+      "album": {
         "name": "Digital Affair",
         "url": "https://open.spotify.com/album/6ZTREV9kNhhvhjhFY8BMRz"
       },
@@ -5882,7 +5954,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 170491,
       "name": "Dime Store Halloween Costume",
       "url": "https://open.spotify.com/track/4BW30DZHPPEekScsVGg3Dj"
@@ -6932,6 +7004,24 @@
       "duration_ms": 237431,
       "name": "Egyptians",
       "url": "https://open.spotify.com/track/5G9ABSN8sTgDXZcdxOtanW"
+    },
+    {
+      "album": {
+        "name": "Electric Dawn",
+        "url": "https://open.spotify.com/album/5gUWY5E2BH8vpMRawUqIjp"
+      },
+      "artists": [
+        {
+          "name": "Nelida Oyma",
+          "url": "https://open.spotify.com/artist/0Lz7pU7JVdR7ZA8K4m264J"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260843,
+      "name": "Electric Dawn",
+      "url": "https://open.spotify.com/track/0BO5LdObXi2MGkEIum2AFr"
     },
     {
       "album": {
@@ -9052,7 +9142,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 109548,
       "name": "G HOUSE",
       "url": "https://open.spotify.com/track/1LbBouc8mgLYJegx6J1cKI"
@@ -10783,6 +10873,32 @@
     },
     {
       "album": {
+        "name": "Holding On To Hope",
+        "url": "https://open.spotify.com/album/4NUswKMJKINDc5C3CNVHu7"
+      },
+      "artists": [
+        {
+          "name": "Saim\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt"
+        },
+        {
+          "name": "Bobby John",
+          "url": "https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD"
+        },
+        {
+          "name": "Madom",
+          "url": "https://open.spotify.com/artist/0IenaxU3u6R2sQPWHStOrM"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Holding On To Hope",
+      "url": "https://open.spotify.com/track/4LxrjQxc1NYX59uT1hUhe8"
+    },
+    {
+      "album": {
         "name": "HOLLOW UTOPIA",
         "url": "https://open.spotify.com/album/39Fa0vGGAIjcDu9c8U69EP"
       },
@@ -11494,7 +11610,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 214153,
       "name": "I Want You Out - Radio Mix",
       "url": "https://open.spotify.com/track/0AqssRB9ZFoYpGModIxESk"
@@ -12320,7 +12436,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 165691,
       "name": "Is This All Pretend?",
       "url": "https://open.spotify.com/track/6p1Re9cr9DrSowCTCKSGdE"
@@ -13058,7 +13174,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 100294,
       "name": "LAME",
       "url": "https://open.spotify.com/track/5mgC2qtoI9xEfrFTxAcOex"
@@ -17046,7 +17162,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 206502,
       "name": "Not Even Just A Little Bit",
       "url": "https://open.spotify.com/track/0e1hrvR54hs1qdh5htSMmo"
@@ -18360,7 +18476,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 269745,
       "name": "Peaceful Rendezvous",
       "url": "https://open.spotify.com/track/3HbvkdMbt73FJc4KPTM6L3"
@@ -26606,7 +26722,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 143462,
       "name": "whisker cam",
       "url": "https://open.spotify.com/track/2NoFB9Vx2QLhhTgClzfyol"

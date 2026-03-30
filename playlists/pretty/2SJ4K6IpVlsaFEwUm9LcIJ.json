@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24260,
+  "num_followers": 24258,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAODE2YodAqanVpJphsBWqeTyvGCIEo",
+  "snapshot_id": "AAAODb0YDT++wZUeH2PuubvLTeDlMOE9",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -335,6 +335,22 @@
       "duration_ms": 312152,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/0TYAYDR79QLLNWW95fPXSh"
+    },
+    {
+      "added_at": "2026-03-30 01:25:24",
+      "album": {
+        "name": "Neon Golden",
+        "url": "https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Pick up the Phone",
+      "url": "https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD"
     }
   ],
   "unique_name": "home when you return",

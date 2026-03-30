@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 665287,
+  "num_followers": 665324,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Different Class / Deluxe Edition",
         "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 273733,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+      "duration_ms": 258533,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
     },
     {
       "added_at": "2024-03-18 22:10:08",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, BIRRD, winterburn and more",
+  "description": "With After Cooking, Leblanc, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 265365,
       "name": "Alicent",
       "url": "https://open.spotify.com/track/7ze2YRBDO5ayNx7HTOzNTs"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 150500,
       "name": "Echoes in The Dark",
       "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 248175,
       "name": "Girei",
       "url": "https://open.spotify.com/track/39XVc9tJMwgBpaMgGp8wSB"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 151958,
       "name": "Idea 10 - Leblanc Remix",
       "url": "https://open.spotify.com/track/3k9RV1AmwvLygsurClNz4c"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -2144,6 +2144,24 @@
       "duration_ms": 225000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
+    },
+    {
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0t9AkQN510K4qu9Lf0tQcG"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358733,
+      "name": "Lost in Brussels",
+      "url": "https://open.spotify.com/track/24VEUvUO29kl6DgdmgvFNs"
     },
     {
       "album": {
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 275348,
       "name": "Nevado Sorata",
       "url": "https://open.spotify.com/track/7xEFZweKnKVcs3OFczJAbd"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 281920,
       "name": "Prince Caster",
       "url": "https://open.spotify.com/track/6XxJfXxQAeyUOVl8Pg0gMY"
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 185461,
       "name": "Pulse of Darkness",
       "url": "https://open.spotify.com/track/0sajNnAKzvBzM1hHUgY2fA"
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 307820,
       "name": "Run",
       "url": "https://open.spotify.com/track/3uJ7vdi6vhgN73RNIoIAHS"
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 472698,
       "name": "Space Bunny",
       "url": "https://open.spotify.com/track/1FTpgO7f4gWEpKwSUo7tHE"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 293777,
       "name": "Space Invaders",
       "url": "https://open.spotify.com/track/30HIxjXprLyB52hwD5isso"
@@ -3578,7 +3596,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 347573,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/7796i2MNYilY0pIWch65qD"
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 205403,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/3ZcSFBU313eFXCgZcs0TAp"
@@ -3896,7 +3914,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 232679,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5kNraerCQo5v4pIhPcyddH"
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"

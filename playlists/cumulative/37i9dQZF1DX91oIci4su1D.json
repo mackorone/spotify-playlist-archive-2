@@ -6856,7 +6856,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 264392,
       "name": "Enter The Portal",
       "url": "https://open.spotify.com/track/3g9RkurqYNtQkPRlJ0h9HO"
@@ -17084,6 +17084,28 @@
       "duration_ms": 203500,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0"
+    },
+    {
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/2hRVRqscqI4SvBTm3H7Y7n"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171555,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/3QDMRjEw9lwNlNesjFw0am"
     },
     {
       "album": {

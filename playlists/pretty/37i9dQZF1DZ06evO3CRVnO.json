@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 325215,
+  "num_followers": 325225,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAAAVRFJcdtrCMI2LPAW/8X4w",
+  "snapshot_id": "accaAAAAAAD9x5n2z0j+u3LIxNe8Ia9i",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
+      },
+      "artists": [
+        {
+          "name": "Ethereal",
+          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
         "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 246909,
       "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
-      },
-      "artists": [
-        {
-          "name": "Ethereal",
-          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
     },
     {
       "added_at": null,

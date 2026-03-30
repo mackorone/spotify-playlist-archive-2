@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29605,
+  "num_followers": 29611,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
         "name": "Kimarad\u00e1s",
         "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 132812,
       "name": "COLD",
       "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "Lidokain",
-        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 137614,
-      "name": "Passport",
-      "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "BE VAGYOK Z\u00c1RVA",
         "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 131779,
       "name": "BE VAGYOK Z\u00c1RVA",
       "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 137614,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "Vinnipu",
-        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 108746,
-      "name": "Vinnipu",
-      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "Csurran, cseppen",
         "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 250000,
       "name": "Csurran, cseppen",
       "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
         "name": "ICE SPICE",
         "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
-        "name": "Megcsalok veled ak\u00e1rkit",
-        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
-      },
-      "artists": [
-        {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Megcsalok veled ak\u00e1rkit",
-      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "H\u0171tlen D\u00e9lib\u00e1b",
-        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
-      },
-      "artists": [
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 154062,
-      "name": "Sz\u00e9p Szavak",
-      "url": "https://open.spotify.com/track/4wh8J6tjQlb4hMjDcs3zU8"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "vemzavr!",
         "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 183931,
       "name": "vemzavr!",
       "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
+        "name": "H\u0171tlen D\u00e9lib\u00e1b",
+        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 154062,
+      "name": "Sz\u00e9p Szavak",
+      "url": "https://open.spotify.com/track/4wh8J6tjQlb4hMjDcs3zU8"
     },
     {
       "added_at": "2026-03-23 14:02:34",

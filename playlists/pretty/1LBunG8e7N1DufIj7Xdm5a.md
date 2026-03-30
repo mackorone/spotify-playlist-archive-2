@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,248 songs - 9 day 10 hr 9 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,250 songs - 9 day 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4256,5 +4256,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4246 | [Dream \(Ek Khwaab\)](https://open.spotify.com/track/4DSXk7IIAQ6ZCyxaTFOuen) | [Sunsara](https://open.spotify.com/artist/2vcmaaRJAq9YmTX5OIbrqH) | [Dream \(Ek Khwaab\)](https://open.spotify.com/album/5dfliLlUA3EPs3WlSABvu5) | 3:02 |
 | 4247 | [Remain with Grey](https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Remain with Grey](https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW) | 3:34 |
 | 4248 | [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 |
+| 4249 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 |
+| 4250 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 |
 
-Snapshot ID: `AAAIF18j2iW99+gKrWmRWgcwF9aCc1Hg`
+Snapshot ID: `AAAIGf2JzLxTFvupBJh1TRO0FqKOiSwI`

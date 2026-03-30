@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,019 songs - 2 day 0 hr 44 min
+1,020 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Mane](https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Mane](https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv) | 2:49 | 2025-07-01 |  |
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-03-06 | 2025-03-30 |
 | [Marbre D’aube](https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Marbre D’aube](https://open.spotify.com/album/5GenEVsZz4Ek38mVczOPtv) | 3:18 | 2025-02-04 | 2026-01-15 |
+| [Margin](https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Margin](https://open.spotify.com/album/3u7wffCg17gYqD5kp8mEDc) | 2:51 | 2026-03-20 |  |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 | 2025-01-09 |
 | [Maritima](https://open.spotify.com/track/2fL5xAVhQEaLCrtKhI4oQe) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Maritima](https://open.spotify.com/album/6AK33tu3fRlKoa8yOG9iTU) | 3:18 | 2026-02-25 | 2026-03-12 |
 | [Matte Dreams](https://open.spotify.com/track/2S9nxEBURjnZ6JCcol3qJO) | [Aemilune](https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9) | [Matte Dreams](https://open.spotify.com/album/48MhnWcgtQOKDC4IXhYSq6) | 2:27 | 2026-01-27 |  |
@@ -669,7 +670,7 @@
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2023-03-23 | 2024-01-18 |
 | [Paintings](https://open.spotify.com/track/4z9T5rLKI42F1Pm4JMPFlY) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paintings](https://open.spotify.com/album/3dN2zzbNXmMGDuAYABHGOe) | 2:41 | 2023-03-23 | 2024-02-09 |
 | [Pale Hours](https://open.spotify.com/track/3NSH95SaYGg7OLiC8bVtcx) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Pale Hours](https://open.spotify.com/album/2Dp8o5PeMIUL8FEoqU4xvs) | 2:31 | 2025-10-08 |  |
-| [Pale Memory](https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Pale Memory](https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI) | 2:37 | 2025-11-12 |  |
+| [Pale Memory](https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Pale Memory](https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI) | 2:37 | 2025-11-12 | 2026-03-30 |
 | [Panacea](https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Panacea](https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG) | 2:51 | 2025-03-05 | 2026-03-21 |
 | [Paper Planes](https://open.spotify.com/track/6K3GQ0EUISQazk67bWfWCB) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Paper Planes](https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ) | 3:30 | 2023-03-23 | 2023-09-01 |
 | [Paradigm](https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Paradigm](https://open.spotify.com/album/05RwFQSvi4XzEPlkoFsH0H) | 3:00 | 2025-01-22 | 2025-07-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1156323,
+  "num_followers": 1156463,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAAAsox9wH2kQ3SLn5LZNlqru",
+  "snapshot_id": "accaAAAAAAAR1M+CP/57Kny4qgrmt6EK",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 330746,
-      "name": "Storms - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
+      "duration_ms": 167840,
+      "name": "Monday Morning",
+      "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Monday Morning",
-      "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
+      "duration_ms": 330746,
+      "name": "Storms - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Oh Well, Pt. 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
+      "duration_ms": 166653,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 166653,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5"
+      "duration_ms": 202400,
+      "name": "Oh Well, Pt. 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
     },
     {
       "added_at": null,

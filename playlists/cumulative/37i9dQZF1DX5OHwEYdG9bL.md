@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: YUNA\) \(Enjoy a playlist of songs that support music video features!\)
 
-198 songs - 10 hr 57 min
+203 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,8 @@
 | [I DON'T BARGAIN](https://open.spotify.com/track/0KTym6MHSmlfXYKrwtfGHQ) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/1sEhPdw88BoROmJeijHBFZ) | 2:55 | 2026-03-20 |  |
 | [I Feel Good](https://open.spotify.com/track/5AP8DwNug6FEIT1N2W6lzW) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [I Feel Good](https://open.spotify.com/album/6QhUisCryDNbiW76yx630U) | 3:13 | 2025-07-15 |  |
 | [I'll Be There](https://open.spotify.com/track/5AWhWkXI2N124dAh5cVbLo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/4qHj1TjoaZ2ZGVKLWDFtVQ) | 3:02 | 2025-07-15 | 2025-08-20 |
+| [Ice Cream](https://open.spotify.com/track/5wxUDqvvV1S2mmQ9X04QWB) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/3CjxTjmJ0IefgzQzmVc7aG) | 3:08 | 2026-03-30 |  |
+| [Ice Cream](https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR) | 3:08 | 2026-03-30 |  |
 | [Ice On My Teeth](https://open.spotify.com/track/3BF9ocYbjnntrh7kNnvChi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ice On My Teeth](https://open.spotify.com/album/0FAJNe9ryBqwz4OX54Fk9g) | 3:23 | 2025-07-15 | 2025-08-20 |
 | [ICONIC](https://open.spotify.com/track/0L8R3vaftF6BzpHZyUMWR0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [ICONIC](https://open.spotify.com/album/2YR4bqtSIcevAAIL6ugpeT) | 2:45 | 2025-08-13 |  |
 | [iLy](https://open.spotify.com/track/4wQMGzwKdgnpik2AJ81vZ8) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/0DA2VA8d6JXdusekR5RuvP) | 4:07 | 2025-08-13 |  |
@@ -126,6 +128,7 @@
 | [Mess](https://open.spotify.com/track/3Xh6AHSA00ROOKCc3eH3Ql) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/71XPrdRLDPTdXgg5lSdVGT) | 2:38 | 2025-07-15 |  |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/7EfsDwMIp2K2zcesWFdIQ7) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/7AyY2UsDMJjLoAPLlSQtsa) | 3:05 | 2025-07-15 |  |
 | [MONA LISA](https://open.spotify.com/track/6FfKVcRELC01p2V64HXsRH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/0XOxRUT0IKQjJCdP0nqaKw) | 2:42 | 2025-07-15 | 2025-08-20 |
+| [MUSEUM](https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM) | 3:17 | 2026-03-30 |  |
 | [NOT CUTE ANYMORE](https://open.spotify.com/track/04BTH7A529j7G0TCuthFkI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/5l45MwxKiVZXeMzzz8tChC) | 2:26 | 2025-12-03 |  |
 | [number one girl](https://open.spotify.com/track/5sgKW9J1rsDlqV8nXpSXjd) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/2GU9eECPOLAYV9EERR8sE1) | 3:35 | 2025-07-15 | 2025-08-20 |
 | [O.O Part 1 \(Baila\)](https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Part 1 \(Baila\)](https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7) | 3:43 | 2025-10-24 |  |
@@ -202,9 +205,11 @@
 | [WICKED](https://open.spotify.com/track/5Ue63F78jHzGSZmNCrU3ba) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [WICKED](https://open.spotify.com/album/47tK4SQFKAssIrZkGYLUnM) | 2:45 | 2025-07-15 |  |
 | [WICKED \(VER\. A \- MOVIE SET\)](https://open.spotify.com/track/3DjDkGonQl1aiUJWPLIDel) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [WICKED \(VER\. A \- MOVIE SET\)](https://open.spotify.com/album/5g1tt0ryImRhpRRzgmcTWA) | 2:46 | 2025-07-15 |  |
 | [WICKED \(VER\. B \- BASEMENT\)](https://open.spotify.com/track/7y2S0iUzWckHWxsFfQ9ghN) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [WICKED \(VER\. B \- BASEMENT\)](https://open.spotify.com/album/77Iw1AZFJdeZ4WLWWTO69J) | 2:53 | 2025-07-15 |  |
+| [X room](https://open.spotify.com/track/1QrvItFJXHpGnZBLV4x2Qa) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [X room](https://open.spotify.com/album/70kNjkfecMiiFCKfkvE2sp) | 4:00 | 2026-03-30 |  |
 | [XOXZ](https://open.spotify.com/track/7nJxDlDJ2yCR0RZBQ2w8nc) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [XOXZ](https://open.spotify.com/album/7wOQSRLo59L8TO2dIXY04C) | 2:38 | 2025-10-24 |  |
 | [YELLOW](https://open.spotify.com/track/75ff7jktGI5qU7qWIQfiIa) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [YELLOW](https://open.spotify.com/album/78pnF56CQLOwnl4NHk7hZz) | 3:47 | 2025-07-15 | 2025-08-20 |
 | [YES](https://open.spotify.com/track/4cGS4U8XLzgBTCeo2UN4MA) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [YES](https://open.spotify.com/album/3RNowSUboaZkZF8ifShTs4) | 3:06 | 2025-08-13 |  |
 | [YOU AND I](https://open.spotify.com/track/3sSyfg5iyw2LGK3mEMkoJN) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/7yypCvtYwlmx6kL6MTZNCR) | 2:59 | 2025-08-13 |  |
+| [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 | 2026-03-30 |  |
 
 \*This playlist was first scraped on 2025-03-15. Prior content cannot be recovered.

@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262101,
+      "name": "He'll Understand And Say Well Done",
+      "url": "https://open.spotify.com/track/0Piw1faCEpPW09UiL07L89"
+    },
+    {
+      "album": {
         "name": "Live in 1960",
         "url": "https://open.spotify.com/album/3HySlTcJp61IznncKRWK50"
       },
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"

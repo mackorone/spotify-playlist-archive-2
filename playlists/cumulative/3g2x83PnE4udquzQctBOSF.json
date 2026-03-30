@@ -10105,6 +10105,24 @@
     },
     {
       "album": {
+        "name": "The Music In My Head",
+        "url": "https://open.spotify.com/album/4iPXKep6t2ZDMvkJGpueRV"
+      },
+      "artists": [
+        {
+          "name": "West Dingo",
+          "url": "https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152279,
+      "name": "The Music In My Head",
+      "url": "https://open.spotify.com/track/6HkQWhfkemJbus2zzACiUC"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4UWUFqTM4G2XZCigKozMqY"
       },

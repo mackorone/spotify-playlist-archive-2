@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Fred again.., Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,376 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,408 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 36 | [Turn Up The Love](https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Turn Up The Love](https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5) | 3:06 |
 | 37 | [THE THING](https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [THE THING](https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI) | 5:38 |
 | 38 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
-| 39 | [Sayōnara](https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Paul Hartnoll](https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU) | [Sayōnara](https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9) | 3:04 |
-| 40 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
+| 39 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
+| 40 | [Sayōnara](https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Paul Hartnoll](https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU) | [Sayōnara](https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9) | 3:04 |
 | 41 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 |
 | 42 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |
 | 43 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 61 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 62 | [Better Let It Go](https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Curses Broken](https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY) | 4:37 |
 | 63 | [Retrograde](https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Retrograde](https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE) | 2:55 |
-| 64 | [Ah Ya](https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Ah Ya](https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG) | 4:13 |
-| 65 | [Lift You Up](https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 3:32 |
+| 64 | [Lift You Up](https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 3:32 |
+| 65 | [Ah Ya](https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Ah Ya](https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG) | 4:13 |
 | 66 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 67 | [To Survive](https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [To Survive](https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89) | 3:58 |
-| 68 | [Soulseek](https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do) | [Soulseek](https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK) | 5:11 |
-| 69 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 |
+| 68 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 |
+| 69 | [Soulseek](https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do) | [Soulseek](https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK) | 5:11 |
 | 70 | [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 |
 
 Snapshot ID: `AAAAAGhT3Q0teX5m1LwE22rYvmIzGobo`

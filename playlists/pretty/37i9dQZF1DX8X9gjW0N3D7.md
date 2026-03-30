@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Arielle Soucy
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,819 likes - 95 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,818 likes - 95 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 19 | [Dans mes poches](https://open.spotify.com/track/5Zl6AP7Ag2nSqD1eddGS31) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30), [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Y fait froid tout l'tour de la lune](https://open.spotify.com/album/5HqFB4TW4PHH0ESuqgQSWl) | 3:12 |
 | 20 | [Ainsi soit\-il](https://open.spotify.com/track/4GYUVIoCES5J2U0CUPNoQ6) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23) | [18 ans et +](https://open.spotify.com/album/5aIyq2uR5QJIO9JNB9MwIA) | 2:27 |
 | 21 | [Je t'en veux](https://open.spotify.com/track/5PIDxgPBBfqijwwJ6JT21k) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Fragile](https://open.spotify.com/album/0xt2GpCFyw5N8IQom9e4ew) | 2:58 |
-| 22 | [Dans une autre cours](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cours](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 |
+| 22 | [Dans une autre cour](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cour](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 |
 | 23 | [The Fog](https://open.spotify.com/track/72saKsaBaeNVtxaYPl2nS7) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [The Fog](https://open.spotify.com/album/2TIBAa6QLF17KwPaTDdTIq) | 4:07 |
 | 24 | [Déplacement](https://open.spotify.com/track/6hdfa16VWPN4qVD7QPKI9b) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Déplacement](https://open.spotify.com/album/5D0iPd2dEVjN8bsmefXdDf) | 3:17 |
 | 25 | [Sought](https://open.spotify.com/track/36N1P6noHNFK42IOh6YqnH) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [Rowdy](https://open.spotify.com/album/0aVCerUqigTqhq8AybZMh4) | 3:31 |

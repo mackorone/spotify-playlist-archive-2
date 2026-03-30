@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: lucca
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,344 likes - 111 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,348 likes - 111 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

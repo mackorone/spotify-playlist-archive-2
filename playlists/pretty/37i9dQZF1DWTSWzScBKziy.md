@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Anna Golden
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,418 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,483 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 |
 | 100 | [Woman Of Me](https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Woman Of Me](https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k) | 2:52 |
 
-Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`
+Snapshot ID: `AAAAADxu/tFWUDkYBuzDl2j1GCmECTva`

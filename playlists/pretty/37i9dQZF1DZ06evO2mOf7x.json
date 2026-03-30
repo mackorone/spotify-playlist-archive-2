@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47307,
+  "num_followers": 47309,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADASxnjTlAP6YjZrC7SADoP",
+  "snapshot_id": "accaAAAAAAD7MEPQ2hVPa3GoQRSHquHU",
   "tracks": [
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor y Veneno",
-        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Amor y Veneno",
-      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Vez En Cuando",
         "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor y Veneno",
+        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Amor y Veneno",
+      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 230493,
       "name": "Y Siempre",
       "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,
@@ -987,6 +967,26 @@
       "duration_ms": 203546,
       "name": "Te Llevaste - Original mix",
       "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,

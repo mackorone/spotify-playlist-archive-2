@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "KEEP SWIMMING",
+        "url": "https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "SWIM with Jung Kook (Acoustic Lofi Remix)",
+      "url": "https://open.spotify.com/track/0a7MZlflT3ZdvdwoP72zM3"
+    },
+    {
+      "album": {
         "name": "This Is Jung Kook audio liners",
         "url": "https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W"
       },

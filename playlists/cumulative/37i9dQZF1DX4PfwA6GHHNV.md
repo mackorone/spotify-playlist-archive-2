@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-257 songs - 12 hr 42 min
+258 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [LUNA](https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ) | [LUNA](https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu) | 2:51 | 2024-05-10 | 2024-07-19 |
 | [MAIS VERDE](https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [MAIS VERDE](https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl) | 3:28 | 2024-03-01 |  |
 | [Manga](https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Asopø](https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl) | 3:15 | 2024-10-18 |  |
+| [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP) | 2:47 | 2026-03-27 |  |
 | [Mano Brown](https://open.spotify.com/track/14I2fRIAoRQRWK5AA07N4C) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Mano Brown](https://open.spotify.com/album/3h5F25cpPZx9zLu9Rlw2X3) | 3:45 | 2024-01-26 | 2024-03-23 |
 | [Manual de Como Te Esquecer \- Ao Vivo](https://open.spotify.com/track/03Dsc9LpbwuP7XGGcMF8MN) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Funk Superação \- Ao Vivo](https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt) | 3:30 | 2024-08-30 | 2024-10-08 |
 | [Mar de Rosas](https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Mar de Rosas](https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN) | 2:45 | 2025-10-24 |  |
@@ -229,7 +230,7 @@
 | [Só Me Usa](https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL) | [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Só Me Usa](https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol) | 2:34 | 2023-09-15 | 2024-01-13 |
 | [Só Minha](https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Só Minha](https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn) | 2:29 | 2023-09-15 | 2024-06-08 |
 | [Só Olha \- Ao Vivo](https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:40 | 2023-12-08 | 2024-02-03 |
-| [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 | 2026-03-13 |  |
+| [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 | 2026-03-13 | 2026-03-30 |
 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 | 2024-01-05 | 2025-05-31 |
 | [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 | 2025-12-11 |  |
 | [Te Amo](https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Te Amo](https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH) | 2:56 | 2025-11-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: alyona alyona
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,757 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,756 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 8 | [Попаяло](https://open.spotify.com/track/70jlPtDNZ7wNXyvMLc07zj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB), [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [Попаяло](https://open.spotify.com/album/78Ic8PcXHCAMifcjqtGTIw) | 4:04 |
 | 9 | [lambada](https://open.spotify.com/track/2lsSwYf4KcOEhWE10xfWnK) | [askwhen](https://open.spotify.com/artist/0GsArlDO65z8mj3McTCliI), [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [lambada](https://open.spotify.com/album/2rF1ds7PTw6EcFJwLO1cIr) | 2:08 |
 | 10 | [іноді](https://open.spotify.com/track/0SYwnCV5XXHmiz9QXIRTjL) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [іноді](https://open.spotify.com/album/7cYRO0Zi5OXDrSMDckVuPY) | 3:32 |
-| 11 | [Ціна](https://open.spotify.com/track/0MYZEmpWeaw0CvGMYGkobc) | [MOLODOY](https://open.spotify.com/artist/0zwASeH7IV8C8cvVwOTtrd) | [Ціна](https://open.spotify.com/album/5Mo7baH2RKKvERx6rNiT1v) | 2:44 |
+| 11 | [Ціна](https://open.spotify.com/track/0MYZEmpWeaw0CvGMYGkobc) | [MOLODYY](https://open.spotify.com/artist/74Liiqwjebttbs2ZaUR3aj) | [Ціна](https://open.spotify.com/album/5Mo7baH2RKKvERx6rNiT1v) | 2:44 |
 | 12 | [Ренесанс](https://open.spotify.com/track/7cnJrAYQ45TVzqm8I2nBpa) | [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [Ренесанс](https://open.spotify.com/album/1V1Lsaiz4gOILV91JyIEE5) | 2:18 |
 | 13 | [247](https://open.spotify.com/track/2si6hXpMpueBbmsGt1im09) | [MANY](https://open.spotify.com/artist/0JsbG8WDvKgbZ1VPm6ybEO) | [247](https://open.spotify.com/album/77L9x3E3SeE9a72ERMw58m) | 1:49 |
 | 14 | [Katana](https://open.spotify.com/track/2Vwf159GjRwo81LF2hCf9s) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [iT'e](https://open.spotify.com/artist/1cD6ihLj8XFgxj3AbTW3mV) | [Katana](https://open.spotify.com/album/0nq0RKeW79IJhSRt3QwUUP) | 3:00 |

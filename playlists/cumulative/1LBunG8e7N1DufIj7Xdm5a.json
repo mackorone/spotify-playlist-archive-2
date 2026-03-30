@@ -16259,6 +16259,24 @@
     },
     {
       "album": {
+        "name": "Plausible Deniability",
+        "url": "https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb"
+      },
+      "artists": [
+        {
+          "name": "Andrew Van Garratt",
+          "url": "https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Deny Reality",
+      "url": "https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l"
+    },
+    {
+      "album": {
         "name": "Departure to the next level",
         "url": "https://open.spotify.com/album/0kdJ9sK59U0nv1LUMP2RM4"
       },
@@ -31906,6 +31924,24 @@
       "duration_ms": 102328,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4bgJjf15bqCeIVftizK6fE"
+    },
+    {
+      "album": {
+        "name": "Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers",
+        "url": "https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm"
+      },
+      "artists": [
+        {
+          "name": "Susan Salidor",
+          "url": "https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143906,
+      "name": "I Think You Dropped This",
+      "url": "https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy"
     },
     {
       "album": {

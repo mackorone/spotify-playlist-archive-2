@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wXE3YWhe8a.md) - [plain]
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,715 likes - 54 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752 likes - 54 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

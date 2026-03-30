@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-379 songs - 20 hr 38 min
+380 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,9 +299,10 @@
 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-12-17 | 2024-04-19 |
 | [O Tannenbaum](https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Classic Christmas Hits 2022](https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK) | 5:09 | 2022-11-12 | 2022-11-13 |
 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 | 2021-12-17 |  |
+| [On est là pour fêter!](https://open.spotify.com/track/2Zc1U2AW9epRCdFA3RCZrr) | [Les Fils du Diable](https://open.spotify.com/artist/5lYZP9PT6P06rK5LU3tSJV), [Karo Laurendeau](https://open.spotify.com/artist/0zKEf1GW5Fws8HJTcAxctz) | [On est là pour fêter!](https://open.spotify.com/album/3g7H9oRYvQFRXSTXPMtJe8) | 2:23 | 2025-12-12 |  |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-17 | 2025-12-13 |
 | [Parfait Noël](https://open.spotify.com/track/3MLbNzADggPivatXQneiHw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Parfait Noël](https://open.spotify.com/album/75s3hI6IoIHTYEwY2v6P3y) | 4:02 | 2022-11-18 |  |
-| [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 | 2023-12-16 |  |
+| [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 | 2023-12-16 | 2026-03-30 |
 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 | 2021-12-17 |  |
 | [Petit Papa Noël](https://open.spotify.com/track/2x64JCqocawfHsE8u3gsT8) | [Anne Dorval](https://open.spotify.com/artist/4ZRQixH63QoGjJr99a5s0g) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 3:12 | 2021-12-17 | 2022-07-28 |
 | [Petit Papa Noël](https://open.spotify.com/track/0w2OW2wHawQ08AYBaHlxgL) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 4:04 | 2021-12-17 | 2022-12-17 |

@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
+    },
+    {
+      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
       },
@@ -914,7 +932,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 220348,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 231706,
       "name": "Let Me Blow Your Mind",
       "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
@@ -3570,6 +3588,28 @@
       "duration_ms": 269047,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
+    },
+    {
+      "album": {
+        "name": "lucius lullaby",
+        "url": "https://open.spotify.com/album/3p4K1H438e9kFylbQkdSLr"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        },
+        {
+          "name": "sir lucius",
+          "url": "https://open.spotify.com/artist/2GyZOs6TByR90s61Dj7q2y"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "weirdness",
+      "url": "https://open.spotify.com/track/0Z14ueqgvLP39oCdTCDyOT"
     },
     {
       "album": {

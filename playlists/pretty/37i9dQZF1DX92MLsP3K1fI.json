@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Paloma Morphy y EMJAY en portada \u2728",
-  "num_followers": 94269,
+  "num_followers": 94274,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Par\u00eds (Junto a Ti)",
-        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Par\u00eds (Junto a Ti)",
-      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
         "name": "Ve y Diles V2 (Remix)",
         "url": "https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -835,22 +835,18 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
       },
       "artists": [
         {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 157021,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -871,18 +867,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
+      "duration_ms": 157021,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
     },
     {
       "added_at": "2026-03-27 06:00:12",

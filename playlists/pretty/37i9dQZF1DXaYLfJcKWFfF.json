@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Bongeziwe Mabandla",
-  "num_followers": 591,
+  "num_followers": 695,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -435,70 +435,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "SORE LOSER",
-        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "SORE LOSER",
-      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "Weight Off My Shoulders",
-        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
-      },
-      "artists": [
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Weight Off My Shoulders",
-      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 193477,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
-    },
-    {
-      "added_at": "2026-03-27 10:28:35",
-      "album": {
-        "name": "christine",
-        "url": "https://open.spotify.com/album/1zepD5qFpsXDS0sr6JxrBw"
-      },
-      "artists": [
-        {
-          "name": "tan sholto",
-          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
-        }
-      ],
-      "duration_ms": 183688,
-      "name": "tash",
-      "url": "https://open.spotify.com/track/1odjQdCmmGsTKKhgRMX1P5"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -519,18 +455,86 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Yalwa",
-        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+        "name": "Weight Off My Shoulders",
+        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
       },
       "artists": [
         {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
         }
       ],
-      "duration_ms": 154333,
-      "name": "Yalwa",
-      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+      "duration_ms": 167680,
+      "name": "Weight Off My Shoulders",
+      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "SORE LOSER",
+        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "SORE LOSER",
+      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
+    },
+    {
+      "added_at": "2026-03-27 10:28:35",
+      "album": {
+        "name": "christine",
+        "url": "https://open.spotify.com/album/1zepD5qFpsXDS0sr6JxrBw"
+      },
+      "artists": [
+        {
+          "name": "tan sholto",
+          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
+        }
+      ],
+      "duration_ms": 183688,
+      "name": "tash",
+      "url": "https://open.spotify.com/track/1odjQdCmmGsTKKhgRMX1P5"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 193477,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "showmetheway !!",
+        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "showmetheway !!",
+      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -567,6 +571,22 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
         "name": "Your Words Cut Deep",
         "url": "https://open.spotify.com/album/01CmPyLH5YfA41PeLzeASK"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 192425,
       "name": "Your Words Cut Deep",
       "url": "https://open.spotify.com/track/5YvR5I9SlWQppDWGmzsV3J"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "showmetheway !!",
-        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "showmetheway !!",
-      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
-      },
-      "artists": [
-        {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Adwuma",
         "url": "https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 210040,
       "name": "Adwuma",
       "url": "https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-03-27 10:28:35",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ"
+      },
+      "artists": [
+        {
+          "name": "Jade Olivia",
+          "url": "https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
         "name": "When You Know You Know",
         "url": "https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 151579,
       "name": "Jessica Mable",
       "url": "https://open.spotify.com/track/30DfcS756EjuOGTCYx1l71"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "Glimmer",
-        "url": "https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ"
-      },
-      "artists": [
-        {
-          "name": "Jade Olivia",
-          "url": "https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1119,6 +1119,46 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
+      },
+      "artists": [
+        {
+          "name": "Hannovr",
+          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "PUFF PUFF",
+        "url": "https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "duration_ms": 164182,
+      "name": "PUFF PUFF",
+      "url": "https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz"
       },
@@ -1167,18 +1207,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Old Hometown",
-        "url": "https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0"
+        "name": "Akanbi",
+        "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
       },
       "artists": [
         {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+          "name": "Diamond Jimma",
+          "url": "https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf"
         }
       ],
-      "duration_ms": 158124,
-      "name": "Old Hometown",
-      "url": "https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm"
+      "duration_ms": 144410,
+      "name": "Old Days",
+      "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1199,42 +1239,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Akanbi",
-        "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
+        "name": "Old Hometown",
+        "url": "https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0"
       },
       "artists": [
         {
-          "name": "Diamond Jimma",
-          "url": "https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf"
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 144410,
-      "name": "Old Days",
-      "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "PUFF PUFF",
-        "url": "https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm"
-      },
-      "artists": [
-        {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        },
-        {
-          "name": "Flea",
-          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-        }
-      ],
-      "duration_ms": 164182,
-      "name": "PUFF PUFF",
-      "url": "https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy"
+      "duration_ms": 158124,
+      "name": "Old Hometown",
+      "url": "https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
-      },
-      "artists": [
-        {
-          "name": "Hannovr",
-          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
-        }
-      ],
-      "duration_ms": 255624,
-      "name": "DRIVE",
-      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
       },
@@ -1303,54 +1303,6 @@
       "duration_ms": 218800,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "You Made It Easy to Let Go",
-        "url": "https://open.spotify.com/album/3xDL92kCHBGvP6NSrowybz"
-      },
-      "artists": [
-        {
-          "name": "Mia Lord",
-          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
-        }
-      ],
-      "duration_ms": 181176,
-      "name": "You Made It Easy to Let Go",
-      "url": "https://open.spotify.com/track/0ePA3ZPD4hQW9w0GIjwyQg"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
-      },
-      "artists": [
-        {
-          "name": "MiDi KwaKwa",
-          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z"
-      },
-      "artists": [
-        {
-          "name": "\u1e62\u1eb9w\u00e0",
-          "url": "https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK"
-        }
-      ],
-      "duration_ms": 252216,
-      "name": "Broda Kevwe",
-      "url": "https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1371,6 +1323,54 @@
       "duration_ms": 205797,
       "name": "Sunlight to My Soul",
       "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "You Made It Easy to Let Go",
+        "url": "https://open.spotify.com/album/3xDL92kCHBGvP6NSrowybz"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "duration_ms": 181176,
+      "name": "You Made It Easy to Let Go",
+      "url": "https://open.spotify.com/track/0ePA3ZPD4hQW9w0GIjwyQg"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z"
+      },
+      "artists": [
+        {
+          "name": "\u1e62\u1eb9w\u00e0",
+          "url": "https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK"
+        }
+      ],
+      "duration_ms": 252216,
+      "name": "Broda Kevwe",
+      "url": "https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
     }
   ],
   "unique_name": "Afro Indie",

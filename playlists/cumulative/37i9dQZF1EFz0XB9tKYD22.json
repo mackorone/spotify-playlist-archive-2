@@ -866,7 +866,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I"
@@ -1558,6 +1558,24 @@
       "duration_ms": 227613,
       "name": "Don't You Wanna Know",
       "url": "https://open.spotify.com/track/0dLg48yfX8CZnkh7Pr0D2l"
+    },
+    {
+      "album": {
+        "name": "Dear Nashville",
+        "url": "https://open.spotify.com/album/5l51k8fbINOwpxzWJ3MIie"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213789,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2pgxvpS3didN1YqyXa3Onr"
     },
     {
       "album": {

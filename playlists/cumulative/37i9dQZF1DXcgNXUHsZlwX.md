@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-574 songs - 1 day 10 hr 14 min
+575 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 | 2021-11-28 |  |
 | [Dans tes bras](https://open.spotify.com/track/6MqZU9IaaFM7LPNuRnFlUf) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Dans tes bras](https://open.spotify.com/album/5SbmPKpoZHhRMMeh2KTM76) | 4:01 | 2021-01-03\* | 2021-05-08 |
+| [Dans une autre cour](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cour](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 | 2026-03-27 |  |
 | [Dead Shopping Mall](https://open.spotify.com/track/53YJFdzWn606fbJc9ngrm8) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mitshuap \(Deluxe\)](https://open.spotify.com/album/7afIEP4llzhNpu5xo43jOj) | 4:13 | 2023-06-02 | 2023-07-09 |
 | [Defunct Baseball Team](https://open.spotify.com/track/528146UttVCudD2otAEkEI) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Defunct Baseball Team](https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG) | 2:28 | 2022-12-16 | 2024-06-17 |
 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 | 2026-01-30 |  |
@@ -547,7 +548,7 @@
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2021-10-23 | 2025-02-21 |
 | [Vallée embrumée](https://open.spotify.com/track/19ewBbCHh4wNEeLPEmHwJ8) | [Dans l'Shed](https://open.spotify.com/artist/0rUB643AKozBTQqO7T78Cb) | [Vallée embrumée](https://open.spotify.com/album/1JB8StNLzFhQJCviUIPd4b) | 2:56 | 2021-01-03\* | 2021-05-08 |
 | [Vas\-tu me comprendre?](https://open.spotify.com/track/2zL8O2xVwDaM9KnRByeLm8) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn), [Corail](https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr) | [Tu me vois comme je suis](https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv) | 4:37 | 2024-06-07 | 2024-07-14 |
-| [Vendredi](https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Vendredi](https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa) | 3:06 | 2026-01-30 |  |
+| [Vendredi](https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Vendredi](https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa) | 3:06 | 2026-01-30 | 2026-03-30 |
 | [Vers la mer](https://open.spotify.com/track/36rXAkb0k72JIjOil4SS6W) | [Victoria Lord](https://open.spotify.com/artist/1c1Eft7z1a5uQdJ2iwSct7), [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Vers la mer](https://open.spotify.com/album/3soUS8FlIpF1yRB3riT9xw) | 3:58 | 2023-04-14 | 2023-05-02 |
 | [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-06 | 2022-06-13 |
 | [Vigiles](https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:20 | 2022-07-08 | 2022-08-31 |

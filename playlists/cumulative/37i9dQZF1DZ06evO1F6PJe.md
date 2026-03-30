@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-233 songs - 19 hr 55 min
+234 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Lazy Poker Blues](https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:17 | 2023-11-10 | 2024-07-01 |
 | [Let The Good Times Roll](https://open.spotify.com/track/1NMsxfMy8w1utKwmsI5uCq) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Noah Hunt](https://open.spotify.com/artist/1gpRqz4ry3s0eDPLUXBZyr) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 4:57 | 2026-02-11 |  |
 | [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 | 2022-08-05 | 2023-02-18 |
-| [Life After Dark](https://open.spotify.com/track/1asRUKGIpkIyxUhH6by0T6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:55 | 2025-07-21 |  |
+| [Life After Dark](https://open.spotify.com/track/1asRUKGIpkIyxUhH6by0T6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:55 | 2025-07-21 | 2026-03-30 |
 | [Like a Prayer](https://open.spotify.com/track/4fpSzZ1mXIc3Yg42KIlV4e) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Hunter](https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Like a Prayer](https://open.spotify.com/album/2x7O0SauXii2wEaV01VZx4) | 3:01 | 2023-07-24 | 2024-06-26 |
 | [Living On The Moon](https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 3:21 | 2024-10-14 | 2025-01-18 |
 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 | 2022-08-23 |  |
@@ -214,6 +214,7 @@
 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 | 2024-06-13 |  |
 | [Trigger Finger](https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:04 | 2025-08-07 |  |
 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 | 2025-06-22 | 2025-08-07 |
+| [Trying To Do Right](https://open.spotify.com/track/3TDEpR2LEaRMEHQJHQHw05) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Home / Trying To Do Right](https://open.spotify.com/album/1jAX2M9aW7DnJRgHFZXNhf) | 5:41 | 2026-03-30 |  |
 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1GIkTBgTJYpWmvLYz2Nxrp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:32 | 2023-11-10 | 2025-06-20 |
 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues](https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl) | 4:32 | 2023-06-17 | 2023-11-11 |
 | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 | 2024-02-24 | 2024-06-25 |

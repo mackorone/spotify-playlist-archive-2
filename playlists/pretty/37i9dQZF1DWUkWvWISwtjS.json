@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 435935,
+  "num_followers": 435857,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAMUkcKM2hkR9lZkaU7kjEsiCmcSS",
   "tracks": [
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 190244,
-      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
-    },
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 205586,
       "name": "Foi por Conveni\u00eancia",
       "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Amor de Carnaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Realidade (Ao Vivo Em Manaus)",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 202066,
       "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
       "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Amor de Carnaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Amiga Linda",
-      "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Realidade (Ao Vivo Em Manaus)",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 173426,
       "name": "Amante N\u00e3o Tem Lar - Ao Vivo",
       "url": "https://open.spotify.com/track/6P8v1a8jyfwG5kc7Si1kUp"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Amiga Linda",
+      "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 180001,
-      "name": "choque t\u00e9rmico - ao vivo",
-      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Mar\u00edlia Mendon\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 173152,
       "name": "Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "choque t\u00e9rmico - ao vivo",
+      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Milu",
-        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 224997,
-      "name": "Milu",
-      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Realidade (Ao Vivo Em Manaus)",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 171626,
       "name": "Perto de Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/0cSIHvOAL4LqBpZnib5Ne5"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Milu",
+        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 224997,
+      "name": "Milu",
+      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "No Pelo Em Campo Grande (ao Vivo)",
-        "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 176575,
-      "name": "Namorada Reserva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Mc Len\u00e7ol e Dj Travesseiro",
         "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 178700,
       "name": "MC Len\u00e7ol e DJ Travesseiro",
       "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "No Pelo Em Campo Grande (ao Vivo)",
+        "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 176575,
+      "name": "Namorada Reserva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "ASSIM NASCE UM B\u00caBADO",
-        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 223374,
-      "name": "ASSIM NASCE UM B\u00caBADO",
-      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "O Embaixador - The Legacy (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 140629,
       "name": "Fala Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "ASSIM NASCE UM B\u00caBADO",
+        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "ASSIM NASCE UM B\u00caBADO",
+      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
     },
     {
       "added_at": "2026-01-16 03:03:24",

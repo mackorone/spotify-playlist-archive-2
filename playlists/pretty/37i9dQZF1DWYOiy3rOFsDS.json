@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Diana Meril en portada.",
-  "num_followers": 547240,
+  "num_followers": 547231,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
         "name": "Esto no acab\u00f3 por m\u00ed",
         "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "A escondidas",
-        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
       },
       "artists": [
         {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
         }
       ],
-      "duration_ms": 212019,
-      "name": "A escondidas",
-      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1095,6 +1079,22 @@
       "duration_ms": 272213,
       "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
       "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
+        "name": "A escondidas",
+        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "A escondidas",
+      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 164798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 186200,
       "name": "Quisiera Enamorarme",
       "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
+        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
-        "name": "Jaque Mate",
-        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Infierno Favorito",
-        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
+        "name": "Mil Vidas",
+        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 214279,
-      "name": "Infierno Favorito",
-      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
+      "duration_ms": 136667,
+      "name": "Mil Vidas",
+      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1607,18 +1603,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Mil Vidas",
-        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
+        "name": "Infierno Favorito",
+        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
         }
       ],
-      "duration_ms": 136667,
-      "name": "Mil Vidas",
-      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+      "duration_ms": 214279,
+      "name": "Infierno Favorito",
+      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
     },
     {
       "added_at": "2026-03-27 06:00:12",

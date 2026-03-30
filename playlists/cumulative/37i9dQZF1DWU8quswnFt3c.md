@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Celebrating 5 Years of EQUAL\. Cover: KAROL G 💚
+> Celebrating 5 Years of EQUAL\. Cover: Cher 💚
 
 2,860 songs - 6 day 14 hr 28 min
 

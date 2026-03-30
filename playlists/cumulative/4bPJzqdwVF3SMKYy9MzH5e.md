@@ -4,7 +4,7 @@
 
 > 
 
-2,395 songs - 5 day 8 hr 46 min
+2,396 songs - 5 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2022-02-04 |  |
 | [Alewife](https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2021-08-05 |  |
 | [Alice](https://open.spotify.com/track/7e4Jb6T2CVM8GoUBS1It1I) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Alice](https://open.spotify.com/album/2ngzamcbAFveP9OLRGUOry) | 2:05 | 2024-12-22 |  |
+| [Alice \- LSDXOXO Remix](https://open.spotify.com/track/050s0Msd1WXkSdG8UjFDEa) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:40 | 2026-03-30 |  |
 | [Alice's Theme \- From "Alice in Wonderland"/Soundtrack Version](https://open.spotify.com/track/4p7EYvJ6yWEjZDZuguSti7) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Alice in Wonderland](https://open.spotify.com/album/4JXo4nvXKYbUTGbG7md0P8) | 5:07 | 2022-10-30 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2021-12-30 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2022-04-03 |  |

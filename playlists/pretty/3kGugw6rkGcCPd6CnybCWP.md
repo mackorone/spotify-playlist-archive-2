@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 86 songs - 5 hr 4 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 88 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 84 | [Dread I](https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Dread I](https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR) | 3:51 |
 | 85 | [Madaket](https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:43 |
 | 86 | [Raise the Flag](https://open.spotify.com/track/3FPJOKXbHLeHbD82qHGDG5) | [M.E.109](https://open.spotify.com/artist/5O7bcW05QzF1Ixl3uS442D) | [Raise the Flag](https://open.spotify.com/album/4IIemHPTrZXD5qStydTv7d) | 3:40 |
+| 87 | [Pushing Forty](https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm) | 3:08 |
+| 88 | [Why Are You Always Late?](https://open.spotify.com/track/1pVb0ycW2iq78WiUZ4K6OW) | [The Westside](https://open.spotify.com/artist/7zqIGGncTa8QJFEvxtTAC0) | [Spiked Mike & His Blue Dog](https://open.spotify.com/album/28020YcAnH2zblFJ7EzfVd) | 3:42 |
 
-Snapshot ID: `AAAN633vqcKe64l8ZNQi28cs9wTZvMfE`
+Snapshot ID: `AAAN7aLpjl4gp2wx8WPNpEyS2u8+oT/w`

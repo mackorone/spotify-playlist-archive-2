@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 166610,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/0cES4pf569g1JsRYcOI45S"
@@ -6740,6 +6740,24 @@
       "duration_ms": 215253,
       "name": "walk the line",
       "url": "https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y"
+    },
+    {
+      "album": {
+        "name": "Little Storm",
+        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
+      },
+      "artists": [
+        {
+          "name": "Beth McBride",
+          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Warm Weather Song",
+      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 133173,
+  "num_followers": 133178,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a"
-      },
-      "artists": [
-        {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1buAB07FLenQs3nd0CLgMp"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Sou Humano (Ao Vivo)",
         "url": "https://open.spotify.com/album/6vyzpWzy6GIqY7xHPiagqJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 273013,
       "name": "Sou Humano (Ao Vivo)",
       "url": "https://open.spotify.com/track/5t402XIfTxPDIVQ8kC2iWg"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a"
+      },
+      "artists": [
+        {
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+        }
+      ],
+      "duration_ms": 255080,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1buAB07FLenQs3nd0CLgMp"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "O Amor Que Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o"
-      },
-      "artists": [
-        {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
-        },
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "O Amor Que Cura (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
@@ -443,18 +423,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Te Queremos Mais",
-        "url": "https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa"
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o"
       },
       "artists": [
         {
-          "name": "Victoria Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d"
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+        },
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
         }
       ],
-      "duration_ms": 321562,
-      "name": "Te Queremos Mais",
-      "url": "https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf"
+      "duration_ms": 257959,
+      "name": "O Amor Que Cura (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -471,6 +455,22 @@
       "duration_ms": 288857,
       "name": "Pra Que Eu Fosse Livre",
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Te Queremos Mais",
+        "url": "https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa"
+      },
+      "artists": [
+        {
+          "name": "Victoria Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d"
+        }
+      ],
+      "duration_ms": 321562,
+      "name": "Te Queremos Mais",
+      "url": "https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Clame a Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 267400,
       "name": "Clame a Jesus (Ao Vivo)",
       "url": "https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
-      },
-      "artists": [
-        {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
-        }
-      ],
-      "duration_ms": 291253,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 251936,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 291253,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
-        }
-      ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Vida Boa",
         "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 283947,
       "name": "Vida Boa",
       "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+        }
+      ],
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
       "added_at": "2026-03-02 15:12:51",

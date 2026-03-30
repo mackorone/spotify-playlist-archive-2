@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-401 songs - 1 day 0 hr 6 min
+402 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 | 2024-01-04 | 2024-12-12 |
 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 | 2026-02-26 |  |
 | [Messing](https://open.spotify.com/track/24jAhrqpAbRKEjJIx8P2X8) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Messing](https://open.spotify.com/album/2k6wAgt4OXJkYLphLhIzMl) | 3:20 | 2025-02-27 | 2025-09-12 |
-| [Mine Forever](https://open.spotify.com/track/0cES4pf569g1JsRYcOI45S) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Mine Forever](https://open.spotify.com/album/2lUt73kRENliUN8xb8fi4J) | 2:46 | 2026-02-13 |  |
+| [Mine Forever](https://open.spotify.com/track/0cES4pf569g1JsRYcOI45S) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Mine Forever](https://open.spotify.com/album/2lUt73kRENliUN8xb8fi4J) | 2:46 | 2026-02-13 | 2026-03-30 |
 | [Modern Drift](https://open.spotify.com/track/2BFL0kBinCKVMCwJolJnKj) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5rHl0fZhid0XgWWwS9amnO) | 4:53 | 2021-12-02 | 2022-07-17 |
 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 | 2022-07-14 | 2024-04-19 |
 | [Money](https://open.spotify.com/track/7sTMoF6SPBuT2SCqgSQsLw) | [Blind Molly](https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov) | [Money](https://open.spotify.com/album/7cVEYErqPGBbREe2kjdVTk) | 3:39 | 2024-02-22 | 2024-03-08 |
@@ -371,6 +371,7 @@
 | [Waiting For \(Demo\)](https://open.spotify.com/track/1Kh2LQRtX9fHnWAFJoBHab) | [Farida](https://open.spotify.com/artist/1TBqlc2KwgI8pEkTdkTwGH), [Rasmus Thall](https://open.spotify.com/artist/2Brc3k9Io6Cb1gUMUocN31) | [Waiting For \(Demo\)](https://open.spotify.com/album/2zdSSXwvguG24MkhGoag9Y) | 2:50 | 2024-08-01 | 2024-10-18 |
 | [Walk](https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Walk](https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ) | 3:45 | 2025-05-29 | 2025-11-14 |
 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 | 2025-03-27 | 2025-11-24 |
+| [Warm Weather Song](https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq) | [Beth McBride](https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73) | [Little Storm](https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx) | 3:41 | 2026-03-26 |  |
 | [Was There Nothing?](https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Was There Nothing?](https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC) | 3:48 | 2021-12-02 | 2022-07-26 |
 | [Was There Nothing?](https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:49 | 2022-07-14 | 2022-11-13 |
 | [Wash It Away](https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Wash It Away](https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt) | 4:03 | 2024-04-26 | 2024-07-21 |

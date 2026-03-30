@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Deyco & JCKC
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,983 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,967 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [BARS 01](https://open.spotify.com/track/3ZK1EIRQ7zJFOCmB2xTNmn) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [BARS 01](https://open.spotify.com/album/0MCwtV8RWlOSHQlwLC11DJ) | 2:10 |
 | 100 | [LUNES PM](https://open.spotify.com/track/5ZMVoeESUk5zl0sfENea0O) | [Carajita](https://open.spotify.com/artist/0EGnen60b0WKZQaoOsGsqJ) | [LUNES PM](https://open.spotify.com/album/0L9AUFYdTtUFuBKBGT7Q11) | 2:01 |
 
-Snapshot ID: `AAAAAEewxbFAF0ESJGQjOOYontRet7XA`
+Snapshot ID: `AAAAAHS82IbN9sYNtQVDhw6Km9oRJufy`

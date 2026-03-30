@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 62 | [Best On](https://open.spotify.com/track/4T7ZVAG9W9nnfpnDwI5yXo) | [Luca](https://open.spotify.com/artist/5rTI6KTONgKmOaeLqb8IgN), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best On](https://open.spotify.com/album/6xZZuco86maqI98MzYrGVD) | 2:45 |
 | 63 | [Fading](https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:22 |
 | 64 | [Closer Still](https://open.spotify.com/track/4TGJZtEGW7hIhwILbEDaku) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:10 |
-| 65 | [Say You Do](https://open.spotify.com/track/7yIyCGOAXt3NXNc5pSuP8X) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:53 |
-| 66 | [Emotional](https://open.spotify.com/track/4t311U33AbGjloBf67KGBs) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Emotional](https://open.spotify.com/album/3lJLSCB64CXbwJwDJa2xll) | 3:06 |
+| 65 | [Emotional](https://open.spotify.com/track/4t311U33AbGjloBf67KGBs) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Emotional](https://open.spotify.com/album/3lJLSCB64CXbwJwDJa2xll) | 3:06 |
+| 66 | [Say You Do](https://open.spotify.com/track/7yIyCGOAXt3NXNc5pSuP8X) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:53 |
 | 67 | [Say It's Fine](https://open.spotify.com/track/4jpd7IRKPndo9CqV2WTkdi) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:25 |
 | 68 | [Don't Stop](https://open.spotify.com/track/5iTjTORUnEiWW0AGgGrOoH) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Don't Stop](https://open.spotify.com/album/3sJHviZD1KfRnhYQX97HB6) | 3:52 |
 | 69 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 279 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 280 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcNXwAAAAAAtBjRieEwGWg7fKQHT4ETt`
+Snapshot ID: `AcNdYAAAAADRh5GAtSvP1MdUfgeJKz2O`

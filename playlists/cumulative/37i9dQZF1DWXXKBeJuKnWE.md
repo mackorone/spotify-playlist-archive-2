@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Drug Church
 
-723 songs - 1 day 19 hr 30 min
+724 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-06 |  |
 | [Kersed](https://open.spotify.com/track/75Op3sFsxnCOOGSZiYyb81) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Kersed](https://open.spotify.com/album/1J3fVPmmCWJhovkDRxQKRc) | 1:53 | 2024-08-09 | 2025-09-12 |
 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 | 2025-10-23 |  |
+| [Killher](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [The Nut House](https://open.spotify.com/album/0HFpKIG41ZlcUkODU4Smns) | 3:21 | 2026-03-13 |  |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-09-20 | 2025-09-12 |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2022-11-10 | 2023-07-26 |
 | [Knife](https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Knife](https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C) | 3:38 | 2024-01-26 | 2024-03-23 |
@@ -505,7 +506,7 @@
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2025-09-12 |
 | [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 | 2025-08-11 |  |
 | [Rain](https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:12 | 2023-05-19 | 2025-10-24 |
-| [Rain](https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7) | 2:43 | 2026-03-13 |  |
+| [Rain](https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7) | 2:43 | 2026-03-13 | 2026-03-30 |
 | [RAINBOWS](https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5) | 4:22 | 2024-04-11 | 2025-09-12 |
 | [Rainy Day](https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:01 | 2022-11-10 | 2023-07-26 |
 | [Ready Set Go](https://open.spotify.com/track/7Jjns4JOpPmO39eR46ABbu) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Ready Set Go](https://open.spotify.com/album/1mMFAPP0KvwAzQxTYf6XpZ) | 2:53 | 2025-08-11 | 2025-09-12 |

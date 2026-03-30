@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-771 songs - 1 day 15 hr 51 min
+772 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Adu the Borga](https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 2:34 | 2026-01-14 |  |
 | [African King](https://open.spotify.com/track/6ggYw77QdcBDBj0thdtMAl) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [African King](https://open.spotify.com/album/0Bno7z2yVU82F0Yd5VgmdD) | 2:23 | 2026-02-27 |  |
 | [AFRIKANA](https://open.spotify.com/track/64WCLvf2CC5u9YTP5sXH8s) | [BILO](https://open.spotify.com/artist/2mRpEmM3HN911HcNiDEsuT), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Sona](https://open.spotify.com/artist/0fZfg0q442duxzNdPCLOLa) | [AFRIKANA](https://open.spotify.com/album/3Xty3EB0LLI6AaDtvb49Bz) | 3:08 | 2024-07-05 | 2024-07-12 |
+| [After The Storm](https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ) | [After The Storm](https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4) | 2:48 | 2026-03-27 |  |
 | [Against](https://open.spotify.com/track/52gCmydyFcaKB4Resr8Bo7) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Luther](https://open.spotify.com/artist/1pvFxQVlZd8YqoEcZK9iWW) | [Against](https://open.spotify.com/album/3vDHV01HAUobX19MMRYgJK) | 3:59 | 2024-05-02 | 2024-05-17 |
 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 | 2025-06-27 | 2025-08-23 |
 | [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 | 2025-03-14 |  |
@@ -213,7 +214,7 @@
 | [Emotional](https://open.spotify.com/track/2tDYu64ZvvrKhkbIPUaz1w) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Emotional](https://open.spotify.com/album/7Fotsa6opC9g2cIQwK5FVw) | 2:28 | 2025-08-22 | 2025-09-19 |
 | [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-25 | 2022-12-25 |
 | [Enjoyment](https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0) | 3:31 | 2022-11-25 | 2023-01-28 |
-| [Enter](https://open.spotify.com/track/1NwssiNfFaYnuCf8qFizTW) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Enter](https://open.spotify.com/album/4Rnp9YkM10Y7Pxk6YOSt4M) | 3:17 | 2025-03-31 |  |
+| [Enter](https://open.spotify.com/track/1NwssiNfFaYnuCf8qFizTW) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Enter](https://open.spotify.com/album/4Rnp9YkM10Y7Pxk6YOSt4M) | 3:17 | 2025-03-31 | 2026-03-30 |
 | [Everyday](https://open.spotify.com/track/53ntPKI0vPoR2i8mLc5Twp) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:29 | 2023-03-30 | 2023-04-28 |
 | [Ewor Me](https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ewor Me](https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey) | 3:40 | 2026-01-14 | 2026-02-06 |
 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 | 2025-03-31 | 2025-07-16 |

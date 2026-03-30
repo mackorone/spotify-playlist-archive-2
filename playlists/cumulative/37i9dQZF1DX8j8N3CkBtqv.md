@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Raghav Meattle, Kamakshi Khanna, Bulli Bainbridge and other exciting artists.
 
-1,392 songs - 3 day 4 hr 13 min
+1,393 songs - 3 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,6 +850,7 @@
 | [Mone Ki Bisare](https://open.spotify.com/track/2adMMAiOdu2hgxXQWYp2XT) | [Tuhin Handique](https://open.spotify.com/artist/6nySCJ1ZsWj9bq5b5l6J1E), [EREKA](https://open.spotify.com/artist/7znMUo3QX4lNQKb5qdlNzT), [i l l i p](https://open.spotify.com/artist/1CipNcOHWrNGZtBT5df9wl) | [Mone Ki Bisare](https://open.spotify.com/album/1Cn2YvLe5ilL1DDYKxoESx) | 2:32 | 2024-07-12 | 2024-08-10 |
 | [MOON \(From "UR Debut"\)](https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [MOON \(From "UR Debut"\)](https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ) | 3:03 | 2025-10-10 | 2026-01-15 |
 | [Moondance](https://open.spotify.com/track/17yvccxoD44O8rWIa0P03W) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Moondance](https://open.spotify.com/album/7qQifVVRwztG6YPGvU8sBr) | 3:24 | 2023-10-27 | 2023-12-02 |
+| [Mora Saawan Sookh Gaya](https://open.spotify.com/track/6oDSJGlPT8lLAKAqQ7PKiu) | [Nihira Joshi](https://open.spotify.com/artist/4cSJs8KQW0qPqIEOyXsWix), [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Mora Saawan Sookh Gaya](https://open.spotify.com/album/5tuTRzARSE9KPwNxCpDAnH) | 4:42 | 2026-03-27 |  |
 | [More Sajan](https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [More Sajan](https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN) | 2:04 | 2024-02-16 | 2024-03-23 |
 | [Move On Easily](https://open.spotify.com/track/6ElUtgbpiJwI78vjyEaHfo) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Move On Easily](https://open.spotify.com/album/1TDsEMuoijSkiP8iy8jlG0) | 3:09 | 2024-09-13 | 2024-10-04 |
 | [Mujhe Bhool Na Jaana](https://open.spotify.com/track/4g2SYiEMqvMKO762SjEWLh) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Mujhe Bhool Na Jaana](https://open.spotify.com/album/7kZghidlh6PB9ooIDBrnn8) | 3:26 | 2025-06-27 | 2025-08-02 |
@@ -1087,7 +1088,7 @@
 | [Saiban](https://open.spotify.com/track/3rn4PxnE3D75ViL4ATuHUd) | [Epic Stories](https://open.spotify.com/artist/2Oxbce0HTivMo5my8u8tAS), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Saiban](https://open.spotify.com/album/7weSTdjfhRpSbt5uS9C5TE) | 4:27 | 2023-04-14 | 2023-06-24 |
 | [Saiyaare](https://open.spotify.com/track/3e82KBCnq2RWzyt1QlCJrZ) | [Ankkit Singh](https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Saiyaare](https://open.spotify.com/album/2L67cAFcd093MAvmKokSc9) | 1:54 | 2025-01-17 | 2025-02-22 |
 | [Saiyan](https://open.spotify.com/track/3XTHsBseNmEUVVHETYyWY8) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Saiyan](https://open.spotify.com/album/3arOJlCtc0IVX4opOV7Fu1) | 3:18 | 2024-09-27 | 2024-12-14 |
-| [Saiyyan Beiman](https://open.spotify.com/track/2qLBYUpdiUwu6UqyADEztY) | [Lascid](https://open.spotify.com/artist/1QNiCC1xT2wDquQnMWDsq8), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Saiyyan Beiman](https://open.spotify.com/album/093GFPVnL9Aw4kAbSkPWUv) | 2:53 | 2026-01-16 |  |
+| [Saiyyan Beiman](https://open.spotify.com/track/2qLBYUpdiUwu6UqyADEztY) | [Lascid](https://open.spotify.com/artist/1QNiCC1xT2wDquQnMWDsq8), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Saiyyan Beiman](https://open.spotify.com/album/093GFPVnL9Aw4kAbSkPWUv) | 2:53 | 2026-01-16 | 2026-03-30 |
 | [Sajda Karaan](https://open.spotify.com/track/25yA3k7cBNDqejRJUun4Qe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Sajda Karaan](https://open.spotify.com/album/7qwVYqNUkUX6eq5UBkVzp3) | 3:40 | 2023-12-15 | 2024-02-24 |
 | [Sajke](https://open.spotify.com/track/4g1zs0DYothhvjcSxdjq0s) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Chahat](https://open.spotify.com/album/0sCJpjZw7D5uCefCcJDXPM) | 4:20 | 2024-10-04 | 2024-12-21 |
 | [Sajke](https://open.spotify.com/track/6TeFtj6dqAUVA1n6qbLuXh) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Sajke](https://open.spotify.com/album/1dUA1KKR4GJCundt3OzHQl) | 4:20 | 2024-08-23 | 2024-10-12 |

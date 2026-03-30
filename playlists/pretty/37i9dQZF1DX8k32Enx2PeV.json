@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15970,
+  "num_followers": 15993,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -491,42 +491,6 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
         "name": "Namorar (Remix)",
         "url": "https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO"
       },
@@ -551,6 +515,42 @@
       "duration_ms": 226319,
       "name": "Namorar - Remix",
       "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Saltas Por M\u00ed",
-        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Saltas Por M\u00ed",
-      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -895,22 +875,22 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
+        "name": "Saltas Por M\u00ed",
+        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         },
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Conexi\u00f3n Total",
-      "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
+      "duration_ms": 160000,
+      "name": "Saltas Por M\u00ed",
+      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -927,6 +907,26 @@
       "duration_ms": 300338,
       "name": "B\u00faho",
       "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Conexi\u00f3n Total",
+      "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
         "name": "S\u00ed",
         "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
       },
@@ -1779,22 +1763,18 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -1811,6 +1791,26 @@
       "duration_ms": 311981,
       "name": "El Boton del Pantalon",
       "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
     },
     {
       "added_at": "2026-03-20 04:59:22",

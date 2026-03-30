@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129261,
+  "num_followers": 129260,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAALdJSLJW1l9tN+egkxcTTFK/IeLm",
   "tracks": [
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 223834,
-      "name": "Nessuna",
-      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
-    },
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 227693,
       "name": "Brivido",
       "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 223834,
+      "name": "Nessuna",
+      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "UFORIA",
-        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+        "name": "HOTEL MONTANA",
+        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 163939,
-      "name": "2000 Pensieri",
-      "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
+      "duration_ms": 207400,
+      "name": "Kiss You (F**k You) [feat. Geolier]",
+      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "HOTEL MONTANA",
-        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
       },
       "artists": [
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Kiss You (F**k You) [feat. Geolier]",
-      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+      "duration_ms": 163939,
+      "name": "2000 Pensieri",
+      "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1103,30 +1103,6 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
-        "name": "UFORIA",
-        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        }
-      ],
-      "duration_ms": 179210,
-      "name": "Tu ed io (feat. thasup, Finesse)",
-      "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1167,6 +1143,30 @@
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "duration_ms": 179210,
+      "name": "Tu ed io (feat. thasup, Finesse)",
+      "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Nonostante Tutto",
-        "url": "https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 207322,
-      "name": "Forte",
-      "url": "https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "Musica Triste",
         "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 184186,
       "name": "SOGNI SPORCHI",
       "url": "https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "Nonostante Tutto",
+        "url": "https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 207322,
+      "name": "Forte",
+      "url": "https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Anno Zero",
-        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "NIKITA",
-      "url": "https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "Mercurio",
         "url": "https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 205720,
       "name": "Soli (Assieme)",
       "url": "https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "Anno Zero",
+        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "NIKITA",
+      "url": "https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu"
     },
     {
       "added_at": "2026-03-12 23:01:35",

@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURSまであと5日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Rama Pantera
+> 【POP YOURSまであと4日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Masato Hayashi
 
-1,393 songs - 2 day 16 hr 12 min
+1,394 songs - 2 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Agari](https://open.spotify.com/track/4qcn2xQJDMliNK4dUiVXX1) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Agari](https://open.spotify.com/album/3yMcgo6uvXN4gRVcXMO0QY) | 1:20 | 2025-02-25 | 2025-04-30 |
 | [AGEASHI \(feat\. Flight\-A, Crazy\-K, BARCO, Swag\-A & ACHA\)](https://open.spotify.com/track/6cjX3CHPAnMSSCEwhBMoWZ) | [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE), [Rheaη](https://open.spotify.com/artist/1hFjgzChpadO5bHy1EW7ri), [Flight\-A](https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh), [CRAZY\-K](https://open.spotify.com/artist/3iU3MjOPvtqLWhNjZbFUaK), [BARCO](https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR), [Swag\-A](https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm), [acha](https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA) | [AGEASHI \(feat\. Flight\-A, Crazy\-K, BARCO, Swag\-A & ACHA\)](https://open.spotify.com/album/4MjuQaO8z0ZLwCLJvXWWUq) | 3:16 | 2025-06-03 | 2025-06-18 |
 | [ain't fired yo](https://open.spotify.com/track/4vCANnPK80yv51MMx3pF46) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [ain't fired yo](https://open.spotify.com/album/5T6WTaJnn1Q5nDG4mXeDOb) | 2:15 | 2025-07-22 | 2025-10-01 |
+| [Ain't No Love](https://open.spotify.com/track/4novRNUf7P0Iv9YlJnBUpb) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2), [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q) | [Ain't No Love](https://open.spotify.com/album/4NHZ56rYAk0EvXtwyCVdgo) | 2:27 | 2026-03-29 |  |
 | [Ain't Scared](https://open.spotify.com/track/2cs7VBf1Y8kk01tszYEDOb) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [Ain't Scared](https://open.spotify.com/album/3mKKpRJXrBPZc1sZIKDrQf) | 2:43 | 2024-04-16 | 2024-04-19 |
 | [Ain't Scared](https://open.spotify.com/track/5c3pCkHkmCOIs4ZVdyXgHs) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [Ain't Scared](https://open.spotify.com/album/2vynWFGew8JGXPNsFkYwp5) | 2:43 | 2024-04-16 | 2024-07-03 |
 | [Air Life](https://open.spotify.com/track/7A9KmkPlvVdOIBHvACeJOq) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [Air Life](https://open.spotify.com/album/4QmOWv5uZvrcLfqUCeUIRz) | 2:46 | 2024-05-15 | 2024-08-28 |

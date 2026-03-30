@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-147 songs - 6 hr 54 min
+148 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [ICEY..](https://open.spotify.com/track/05BgRfW5ZCkQn4ZTNZ3rm4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:52 | 2026-02-16 | 2026-03-05 |
 | [ICEY..](https://open.spotify.com/track/0dxcj2yS97TlvnNvEHL8cl) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 3:52 | 2026-03-05 | 2026-03-21 |
 | [ICEY..](https://open.spotify.com/track/2LO8N3INjSnDrNm17QmgE4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 3:52 | 2025-11-30 | 2026-01-15 |
-| [ICEY..](https://open.spotify.com/track/5LGabrBNxzNvyJNyF9mndz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 3:52 | 2026-03-21 |  |
+| [ICEY..](https://open.spotify.com/track/2lzWxjcHX7RibjHX9UE5lN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 3:52 | 2026-03-30 |  |
+| [ICEY..](https://open.spotify.com/track/5LGabrBNxzNvyJNyF9mndz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 3:52 | 2026-03-21 | 2026-03-30 |
 | [ICEY..](https://open.spotify.com/track/6CI1NtFfoijWJZBkVoUrwN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:52 | 2026-01-15 | 2026-02-16 |
 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 | 2022-10-28 |  |
 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 2:12 | 2024-03-15 |  |

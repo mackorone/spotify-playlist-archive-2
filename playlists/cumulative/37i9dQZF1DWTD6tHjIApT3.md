@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: とた Tota
 
-3,736 songs - 9 day 22 hr 3 min
+3,737 songs - 9 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [again](https://open.spotify.com/track/1aseYWvk8nyKCLYIBkMyRr) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [again](https://open.spotify.com/album/5RLK5P7bmOWSnAwsWNtp42) | 3:12 | 2026-03-03 | 2026-03-11 |
 | [Aging](https://open.spotify.com/track/4wSfTNpteKJo0uKiy4VCBT) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Aging](https://open.spotify.com/album/4Tcip93W7ziXsIInpVzUY9) | 4:01 | 2025-07-08 | 2025-07-19 |
 | [Ahaha feat\. UA](https://open.spotify.com/track/3VpP4mGUDnigqqSRTSf5gi) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Ahaha feat\. UA](https://open.spotify.com/album/5EHqvNnVtu66kaiCI0PDoO) | 3:58 | 2025-04-08 | 2025-04-16 |
-| [Ai ga tokenai uchini](https://open.spotify.com/track/0zedFXbBZMdMkYMx5py6Wh) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai ga tokenai uchini](https://open.spotify.com/album/6GHEXCy9UsevYbOCjyrtMc) | 3:48 | 2026-02-24 |  |
+| [Ai ga tokenai uchini](https://open.spotify.com/track/0zedFXbBZMdMkYMx5py6Wh) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai ga tokenai uchini](https://open.spotify.com/album/6GHEXCy9UsevYbOCjyrtMc) | 3:48 | 2026-02-24 | 2026-03-30 |
 | [ai my me](https://open.spotify.com/track/7oNQCiXscpx3kLi7phm6FY) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [ai my me](https://open.spotify.com/album/78QhM9T4whKfPhPYPPdJk0) | 3:44 | 2025-08-05 | 2025-08-13 |
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-28 | 2024-01-17 |
 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-04-04 | 2024-01-31 |
@@ -1503,6 +1503,7 @@
 | [Rainbow Light Eyes](https://open.spotify.com/track/13VrYQ0GkLoqcHhLezrKOl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Rainbow Light Eyes](https://open.spotify.com/album/0AoYZYkXxDRo3iT7Wzwk9H) | 3:12 | 2023-06-27 | 2023-07-05 |
 | [Rainy day](https://open.spotify.com/track/3H0g8NGWRURyaTrmqK3wg2) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [つづく](https://open.spotify.com/album/66RmXSah1dTWy5of0GzZpj) | 3:16 | 2024-02-08 | 2024-02-14 |
 | [Ranunculus \-Acoustic RememVer.\-](https://open.spotify.com/track/05pQ6WZRpuKZnBL8nQ6CBg) | [Yuki Kadokura](https://open.spotify.com/artist/4qSp0zSmXHPnxjoukHB4mf) | [Ranunculus \-Acoustic RememVer.\-](https://open.spotify.com/album/71QIDdCDFAbMsJtSTCfGUy) | 3:43 | 2025-06-11 | 2025-06-18 |
+| [Ray](https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Ray](https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg) | 4:36 | 2026-03-24 |  |
 | [Ray](https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z) | [夜々](https://open.spotify.com/artist/6t7fsMJuax8NObefWoWiOs) | [Ray](https://open.spotify.com/album/0L60JZmsft6EcKGHVWaH1t) | 3:32 | 2026-02-24 | 2026-03-04 |
 | [Ray of Light](https://open.spotify.com/track/1BYdSmyMvQmG7K2CcD2Efm) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Ray of Light](https://open.spotify.com/album/6c8lU6IAOfVZlJOgRoNhRu) | 4:33 | 2024-01-25 | 2024-01-31 |
 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 | 2022-10-19 |

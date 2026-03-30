@@ -4,7 +4,7 @@
 
 > Check out BTS's <a href="https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa?si=9eJTL\-8PRHOIUiFx4ln41Q&pi=\-1cSpwezSo2dP">'SWIM'</a> music video!
 
-548 songs - 1 day 8 hr 13 min
+556 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,14 @@
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2022-06-10 |  |
 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-05-29 | 2024-04-19 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-20 |  |
+| [SWIM \(Instrumental\)](https://open.spotify.com/track/0hnJ6xEDnBf6zlptWFSQl6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:37 | 2026-03-30 |  |
+| [SWIM with j\-hope \(Afrobeat Remix\)](https://open.spotify.com/track/3MCJY7lXCHa0UNIjsAucaJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:33 | 2026-03-30 |  |
+| [SWIM with Jimin \(Slow Jam R&B Remix\)](https://open.spotify.com/track/1rHA1rzjy0cBgmV0ZwfrXb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:29 | 2026-03-30 |  |
+| [SWIM with Jin \(Alternative Rock Remix\)](https://open.spotify.com/track/5dZLsPskKzph16LWo31uxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:13 | 2026-03-30 |  |
+| [SWIM with Jung Kook \(Acoustic Lofi Remix\)](https://open.spotify.com/track/0a7MZlflT3ZdvdwoP72zM3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:38 | 2026-03-30 |  |
+| [SWIM with RM \(Chill Hip Hop Remix\)](https://open.spotify.com/track/7EytKcb3klVPpN5IW1sj1Y) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:43 | 2026-03-30 |  |
+| [SWIM with SUGA \(Melodic Techno Remix\)](https://open.spotify.com/track/5AL5OrvyIMPqKjl9iw3xO5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:39 | 2026-03-30 |  |
+| [SWIM with V \(Electronic Remix\)](https://open.spotify.com/track/7msJH9xSJP7C7KTo3HM0i2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:20 | 2026-03-30 |  |
 | [SWIMSIDE: A Message from BTS](https://open.spotify.com/track/6aaTaI3N55dboWtxjMENOG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIMSIDE: A Message from BTS](https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH) | 0:42 | 2026-03-27 |  |
 | [SWIMSIDE: A Message from BTS \(English ver.\)](https://open.spotify.com/track/4armFRlesCyzQuFiLr4cGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIMSIDE: A Message from BTS](https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH) | 0:37 | 2026-03-27 |  |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,101 songs - 2 day 23 hr 35 min
+1,103 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 | 2025-03-29 |  |
 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 | 2024-02-24 | 2025-10-17 |
 | [Open Up](https://open.spotify.com/track/5zHvtyKQLeABXy9TEOFtaF) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 2:41 | 2025-08-05 |  |
+| [Opening Night](https://open.spotify.com/track/7kdgWMeO6IBEvDMbfLYShG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:19 | 2026-03-29 |  |
 | [Opening Station](https://open.spotify.com/track/1Ouddr47W1oaAhj2ER32kq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 0:41 | 2025-10-27 | 2026-03-20 |
 | [orð vǫlu](https://open.spotify.com/track/5JKQnnTfMfHaTTDi8cjn76) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 3:47 | 2023-09-17 |  |
 | [Ostern](https://open.spotify.com/track/0Ohx8aU9KdLnvg36zY4SA5) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Radial Gate](https://open.spotify.com/album/71rikQrO1rt7hMQlDBBliD) | 2:19 | 2026-01-27 | 2026-01-29 |
@@ -1023,6 +1024,7 @@
 | [Untitled](https://open.spotify.com/track/0VsjkAEkZvaUoDt0PAzJxC) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 0:12 | 2025-10-19 |  |
 | [Up & Down](https://open.spotify.com/track/16dOZA7Rvb0H14R1E04WyR) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:23 | 2024-01-01 |  |
 | [Upside Down](https://open.spotify.com/track/3spmBjPY8HCNCR6Y0H7Ahd) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/2r05fWtfSBpLSj4L7V7Ix9) | 4:04 | 2024-01-08 |  |
+| [Ur](https://open.spotify.com/track/7sg9ToL94GAiksETi5GZGz) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:55 | 2026-03-29 |  |
 | [Us Against The World](https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:27 | 2024-06-16 | 2025-09-13 |
 | [VEENA](https://open.spotify.com/track/7pBbcjmlVvyHRF4DpJX1CU) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [RAM DULARI](https://open.spotify.com/artist/7bMzC3UZKxukjTnTAWA19t), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [VEENA](https://open.spotify.com/album/6AUvshZi7wXvnfnzCsm1u9) | 2:26 | 2025-09-20 | 2025-10-24 |
 | [Velocity Girl](https://open.spotify.com/track/1sfI921cOH7r6HXGcJ7FnJ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Songs for Polarbears](https://open.spotify.com/album/7kYowijrwy9wBiZia6FzUs) | 4:37 | 2024-01-17 |  |

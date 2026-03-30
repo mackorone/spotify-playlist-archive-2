@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con R\u00d8Z hasta el amanecer ",
-  "num_followers": 24357,
+  "num_followers": 24356,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,26 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Alanis Yuki",
+          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/56njQssbrZ77sYzmNWRE0e"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
         "name": "Loco Contigo",
         "url": "https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp"
       },
@@ -327,22 +347,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "No Hay Nah",
         "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
       },
@@ -363,6 +367,22 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/0Jd73PdKqfSHavt7gU9PCQ"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 255000,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/6Q0I2qcpmbTrrrJVHbXggh"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Alanis Yuki",
-          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/56njQssbrZ77sYzmNWRE0e"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -419,8 +419,8 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "ma\u00f1ana, temprano",
-        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
+        "name": "Ya no te quiero ver",
+        "url": "https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8"
       },
       "artists": [
         {
@@ -428,13 +428,13 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
         }
       ],
-      "duration_ms": 211225,
-      "name": "No veo bien",
-      "url": "https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k"
+      "duration_ms": 213555,
+      "name": "Ya no te quiero ver",
+      "url": "https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -511,8 +511,8 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Ya no te quiero ver",
-        "url": "https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8"
+        "name": "ma\u00f1ana, temprano",
+        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
       },
       "artists": [
         {
@@ -520,13 +520,13 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "Joalin",
-          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 213555,
-      "name": "Ya no te quiero ver",
-      "url": "https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl"
+      "duration_ms": 211225,
+      "name": "No veo bien",
+      "url": "https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Par\u00eds (Junto a Ti)",
-        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Par\u00eds (Junto a Ti)",
-      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "Gaga",
         "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 188304,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Mirando La Luna",
-        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Mirando La Luna",
-      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 168058,
       "name": "ROKALETA!",
       "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "Mirando La Luna",
+        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mirando La Luna",
+      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Sucia",
-        "url": "https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g"
-      },
-      "artists": [
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "King Doudou",
-          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Sucia",
-      "url": "https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "ENTE VIRTUAL",
         "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
       },
@@ -1127,22 +1103,26 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
+        "name": "Sucia",
+        "url": "https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
         },
         {
-          "name": "matt",
-          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
+      "duration_ms": 179072,
+      "name": "Sucia",
+      "url": "https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1159,6 +1139,26 @@
       "duration_ms": 173400,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "otravezmepusemal",
-        "url": "https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "otravezmepusemal",
-      "url": "https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "techno s3x!",
         "url": "https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 145918,
       "name": "techno s3x!",
       "url": "https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "otravezmepusemal",
+        "url": "https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "otravezmepusemal",
+      "url": "https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Zorritas en Bikini",
-        "url": "https://open.spotify.com/album/7oZcKuM8XMieABtTqsNly7"
-      },
-      "artists": [
-        {
-          "name": "Hana Fox",
-          "url": "https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Bachata para un feo",
-      "url": "https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "TAKA",
         "url": "https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 86776,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "Zorritas en Bikini",
+        "url": "https://open.spotify.com/album/7oZcKuM8XMieABtTqsNly7"
+      },
+      "artists": [
+        {
+          "name": "Hana Fox",
+          "url": "https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Bachata para un feo",
+      "url": "https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs"
     },
     {
       "added_at": "2026-03-14 00:00:10",

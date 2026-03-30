@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2160944,
+  "num_followers": 2161432,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -1297,6 +1297,26 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Collide (feat. Tyga)",
+        "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 260169,
+      "name": "Collide (feat. Tyga)",
+      "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
       "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "LET THE WORLD BURN (with G-Eazy & Ari Abdul) [Remix]",
@@ -1319,26 +1339,6 @@
       "duration_ms": 165874,
       "name": "LET THE WORLD BURN (with G-Eazy & Ari Abdul) - Remix",
       "url": "https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Collide (feat. Tyga)",
-        "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 260169,
-      "name": "Collide (feat. Tyga)",
-      "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
     },
     {
       "added_at": "2024-08-02 04:00:00",

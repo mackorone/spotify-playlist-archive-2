@@ -11571,6 +11571,24 @@
     },
     {
       "album": {
+        "name": "Neon Golden",
+        "url": "https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Pick up the Phone",
+      "url": "https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD"
+    },
+    {
+      "album": {
         "name": "Place Where I Go",
         "url": "https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk"
       },

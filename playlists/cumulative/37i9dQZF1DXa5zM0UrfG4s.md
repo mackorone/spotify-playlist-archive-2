@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-441 songs - 20 hr 9 min
+442 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 | 2022-03-24 | 2023-03-02 |
 | [20 i hue](https://open.spotify.com/track/0RHeLUY9dxaCeVvBc2xQfu) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [20 i hue](https://open.spotify.com/album/3UUjJpEjmSMSTdJGy3nsXI) | 3:22 | 2021-12-16 | 2022-07-10 |
 | [2010](https://open.spotify.com/track/3Vo04mpLNaOsFvBfQmXwv3) | [Bastupojkarna](https://open.spotify.com/artist/3CMNg47101P5uCOI0ywTOQ), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [2010](https://open.spotify.com/album/6MIuZmdka8h6vy84CcItzN) | 3:12 | 2022-03-17 | 2022-07-06 |
-| [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 | 2023-08-17 |  |
+| [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 | 2023-08-17 | 2026-03-30 |
 | [5 SHOTS](https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [5 SHOTS](https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln) | 2:08 | 2023-04-13 | 2024-10-18 |
 | [A H7 E](https://open.spotify.com/track/5xyCLB8PVyxYIJJdw42oZp) | [Ingemars](https://open.spotify.com/artist/4UfyXFE2NHOawKTKOFQ62J) | [I Finnskogens Rike](https://open.spotify.com/album/3WUNAJ2dwXIKIPAm1nNCkf) | 3:05 | 2021-12-16 | 2022-01-01 |
 | [Adjø](https://open.spotify.com/track/72byZWY2WfbuSI48TINr3g) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Adjø](https://open.spotify.com/album/0cguembDHQiT70WPMNcNJK) | 2:39 | 2021-12-16 | 2022-07-12 |
@@ -227,6 +227,7 @@
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-13 | 2024-02-09 |
 | [Ingen Fara, Mamma!](https://open.spotify.com/track/5pKIWdiohAHDgGUwjXJiLm) | [Truse Tarzan](https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ), [Brünost](https://open.spotify.com/artist/0iAVl7yqzaGpEM3LLVT589) | [Ingen Fara, Mamma!](https://open.spotify.com/album/1PnczWmm84V0DfpyYfdqrA) | 2:19 | 2021-12-16 | 2022-10-16 |
 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 | 2026-03-12 |  |
+| [Ingenting kan stoppe oss](https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ingenting kan stoppe oss](https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M) | 3:17 | 2026-03-26 |  |
 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 | 2022-10-15 | 2025-08-15 |
 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 | 2021-12-16 |  |
 | [Jag Gillar Dig](https://open.spotify.com/track/5pl2W8X6SDrxE55gRBTFmj) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb), [MC Grüber](https://open.spotify.com/artist/0yf7wmHhxJrbmKakyPqdWH) | [Jag Gillar Dig](https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2) | 2:26 | 2021-12-16 | 2022-11-14 |

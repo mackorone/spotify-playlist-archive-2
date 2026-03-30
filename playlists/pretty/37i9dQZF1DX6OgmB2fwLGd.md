@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.underscores =\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,585 likes - 61 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,599 likes - 61 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 177578,
+  "num_followers": 177587,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
-        "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
-      },
-      "artists": [
-        {
-          "name": "Marty Wilde",
-          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
-        }
-      ],
-      "duration_ms": 141426,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184066,
       "name": "Let Me Go, Lover!",
       "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
+        "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
+      },
+      "artists": [
+        {
+          "name": "Marty Wilde",
+          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
+        }
+      ],
+      "duration_ms": 141426,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Rock & Roll 50s & 60s Mix",
-        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Young",
-          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
-        }
-      ],
-      "duration_ms": 166051,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 165466,
       "name": "Only You (and You Alone)",
       "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Rock & Roll 50s & 60s Mix",
+        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Young",
+          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
+        }
+      ],
+      "duration_ms": 166051,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Changing Partners - Remastered",
-      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/1yNZIJ81MHUnpmWLukcke4"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 142720,
       "name": "Eternally",
       "url": "https://open.spotify.com/track/2FHOqpq2cAFXVv2SY0YmIq"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 170343,
+      "name": "Changing Partners - Remastered",
+      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
     },
     {
       "added_at": "2023-10-17 16:18:55",

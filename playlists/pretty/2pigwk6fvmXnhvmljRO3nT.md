@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,415 songs - 21 day 10 hr 49 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,417 songs - 21 day 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8423,5 +8423,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8413 | [ぐーちょきパレード](https://open.spotify.com/track/3lhB3JMbl5jECvNCt3r4u5) | [とりぷる▲ふぃーりんぐ](https://open.spotify.com/artist/1uaTtaIyAn1qNSXcNpZiDY) | [ぐーちょきパレード\(TVアニメ「三者三葉」エンディング・テーマ\)](https://open.spotify.com/album/6ZealGNHaE3aj2oa2uiY6Z) | 4:23 |
 | 8414 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
 | 8415 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
+| 8416 | [GOCHISO様](https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY) | [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG), [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr), [カツラギエース \(CV\. 藤原夏海\)](https://open.spotify.com/artist/4XGQkF8hcw6jDWULBRUvCo), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD) | [GOCHISO様](https://open.spotify.com/album/1MOckS48Hgg5Leoyh3OFLw) | 3:18 |
+| 8417 | [MANIAC](https://open.spotify.com/track/35ZccqI4iHVR0puhGc1u0U) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/0QMR5pNGuNu4ao6v7ux9Yt) | 3:15 |
 
-Snapshot ID: `AAALfOO2r9pzg0tfSFfIc8ed2LJO1F9D`
+Snapshot ID: `AAALflfbmbFzKli0rMxe38di9dXa+WRX`

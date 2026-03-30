@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-173 songs - 8 hr 34 min
+174 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [God Don't Like It](https://open.spotify.com/track/3o9FiDMKdKp1EQuwg5lxwW) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:52 | 2024-11-04 | 2025-05-30 |
 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 | 2022-05-25 |  |
 | [Have A Little Talk With Jesus](https://open.spotify.com/track/7yfVEafYHPMvvdUb3fZPFp) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 2:00 | 2023-10-04 | 2023-10-11 |
+| [He'll Understand And Say Well Done](https://open.spotify.com/track/0Piw1faCEpPW09UiL07L89) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 4:22 | 2026-03-30 |  |
 | [He's Got the Whole World in His Hands \- Live](https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Live in 1960](https://open.spotify.com/album/3HySlTcJp61IznncKRWK50) | 1:54 | 2022-05-26 | 2022-10-25 |
 | [He's The Lily of the Valley](https://open.spotify.com/track/5J3KLdvasM0AjvMKSZHxoO) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 1:34 | 2025-09-20 | 2025-09-25 |
 | [Heaven Is Not My Home](https://open.spotify.com/track/2zPbogViWWF7oIdXHM1KHg) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:40 | 2025-03-02 | 2025-09-26 |
@@ -114,7 +115,7 @@
 | [Precious Memories](https://open.spotify.com/track/3znf1beToCYacQxQ5z467T) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 5:11 | 2022-05-25 |  |
 | [Precious Memories](https://open.spotify.com/track/0Oz3Xcyk76Ok86R7kgJrXG) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 5:11 | 2022-11-16 | 2023-09-06 |
 | [Pure Religion](https://open.spotify.com/track/5QYpxuGQBvYhnqRNbbXS1t) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:35 | 2022-05-26 | 2025-06-13 |
-| [Rock Daniel \(VD129\)](https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:40 | 2022-05-26 |  |
+| [Rock Daniel \(VD129\)](https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:40 | 2022-05-26 | 2026-03-30 |
 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-05-26 |  |
 | [Rock of Ages](https://open.spotify.com/track/2B5WhsYvmpk2ioGZA5I1L6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Never Alone](https://open.spotify.com/album/4PwLdioxIXipvEaYqIy5kD) | 3:11 | 2022-05-25 | 2024-01-18 |
 | [Savior Don't Pass Me By](https://open.spotify.com/track/5b1rhm53dU2JXv18Dle40F) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 4:05 | 2025-07-02 |  |

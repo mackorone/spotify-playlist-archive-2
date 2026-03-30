@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zerrydl",
-  "num_followers": 136098,
+  "num_followers": 136244,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 123528,
-      "name": "FUJI PARTY",
-      "url": "https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb"
-    },
-    {
-      "added_at": "2026-03-27 00:01:17",
-      "album": {
         "name": "Forex Boys",
         "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
       },
@@ -751,18 +731,22 @@
     {
       "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "USDT",
-        "url": "https://open.spotify.com/album/6ceBJdby988nuSK55yQsQb"
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 149454,
-      "name": "USDT",
-      "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"
+      "duration_ms": 123528,
+      "name": "FUJI PARTY",
+      "url": "https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb"
     },
     {
       "added_at": "2026-03-27 00:01:17",
@@ -783,6 +767,22 @@
       "duration_ms": 141355,
       "name": "Labubu",
       "url": "https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "USDT",
+        "url": "https://open.spotify.com/album/6ceBJdby988nuSK55yQsQb"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "USDT",
+      "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"
     },
     {
       "added_at": "2026-03-27 00:01:17",
@@ -855,42 +855,6 @@
     {
       "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Hot Hot",
-        "url": "https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 143232,
-      "name": "Hot Hot",
-      "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
-    },
-    {
-      "added_at": "2026-03-27 00:01:17",
-      "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
-    },
-    {
-      "added_at": "2026-03-27 00:01:17",
-      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -915,6 +879,22 @@
     {
       "added_at": "2026-03-27 00:01:17",
       "album": {
+        "name": "Hot Hot",
+        "url": "https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 143232,
+      "name": "Hot Hot",
+      "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
       },
@@ -927,42 +907,6 @@
       "duration_ms": 157333,
       "name": "Loner",
       "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
-    },
-    {
-      "added_at": "2026-03-27 00:01:17",
-      "album": {
-        "name": "Rover",
-        "url": "https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Rover",
-      "url": "https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs"
-    },
-    {
-      "added_at": "2026-03-27 00:01:17",
-      "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-03-27 00:01:17",
@@ -991,6 +935,62 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Rover",
+        "url": "https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-03-27 00:01:17",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-03-27 00:01:17",
       "album": {
-        "name": "Hi Hi",
-        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        }
-      ],
-      "duration_ms": 135941,
-      "name": "Hi Hi",
-      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
-    },
-    {
-      "added_at": "2026-03-27 00:01:17",
-      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "added_at": "2026-03-27 00:01:17",
+      "album": {
+        "name": "Hi Hi",
+        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "Hi Hi",
+      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
     },
     {
       "added_at": "2026-03-27 00:01:17",

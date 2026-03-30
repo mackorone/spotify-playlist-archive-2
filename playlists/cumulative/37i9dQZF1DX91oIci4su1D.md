@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,259 songs - 3 day 3 hr 19 min
+1,260 songs - 3 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Enigma](https://open.spotify.com/track/5r2qH0BLeoxg1q6X1wC8sn) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Enigma](https://open.spotify.com/album/6Eonwr5xHUcl8mccdjNPnz) | 3:18 | 2023-06-02 | 2023-12-09 |
 | [Enough](https://open.spotify.com/track/5na18UGUjJUn2SWQXBKWlR) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP) | [Enough](https://open.spotify.com/album/5mmheS7JmN30uEAqr83O0l) | 2:57 | 2025-01-10 | 2025-09-27 |
 | [Enough for Me](https://open.spotify.com/track/64efbrqLb53cBFwoWS9mAE) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Enough for Me](https://open.spotify.com/album/4RJviCzbAljHR4ZLKI71TF) | 3:53 | 2022-08-12 | 2023-06-10 |
-| [Enter The Portal](https://open.spotify.com/track/3g9RkurqYNtQkPRlJ0h9HO) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Enter The Portal](https://open.spotify.com/album/6r1uw773hRjdriOYL7fwPi) | 4:24 | 2025-02-14 |  |
+| [Enter The Portal](https://open.spotify.com/track/3g9RkurqYNtQkPRlJ0h9HO) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Enter The Portal](https://open.spotify.com/album/6r1uw773hRjdriOYL7fwPi) | 4:24 | 2025-02-14 | 2026-03-30 |
 | [Era](https://open.spotify.com/track/5X4LSyx1CyH0FJiJwQH29c) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Era](https://open.spotify.com/album/3utAPcjvEBKwAOto8dfG1u) | 3:06 | 2021-12-17 | 2022-02-26 |
 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-07-22 | 2022-09-24 |
 | [Escape](https://open.spotify.com/track/79XSml1tPuRVHSnEcPE6sf) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Escape](https://open.spotify.com/album/32nCASbx4gdjVd5Hq0gXEd) | 3:21 | 2024-08-02 | 2025-08-30 |
@@ -803,6 +803,7 @@
 | [Open Ocean](https://open.spotify.com/track/1uqdJXj0CSp8hCi8HoLC6q) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle), [Emma Gillespie](https://open.spotify.com/artist/51XNkpCEypEY3z4ruyngRc) | [Open Ocean](https://open.spotify.com/album/3r5VMpvU4oGk8KA9NLOqLu) | 3:55 | 2024-10-25 | 2025-09-27 |
 | [Open Your Eyes](https://open.spotify.com/track/0fXF7HLNe5JzlvqA2lDQbf) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Open Your Eyes](https://open.spotify.com/album/1iM33sKoAHsCaGU8ty4XPb) | 2:34 | 2023-08-25 | 2024-08-31 |
 | [Open Your Eyes](https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf) | [Suanda Music Radio Top 20 \(May 2022\)](https://open.spotify.com/album/2qRknvwmzLJAl0TF18dTMv) | 3:23 | 2022-05-20 | 2022-07-29 |
+| [Orange](https://open.spotify.com/track/3QDMRjEw9lwNlNesjFw0am) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Orange](https://open.spotify.com/album/2hRVRqscqI4SvBTm3H7Y7n) | 2:51 | 2026-03-27 |  |
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 | 2023-05-20 |
 | [Orbital](https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Orbital](https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F) | 3:29 | 2024-07-12 | 2025-05-17 |
 | [Orbital](https://open.spotify.com/track/1YP0dnGSrwpvMF18ONgO4C) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Orbital](https://open.spotify.com/album/1y8lbuql4l668IMedS8EkX) | 5:16 | 2025-05-16 | 2026-02-10 |

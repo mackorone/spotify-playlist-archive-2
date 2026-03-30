@@ -619,6 +619,32 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208361,
+      "name": "2 Chainz & Rollies 2026 (Feat. The Quiett) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/4fLEhL7E1SJhvZNL4ZSCpW"
+    },
+    {
+      "album": {
         "name": "2022 (feat. A-Chess)",
         "url": "https://open.spotify.com/album/5zRocqWQYfXFYwzKPQfLZt"
       },
@@ -1969,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167751,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
+    },
+    {
+      "album": {
         "name": "1 Life 2 Live",
         "url": "https://open.spotify.com/album/0cc1WBBbAkUU0ZEq4IGcdf"
       },
@@ -2302,6 +2346,28 @@
       "duration_ms": 259874,
       "name": "Ancient Power (Feat. Fana & Gaeko)",
       "url": "https://open.spotify.com/track/3Xl1l3rSr641jkKSKtdYEy"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283298,
+      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
     },
     {
       "album": {
@@ -3357,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "BAOW (Feat. Jay Park) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/7uZ2OWKKrWTyqycyVmxJQQ"
+    },
+    {
+      "album": {
         "name": "School Rapper2 Team-Battle Part 3",
         "url": "https://open.spotify.com/album/2JClPQ6cvFEt60tszdK01u"
       },
@@ -4064,7 +4156,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 245760,
       "name": "Bition Boyz",
       "url": "https://open.spotify.com/track/3JZE3zYsMOY1jXtlO1UWS6"
@@ -4134,7 +4226,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 228120,
       "name": "BLAME MY CIRCLE",
       "url": "https://open.spotify.com/track/0JanQ3Oh5uuZqTs0edrXmP"
@@ -4532,7 +4624,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 183333,
       "name": "Bomb Head (feat. GV)",
       "url": "https://open.spotify.com/track/71VtKUtYrDBK3orC4ircF4"
@@ -4580,7 +4672,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 224175,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/7GWjiWZOLVqDzLdp1Pqt0b"
@@ -4662,6 +4754,32 @@
       "duration_ms": 327126,
       "name": "Born Hater",
       "url": "https://open.spotify.com/track/1Q4GCEgmuwVcR3FB1TpJFR"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Flowsik",
+          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "BOUNCE BACK (Feat. Jay Park) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl"
     },
     {
       "album": {
@@ -6636,7 +6754,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 240542,
       "name": "Cross The Street",
       "url": "https://open.spotify.com/track/6ehO37UFYr3DEXKBJUnKF5"
@@ -7619,6 +7737,32 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "Jung Junhyuk",
+          "url": "https://open.spotify.com/artist/3AfvvgMrTONEdoXOfWrBoS"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "DIRT! (Feat. ZICO) (Prod. by ZICO)",
+      "url": "https://open.spotify.com/track/6IsblvUWlwFjo5nA9TWpB9"
+    },
+    {
+      "album": {
         "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
         "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
       },
@@ -8506,6 +8650,28 @@
       "duration_ms": 158120,
       "name": "Eh freestyle",
       "url": "https://open.spotify.com/track/4XbPK3sYAamzpttCcI7Xrd"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221197,
+      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
     },
     {
       "album": {
@@ -12854,7 +13020,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 216314,
       "name": "I Drive Slow",
       "url": "https://open.spotify.com/track/3XvHZOMxcqAmGJJnGTDk3Y"
@@ -15022,7 +15188,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 232252,
       "name": "Like this",
       "url": "https://open.spotify.com/track/6oYSrNvU5cXW0NnpjvGmvV"
@@ -15928,6 +16094,36 @@
       "duration_ms": 84000,
       "name": "Malware (NEW Son Simba)!!!",
       "url": "https://open.spotify.com/track/7G5QlNogQT4tUFtu6m7Wx7"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        },
+        {
+          "name": "UNEDUCATED KID",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "MAMA (Feat. UNEDUCATED KID) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/0dt0DccOIWLtzX45F6uZ1I"
     },
     {
       "album": {
@@ -17042,7 +17238,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 141093,
       "name": "Moshpit Only (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz"
@@ -17206,6 +17402,32 @@
       "duration_ms": 193333,
       "name": "Mr. FOSHO (feat. OXYNOVA, Polodared & KHAN)",
       "url": "https://open.spotify.com/track/2QAb4EOQoy8QshiTBAaCH2"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "MR. ROCKLEE (Feat. JUSTHIS) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/3MC7fwjrvN8Qz4Ky9L45qy"
     },
     {
       "album": {
@@ -19761,6 +19983,24 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "ON to the next (Prod. by Crush, ZICO)",
+      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
+    },
+    {
+      "album": {
         "name": "DKHVKY",
         "url": "https://open.spotify.com/album/4q1iNvb0r2KSxNewjFMFFQ"
       },
@@ -20410,6 +20650,28 @@
       "duration_ms": 146549,
       "name": "pairing",
       "url": "https://open.spotify.com/track/2XHoK0scxzTMYEG7W0Bogc"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "PAJAMA (Feat. WOODZ) (Prod. by ZICO, Crush)",
+      "url": "https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl"
     },
     {
       "album": {
@@ -22330,7 +22592,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 201971,
       "name": "REMEDY",
       "url": "https://open.spotify.com/track/2lcyGwKCUslTENGuV23XSA"
@@ -22640,6 +22902,32 @@
       "duration_ms": 205767,
       "name": "ROB",
       "url": "https://open.spotify.com/track/6keGLa1EdSAA5G0p2RFmVg"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "MASON HOME",
+          "url": "https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284705,
+      "name": "Robbing (Feat. Roh Yun Ha, Coogie) (Prod. by Matthew)",
+      "url": "https://open.spotify.com/track/4IyxjgnjGwqfvXiuzDjhLk"
     },
     {
       "album": {
@@ -24346,7 +24634,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 121840,
       "name": "Slatty Slut (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/1dAI1q2YGqDytJSxnqFaNy"
@@ -27754,7 +28042,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 222120,
       "name": "under the ground",
       "url": "https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h"
@@ -28438,6 +28726,28 @@
       "duration_ms": 349120,
       "name": "VVS - H1GHR Remix",
       "url": "https://open.spotify.com/track/5rf4kHX7sqmTSgc49YVWAI"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306477,
+      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
     },
     {
       "album": {
@@ -30920,7 +31230,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 183773,
       "name": "Yooooo (Feat. Kid Milli, sokodomo, Polodared)",
       "url": "https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx"
@@ -32000,7 +32310,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 174700,
       "name": "\uc138\uc0c1\uc744 \ud754\ub4e4\uc5b4 (Shake the World)",
       "url": "https://open.spotify.com/track/0zgwG6FNCAXr0E7gQuB2iI"

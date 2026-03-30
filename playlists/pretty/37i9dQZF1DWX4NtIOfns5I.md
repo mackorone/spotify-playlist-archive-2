@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Squirrel Flower on the cover 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,057 likes - 113 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,067 likes - 113 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

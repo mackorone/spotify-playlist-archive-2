@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALfOO2r9pzg0tfSFfIc8ed2LJO1F9D",
+  "snapshot_id": "AAALflfbmbFzKli0rMxe38di9dXa+WRX",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -149531,6 +149531,50 @@
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "added_at": "2026-03-29 02:57:12",
+      "album": {
+        "name": "GOCHISO\u69d8",
+        "url": "https://open.spotify.com/album/1MOckS48Hgg5Leoyh3OFLw"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30b7\u30a2\u30de\u30be\u30f3 (CV. \u5dfd \u60a0\u8863\u5b50)",
+          "url": "https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9\u30c1\u30e8\u30ce\u30aa\u30fc (CV. \u91ce\u53e3\u7460\u7483\u5b50)",
+          "url": "https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr"
+        },
+        {
+          "name": "\u30ab\u30c4\u30e9\u30ae\u30a8\u30fc\u30b9 (CV. \u85e4\u539f\u590f\u6d77)",
+          "url": "https://open.spotify.com/artist/4XGQkF8hcw6jDWULBRUvCo"
+        },
+        {
+          "name": "\u30b7\u30fc\u30b6\u30ea\u30aa (CV. \u4f50\u85e4\u699b\u590f)",
+          "url": "https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "GOCHISO\u69d8",
+      "url": "https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY"
+    },
+    {
+      "added_at": "2026-03-29 08:21:48",
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/0QMR5pNGuNu4ao6v7ux9Yt"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/35ZccqI4iHVR0puhGc1u0U"
     }
   ],
   "unique_name": "Purge",

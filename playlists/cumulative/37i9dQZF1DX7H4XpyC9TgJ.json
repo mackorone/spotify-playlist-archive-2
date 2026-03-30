@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "KEEP SWIMMING",
+        "url": "https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "SWIM with Jimin (Slow Jam R&B Remix)",
+      "url": "https://open.spotify.com/track/1rHA1rzjy0cBgmV0ZwfrXb"
+    },
+    {
+      "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
       },

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3887,
+  "num_followers": 3888,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY",
   "tracks": [
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "3 D\u00c9FAUTS",
-        "url": "https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90"
-      },
-      "artists": [
-        {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "3 D\u00c9FAUTS",
-      "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
-    },
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 227408,
       "name": "Lies",
       "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "3 D\u00c9FAUTS",
+        "url": "https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "3 D\u00c9FAUTS",
+      "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "25 EUROS",
-        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
-      },
-      "artists": [
-        {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
-        }
-      ],
-      "duration_ms": 124126,
-      "name": "25 EUROS",
-      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 301277,
       "name": "Jaouad",
       "url": "https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "25 EUROS",
+        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "duration_ms": 124126,
+      "name": "25 EUROS",
+      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Hugh Greene & the Lucies Made Me",
-        "url": "https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH"
-      },
-      "artists": [
-        {
-          "name": "Goodbye Karelle",
-          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
-        }
-      ],
-      "duration_ms": 206906,
-      "name": "Moonroad",
-      "url": "https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "GROSSE MAISON",
         "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 163200,
       "name": "TIP TOP",
       "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Hugh Greene & the Lucies Made Me",
+        "url": "https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "duration_ms": 206906,
+      "name": "Moonroad",
+      "url": "https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "GROSSE MAISON",
         "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 129408,
       "name": "1990",
       "url": "https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "eye 2 eye",
-        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "eye 2 eye",
-      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Coma (Stripped Version)",
         "url": "https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 132600,
       "name": "INSURGENCIA",
       "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "eye 2 eye",
+        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "eye 2 eye",
+      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Wire",
-        "url": "https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC"
-      },
-      "artists": [
-        {
-          "name": "NASTYJOE",
-          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "Strange Place",
-      "url": "https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Down the Row",
         "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 209396,
       "name": "Down the Row",
       "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Wire",
+        "url": "https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC"
+      },
+      "artists": [
+        {
+          "name": "NASTYJOE",
+          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "Strange Place",
+      "url": "https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E"
     },
     {
       "added_at": "2025-11-20 17:00:08",

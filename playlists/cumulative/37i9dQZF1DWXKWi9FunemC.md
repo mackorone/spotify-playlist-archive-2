@@ -4,7 +4,7 @@
 
 > For the caffeinated Christians!
 
-409 songs - 1 day 2 hr 18 min
+410 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 | 2020-08-31 | 2025-10-11 |
 | [Oasis Of Hope](https://open.spotify.com/track/1tkiReqdLIO6z40IiIiGh7) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Oasis Of Hope](https://open.spotify.com/album/7sbdpXQNVkrROi9pdVUyo9) | 3:44 | 2026-03-23 |  |
 | [Obey](https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Obey / Hidden Here](https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg) | 3:55 | 2023-07-28 | 2024-08-03 |
+| [oceans](https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte) | [xylin](https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg), [Jacob Lin](https://open.spotify.com/artist/6DVR8QvYzcYtLif7f3I8op) | [oceans](https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz) | 4:52 | 2026-03-23 |  |
 | [Oh What a Father](https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q) | 3:56 | 2020-08-31 | 2023-03-31 |
 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 | 2020-08-31 | 2024-04-19 |
 | [Oh What a Father](https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16) | 3:56 | 2020-08-31 | 2022-07-29 |
@@ -397,7 +398,7 @@
 | [With Lifted Hands \(feat\. Martin Smith\) \- Acoustic](https://open.spotify.com/track/4YOy8xQckgK4b31Hnsi5nO) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [With Lifted Hands \(feat\. Martin Smith\) \[Acoustic\]](https://open.spotify.com/album/2dQBR1cgnp3QwPRefwzTT4) | 3:31 | 2020-08-31 | 2025-10-11 |
 | [With You](https://open.spotify.com/track/6oE6JvYUDR3aa9JAtFvN61) | [Narrow Skies](https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth) | [Seasons](https://open.spotify.com/album/2tA737IB2KdJprTDwHfmFT) | 2:49 | 2020-08-31 | 2022-07-25 |
 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 | 2024-06-23 | 2024-08-03 |
-| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-06 |  |
+| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-06 | 2026-03-30 |
 | [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 | 2020-08-31 | 2026-03-27 |
 | [Worthy](https://open.spotify.com/track/6m31OC4uyWmHKFpT2vyCaA) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Worthy](https://open.spotify.com/album/7usvayUkl3dLssBcnI5TwM) | 2:54 | 2026-03-23 |  |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-08-31 | 2025-10-11 |

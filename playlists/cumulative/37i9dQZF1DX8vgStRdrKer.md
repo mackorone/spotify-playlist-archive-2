@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-756 songs - 2 day 16 hr 37 min
+757 songs - 2 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-20 |
 | [Imole](https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Speed Dial](https://open.spotify.com/album/1FJkEcLOuChsThdTRJ0Fo1) | 2:23 | 2025-07-25 | 2025-11-02 |
 | [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 | 2026-03-17 |
+| [Impossibility Shatterer](https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 3:24 | 2026-03-27 |  |
 | [IMPRESS](https://open.spotify.com/track/49po3OfHx8xHkUjWw5Bh3B) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [IMPRESS](https://open.spotify.com/album/0O3deyALXkZUf6jt0mkK6x) | 3:21 | 2025-06-20 | 2025-11-21 |
 | [In Awe](https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [In Awe](https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs) | 4:39 | 2026-03-13 |  |
 | [In My Praise](https://open.spotify.com/track/2CsOARViLxITTo2uE5rwMQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In My Praise](https://open.spotify.com/album/12NeijP8fQUiFXWw1lUHbw) | 5:35 | 2025-05-23 | 2025-06-27 |
@@ -498,7 +499,7 @@
 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 | 2024-08-16 | 2025-05-16 |
 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 | 2023-09-15 | 2024-02-02 |
 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 | 2025-05-16 |  |
-| [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 | 2025-09-12 |  |
+| [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 | 2025-09-12 | 2026-03-30 |
 | [NORMALLY](https://open.spotify.com/track/0HW454aYsuiw0Mh5uZRSRT) | [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [NORMALLY](https://open.spotify.com/album/3Zc2ZIrSoyeUFXpmxTumci) | 2:06 | 2025-06-06 | 2025-06-27 |
 | [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 | 2024-05-24 | 2024-07-20 |
 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-09-15 | 2024-03-06 |

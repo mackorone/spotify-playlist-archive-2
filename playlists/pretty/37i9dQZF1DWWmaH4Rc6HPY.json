@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
-  "num_followers": 37971,
+  "num_followers": 37984,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Hagamos Que",
-        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Hagamos Que",
-      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 211590,
       "name": "Ca\u00edda Libre (feat. Robe)",
       "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -659,6 +659,58 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
+        "name": "El Reloj Me Miente",
+        "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 223274,
+      "name": "El Reloj Me Miente",
+      "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Pel\u00edculas De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Pel\u00edculas De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
         "name": "ESO Que Nos Trajo a Abbey Road",
         "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
       },
@@ -691,38 +743,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Pel\u00edculas De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Pel\u00edculas De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
-        "name": "El Reloj Me Miente",
-        "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 223274,
-      "name": "El Reloj Me Miente",
-      "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -863,18 +879,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
       "artists": [
         {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -911,26 +931,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "Perfecto Final",
         "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "La vida de Nadie",
-        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
-      },
-      "artists": [
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 167943,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "odio a primera vista",
         "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
@@ -979,22 +963,6 @@
       "duration_ms": 186996,
       "name": "odio a primera vista",
       "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
-        "name": "Campeones del Mundo / Rayo de Luz",
-        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 341600,
-      "name": "Rayo de Luz",
-      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1015,22 +983,34 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Dando vueltas",
-        "url": "https://open.spotify.com/album/6Oaupt2r7rUsDlF8YlPfmv"
+        "name": "La vida de Nadie",
+        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
         }
       ],
-      "duration_ms": 176781,
-      "name": "Dando vueltas",
-      "url": "https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b"
+      "duration_ms": 167943,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Campeones del Mundo / Rayo de Luz",
+        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "Rayo de Luz",
+      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
+        "name": "Dando vueltas",
+        "url": "https://open.spotify.com/album/6Oaupt2r7rUsDlF8YlPfmv"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 176781,
+      "name": "Dando vueltas",
+      "url": "https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1107,26 +1107,6 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
-        "name": "No Volver\u00e9 </3",
-        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 171636,
-      "name": "No Volver\u00e9 </3",
-      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
+        "name": "No Volver\u00e9 </3",
+        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "No Volver\u00e9 </3",
+      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
         "name": "Todo est\u00e1 pasando ahora",
         "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 228911,
       "name": "Todo est\u00e1 pasando ahora",
       "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
-        "name": "Cuando Estamos T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 159342,
-      "name": "Cuando Estamos T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/3TGYZ8lXozbNHkqzQuNnaA"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+        "name": "Cuando Estamos T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+      "duration_ms": 159342,
+      "name": "Cuando Estamos T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
     },
     {
       "added_at": "2026-03-27 06:00:11",

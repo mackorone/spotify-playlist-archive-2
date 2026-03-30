@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,877 likes - 580 songs - 1 day 7 hr 31 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,878 likes - 580 songs - 1 day 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 3 | [Zoe](https://open.spotify.com/track/70IcVAKpBXfd6HU3wEws0Q) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Zoe](https://open.spotify.com/album/5aWFmmkKOMOTiOpKBqbheK) | 2:31 |
 | 4 | [Replica](https://open.spotify.com/track/4BAs6AHeSAgD5CelQDNLDe) | [Hannah Lew](https://open.spotify.com/artist/40ZrXbMB5FFIxtzatM8Wol) | [Replica](https://open.spotify.com/album/6dWzLoy3fq7zSrrQD6aahh) | 3:42 |
 | 5 | [Five](https://open.spotify.com/track/6xSbo3Hdw3KS1RE9NdHOHO) | [Meghan and Marcy](https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq) | [Five](https://open.spotify.com/album/2VIWLBZ8oUcSPonJ8PL0Zr) | 2:22 |
-| 6 | [Baby I Forgive You](https://open.spotify.com/track/2jWOLxiICD1MVpUBSzBKdW) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Baby I Forgive You](https://open.spotify.com/album/450Pj7mRcbv4yW3wWhesAw) | 2:39 |
-| 7 | [Lighthouse](https://open.spotify.com/track/4tTh8vCX2fQEJbHRbgrt51) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [Lighthouse](https://open.spotify.com/album/4b4Wum704RMtavFNJKN0NB) | 4:32 |
+| 6 | [Lighthouse](https://open.spotify.com/track/4tTh8vCX2fQEJbHRbgrt51) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [Lighthouse](https://open.spotify.com/album/4b4Wum704RMtavFNJKN0NB) | 4:32 |
+| 7 | [Baby I Forgive You](https://open.spotify.com/track/2jWOLxiICD1MVpUBSzBKdW) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Baby I Forgive You](https://open.spotify.com/album/450Pj7mRcbv4yW3wWhesAw) | 2:39 |
 | 8 | [Pentagram](https://open.spotify.com/track/6Nlt2TvAtxpdfLRtyHklA0) | [Rex Laurent](https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2) | [Pentagram](https://open.spotify.com/album/4BsJco0hUiukejUe52lIJq) | 2:27 |
 | 9 | [Shelf](https://open.spotify.com/track/6uxT7YpfzT6vYzmrPc5rzv) | [Spilly Cave](https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l) | [Super](https://open.spotify.com/album/2coBK5wHmSA0PYbsDXbFvr) | 3:12 |
 | 10 | [en](https://open.spotify.com/track/4qbbkRbyOq4VOH7Z8kVarj) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [my early years, your spiral arms](https://open.spotify.com/album/4OIUQbMmZ85UzTp2273vVU) | 3:26 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 579 | [In Morphine](https://open.spotify.com/track/2aMcprsuGxiFS8SmGn3voY) | [Jet City Sports Club](https://open.spotify.com/artist/6mJdgrD61JZMuliDRsTKEp) | [In Morphine](https://open.spotify.com/album/4VaoWs3LfAKqmCRu3FpLWI) | 2:38 |
 | 580 | [Not A Phase](https://open.spotify.com/track/36ZQiXMIYRyu9cuFJOxsCc) | [Communions](https://open.spotify.com/artist/0R8TAmoXJnoB6ro5cp1XdI) | [Not A Phase](https://open.spotify.com/album/5vjMV5LhVU5VaXjvLITt6v) | 3:48 |
 
-Snapshot ID: `AAA0X/hGBSGVlbuFYmH5JN5QIg1z12ra`
+Snapshot ID: `AAA0YvWylVF7Czvs4Vlc77yDmKs+Y5ok`

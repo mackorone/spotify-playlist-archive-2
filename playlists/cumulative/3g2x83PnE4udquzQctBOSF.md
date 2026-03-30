@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-587 songs - 1 day 12 hr 11 min
+588 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [The Lantern](https://open.spotify.com/track/6k3RupZgMFmF7YywVEzmSZ) | [Protonyk effe](https://open.spotify.com/artist/6DCF1QIF6We2qC725gMLKN) | [The Lantern](https://open.spotify.com/album/4P1CdA5eMSgGFzLaA5nm4P) | 6:19 | 2026-03-01 |  |
 | [The Movement](https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Movement](https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC) | 3:04 | 2023-04-30 | 2023-05-23 |
 | [The Mumble](https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O) | [Groove Aspect](https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd) | [The Mumble](https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch) | 3:46 | 2023-04-09 | 2023-04-24 |
+| [The Music In My Head](https://open.spotify.com/track/6HkQWhfkemJbus2zzACiUC) | [West Dingo](https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa) | [The Music In My Head](https://open.spotify.com/album/4iPXKep6t2ZDMvkJGpueRV) | 2:32 | 2026-03-29 |  |
 | [The Rose](https://open.spotify.com/track/1uIQ895GDy3q9NlMu14pI7) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Paradise](https://open.spotify.com/album/4UWUFqTM4G2XZCigKozMqY) | 3:32 | 2026-02-18 | 2026-02-23 |
 | [The Spree](https://open.spotify.com/track/7eIGCVqTAmEK2AYiYSQjob) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [The Spree](https://open.spotify.com/album/7MBdsaS4VeFNemvbJ12NC1) | 3:49 | 2024-05-19 | 2024-07-08 |
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-07-30 | 2023-08-28 |

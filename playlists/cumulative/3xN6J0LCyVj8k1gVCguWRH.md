@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,858 songs - 13 day 15 hr 16 min
+5,860 songs - 13 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3982,6 +3982,7 @@
 | [Pressure](https://open.spotify.com/track/6UHBnRZhTedWSM3xiQM56F) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Pressure](https://open.spotify.com/album/6Cmpsdprlh6oV7QaJhUmrf) | 3:38 | 2024-04-17 | 2024-05-06 |
 | [Pressure & Diamonds](https://open.spotify.com/track/65pqLBtUkMtfni34shRZwU) | [Blaq](https://open.spotify.com/artist/1yUBryxhUrIQBkvmSFC6BM) | [Trap Soul](https://open.spotify.com/album/7ILCXylW8WTSE6R2KPWPrA) | 4:04 | 2026-02-03 | 2026-02-15 |
 | [Pretend Goodbye](https://open.spotify.com/track/7xGpghpnQHIphKwvSUtYTi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Pretend Goodbye](https://open.spotify.com/album/53BVYFhYGuZdfNsZY0wRHJ) | 3:38 | 2020-02-16 | 2020-02-24 |
+| [Pretty](https://open.spotify.com/track/2RfvahNZxizqVJ4XKG7e3Z) | [Darmain stiile](https://open.spotify.com/artist/79mSOWZLtSEzvk1s5bP1pw) | [Pretty](https://open.spotify.com/album/06YLM99aqGBnTeE1b4cmOH) | 2:50 | 2026-03-29 |  |
 | [Pretty](https://open.spotify.com/track/5YE5SdtdLIvIf4mLxXDuoD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:58 | 2023-07-24 | 2023-12-14 |
 | [Pretty Lady](https://open.spotify.com/track/4nmz21l7DdKTPEgecZQJ6b) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Pretty Lady](https://open.spotify.com/album/3gSx5PGcf9oXHSlyHe4mIV) | 3:02 | 2024-06-13 | 2024-06-25 |
 | [Pretty Lies \(Love Lies, Pt\. 2\) \- Remastered](https://open.spotify.com/track/6Hx6QRKthqdxfYDomRScfJ) | [YBF K Sauce](https://open.spotify.com/artist/1azbbmSdNdoyAx0SxJRsTu) | [LIES \(Love Is Emotional Suffering\)](https://open.spotify.com/album/4kIO7SP2uK8kzXiMdYYpDG) | 2:23 | 2026-03-05 | 2026-03-17 |
@@ -5217,6 +5218,7 @@
 | [Too Many Times](https://open.spotify.com/track/5YRXVvbzzSGcoPqd7HXE5m) | [Silk Cinema](https://open.spotify.com/artist/6KXhDXDyiG1LSwbLIgX18B) | [Too Many Times](https://open.spotify.com/album/5UYFaHdLwCNhaWxuj22XR5) | 3:30 | 2021-09-11 | 2021-09-27 |
 | [Too Much](https://open.spotify.com/track/5KJ3sJ0bqlr4kreVTzV2ot) | [BECKi](https://open.spotify.com/artist/0J4zukNSiz0MvCZNb8LZpj), [Dom\_Brady](https://open.spotify.com/artist/3DC3EwATUrQMaqiXkiiOkD) | [Too Much](https://open.spotify.com/album/2uQGAlxZDZmEkpyf6v0TrV) | 2:31 | 2023-08-21 | 2023-09-26 |
 | [too much](https://open.spotify.com/track/42kLJ2njWE483ncUp6oUzC) | [Scribbles Who](https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3) | [too much](https://open.spotify.com/album/3YrhRG44SYnC2MWszqIkeG) | 3:22 | 2023-01-25 | 2023-02-26 |
+| [Too Much \(Broken Souls\)](https://open.spotify.com/track/5zZXq91iziLyWT9cvigho6) | [katarina](https://open.spotify.com/artist/6QtLMXFogzOKn1KEii1VQp) | [Too Much \(Broken Souls\)](https://open.spotify.com/album/40GP1V56aDXiHKBC8kM5bR) | 2:22 | 2026-03-29 |  |
 | [Too Much To Ask For](https://open.spotify.com/track/75mX9iRKSnF9KvdbDpOCYt) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Too Much To Ask For](https://open.spotify.com/album/0V6U8x4DqOlTF9BLgB7Ip8) | 3:25 | 2021-10-30 | 2021-11-14 |
 | [Too Much to Taste](https://open.spotify.com/track/35xTeDQMiFuq6zfWRm9Qp3) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Too Much to Taste](https://open.spotify.com/album/1C1mKA6PiKxqte6gRm7N22) | 2:58 | 2021-10-29 | 2021-11-14 |
 | [Too Old \(For This Shit\)](https://open.spotify.com/track/4b3ETiN2yzPVxCCj36ukwC) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Too Old \(For This Shit\)](https://open.spotify.com/album/5Xd79YfJVR6rQIhuWHGub8) | 3:37 | 2026-02-06 | 2026-03-14 |

@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280426,
+      "name": "Africa Is Where My Heart Lies",
+      "url": "https://open.spotify.com/track/2qVnYwhvxDoT82BrHEB1UR"
+    },
+    {
+      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 158826,
       "name": "Kulala - Remastered",
       "url": "https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54"

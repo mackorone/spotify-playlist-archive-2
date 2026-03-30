@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-406 songs - 22 hr 48 min
+407 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Home Again](https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Home Again](https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR) | 3:16 | 2026-03-24 |  |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-30 | 2026-01-25 |
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-11-17 | 2026-01-05 |
+| [Horizon](https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ) | [Echoeswave](https://open.spotify.com/artist/1MtZxcUYya2yS1cpJaFJ0P) | [Horizon](https://open.spotify.com/album/344uJUD7uj9Ps7VB4G2mgC) | 3:27 | 2026-03-29 |  |
 | [How to Disappear](https://open.spotify.com/track/63tCJRR4eC93oeqFvsWpLp) | [Kat MacKenzie](https://open.spotify.com/artist/17U9gqJry6GtFBLzX9vOpa) | [How to Disappear](https://open.spotify.com/album/5dxG3g6ljbZqoHhHMY5AdG) | 5:26 | 2025-10-30 | 2025-12-01 |
 | [How You Feeling](https://open.spotify.com/track/2TjThOBf6SGlE9ZP6X7K4V) | [Silvan P](https://open.spotify.com/artist/2FU9Ufxvue38MSjJ3I0cFK) | [How You Feeling](https://open.spotify.com/album/0wys4Xyc9v5fj81dmQC3Zh) | 3:53 | 2025-11-10 | 2025-12-01 |
 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-02-20 |  |

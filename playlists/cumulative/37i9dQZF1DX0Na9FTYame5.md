@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-358 songs - 16 hr 14 min
+359 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Glaubst du mir](https://open.spotify.com/track/1G30mRK6xVlgZacAMGIqJi) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Jaimy](https://open.spotify.com/artist/6AOupVx3jzIsZ0qgrb3iuj) | [Glaubst du mir](https://open.spotify.com/album/6NbNH9YduxChQGg2GsbnFr) | 2:56 | 2025-11-06 | 2026-02-06 |
 | [glücklich ohne dich](https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [glücklich ohne dich](https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ) | 2:33 | 2025-04-10 | 2025-07-18 |
 | [Gott weiß wie](https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Gott weiß wie](https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY) | 2:22 | 2024-10-10 | 2024-12-17 |
-| [GOTTES PLAN](https://open.spotify.com/track/4IZVlrRu9LV1T51nK9SXMQ) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [GOTTES PLAN](https://open.spotify.com/album/77lC6e7OHx3EjIIT7ZGPma) | 2:50 | 2026-01-23 |  |
+| [GOTTES PLAN](https://open.spotify.com/track/4IZVlrRu9LV1T51nK9SXMQ) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [GOTTES PLAN](https://open.spotify.com/album/77lC6e7OHx3EjIIT7ZGPma) | 2:50 | 2026-01-23 | 2026-03-30 |
 | [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 | 2024-08-26 | 2025-02-07 |
 | [Haltet die Welt an](https://open.spotify.com/track/4YeWCaInlgqN3ZXlwjr0zj) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Haltet die Welt an](https://open.spotify.com/album/7bRY9v4RxutN1g1qw8VRPh) | 3:13 | 2025-10-10 | 2026-01-24 |
 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 | 2026-01-30 |  |
@@ -325,6 +325,7 @@
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
 | [Verräter](https://open.spotify.com/track/6IrdU8HfMZ63C7nE2hWZuM) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:33 | 2025-10-09 | 2025-11-06 |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-06-28 | 2025-10-03 |
+| [Verschwendung](https://open.spotify.com/track/2OC6H9v7YgfF4JstYct5J2) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Verschwendung](https://open.spotify.com/album/1Agvq3aRLrQjhDeGFSvXEv) | 2:18 | 2026-03-19 |  |
 | [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 | 2025-05-19 | 2025-06-20 |
 | [Visionen](https://open.spotify.com/track/4LZdzSQTP4TvK9B5Boag2G) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/0wqQ5avF8r5DKkQKSYb5bm) | 3:22 | 2025-11-06 | 2026-01-30 |

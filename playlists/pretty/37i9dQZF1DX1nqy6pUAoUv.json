@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170823,
+  "num_followers": 170820,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
+      "duration_ms": 227554,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
         }
       ],
-      "duration_ms": 227554,
-      "name": "Walk Through Fire",
-      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Banjo Babes",
         "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 286139,
-      "name": "Bullet Holes in the Sky",
-      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Miracle of Love",
         "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 268839,
       "name": "Miracle of Love",
       "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 286139,
+      "name": "Bullet Holes in the Sky",
+      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Spinning Plates",
         "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 166324,
       "name": "Spinning Plates",
       "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Fall (Deluxe)",
-        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "High and Low (Acoustic)",
-      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Come and Fill My Soul",
         "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Lorraine",
-        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
+        "name": "The Fall (Deluxe)",
+        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
       },
       "artists": [
         {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Lorraine",
-      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
+      "duration_ms": 167333,
+      "name": "High and Low (Acoustic)",
+      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1439,6 +1423,22 @@
       "duration_ms": 285472,
       "name": "Lawrence of Arcadia",
       "url": "https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Lorraine",
+        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Chaney",
-          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 163280,
       "name": "Worried Mind",
       "url": "https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Boots No. 2: The Lost Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/7ku4wGBtFXYISQhh612mak"
+        "name": "Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Valley Of Tears",
-      "url": "https://open.spotify.com/track/0Zn1G3kuPFWI49YA8ULVEN"
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1"
     }
   ],
   "unique_name": "Contemporary Folk",

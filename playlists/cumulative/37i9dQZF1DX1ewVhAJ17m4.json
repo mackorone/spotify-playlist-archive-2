@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Bexy",
+        "url": "https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110255,
+      "name": "Bexy",
+      "url": "https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh"
+    },
+    {
+      "album": {
         "name": "Big Blind",
         "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
       },
@@ -5720,7 +5738,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 166986,
       "name": "magnet",
       "url": "https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4"

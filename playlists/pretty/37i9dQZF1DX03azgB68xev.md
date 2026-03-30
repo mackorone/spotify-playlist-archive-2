@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Tenroc
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,007 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,017 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [Falling Into It](https://open.spotify.com/track/50080zq9PVGiydaEucleHx) | [Jaye King](https://open.spotify.com/artist/2Wk5lQeZnMmCpgXSqwe4cb) | [Falling Into It](https://open.spotify.com/album/71pkOiZkKKvxCTOcdSdNq7) | 2:56 |
 | 100 | [That's My Yahweh](https://open.spotify.com/track/6WaCSMumfofdh0l5O8cgEo) | [Alex Groh](https://open.spotify.com/artist/1dWWG0eXto2UPnwzarb2ma) | [That's My Yahweh](https://open.spotify.com/album/0w0hXz8sVCC7PlFOmLcORt) | 2:36 |
 
-Snapshot ID: `AAAAAGpA4eH9Qylhmm0yb84RzBLPw3v0`
+Snapshot ID: `AAAAAGee+mNtELCmHz+bQXy0eFul+hhh`

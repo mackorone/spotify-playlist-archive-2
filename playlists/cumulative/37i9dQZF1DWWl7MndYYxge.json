@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Running In The Family (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IzEAfHmMeUiX3X5ertSdL"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/4Y51P1v7Lgbfgx1sahHJAW"
+    },
+    {
+      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 273906,
       "name": "She Works Hard For The Money - Single Version",
       "url": "https://open.spotify.com/track/0WfSc8grEKeHrgxo3stsat"

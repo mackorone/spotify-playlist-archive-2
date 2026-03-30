@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-364 songs - 1 day 0 hr 47 min
+365 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Plur](https://open.spotify.com/track/2QYLBNj1fX9oD7RVcKgnXu) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Plur](https://open.spotify.com/album/06nKb1lnkGylo7Mca18s7k) | 4:27 | 2025-03-07 |  |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |
 | [Post Punk](https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Elements of Dance EP](https://open.spotify.com/album/37vDo1xuSYq0krqPsEO75w) | 3:30 | 2025-04-25 | 2025-12-11 |
+| [Power](https://open.spotify.com/track/3pmVYUybrSXz79BBwL9RWW) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ), [AZYR](https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8) | [Power](https://open.spotify.com/album/0Zd6ZxUrYlt4XpBDivljUO) | 4:14 | 2026-03-20 |  |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 |  |
 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 | 2025-05-16 | 2025-07-31 |
 | [Pretty Face](https://open.spotify.com/track/1aODaFKkuiysjOQ9Y8shn2) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Pretty Face](https://open.spotify.com/album/16IW14hGqvrgYJksfwi0EF) | 3:27 | 2026-02-13 |  |
@@ -368,7 +369,7 @@
 | [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 | 2024-06-24 |
 | [XTC Love](https://open.spotify.com/track/46oG3q3ZvNvEWQOPJcs8Oh) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [JSTN](https://open.spotify.com/artist/6eGp2AIQ3TjdRZ7uxdbaY2) | [For your mind](https://open.spotify.com/album/3BwnFfvOQKkIVvRw0BlwsG) | 4:48 | 2024-04-09 | 2025-02-14 |
 | [XTCWTF](https://open.spotify.com/track/6fHZZaGk4QBwVQDc9oMKKR) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [XTCWTF](https://open.spotify.com/album/5ujH6sqRszexztTVL3Qjho) | 3:43 | 2024-11-29 | 2025-04-07 |
-| [YOU ARE MINE](https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [YOU ARE MINE](https://open.spotify.com/album/1iFfeclCvyoctBXLDYLiAg) | 3:16 | 2025-03-19 |  |
+| [YOU ARE MINE](https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [YOU ARE MINE](https://open.spotify.com/album/1iFfeclCvyoctBXLDYLiAg) | 3:16 | 2025-03-19 | 2026-03-30 |
 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 | 2024-04-09 |  |
 | [Young Birds \- Hard Duck Edit](https://open.spotify.com/track/1jxgFyyTRgoMGKRZsJ27bi) | [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [Hard Duck](https://open.spotify.com/artist/1JE2VS4iNTz6kMekTzaeh1) | [Young Birds \(Hard Duck Edit\)](https://open.spotify.com/album/58h1FUbmLeelL6Tk0kYsLb) | 5:01 | 2024-07-14 | 2024-07-22 |
 | [Your Soul](https://open.spotify.com/track/5MYhLdXq3fzLO7XhDM1eXQ) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [This Is Real](https://open.spotify.com/album/4sAaFyPg9TAin46olKrqbt) | 4:07 | 2024-12-06 | 2025-02-03 |

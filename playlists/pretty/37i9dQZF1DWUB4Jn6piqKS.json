@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 149104,
+  "num_followers": 149113,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Northern Side of Philly Soul",
-        "url": "https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw"
-      },
-      "artists": [
-        {
-          "name": "Moses Smith",
-          "url": "https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "The Girl Across the Street",
-      "url": "https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "For Northern Soul Collectors: Volume 1",
         "url": "https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 190626,
       "name": "I Walked Away",
       "url": "https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Northern Side of Philly Soul",
+        "url": "https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw"
+      },
+      "artists": [
+        {
+          "name": "Moses Smith",
+          "url": "https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "The Girl Across the Street",
+      "url": "https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
+        "name": "After Hours The Collection: Northern Soul Masters",
+        "url": "https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5"
+      },
+      "artists": [
+        {
+          "name": "Cliff Nobles",
+          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "My Love Is Getting Stronger",
+      "url": "https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
         "name": "Best Of The Sapphires",
         "url": "https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 153640,
       "name": "Something New to Do",
       "url": "https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
-        "name": "After Hours The Collection: Northern Soul Masters",
-        "url": "https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5"
-      },
-      "artists": [
-        {
-          "name": "Cliff Nobles",
-          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
-        }
-      ],
-      "duration_ms": 171933,
-      "name": "My Love Is Getting Stronger",
-      "url": "https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Joe Tex Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3"
-      },
-      "artists": [
-        {
-          "name": "Joe Tex",
-          "url": "https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q"
-        }
-      ],
-      "duration_ms": 266293,
-      "name": "Under Your Powerful Love",
-      "url": "https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "New Vibrations",
         "url": "https://open.spotify.com/album/17pK7FO1957b0Ap3PubWOh"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 127981,
       "name": "Gonna Get Along Without You Now - Single Version",
       "url": "https://open.spotify.com/track/1qgtXp0dM8HSxlnbSQZDuc"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Joe Tex Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3"
+      },
+      "artists": [
+        {
+          "name": "Joe Tex",
+          "url": "https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q"
+        }
+      ],
+      "duration_ms": 266293,
+      "name": "Under Your Powerful Love",
+      "url": "https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Constellation of Chicago Soul",
-        "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
-      },
-      "artists": [
-        {
-          "name": "Nolan Chance",
-          "url": "https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Just Like the Weather",
-      "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.4: Wigan Casino",
         "url": "https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 137200,
       "name": "You've Got Your Mind On Other Things",
       "url": "https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Constellation of Chicago Soul",
+        "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
+      },
+      "artists": [
+        {
+          "name": "Nolan Chance",
+          "url": "https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Just Like the Weather",
+      "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
     },
     {
       "added_at": "2024-03-22 16:05:01",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12566,
+  "num_followers": 12568,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAABGnXpqS1W8hdF5DJBD2TYB",
+  "snapshot_id": "accaAAAAAABx/vXMg0aCAw25f4Xvdjhy",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
-        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+        "name": "DIOSA",
+        "url": "https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 130470,
-      "name": "Cartel De Reyes",
-      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+      "duration_ms": 214564,
+      "name": "DIOSA",
+      "url": "https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt"
     },
     {
       "added_at": null,
@@ -379,6 +379,38 @@
       "duration_ms": 164064,
       "name": "El Vivo Retrato (Ivan Archivaldo)",
       "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
+        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Cartel De Reyes",
+      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 212749,
+      "name": "L.A. Dank",
+      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
     },
     {
       "added_at": null,
@@ -407,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 212749,
-      "name": "L.A. Dank",
-      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimen Organizado",
         "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 186455,
       "name": "Crimen Organizado",
       "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DIOSA",
-        "url": "https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "DIOSA",
-      "url": "https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt"
     },
     {
       "added_at": null,

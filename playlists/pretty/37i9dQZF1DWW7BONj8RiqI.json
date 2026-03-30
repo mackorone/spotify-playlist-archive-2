@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 245031,
+  "num_followers": 245070,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,26 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Bicycle Ride (Soca Remix)",
-        "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
+        "name": "Mind My Business",
+        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         },
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
         },
         {
-          "name": "Mario Dunwell",
-          "url": "https://open.spotify.com/artist/2nyWInNN7pGfAL7sgTAOOO"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 172755,
-      "name": "Bicycle Ride - Soca Remix",
-      "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
+      "duration_ms": 119040,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -323,26 +323,26 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Mind My Business",
-        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
+        "name": "Bicycle Ride (Soca Remix)",
+        "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
       },
       "artists": [
         {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         },
         {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         },
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Mario Dunwell",
+          "url": "https://open.spotify.com/artist/2nyWInNN7pGfAL7sgTAOOO"
         }
       ],
-      "duration_ms": 119040,
-      "name": "Mind My Business",
-      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
+      "duration_ms": 172755,
+      "name": "Bicycle Ride - Soca Remix",
+      "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Face Beat",
-        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
-      },
-      "artists": [
-        {
-          "name": "Father Philis",
-          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
-        }
-      ],
-      "duration_ms": 143789,
-      "name": "Face Beat",
-      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Face Beat",
+        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
+      },
+      "artists": [
+        {
+          "name": "Father Philis",
+          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "Face Beat",
+      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 164409,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1223,38 +1223,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
-      },
-      "artists": [
-        {
-          "name": "Militant",
-          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
-        }
-      ],
-      "duration_ms": 256210,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 263693,
       "name": "Sak Pas\u00e9",
       "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
+      },
+      "artists": [
+        {
+          "name": "Militant",
+          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
+        }
+      ],
+      "duration_ms": 256210,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Retro Fete Riddim",
         "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 152624,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Rukshun",
-      "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 181960,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Rukshun",
+      "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Lose Weight",
         "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 167999,
       "name": "Lose Weight",
       "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
     },
     {
       "added_at": "2026-02-12 17:24:55",

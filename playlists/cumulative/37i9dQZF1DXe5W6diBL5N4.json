@@ -6897,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "a plumber",
+        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209774,
+      "name": "a plumber",
+      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
+    },
+    {
+      "album": {
         "name": "2025 SHIN SEUNG TAE BALLAD",
         "url": "https://open.spotify.com/album/7n8UEUOomhO9Tk18LxTpdZ"
       },
@@ -12763,6 +12781,24 @@
     },
     {
       "album": {
+        "name": "Doctor Shin (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/2O4NBHyE2U705zT9ykhIms"
+      },
+      "artists": [
+        {
+          "name": "LEE SOLOMON",
+          "url": "https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246268,
+      "name": "All You Left Me Was Your Scent",
+      "url": "https://open.spotify.com/track/4bL1DnWYR2oSewP5ML4HHV"
+    },
+    {
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/7HMDGwsEJTv6J7MdgeVNuL"
       },
@@ -13886,7 +13922,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 253000,
       "name": "ALWAYS YOU",
       "url": "https://open.spotify.com/track/2tZCJWhiumsAyLbQDvkiLk"
@@ -17064,7 +17100,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 233000,
       "name": "As I am",
       "url": "https://open.spotify.com/track/7akfjkkp7aQWE4wR0xQIFb"
@@ -19632,7 +19668,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 158124,
       "name": "babyblue",
       "url": "https://open.spotify.com/track/66HWds9qgwzMxcfiwQcCue"
@@ -28480,6 +28516,28 @@
       "duration_ms": 168000,
       "name": "Bitter Sweet",
       "url": "https://open.spotify.com/track/4c0eCpo9kJKSzGuLA7fO2u"
+    },
+    {
+      "album": {
+        "name": "Mad Concrete Dreams, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3qCCWvZSFuUeWktmaU9iQE"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Bitter Sweet (Addiction)",
+      "url": "https://open.spotify.com/track/2DDCG4QLRuz2QgTj12kEHv"
     },
     {
       "album": {
@@ -39918,6 +39976,32 @@
       "duration_ms": 190746,
       "name": "Can\u2032t Stop",
       "url": "https://open.spotify.com/track/6Tmjq4da2hLGJyuSPWKLiP"
+    },
+    {
+      "album": {
+        "name": "Can\u2032t stop (Feat. Gist, MilliMax)",
+        "url": "https://open.spotify.com/album/1emN6iEzBXCdE4QXnijNei"
+      },
+      "artists": [
+        {
+          "name": "GRIO",
+          "url": "https://open.spotify.com/artist/0MjC05t54hhvrqLBsIeTbu"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160479,
+      "name": "Can\u2032t stop (Feat. Gist, MilliMax)",
+      "url": "https://open.spotify.com/track/3ENB4Pau420vxod8C9xhhn"
     },
     {
       "album": {
@@ -53984,7 +54068,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 151867,
       "name": "DEAD MAN WALKING",
       "url": "https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX"
@@ -76239,6 +76323,28 @@
     },
     {
       "album": {
+        "name": "Feel Like Yesterday",
+        "url": "https://open.spotify.com/album/04AQ6aQEXrEgoz2iZnhtmY"
+      },
+      "artists": [
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
+        },
+        {
+          "name": "YOSEP",
+          "url": "https://open.spotify.com/artist/5QSVxGJPTXSltnLIdw0nKt"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Feel Like Yesterday",
+      "url": "https://open.spotify.com/track/2ioj4NoL5969kmWOuMnqQ4"
+    },
+    {
+      "album": {
         "name": "Feel me",
         "url": "https://open.spotify.com/album/0IXRPBAOj5deei4Sux5sor"
       },
@@ -98184,7 +98290,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 253000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5z9xBkTjtyYhgrAx1guUND"
@@ -111652,7 +111758,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 233439,
       "name": "I Must have loved you",
       "url": "https://open.spotify.com/track/1DSqriGBguQ1okZd4JRFAD"
@@ -125460,6 +125566,24 @@
       "duration_ms": 185400,
       "name": "I\u2019m Down (Feat. bren)",
       "url": "https://open.spotify.com/track/7imtBc6UIshHaHlqgNjaA4"
+    },
+    {
+      "album": {
+        "name": "Still Shining OST Part.8",
+        "url": "https://open.spotify.com/album/4b0H5ID0HPW4fTILjt7EsX"
+      },
+      "artists": [
+        {
+          "name": "Ra.D",
+          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "I\u2019m fine, really",
+      "url": "https://open.spotify.com/track/0bgBCVoNy7OS0WC5ADTzSY"
     },
     {
       "album": {
@@ -153040,7 +153164,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 152613,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/0CdKCMl8tnEFRnAKOwG2DL"
@@ -158366,7 +158490,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 205640,
       "name": "Missing Calls",
       "url": "https://open.spotify.com/track/7Cubp1ptCzu3iPm262v8j3"
@@ -178505,6 +178629,24 @@
     },
     {
       "album": {
+        "name": "One's Life (Original Soundtrack from Recipe for Love)",
+        "url": "https://open.spotify.com/album/1rMjxuGdg3vLyPlxEm6yNc"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211255,
+      "name": "One\u2032s Life",
+      "url": "https://open.spotify.com/track/4wPo3CSwbO9o6JIMxxw5OZ"
+    },
+    {
+      "album": {
         "name": "Onion Girl",
         "url": "https://open.spotify.com/album/7aFtBrJmQjBoh8DIw6gHfN"
       },
@@ -180744,6 +180886,28 @@
       "duration_ms": 197520,
       "name": "OUR DAYS",
       "url": "https://open.spotify.com/track/31SfUhe4smQ6X31pmE9u4L"
+    },
+    {
+      "album": {
+        "name": "Our Endgame",
+        "url": "https://open.spotify.com/album/3uO4kM9DnNNVHjgfK4oq7r"
+      },
+      "artists": [
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        },
+        {
+          "name": "ZO ZAZZ",
+          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283839,
+      "name": "Our Endgame",
+      "url": "https://open.spotify.com/track/6gSx6Kx5jhsc1LBnwUFxxw"
     },
     {
       "album": {
@@ -225760,7 +225924,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 280000,
       "name": "Still Thinking of You",
       "url": "https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy"
@@ -248124,7 +248288,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 249354,
       "name": "To Truth",
       "url": "https://open.spotify.com/track/02EGe74DUyiuQp76biMQ8i"
@@ -259146,6 +259310,24 @@
       "duration_ms": 203677,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/3iQOpG5IPvJt4uzf4rQhcD"
+    },
+    {
+      "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/7jTSmDiiXk5Clv4pBTt5Uz"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/4pExUTpP98fS8qNPZfsCjW"
     },
     {
       "album": {
@@ -271061,6 +271243,24 @@
     },
     {
       "album": {
+        "name": "Where Is Here",
+        "url": "https://open.spotify.com/album/5pNjRCmjOS5aTm4QJcC0Lq"
+      },
+      "artists": [
+        {
+          "name": "BOOHWAL",
+          "url": "https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216743,
+      "name": "Wind in the Sails",
+      "url": "https://open.spotify.com/track/2tuSmGcfM9LM6AhrQUVlL3"
+    },
+    {
+      "album": {
         "name": "Tale of the Nine Tailed 1938, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3ftcuflXLP4SaSoUb1GwM5"
       },
@@ -272705,6 +272905,24 @@
     },
     {
       "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/3z1Wf05O960hlh7GBuqm6A"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189970,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE"
+    },
+    {
+      "album": {
         "name": "Wishes Come Together",
         "url": "https://open.spotify.com/album/56dgfkQYSayk7H46kUuxq1"
       },
@@ -273246,7 +273464,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 245000,
       "name": "With You",
       "url": "https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa"
@@ -277364,6 +277582,28 @@
       "duration_ms": 113716,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/68o5PESbYtD95ITwmMrvkg"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV"
     },
     {
       "album": {
@@ -290192,7 +290432,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 202000,
       "name": "\uc0ac\uc2e4\uc740 \ub9d0\uc774\uc57c (To Tell You the Truth)",
       "url": "https://open.spotify.com/track/7tujADkD6ShOAYhgiJu4wJ"

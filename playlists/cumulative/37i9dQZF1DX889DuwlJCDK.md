@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Re:name
 
-1,694 songs - 4 day 6 hr 18 min
+1,696 songs - 4 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,7 +1227,7 @@
 | [一日数秒の良いシーン](https://open.spotify.com/track/6sgCpPWZ2Te19RLgCaqVv2) | [ハシリコミーズ](https://open.spotify.com/artist/4NVdO6VBd0AiwHr1byOcmP) | [I Love you! next to music](https://open.spotify.com/album/6mF00aG39MlCQnZkjJm6xx) | 4:30 | 2024-03-12 | 2024-03-14 |
 | [一生僕ら恋をしよう](https://open.spotify.com/track/2Tvzvp5zBYht7JEh7c6YV3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [一生僕ら恋をしよう](https://open.spotify.com/album/1UdbM46SSl7ijPvnv2Usn5) | 4:16 | 2026-02-24 |  |
 | [一目惚れ](https://open.spotify.com/track/0Hf5QDObwSrceexKd0Xre5) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [雨のち君で晴れに変わる](https://open.spotify.com/album/33xIgOBdbzlabS2vHTiNQH) | 2:26 | 2025-03-04 | 2025-03-12 |
-| [三日月](https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [希望の匂い](https://open.spotify.com/album/0nuQNH81AYkyvXharmEYzN) | 3:44 | 2026-02-24 |  |
+| [三日月](https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [希望の匂い](https://open.spotify.com/album/0nuQNH81AYkyvXharmEYzN) | 3:44 | 2026-02-24 | 2026-03-30 |
 | [三月の風](https://open.spotify.com/track/6fPnOHHrctWsNa6F9smlxP) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [三月の風](https://open.spotify.com/album/30x3lidNArVmRqki2C0b4y) | 3:52 | 2024-03-05 | 2024-03-07 |
 | [不器用な人](https://open.spotify.com/track/38aycIM2nzIE9mqz6qFLM1) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [不器用な人](https://open.spotify.com/album/14lLrjZU79YZoZLaFoxfTi) | 3:16 | 2025-04-01 | 2025-04-21 |
 | [不完ロマンス](https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [不完ロマンス](https://open.spotify.com/album/3cDwYqsC8SXdDQ6zeFvAd0) | 3:30 | 2024-03-19 | 2024-04-24 |
@@ -1308,6 +1308,7 @@
 | [君のヒーロー](https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [君のヒーロー](https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh) | 3:32 | 2024-12-03 | 2025-02-19 |
 | [君の彼氏になりたい](https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [君の彼氏になりたい](https://open.spotify.com/album/5VlpDzBArKgiDPvQiYfKNq) | 3:40 | 2024-11-19 | 2025-03-05 |
 | [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 | 2024-04-16 | 2024-09-18 |
+| [君の言う通りだった](https://open.spotify.com/track/76OqofoW0vCkAvyxkkWvbg) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [君の言う通りだった](https://open.spotify.com/album/7sQ58KpywwgiUk0AMqrVF4) | 3:58 | 2026-03-24 |  |
 | [君は悪魔](https://open.spotify.com/track/5Bu9yzZC3MHwAt5FT3VdSD) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [君は悪魔](https://open.spotify.com/album/3wyRwvxWDMA5pYj4JQ4mGa) | 3:46 | 2025-07-08 | 2025-07-16 |
 | [吟遊詩人](https://open.spotify.com/track/7EY7wzlPY70UrvQIF8GkSF) | [Observer](https://open.spotify.com/artist/0U5fE0O9vgPwUyVX8omkcN) | [吟遊詩人](https://open.spotify.com/album/4Rwq3IAeAqG9wJdxADP9Mj) | 4:22 | 2025-01-21 | 2025-01-29 |
 | [告白](https://open.spotify.com/track/1tr7UxB7IQ7WHt04IPo9DO) | [アルコサイト](https://open.spotify.com/artist/7hk5b4YhnFsoCX8OFZQ58s) | [告白](https://open.spotify.com/album/50OzPaoa28jLICf7A5ZfrY) | 2:59 | 2025-04-01 | 2025-04-09 |
@@ -1473,6 +1474,7 @@
 | [春の魔法](https://open.spotify.com/track/42BO8xZFOcZZe5waiL8vcx) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [春の魔法](https://open.spotify.com/album/6brjqLC9EfVz33FYX7Bf4w) | 4:11 | 2026-03-24 |  |
 | [春時雨](https://open.spotify.com/track/2r8JOEVYE1zfKmibXja6Hz) | [RIP DISHONOR](https://open.spotify.com/artist/4aDGKnZOq8zStrKXfR3pWu) | [春時雨](https://open.spotify.com/album/2nkTLVmUPnMDhFzBPBp4ln) | 4:29 | 2023-08-08 | 2023-08-23 |
 | [春風は過ぎて](https://open.spotify.com/track/2szKG772egNChtpUexSNYB) | [SonoSheet](https://open.spotify.com/artist/2T82Zj0qxDDo9wEf5imuPC) | [春風は過ぎて](https://open.spotify.com/album/6oBBJUcAYdFpg3ZGffilFF) | 2:21 | 2026-03-03 | 2026-03-11 |
+| [昨日に則って](https://open.spotify.com/track/2RHIpb9NyMaHZ56XTMpKIg) | [ざらばんし](https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij) | [昨日に則って](https://open.spotify.com/album/2kU6FH4ZwcwEnRFr4HGB6I) | 3:23 | 2026-03-24 |  |
 | [時代](https://open.spotify.com/track/7ki5IQVkHOPvG2UAV8RotX) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [時代](https://open.spotify.com/album/3UvVDNFMJVRF6hWhFRZmc1) | 3:36 | 2024-06-25 | 2024-07-03 |
 | [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 | 2023-08-17 | 2023-08-19 |
 | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 | 2025-01-21 | 2025-07-09 |
@@ -1666,7 +1668,7 @@
 | [長い夢の終わりに](https://open.spotify.com/track/2xGj4C21JY8rJnaVyu9BaW) | [World's End Super Nova](https://open.spotify.com/artist/2A67dKcOc79Wz7UlUOVE7o) | [ENIKKI](https://open.spotify.com/album/3yJa6jPYV0Cns1tygQFhuX) | 4:47 | 2025-02-11 | 2025-02-26 |
 | [閃光配信](https://open.spotify.com/track/3agn9FdMlV6Ecl2MOsTl5U) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [閃光配信](https://open.spotify.com/album/1a39oxRKgYRZ4A3iE78OqL) | 2:17 | 2024-04-23 | 2024-06-01 |
 | [開戦前夜](https://open.spotify.com/track/3g5rhNKf6EOOxST9riIDHE) | [突然少年](https://open.spotify.com/artist/2dOae4NRUJBueAMBNlwELq) | [未来](https://open.spotify.com/album/6zgrOTMoQ1bHzeb5TuaJ4W) | 7:15 | 2023-12-12 | 2024-01-10 |
-| [関係のラプソディー](https://open.spotify.com/track/6Mpqo6mLIQ0qbf0Bz68hHp) | [睡眠船](https://open.spotify.com/artist/4OHZtD9DHyBp9nqSizvBff) | [関係のラプソディー](https://open.spotify.com/album/3JQU6Fl97q9ilcxOeAPr8Y) | 4:45 | 2026-03-10 |  |
+| [関係のラプソディー](https://open.spotify.com/track/6Mpqo6mLIQ0qbf0Bz68hHp) | [睡眠船](https://open.spotify.com/artist/4OHZtD9DHyBp9nqSizvBff) | [関係のラプソディー](https://open.spotify.com/album/3JQU6Fl97q9ilcxOeAPr8Y) | 4:45 | 2026-03-10 | 2026-03-30 |
 | [降参宣言](https://open.spotify.com/track/4gYjoqTxddTxeTtV3Gfan3) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [降参宣言](https://open.spotify.com/album/0LLjYrutYY8RUNpySSyrRG) | 3:24 | 2023-12-19 | 2023-12-21 |
 | [陽だまり](https://open.spotify.com/track/4GG9PT6VNrQG9qDv5Ol8zY) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [陽だまり](https://open.spotify.com/album/4vBHfiutj4ePvvcDGODQFp) | 3:32 | 2025-04-22 | 2025-07-23 |
 | [陽炎](https://open.spotify.com/track/6InQXgBzElIEwneMkGHoFC) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [陽炎](https://open.spotify.com/album/3mflbnscwixIKrLVNAbcCd) | 3:50 | 2025-10-08 | 2026-02-12 |

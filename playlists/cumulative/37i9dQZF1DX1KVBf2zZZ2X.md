@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-333 songs - 15 hr 32 min
+335 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Rakapar](https://open.spotify.com/track/3gHOHwVZudqg5q3GEszdHL) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Rakapar](https://open.spotify.com/album/1cPajSjSWgSSApGAzREwb5) | 3:15 | 2024-11-22 | 2026-03-21 |
 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 | 2023-03-03 | 2025-05-17 |
 | [Raðljóst](https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB) | [Kolbrun Stiger](https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT) | [Raðljóst](https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa) | 2:15 | 2023-03-03 | 2024-11-23 |
-| [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-03-20 |  |
+| [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-03-20 | 2026-03-30 |
 | [Red Maple](https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Maple](https://open.spotify.com/album/7oVTzjVQLFF3pPe6F96pDI) | 2:39 | 2025-03-19 | 2026-01-15 |
 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 | 2025-02-21 | 2026-03-03 |
 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 | 2023-03-03 | 2024-11-23 |
@@ -259,6 +259,7 @@
 | [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 |  |
 | [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-06-11 |  |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-02-21 | 2025-06-12 |
+| [Searching](https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Searching](https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ) | 2:32 | 2026-03-20 |  |
 | [Second Wishes](https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Second Wishes](https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi) | 2:13 | 2024-03-05 |  |
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 | 2024-06-04 |
 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 | 2025-10-15 |
@@ -307,7 +308,7 @@
 | [The Teacher Within](https://open.spotify.com/track/3RPnZneI5lPdM5lMTsYUWR) | [Bias Beats](https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT) | [The Teacher Within](https://open.spotify.com/album/5QdaV8dVbKPircWmgYw38v) | 2:46 | 2025-09-24 |  |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-03-03 | 2025-06-12 |
 | [Thorns of Life](https://open.spotify.com/track/0hnmVaXmMT3F9LalPEkEYJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Thorns of Life](https://open.spotify.com/album/1WZAh7SNiSuPIVH4B8PE5m) | 4:23 | 2025-02-21 |  |
-| [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 |  |
+| [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 | 2026-03-30 |
 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 | 2023-03-03 | 2025-05-17 |
 | [Time](https://open.spotify.com/track/0CX1Qm7MPcKv0sfOFQKA0H) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Time](https://open.spotify.com/album/3RHVDUwSrUqxPO9cBbHmNo) | 3:08 | 2025-06-11 | 2025-12-16 |
 | [Timeless Voyage](https://open.spotify.com/track/7tGzD3aIB69OOnOO65Cwhs) | [Ni Che](https://open.spotify.com/artist/77Pf6uoWxVn5ja9ZaTMmkY) | [Timeless Voyage](https://open.spotify.com/album/1NN4Jw81N8enQMJU8bGpqr) | 2:34 | 2025-12-03 |  |
@@ -323,6 +324,7 @@
 | [Uisge](https://open.spotify.com/track/3DU2zNpNXhEljFIX2yUytB) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Uisge](https://open.spotify.com/album/1oo6E2uimQLWLNgcnazIpK) | 2:58 | 2026-03-20 |  |
 | [Under the Trees](https://open.spotify.com/track/7ps3QI1bXjxixJzqRyTjD0) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Under the Trees](https://open.spotify.com/album/4Y1je9mpSfNIBbNxeD9j0c) | 3:08 | 2024-11-22 |  |
 | [Variations](https://open.spotify.com/track/7rM7Awo7rpVrS7O8egu5Mx) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Variations](https://open.spotify.com/album/3ZDCJk3TIBzgHqKA8qQUJY) | 3:09 | 2025-03-19 | 2025-10-12 |
+| [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 | 2026-03-20 |  |
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-03-01 |  |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-03 | 2025-05-17 |
 | [Wait](https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ) | [Aubrey Fornier](https://open.spotify.com/artist/3d8Ky2p7PzmNYDvPcJxGM9) | [Wait](https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9) | 1:54 | 2023-03-03 | 2023-10-07 |

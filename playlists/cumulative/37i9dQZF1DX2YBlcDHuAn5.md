@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-292 songs - 17 hr 8 min
+293 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 | 2025-02-20 | 2025-05-16 |
 | [Ain't Got Much](https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT) | [Laszlo Buring](https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz) | [Wild One](https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO) | 3:42 | 2025-12-18 | 2026-01-25 |
 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 | 2025-11-06 |  |
-| [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 | 2025-09-15 |  |
+| [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 | 2025-09-15 | 2026-03-30 |
 | [All Good](https://open.spotify.com/track/51imPDYWGqCNEA94TsBHhS) | [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [All Good](https://open.spotify.com/album/5FWV48bFKI7v4vWEPN7x2t) | 3:06 | 2024-07-25 | 2025-01-17 |
 | [All That's Left To Say](https://open.spotify.com/track/5ELW1u10mVSPjPqN5CZLZe) | [Barbara Dex](https://open.spotify.com/artist/6k5q0SYwBlBsUmfaOhk1Ak) | [Simply Dex](https://open.spotify.com/album/6nJfTcJsnnozA51N5htzGq) | 3:27 | 2025-05-15 | 2025-09-16 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-02-23 | 2024-04-19 |
@@ -281,6 +281,7 @@
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-25 | 2025-12-19 |
 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 | 2025-07-10 |  |
 | [We're All Gonna Die](https://open.spotify.com/track/7Bl1yuT1E6CQwxCXk7SHjd) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x), [Leadbeaters](https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf) | [We're All Gonna Die](https://open.spotify.com/album/09n8vdHEqXunDGkwvIMc19) | 3:32 | 2025-04-03 | 2025-05-16 |
+| [Wealthiest Man](https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O) | [Erik Lindeman](https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH) | [Wealthiest Man](https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s) | 4:53 | 2026-03-26 |  |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-09 | 2025-12-19 |
 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 | 2023-02-23 | 2024-08-30 |
 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2024-09-26 | 2025-11-06 |

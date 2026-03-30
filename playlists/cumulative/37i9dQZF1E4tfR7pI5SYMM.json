@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Lockjaw, AlligatorX, Jon Drake and more",
+  "description": "With AlligatorX, Lockjaw, Die Oberherren and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Acid Lemon Sun",
+        "url": "https://open.spotify.com/album/2SMj9YXDnjKRrcFYK8qwmi"
+      },
+      "artists": [
+        {
+          "name": "Shock Out Bandage",
+          "url": "https://open.spotify.com/artist/3aSpPIag5ZfXMzbekZP51U"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Acid Lemon Sun",
+      "url": "https://open.spotify.com/track/06FeoGENaSIpSKbK4mID6M"
+    },
+    {
+      "album": {
         "name": "Swamp Bear",
         "url": "https://open.spotify.com/album/7sJ4VXLxitTRualTxuq6Xm"
       },
@@ -204,6 +222,24 @@
       "duration_ms": 315221,
       "name": "Alnilam",
       "url": "https://open.spotify.com/track/0gRpx1wqzHalsr5VG4HTYs"
+    },
+    {
+      "album": {
+        "name": "Alright (Radio Edit)",
+        "url": "https://open.spotify.com/album/20vus5vkcv93mdpYLyY7Wa"
+      },
+      "artists": [
+        {
+          "name": "Rinoceros",
+          "url": "https://open.spotify.com/artist/5IIe2DaUYv5aPs82GEkOEN"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243555,
+      "name": "Alright - Radio Edit",
+      "url": "https://open.spotify.com/track/3u1de60CFWhpvfo51RmcxZ"
     },
     {
       "album": {
@@ -460,7 +496,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1617,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2Q2QKFggVxo2TMb8wrMBrq"
+      },
+      "artists": [
+        {
+          "name": "Corvin",
+          "url": "https://open.spotify.com/artist/6bWo4QGM39QU8Nb1LCBU5K"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224919,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/2m6rggLAMteu6mOULCbu9n"
+    },
+    {
+      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
       },
@@ -1646,7 +1700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2388,7 +2442,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Fade to Grey",
       "url": "https://open.spotify.com/track/7CFVcKhTQ7d7UowkThKQah"
@@ -3106,7 +3160,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3452,7 +3506,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 248624,
       "name": "Idling",
       "url": "https://open.spotify.com/track/1fMcizc0EvSCUYhr6Hcdfs"
@@ -3726,7 +3780,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 230952,
       "name": "Juicy Lucy",
       "url": "https://open.spotify.com/track/2p3uS5Tx2LcCYHXX3WT4Kh"
@@ -3766,7 +3820,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4178,7 +4232,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -4654,7 +4708,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 124000,
       "name": "Mind Riots",
       "url": "https://open.spotify.com/track/47LkoKpccLo3UDq4CpM81H"
@@ -4932,7 +4986,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 276633,
       "name": "My Aurora (2023 Remastered)",
       "url": "https://open.spotify.com/track/3LB56oc6adNgHJbe79HU58"
@@ -5116,7 +5170,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -5812,7 +5866,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -6466,7 +6520,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 228960,
       "name": "Security",
       "url": "https://open.spotify.com/track/5LwTuvI3LKOXhik614TlqS"
@@ -6502,7 +6556,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 205252,
       "name": "Seize The Moment",
       "url": "https://open.spotify.com/track/08NLz5Jy9sc91Kse1nRr0u"
@@ -6560,7 +6614,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 219333,
       "name": "Shadow Sun",
       "url": "https://open.spotify.com/track/6NxMk012STcCepEzfxDCOD"
@@ -6834,6 +6888,24 @@
       "duration_ms": 462653,
       "name": "Sol Invictus",
       "url": "https://open.spotify.com/track/7MNqZBHxIIUG49zlppn903"
+    },
+    {
+      "album": {
+        "name": "Someone To Blame",
+        "url": "https://open.spotify.com/album/1PghgUb347VXpcruyD2j9h"
+      },
+      "artists": [
+        {
+          "name": "Holy Death Temple",
+          "url": "https://open.spotify.com/artist/6hYyMKMSbeNh4ukG7QlVNq"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "Someone To Blame",
+      "url": "https://open.spotify.com/track/20oaqbPxaXj5N8Ed8DWX2n"
     },
     {
       "album": {
@@ -7162,7 +7234,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 221906,
       "name": "Suburban Decay",
       "url": "https://open.spotify.com/track/4X5ZUHqi7EogCNb8SGaoEB"
@@ -7364,7 +7436,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 365697,
       "name": "Take This Waltz",
       "url": "https://open.spotify.com/track/1gIoMyoS1okNkMs19TkJMe"
@@ -7422,7 +7494,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 250000,
       "name": "Tear The Cloth",
       "url": "https://open.spotify.com/track/2jyiFUGacxnvwlpVRIVGnV"
@@ -7638,7 +7710,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 368253,
       "name": "The Great Replacement",
       "url": "https://open.spotify.com/track/6RAcTglUaypJX3WLrRxgbV"
@@ -8072,7 +8144,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -8502,7 +8574,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -9104,7 +9176,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"
@@ -9564,7 +9636,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

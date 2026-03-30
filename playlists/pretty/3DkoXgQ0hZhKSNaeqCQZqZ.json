@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFHjy1wy+upmTTDPZNk+7PTEPw7vHv",
+  "snapshot_id": "AAAFIJMAiZZFlq5U3OlEwrKTqhHBv2Ey",
   "tracks": [
+    {
+      "added_at": "2026-03-29 22:37:40",
+      "album": {
+        "name": "SNARL AT YOUR FRIENDS!!!",
+        "url": "https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "SNARL AT YOUR FRIENDS!!!",
+      "url": "https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN"
+    },
     {
       "added_at": "2026-03-18 07:18:57",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 255079,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h"
-    },
-    {
-      "added_at": "2026-03-18 07:20:28",
-      "album": {
-        "name": "Desperate Measure (Lyric version)",
-        "url": "https://open.spotify.com/album/3UXv2WMg45XUruZYloSLqJ"
-      },
-      "artists": [
-        {
-          "name": "Kamex",
-          "url": "https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad"
-        }
-      ],
-      "duration_ms": 228469,
-      "name": "Desperate Measure - Lyric version",
-      "url": "https://open.spotify.com/track/0qnQCqmFLJq5rUcdUYuWUM"
     },
     {
       "added_at": "2026-03-05 04:42:47",

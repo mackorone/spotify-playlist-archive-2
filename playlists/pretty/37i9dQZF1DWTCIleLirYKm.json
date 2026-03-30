@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 211454,
+  "num_followers": 211560,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Good Godly Woman",
-        "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Good Godly Woman",
-      "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Dreaming My Dreams",
         "url": "https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 178717,
       "name": "Are You Sure Hank Done It This Way",
       "url": "https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Good Godly Woman",
+        "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Good Godly Woman",
+      "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 335293,
-      "name": "Outlaw State Of Mind",
-      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
+      "duration_ms": 335293,
+      "name": "Outlaw State Of Mind",
+      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Texas Swagger",
-        "url": "https://open.spotify.com/album/0H1ZkLgkghWqXCMloetCKr"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 163699,
-      "name": "Texas Swagger",
-      "url": "https://open.spotify.com/track/41CGku4X9e0cu17XRrmZmz"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Them Dirty Roses",
         "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 240744,
       "name": "Whiskey in My Cup",
       "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Texas Swagger",
+        "url": "https://open.spotify.com/album/0H1ZkLgkghWqXCMloetCKr"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 163699,
+      "name": "Texas Swagger",
+      "url": "https://open.spotify.com/track/41CGku4X9e0cu17XRrmZmz"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "White River",
-        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "White River",
-      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Little Victories",
         "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 214253,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "White River",
+        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "White River",
+      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
     },
     {
       "added_at": "2026-02-04 05:00:17",

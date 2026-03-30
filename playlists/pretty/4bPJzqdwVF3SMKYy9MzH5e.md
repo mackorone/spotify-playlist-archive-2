@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,368 songs - 5 day 7 hr 5 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,369 songs - 5 day 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2376,5 +2376,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2366 | [Unity](https://open.spotify.com/track/5TclE5ZVt4Awf4oH6w88Cy) | [Ben Sims](https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt) | [Circular Motions EP](https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h) | 6:39 |
 | 2367 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 |
 | 2368 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 |
+| 2369 | [Alice \- LSDXOXO Remix](https://open.spotify.com/track/050s0Msd1WXkSdG8UjFDEa) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:40 |
 
-Snapshot ID: `AAAFRSDL0CIULMFxRIgjYaVucCqVZULa`
+Snapshot ID: `AAAFRrgd7JVfR/SRLDviwyenTZvJFih9`

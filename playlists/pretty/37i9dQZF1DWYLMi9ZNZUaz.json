@@ -1,6 +1,6 @@
 {
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
-  "num_followers": 120110,
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: YC",
+  "num_followers": 120153,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
+        "name": "Don't C\u00f4i",
+        "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
+      },
+      "artists": [
+        {
+          "name": "RPT Orijinn",
+          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
+        },
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "Don't C\u00f4i",
+      "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
+    },
+    {
+      "added_at": "2026-03-26 17:00:21",
+      "album": {
         "name": "\u0110O\u00c1 HOA",
         "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
       },
@@ -499,22 +519,18 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
-        "name": "Don't C\u00f4i",
-        "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
+        "name": "Hai \u0111\u1ee9a nh\u00f3c",
+        "url": "https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70"
       },
       "artists": [
-        {
-          "name": "RPT Orijinn",
-          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
-        },
         {
           "name": "Ronboogz",
           "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 148880,
-      "name": "Don't C\u00f4i",
-      "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
+      "duration_ms": 215850,
+      "name": "Hai \u0111\u1ee9a nh\u00f3c",
+      "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
     },
     {
       "added_at": "2026-03-26 17:00:21",
@@ -535,22 +551,6 @@
       "duration_ms": 141760,
       "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
       "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
-    },
-    {
-      "added_at": "2026-03-26 17:00:21",
-      "album": {
-        "name": "Hai \u0111\u1ee9a nh\u00f3c",
-        "url": "https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 215850,
-      "name": "Hai \u0111\u1ee9a nh\u00f3c",
-      "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
     },
     {
       "added_at": "2026-03-26 17:00:21",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Mcee Blue",
-          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
-        }
-      ],
-      "duration_ms": 203687,
-      "name": "M\u1eddi Em",
-      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
-    },
-    {
-      "added_at": "2026-03-26 17:00:21",
-      "album": {
         "name": "2GOILAYS",
         "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
@@ -631,18 +611,22 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Mcee Blue",
+          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
         }
       ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+      "duration_ms": 203687,
+      "name": "M\u1eddi Em",
+      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
     },
     {
       "added_at": "2026-03-26 17:00:21",
@@ -671,6 +655,22 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+    },
+    {
+      "added_at": "2026-03-26 17:00:21",
+      "album": {
         "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
         "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
       },
@@ -683,6 +683,26 @@
       "duration_ms": 160848,
       "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
       "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2026-03-26 17:00:21",
+      "album": {
+        "name": "M\u01b0a C\u1ee9 R\u01a1i",
+        "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
+      },
+      "artists": [
+        {
+          "name": "Mr.A",
+          "url": "https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "M\u01b0a C\u1ee9 R\u01a1i",
+      "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
     },
     {
       "added_at": "2026-03-26 17:00:21",
@@ -715,22 +735,22 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
-        "name": "M\u01b0a C\u1ee9 R\u01a1i",
-        "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
+        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
       "artists": [
         {
-          "name": "Mr.A",
-          "url": "https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6"
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
         },
         {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         }
       ],
-      "duration_ms": 177333,
-      "name": "M\u01b0a C\u1ee9 R\u01a1i",
-      "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
+      "duration_ms": 227555,
+      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
     },
     {
       "added_at": "2026-03-26 17:00:21",
@@ -755,26 +775,6 @@
     {
       "added_at": "2026-03-26 17:00:21",
       "album": {
-        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
-        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
-      },
-      "artists": [
-        {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
-      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
-    },
-    {
-      "added_at": "2026-03-26 17:00:21",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
       },
@@ -791,30 +791,6 @@
       "duration_ms": 205232,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
-    },
-    {
-      "added_at": "2026-03-26 17:00:21",
-      "album": {
-        "name": "TETVOVEN",
-        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Machiot",
-          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "TETVOVEN",
-      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
     },
     {
       "added_at": "2026-03-26 17:00:21",
@@ -839,6 +815,30 @@
       "duration_ms": 200842,
       "name": "L\u1ec7 L\u01b0u Ly",
       "url": "https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i"
+    },
+    {
+      "added_at": "2026-03-26 17:00:21",
+      "album": {
+        "name": "TETVOVEN",
+        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Machiot",
+          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "TETVOVEN",
+      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
     },
     {
       "added_at": "2026-03-26 17:00:21",

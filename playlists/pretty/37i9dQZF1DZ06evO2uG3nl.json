@@ -1,12 +1,12 @@
 {
   "description": "This is Addison Rae. The essential tracks, all in one playlist.",
-  "num_followers": 10268,
+  "num_followers": 10299,
   "original_name": "This Is Addison Rae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAADVKqngedoQReSHkZtwgXDN",
+  "snapshot_id": "accaAAAAAABozZSmCtniQwZoBykV6IXT",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 152495,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
+      "duration_ms": 122579,
+      "name": "Money is Everything",
+      "url": "https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 122579,
-      "name": "Money is Everything",
-      "url": "https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti"
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
     }
   ],
   "unique_name": "This Is Addison Rae",

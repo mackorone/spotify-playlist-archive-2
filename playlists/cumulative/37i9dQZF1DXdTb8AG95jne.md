@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학 \(Gogohawk\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,292 songs - 3 day 6 hr 8 min
+1,295 songs - 3 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 | 2025-03-04 | 2025-04-11 |
 | [A Love Cliche](https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Love Cliche](https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV) | 2:27 | 2026-03-09 |  |
 | [a particular thing 별일 \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/3SfGwHuSbRkawRw7PFI81n) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rotary](https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa) | 4:20 | 2022-04-12 | 2022-04-21 |
+| [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 | 2026-03-30 |  |
 | [a song i like to sing](https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [a song i like to sing](https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT) | 2:40 | 2021-12-21 | 2022-04-20 |
 | [A Trail Of Seasons](https://open.spotify.com/track/6g2xMxNkfTZ1kkyccaHyaD) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [A Trail Of Seasons](https://open.spotify.com/album/6tBEtld4QZaiOkh1V8497y) | 4:08 | 2022-03-31 | 2022-04-05 |
 | [About Loving Someone](https://open.spotify.com/track/4egcdhIJIx8KulcPT1Wi5o) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [About Loving Someone](https://open.spotify.com/album/6uOACaKB5uG9o3mV41FJgJ) | 4:43 | 2024-08-13 | 2024-08-30 |
@@ -409,6 +410,7 @@
 | [Go Forth and Learn to Live](https://open.spotify.com/track/7Ey9y01U53bXiFehGn8Bik) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Go Forth and Learn to Live](https://open.spotify.com/album/6ujhOlJpOuKsRNeiUG8AX8) | 4:03 | 2025-10-30 | 2025-12-03 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
 | [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 | 2025-03-29 |
+| [Godspeed](https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [Godspeed](https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC) | 4:14 | 2026-03-30 |  |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [GOM](https://open.spotify.com/track/6vwYtXrVDgYHsAfqbpqt44) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [GOM](https://open.spotify.com/album/1909JtfyOew0GsMkRxl8x1) | 3:47 | 2026-03-20 |  |
 | [GONE](https://open.spotify.com/track/1txuHFV1QW1LObbNVmhafD) | [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [GONE](https://open.spotify.com/album/5O7WABbH4NYJhOrfahuNap) | 3:38 | 2025-08-07 | 2025-09-16 |
@@ -483,7 +485,7 @@
 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2025-06-09 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-11-07 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-22 | 2025-04-11 |
-| [Humanity Declaration](https://open.spotify.com/track/7884VOACIC4FPBpfbi2mGR) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Humanity Declaration](https://open.spotify.com/album/4ioBs72tGUnrSI6AmLPtVO) | 3:39 | 2026-02-20 |  |
+| [Humanity Declaration](https://open.spotify.com/track/7884VOACIC4FPBpfbi2mGR) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Humanity Declaration](https://open.spotify.com/album/4ioBs72tGUnrSI6AmLPtVO) | 3:39 | 2026-02-20 | 2026-03-30 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
 | [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 | 2025-06-25 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
@@ -592,7 +594,7 @@
 | [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 | 2023-09-18 | 2024-04-04 |
 | [Koi](https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Forever’s Not Enough](https://open.spotify.com/album/5uYqh7FXvk3jvyUEM1L88b) | 3:01 | 2025-10-14 | 2025-11-14 |
 | [Koriga](https://open.spotify.com/track/0So5dXB9M3InMMGmxslL4L) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [Koriga](https://open.spotify.com/album/6PiN8MeW9hifmkNxVuQUGY) | 3:41 | 2022-04-12 | 2022-04-15 |
-| [Krapow](https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [Leader](https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88) | 2:29 | 2026-02-13 |  |
+| [Krapow](https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [Leader](https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88) | 2:29 | 2026-02-13 | 2026-03-30 |
 | [Kryptonite \(feat\. Henni\)](https://open.spotify.com/track/50dcsUaL1DEzuh8QlNuEpF) | [Chloe Char](https://open.spotify.com/artist/3kP9joDEb8O36na2Gd6mFJ), [Benny Char](https://open.spotify.com/artist/0fP10sGDcpc0dcfe1QoNhS), [Henni](https://open.spotify.com/artist/6nt5cp1v7eC6VFSo00EIKz) | [Kryptonite](https://open.spotify.com/album/1OF8oRoz4dzUfBrGDghif4) | 3:01 | 2025-03-14 | 2025-04-11 |
 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 | 2024-12-19 | 2025-03-05 |
 | [Last Scene](https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Last Scene](https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa) | 3:46 | 2025-07-08 | 2025-09-02 |
@@ -828,7 +830,7 @@
 | [Petty Thief \(Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 | 2025-06-17 | 2025-06-30 |
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2021-12-21 | 2022-06-05 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-19 |
-| [Pieces of You](https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Pieces of You](https://open.spotify.com/album/5esntY1qMQj4JEfadP5aIX) | 3:36 | 2026-02-09 |  |
+| [Pieces of You](https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Pieces of You](https://open.spotify.com/album/5esntY1qMQj4JEfadP5aIX) | 3:36 | 2026-02-09 | 2026-03-30 |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |
 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 | 2025-06-14 |
 | [Play With Me!](https://open.spotify.com/track/4CmF4iIoV7Wafddq0M0Ni7) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Play With Me!](https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib) | 3:55 | 2022-03-09 | 2022-04-03 |
@@ -1214,6 +1216,7 @@
 | [Winter 눈](https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:52 | 2022-07-27 | 2024-04-19 |
 | [Winter.](https://open.spotify.com/track/1ZSuJ6n7KsDIKl1fVjPx1Z) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Winter.](https://open.spotify.com/album/3dAh6O4ou9xBlv1WlKz64p) | 3:26 | 2026-01-30 | 2026-03-04 |
 | [Wish \- Live](https://open.spotify.com/track/1rQobZf16Gfs5GDSJlGC1L) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [LISTEN & DISCOVER Gogohawk LIVE](https://open.spotify.com/album/0qJJsKweZoQ5XvlJhAqkbz) | 6:21 | 2025-08-07 | 2025-08-27 |
+| [Wishes](https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Wishes](https://open.spotify.com/album/3z1Wf05O960hlh7GBuqm6A) | 3:09 | 2026-03-30 |  |
 | [Wisue 햇빛처럼 빼어난](https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:37 | 2021-12-21 | 2022-04-19 |
 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 | 2025-07-31 | 2025-08-22 |
 | [With You](https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [With You](https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS) | 4:05 | 2026-03-16 |  |

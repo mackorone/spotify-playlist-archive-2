@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6916,
+  "num_followers": 6922,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAAC/ybiNE9yJvtrmBqy2963+",
+  "snapshot_id": "accaAAAAAAAiwkXycdwRyT8keCOB2MQC",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unblocked",
+        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 315072,
+      "name": "Sam\u2019s Vibe",
+      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus Glow (Deluxe)",
         "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 189813,
       "name": "Le D\u00e9part - Feat. Durand Bernarr",
       "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unblocked",
-        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 315072,
-      "name": "Sam\u2019s Vibe",
-      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
+      "duration_ms": 196582,
+      "name": "Hangin'",
+      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
     },
     {
       "added_at": null,
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 196582,
-      "name": "Hangin'",
-      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
+      "duration_ms": 173605,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
     },
     {
       "added_at": null,

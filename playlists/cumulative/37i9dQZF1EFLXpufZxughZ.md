@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 10 hr 37 min
+183 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Japan](https://open.spotify.com/track/62CfIeX8B6AgWft6Ty1lO9) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:30 | 2023-12-13 |  |
 | [Jealousy](https://open.spotify.com/track/5GYWABR2YFICkSEYZ3nG1M) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Jealousy](https://open.spotify.com/album/7ylhykmmtmOvqBRRlDq2hf) | 3:06 | 2023-12-13 |  |
 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 | 2023-12-13 |  |
-| [KICK OUT](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:50 | 2025-08-25 |  |
+| [KICK OUT](https://open.spotify.com/track/2LgrNOU8GQYASgz7lIDVt3) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA) | 2:50 | 2026-03-29 |  |
+| [KICK OUT](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:50 | 2025-08-25 | 2026-03-30 |
 | [Learn From This](https://open.spotify.com/track/2hqqEVmvgdQ9HETiYigMoG) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:41 | 2023-12-13 |  |
 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 | 2023-12-13 |  |
 | [Look At My Swagg \(feat\. Rick Ross\) \- Radio Edit](https://open.spotify.com/track/5jmXs2fjFnMsIynxLCerYx) | [Papa Duck](https://open.spotify.com/artist/1EL9yJ4Qw69RSIqE8GwseG) | [Look At My Swagg \(Feat\. Rick Ross\)](https://open.spotify.com/album/6HVPCsQndloAnObNx5ecju) | 4:13 | 2023-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 100882,
+  "num_followers": 100904,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAAAsL2HG54hHdzsvW/8P45xl",
+  "snapshot_id": "accaAAAAAACy7CizbrnhC1ln+YXD5OQX",
   "tracks": [
     {
       "added_at": null,
@@ -336,13 +336,17 @@
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        },
+        {
+          "name": "Amsterdam Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
         }
       ],
-      "duration_ms": 346853,
-      "name": "Tha\u00efs: M\u00e9ditation (Arr. for Cello & Piano)",
-      "url": "https://open.spotify.com/track/1suv0FzP6WA1rIK7tSJ1oH"
+      "duration_ms": 439200,
+      "name": "Matth\u00e4us-Passion, BWV 244: Erbarme dich mein Gott",
+      "url": "https://open.spotify.com/track/4JvNt2PROKlPspAQfADzgX"
     },
     {
       "added_at": null,
@@ -464,17 +468,13 @@
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Ton Koopman",
-          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
-        },
-        {
-          "name": "Amsterdam Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 439200,
-      "name": "Matth\u00e4us-Passion, BWV 244: Erbarme dich mein Gott",
-      "url": "https://open.spotify.com/track/4JvNt2PROKlPspAQfADzgX"
+      "duration_ms": 346853,
+      "name": "Tha\u00efs: M\u00e9ditation (Arr. for Cello & Piano)",
+      "url": "https://open.spotify.com/track/1suv0FzP6WA1rIK7tSJ1oH"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach Trios",
+        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
+      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/0dDcSr2vBxvILNB8oTpI01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beethoven & Schumann: Piano Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0IDzHPTWKzxvq4yRePVQKz"
       },
@@ -1035,54 +1083,6 @@
       "duration_ms": 468640,
       "name": "Piano Quintet in E-Flat Major, Op. 16 (Version for Piano Quartet): II. Andante cantabile",
       "url": "https://open.spotify.com/track/7bEO1yogMN8Yqzlqiznfjc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/0dDcSr2vBxvILNB8oTpI01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach Trios",
-        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
-      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
     },
     {
       "added_at": null,

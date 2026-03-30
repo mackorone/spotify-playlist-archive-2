@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 633940,
+  "num_followers": 633941,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acXIgAAAAACJCp2GjYAYdlAngv6s4uJO",
+  "snapshot_id": "accaAAAAAACPlORDtfGkRCkkC/uuUFpk",
   "tracks": [
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
-      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
+      "duration_ms": 205200,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
     },
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
-        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
+        "name": "Bigbang 03",
+        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 198880,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
+      "duration_ms": 218618,
+      "name": "Forever With U (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
     },
     {
       "added_at": null,
@@ -748,29 +752,25 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bigbang 03",
-        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
+        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
+        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 218618,
-      "name": "Forever With U (Feat. Park Bom)",
-      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+      "duration_ms": 198880,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
     },
     {
       "added_at": null,

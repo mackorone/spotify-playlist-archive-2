@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 19938,
+  "num_followers": 19951,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
         "name": "Violence (feat. Kweku Smoke)",
         "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "Do You Know?",
-        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
-      },
-      "artists": [
-        {
-          "name": "siicie",
-          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Do You Know?",
-      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
         "name": "Outside / obaa sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
+        "name": "Do You Know?",
+        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
+      },
+      "artists": [
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Do You Know?",
+      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
         "name": "Aketesia",
         "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
       },
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "DID I LIE",
-        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
-      },
-      "artists": [
-        {
-          "name": "Cina Soul",
-          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 141967,
-      "name": "Larger Than Life (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
         "name": "Ronaldinho",
         "url": "https://open.spotify.com/album/2azhkqY7BdmLsi9R9j6lOW"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 197538,
       "name": "Ronaldinho",
       "url": "https://open.spotify.com/track/4brOqZdf8uJ4FI5pGjghIe"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
+        "name": "DID I LIE",
+        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 141967,
+      "name": "Larger Than Life (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
+        "name": "Sneaky",
+        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "duration_ms": 166312,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
         "name": "Sa Me",
         "url": "https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 168480,
       "name": "Sa Me",
       "url": "https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
-        "name": "Sneaky",
-        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 166312,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "Enter",
-        "url": "https://open.spotify.com/album/4Rnp9YkM10Y7Pxk6YOSt4M"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
       "artists": [
         {
-          "name": "Lyrical Joe",
-          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
         },
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
         }
       ],
-      "duration_ms": 197522,
-      "name": "Enter",
-      "url": "https://open.spotify.com/track/1NwssiNfFaYnuCf8qFizTW"
+      "duration_ms": 168000,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
     }
   ],
   "unique_name": "Troski Rhythms",

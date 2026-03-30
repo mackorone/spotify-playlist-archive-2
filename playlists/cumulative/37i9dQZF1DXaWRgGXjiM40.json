@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 201856,
       "name": "Com ou Sem Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
@@ -896,6 +896,28 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+    },
+    {
+      "album": {
+        "name": "Eu Duvido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AXeDo14SQnBuv28Ayiekr"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170658,
+      "name": "Eu Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg"
     },
     {
       "album": {

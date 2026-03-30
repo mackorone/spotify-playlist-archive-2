@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424273,
+      "name": "And Instantly Take Effect",
+      "url": "https://open.spotify.com/track/3jCxGUOiUPbTIo6dVekl1H"
+    },
+    {
+      "album": {
         "name": "No. 2",
         "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
       },
@@ -338,7 +356,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 241800,
       "name": "Havet (Reimagined by Christina Vantzou)",
       "url": "https://open.spotify.com/track/4Ao8TIZLPKmusv1VxLttIO"
@@ -411,6 +429,36 @@
     },
     {
       "album": {
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Lieselot de Wilde",
+          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
+        },
+        {
+          "name": "Margaret Hermant",
+          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
+        },
+        {
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382436,
+      "name": "Kimona II",
+      "url": "https://open.spotify.com/track/0k73dH9OjmtaXVlpe37KdO"
+    },
+    {
+      "album": {
         "name": "Multi Natural",
         "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
       },
@@ -422,7 +470,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 243898,
       "name": "Lair 10",
       "url": "https://open.spotify.com/track/4ICfUmLK13c9zPEggxIbbf"
@@ -698,6 +746,32 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         },
         {
+          "name": "Hyperstellar",
+          "url": "https://open.spotify.com/artist/5oq6s8S8phuEjZGlXBbyEV"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165495,
+      "name": "Reclining Figures",
+      "url": "https://open.spotify.com/track/0CXkhX1HRAbw3OyBmLDjem"
+    },
+    {
+      "album": {
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
           "name": "Lieselot de Wilde",
           "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
         },
@@ -804,7 +878,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 222747,
       "name": "Small Choir",
       "url": "https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA"

@@ -4,7 +4,7 @@
 
 > 🌱🌸🌾🌼
 
-320 songs - 16 hr 40 min
+322 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2024-06-27 | 2025-05-03 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2025-10-04 |
 | [Birk og Ronja](https://open.spotify.com/track/3itAidJA3bESwP4dVzSktB) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Birk og Ronja](https://open.spotify.com/album/4muNVp7IcryWCbc3WfzVHg) | 2:50 | 2025-06-24 | 2025-07-10 |
-| [Bli hos deg](https://open.spotify.com/track/7At1tJL2XOLvCd46Pcxi12) | [Sondre Halland](https://open.spotify.com/artist/74dIUqstrh5XQ8jfraDyyU) | [Bli hos deg](https://open.spotify.com/album/6NSawjnhOLmI3aW9b6XeLp) | 2:51 | 2026-03-19 |  |
+| [Bli hos deg](https://open.spotify.com/track/7At1tJL2XOLvCd46Pcxi12) | [Sondre Halland](https://open.spotify.com/artist/74dIUqstrh5XQ8jfraDyyU) | [Bli hos deg](https://open.spotify.com/album/6NSawjnhOLmI3aW9b6XeLp) | 2:51 | 2026-03-19 | 2026-03-30 |
 | [Boxes](https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Boxes](https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk) | 3:18 | 2025-01-23 | 2025-02-24 |
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 | 2026-01-23 |
 | [Bryr meg](https://open.spotify.com/track/0J5CcxcHWOjKFOKXtWU1wP) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7j7KJE5afF0xqUnvc01r9z) | 2:28 | 2025-09-11 | 2025-10-10 |
@@ -162,6 +162,7 @@
 | [Ka visste eg](https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl) | 3:53 | 2025-05-08 | 2025-08-09 |
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 | 2025-04-13 |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 | 2025-03-02 |
+| [Koffor dro du fra mæ](https://open.spotify.com/track/2k9WYtZ33F5lJUubsya6a7) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Koffor dro du fra mæ](https://open.spotify.com/album/0GI8CvoLRIjHlznbXAIjtd) | 2:31 | 2026-03-26 |  |
 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 | 2024-06-27 | 2025-10-07 |
 | [Kunstig intelligens](https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t) | [VERDENS BESTE ALBUM](https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1) | 3:03 | 2025-10-02 | 2026-01-28 |
 | [Kyssa noken andre](https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Kyssa noken andre](https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3) | 2:32 | 2025-06-05 | 2025-06-29 |
@@ -202,7 +203,7 @@
 | [Miste huet](https://open.spotify.com/track/2se3rw5jBytcnk2xDCW2Jb) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU), [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Miste huet](https://open.spotify.com/album/3XKZriJLIHInSAQQEW5Ut1) | 2:57 | 2025-07-17 | 2026-01-16 |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-17 | 2025-06-13 |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 | 2025-05-03 |
-| [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 |  |
+| [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 | 2026-03-30 |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
 | [Månen](https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Månen](https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD) | 2:57 | 2025-12-11 | 2026-01-28 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2025-03-26 |
@@ -306,6 +307,7 @@
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2026-01-23 |
 | [Tre sekunder](https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Tre sekunder](https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ) | 3:09 | 2024-06-27 | 2024-10-28 |
 | [Trenger deg nå](https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Trenger deg nå](https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp) | 2:46 | 2025-01-23 | 2025-03-30 |
+| [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 | 2026-03-26 |  |
 | [Trodde aldri](https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs) | [Sunna Björk](https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k), [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki) | [Trodde aldri](https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC) | 2:14 | 2024-07-11 | 2024-08-25 |
 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 | 2025-04-10 | 2025-06-06 |
 | [Uansett hvem du er](https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Uansett hvem du er](https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6) | 2:56 | 2024-08-29 | 2024-10-11 |

@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POP YOURSまであと5日！】J\-Hip Hopの最新注目曲をまとめてチェック cover: Watson \*水曜更新。マイライブラリに保存して毎週チェックしよう
+> 【POP YOURSまであと4日！】J\-Hip Hopの最新注目曲をまとめてチェック cover: BIM \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
 2,383 songs - 5 day 0 hr 1 min
 
@@ -497,7 +497,7 @@
 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 | 2024-08-28 | 2025-06-06 |
 | [DIY](https://open.spotify.com/track/21Dfcbq9Fiki70prHOhhdJ) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [maiya rei](https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ) | [DIY](https://open.spotify.com/album/6xQC8VCtzdrwECjSMUVzXf) | 2:02 | 2023-10-31 | 2023-11-09 |
 | [DMT](https://open.spotify.com/track/37jJeIfPXO654qdYeTdCAK) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz) | [Tear Drop](https://open.spotify.com/album/0X1PInEVLiVvF451ycwxUj) | 2:36 | 2024-09-24 | 2024-10-05 |
-| [DNA \(feat\. Kohjiya & PUNPEE\)](https://open.spotify.com/track/3J7DuP14w3O0kPLv2R4XKQ) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 3:50 | 2024-07-16 | 2024-11-13 |
+| [DNA \(feat\. Kohjiya & PUNPEE\)](https://open.spotify.com/track/3J7DuP14w3O0kPLv2R4XKQ) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 3:50 | 2024-07-16 |  |
 | [Do it](https://open.spotify.com/track/03u2lofYWaqyiXeiCSnqNA) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [Do it](https://open.spotify.com/album/7GTSZTCCnEgQaxjmkpcq9n) | 2:04 | 2024-06-13 | 2024-07-31 |
 | [Do it again](https://open.spotify.com/track/2tBo1fpBJv4uxxmcITpasf) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB) | [Do it again](https://open.spotify.com/album/2ik46ehi52l9r38xN63u56) | 3:06 | 2024-04-16 | 2024-04-19 |
 | [Do it again](https://open.spotify.com/track/3Mc8yYy56TGabzfZTG1oRT) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB) | [Do it again](https://open.spotify.com/album/3k5hAEhS9El5m4YKSNT2Ux) | 3:06 | 2024-04-18 | 2024-05-29 |

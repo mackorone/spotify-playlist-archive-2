@@ -3093,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
+      "album": {
         "name": "BACK ON TOP (feat. Griff)",
         "url": "https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B"
       },
@@ -6510,6 +6528,24 @@
       "duration_ms": 200959,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/35xowRCEDithOJLl0A1XcU"
+    },
+    {
+      "album": {
+        "name": "Gold Star Baby: After Hours",
+        "url": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139666,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/4aFsz8k1nk9uqHJnq0ff9A"
     },
     {
       "album": {
@@ -22152,7 +22188,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
@@ -33388,7 +33424,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 207077,
       "name": "She Is A Time I'm Living In",
       "url": "https://open.spotify.com/track/29s94jrXC8pP1BYeQyoyZq"
@@ -37420,7 +37456,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 173000,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y"
@@ -41038,6 +41074,24 @@
       "duration_ms": 152469,
       "name": "wannabe",
       "url": "https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw"
+    },
+    {
+      "album": {
+        "name": "Want It Back",
+        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207509,
+      "name": "Want It Back",
+      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
     },
     {
       "album": {

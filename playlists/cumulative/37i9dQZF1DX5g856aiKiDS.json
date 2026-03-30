@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 198000,
       "name": "25.14",
       "url": "https://open.spotify.com/track/6G0hYJCwoU4XQPIqqQFUgI"
@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/652TLKJWluUQlikBi55rKb"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177270,
+      "name": "Dear Day",
+      "url": "https://open.spotify.com/track/4HSeE6SBFmmJexcjgyZbrI"
+    },
+    {
+      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -1668,6 +1686,24 @@
       "duration_ms": 177465,
       "name": "Dingo X george - camping everywhere",
       "url": "https://open.spotify.com/track/5W4NBJlxKhQx5DOVrA40FO"
+    },
+    {
+      "album": {
+        "name": "Do You Need My Love?",
+        "url": "https://open.spotify.com/album/4ZzfIglSSp9HBuNDWafoFM"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164572,
+      "name": "Do You Need My Love?",
+      "url": "https://open.spotify.com/track/1qwCzGkeb2m67yrtWXXtbY"
     },
     {
       "album": {
@@ -3070,7 +3106,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 238000,
       "name": "I Feel Special",
       "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
@@ -3633,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
+    },
+    {
+      "album": {
         "name": "Pink!",
         "url": "https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP"
       },
@@ -3804,7 +3858,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
@@ -3862,7 +3916,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 166196,
       "name": "Let\u2019s play tug",
       "url": "https://open.spotify.com/track/52sfLJT1RulFGnUh95QftP"
@@ -4006,6 +4060,32 @@
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/69qk6zg4bhMd51px13WN80"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "Deyy",
+          "url": "https://open.spotify.com/artist/6GX63krfPZbfBjdaJC36Y8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173210,
+      "name": "Like an Aurora (feat. Deyy)",
+      "url": "https://open.spotify.com/track/4ipy46xLfDylH7tq111EqA"
     },
     {
       "album": {

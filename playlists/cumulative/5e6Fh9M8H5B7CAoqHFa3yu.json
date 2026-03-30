@@ -22747,6 +22747,28 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/7eBkiVzcGVyKyVBQhbseMn"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU"
+        },
+        {
+          "name": "Ch7nky",
+          "url": "https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149768,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5RhzVmRbZixvy5PkuwaEEY"
+    },
+    {
+      "album": {
         "name": "Mystical Valley",
         "url": "https://open.spotify.com/album/5OsvRK0lLOih8TTZfPNc4o"
       },

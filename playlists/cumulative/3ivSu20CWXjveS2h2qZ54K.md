@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-7,469 songs - 17 day 5 hr 44 min
+7,470 songs - 17 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2294,6 +2294,7 @@
 | [Fatal, Fatal](https://open.spotify.com/track/0WeZ7yTro15paaPQY1TqBp) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Fatal, Fatal](https://open.spotify.com/album/28KK9vOojWKCyu0qBbuptO) | 2:02 | 2025-01-31 | 2025-02-08 |
 | [FATAL, GRACIAS](https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE) | [Coolnenas](https://open.spotify.com/artist/4hLqOlbnetKrAoF7PHZzwd), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [FATAL, GRACIAS](https://open.spotify.com/album/1xD40JizwIWMrgncSJFlqH) | 2:20 | 2024-06-28 | 2024-07-13 |
 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 | 2025-02-28 | 2025-03-08 |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-29 |  |
 | [Fatty Fairy](https://open.spotify.com/track/7yZrh7dzQLjYrGZ4NdDTfN) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Fatty Fairy](https://open.spotify.com/album/06331uDlz3m9Uliot3gZmb) | 2:27 | 2025-03-07 | 2025-03-15 |
 | [Favorita](https://open.spotify.com/track/6TySEhw6bzkOwQsugr2d9R) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Favorita](https://open.spotify.com/album/3e8P1RYUZwdUvoQ38kdiBC) | 2:46 | 2026-03-13 | 2026-03-21 |
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-08-08 | 2024-08-20 |

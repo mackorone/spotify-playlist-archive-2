@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-334 songs - 1 day 4 hr 39 min
+335 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Even Then](https://open.spotify.com/track/0JRRwIQv7doLRdWkwSOO1j) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Even Then](https://open.spotify.com/album/4vnI3yJ5U0GpApdbecqtEm) | 6:00 | 2022-04-04 | 2022-07-27 |
 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 | 2022-10-07 |  |
 | [Extraordinary \- Radio Edit](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Extraordinary](https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc) | 3:49 | 2023-04-14 |  |
-| [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 | 2022-04-15 |  |
+| [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 | 2022-04-15 | 2026-03-30 |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-12-23 | 2022-11-26 |
 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 | 2022-02-04 |  |
 | [Fade Into Black](https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:04 | 2023-11-14 | 2024-04-19 |
@@ -264,6 +264,7 @@
 | [Sanguinaria feat\. Kalipo](https://open.spotify.com/track/1S6nqvt7LMJG1gmsOUIrUm) | [Oberst & Buchner](https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw), [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Marble Arch](https://open.spotify.com/album/001jygWndN8AV9DxVxNrEU) | 7:31 | 2022-09-30 | 2022-10-08 |
 | [Scarabaeus](https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Scarabaeus](https://open.spotify.com/album/4KVeQGG3FaPTNXZDtzvPUF) | 5:21 | 2022-01-14 | 2022-07-29 |
 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 | 2023-07-14 |  |
+| [Secrets](https://open.spotify.com/track/2vaZhREadMU6ROBSiI8UXp) | [coiro](https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Secrets](https://open.spotify.com/album/5xYklmB0BvRFjPnCjd2aRv) | 5:45 | 2024-08-09 |  |
 | [See You Dancing in the Dark](https://open.spotify.com/track/6oSQJmaDiQhbEqGaE9P9CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [See You Dancing in the Dark](https://open.spotify.com/album/3aYRKtuiZ0uu1W8Eo8IEhN) | 4:01 | 2023-04-27 | 2023-05-06 |
 | [Selbst](https://open.spotify.com/track/7zrGXNJu4nPoNQji9j8DcB) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Selbst](https://open.spotify.com/album/3uRBuLPxKD7vA97mlGkjB1) | 5:23 | 2021-12-23 | 2022-07-29 |
 | [Serene](https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Serene](https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC) | 4:09 | 2023-09-28 | 2025-10-17 |

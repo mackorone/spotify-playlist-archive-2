@@ -49272,7 +49272,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 198106,
       "name": "GOCHISO\u69d8",
       "url": "https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY"
@@ -80626,6 +80626,24 @@
       "duration_ms": 271893,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/4aKIs5t9TqP59btlCGPrgw"
+    },
+    {
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/0QMR5pNGuNu4ao6v7ux9Yt"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/35ZccqI4iHVR0puhGc1u0U"
     },
     {
       "album": {

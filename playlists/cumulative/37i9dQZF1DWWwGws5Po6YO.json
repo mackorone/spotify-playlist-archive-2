@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "A Second is a Choir",
+        "url": "https://open.spotify.com/album/3tock7ZWYnbWqpUPoKCQwV"
+      },
+      "artists": [
+        {
+          "name": "Hara Alonso",
+          "url": "https://open.spotify.com/artist/4eQRBa0rDiIn1qsWegcM1i"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "A Second is a Choir",
+      "url": "https://open.spotify.com/track/6VLtQ4xqnSwrnVGxF3Iedf"
+    },
+    {
+      "album": {
         "name": "Selected Works II",
         "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
       },
@@ -1032,7 +1054,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 80968,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"

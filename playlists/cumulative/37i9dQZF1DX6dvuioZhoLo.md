@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Chaparelle
 
-260 songs - 15 hr 16 min
+261 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 | 2021-11-12 |  |
 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 | 2023-04-14 |  |
 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 | 2021-11-12 | 2026-03-28 |
-| [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 | 2021-11-12 |  |
+| [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 | 2021-11-12 | 2026-03-30 |
 | [Burial Ground](https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Burial Ground](https://open.spotify.com/album/5jodqSew9785i4tEIRLase) | 4:04 | 2024-07-05 |  |
 | [Cabin By The Sea](https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Cabin By The Sea](https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ) | 3:22 | 2026-03-06 |  |
 | [Captain](https://open.spotify.com/track/3Y9lUEz7m6066pMifT9159) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Britt Daniel](https://open.spotify.com/artist/50VwXblSjWqTmcDO1OqigH) | [Italian Ice](https://open.spotify.com/album/74UN1ucm77OPXi3VyWVgAE) | 3:07 | 2021-11-12 | 2022-07-29 |
@@ -118,6 +118,7 @@
 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 | 2021-11-12 | 2026-02-23 |
 | [I'll Be Your Man](https://open.spotify.com/track/2XgY3RneATmlW3SdVv84Kk) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Oleander](https://open.spotify.com/album/1xoyw43TDm3ZirMsiZb1Pt) | 3:23 | 2021-11-12 | 2022-07-29 |
 | [I'll Change](https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 3:34 | 2023-10-06 |  |
+| [I'm the Loneliest Man I Ever Met](https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT) | [Hoover](https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED) | [The Lost Outlaw Album](https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB) | 2:45 | 2026-03-27 |  |
 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 | 2021-11-12 |  |
 | [If Tommy Duncan's Voice Was Booze](https://open.spotify.com/track/5p1r6QS3Zr5k70S2a21pZi) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Obsessed With The West](https://open.spotify.com/album/2MaFxawTGnSsWNVUXXLHsu) | 3:16 | 2023-04-21 | 2024-04-19 |
 | [If Tommy Duncan's Voice Was Booze](https://open.spotify.com/track/7L6nL3D8AxgvuPZh567xhc) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [If Tommy Duncan's Voice Was Booze](https://open.spotify.com/album/1Xv7QTztLVJLdtXEeuk98S) | 3:16 | 2022-02-18 | 2026-03-07 |

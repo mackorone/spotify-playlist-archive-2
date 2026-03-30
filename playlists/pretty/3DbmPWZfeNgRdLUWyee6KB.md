@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 149 songs - 8 hr 47 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 147 | [Occhi D’argento](https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Occhi D’argento](https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1) | 2:41 |
 | 148 | [Smile](https://open.spotify.com/track/6uKneVDbug79oVARPAqfKG) | [Asher Saipe](https://open.spotify.com/artist/11qtvzvtcIBq9S5gNPnBDD) | [Smile](https://open.spotify.com/album/24KgIkZhea3iRt93nKb8xw) | 4:05 |
 | 149 | [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 |
+| 150 | [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 |
 
-Snapshot ID: `AAASWeUPy9xDjSQ4ZIN+O8MkOudInEBE`
+Snapshot ID: `AAASWn/Pzg+ZhxtXl1QmgaIaSZ1ZoJBB`

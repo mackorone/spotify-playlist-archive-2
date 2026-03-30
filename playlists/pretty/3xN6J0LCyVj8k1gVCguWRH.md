@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,012 likes - 166 songs - 9 hr 37 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,013 likes - 168 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,13 +166,15 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 156 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 157 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 158 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 159 | [Walk with Me](https://open.spotify.com/track/5T8PBl2MkUZHeNrzGruJpC) | [Samuel K Golden](https://open.spotify.com/artist/5HFhflvEA3fWZPBvUF0GGE) | [Therapy For The Heart](https://open.spotify.com/album/5kXU7X3woNv7slG7IkkLn0) | 1:34 |
-| 160 | [Floating on Air](https://open.spotify.com/track/56cdUMV5peqmwP3946cCGx) | [Ambient Sleep](https://open.spotify.com/artist/60jnkxjFq9yCtCfijm4f4x) | [Anxiety Release and Meditative States](https://open.spotify.com/album/5WtoPjidr4EVpSZErJeVMo) | 2:24 |
-| 161 | [Mourning Light](https://open.spotify.com/track/2wLVS7g0ENJmtrBQxFb3xF) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Mourning Light](https://open.spotify.com/album/4tv7wq0NDZ4WPM6KviIN1O) | 4:14 |
-| 162 | [堡垒 \(Bǎolěi \- Fortress\)](https://open.spotify.com/track/5bWUsRbk3tYrFOwYraHYJD) | [Nica Tan Li \| 妮卡·坦丽](https://open.spotify.com/artist/3XxwS6fQdVXNU2TPYy7kWn) | [堡垒 \(Bǎolěi \- Fortress\)](https://open.spotify.com/album/0hELtAV8iLD51u6mNc5G7j) | 2:46 |
-| 163 | [Compromise](https://open.spotify.com/track/6fy345bOaBipo89uVeSR7J) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [Compromise](https://open.spotify.com/album/4sdbzmmV0ZYtXWNdYxui6c) | 2:55 |
-| 164 | [Ur Type](https://open.spotify.com/track/6Xt2oG6Chw5ZnumtIlWqwg) | [Rynn](https://open.spotify.com/artist/3m9JuNkhxjqZyjRs9N4aih) | [Ur Type](https://open.spotify.com/album/11WiroLgG3gnitioKzccKB) | 2:47 |
-| 165 | [Dodo](https://open.spotify.com/track/3mWYN5dbKNZ1llrZIMw3j1) | [Euroboy542](https://open.spotify.com/artist/1MfnWq0buNuzWpglq1ce1l) | [Dodo](https://open.spotify.com/album/2e7wZXfONoMkkrsKAMnWRx) | 2:41 |
-| 166 | [Aún Me Esperas](https://open.spotify.com/track/3Y1S2EDVKClhgUTKw3XOPd) | [WhiteCrazy](https://open.spotify.com/artist/2oxTpo5iYqY2zKO5iab7n4) | [Aún Me Esperas](https://open.spotify.com/album/7oNQKh868bRA8Z4Sz0aDlR) | 3:31 |
+| 159 | [Pretty](https://open.spotify.com/track/2RfvahNZxizqVJ4XKG7e3Z) | [Darmain stiile](https://open.spotify.com/artist/79mSOWZLtSEzvk1s5bP1pw) | [Pretty](https://open.spotify.com/album/06YLM99aqGBnTeE1b4cmOH) | 2:50 |
+| 160 | [Too Much \(Broken Souls\)](https://open.spotify.com/track/5zZXq91iziLyWT9cvigho6) | [katarina](https://open.spotify.com/artist/6QtLMXFogzOKn1KEii1VQp) | [Too Much \(Broken Souls\)](https://open.spotify.com/album/40GP1V56aDXiHKBC8kM5bR) | 2:22 |
+| 161 | [堡垒 \(Bǎolěi \- Fortress\)](https://open.spotify.com/track/5bWUsRbk3tYrFOwYraHYJD) | [Nica Tan Li \| 妮卡·坦丽](https://open.spotify.com/artist/3XxwS6fQdVXNU2TPYy7kWn) | [堡垒 \(Bǎolěi \- Fortress\)](https://open.spotify.com/album/0hELtAV8iLD51u6mNc5G7j) | 2:46 |
+| 162 | [Walk with Me](https://open.spotify.com/track/5T8PBl2MkUZHeNrzGruJpC) | [Samuel K Golden](https://open.spotify.com/artist/5HFhflvEA3fWZPBvUF0GGE) | [Therapy For The Heart](https://open.spotify.com/album/5kXU7X3woNv7slG7IkkLn0) | 1:34 |
+| 163 | [Floating on Air](https://open.spotify.com/track/56cdUMV5peqmwP3946cCGx) | [Ambient Sleep](https://open.spotify.com/artist/60jnkxjFq9yCtCfijm4f4x) | [Anxiety Release and Meditative States](https://open.spotify.com/album/5WtoPjidr4EVpSZErJeVMo) | 2:24 |
+| 164 | [Mourning Light](https://open.spotify.com/track/2wLVS7g0ENJmtrBQxFb3xF) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Mourning Light](https://open.spotify.com/album/4tv7wq0NDZ4WPM6KviIN1O) | 4:14 |
+| 165 | [Compromise](https://open.spotify.com/track/6fy345bOaBipo89uVeSR7J) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [Compromise](https://open.spotify.com/album/4sdbzmmV0ZYtXWNdYxui6c) | 2:55 |
+| 166 | [Ur Type](https://open.spotify.com/track/6Xt2oG6Chw5ZnumtIlWqwg) | [Rynn](https://open.spotify.com/artist/3m9JuNkhxjqZyjRs9N4aih) | [Ur Type](https://open.spotify.com/album/11WiroLgG3gnitioKzccKB) | 2:47 |
+| 167 | [Dodo](https://open.spotify.com/track/3mWYN5dbKNZ1llrZIMw3j1) | [Euroboy542](https://open.spotify.com/artist/1MfnWq0buNuzWpglq1ce1l) | [Dodo](https://open.spotify.com/album/2e7wZXfONoMkkrsKAMnWRx) | 2:41 |
+| 168 | [Aún Me Esperas](https://open.spotify.com/track/3Y1S2EDVKClhgUTKw3XOPd) | [WhiteCrazy](https://open.spotify.com/artist/2oxTpo5iYqY2zKO5iab7n4) | [Aún Me Esperas](https://open.spotify.com/album/7oNQKh868bRA8Z4Sz0aDlR) | 3:31 |
 
-Snapshot ID: `AAA5BpBA9YY8Y9T4zneTuWZzE1p5YHgr`
+Snapshot ID: `AAA5C3AuzfOn15BSAIpiKNHXvxJrzsM8`

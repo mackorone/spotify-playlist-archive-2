@@ -6780,7 +6780,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-30",
       "duration_ms": 152727,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
@@ -10938,6 +10938,28 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "So Bad (bonus track)",
+        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120593,
+      "name": "So Bad - bonus track",
+      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
     },
     {
       "album": {

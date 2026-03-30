@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 811082,
+  "num_followers": 811167,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
+        "name": "Days We Left Behind",
+        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Daughtry",
-        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Engines of Demolition",
         "url": "https://open.spotify.com/album/08ixiGSCVcUOBdpCZXQwqW"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 328666,
       "name": "Ozzy's Song",
       "url": "https://open.spotify.com/track/3X3jZCrNcpVryiWGn7DvJK"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Daughtry",
+        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -647,22 +663,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "No Code",
-        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 345767,
-      "name": "Present Tense",
-      "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 191813,
       "name": "Scars - Acoustic Version",
       "url": "https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "No Code",
+        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 345767,
+      "name": "Present Tense",
+      "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -839,22 +855,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 163333,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -899,22 +915,6 @@
       "duration_ms": 175203,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Days We Left Behind",
-        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 198235,
-      "name": "Days We Left Behind",
-      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Against The Wall (Acoustic Version)",
         "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "THREAD",
-        "url": "https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 304520,
-      "name": "Stealing Life",
-      "url": "https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 199213,
       "name": "Mary Go Round",
       "url": "https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "THREAD",
+        "url": "https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "duration_ms": 304520,
+      "name": "Stealing Life",
+      "url": "https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu"
     }
   ],
   "unique_name": "Rock Ballads",
