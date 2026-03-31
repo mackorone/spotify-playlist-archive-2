@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-463 songs - 19 hr 56 min
+469 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Autumn](https://open.spotify.com/track/6aSmArETYBkdW2Y0FdvouR) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Autumn](https://open.spotify.com/album/1udfjgxglRuBpDKURyipDy) | 2:25 | 2024-12-10 |  |
 | [Beautitude](https://open.spotify.com/track/4IWpVVj6c0LhBePxFoAZEe) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Beautitude](https://open.spotify.com/album/2exVfoLC3vLD8qBdNDPuDY) | 1:59 | 2023-01-20 | 2023-08-26 |
 | [Beech Woods](https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Beech Woods](https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D) | 1:52 | 2023-02-24 | 2023-08-26 |
+| [Before The Water Rises](https://open.spotify.com/track/6Vlo05BBMttzQbfbvFReKa) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Before The Water Rises](https://open.spotify.com/album/0DbT5d0jg9rFr3w9yNuEuK) | 2:19 | 2026-03-30 |  |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-08-10 |
 | [Best friends](https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Best friends](https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk) | 1:23 | 2023-05-09 | 2023-08-26 |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 | 2023-05-10 |
@@ -106,6 +107,7 @@
 | [Deliver These Words Of Mine](https://open.spotify.com/track/6BZGoIkSNK1XO87ZjGjHM2) | [Maximilian Aird](https://open.spotify.com/artist/2YEYZMKfhaoln2CS8q7Kg0) | [Deliver These Words Of Mine](https://open.spotify.com/album/2ejwvZzkzX6nc9UG2su9As) | 3:08 | 2024-02-02 | 2025-11-18 |
 | [Delta](https://open.spotify.com/track/4yUl7OGRS5NJyfhaiSlCO3) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Delta](https://open.spotify.com/album/2FDchODE7xeDJr7LuLIh8t) | 2:47 | 2024-10-23 | 2025-10-02 |
 | [Desert Rose](https://open.spotify.com/track/0MPgkoIlmnaSH5VYDMpSNe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:51 | 2022-03-04 | 2022-05-27 |
+| [Desiduous Forest](https://open.spotify.com/track/3G7Ku8bRYbkkVhdm8TcnUa) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Desiduous Forest](https://open.spotify.com/album/3akGIFQqqRuyvJKgTkeIGg) | 2:19 | 2026-03-30 |  |
 | [Destinations](https://open.spotify.com/track/5Btdy9haq6BQ6ZqB2Secfe) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Destinations](https://open.spotify.com/album/6KgWKaYuLGwyHavcn2YvEN) | 3:06 | 2024-12-10 | 2025-11-18 |
 | [Dew](https://open.spotify.com/track/2AgbBeirZsQscZYJuZYO8t) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Dew](https://open.spotify.com/album/1ihmY5wn40fLchhW60Ibjg) | 2:02 | 2022-10-07 | 2023-05-10 |
 | [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-03-04 | 2022-07-22 |
@@ -151,6 +153,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-14 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-03-04 | 2024-04-06 |
 | [Fino a Novembre](https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Fino a Novembre](https://open.spotify.com/album/2Xuon7cc0MYNmWM9awtMJl) | 2:05 | 2022-03-04 | 2022-04-06 |
+| [Fiora Notturna](https://open.spotify.com/track/0fCuGlhzbEtKEvBBu9wcIV) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Fiora Notturna](https://open.spotify.com/album/4vlNde9zWcbXfvlRgzLWS3) | 3:08 | 2026-03-30 |  |
 | [Fireflies](https://open.spotify.com/track/2D5hOoRVyJ4xH0RIgA1zdV) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Fireflies](https://open.spotify.com/album/76DkXVXBRZytK2M86SMOSe) | 2:25 | 2025-08-06 |  |
 | [First Day of Spring](https://open.spotify.com/track/1vEiPkYPGvGC6b9H62R55H) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [First Day of Spring](https://open.spotify.com/album/6ARTpCGoPf9lxTw4LXo8uO) | 2:30 | 2024-10-01 |  |
 | [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 | 2025-01-20 |  |
@@ -236,6 +239,7 @@
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-09 |  |
 | [Last rose of summer](https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Last rose of summer](https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89) | 2:28 | 2022-05-27 | 2024-10-10 |
 | [Lavendel](https://open.spotify.com/track/4z9Qej0akvAJ9SRbSa4LGY) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Green Fields](https://open.spotify.com/album/2Tlm0lRIBuVsLhxPJiJc39) | 2:57 | 2023-02-24 | 2023-11-24 |
+| [Lavender Sun](https://open.spotify.com/track/5v0YFbxaEqKd1dMciTxaBR) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Lavender Sun](https://open.spotify.com/album/0WB9nrmow21f2lO1i3LAjf) | 2:09 | 2026-03-30 |  |
 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 | 2023-06-02 | 2025-06-12 |
 | [leaving the city](https://open.spotify.com/track/0QdlI30DozlVnyCk52uveP) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 2:53 | 2022-03-04 | 2022-04-06 |
 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 | 2022-10-07 | 2024-04-06 |
@@ -319,6 +323,7 @@
 | [Rainmaker](https://open.spotify.com/track/5asJLV0COedoeSPKAkiH7y) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Rainmaker](https://open.spotify.com/album/0Ww1YwBaiSEIpFmjeSbPg0) | 2:21 | 2022-03-04 | 2022-05-27 |
 | [Rains](https://open.spotify.com/track/0le8iYnPvQYMs1aCKgrFeZ) | [Werner de John](https://open.spotify.com/artist/7KYZ7B3pZ9TQ5k8j8C4pGG) | [Rains](https://open.spotify.com/album/6ez4Vo0omWdIJOYyWgr6EU) | 2:27 | 2022-03-04 | 2022-04-22 |
 | [Reindeer](https://open.spotify.com/track/224N7Y9KKRe38dmYKiojNj) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Reindeer](https://open.spotify.com/album/1prxp1xUayCXXciwQX07hS) | 3:08 | 2025-11-17 |  |
+| [Reinventing Oneself](https://open.spotify.com/track/7yJgRGJz6Ne66hcZFyYQXw) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Reinventing Oneself](https://open.spotify.com/album/1OqnXXQLHEFVYwsgw7IAFn) | 2:02 | 2026-03-30 |  |
 | [Reise um die Welt](https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 2:51 | 2022-03-04 | 2023-02-25 |
 | [Relief](https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Relief](https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq) | 2:44 | 2024-05-10 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-03-04 | 2025-05-29 |
@@ -457,6 +462,7 @@
 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 | 2022-03-04 | 2022-10-07 |
 | [Whisper](https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2) | [Marty Defough](https://open.spotify.com/artist/5IeOpT1hJjJsbhpQTpErpt) | [Whisper](https://open.spotify.com/album/0CSv2I9G6woAROWzuNAGCw) | 2:07 | 2023-04-21 | 2023-09-01 |
 | [Whispering Winds](https://open.spotify.com/track/5D9BEXCyDrVrfYGDfwl9FE) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Whispering Winds](https://open.spotify.com/album/0MIMtnfIxqRTZBz5drD61Z) | 3:42 | 2024-05-10 |  |
+| [Whole Summer](https://open.spotify.com/track/60KUGpuWeAoXjIU80jq9GR) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Whole Summer](https://open.spotify.com/album/48JqpHCPzcb5HqKdcAYKL5) | 2:10 | 2026-03-30 |  |
 | [Wholeness](https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wholeness](https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39) | 3:18 | 2022-03-04 | 2022-04-06 |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-03-04 | 2022-07-22 |
 | [Windowpane](https://open.spotify.com/track/4z8qhtbowetMFJ076Bh0Ed) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Windowpane](https://open.spotify.com/album/6H6hC4o5RAeSV9svF64R5b) | 2:37 | 2025-12-05 |  |

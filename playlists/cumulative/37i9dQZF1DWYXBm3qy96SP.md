@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Courtney Barnett
 
-1,929 songs - 4 day 15 hr 50 min
+1,930 songs - 4 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,6 +840,7 @@
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-03 | 2025-05-01 |
 | [If They Could Only Know](https://open.spotify.com/track/1vwFYz45Yw2MVhFLL1k62w) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never/Know](https://open.spotify.com/album/4ifWQZN7li3ij532LR1l0q) | 3:12 | 2025-05-08 | 2025-06-06 |
 | [If You Build It](https://open.spotify.com/track/1zCvex13DIndjHZqIuxF9Q) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [If You Build It](https://open.spotify.com/album/4xCD3eNJv1bKODePEvbtyF) | 3:57 | 2023-03-23 | 2023-03-31 |
+| [If You Change](https://open.spotify.com/track/25JwuQuID6TFelmbUr9vgy) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [If You Change](https://open.spotify.com/album/6mom0BjN9nyY1aQaCDgNtk) | 4:41 | 2026-03-26 |  |
 | [If You're Blue](https://open.spotify.com/track/0GcYrixlyRkIVsR0IczzDP) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [If You're Blue](https://open.spotify.com/album/13i41KdYRgeDRSnGDjri2j) | 3:15 | 2023-05-18 | 2023-05-26 |
 | [Imdead](https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m), [Ronnie Radke](https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth) | [GRIZZLY](https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2) | 3:49 | 2025-07-31 | 2025-08-18 |
 | [Immortal](https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:10 | 2023-08-17 | 2023-08-25 |
@@ -1274,6 +1275,7 @@
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-16 | 2023-03-25 |
 | [PARTY PARTY](https://open.spotify.com/track/5C4BsBxDSASn687H94DmLy) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [PARTY PARTY](https://open.spotify.com/album/0koDlQlf0PnZyZBHaYEkkg) | 2:56 | 2026-03-05 | 2026-03-13 |
 | [Pavlove](https://open.spotify.com/track/6PzQE81zHTaJkuoyhGcXlK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/21mNCl1z482tKpGKv13iig) | 3:33 | 2023-12-07 | 2023-12-15 |
+| [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 | 2026-03-26 |  |
 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 | 2025-10-16 | 2025-11-07 |
 | [Peacefield](https://open.spotify.com/track/6C2I1PHUAzAl7kSvMSe8zj) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5ccZHgmVJ244iMulDie7BB) | 5:40 | 2025-04-25 | 2025-05-31 |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-18 | 2024-04-26 |
@@ -1281,7 +1283,6 @@
 | [perfect feeling](https://open.spotify.com/track/23XZguFmK2fovXqbwSGdCi) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [about time](https://open.spotify.com/album/1CHjDka3l88hNQQtQc3SnQ) | 2:56 | 2024-02-22 | 2024-03-01 |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-20 | 2024-07-12 |
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-17 | 2023-09-22 |
-| [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 | 2026-03-26 |  |
 | [Petroleum](https://open.spotify.com/track/22IHrv0zdTCRwKh3nlqYiD) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Petroleum](https://open.spotify.com/album/3LNsDUxrOFNU1VTP2DF3vz) | 3:39 | 2023-11-30 | 2023-12-08 |
 | [PETTY \(feat\. TiaCorine\)](https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BAD SON](https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf) | 3:06 | 2023-06-22 | 2023-06-30 |
 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-10-31 | 2024-12-13 |
@@ -1815,7 +1816,7 @@
 | [Weaponz](https://open.spotify.com/track/00pmqiJxIvnorE7dDR8Hnr) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Weaponz](https://open.spotify.com/album/3DRQt80MAHsSJC2vraQVaX) | 2:29 | 2024-02-29 | 2024-04-26 |
 | [Weavers' Weft](https://open.spotify.com/track/35kaYF2YEK74B0WOISySJc) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Weavers' Weft](https://open.spotify.com/album/6PpjfXaSeP2pYflV2kj6NX) | 9:41 | 2024-01-04 | 2024-01-12 |
 | [Weight \(feat\. Kelsy Karter & The Heroines & Nuno Bettencourt\)](https://open.spotify.com/track/1pkiuQdHbJ2bsdNp3YPKKR) | [Hudson Thames](https://open.spotify.com/artist/3AoNmoBJyEsBxlAjhrdxtw), [Nuno Bettencourt](https://open.spotify.com/artist/3konlNIREmuxZRIFKSPKmK), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Weight \(feat\. Kelsy Karter & The Heroines & Nuno Bettencourt\)](https://open.spotify.com/album/27WrIw6gOgnAkbg2tpeTjD) | 3:19 | 2024-02-08 | 2024-02-16 |
-| [Weight of The Truth](https://open.spotify.com/track/2f59hMF7rBNhT400280pxe) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Weight Of The Truth](https://open.spotify.com/album/7gOX07sQgqrfaNyGJYTUoO) | 3:25 | 2026-03-19 |  |
+| [Weight of The Truth](https://open.spotify.com/track/2f59hMF7rBNhT400280pxe) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Weight Of The Truth](https://open.spotify.com/album/7gOX07sQgqrfaNyGJYTUoO) | 3:25 | 2026-03-19 | 2026-03-31 |
 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 | 2023-03-30 | 2023-04-21 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-16 | 2023-08-29 |
 | [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-10 | 2023-08-18 |

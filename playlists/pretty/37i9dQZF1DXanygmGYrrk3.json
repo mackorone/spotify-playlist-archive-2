@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Valent\u00edn Elizalde, Edgardo Nu\u00f1ez",
-  "num_followers": 391720,
+  "num_followers": 391995,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 211400,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 215945,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
         "name": "De Lo Bueno, Lo Mejor",
         "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 204453,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 215945,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
     },
     {
       "added_at": "2026-02-20 08:39:43",

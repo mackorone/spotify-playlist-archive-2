@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-109 songs - 7 hr 53 min
+110 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-31 | 2024-12-07 |
 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 | 2022-10-24 |  |
 | [I Don't Wanna See You Smile](https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 3:17 | 2024-12-06 | 2025-01-07 |
-| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 | 2022-10-24 |  |
+| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 | 2022-10-24 | 2026-03-31 |
+| [I Still Haven't Found What I'm Looking For \- Remastered 2007](https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:37 | 2026-03-31 |  |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 | 2022-10-24 |  |
 | [I'll Go Crazy If I Don't Go Crazy Tonight](https://open.spotify.com/track/6Bxd6SGnWO0bTWCDYh4ZWk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 4:13 | 2022-10-24 | 2022-11-15 |
 | [If God Will Send His Angels](https://open.spotify.com/track/3VefJ4Kkzy8zeOFK8omiOd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:22 | 2022-10-24 | 2022-11-22 |

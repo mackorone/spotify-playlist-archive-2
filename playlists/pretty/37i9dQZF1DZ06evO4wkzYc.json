@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 191197,
+  "num_followers": 191260,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAxEGzKTVlMYC2gor7tR6dA",
+  "snapshot_id": "achrgAAAAADUh2Bm1Pzl5QVI7wdziMMY",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fea",
-        "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 245035,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 271859,
       "name": "El AV",
       "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fea",
+        "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 245035,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
       "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mingo",
-        "url": "https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Mingo",
-      "url": "https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 256673,
       "name": "Mario Portillo",
       "url": "https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pareja Ideal (Live)",
-        "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 249088,
-      "name": "La Pareja Ideal - Live",
-      "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 338511,
       "name": "Promesa Cumplida",
       "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pareja Ideal (Live)",
+        "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "La Pareja Ideal - Live",
+      "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
     },
     {
       "added_at": null,

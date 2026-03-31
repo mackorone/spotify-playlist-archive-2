@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 66566,
+  "num_followers": 66581,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
+        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 349973,
+      "name": "Yesu Wena UnguMhlobo - Live",
+      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Mountain High Valley Low",
@@ -915,34 +931,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "yet (don't give up)",
-        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
+        "name": "Restored (Live)",
+        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
       },
       "artists": [
         {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
         }
       ],
-      "duration_ms": 302042,
-      "name": "yet (don't give up)",
-      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
-        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 349973,
-      "name": "Yesu Wena UnguMhlobo - Live",
-      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
+      "duration_ms": 433773,
+      "name": "Haleluyah Mdumiseni - Live",
+      "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
     },
     {
       "added_at": "2024-05-31 23:59:00",

@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Mar\u00eda Isabel.",
-  "num_followers": 747522,
+  "num_followers": 747512,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,18 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "MALPORTADA",
-        "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
+        "name": "6:45",
+        "url": "https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR"
       },
       "artists": [
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 219252,
-      "name": "MALPORTADA",
-      "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
+      "duration_ms": 202134,
+      "name": "6:45",
+      "url": "https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "6:45",
-        "url": "https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR"
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
       },
       "artists": [
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 202134,
-      "name": "6:45",
-      "url": "https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz"
+      "duration_ms": 219252,
+      "name": "MALPORTADA",
+      "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "GOLOSA",
-        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 214140,
-      "name": "Mi Terraza",
-      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 214140,
+      "name": "Mi Terraza",
+      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1331,42 +1331,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "Amor.illo",
-        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
-      },
-      "artists": [
-        {
-          "name": "Louie El Ser",
-          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
-        },
-        {
-          "name": "Tommie Phoenix",
-          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
-        }
-      ],
-      "duration_ms": 193939,
-      "name": "Amor.illo",
-      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
-        "name": "En Tercera Persona",
-        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
-      },
-      "artists": [
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        }
-      ],
-      "duration_ms": 211435,
-      "name": "En Tercera Persona",
-      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "el vino y el tiempo (feat. Willy Rodr\u00edguez)",
         "url": "https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce"
       },
@@ -1387,6 +1351,42 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
+        "name": "En Tercera Persona",
+        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
+      },
+      "artists": [
+        {
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
+        }
+      ],
+      "duration_ms": 211435,
+      "name": "En Tercera Persona",
+      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Amor.illo",
+        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
+      },
+      "artists": [
+        {
+          "name": "Louie El Ser",
+          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
+        },
+        {
+          "name": "Tommie Phoenix",
+          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
+        }
+      ],
+      "duration_ms": 193939,
+      "name": "Amor.illo",
+      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
         "name": "karma",
         "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
@@ -1403,38 +1403,6 @@
       "duration_ms": 150960,
       "name": "karma",
       "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
-        "name": "Me Asusta Amar Tanto la Soledad",
-        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 202354,
-      "name": "Me Asusta Amar Tanto la Soledad",
-      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
-        "name": "PRISIONERO PERFECTO",
-        "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 204976,
-      "name": "PRISIONERO PERFECTO",
-      "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1471,6 +1439,38 @@
       "duration_ms": 203481,
       "name": "un mensaje de voz (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "PRISIONERO PERFECTO",
+        "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 204976,
+      "name": "PRISIONERO PERFECTO",
+      "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Me Asusta Amar Tanto la Soledad",
+        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 202354,
+      "name": "Me Asusta Amar Tanto la Soledad",
+      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/05iFY1rqqlIgLJ2VxufJA8"
+        "name": "ColdS3x",
+        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
       },
       "artists": [
         {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
         }
       ],
-      "duration_ms": 202281,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a"
+      "duration_ms": 190084,
+      "name": "ColdS3x",
+      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "ColdS3x",
-        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/05iFY1rqqlIgLJ2VxufJA8"
       },
       "artists": [
         {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
         }
       ],
-      "duration_ms": 190084,
-      "name": "ColdS3x",
-      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
+      "duration_ms": 202281,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
+        "name": "06199",
+        "url": "https://open.spotify.com/album/6sJilcDMJaudLckAxxMxON"
+      },
+      "artists": [
+        {
+          "name": "VEI HABACHE",
+          "url": "https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Vitamina C",
+      "url": "https://open.spotify.com/track/3rTfXhVegp74Zh2Btm3vpD"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
         "name": "Solo T\u00fa",
         "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "06199",
-        "url": "https://open.spotify.com/album/6sJilcDMJaudLckAxxMxON"
+        "name": "cruz",
+        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
       },
       "artists": [
         {
-          "name": "VEI HABACHE",
-          "url": "https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z"
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Vitamina C",
-      "url": "https://open.spotify.com/track/3rTfXhVegp74Zh2Btm3vpD"
+      "duration_ms": 244356,
+      "name": "cruz",
+      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1735,22 +1751,6 @@
       "duration_ms": 110963,
       "name": "AUSENCIA",
       "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
-        "name": "cruz",
-        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 244356,
-      "name": "cruz",
-      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
     },
     {
       "added_at": "2026-03-13 04:00:54",

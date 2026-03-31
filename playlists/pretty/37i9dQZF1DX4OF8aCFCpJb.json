@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71157,
+  "num_followers": 71167,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Helt Off",
+        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
+      },
+      "artists": [
+        {
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Babylonsjukan",
+      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
         "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 232382,
       "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
       "url": "https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Helt Off",
-        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
-      },
-      "artists": [
-        {
-          "name": "Helt Off",
-          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
-        },
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Babylonsjukan",
-      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -407,18 +407,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Irie",
-        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
+        "name": "Weh Dem A Gwaan",
+        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
       "artists": [
         {
-          "name": "Silly Selection",
-          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 203065,
-      "name": "Irie",
-      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
+      "duration_ms": 200000,
+      "name": "Weh Dem A Gwaan",
+      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -455,22 +459,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Weh Dem A Gwaan",
-        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
       },
       "artists": [
         {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+          "name": "Silly Selection",
+          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Weh Dem A Gwaan",
-      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
+      "duration_ms": 203065,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -495,18 +495,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+        "name": "RONGO",
+        "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
       },
       "artists": [
         {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+        },
+        {
+          "name": "Lance-a-Lot",
+          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
         }
       ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+      "duration_ms": 214000,
+      "name": "Vassaste kniven i l\u00e5dan",
+      "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "RONGO",
-        "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
       "artists": [
         {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Lance-a-Lot",
-          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Vassaste kniven i l\u00e5dan",
-      "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -863,22 +863,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Goliat",
-        "url": "https://open.spotify.com/album/0Uz5nV5RNZa45RkkmBgWcQ"
+        "name": "S\u00e4g Till Mig",
+        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
       },
       "artists": [
         {
           "name": "Antonio D",
           "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
         }
       ],
-      "duration_ms": 325250,
-      "name": "Goliat",
-      "url": "https://open.spotify.com/track/0rlDVmeTxiXWt6dT8xmomI"
+      "duration_ms": 260000,
+      "name": "S\u00e4g Till Mig",
+      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
     },
     {
       "added_at": "2024-06-24 11:19:01",

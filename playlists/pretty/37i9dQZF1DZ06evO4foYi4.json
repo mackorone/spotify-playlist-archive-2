@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55588,
+  "num_followers": 55585,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADaaqvAcQwb0mCWYN6qTjTZ",
+  "snapshot_id": "achrgAAAAAA2bf2ILTDTP2X+u2ccUmPO",
   "tracks": [
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 211200,
-      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
+      "duration_ms": 268506,
+      "name": "Strange Mercy",
+      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
       "duration_ms": 200426,
       "name": "My Baby Wants A Baby",
       "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Strange Mercy",
-      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 214653,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 35776,
-      "name": "Tour Bus",
-      "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
     },
     {
       "added_at": null,
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
       },
       "artists": [
         {
@@ -832,9 +816,25 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 243546,
-      "name": "Dilettante",
-      "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
+      "duration_ms": 35776,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Saves, I Spend",
+        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Saves, I Spend",
-        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 199320,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
+      "duration_ms": 243546,
+      "name": "Dilettante",
+      "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
     }
   ],
   "unique_name": "This Is St. Vincent",

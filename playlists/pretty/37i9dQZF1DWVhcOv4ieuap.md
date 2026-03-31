@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,260 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,271 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 97 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 98 | [I Want It That Way](https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [I Want It That Way](https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs) | 2:36 |
 | 99 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 |
-| 100 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
+| 100 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
 
 Snapshot ID: `AAAAAKVeWk5DWQV3JBMEBiYM125wOQvq`

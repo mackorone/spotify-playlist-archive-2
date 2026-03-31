@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,271 likes - 39 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,280 likes - 39 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

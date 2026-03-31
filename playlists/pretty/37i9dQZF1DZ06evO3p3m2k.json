@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5560,
+  "num_followers": 5566,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACA6VkQCSGofoDviZXOVueK",
+  "snapshot_id": "achrgAAAAADkCpgPC/cBBfzqNga1trXd",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 218972,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 187805,
       "name": "Paciente",
       "url": "https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 218972,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE"
     },
     {
       "added_at": null,
@@ -666,27 +666,15 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166227,
-      "name": "Monta\u00f1a Rusa",
-      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
-      },
-      "artists": [
+        },
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 217350,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
+      "duration_ms": 248741,
+      "name": "Juro Feat. Los Rumberos (Cap. 3)",
+      "url": "https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i"
     },
     {
       "added_at": null,
@@ -707,6 +695,22 @@
       "duration_ms": 305898,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 217350,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
     },
     {
       "added_at": null,
@@ -734,15 +738,11 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 248741,
-      "name": "Juro Feat. Los Rumberos (Cap. 3)",
-      "url": "https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i"
+      "duration_ms": 166227,
+      "name": "Monta\u00f1a Rusa",
+      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
     },
     {
       "added_at": null,

@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 81 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
 | 82 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
 | 83 | [Rothko](https://open.spotify.com/track/07gbs1Gb4Lu3swfgPzYLBk) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 2:58 |
-| 84 | [Split Lip](https://open.spotify.com/track/6aevwbUn1BgQY9iXXxmRcs) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:09 |
-| 85 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 84 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 85 | [Split Lip](https://open.spotify.com/track/6aevwbUn1BgQY9iXXxmRcs) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:09 |
 | 86 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/6eP1RwJU8t1F11kpg0Dg4Y) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:34 |
 | 87 | [Someday Best](https://open.spotify.com/track/379vGZukU3B77EWs8uXbfO) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:13 |
 | 88 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 137 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 138 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcNdYAAAAAAeZeNS5XD80tFKWd7gRECO`
+Snapshot ID: `AcNjFAAAAAAazIrWJl6E1r4+c5pbyYrZ`

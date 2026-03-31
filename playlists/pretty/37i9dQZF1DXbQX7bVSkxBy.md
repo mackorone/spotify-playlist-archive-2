@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,237 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,259 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 40 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 41 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
 | 42 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 |
-| 43 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 |
-| 44 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
-| 45 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
+| 43 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
+| 44 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
+| 45 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 |
 | 46 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
 | 47 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 |
 | 48 | [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 |

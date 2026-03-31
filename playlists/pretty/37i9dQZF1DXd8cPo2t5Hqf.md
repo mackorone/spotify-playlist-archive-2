@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,031 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,081 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 48 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 |
 | 49 | [ぽっぴっぽー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 1:51 |
 | 50 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
-| 51 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
-| 52 | [え?あぁ、そう。](https://open.spotify.com/track/6bZHvI7CVr3QBPW1rd4j5H) | [CyoucyoP](https://open.spotify.com/artist/7CXpI4kbhvfqUGd7LiXbUJ) | [EXIT TUNES ACADEMY BEST 3](https://open.spotify.com/album/2K74HeWdEwYJ4sJKeFK57V) | 3:27 |
+| 51 | [え?あぁ、そう。](https://open.spotify.com/track/6bZHvI7CVr3QBPW1rd4j5H) | [CyoucyoP](https://open.spotify.com/artist/7CXpI4kbhvfqUGd7LiXbUJ) | [EXIT TUNES ACADEMY BEST 3](https://open.spotify.com/album/2K74HeWdEwYJ4sJKeFK57V) | 3:27 |
+| 52 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
 | 53 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 |
 | 54 | [白い雪のプリンセスは](https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1) | [EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice](https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q) | 4:22 |
 | 55 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 81 | [ねこみみスイッチ](https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Neko seT](https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y) | 3:54 |
 | 82 | [39みゅーじっく!](https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [39みゅーじっく!](https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8) | 4:25 |
 | 83 | [ありふれたせかいせいふく feat.初音ミク](https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Obscure Questions\(オブスキュア クエスチョンズ\) \[feat\. Hatsune Miku\]](https://open.spotify.com/album/62tr8ONXURBl4kxqLGjbMO) | 3:20 |
-| 84 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
-| 85 | [Change me](https://open.spotify.com/track/2ht6Zqpv2qshMK9xLdLU2J) | [shu\-t](https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4) | [in the BOX](https://open.spotify.com/album/2FoMuaPWntFNyIZl5XqJRW) | 4:50 |
+| 84 | [Change me](https://open.spotify.com/track/2ht6Zqpv2qshMK9xLdLU2J) | [shu\-t](https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4) | [in the BOX](https://open.spotify.com/album/2FoMuaPWntFNyIZl5XqJRW) | 4:50 |
+| 85 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
 | 86 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
 | 87 | [片想いサンバ](https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:58 |
 | 88 | [ハジメテノオト](https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf) | [Malo](https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2) | [ハジメテノオト/未来の歌](https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU) | 5:02 |

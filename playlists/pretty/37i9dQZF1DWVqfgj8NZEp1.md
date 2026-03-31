@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,662,607 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,662,667 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 99 | [It's In The Middle Of The Night](https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Jazz at Night](https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u) | 3:39 |
 | 100 | [Body and Soul](https://open.spotify.com/track/45aCQ82XrgmRINaUWcuKpP) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD) | [Compton's Finest](https://open.spotify.com/album/7g2mFqX91hcw5TsC1P622n) | 4:54 |
 
-Snapshot ID: `AAAAAGRF9buvT5KVaKdKvHWcPBVPlz0Q`
+Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`

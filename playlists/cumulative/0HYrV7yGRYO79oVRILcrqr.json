@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Six Days and A Single Dime",
+        "url": "https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX"
+      },
+      "artists": [
+        {
+          "name": "The Blacktop Bandits",
+          "url": "https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174764,
+      "name": "Barroom Brawl on a Friday Night",
+      "url": "https://open.spotify.com/track/4Yblk5pDY4rZaWTyocDsWW"
+    },
+    {
+      "album": {
         "name": "Sunsick",
         "url": "https://open.spotify.com/album/18wREmEVKw4na0Q3uYKCYx"
       },
@@ -2074,6 +2092,24 @@
       "duration_ms": 236746,
       "name": "Especial",
       "url": "https://open.spotify.com/track/7loutfpfEG6vueLszoVZ7S"
+    },
+    {
+      "album": {
+        "name": "Claudia / Esploratore",
+        "url": "https://open.spotify.com/album/1qs6f1FbQuFIoXuH1KeF4v"
+      },
+      "artists": [
+        {
+          "name": "Godiva Re-Load",
+          "url": "https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290992,
+      "name": "Esploratore",
+      "url": "https://open.spotify.com/track/1WC9lEhr79UeT1rV9c0mOC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,741 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,788 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 77 | [Electroptysis](https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [At the End of the Day](https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv) | 3:41 |
 | 78 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 |
 | 79 | [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 |
-| 80 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
+| 80 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 |
 | 81 | [Take Me Back to Shinjuku](https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Take Me Back to Shinjuku](https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI) | 3:54 |
-| 82 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 |
+| 82 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
 | 83 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
 | 84 | [I Didn't Know](https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:22 |
 | 85 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 |

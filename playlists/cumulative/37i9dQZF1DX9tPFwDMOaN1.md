@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover: BTS\)
 
-815 songs - 1 day 18 hr 12 min
+817 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-05-11 | 2022-07-14 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2024-01-09 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-24 | 2023-07-22 |
+| [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 | 2026-03-30 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 | 2025-11-04 |
 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-04-03 | 2024-05-14 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-28 | 2023-03-11 |
@@ -162,7 +163,7 @@
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 | 2025-03-25 |
 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 | 2023-12-01 | 2024-06-04 |
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-10 | 2023-09-07 |
-| [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 | 2026-01-19 |  |
+| [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 | 2026-01-19 | 2026-03-31 |
 | [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 | 2023-11-10 | 2023-12-24 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-20 | 2022-06-19 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-02 | 2023-04-04 |
@@ -505,7 +506,7 @@
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2025-01-21 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-13 | 2022-07-02 |
 | [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 | 2024-09-09 | 2024-11-23 |
-| [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 | 2026-02-09 |  |
+| [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 | 2026-02-09 | 2026-03-31 |
 | [Nightwalker](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [TEN \- The 1st Mini Album](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) | 3:24 | 2024-02-13 | 2024-04-02 |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-11-11 | 2025-04-19 |
 | [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-25 | 2024-03-16 |
@@ -822,6 +823,7 @@
 | [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-20 | 2025-07-15 |
 | [별, 빛 \(STAY\)](https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [별, 빛 \(STAY\)](https://open.spotify.com/album/3ChdptcphAZ5VJHQG0DO7S) | 3:06 | 2026-03-25 |  |
 | [별별별 \(See that?\)](https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:02 | 2024-08-19 | 2024-11-02 |
+| [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 | 2026-03-30 |  |
 | [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 | 2025-10-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

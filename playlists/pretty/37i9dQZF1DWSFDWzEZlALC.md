@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: error
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,464 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,444 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 65 | [ICH WAR HIER](https://open.spotify.com/track/0Hiydp2FPlfsltfPgx3h14) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [ICH WAR HIER](https://open.spotify.com/album/1xiNvX2AZz3WOwoWcZlT4g) | 2:51 |
 | 66 | [VERRÜCKT](https://open.spotify.com/track/13kk2zXspuafWXdH9v8it9) | [BENNET](https://open.spotify.com/artist/17TdNLofzzzDydX8ZjfLqq) | [VERRÜCKT](https://open.spotify.com/album/4cMIBvoDRoXG1DT6sFhJom) | 2:20 |
 | 67 | [people pleaser](https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [people pleaser](https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua) | 3:09 |
-| 68 | [Me Time](https://open.spotify.com/track/0H2O96ucZa17GuK8P4iXQD) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Me Time](https://open.spotify.com/album/1AOoAmdhvXK3qcajR0EBIU) | 1:54 |
+| 68 | [me time](https://open.spotify.com/track/0H2O96ucZa17GuK8P4iXQD) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [me time](https://open.spotify.com/album/1AOoAmdhvXK3qcajR0EBIU) | 1:54 |
 | 69 | [Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wenn alle Stricke reissen](https://open.spotify.com/album/5oNtg3GkGJTqs8xWGJqINA) | 3:24 |
 | 70 | [Selfcaretag](https://open.spotify.com/track/3VWCgicSNalOmTOYVGbswf) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Selfcaretag](https://open.spotify.com/album/4M8yLlE6DR7HB1wtnpsICL) | 2:45 |
 | 71 | [Baby](https://open.spotify.com/track/0cmDyP03AAkIEClO01sk5u) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [ARCHIV3](https://open.spotify.com/album/0sGL5FsgYqOD55iLlP9cJO) | 2:51 |

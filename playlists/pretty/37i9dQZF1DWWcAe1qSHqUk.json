@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 276440,
-      "name": "Kissing a Fool",
-      "url": "https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 301543,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 276440,
+      "name": "Kissing a Fool",
+      "url": "https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 227455,
-      "name": "Even in the Evenin'",
-      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 227455,
+      "name": "Even in the Evenin'",
+      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Jazz and Essentials",
-        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Rat In My Kitchen",
-      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Marshall (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 152106,
       "name": "For the Love of Freedom",
       "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Jazz and Essentials",
+        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Rat In My Kitchen",
+      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
+        "name": "A Wonderful World",
+        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "A Kiss to Build a Dream On",
+      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
         "name": "Bossa & Co.",
         "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
       },
@@ -1055,22 +1075,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "A Wonderful World",
-        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
+        "name": "Tuck + Cover",
+        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
         }
       ],
-      "duration_ms": 203893,
-      "name": "A Kiss to Build a Dream On",
-      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
+      "duration_ms": 208767,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Tuck + Cover",
-        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
+        "name": "Kandace Springs",
+        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
       },
       "artists": [
         {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
         }
       ],
-      "duration_ms": 208767,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
+      "duration_ms": 196844,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1119,22 +1135,6 @@
       "duration_ms": 231013,
       "name": "To Have & to Hold",
       "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
-        "name": "Kandace Springs",
-        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 196844,
-      "name": "Forbidden Fruit",
-      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
     },
     {
       "added_at": "2026-02-09 02:43:34",

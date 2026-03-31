@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,269 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,287 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 63 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 | 64 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
 | 65 | [Days Upon Days](https://open.spotify.com/track/5rfJPWIpBMftrVybWdIXXG) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 3:29 |
-| 66 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
-| 67 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
+| 66 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
+| 67 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
 | 68 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
 | 69 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
 | 70 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 |
 | 75 | [A Bridge To Far](https://open.spotify.com/track/1VsBwiX65G3Im8IPCTjfpa) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [A Bridge To Far](https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU) | 3:44 |
 
-Snapshot ID: `AAAAAJnhtjeA7v/Xz5wpSIVWXxUkLlPd`
+Snapshot ID: `AAAAAMBXHCB+4PWDBY1bR70UkfgExn71`

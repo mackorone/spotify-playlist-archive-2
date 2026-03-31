@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,991 likes - 641 songs - 1 day 14 hr 6 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,995 likes - 641 songs - 1 day 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Me\. Keep Me\. Maybe](https://open.spotify.com/track/4QGZUXY3ZyHxOAfeHswxqd) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Soliloquy](https://open.spotify.com/album/0UO3MF90mlDKvNfwVXODub) | 4:50 |
-| 2 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:08 |
-| 3 | [Run on Home](https://open.spotify.com/track/2uKigUC8VwPwyXFmLdwHkU) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Run on Home](https://open.spotify.com/album/6tLKtcfb3mL4g8H3YfUOKA) | 2:51 |
-| 4 | [Gum Head II](https://open.spotify.com/track/637QmKCvSglVuabJ7MowG6) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [SAP](https://open.spotify.com/album/5qWAWScy8fUrOgwWphDvdD) | 1:45 |
-| 5 | [Deber Ser](https://open.spotify.com/track/0uC3Z9GkPKRTwZev1bvrFf) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Deber Ser](https://open.spotify.com/album/1J3QNTqNdPw5FQl0YS9YvH) | 4:35 |
-| 6 | [end times](https://open.spotify.com/track/6I6bqgyNdrZ21jRGUoN530) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 4:50 |
-| 7 | [Strangers](https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Strangers](https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts) | 3:21 |
+| 1 | [Strangers](https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Strangers](https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts) | 3:21 |
+| 2 | [Hold Me\. Keep Me\. Maybe](https://open.spotify.com/track/4QGZUXY3ZyHxOAfeHswxqd) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Soliloquy](https://open.spotify.com/album/0UO3MF90mlDKvNfwVXODub) | 4:50 |
+| 3 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:08 |
+| 4 | [Run on Home](https://open.spotify.com/track/2uKigUC8VwPwyXFmLdwHkU) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Run on Home](https://open.spotify.com/album/6tLKtcfb3mL4g8H3YfUOKA) | 2:51 |
+| 5 | [Gum Head II](https://open.spotify.com/track/637QmKCvSglVuabJ7MowG6) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [SAP](https://open.spotify.com/album/5qWAWScy8fUrOgwWphDvdD) | 1:45 |
+| 6 | [Deber Ser](https://open.spotify.com/track/0uC3Z9GkPKRTwZev1bvrFf) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Deber Ser](https://open.spotify.com/album/1J3QNTqNdPw5FQl0YS9YvH) | 4:35 |
+| 7 | [end times](https://open.spotify.com/track/6I6bqgyNdrZ21jRGUoN530) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 4:50 |
 | 8 | [Dia Azul](https://open.spotify.com/track/5qP6czxvzVk5rWni8RNQKc) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Dia Azul](https://open.spotify.com/album/6CJx2b7OM7L0tKW0WOOUii) | 3:47 |
 | 9 | [dogma95](https://open.spotify.com/track/3BecayaP1Cz1heTshzBaoX) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 4:12 |
 | 10 | [Voices](https://open.spotify.com/track/1nOpnsV3zdWQfX28SRm5ND) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Voices](https://open.spotify.com/album/7afBwlsNfKg3xRymDLH8IC) | 4:04 |
@@ -650,4 +650,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 640 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 641 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 
-Snapshot ID: `AAAMcdJ8OkYkhPMzkwollAHdkdsJH3NU`
+Snapshot ID: `AAAMcu2UxA9oAY5BquTgw9eQ17mDAqsE`

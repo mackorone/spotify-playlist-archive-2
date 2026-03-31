@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60395,
+  "num_followers": 60410,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-03-12 23:00:57",
       "album": {
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
         "name": "Missen Zou",
         "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": "2026-03-12 23:00:57",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-03-12 23:00:57",
       "album": {
+        "name": "Honderd Keer",
+        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
         "name": "Lichaamstaal",
         "url": "https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 148102,
       "name": "Lichaamstaal",
       "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
-        "name": "Honderd Keer",
-        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
     },
     {
       "added_at": "2026-03-12 23:00:57",

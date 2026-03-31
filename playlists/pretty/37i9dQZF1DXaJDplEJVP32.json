@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 151718,
+  "num_followers": 151749,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Azusa The Next Generation",
         "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 441546,
       "name": "Every Praise - (album edit)",
       "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "We Cry Out: The Worship Project",
-        "url": "https://open.spotify.com/album/2WgiNIVBxWssJZbmdM53do"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 483560,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/1xBIgVOzLS8zbi4vcFSqMK"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "The Light Meets The Dark",
         "url": "https://open.spotify.com/album/2c9nNyXr5tQu37gqH480Hq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 217400,
       "name": "You Are More",
       "url": "https://open.spotify.com/track/72VNLbfQELdPaKMTNjT2eB"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "We Cry Out: The Worship Project",
+        "url": "https://open.spotify.com/album/2WgiNIVBxWssJZbmdM53do"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 483560,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/1xBIgVOzLS8zbi4vcFSqMK"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "All Sons & Daughters",
-        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 296343,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
+      "duration_ms": 279786,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
+        "name": "All Sons & Daughters",
+        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         }
       ],
-      "duration_ms": 279786,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
+      "duration_ms": 296343,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+        "name": "All Things Work Together",
+        "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 233774,
-      "name": "Tell Your Heart To Beat Again",
-      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+      "duration_ms": 231053,
+      "name": "Blessings (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/56vMywhKow2JM8lW6iLn7x"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1407,22 +1411,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "All Things Work Together",
-        "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 231053,
-      "name": "Blessings (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/56vMywhKow2JM8lW6iLn7x"
+      "duration_ms": 233774,
+      "name": "Tell Your Heart To Beat Again",
+      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "The Generous Mr. Lovewell",
-        "url": "https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Death Was Arrested",
         "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
       },
@@ -1479,6 +1463,26 @@
       "duration_ms": 293331,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "I'll Find You (feat. Tori Kelly)",
+        "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "I'll Find You (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "I'll Find You (feat. Tori Kelly)",
-        "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
+        "name": "The Generous Mr. Lovewell",
+        "url": "https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 218213,
-      "name": "I'll Find You (feat. Tori Kelly)",
-      "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
+      "duration_ms": 178066,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P"
     },
     {
       "added_at": "2025-12-12 06:15:47",

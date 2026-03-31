@@ -1,6 +1,6 @@
 {
   "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: ZAYN",
-  "num_followers": 9885,
+  "num_followers": 9886,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-03-26 15:00:34",
       "album": {
-        "name": "Love Me Not (feat. Rex Orange County)",
-        "url": "https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 188198,
-      "name": "Love Me Not (feat. Rex Orange County)",
-      "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
-    },
-    {
-      "added_at": "2026-03-26 15:00:34",
-      "album": {
         "name": "Click Clack Symphony. (feat. Hans Zimmer)",
         "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "added_at": "2026-03-26 15:00:34",
+      "album": {
+        "name": "Love Me Not (feat. Rex Orange County)",
+        "url": "https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 188198,
+      "name": "Love Me Not (feat. Rex Orange County)",
+      "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
     },
     {
       "added_at": "2026-03-26 15:00:34",

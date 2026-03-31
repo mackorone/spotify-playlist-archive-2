@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Diana Meril en portada.",
-  "num_followers": 547231,
+  "num_followers": 547228,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 128500,
       "name": "Matina",
       "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
         "name": "Quisiera Enamorarme",
         "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 186200,
       "name": "Quisiera Enamorarme",
       "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Empecemos a Empezar",
-        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
-      },
-      "artists": [
-        {
-          "name": "Licenciado Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 200859,
-      "name": "Empecemos a Empezar",
-      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
         "name": "Bolerito (Remix)",
         "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 165542,
       "name": "Bolerito - Remix",
       "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
+        "name": "Empecemos a Empezar",
+        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
+      },
+      "artists": [
+        {
+          "name": "Licenciado Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 200859,
+      "name": "Empecemos a Empezar",
+      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2026-03-27 06:00:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-03-27 06:00:12",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2026-03-27 06:00:12",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2026-03-27 06:00:12",
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2026-03-27 06:00:12",

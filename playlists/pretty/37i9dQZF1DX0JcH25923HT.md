@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,847 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,048 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 63 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 |
 | 64 | [Pa Que Brille](https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Ídolo](https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX) | 3:19 |
 | 65 | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1) | 4:12 |
-| 66 | [Miss U](https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Keoland](https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI) | 4:19 |
-| 67 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
+| 66 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
+| 67 | [Miss U](https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Keoland](https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI) | 4:19 |
 | 68 | [La Cone](https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Cone](https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL) | 4:11 |
 | 69 | [Dillom: Bzrp Music Sessions, Vol\. 9/66](https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Dillom: Bzrp Music Sessions, Vol\. 9/66](https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB) | 2:31 |
 | 70 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |

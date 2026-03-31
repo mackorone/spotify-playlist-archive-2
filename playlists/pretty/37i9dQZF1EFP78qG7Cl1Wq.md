@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,125 likes - 250 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 250 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 177 | [Exposed](https://open.spotify.com/track/6ebSZrZdDf9He7m7E2gUI0) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:42 |
 | 178 | [Just In Case](https://open.spotify.com/track/68UUqIbFxibjb3Zuz8djvM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:09 |
 | 179 | [Mother Nature](https://open.spotify.com/track/0Cyp9kufRZOCwvcTLLIuWq) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:11 |
-| 180 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
-| 181 | [Fall Tonight](https://open.spotify.com/track/7oEyT5yydRhkVrOkCEg5OA) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/21ms8XR8PMEquIH9aQSuGb) | 3:08 |
+| 180 | [Fall Tonight](https://open.spotify.com/track/7oEyT5yydRhkVrOkCEg5OA) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/21ms8XR8PMEquIH9aQSuGb) | 3:08 |
+| 181 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
 | 182 | [Afraid To Fall](https://open.spotify.com/track/0YlyEicyEhlWU1z6rKrWqT) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
 | 183 | [Let Me Help You](https://open.spotify.com/track/3LiHCDh5fNDpZx7iPgwgsv) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:54 |
 | 184 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 208 | [Selective Memories](https://open.spotify.com/track/3BfbxwE0DTP8QDdjX0mr7C) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 3:43 |
 | 209 | [Nonchalant](https://open.spotify.com/track/1bFkegc1VrmfYl26qeTWAl) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 1:27 |
 | 210 | [Anonymous](https://open.spotify.com/track/2EFhov92KxpKbZvWXCjrpJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:36 |
-| 211 | [Tincture](https://open.spotify.com/track/0qYqKphPofxpsASM1NVO55) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 3:26 |
-| 212 | [Who Could Really Stop Us If We Tried \(feat\. Tayla Parx\)](https://open.spotify.com/track/2rRz3j4ZbbTMCb1l6H9Hxo) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Barbie Mysteries: Beach Detectives](https://open.spotify.com/album/1Lvl1v1vKbdlN9aye8FZHg) | 2:43 |
+| 211 | [Who Could Really Stop Us If We Tried \(feat\. Tayla Parx\)](https://open.spotify.com/track/2rRz3j4ZbbTMCb1l6H9Hxo) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Barbie Mysteries: Beach Detectives](https://open.spotify.com/album/1Lvl1v1vKbdlN9aye8FZHg) | 2:43 |
+| 212 | [Tincture](https://open.spotify.com/track/0qYqKphPofxpsASM1NVO55) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 3:26 |
 | 213 | [More Me Than Ever](https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [More Me Than Ever](https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY) | 2:21 |
 | 214 | [Easy to Love](https://open.spotify.com/track/5LSeTPuxZjVCZa5ZcRFDRv) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:19 |
 | 215 | [Dream Hotel](https://open.spotify.com/track/0W2b5N4Z0sXtuDSMiflS7J) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:37 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 249 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 250 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcNdYAAAAAByOLaXvoyh7UFYSF4ILKHI`
+Snapshot ID: `AcNjAAAAAAAln4Zt2bO6ZqxG3YpK0IC9`

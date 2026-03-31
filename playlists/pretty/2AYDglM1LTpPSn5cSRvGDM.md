@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 105,707 likes - 100 songs - 5 hr 52 min
+[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 105,742 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 | 2 | [Walk Away](https://open.spotify.com/track/5bojLjdOOw3J6R595koBrd) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Walk Away](https://open.spotify.com/album/7pfwOHCIY1nB8Oaa4AzyQB) | 3:30 |
 | 3 | [I Remember \- John Summit Remix](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03) | 4:00 |
 | 4 | [In The Night](https://open.spotify.com/track/7rE8HJFhRtI2P69ENWim6R) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [In The Night](https://open.spotify.com/album/7y4lX00wgUT9NlYmrF0Rns) | 3:40 |
-| 5 | [Lose Yourself](https://open.spotify.com/track/28yki2yPVLHmaIHP0Mcan2) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Lose Yourself](https://open.spotify.com/album/1ylCng8k8SHjJ4sXRvchYq) | 2:30 |
-| 6 | [No Matter](https://open.spotify.com/track/1fRYcCJPvF4mAIEZ310WM3) | [Leon Lour](https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [No Matter](https://open.spotify.com/album/10gXJZRP7DFbfRBKuPJ390) | 4:07 |
+| 5 | [No Matter](https://open.spotify.com/track/1fRYcCJPvF4mAIEZ310WM3) | [Leon Lour](https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [No Matter](https://open.spotify.com/album/10gXJZRP7DFbfRBKuPJ390) | 4:07 |
+| 6 | [Lose Yourself](https://open.spotify.com/track/28yki2yPVLHmaIHP0Mcan2) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Lose Yourself](https://open.spotify.com/album/1ylCng8k8SHjJ4sXRvchYq) | 2:30 |
 | 7 | [Cola \- ARTBAT Remix](https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Cola \(ARTBAT Remix\)](https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ) | 3:08 |
 | 8 | [Waters](https://open.spotify.com/track/6XJg2WxvsU0GvBcuhL5jY0) | [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Talking Body](https://open.spotify.com/artist/0dppHiwuTHFpGBai4IrWp3), [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Waters](https://open.spotify.com/album/7dPjBbQd8m3ZIHzjiJdY2T) | 2:56 |
 | 9 | [Love Parade](https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Love Parade](https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 | 99 | [I Can't Sleep](https://open.spotify.com/track/32gqaII6dwZwNKbZcctExs) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [I Can't Sleep](https://open.spotify.com/album/5c7Y8DKzjiUj53aEvcpssi) | 3:54 |
 | 100 | [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 |
 
-Snapshot ID: `AABAYxo3Qm1qwSdRN/R9/DTWCO9vT9nt`
+Snapshot ID: `AABAZFkQIe0/fNzZryGECxG3ztkoZlp+`

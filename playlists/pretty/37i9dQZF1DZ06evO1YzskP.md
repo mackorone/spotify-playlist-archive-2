@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,981 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,995 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lo Que Hay X Aquí](https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:38 |
 | 2 | [Venecia](https://open.spotify.com/track/7EOIHK5ZQ8wRrThYepY8C5) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Venecia](https://open.spotify.com/album/16HS96UO2LIK6Owplgqnol) | 2:35 |
 | 3 | [De Madrid a París](https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [De Madrid a ParÍs](https://open.spotify.com/album/3ilZ3b1wYpkJRa9UaNsodz) | 4:17 |
-| 4 | [Ojitos Lindos](https://open.spotify.com/track/7BnMbXmqb42ZvaFCJeQNhE) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:36 |
-| 5 | [Qué Belleza De Mujer](https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Qué Belleza De Mujer](https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm) | 2:47 |
+| 4 | [Qué Belleza De Mujer](https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Qué Belleza De Mujer](https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm) | 2:47 |
+| 5 | [Ojitos Lindos](https://open.spotify.com/track/7BnMbXmqb42ZvaFCJeQNhE) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:36 |
 | 6 | [Según Yo](https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Según Yo](https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6) | 2:54 |
 | 7 | [Si No Estás](https://open.spotify.com/track/23rsNGqAU6mBbUe4dEk8b9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:35 |
 | 8 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 42 | [LALA](https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:11 |
 | 43 | [Las Facetas de Arturo \(En Vivo\)](https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:11 |
 | 44 | [Borracho](https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:26 |
-| 45 | [Me Dejaron Como 100pre](https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/4f7OO4Z04tIGrCOeyx50Rv) | 2:52 |
-| 46 | [El Chavo](https://open.spotify.com/track/5RQfIg3MnYpq6xf4l98ATT) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:48 |
+| 45 | [El Chavo](https://open.spotify.com/track/5RQfIg3MnYpq6xf4l98ATT) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:48 |
+| 46 | [Me Dejaron Como 100pre](https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/4f7OO4Z04tIGrCOeyx50Rv) | 2:52 |
 | 47 | [Somos Mayiza](https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW) | 3:12 |
 | 48 | [Ante la gente](https://open.spotify.com/track/3X10K4WsoLqqbrMomStv4W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 3:49 |
 | 49 | [Amigo 09](https://open.spotify.com/track/5XmiWFjqBClnlcAgDD69Vb) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:49 |
 | 50 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
 
-Snapshot ID: `accaAAAAAADpwIrUr35CfewPe+Zuylxu`
+Snapshot ID: `achrgAAAAAAv5GSNtRphzGk2uWQf4OYv`

@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4760,
+  "num_followers": 4762,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAB4Rln7VsETNRut9LdwobRn",
+  "snapshot_id": "achrgAAAAABMou05WCq2QOk/AKgD4i2T",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "last night",
-        "url": "https://open.spotify.com/album/0CoGTbkwsNheCdBFtY4qBD"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199932,
-      "name": "last night",
-      "url": "https://open.spotify.com/track/0HMQ493c8db2ALqW7sYGhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "used to",
         "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "last night",
+        "url": "https://open.spotify.com/album/0CoGTbkwsNheCdBFtY4qBD"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 199932,
+      "name": "last night",
+      "url": "https://open.spotify.com/track/0HMQ493c8db2ALqW7sYGhr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "pretty little thing",
         "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 190959,
       "name": "pretty little thing",
       "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 245945,
+      "name": "pass you by",
+      "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 245945,
-      "name": "pass you by",
-      "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ocean waves",
         "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "stfu (i got u)",
-      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "crush",
         "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 199877,
       "name": "crush",
       "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blink of an eye",
         "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "parallel universe",
+      "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "party in my head (ur not invited)",
         "url": "https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 183213,
       "name": "party in my head (ur not invited)",
       "url": "https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sad girls always finish first",
+        "url": "https://open.spotify.com/album/1uOzpySeBwLPkB26QGURgS"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "sad girls always finish first",
+      "url": "https://open.spotify.com/track/5eBL4nPwEnlQSmjX6zCeOu"
     },
     {
       "added_at": null,
@@ -388,25 +404,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 197160,
-      "name": "parallel universe",
-      "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sad girls always finish first",
-        "url": "https://open.spotify.com/album/1uOzpySeBwLPkB26QGURgS"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "sad girls always finish first",
-      "url": "https://open.spotify.com/track/5eBL4nPwEnlQSmjX6zCeOu"
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "make it rain",
-      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "mensajes de voz",
         "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish you were here",
-        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 202706,
-      "name": "wish you were here",
-      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+      "duration_ms": 159666,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 183587,
       "name": "mentiras",
       "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish you were here",
+        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "wish you were here",
+      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00e9xtasis",
-        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 185054,
-      "name": "\u00e9xtasis",
-      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+      "duration_ms": 203627,
+      "name": "voicenote",
+      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+        "name": "\u00e9xtasis",
+        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203627,
-      "name": "voicenote",
-      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+      "duration_ms": 185054,
+      "name": "\u00e9xtasis",
+      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
     },
     {
       "added_at": null,

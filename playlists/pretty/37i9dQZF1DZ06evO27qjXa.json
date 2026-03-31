@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 26060,
+  "num_followers": 26105,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAClOETS9CUzzAC/du9S4S1+",
+  "snapshot_id": "achrgAAAAAAbjoirvfw0YBM3Snj/NynX",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Glow-in-the-Dark Shapes Dance",
-        "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 213938,
-      "name": "The Glow-in-the-Dark Shapes Dance",
-      "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Floor is Lava 2 (Into the Volcano)",
         "url": "https://open.spotify.com/album/5c5cttrxHIfk0MVYuXvx78"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ice King Freeze Dance",
-        "url": "https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0"
+        "name": "The Glow-in-the-Dark Shapes Dance",
+        "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
       },
       "artists": [
         {
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 203169,
-      "name": "The Ice King Freeze Dance",
-      "url": "https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh"
+      "duration_ms": 213938,
+      "name": "The Glow-in-the-Dark Shapes Dance",
+      "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Airplane Mode!",
+        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 224557,
+      "name": "Airplane Mode!",
+      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Airplane Mode!",
-        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
+        "name": "The Ice King Freeze Dance",
+        "url": "https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 224557,
-      "name": "Airplane Mode!",
-      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
+      "duration_ms": 203169,
+      "name": "The Ice King Freeze Dance",
+      "url": "https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danny Go! Sleep Music, Vol. 2 (Lullaby Version)",
-        "url": "https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Ka-Pow - Lullaby Version",
-      "url": "https://open.spotify.com/track/4Q0hlXcIoIFZXVk72X30Ed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Cat",
         "url": "https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB"
       },
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluey Theme (Acapella Version)",
-        "url": "https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0"
+        "name": "Danny Go! Sleep Music, Vol. 2 (Lullaby Version)",
+        "url": "https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 70218,
-      "name": "Bluey Theme - Acapella Version",
-      "url": "https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS"
+      "duration_ms": 242500,
+      "name": "Ka-Pow - Lullaby Version",
+      "url": "https://open.spotify.com/track/4Q0hlXcIoIFZXVk72X30Ed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bravest Knight!",
+        "url": "https://open.spotify.com/album/7DiWcMXwZb4kOJGcjZmmJs"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 560875,
+      "name": "The Bravest Knight!",
+      "url": "https://open.spotify.com/track/4L3JmesNmUOkvC73qhdUeq"
     }
   ],
   "unique_name": "This Is Danny Go!",

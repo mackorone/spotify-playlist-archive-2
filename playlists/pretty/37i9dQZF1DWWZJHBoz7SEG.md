@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > No viene CR7 pero si muchas rolitas hasta más top que el Bicho\. Maria Daniela y Su Sonido Lasser y Denisse Guerrero en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,842 likes - 72 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,795 likes - 72 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 21 | [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 |
 | 22 | [Amor Eterno](https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 4:07 |
 | 23 | [T T T](https://open.spotify.com/track/3IKxbI6tQV2cAiheQqt410) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [T T T](https://open.spotify.com/album/0TquGN9fpiEHQqcsAgE2C9) | 2:39 |
-| 24 | [MEXICANA](https://open.spotify.com/track/6FZro1fYNjSXd0d1xJpp5A) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [MEXICANA](https://open.spotify.com/album/1YCgsRmgb5rEuUysd0A0j4) | 3:31 |
+| 24 | [MEXICANA](https://open.spotify.com/track/6FZro1fYNjSXd0d1xJpp5A) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [MEXICANA](https://open.spotify.com/album/1YCgsRmgb5rEuUysd0A0j4) | 3:33 |
 | 25 | [Eres Tú](https://open.spotify.com/track/7Iv0jDGYKb2MDvHvx6xEYa) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [jhony exe](https://open.spotify.com/artist/6I2IFS0o6pCTWJCDUbr2wk), [Mamx](https://open.spotify.com/artist/2s2vf7HUnfrciHagiyRX50) | [Eres Tú](https://open.spotify.com/album/1ZjdHftq41vDUBOpLyrjFk) | 2:38 |
 | 26 | [POR QUÉ SERÁ](https://open.spotify.com/track/7BzlQEYv3pmwVkIZNViGgr) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [POR QUÉ SERÁ](https://open.spotify.com/album/0k5P4aqC9iza7uIT9vuZ7F) | 2:40 |
 | 27 | [RoOcCOna](https://open.spotify.com/track/0y4kivcakA7jYvZqRazDME) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [LOW](https://open.spotify.com/artist/6URd8yDRBMQZt5YHoVJXfO) | [RoOcCOna](https://open.spotify.com/album/6365tcbzMMjM1VPabjZXqw) | 2:17 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 53 | [mañana](https://open.spotify.com/track/0A1Wi8DaOeqb7tMhFgqQc8) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [mañana](https://open.spotify.com/album/2oF4k3gwSiRcWndjnM1tse) | 3:08 |
 | 54 | [BROKE AGAIN](https://open.spotify.com/track/3VRuxdibXaqDGhjOMyiZvu) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [ECo](https://open.spotify.com/album/29vOvVAxTYOklmxtDvlNNV) | 2:09 |
 | 55 | [GUANTÁNAMO](https://open.spotify.com/track/46N5AyEmO6d8DZtTkgnVQ6) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn) | [GUANTÁNAMO](https://open.spotify.com/album/1XdjcHqnZTZnb9J0VKYt4f) | 2:34 |
-| 56 | [Si Tu Kieres](https://open.spotify.com/track/2O0ZLSpindfyzKDHAd3yAC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv) | [Si Tu Kieres](https://open.spotify.com/album/5hHbyumCbSeCagbXKYSfEb) | 2:19 |
+| 56 | [Si Tu Kieres](https://open.spotify.com/track/2O0ZLSpindfyzKDHAd3yAC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Dj Alexis Najera](https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa) | [Si Tu Kieres](https://open.spotify.com/album/5hHbyumCbSeCagbXKYSfEb) | 2:19 |
 | 57 | [Bye Mi Amor](https://open.spotify.com/track/00V3AyVWKsDdmIodveolrB) | [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs), [Marco Marroquin](https://open.spotify.com/artist/1HvIYWtS5X45onioOfaSCB) | [Bye Mi Amor](https://open.spotify.com/album/4gKzE2KYd19vhLUSHi3TqE) | 2:51 |
 | 58 | [Exxxcusa](https://open.spotify.com/track/5K2G8Pcni7Oxczz7oRF5o7) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [Exxxcusa](https://open.spotify.com/album/39gAKmfOG1Uj36pctz0x07) | 2:25 |
 | 59 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 
 > Just good energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,406 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,418 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 13 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
 | 14 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 15 | [Can't Deny It](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Can't Deny It](https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ) | 2:52 |
-| 16 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7) | 2:18 |
-| 17 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 |
+| 16 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 |
+| 17 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7) | 2:18 |
 | 18 | [Disco Turbo](https://open.spotify.com/track/0RZjuYWQ7nXV0iij60LYgJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Disco Turbo](https://open.spotify.com/album/6pIia0cXMnfA0I41UiS52A) | 2:56 |
 | 19 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 20 | [Desire](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Desire](https://open.spotify.com/album/2yamyyBAOGWiGKI1O9X0wf) | 2:38 |

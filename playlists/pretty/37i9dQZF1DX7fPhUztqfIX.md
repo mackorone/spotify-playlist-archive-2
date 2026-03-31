@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,830 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,854 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [Miracles](https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Kendrick Williams Jr](https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp) | [Miracles](https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm) | 5:02 |
 | 100 | [Let There Be \- Live](https://open.spotify.com/track/3Vh0J89Ast5y4SlUsUnK7A) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Let There Be \(Live\)](https://open.spotify.com/album/0QBDnUMHncJ9viZ4OzRLYP) | 4:40 |
 
-Snapshot ID: `AAAAACLQdgT/lbc/Yqf87gRUrnoGEQ27`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

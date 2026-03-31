@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWDRVIM3oeCu>Halsey</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIYnCz0KRbdlN>Fuerza Regida</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 251221,
       "name": "23 Preguntas",
       "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 151836,
       "name": "ANSIEDAD",
       "url": "https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 185146,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 272707,
       "name": "Bila Rasaku Ini Rasamu",
       "url": "https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 258225,
       "name": "Chhad Dila",
       "url": "https://open.spotify.com/track/75v90PN9FbhV1RC0ukWMWJ"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 307879,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 231586,
       "name": "Como todo el Mundo",
       "url": "https://open.spotify.com/track/2N7QCU3QVT72B9sQIWXPHr"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 224047,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/44kI7aJvJAYJkREVk0Rmei"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 243426,
       "name": "Devu\u00e9lveme El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY"
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
@@ -5892,7 +5892,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 217768,
       "name": "HACIENDO QUE ME AMAS",
       "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
@@ -6116,7 +6116,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 260253,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM"
@@ -7262,7 +7262,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -7374,7 +7374,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -9660,6 +9660,24 @@
       "duration_ms": 189506,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
+    },
+    {
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
     },
     {
       "album": {
@@ -11964,7 +11982,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -12000,7 +12018,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
@@ -13518,7 +13536,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
@@ -14716,7 +14734,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 216000,
       "name": "Te Esper\u00e9",
       "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
@@ -15708,7 +15726,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -15980,7 +15998,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 279275,
       "name": "UNA CERVEZA",
       "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
@@ -17066,7 +17084,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
@@ -17734,7 +17752,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 218962,
       "name": "\u0639\u064a\u0648\u0646\u0647 \u0647\u062a\u062f\u0645\u0639",
       "url": "https://open.spotify.com/track/7mIlBkspGjJk5c5hrR8Q4V"

@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/6jVysJUSRFQnpCzWmfVWkC"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/5Iedc3D20KJoj95uQRp5p0"
+    },
+    {
+      "album": {
         "name": "Aliksir",
         "url": "https://open.spotify.com/album/2hGnnfpWjI7mMbebw2JcO8"
       },

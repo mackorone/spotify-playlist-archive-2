@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 326097,
+  "num_followers": 326114,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAA3U31HK3u4LqGTeAN1rtoT",
+  "snapshot_id": "achrgAAAAADAZwuMrhr66ow0YYpTrtMB",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 249373,
-      "name": "Come On (Let the Good Times Roll)",
-      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+      "duration_ms": 265813,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 265813,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 301520,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206133,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Sweet Angel",
-      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 467426,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Sweet Angel",
+      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 426613,
       "name": "Like A Rolling Stone - Live At Monterey",
       "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 469600,
-      "name": "Once I Had a Woman",
-      "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 475373,
       "name": "Georgia Blues",
       "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 469600,
+      "name": "Once I Had a Woman",
+      "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 106213,
-      "name": "Farther Up the Road",
-      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 221360,
       "name": "Things I Used to Do",
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 106213,
+      "name": "Farther Up the Road",
+      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

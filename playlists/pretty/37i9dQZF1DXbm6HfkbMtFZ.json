@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 838387,
+  "num_followers": 838462,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Tomorrow Again",
         "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 238500,
       "name": "Rock Pools",
       "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Sun & Moon",
         "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 165712,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Blossom Dearie Sings (45th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 176718,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1983,18 +1983,22 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Damn It All",
-        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+        "name": "The Road From Memphis (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY"
       },
       "artists": [
         {
-          "name": "Rob Galbraith",
-          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+          "name": "Booker T. Jones",
+          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
+        },
+        {
+          "name": "Yim Yames",
+          "url": "https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Tell Me With Your Eyes (Just Be You)",
-      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+      "duration_ms": 199680,
+      "name": "Progress",
+      "url": "https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty"
     }
   ],
   "unique_name": "Feel Good Dinner",

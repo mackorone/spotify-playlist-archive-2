@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> Celebrating all the songs with more than a billion streams on Spotify\. Cover: Ravyn Lenae
+> Celebrating all the songs with more than a billion streams on Spotify\. Cover: Bad Bunny
 
 1,289 songs - 3 day 6 hr 30 min
 

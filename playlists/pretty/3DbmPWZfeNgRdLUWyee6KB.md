@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 150 songs - 8 hr 51 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 160 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,15 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 148 | [Smile](https://open.spotify.com/track/6uKneVDbug79oVARPAqfKG) | [Asher Saipe](https://open.spotify.com/artist/11qtvzvtcIBq9S5gNPnBDD) | [Smile](https://open.spotify.com/album/24KgIkZhea3iRt93nKb8xw) | 4:05 |
 | 149 | [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 |
 | 150 | [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 |
+| 151 | [Without Job](https://open.spotify.com/track/3bUTxynnmrhvaevvDvB7n7) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Without Job](https://open.spotify.com/album/5oryg8dV3hsmDHTum90UTg) | 2:59 |
+| 152 | [Lullaby](https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV) | [Svetlana Bakushina](https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL), [Carlos Rufo Martins](https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ) | [Lullaby](https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb) | 3:37 |
+| 153 | [Remergence IS \(Remember Yourself\)](https://open.spotify.com/track/5HKlb9liOYTfBQpNvopPXr) | [Scientists Of Spright](https://open.spotify.com/artist/2QBaWdsPg8yEN7IBH4NhQJ) | [Remergence IS \(Remember Yourself\)](https://open.spotify.com/album/4TmNT7cOQp07A0rLtsgpoL) | 4:00 |
+| 154 | [It Gets Better](https://open.spotify.com/track/3aJL2o26QXD7KYX8daL0yX) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [honeybee](https://open.spotify.com/artist/3uRgGI7WqysQzxvmmSXMpF) | [It Gets Better](https://open.spotify.com/album/4cZdqoIPaeYn108RoDhJkV) | 3:19 |
+| 155 | [AILERE](https://open.spotify.com/track/5hba6KxKrFXPk4FLI793Pb) | [Cee Gabi](https://open.spotify.com/artist/2XK33VEnZJmS2o4w7steQo) | [AILERE](https://open.spotify.com/album/6gttHKcgLV41tzD8QcHhSN) | 3:02 |
+| 156 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 |
+| 157 | [Hideout](https://open.spotify.com/track/40sdZTIu6EjXrCfwSK9lxc) | [Yuro](https://open.spotify.com/artist/0Dk13ooOMCsco5iT1jtSy4) | [Hideout](https://open.spotify.com/album/0lRfLaOcxXCM1D6Chchynt) | 2:37 |
+| 158 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 |
+| 159 | [Headphones](https://open.spotify.com/track/551z98Cw2FxiY9Wnm4SGpw) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Headphones](https://open.spotify.com/album/3vMg7qx8oSwJJfjwMRfW1L) | 3:35 |
+| 160 | [I Might Be An Alien](https://open.spotify.com/track/1AkOkTeSG7FwD5gIc8gnmI) | [Lee Switzer\-Woolf](https://open.spotify.com/artist/39FQMAp2C86W7yagW3n43h) | [I Might Be An Alien](https://open.spotify.com/album/0frOpLxlwSl0yT1vNOVtLt) | 3:54 |
 
-Snapshot ID: `AAASWn/Pzg+ZhxtXl1QmgaIaSZ1ZoJBB`
+Snapshot ID: `AAASZO1K0J2CoyGoLjxgv7wWZIOyHH7p`

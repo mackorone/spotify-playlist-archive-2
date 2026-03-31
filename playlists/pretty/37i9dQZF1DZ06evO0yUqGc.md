@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,228 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,234 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 8 | [Fuck You](https://open.spotify.com/track/4XE98WRGbBGRZ7jQ9wIwFt) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:39 |
 | 9 | [5 O'Clock \(feat\. Lily Allen & Wiz Khalifa\)](https://open.spotify.com/track/42EMFjvFtOki8MA0JNZqVK) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Revolver \(Expanded Edition\)](https://open.spotify.com/album/7rWNM4Q11nvmpHOuSnLFME) | 4:41 |
 | 10 | [4chan Stan](https://open.spotify.com/track/3ef4NtBA4nOsYMCl07V4Dj) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:04 |
-| 11 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
+| 11 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
 | 12 | [The Fear](https://open.spotify.com/track/49BCXWSHGd4UumM9w17BvS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:27 |
-| 13 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
+| 13 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 14 | [Sleepwalking](https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:57 |
 | 15 | [Come on Then](https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:11 |
 | 16 | [Roll The Dice \(feat\. Stamina MC & Lily Allen\)](https://open.spotify.com/track/0gO2I7dgwORBIys7ZtIYw8) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:28 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 22 | [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 |
 | 23 | [22](https://open.spotify.com/track/5RhkkWN65KEq28RpBit1Hf) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:06 |
 | 24 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 |
-| 25 | [Knock 'Em Out](https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:53 |
-| 26 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 |
+| 25 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 |
+| 26 | [Knock 'Em Out](https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:53 |
 | 27 | [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 |
 | 28 | [What You Waiting For?](https://open.spotify.com/track/6RoX1kFmPx83oIj4u74bXm) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:06 |
 | 29 | [Alfie](https://open.spotify.com/track/1bG4NCNZd3Go5pNWjH5Wl2) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 2:45 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 34 | [Cigarettes & Cush \(feat\. Kehlani & Lily Allen\)](https://open.spotify.com/track/7urCpstCEncypWMreEwJCh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 5:49 |
 | 35 | [Everything's Just Wonderful](https://open.spotify.com/track/2wFzjUNWlF7tYzHW2A3OOe) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:28 |
 | 36 | [Plain \(feat\. Lily Allen & Flo Milli\)](https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
-| 37 | [Family Man](https://open.spotify.com/track/2djUvMKV5x0sUAPdbk4HlJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:38 |
+| 37 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 |
 | 38 | [He Wasn't There](https://open.spotify.com/track/3DvREgY2Bhl5hpEzkgloYH) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 2:51 |
-| 39 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 |
+| 39 | [Family Man](https://open.spotify.com/track/2djUvMKV5x0sUAPdbk4HlJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:38 |
 | 40 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
 
-Snapshot ID: `accaAAAAAADK2esSqOzJXgaiPnxWvID7`
+Snapshot ID: `achrgAAAAAAeVDTqed65woHNmg1aIlSd`

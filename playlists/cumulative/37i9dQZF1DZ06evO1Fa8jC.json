@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227157,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/1rvWh5U66dsiEhXD0Nqyw6"
+    },
+    {
+      "album": {
         "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
         "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
       },
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 208989,
       "name": "Prefiero",
       "url": "https://open.spotify.com/track/3i6m98djJi8AJnyCWyhXWV"

@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-576 songs - 1 day 8 hr 22 min
+577 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Amiga Luna](https://open.spotify.com/track/3SCeRLJf7mG8DHUKCigB8o) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Amiga Luna](https://open.spotify.com/album/40zRnWMahboZXFQdVlG1Rz) | 3:27 | 2022-07-22 | 2022-08-13 |
 | [Amiga Mia](https://open.spotify.com/track/4LtJw5rC6JW4977Eec579F) | [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Los Moykano's](https://open.spotify.com/artist/0iEb0AxgIKdFEBge2F0hSr) | [Amiga Mia](https://open.spotify.com/album/5Aik8YFCODvpvAIdP73g2t) | 4:13 | 2024-06-28 | 2024-08-17 |
 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 | 2022-01-14 |  |
+| [Amor De Adolescentes](https://open.spotify.com/track/3RpZ9ag9JCDCwLSiPjWdOa) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [GRUPO RED / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/3bt7UKpy3uxKAJlNNO2wtx) | 2:07 | 2026-03-30 |  |
 | [Amor de Chat \- En vivo](https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Amor de Chat \(En Vivo\)](https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA) | 4:37 | 2024-09-13 | 2024-12-02 |
 | [Amor de Verdad](https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Amor de Verdad](https://open.spotify.com/album/2YEyHinoMiFTrTTJxdlx6m) | 3:37 | 2022-01-14 | 2022-07-20 |
 | [Amor Entre Mujeres](https://open.spotify.com/track/7JoglzZ0cprbYPwCD5bf4f) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor Entre Mujeres](https://open.spotify.com/album/3BzDhIjGKNUR7yGXDdLsOg) | 2:59 | 2026-03-06 |  |
@@ -370,7 +371,7 @@
 | [Otra Oportunidad](https://open.spotify.com/track/4wWSU0upTTcJ3zfFx37Cun) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Otra Oportunidad](https://open.spotify.com/album/02XPfacvzjTIhbYV2mMolk) | 2:57 | 2024-08-09 | 2024-12-31 |
 | [Para Que](https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ilan Amores](https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z) | [Para Que](https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3) | 3:57 | 2022-09-09 | 2022-12-17 |
 | [Para Siempre / Tan Solo Tu \(Enganchados\)](https://open.spotify.com/track/5atnHTTAommfPj4DUkTkim) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Los Piazzolis](https://open.spotify.com/artist/7113fJ6VpBoPcTLCwjFlN3) | [Para Siempre / Tan Solo Tu \(Enganchados\)](https://open.spotify.com/album/40MRt8hm2FkJJFYEbvlEH3) | 5:16 | 2023-04-07 | 2023-04-12 |
-| [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 | 2022-01-14 |  |
+| [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 | 2022-01-14 | 2026-03-31 |
 | [Pedazo de Papel](https://open.spotify.com/track/1TCXt8Z6MOKmqYqunAUEGG) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Pedazo de Papel](https://open.spotify.com/album/38Ppm9ZknrdRRwWAzLaqOa) | 4:49 | 2023-09-08 | 2024-01-24 |
 | [Pega la Vuelta](https://open.spotify.com/track/51seuwibGTQsUod6oScKtR) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:49 | 2022-01-14 |  |
 | [Perdida en Ti](https://open.spotify.com/track/2e80JiBWajKMkPOIeDw4Kp) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Un Dia sin ti / Perdida en ti / Digale](https://open.spotify.com/album/1HPGcouk9Hex12Hs9G2foR) | 3:06 | 2023-06-02 | 2023-06-10 |

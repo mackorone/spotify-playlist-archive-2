@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 47 | [Trust](https://open.spotify.com/track/4nCWC5PmiFDU3MeZUXWo1T) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Trust](https://open.spotify.com/album/2Cm9Fr0UWeJJNi0koNjAwA) | 2:35 |
 | 48 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 |
 | 49 | [for the people in the back](https://open.spotify.com/track/72gooyj5bJQNROC5Ptmjn7) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:34 |
-| 50 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 |
-| 51 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 50 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 51 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 |
 | 52 | [My Whole Life](https://open.spotify.com/track/3gOaaWn0rrAiG1dUWAuNod) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:42 |
 | 53 | [Questions For The Universe](https://open.spotify.com/track/7kle3wveNJelYdI1khvHDb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:23 |
 | 54 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 99 | [save a seat](https://open.spotify.com/track/3M9WDUmPCwpkwoItsRlOT2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:07 |
 | 100 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 |
 | 101 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
-| 102 | [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 |
-| 103 | [can you say the same](https://open.spotify.com/track/389KxeDYFxsl6tLycdBqLq) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:15 |
+| 102 | [can you say the same](https://open.spotify.com/track/389KxeDYFxsl6tLycdBqLq) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:15 |
+| 103 | [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 |
 | 104 | [1 of 1](https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:45 |
 | 105 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 |
 | 106 | [pink starburst](https://open.spotify.com/track/4njZsHyu8iHpZmT8sV4Mjn) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:55 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 144 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 145 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcNdYAAAAACD7ZgFZlegEbOagig6g6ee`
+Snapshot ID: `AcNjAAAAAAA6/ajrcnQhvSthP2xdCSom`

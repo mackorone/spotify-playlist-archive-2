@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAClVKvRZ0s6dq0tjcm0q3Go",
+  "snapshot_id": "achrgAAAAADfJTIU6NePPnaKhtlIl38T",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "More Like Her",
-      "url": "https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 181440,
       "name": "Trailer for Rent",
       "url": "https://open.spotify.com/track/7Bppatt7pAcCg5sr2A2BTx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "More Like Her",
+      "url": "https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN"
     },
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 183242,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
+      "duration_ms": 214786,
+      "name": "It All Comes Out in the Wash",
+      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
     },
     {
       "added_at": null,
@@ -919,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
       "artists": [
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 214786,
-      "name": "It All Comes Out in the Wash",
-      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
       "duration_ms": 230000,
       "name": "Makin' Plans",
       "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
     },
     {
       "added_at": null,
@@ -1011,6 +995,22 @@
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
     },
     {
       "added_at": null,

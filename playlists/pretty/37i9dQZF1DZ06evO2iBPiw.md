@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 
 > This is The Beatles\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,052,583 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,052,562 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 | 9 | [Don't Let Me Down \- Remastered 2009](https://open.spotify.com/track/3evG0BIqEFMMP7lVJh1cSf) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:35 |
 | 10 | [And I Love Her \- Remastered 2009](https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:29 |
 | 11 | [Ob\-La\-Di, Ob\-La\-Da \- Remastered 2009](https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 3:08 |
-| 12 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 |
-| 13 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered 2009](https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:04 |
+| 12 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered 2009](https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:04 |
+| 13 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 |
 | 14 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
 | 15 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
 | 16 | [Love Me Do \- Remastered 2009](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:21 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 | 38 | [All You Need Is Love \- Remastered 2009](https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:50 |
 | 39 | [Till There Was You \- Remastered 2009](https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:13 |
 | 40 | [Girl \- Remastered 2009](https://open.spotify.com/track/6tQvjqDIK9GXWIC6mejms8) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:31 |
-| 41 | [I Should Have Known Better \- Remastered 2009](https://open.spotify.com/track/3pU1CUgPiFfxPCpscwIwQR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:43 |
+| 41 | [I'll Follow The Sun \- Remastered 2009](https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 1:48 |
 | 42 | [Strawberry Fields Forever \- Remastered 2009](https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:07 |
-| 43 | [I'll Follow The Sun \- Remastered 2009](https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 1:48 |
+| 43 | [I Should Have Known Better \- Remastered 2009](https://open.spotify.com/track/3pU1CUgPiFfxPCpscwIwQR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:43 |
 | 44 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
 | 45 | [Day Tripper \- Remastered 2009](https://open.spotify.com/track/3hNUYt4dMM9RhcWmty8oKF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:49 |
 | 46 | [Penny Lane \- Remastered 2009](https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:00 |
-| 47 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
-| 48 | [Carry That Weight \- Remastered 2009](https://open.spotify.com/track/5eZrW59C3UgBhkqNlowEID) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:36 |
+| 47 | [Carry That Weight \- Remastered 2009](https://open.spotify.com/track/5eZrW59C3UgBhkqNlowEID) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:36 |
+| 48 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 49 | [She Loves You \- Mono Version / Remastered 2009](https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 |
 | 50 | [Hello, Goodbye \- Remastered 2009](https://open.spotify.com/track/0vZ97gHhemKm6c64hTfJNA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:28 |
 
-Snapshot ID: `accaAAAAAADinJ6IzfL+x3w8A/YFX3Fu`
+Snapshot ID: `achrgAAAAADv6TeZUv7NETDu8VfqXsZi`

@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "Actin' Tough",
+        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Actin' Tough",
+      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+    },
+    {
+      "album": {
         "name": "Ain't No Party",
         "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
       },

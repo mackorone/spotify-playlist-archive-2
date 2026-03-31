@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,046 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,044 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 26 | [Nirvana](https://open.spotify.com/track/30bp5UpQK5wuHSMTLMfbUt) | [Scander X](https://open.spotify.com/artist/5Q5w75TqeQPev9vx2bkvpT) | [Nirvana](https://open.spotify.com/album/3WnvwajqZLvFfi3bdy7OfE) | 2:34 |
 | 27 | [QARFS MERI](https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC) | [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD), [DOKHAN](https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1) | [Z!EN GPT](https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3) | 1:46 |
 | 28 | [TESHREEN](https://open.spotify.com/track/2kgaek3dqjuciNFMgSwxde) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6), [Arabi](https://open.spotify.com/artist/1cvzLv3dYPAxvCLFcQ9eJ9) | [TESHREEN](https://open.spotify.com/album/3xy73bLj4bMn4fS5bYiVWg) | 4:18 |
-| 29 | [DARWIN](https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT) | [OSTAR OFFICIAL](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [DARWIN](https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP) | 2:24 |
+| 29 | [DARWIN](https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT) | [ELOSTAR](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [DARWIN](https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP) | 2:24 |
 | 30 | [LAMA AB’A MAAK](https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q) | 2:59 |
 | 31 | [God bless](https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE) | [LUCA MUS!C](https://open.spotify.com/artist/1pmog6ubPtj97LYSJuwOIb), [yuubthegoat](https://open.spotify.com/artist/0tcF4m3aeLFcdtwW5Vk5zI) | [VISION INFINIE](https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg) | 2:02 |
 | 32 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 |

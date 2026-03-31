@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 962941,
+  "num_followers": 962959,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "We Can't Stop (Acoustic)",
-        "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
-      },
-      "artists": [
-        {
-          "name": "Halloran & Kate",
-          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
-        }
-      ],
-      "duration_ms": 178490,
-      "name": "We Can't Stop - Acoustic",
-      "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "We Can't Stop (Acoustic)",
+        "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
+      },
+      "artists": [
+        {
+          "name": "Halloran & Kate",
+          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+        }
+      ],
+      "duration_ms": 178490,
+      "name": "We Can't Stop - Acoustic",
+      "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "U Remind Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "U Remind Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
-      },
-      "artists": [
-        {
-          "name": "Reggii",
-          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 221712,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
+      },
+      "artists": [
+        {
+          "name": "Reggii",
+          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 227279,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Dancing In The Moonlight: The Best Of Toploader",
         "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 235906,
       "name": "XO",
       "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV"
     },
     {
       "added_at": "2026-03-17 11:56:41",

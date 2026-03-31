@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,663 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,669 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 55 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
 | 56 | [De Kleren Van De Keyser](https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Noah's Ark](https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D) | 3:23 |
 | 57 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 |
-| 58 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
-| 59 | [Duivelszoon](https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 5:15 |
+| 58 | [Duivelszoon](https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 5:15 |
+| 59 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
 | 60 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
 | 61 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
 | 62 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |

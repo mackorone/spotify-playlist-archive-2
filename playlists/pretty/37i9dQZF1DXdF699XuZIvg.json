@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 682920,
+  "num_followers": 682922,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2024-11-12 16:18:09",

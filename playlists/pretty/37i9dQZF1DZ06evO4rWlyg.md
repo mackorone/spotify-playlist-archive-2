@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,729 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,758 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 47 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:57 |
 | 48 | [Lionsong](https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:08 |
 | 49 | [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 |
-| 50 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
+| 50 | [Surrender](https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Surrender](https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY) | 5:21 |
 
-Snapshot ID: `accaAAAAAACMIw88nI4yMGyxOEiSMusf`
+Snapshot ID: `achrgAAAAACahyViMvx1e+pXndJhmHny`

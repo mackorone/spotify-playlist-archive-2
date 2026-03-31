@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 26,596 likes - 99 songs - 5 hr 36 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 26,593 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 9 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
 | 10 | [Abyss](https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Wishing Moon](https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl) | 4:29 |
 | 11 | [Killing Me Softly](https://open.spotify.com/track/463VlawBHaf9CHaGlUt8P6) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Killing Me Softly](https://open.spotify.com/album/7cKSjjlh1otJU9ufefpWYV) | 3:02 |
-| 12 | [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
+| 12 | [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
 | 13 | [Embrace](https://open.spotify.com/track/2gQ3OJcshNnlj0EHPoTxrd) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Gregory Rogove](https://open.spotify.com/artist/0ofyN5WkkugXvllYparXbP) | [Embrace](https://open.spotify.com/album/3XRW7YlGGXV7ll96YDYc9z) | 3:10 |
 | 14 | [Czar](https://open.spotify.com/track/42ew0Ag9vsjRk1zNB52h0w) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Event Beat](https://open.spotify.com/album/1u7d9fnkM9G2kcipGOKoVo) | 3:36 |
 | 15 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,218 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,270 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 14 | [Un Ratito](https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Un Ratito](https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf) | 3:47 |
 | 15 | [Se Fue](https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 16 | [Muero](https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Muero](https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF) | 4:18 |
-| 17 | [Perfume](https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Perfume](https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw) | 4:13 |
-| 18 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 |
+| 17 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 |
+| 18 | [Perfume](https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Perfume](https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw) | 4:13 |
 | 19 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 |
 | 20 | [Dice Que Me Quiere](https://open.spotify.com/track/5KInsY7fAYt1haZlcWzEBP) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Dice Que Me Quiere](https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP) | 2:48 |
 | 21 | [LEYENDA](https://open.spotify.com/track/5fO5dDgfVypHTU1P71AJgt) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/6ktov4uuTCeQ5HVVqFAupg) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
 | 50 | [No Me Pregunten](https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Me Pregunten](https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu) | 4:10 |
 
-Snapshot ID: `accaAAAAAACrB3KkFx/2KjywEawdRJZe`
+Snapshot ID: `achrgAAAAACvQMIKtrfyeuGEOz8BD8J0`

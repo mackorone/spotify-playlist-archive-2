@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 820331,
+  "num_followers": 820375,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQ4+Gs8AzABnULJIqL8nQfUBbBm",
+  "snapshot_id": "AAAAAO/BxpoIh+k7QtXSmzrhF1CNpRHl",
   "tracks": [
     {
       "added_at": "2026-03-22 01:56:31",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Song Of Darkness",
-        "url": "https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 296383,
-      "name": "Hall Of The Brave",
-      "url": "https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 252893,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Song Of Darkness",
+        "url": "https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "duration_ms": 296383,
+      "name": "Hall Of The Brave",
+      "url": "https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "East of the Sun",
-        "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gates",
-          "url": "https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u"
-        }
-      ],
-      "duration_ms": 290341,
-      "name": "Wayfarer's Reverie",
-      "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "East of the Sun",
+        "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gates",
+          "url": "https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u"
+        }
+      ],
+      "duration_ms": 290341,
+      "name": "Wayfarer's Reverie",
+      "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "The Rune (2025)",
-        "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
-      },
-      "artists": [
-        {
-          "name": "T\u00fdr",
-          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
-        }
-      ],
-      "duration_ms": 406269,
-      "name": "The Rune (2025)",
-      "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Light And Shadow",
         "url": "https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 258146,
       "name": "Light And Shadow",
       "url": "https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "The Rune (2025)",
+        "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
+      },
+      "artists": [
+        {
+          "name": "T\u00fdr",
+          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
+        }
+      ],
+      "duration_ms": 406269,
+      "name": "The Rune (2025)",
+      "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "The Wicked Rule The Night",
+        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Ralf Scheepers",
+          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "The Wicked Rule The Night",
+      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 234790,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "In The Eyes Of The Enemy",
-        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
-      },
-      "artists": [
-        {
-          "name": "Grailknights",
-          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
-        },
-        {
-          "name": "Chiara Tricarico",
-          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "In The Eyes Of The Enemy",
-      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "The Wicked Rule The Night",
-        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
+        "name": "In The Eyes Of The Enemy",
+        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
       },
       "artists": [
         {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+          "name": "Grailknights",
+          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
         },
         {
-          "name": "Ralf Scheepers",
-          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
+          "name": "Chiara Tricarico",
+          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
         }
       ],
-      "duration_ms": 264946,
-      "name": "The Wicked Rule The Night",
-      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+      "duration_ms": 236573,
+      "name": "In The Eyes Of The Enemy",
+      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Just A Sacrifice",
-        "url": "https://open.spotify.com/album/4hKlGVhVM4YniPgCgHg58k"
-      },
-      "artists": [
-        {
-          "name": "Secret Rule",
-          "url": "https://open.spotify.com/artist/4zgiXGA2lONdvZunHOFESG"
-        }
-      ],
-      "duration_ms": 224438,
-      "name": "Just A Sacrifice",
-      "url": "https://open.spotify.com/track/0lUZEqrzkZ2Lg2HryGeIUh"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Just A Sacrifice",
+        "url": "https://open.spotify.com/album/4hKlGVhVM4YniPgCgHg58k"
+      },
+      "artists": [
+        {
+          "name": "Secret Rule",
+          "url": "https://open.spotify.com/artist/4zgiXGA2lONdvZunHOFESG"
+        }
+      ],
+      "duration_ms": 224438,
+      "name": "Just A Sacrifice",
+      "url": "https://open.spotify.com/track/0lUZEqrzkZ2Lg2HryGeIUh"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Blackthorn Winter",
-        "url": "https://open.spotify.com/album/7IrtKBrkwtAQwEVkx4p49P"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Blackthorn Winter",
-      "url": "https://open.spotify.com/track/3qstHZIZY6nrBWs6oOcBGD"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Forever Winter",
-        "url": "https://open.spotify.com/album/61HH10eZIbB6AGsPcZYvJY"
-      },
-      "artists": [
-        {
-          "name": "Un\u00e9n",
-          "url": "https://open.spotify.com/artist/3N2CRJwRHIlVXG1rwGR9W6"
-        }
-      ],
-      "duration_ms": 321493,
-      "name": "Spoil Me",
-      "url": "https://open.spotify.com/track/644g6T8sf7Pt6sYRpODKNH"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Secrets Of The American Gods",
         "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
       },
@@ -1579,6 +1547,38 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Blackthorn Winter",
+        "url": "https://open.spotify.com/album/7IrtKBrkwtAQwEVkx4p49P"
+      },
+      "artists": [
+        {
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Blackthorn Winter",
+      "url": "https://open.spotify.com/track/3qstHZIZY6nrBWs6oOcBGD"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Forever Winter",
+        "url": "https://open.spotify.com/album/61HH10eZIbB6AGsPcZYvJY"
+      },
+      "artists": [
+        {
+          "name": "Un\u00e9n",
+          "url": "https://open.spotify.com/artist/3N2CRJwRHIlVXG1rwGR9W6"
+        }
+      ],
+      "duration_ms": 321493,
+      "name": "Spoil Me",
+      "url": "https://open.spotify.com/track/644g6T8sf7Pt6sYRpODKNH"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "No Place to Stay",
         "url": "https://open.spotify.com/album/5B0DH3cn5JYdQiiJCjajeU"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 227781,
       "name": "No Place to Stay",
       "url": "https://open.spotify.com/track/0rKm5P5J8O7RT7AkpRhnIQ"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "One With The Shadows",
-        "url": "https://open.spotify.com/album/2PcZ006a1uxenbFeuGEyPU"
-      },
-      "artists": [
-        {
-          "name": "Sigyn",
-          "url": "https://open.spotify.com/artist/5wgXu5ifwmk7X6uJpfTSLN"
-        }
-      ],
-      "duration_ms": 266581,
-      "name": "One With The Shadows",
-      "url": "https://open.spotify.com/track/1vXlaHm9VFsxbtGKVSsqDl"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "One With The Shadows",
+        "url": "https://open.spotify.com/album/2PcZ006a1uxenbFeuGEyPU"
+      },
+      "artists": [
+        {
+          "name": "Sigyn",
+          "url": "https://open.spotify.com/artist/5wgXu5ifwmk7X6uJpfTSLN"
+        }
+      ],
+      "duration_ms": 266581,
+      "name": "One With The Shadows",
+      "url": "https://open.spotify.com/track/1vXlaHm9VFsxbtGKVSsqDl"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Krigsherren",
         "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 209440,
       "name": "Krigsherren",
       "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "For My Queen",
-        "url": "https://open.spotify.com/album/27QaWZrFbkpEB12rlcu8QI"
-      },
-      "artists": [
-        {
-          "name": "Gladenfold",
-          "url": "https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "For My Queen",
-      "url": "https://open.spotify.com/track/2JpibwWcN6kCcZ4aToJCFi"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1675,6 +1659,22 @@
       "duration_ms": 197969,
       "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
       "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "For My Queen",
+        "url": "https://open.spotify.com/album/27QaWZrFbkpEB12rlcu8QI"
+      },
+      "artists": [
+        {
+          "name": "Gladenfold",
+          "url": "https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "For My Queen",
+      "url": "https://open.spotify.com/track/2JpibwWcN6kCcZ4aToJCFi"
     },
     {
       "added_at": "2026-03-22 01:56:31",

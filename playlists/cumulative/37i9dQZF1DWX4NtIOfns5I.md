@@ -4,7 +4,7 @@
 
 > Squirrel Flower on the cover 🌟
 
-759 songs - 1 day 21 hr 50 min
+760 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 | 2026-03-20 |  |
 | [Stoned on the Highway](https://open.spotify.com/track/7FoLolx3AyrhzzF6qeLCdH) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Old Hobbies \(Revisited\)](https://open.spotify.com/album/4w6okqPJooHVzXY7keGzfl) | 3:25 | 2025-03-07 | 2025-08-09 |
 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 | 2024-01-26 | 2024-05-11 |
+| [Stranger In You](https://open.spotify.com/track/0u1xjU4iiZYgChkqGfIp1y) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [In Copula](https://open.spotify.com/album/546vXsHq8uwb1lkrjg3IPR) | 2:13 | 2026-03-30 |  |
 | [Stranger in You](https://open.spotify.com/track/79Qm6tKu2Min009TnLBiog) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [In Copula](https://open.spotify.com/album/03XG87zBTW2z2OVsFfXv09) | 2:13 | 2025-07-15 | 2026-01-24 |
 | [Strangest Feeling](https://open.spotify.com/track/4ppKxtET7NORgNGxMCXY6a) | [Bonniesongs](https://open.spotify.com/artist/4l0pF7b69t1iGNbwfFZOKd) | [Strangest Feeling](https://open.spotify.com/album/7yseyiVWegHcUlc74AeqHB) | 4:32 | 2025-07-04 | 2026-01-24 |
 | [Strawberry](https://open.spotify.com/track/04VpoApQUUPP9QB4aMRkdm) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Azalea, Holly](https://open.spotify.com/album/4Nha9f109qmJb2TeXAiJTS) | 3:09 | 2023-10-06 | 2023-12-09 |

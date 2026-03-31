@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 
 > Les plus belles chansons d'amour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,653 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,647 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 | 34 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 |
 | 35 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 36 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 |
-| 37 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
-| 38 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
+| 37 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
+| 38 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
 | 39 | [Still Loving You](https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV) | 6:43 |
 | 40 | [Elle a les yeux revolver](https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:39 |
 | 41 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
 | 42 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
-| 43 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
-| 44 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
-| 45 | [Ensemble](https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 3:02 |
+| 43 | [Ensemble](https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 3:02 |
+| 44 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
+| 45 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
 | 46 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
 | 47 | [Shining Light](https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:37 |
 | 48 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |

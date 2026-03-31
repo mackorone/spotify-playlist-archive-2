@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "ANIMALS",
+        "url": "https://open.spotify.com/album/1nfDbBoZKZ12iAlukbp0VM"
+      },
+      "artists": [
+        {
+          "name": "The Last Internationale",
+          "url": "https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189451,
+      "name": "ANIMALS",
+      "url": "https://open.spotify.com/track/4FehQmnjOqHjfDdQkh5zzQ"
+    },
+    {
+      "album": {
         "name": "Animals (Female Version)",
         "url": "https://open.spotify.com/album/6Ii6SZntRazeZIGn9QWBJK"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 222933,
       "name": "messy",
       "url": "https://open.spotify.com/track/3LfW2tSMgOp93RTUlJHuD2"
@@ -4246,7 +4264,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 193732,
       "name": "Occupied",
       "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
@@ -5182,7 +5200,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -5384,7 +5402,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 170040,
       "name": "Spin",
       "url": "https://open.spotify.com/track/1K2J69Uxmz2GgRz4DYu7KF"
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 223654,
       "name": "The Black Hole In The Sky",
       "url": "https://open.spotify.com/track/1k6zaXUEyCFyNjqVVjrEWQ"
@@ -5784,7 +5802,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -5990,6 +6008,24 @@
       "duration_ms": 192560,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/5ypKgGv59JUNgZAkomGo1V"
+    },
+    {
+      "album": {
+        "name": "Too Hot To Leave",
+        "url": "https://open.spotify.com/album/5bA4RdQ6SzK9T5q0ZfCYAw"
+      },
+      "artists": [
+        {
+          "name": "Sophia Garvey",
+          "url": "https://open.spotify.com/artist/5rkh3WoxnQpWm4a4xx4bsC"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Too Hot To Leave",
+      "url": "https://open.spotify.com/track/73azpIOGBBh8EhJbEdbNhu"
     },
     {
       "album": {

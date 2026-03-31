@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3278,
+  "num_followers": 3279,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACHp3/WXJwM5YsW0jbKxgaM",
+  "snapshot_id": "achrgAAAAACjJSnrsOl6dSIt2gWjIjAH",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRAVEDAD",
+        "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "GRAVEDAD - feat. \u00c7antamarta",
+      "url": "https://open.spotify.com/track/3g1ag6GtD3ntvNWfw0ub04"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 182849,
       "name": "Like Giants in The Sky - Le Tour Du Monde - Austin",
       "url": "https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRAVEDAD",
-        "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "GRAVEDAD - feat. \u00c7antamarta",
-      "url": "https://open.spotify.com/track/3g1ag6GtD3ntvNWfw0ub04"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue Solo un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
       "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Fue Solo un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
+      "duration_ms": 90875,
+      "name": "caballos",
+      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
     },
     {
       "added_at": null,
@@ -847,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+        "name": "Fue Solo un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
       },
       "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 90875,
-      "name": "caballos",
-      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
+      "duration_ms": 229000,
+      "name": "Fue Solo un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 230921,
+      "name": "beso",
+      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ISABEL LP",
         "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 333750,
       "name": "Castillo De Arena",
       "url": "https://open.spotify.com/track/0CYNGsiMY2VjOBdIh2fWIO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 230921,
-      "name": "beso",
-      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
     },
     {
       "added_at": null,

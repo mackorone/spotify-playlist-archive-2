@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140881,
+  "num_followers": 140888,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
         "name": "HEFTIG MAN",
         "url": "https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 145092,
       "name": "HEFTIG MAN",
       "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
-        "name": "SPIDER",
-        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "LIES",
-        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "LIES",
-      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 170721,
       "name": "WAHALA (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
         "name": "Samen (Niet Alleen)",
         "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 145296,
       "name": "Samen (Niet Alleen)",
       "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Dans Gewoon",
-        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
-      },
-      "artists": [
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Dans Gewoon",
-      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -1107,6 +1083,30 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
+        "name": "Dans Gewoon",
+        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Dans Gewoon",
+      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
+        "name": "Plenty Bars - EP",
+        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
       },
       "artists": [
         {
           "name": "Kevin",
           "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
         }
       ],
-      "duration_ms": 176892,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
+      "duration_ms": 141552,
+      "name": "Bushokje",
+      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Plenty Bars - EP",
-        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
       },
       "artists": [
         {
           "name": "Kevin",
           "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
         }
       ],
-      "duration_ms": 141552,
-      "name": "Bushokje",
-      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
+      "duration_ms": 176892,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -1311,26 +1311,18 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Herinnering",
-        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 154663,
-      "name": "Herinnering",
-      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -1375,22 +1367,6 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
         "name": "Je Bent Leuk",
         "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 122812,
       "name": "Je Bent Leuk",
       "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
+        "name": "Herinnering",
+        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 154663,
+      "name": "Herinnering",
+      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
     },
     {
       "added_at": "2026-03-19 23:01:09",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 172271,
       "name": "Trust",
       "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
-    },
-    {
-      "added_at": "2026-03-19 23:01:09",
-      "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
       "added_at": "2026-03-19 23:01:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,221 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,222 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 47 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 |
 | 48 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK) | [Taylor Mosby](https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:25 |
 | 49 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
-| 50 | [The Story Of Fear](https://open.spotify.com/track/5c1N90E1wVVNTH6WEljZka) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 1:10 |
+| 50 | [Something About The Name Jesus \(feat\. Kirk Franklin\) \- Producer's Remix](https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Celebrate](https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO) | 7:29 |
 
-Snapshot ID: `accaAAAAAAA00xngq0xokOVz0NEBqdTs`
+Snapshot ID: `achrgAAAAABt6LdITauREVjM4TLiPpbq`

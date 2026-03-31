@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-100 songs - 4 hr 55 min
+101 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [FLORES](https://open.spotify.com/track/1GrRXD8ZggZvsGEIOdoafP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:39 | 2025-11-09 |  |
 | [FUERTE](https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 | 2024-06-09 | 2025-02-10 |
 | [FUERTE](https://open.spotify.com/track/578MEUSOSlTtp3cZNbazwb) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FUERTE](https://open.spotify.com/album/1AtISppDd4G0ly9zTCDZXX) | 3:09 | 2025-03-13 | 2025-10-14 |
-| [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 | 2025-10-26 |  |
+| [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 | 2025-10-26 | 2026-03-31 |
+| [FÉNIX](https://open.spotify.com/track/7p1RLdZGQPDlRFa4tBoIqi) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 3:17 | 2026-03-31 |  |
 | [GOOD Morning \(Buenos Días\)](https://open.spotify.com/track/27PbXP4NvCAtfImygROHmc) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Aston Barrett Jr.](https://open.spotify.com/artist/7hS8Mjbmnac8TTsU2aSF3y) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:38 | 2025-11-11 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-07 |  |
 | [Gracias Por Tu Participación](https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:44 | 2023-03-10 | 2024-06-18 |

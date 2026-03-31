@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93554,
+  "num_followers": 93565,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACp63tLgRB0gANPr1ynS7Gi",
+  "snapshot_id": "achrgAAAAACI6Bqn8fTJSWFodHECuKnF",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ik Ben Niet Meer Bang",
+        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 181326,
+      "name": "Ik Ben Niet Meer Bang",
+      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -167,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Holiday In Spain",
-      "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Helder (inclusief Live Bonus Tracks)",
         "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
       },
@@ -203,22 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ik Ben Niet Meer Bang",
-        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 181326,
-      "name": "Ik Ben Niet Meer Bang",
-      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
+      "duration_ms": 232666,
+      "name": "Holiday In Spain",
+      "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
     },
     {
       "added_at": null,

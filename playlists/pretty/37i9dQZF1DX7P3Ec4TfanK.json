@@ -1,6 +1,6 @@
 {
   "description": "\u2615 \ud83d\udcaa\ud83c\udf73\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udfc3\u2600\ufe0f",
-  "num_followers": 398581,
+  "num_followers": 398560,
   "original_name": "Morning Routine",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
         "name": "OSSESSIONE",
         "url": "https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 188184,
       "name": "OSSESSIONE",
       "url": "https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "Poesie Clandestine",
-        "url": "https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm"
-      },
-      "artists": [
-        {
-          "name": "LDA",
-          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
-        },
-        {
-          "name": "Aka 7even",
-          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Poesie Clandestine",
-      "url": "https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "Poesie Clandestine",
+        "url": "https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        },
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Poesie Clandestine",
+      "url": "https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "Prima che",
-        "url": "https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP"
-      },
-      "artists": [
-        {
-          "name": "nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Prima che",
-      "url": "https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "Prima che",
+        "url": "https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Prima che",
+      "url": "https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "uomo che cade",
-        "url": "https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj"
-      },
-      "artists": [
-        {
-          "name": "Tredici Pietro",
-          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
-        }
-      ],
-      "duration_ms": 217458,
-      "name": "uomo che cade",
-      "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 137952,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "uomo che cade",
+        "url": "https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "duration_ms": 217458,
+      "name": "uomo che cade",
+      "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
     }
   ],
   "unique_name": "Morning Routine",

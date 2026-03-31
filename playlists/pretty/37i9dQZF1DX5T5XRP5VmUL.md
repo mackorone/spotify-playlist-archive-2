@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,884 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,874 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 75 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 | 76 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 77 | [Christmas Eve](https://open.spotify.com/track/5XfVRHoVYasTImnbhjoq94) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:16 |
-| 78 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
-| 79 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
+| 78 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
+| 79 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
 | 80 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/72LocLBQn2IZVoiiP0F3o8) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/677DoK1InjZA0D6zEeisw4) | 2:52 |
 | 81 | [Baby, It's Cold Outside \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:53 |
 | 82 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 95 | [christmas lights](https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [christmas lights](https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV) | 4:28 |
 | 96 | [Take Me Home For Christmas](https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Take Me Home For Christmas](https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh) | 3:23 |
 | 97 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
-| 98 | [Wrapped in Red](https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:36 |
+| 98 | [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 |
 | 99 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 | 100 | [Merry Christmas Baby](https://open.spotify.com/track/6zM6jd0UXIPazvyU1tivdv) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Holidays Are Here / Merry Christmas Baby](https://open.spotify.com/album/69igKKumVMT9Xt56ZzXkDN) | 3:29 |
 

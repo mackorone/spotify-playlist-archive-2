@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,986 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,084 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 54 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
 | 55 | [Restitui](https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Restitui](https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5) | 4:33 |
 | 56 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
-| 57 | [Essencial \- Ao Vivo](https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Maninho](https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM) | [Essencial \(Ao Vivo\)](https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW) | 3:40 |
-| 58 | [Coração Ferido](https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Msh ao Teu Lado 2026](https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M) | 4:58 |
+| 57 | [Coração Ferido](https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Msh ao Teu Lado 2026](https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M) | 4:58 |
+| 58 | [Essencial \- Ao Vivo](https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Maninho](https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM) | [Essencial \(Ao Vivo\)](https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW) | 3:40 |
 | 59 | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
 | 60 | [Oração pela Paz](https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Oração pela Paz](https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1) | 3:41 |
 | 61 | [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 |

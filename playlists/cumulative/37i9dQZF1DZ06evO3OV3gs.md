@@ -4,7 +4,7 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-120 songs - 8 hr 26 min
+121 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 | [Cherish](https://open.spotify.com/track/5HLnHfVreT57ESXAU0szPC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:49 | 2026-03-22 | 2026-03-29 |
 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 | 2025-05-14 | 2026-02-22 |
 | [Crazy](https://open.spotify.com/track/3Y6bCKPrsrKRSo8sg6PuL3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 | 2024-11-18 | 2025-06-13 |
-| [Crazy for You](https://open.spotify.com/track/3iIi0NOco9hyukT6jFZ4dX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:44 | 2026-03-20 |  |
+| [Crazy for You](https://open.spotify.com/track/3iIi0NOco9hyukT6jFZ4dX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:44 | 2026-03-20 | 2026-03-31 |
 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 | 2023-08-07 | 2024-01-06 |
-| [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 | 2023-07-28 | 2026-03-20 |
+| [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 | 2023-07-28 |  |
 | [Deeper and Deeper](https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:33 | 2024-07-07 | 2025-07-13 |
 | [Die Another Day](https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:39 | 2023-07-28 | 2025-03-30 |
 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 | 2023-07-28 |  |
@@ -64,7 +64,8 @@
 | [How High](https://open.spotify.com/track/0geYyG7GJsXlEEALLLlblo) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions On A Dance Floor \(Twenty Years Edition\)](https://open.spotify.com/album/4ANSdhjb0b1KqKpPTyUSV9) | 4:40 | 2025-11-15 | 2025-12-01 |
 | [Human Nature](https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 4:53 | 2023-11-10 | 2024-07-17 |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2023-07-28 |  |
-| [Hung Up \- Radio Version](https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hung Up](https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc) | 3:22 | 2025-04-10 |  |
+| [Hung Up \- Radio Version](https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hung Up](https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc) | 3:22 | 2025-04-10 | 2026-03-31 |
+| [Hung Up \- Radio Version](https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hung Up \(Remixes\)](https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3) | 3:22 | 2026-03-31 |  |
 | [Hung Up on Tokischa](https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Hung Up on Tokischa](https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ) | 3:26 | 2023-07-28 | 2024-07-08 |
 | [I Love New York](https://open.spotify.com/track/5RCTmhGrOBxsmmmYM2mcde) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions On A Dance Floor \(Twenty Years Edition\)](https://open.spotify.com/album/4ANSdhjb0b1KqKpPTyUSV9) | 4:11 | 2025-11-14 | 2025-12-08 |
 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 | 2023-07-28 |  |

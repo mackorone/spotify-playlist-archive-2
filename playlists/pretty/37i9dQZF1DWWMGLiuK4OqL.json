@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 283709,
+  "num_followers": 283801,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Avant-Garde Jazz (Remastered)",
         "url": "https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 166160,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "The Women Who Raised Me",
         "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 299714,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6PSDknjbOQTQNo7cwBMduU"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Make It Another Old Fashioned, Please",
-        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Make It Another Old Fashioned, Please",
-      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 211706,
       "name": "Any Little Time",
       "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Make It Another Old Fashioned, Please",
+        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Make It Another Old Fashioned, Please",
+      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Carmen McRae For Lovers",
-        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Stardust...The Great American Songbook III",
         "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 188706,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Carmen McRae For Lovers",
+        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
         }
       ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+      "duration_ms": 189360,
+      "name": "Let\u2019s Fall In Love",
+      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 189360,
-      "name": "Let\u2019s Fall In Love",
-      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1875,34 +1875,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 239380,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1931,6 +1903,34 @@
       "duration_ms": 201360,
       "name": "Another Kind of Blue",
       "url": "https://open.spotify.com/track/2W4zY2eoFj7zrH3N05W9PW"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 239380,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 300593,
-      "name": "Surrey with the Fringe on Top",
-      "url": "https://open.spotify.com/track/2GQhILwu4keRmOPV3Mqi3g"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/2TG44OnFdjWNm5DJHeTuo1"
       },
@@ -2263,6 +2247,38 @@
       "duration_ms": 247208,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 300593,
+      "name": "Surrey with the Fringe on Top",
+      "url": "https://open.spotify.com/track/2GQhILwu4keRmOPV3Mqi3g"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2303,22 +2319,6 @@
       "duration_ms": 239493,
       "name": "Empty Hearts",
       "url": "https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Our Last Goodbye",
-        "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
-      },
-      "artists": [
-        {
-          "name": "Anastasia Lyutova",
-          "url": "https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K"
-        }
-      ],
-      "duration_ms": 312817,
-      "name": "Our Last Goodbye",
-      "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
         "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Our Last Goodbye",
+        "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Lyutova",
+          "url": "https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K"
+        }
+      ],
+      "duration_ms": 312817,
+      "name": "Our Last Goodbye",
+      "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2619,6 +2619,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "There's Only One...",
+        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Love for Connoisseurs",
         "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
       },
@@ -2679,22 +2695,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "There's Only One...",
-        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Little Bird \u2013 Live in Gothenburg",
         "url": "https://open.spotify.com/album/3oahq8Twid1afhI48zNTva"
       },
@@ -2727,6 +2727,26 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Thinker and a Fool",
+        "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Soucy",
+          "url": "https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO"
+        }
+      ],
+      "duration_ms": 360973,
+      "name": "Thinker and a Fool",
+      "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/3cqgWVLpeBiswAWqbuhD98"
       },
@@ -2755,26 +2775,6 @@
       "duration_ms": 383500,
       "name": "Staring Into White Walls",
       "url": "https://open.spotify.com/track/5Sunm8iWEHL5jMSHiqd62H"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Thinker and a Fool",
-        "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Soucy",
-          "url": "https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO"
-        }
-      ],
-      "duration_ms": 360973,
-      "name": "Thinker and a Fool",
-      "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Disclosure",
-        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 287041,
-      "name": "Disclosure",
-      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Old Love and New",
         "url": "https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6"
       },
@@ -2875,6 +2859,22 @@
       "duration_ms": 253741,
       "name": "Old Love and New",
       "url": "https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Disclosure",
+        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 287041,
+      "name": "Disclosure",
+      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
     },
     {
       "added_at": "2026-02-09 08:12:01",

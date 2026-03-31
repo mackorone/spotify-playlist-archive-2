@@ -21741,6 +21741,24 @@
     },
     {
       "album": {
+        "name": "pe$o$",
+        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "pe$o$",
+      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
       },
@@ -21848,24 +21866,6 @@
       "duration_ms": 152160,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
-    },
-    {
-      "album": {
-        "name": "pesos",
-        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138133,
-      "name": "pesos",
-      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
     },
     {
       "album": {

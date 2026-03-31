@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Lovers Come And Go",
+        "url": "https://open.spotify.com/album/5PDqHAq1ABpCfpI8vXAIMo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Aron",
+          "url": "https://open.spotify.com/artist/5HatOJzhgoVHpXTGBeCJlI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Lovers Come And Go",
+      "url": "https://open.spotify.com/track/0tMEIkZBGW6y3oQoahqmJ1"
+    },
+    {
+      "album": {
         "name": "Magnetic Fields",
         "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
       },
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/6yA2GnuThv4oDuEimu4Rmg"
@@ -3828,7 +3846,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 173020,
       "name": "She Knows Me Now (The Silent Song)",
       "url": "https://open.spotify.com/track/6mu0veQ0m8WuWp8TyLWKOw"

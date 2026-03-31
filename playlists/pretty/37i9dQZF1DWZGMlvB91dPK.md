@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,888 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,889 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 14 | [Un chant d'amour](https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 3:41 |
 | 15 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 16 | [Resign](https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:10 |
-| 17 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
-| 18 | [Swim With the Gore](https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [Swim With the Gore](https://open.spotify.com/album/6ljgLmDngyMy5gxalT0WpT) | 2:37 |
+| 17 | [Swim With the Gore](https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [Swim With the Gore](https://open.spotify.com/album/6ljgLmDngyMy5gxalT0WpT) | 2:37 |
+| 18 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
 | 19 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
 | 20 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
 | 21 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 |

@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 유나 \(YUNA\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 아이린 \(IRENE\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-537 songs - 1 day 5 hr 12 min
+538 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 | 2025-07-30 | 2025-11-11 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2025-09-25 |
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
+| [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 | 2026-03-30 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 | 2026-03-26 |  |
@@ -312,7 +313,7 @@
 | [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-04-17 | 2024-05-06 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2021-11-29 | 2022-07-29 |
 | [No Oh Oh](https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Nu.Clear](https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16) | 3:43 | 2021-11-29 | 2022-04-14 |
-| [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-07-04 |  |
+| [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-07-04 | 2026-03-31 |
 | [No Way \(feat\. I’MIN\)](https://open.spotify.com/track/1wZVmivEx6PL8u0l2Ucl3j) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [No Way \(feat\. I'MIN\)](https://open.spotify.com/album/5XBMI7oEj1BKJqS9dTbXc8) | 3:04 | 2023-11-17 | 2024-01-04 |
 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 | 2025-11-24 |  |
 | [November](https://open.spotify.com/track/2iDnlUEIrooPIRExGQBPcZ) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [November](https://open.spotify.com/album/1AJn6Qchecae5v4M2dF2s1) | 3:11 | 2024-11-12 | 2024-11-27 |

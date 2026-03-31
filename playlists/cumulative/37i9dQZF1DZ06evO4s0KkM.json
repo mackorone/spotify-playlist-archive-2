@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138485,
+      "name": "Solidarity",
+      "url": "https://open.spotify.com/track/5fcVW5y9qWX48UKbopp7GG"
+    },
+    {
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
       },
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 202080,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"

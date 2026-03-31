@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98114,
+  "num_followers": 98126,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAC1QrcSd8MrlWHABhMZiufZ",
+  "snapshot_id": "achrgAAAAABWAH3GYJONhtB6WyaltDoy",
   "tracks": [
     {
       "added_at": null,
@@ -439,30 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
-        "url": "https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 234820,
-      "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
-      "url": "https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 213524,
       "name": "WYD (with GloRilla & Big Boogie)",
       "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
+        "url": "https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 234820,
+      "name": "Main Slime Remix (feat. Moneybagg Yo & Tay Keith)",
+      "url": "https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feet On Land",
-        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
       "artists": [
         {
@@ -560,13 +560,13 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         }
       ],
-      "duration_ms": 152658,
-      "name": "Feet On Land",
-      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
+      "duration_ms": 133136,
+      "name": "OUTTA TOWN (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "Feet On Land",
+        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
       },
       "artists": [
         {
@@ -600,13 +600,13 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 133136,
-      "name": "OUTTA TOWN (feat. BossMan Dlow)",
-      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
+      "duration_ms": 152658,
+      "name": "Feet On Land",
+      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176527,
+      "name": "In da Air",
+      "url": "https://open.spotify.com/track/3Av4FkyTixUk20htpZlwZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "43VA HEARTLESS",
         "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
       },
@@ -855,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 176527,
-      "name": "In da Air",
-      "url": "https://open.spotify.com/track/3Av4FkyTixUk20htpZlwZY"
+      "duration_ms": 209575,
+      "name": "Federal Fed (feat. Future)",
+      "url": "https://open.spotify.com/track/7hpCaD1ILnO9GoMQvj5oWI"
     },
     {
       "added_at": null,
@@ -891,26 +911,6 @@
       "duration_ms": 133631,
       "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 209575,
-      "name": "Federal Fed (feat. Future)",
-      "url": "https://open.spotify.com/track/7hpCaD1ILnO9GoMQvj5oWI"
     },
     {
       "added_at": null,

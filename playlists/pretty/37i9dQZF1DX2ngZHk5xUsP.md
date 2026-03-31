@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,636 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,638 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 43 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
 | 44 | [Spoken](https://open.spotify.com/track/0H5DgLDteF1kBLqQVTKCQ6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:41 |
 | 45 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
-| 46 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 |
-| 47 | [Kanebo Kering](https://open.spotify.com/track/7KWNzwt17jrydxTkSB5VZD) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb) | [JASS FRIEND](https://open.spotify.com/album/2qZpBiwLuXXqtiBoz7Hv5i) | 2:57 |
+| 46 | [Kanebo Kering](https://open.spotify.com/track/7KWNzwt17jrydxTkSB5VZD) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb) | [JASS FRIEND](https://open.spotify.com/album/2qZpBiwLuXXqtiBoz7Hv5i) | 2:57 |
+| 47 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 |
 | 48 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 |
 | 49 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 |
 | 50 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |

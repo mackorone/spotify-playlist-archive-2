@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - UAE.",
-  "num_followers": 6108,
+  "num_followers": 6111,
   "original_name": "Top 50 - UAE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MVyQ8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MV3gGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -81,23 +81,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 189725,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "Wakas At Simula",
         "url": "https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W"
@@ -117,7 +101,23 @@
       "url": "https://open.spotify.com/track/1WgkRboDwSJLVKvv9bthvR"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -165,31 +165,7 @@
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Dhurandhar The Revenge",
-        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 180004,
-      "name": "Jaiye Sajana",
-      "url": "https://open.spotify.com/track/6xwKNAUHeo2DbWNAPi8aEy"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -205,23 +181,7 @@
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "KALYANI",
         "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
@@ -249,39 +209,23 @@
       "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 180543,
-      "name": "FYA",
-      "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -297,7 +241,95 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 180543,
+      "name": "FYA",
+      "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "duration_ms": 180004,
+      "name": "Jaiye Sajana",
+      "url": "https://open.spotify.com/track/6xwKNAUHeo2DbWNAPi8aEy"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -317,39 +349,7 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 169929,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -397,47 +397,47 @@
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
-        "name": "Pavazha Malli (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
+        "name": "Wakas At Simula",
+        "url": "https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
         },
         {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 252569,
-      "name": "Pavazha Malli - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
+      "duration_ms": 201235,
+      "name": "Toyfriend",
+      "url": "https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -477,7 +477,23 @@
       "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "Gehra Hua (From \"Dhurandhar\")",
         "url": "https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW"
@@ -505,111 +521,7 @@
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Wakas At Simula",
-        "url": "https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W"
-      },
-      "artists": [
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        },
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Toyfriend",
-      "url": "https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 167589,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 172796,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -633,7 +545,79 @@
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Pavazha Malli (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 252569,
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 172796,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -649,27 +633,7 @@
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "(When You Gonna) Give It Up to Me",
-        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "(When You Gonna) Give It Up to Me - Radio Version",
-      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "ZILL",
         "url": "https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM"
@@ -693,23 +657,27 @@
       "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -725,7 +693,247 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2026-03-29 13:40:49",
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "(When You Gonna) Give It Up to Me",
+        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "(When You Gonna) Give It Up to Me - Radio Version",
+      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 98453,
+      "name": "No. 29",
+      "url": "https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Kaattuchembakam (From \"Pallichattambi\")",
+        "url": "https://open.spotify.com/album/17ibcchQINeDcTqxlUMvwx"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        },
+        {
+          "name": "Kaithapram",
+          "url": "https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF"
+        }
+      ],
+      "duration_ms": 276461,
+      "name": "Kaattuchembakam (From \"Pallichattambi\")",
+      "url": "https://open.spotify.com/track/2ZjwnRNaEEwQaJaIH2h6KY"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Belyol",
+        "url": "https://open.spotify.com/album/0AHOtjeUSQi96z5RoYTwKC"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Edappal Bappu",
+          "url": "https://open.spotify.com/artist/2YSIJrfYC4n4yh5nuAtVxI"
+        },
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        }
+      ],
+      "duration_ms": 177917,
+      "name": "Belyol",
+      "url": "https://open.spotify.com/track/1gSxCX6p00kxVqQjCN2PQY"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2026-03-30 13:57:57",
       "album": {
         "name": "Dhurandhar The Revenge",
         "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
@@ -767,210 +975,6 @@
       "duration_ms": 210053,
       "name": "Dhurandhar The Revenge - Aari Aari",
       "url": "https://open.spotify.com/track/157BtwkY54FQ3Xl8DsTso1"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 153181,
-      "name": "E85",
-      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 98453,
-      "name": "No. 29",
-      "url": "https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 126868,
-      "name": "KING",
-      "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Kaattuchembakam (From \"Pallichattambi\")",
-        "url": "https://open.spotify.com/album/17ibcchQINeDcTqxlUMvwx"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Aavani Malhar",
-          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
-        },
-        {
-          "name": "Kaithapram",
-          "url": "https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF"
-        }
-      ],
-      "duration_ms": 276461,
-      "name": "Kaattuchembakam (From \"Pallichattambi\")",
-      "url": "https://open.spotify.com/track/2ZjwnRNaEEwQaJaIH2h6KY"
-    },
-    {
-      "added_at": "2026-03-29 13:40:49",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     }
   ],
   "unique_name": "Top 50 - UAE",

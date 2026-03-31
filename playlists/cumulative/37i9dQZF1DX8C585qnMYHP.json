@@ -4594,7 +4594,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 313256,
       "name": "Bessing",
       "url": "https://open.spotify.com/track/12uBMQKWXmxvzxHQv1xhUm"
@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 293977,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5s3Aoo4sx0drUUScaxhyZM"
@@ -19474,7 +19474,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 191000,
       "name": "La Ronda y el sonidero",
       "url": "https://open.spotify.com/track/3zXlgPfgxwwYn2WoSJIL6B"
@@ -23867,6 +23867,24 @@
     },
     {
       "album": {
+        "name": "Never Do It Right",
+        "url": "https://open.spotify.com/album/0YKIrcu1jkPb9MUbObGtUb"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248198,
+      "name": "Never Do It Right",
+      "url": "https://open.spotify.com/track/0mV4QNbQb0t7rqKz35sOUa"
+    },
+    {
+      "album": {
         "name": "Walks",
         "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
       },
@@ -26472,6 +26490,28 @@
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
+    },
+    {
+      "album": {
+        "name": "Dying Is The Internet",
+        "url": "https://open.spotify.com/album/2zyTrlBLi4WVh4tUZXKlIo"
+      },
+      "artists": [
+        {
+          "name": "Simo Cell",
+          "url": "https://open.spotify.com/artist/4KxpqghQTX2FlkzsbG3ENk"
+        },
+        {
+          "name": "Abdullah Miniawy",
+          "url": "https://open.spotify.com/artist/4vtk0GdkL06BZlviVp2H7J"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Pixelated",
+      "url": "https://open.spotify.com/track/1W3ZDPkQuCHT22Yr3sXO1J"
     },
     {
       "album": {
@@ -30282,6 +30322,24 @@
       "duration_ms": 228043,
       "name": "Shoreline",
       "url": "https://open.spotify.com/track/453H5qpem3JqCPi0pTWX3C"
+    },
+    {
+      "album": {
+        "name": "Should Feel Bad",
+        "url": "https://open.spotify.com/album/7hl6Usv0fcocfbi9Sh7VPl"
+      },
+      "artists": [
+        {
+          "name": "Niels Orens",
+          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244048,
+      "name": "Should Feel Bad",
+      "url": "https://open.spotify.com/track/3m3RfnYDaIlXlHPiWzVtje"
     },
     {
       "album": {

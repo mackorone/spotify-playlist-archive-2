@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: GYMV \(Thailand\)
 
-2,471 songs - 6 day 5 hr 59 min
+2,473 songs - 6 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 | 2023-06-22 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-15 | 2023-10-12 |
 | [Balter Baby](https://open.spotify.com/track/04AFP81ttUR9OTtXnxApNb) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Balter Baby](https://open.spotify.com/album/0qRPhOKV5PkPXjQo8cAScu) | 3:00 | 2024-10-10 | 2024-10-25 |
-| [Bandar Batavia](https://open.spotify.com/track/13YxsURDGCfwVBBcr7wiGM) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4), [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Bandar Batavia](https://open.spotify.com/album/2NOEzRnet7nm58ysaPGgNG) | 4:14 | 2026-02-26 |  |
+| [Bandar Batavia](https://open.spotify.com/track/13YxsURDGCfwVBBcr7wiGM) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4), [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Bandar Batavia](https://open.spotify.com/album/2NOEzRnet7nm58ysaPGgNG) | 4:14 | 2026-02-26 | 2026-03-31 |
 | [Bara To Yaju](https://open.spotify.com/track/25u8erynTO1nKCYcJSAhRu) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Bara To Yaju](https://open.spotify.com/album/0dt3tdiGB5wUf23Cm8liJ5) | 4:22 | 2024-07-11 | 2024-08-09 |
 | [Bashbo Bhalo](https://open.spotify.com/track/1Khtxo7T3iRCBrR3CVHRSW) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [Bashbo Bhalo](https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY) | 3:28 | 2022-03-24 | 2022-05-20 |
 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 | 2025-07-24 | 2025-08-08 |
@@ -943,7 +943,7 @@
 | [ICARUS](https://open.spotify.com/track/6I1VYleHY5n6RJujfFvj33) | [Kim Sookhyung](https://open.spotify.com/artist/5Yjiiksbgd959gXHO7H7in), [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ) | [ICARUS](https://open.spotify.com/album/7hauZJUoi314kbFesqZ5Jt) | 3:08 | 2022-12-15 | 2023-02-24 |
 | [Icarus \(See You Well\)](https://open.spotify.com/track/6uwcuemnRVDb8drtoTNFm4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Icarus \(See You Well\)](https://open.spotify.com/album/7sfECZh0WkGzkPNYmwxAHr) | 3:18 | 2022-11-24 | 2023-01-13 |
 | [ID](https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3v1UEzXlDSSkrcqSAd6GiI) | 4:41 | 2022-12-15 | 2023-01-20 |
-| [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 | 2026-01-15 |  |
+| [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 | 2026-01-15 | 2026-03-31 |
 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 | 2023-10-05 | 2023-10-27 |
 | [If I Ever Go Away](https://open.spotify.com/track/3soTRoS8K689R4iboMB9Iw) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Quo Vadis, SORE?](https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS) | 4:58 | 2023-02-09 | 2023-03-25 |
 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2023-09-21 | 2024-09-26 |
@@ -1386,6 +1386,7 @@
 | [noose](https://open.spotify.com/track/6TY9ZYoZhejZlFODlnezB1) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [noose](https://open.spotify.com/album/5ay1uQOjYWeHFszXNHy6Dl) | 3:26 | 2025-03-27 | 2025-06-20 |
 | [Nostalgia](https://open.spotify.com/track/69tD26YUIOc68UBs4sMGZN) | [CHEONG NAN](https://open.spotify.com/artist/7fnlgfFq1e0d0ORL0tpFaK) | [Nostalgia](https://open.spotify.com/album/0aam5ijHT4xS6s4NURTbTv) | 3:26 | 2026-03-06 |  |
 | [Nostalgia](https://open.spotify.com/track/6ofybwTF7Xrreqz8cMVXk4) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [Nostalgia](https://open.spotify.com/album/6k7eXIeW8UthcDcPmMKQkA) | 4:29 | 2023-08-17 | 2023-09-22 |
+| [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 | 2026-03-30 |  |
 | [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 | 2024-05-30 | 2024-06-14 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-10-04 |
 | [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Plea](https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg) | 3:30 | 2025-09-25 | 2025-10-24 |
@@ -1685,6 +1686,7 @@
 | [She Likes to Dance](https://open.spotify.com/track/26q20Hajvk9vLkaOY6eHYe) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [She Likes to Dance](https://open.spotify.com/album/4Ej7aO710TSFaKHBdwo7Xr) | 4:05 | 2024-03-28 | 2024-04-12 |
 | [Shed](https://open.spotify.com/track/6U3WPPsudfb6sCD7VUC6Hi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Shed](https://open.spotify.com/album/6RJPC2gX5nCqkwMrf3STIA) | 3:46 | 2025-08-21 | 2025-09-26 |
 | [Shine](https://open.spotify.com/track/5WYgNDkw0VsDIZwfwQWlXp) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Shine](https://open.spotify.com/album/7oeXbkNIec5kwanlfRjyPC) | 3:06 | 2023-03-31 | 2023-04-28 |
+| [Shine](https://open.spotify.com/track/2WPzYNPh1tX7j4d3W1Ewjg) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Shine](https://open.spotify.com/album/0daRddgcJATl4AKv58qJ2o) | 3:12 | 2026-03-30 |  |
 | [Shinigami\(死神\)](https://open.spotify.com/track/6IcIVCAaCusRsWgYfPrdYK) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Pizza Party Tequila & Xanax](https://open.spotify.com/album/1KxqDhdXGPPFtxEFX4WbOf) | 4:20 | 2025-11-21 |  |
 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 | 2022-09-22 | 2022-12-02 |
 | [Show Me Your Love](https://open.spotify.com/track/6fAepWICQoLYKkFQSr2NbB) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Show Me Your Love](https://open.spotify.com/album/0cKkYtVFyXBqZzybyQc0vD) | 4:02 | 2025-03-27 | 2025-06-20 |

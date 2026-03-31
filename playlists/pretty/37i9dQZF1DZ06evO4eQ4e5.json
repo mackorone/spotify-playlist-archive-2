@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 86261,
+  "num_followers": 86265,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACToKsr4uiS+bq9ggkfmS1+",
+  "snapshot_id": "achrgAAAAADqZetPiJQEnl9+oYEwcy5j",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+        "name": "Exitos del coraz\u00f3n (USA)",
+        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 255186,
-      "name": "El Amor Acaba (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
+      "duration_ms": 200186,
+      "name": "T\u00f3mame o d\u00e9jame",
+      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos del coraz\u00f3n (USA)",
-        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 200186,
-      "name": "T\u00f3mame o d\u00e9jame",
-      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
+      "duration_ms": 255186,
+      "name": "El Amor Acaba (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 258986,
-      "name": "Tengo todo excepto a ti",
-      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+      "duration_ms": 258986,
+      "name": "Tengo todo excepto a ti",
+      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
     },
     {
       "added_at": null,

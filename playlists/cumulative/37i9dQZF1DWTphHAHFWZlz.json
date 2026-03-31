@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "Kyden",
+        "url": "https://open.spotify.com/album/1kPvMKNXRo7DzjC8YBHNBk"
+      },
+      "artists": [
+        {
+          "name": "Nico Vonder",
+          "url": "https://open.spotify.com/artist/3QkrGUgIufQ9rDcGkw9zsd"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90088,
+      "name": "No me quite de mi sue\u00f1o",
+      "url": "https://open.spotify.com/track/4QWuXwctr5fj1BQypwPuaG"
+    },
+    {
+      "album": {
         "name": "Todo Desliza",
         "url": "https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e"
       },

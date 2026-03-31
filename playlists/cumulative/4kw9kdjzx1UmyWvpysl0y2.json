@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 224000,
       "name": "And Available For Bookings",
       "url": "https://open.spotify.com/track/0s0JY6OLSofUciQL1JTFr9"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 131703,
       "name": "Beg For Mercy",
       "url": "https://open.spotify.com/track/4lPpWCtwDlcSRGp1TPz4g4"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 157000,
       "name": "Blue Planet - Qrion Remix",
       "url": "https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy"
@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 213931,
       "name": "Caught Between",
       "url": "https://open.spotify.com/track/36oJ6fOZHn0dEjGY9EPb9y"
@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 184827,
       "name": "Control",
       "url": "https://open.spotify.com/track/5KEIAvl6n6RtCdEuWmRcbb"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 185220,
       "name": "Disco Kissing",
       "url": "https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx"
@@ -6168,7 +6168,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 215172,
       "name": "Droid",
       "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
@@ -7234,7 +7234,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 165500,
       "name": "fall back",
       "url": "https://open.spotify.com/track/6OM3iwZdRPpgxI3j6kNfGR"
@@ -9937,6 +9937,32 @@
     },
     {
       "album": {
+        "name": "Hiding In Plain Sight",
+        "url": "https://open.spotify.com/album/4KcUNDN2nVj9Jjr5t1WDKO"
+      },
+      "artists": [
+        {
+          "name": "Merage",
+          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Islet Oak",
+          "url": "https://open.spotify.com/artist/5bcyahJJpuygwCCVIIgfXE"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208081,
+      "name": "Hiding In Plain Sight",
+      "url": "https://open.spotify.com/track/7zGqVYTVy5l6BnwZQR0y8Z"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
       },
@@ -11694,7 +11720,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 496725,
       "name": "LA Beast",
       "url": "https://open.spotify.com/track/10oJ63fBqGd5lNlnXLpEsp"
@@ -15460,7 +15486,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 212000,
       "name": "obvious",
       "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
@@ -16244,7 +16270,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 178500,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0DrCOcgrsmY1fjiDjt3JEN"
@@ -21902,7 +21928,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 233139,
       "name": "The Six Of Wands",
       "url": "https://open.spotify.com/track/3KbkG7dIQUJhTA3kiOw1ly"

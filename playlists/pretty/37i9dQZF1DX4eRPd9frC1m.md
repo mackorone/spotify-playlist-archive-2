@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,576,129 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,576,221 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 45 | [STAXX](https://open.spotify.com/track/080h3c3ydKABbGMbXuYF0r) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [STAXX](https://open.spotify.com/album/5RPm0Nb4r6mrpZAW4DrXtY) | 3:20 |
 | 46 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 |
 | 47 | [King](https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 2:47 |
-| 48 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
-| 49 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
+| 48 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
+| 49 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
 | 50 | [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 |
 | 51 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 |
 | 52 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 |

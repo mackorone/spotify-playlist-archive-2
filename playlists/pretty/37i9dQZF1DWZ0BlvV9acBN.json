@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 149315,
+  "num_followers": 149317,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Davi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 196829,
-      "name": "Davi - Ao Vivo",
-      "url": "https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Resist\u00eancia",
         "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Davi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 196829,
+      "name": "Davi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Deixa Vir - Vol II (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 281760,
       "name": "Grita! (Shout!) - Ao Vivo",
       "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
+        "name": "Boom!",
+        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Boom!",
+      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
         "name": "Leva-Me Al\u00e9m (One ao Vivo)",
         "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 180800,
       "name": "Leva-Me Al\u00e9m (One ao Vivo)",
       "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
-        "name": "Boom!",
-        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Boom!",
-      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Pr\u00f3digo",
         "url": "https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 234198,
       "name": "Pr\u00f3digo",
       "url": "https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "S\u00f3 na Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 258282,
-      "name": "S\u00f3 na Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "O Come\u00e7o, o Fim e o Meio",
         "url": "https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 247459,
       "name": "O Come\u00e7o, o Fim e o Meio",
       "url": "https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "S\u00f3 na Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 258282,
+      "name": "S\u00f3 na Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
     },
     {
       "added_at": "2025-10-24 18:38:07",

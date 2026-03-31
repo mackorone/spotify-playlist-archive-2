@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: MAF Teeski
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,072 likes - 103 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,102 likes - 103 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 4 | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wbEwA6nnbdZA2QESPFdea) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/album/3mbPS36EkFbEXWhIXCGqWa) | 2:17 |
 | 5 | [Blitz](https://open.spotify.com/track/56Er42sQAQXExUp5TuDnte) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 1:40 |
 | 6 | [THIS A MUST](https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:26 |
-| 7 | [Mayweather](https://open.spotify.com/track/2F6WFMeVBBZZlwg6ZjIkeH) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK), [FRVR INTL.](https://open.spotify.com/artist/0NenVxc39qo53ebeCZMBOm) | [Mayweather](https://open.spotify.com/album/5o43BjpfhkCCe608zZwUnj) | 2:20 |
+| 7 | [Mayweather](https://open.spotify.com/track/2F6WFMeVBBZZlwg6ZjIkeH) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK) | [Mayweather](https://open.spotify.com/album/5o43BjpfhkCCe608zZwUnj) | 2:20 |
 | 8 | [Lamb Chop](https://open.spotify.com/track/5XrmCMLpTflQPvYjnEZXEh) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Lamb Chop](https://open.spotify.com/album/6AR5H4vMm728Q6zDy3CS1I) | 2:03 |
 | 9 | [The Crib](https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Crib](https://open.spotify.com/album/6mrjG8ZNd723nncb0G58r6) | 1:48 |
 | 10 | [Slide \(feat\. G Herbo\)](https://open.spotify.com/track/2A875AE6xfeiBuC28ZYtO3) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Skeletor](https://open.spotify.com/album/3IAgMv1WFncG3ucFS0Jywd) | 6:11 |

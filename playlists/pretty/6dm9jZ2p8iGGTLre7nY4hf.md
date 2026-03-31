@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 427,844 likes - 44 songs - 2 hr 40 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 427,729 likes - 44 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

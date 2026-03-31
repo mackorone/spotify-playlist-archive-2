@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Joya Mooi
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,839 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,846 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 25 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 26 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 27 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
-| 28 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
-| 29 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
+| 28 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
+| 29 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
 | 30 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
-| 31 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
-| 32 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
+| 31 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
+| 32 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
 | 33 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 34 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 35 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,584 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,667 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 13 | [How Deep is Your Love](https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f), [Glambeats Corp.](https://open.spotify.com/artist/2OfhO7rFJyxPWi4zqy9HxJ) | [How Deep is Your Love](https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK) | 3:38 |
 | 14 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
 | 15 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 |
-| 16 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
-| 17 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
+| 16 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
+| 17 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
 | 18 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 |
 | 19 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
 | 20 | [Nothing's Gonna Hurt You Baby \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Nothing's Gonna Hurt You Baby \(From "Promising Young Woman" Soundtrack\)](https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY) | 3:17 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 75 | [No Surprises \(feat\. Janelle Monáe\)](https://open.spotify.com/track/4cRPXadQRylHEWmQJ02fIc) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [OK Lady](https://open.spotify.com/album/5cxdHvTNzejoUNA48rbkRm) | 4:04 |
 | 76 | [Ultralight Beam](https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 2:55 |
 | 77 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
-| 78 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
-| 79 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
+| 78 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
+| 79 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
 | 80 | [The Tourist](https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 4:52 |
 | 81 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 | 82 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 94 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 95 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 96 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
-| 97 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
-| 98 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
-| 99 | [No Diggity](https://open.spotify.com/track/5MiQly7cdHQiP6JBX1PSYG) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Digging The Blogosphere](https://open.spotify.com/album/4rNQTnJ1Qp0rgy2FzE93Wk) | 3:42 |
+| 97 | [No Diggity](https://open.spotify.com/track/5MiQly7cdHQiP6JBX1PSYG) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Digging The Blogosphere](https://open.spotify.com/album/4rNQTnJ1Qp0rgy2FzE93Wk) | 3:42 |
+| 98 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
+| 99 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
 | 100 | [With Or Without You \- Jo Whiley Show \- BBC Live Session](https://open.spotify.com/track/2JZUW0wQcUYr7NW7itcHef) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes and Fears \(Deluxe Edition\)](https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk) | 3:30 |
 
 Snapshot ID: `AAAAAIfv33vmxjmGBBA4szPrnQQ0Q9Jz`

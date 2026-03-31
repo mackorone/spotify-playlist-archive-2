@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 701344,
+  "num_followers": 701386,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAPd0UY5tgMzVGr1wS6cCpm",
+  "snapshot_id": "achrgAAAAAAC+LgYppucUmecH/oxKf1h",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 321360,
-      "name": "Take a Bow",
-      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (Deluxe Version)",
-        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 224320,
-      "name": "Crazy for You",
-      "url": "https://open.spotify.com/track/3iIi0NOco9hyukT6jFZ4dX"
+      "duration_ms": 321360,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 304933,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 322000,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Vogue - Edit",
+      "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Vogue - Edit",
-      "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 287906,
       "name": "Give It 2 Me",
       "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hung Up",
-        "url": "https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Hung Up - Radio Version",
-      "url": "https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO"
     },
     {
       "added_at": null,
@@ -587,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 267345,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
         "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 267345,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something to Remember",
         "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
@@ -635,22 +619,6 @@
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
-        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 171115,
-      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
-      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
     },
     {
       "added_at": null,
@@ -719,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 171115,
+      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 227973,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hung Up (Remixes)",
+        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Hung Up - Radio Version",
+      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
     },
     {
       "added_at": null,

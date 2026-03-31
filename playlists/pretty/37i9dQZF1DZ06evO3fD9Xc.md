@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,002 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,998 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 35 | [Seremos](https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:16 |
 | 36 | [Adios Amor](https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:44 |
 | 37 | [Nadie Es Indispensable](https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:02 |
-| 38 | [No Puedo Odiarte](https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [No Puedo Odiarte](https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr) | 2:06 |
+| 38 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 |
 | 39 | [No Me Hubiera Enamorado](https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:17 |
-| 40 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 |
+| 40 | [No Puedo Odiarte](https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [No Puedo Odiarte](https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr) | 2:06 |
 | 41 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
 | 42 | [El Barco](https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:46 |
 | 43 | [Me Va A Extrañar](https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 49 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
 | 50 | [Maldigo](https://open.spotify.com/track/159jAeL5nbuA92CxxRpjYZ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 2:28 |
 
-Snapshot ID: `accaAAAAAADtM/YiswHuqi6yIHNzI8YN`
+Snapshot ID: `achrgAAAAABHaCHEAIL7tL8rmSET2Hzu`

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,206 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,197 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [project 4 \- Freestyle](https://open.spotify.com/track/0SvetGqBXcK190HwFpqeoL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 2 \(Freestyle\)](https://open.spotify.com/album/6F314G9ZSfadFWUYyIafRa) | 1:48 |
-| 2 | [WAKA WAKA](https://open.spotify.com/track/0gBsvS8LJugDVhUp5km7H1) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [WAKA WAKA](https://open.spotify.com/album/2KLah2xaBY1A7zlNOgHuiQ) | 2:32 |
+| 2 | [TILLITSPROBLEM](https://open.spotify.com/track/6dGnoGSgUm3DpRUr2pIlRK) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TILLITSPROBLEM](https://open.spotify.com/album/2q0BDlsL11EeUUfaBPbwwS) | 2:31 |
 | 3 | [Blame on me](https://open.spotify.com/track/3Xo85a8BSbt2dKUwi3u4r5) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Blame on me](https://open.spotify.com/album/1NaMRgvDssmHLk2xZwzU5i) | 2:31 |
 | 4 | [HATAR SE DEJ GÅ](https://open.spotify.com/track/6pDHJel2cfzvLmWIEJ3fnV) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [JB X AB \(E4an\) \- HATAR SE DEJ GÅ](https://open.spotify.com/album/7FcE7X3La3Ns4XKvPpPVOO) | 2:10 |
 | 5 | [Delila](https://open.spotify.com/track/2LZIZx9vXKcAdEXUnxTDRF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Delila](https://open.spotify.com/album/4b9iVCHUMnSouROAbWVseL) | 2:14 |
 | 6 | [DE VI](https://open.spotify.com/track/5Ro0m2VP4fEEbdR90Qm572) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp), [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [DE VI](https://open.spotify.com/album/29BSE3VQPO66tkhp84Peyg) | 2:34 |
-| 7 | [VAN CLEEF](https://open.spotify.com/track/3Y6LvYULJPVMwPrsuPq4xE) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [VAN CLEEF](https://open.spotify.com/album/5Xl4cTVzc8c7pDcnI4FeRI) | 2:07 |
-| 8 | [500 ROSOR](https://open.spotify.com/track/72O4Yg6p1zIlhZYDpr3cz2) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [500 ROSOR](https://open.spotify.com/album/20woj1dgkhWLPA5WfWC6ga) | 2:25 |
-| 9 | [GSS](https://open.spotify.com/track/3sRjRxC55BEYMXCEi6n2eX) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [GSS](https://open.spotify.com/album/6YPPcnrRvp7BCnN2KNG6oV) | 2:19 |
-| 10 | [FNM](https://open.spotify.com/track/5B3jedHeAo1g8r9iUGcE0m) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FNM](https://open.spotify.com/album/409QAf2a77VlR1sjWqG0D7) | 2:09 |
-| 11 | [TILLITSPROBLEM](https://open.spotify.com/track/6dGnoGSgUm3DpRUr2pIlRK) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TILLITSPROBLEM](https://open.spotify.com/album/2q0BDlsL11EeUUfaBPbwwS) | 2:31 |
-| 12 | [Annie \(Är du ok?\)](https://open.spotify.com/track/2HDtAZVtBGH2LyHZSEHt68) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Annie \(Är du ok?\)](https://open.spotify.com/album/1PE3h9IYn7R4oS7t1GK6oX) | 3:02 |
+| 7 | [WAKA WAKA](https://open.spotify.com/track/0gBsvS8LJugDVhUp5km7H1) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [WAKA WAKA](https://open.spotify.com/album/2KLah2xaBY1A7zlNOgHuiQ) | 2:32 |
+| 8 | [VAN CLEEF](https://open.spotify.com/track/3Y6LvYULJPVMwPrsuPq4xE) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [VAN CLEEF](https://open.spotify.com/album/5Xl4cTVzc8c7pDcnI4FeRI) | 2:07 |
+| 9 | [500 ROSOR](https://open.spotify.com/track/72O4Yg6p1zIlhZYDpr3cz2) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [500 ROSOR](https://open.spotify.com/album/20woj1dgkhWLPA5WfWC6ga) | 2:25 |
+| 10 | [terminalen Zutt \- Freestyle](https://open.spotify.com/track/6StnWHpk0f4qg0Rl0erpvo) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 2 \(Freestyle\)](https://open.spotify.com/album/6F314G9ZSfadFWUYyIafRa) | 1:32 |
+| 11 | [GSS](https://open.spotify.com/track/3sRjRxC55BEYMXCEi6n2eX) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [GSS](https://open.spotify.com/album/6YPPcnrRvp7BCnN2KNG6oV) | 2:19 |
+| 12 | [FNM](https://open.spotify.com/track/5B3jedHeAo1g8r9iUGcE0m) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FNM](https://open.spotify.com/album/409QAf2a77VlR1sjWqG0D7) | 2:09 |
 | 13 | [Trafficante](https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Trafficante](https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU) | 1:48 |
-| 14 | [terminalen Zutt \- Freestyle](https://open.spotify.com/track/6StnWHpk0f4qg0Rl0erpvo) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 2 \(Freestyle\)](https://open.spotify.com/album/6F314G9ZSfadFWUYyIafRa) | 1:32 |
+| 14 | [Annie \(Är du ok?\)](https://open.spotify.com/track/2HDtAZVtBGH2LyHZSEHt68) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Annie \(Är du ok?\)](https://open.spotify.com/album/1PE3h9IYn7R4oS7t1GK6oX) | 3:02 |
 | 15 | [Känneru Love](https://open.spotify.com/track/7iiEkSC0LYK8Jn6coDpHal) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj) | [Känneru Love](https://open.spotify.com/album/2QpPxdYpF3ssZ8143paIGC) | 2:28 |
 | 16 | [michelin](https://open.spotify.com/track/5CNCVgLYiGAo7YumGSK80T) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [michelin](https://open.spotify.com/album/0HvfZHCAgBYoipM8EHg9tT) | 2:45 |
 | 17 | [Blåljus](https://open.spotify.com/track/3zXbUVHVfZiCFLxQtGfuQS) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Blåljus](https://open.spotify.com/album/4madR6SNDWf09E5E9XcFXo) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 |
 | 100 | [Fartblind](https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Fartblind](https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc) | 2:40 |
 
-Snapshot ID: `AAAAACIdvOP8IVd4C6oPghkkv3ivWbsu`
+Snapshot ID: `AAAAADM/Qr2qA2J/A0erI9Wk3GBHX+KC`

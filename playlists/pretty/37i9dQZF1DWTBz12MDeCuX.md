@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Rubi
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,897 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,848 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 37 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 38 | [backup](https://open.spotify.com/track/4Z2ocuLaDoSSB7qiSVakUa) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA) | [backup](https://open.spotify.com/album/5ZTrwbf6ZQ3UmVXx2rF1Le) | 2:34 |
 | 39 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
-| 40 | [LET ME BE](https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30) | [LET ME BE](https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op) | 3:09 |
-| 41 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
-| 42 | [20 & Irgendwas](https://open.spotify.com/track/4XGTVDCdhr59bBX8CGtlTG) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [20 & Irgendwas](https://open.spotify.com/album/6GML2MUWcdaHIXtJXzO66D) | 2:46 |
-| 43 | [Trauma Glam](https://open.spotify.com/track/6yvQlol6H9go2UB6OwwUDj) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Trauma Glam](https://open.spotify.com/album/10WnTmQt87J8s2YkwLkHiK) | 2:23 |
+| 40 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
+| 41 | [20 & Irgendwas](https://open.spotify.com/track/4XGTVDCdhr59bBX8CGtlTG) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [20 & Irgendwas](https://open.spotify.com/album/6GML2MUWcdaHIXtJXzO66D) | 2:46 |
+| 42 | [Trauma Glam](https://open.spotify.com/track/6yvQlol6H9go2UB6OwwUDj) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Trauma Glam](https://open.spotify.com/album/10WnTmQt87J8s2YkwLkHiK) | 2:23 |
+| 43 | [MIA](https://open.spotify.com/track/7B9RkAdc7EbyRiolJ0eztP) | [mia ludwig](https://open.spotify.com/artist/1QEPqXh3n7NOfGGX4slebW) | [MIA](https://open.spotify.com/album/4hUjFsLTp7m5YThIAa9Ihc) | 1:40 |
 | 44 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 45 | [Loser](https://open.spotify.com/track/41bvcMH85cMo0ZCNZvdRru) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Loser](https://open.spotify.com/album/06yZFyF5SgADNPhMsoyjC4) | 2:42 |
 | 46 | [hat nicht jeder schon mal angst gehabt?](https://open.spotify.com/track/4HbQ8ZielIoSYhD56ReyHN) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [hat nicht jeder schon mal angst gehabt.](https://open.spotify.com/album/3IteMG2t4UW0TMnQQhq5DZ) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [2k16 \(weisst du noch?\)](https://open.spotify.com/track/0Lot2z3ntcnTfbBXYkb58e) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C), [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2k16 \(weisst du noch?\)](https://open.spotify.com/album/0jorUP90xaiGGCRAFDZKoV) | 2:00 |
 | 100 | [Mon Ami](https://open.spotify.com/track/522GfzswsdllV4ix60Limi) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Mon Ami](https://open.spotify.com/album/1GrFgdyyvzZDniZmgaIwA7) | 2:34 |
 
-Snapshot ID: `AAAAACkQp39lj8qOKJwVVIf9M7xEi2Ko`
+Snapshot ID: `AAAAAGM95IhfiE1SY2bdQcastR7dXni4`

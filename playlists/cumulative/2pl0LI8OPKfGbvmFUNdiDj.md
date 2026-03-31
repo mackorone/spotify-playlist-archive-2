@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-407 songs - 22 hr 52 min
+409 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Another kind of love](https://open.spotify.com/track/1nCXxexVgfL51nDIoebmBV) | [NUNA](https://open.spotify.com/artist/2ZDRiuhvUAmjhAMlIBKsJt) | [Another kind of love](https://open.spotify.com/album/2qlJ3o9DTV66eWozihYItB) | 3:16 | 2025-11-01 | 2025-12-01 |
 | [Anti Romantic](https://open.spotify.com/track/16Gat5a1EIYm4QYmvsAlUR) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Luxed Out](https://open.spotify.com/album/2Ig92MoXAouPQuWWZ2pBGP) | 3:25 | 2025-11-05 | 2025-12-01 |
 | [Apocalypticated](https://open.spotify.com/track/7afKSNMqHE9RTEurgxjXRi) | [Met1hod](https://open.spotify.com/artist/1l40FvIvVg9uZyRZpwMXql) | [Apocalypticated](https://open.spotify.com/album/55is4wGGblko5h6K5RE2ZK) | 4:08 | 2025-11-17 | 2026-01-05 |
+| [Apparently Dead](https://open.spotify.com/track/7KU3oqTPIO1vH8Dm3qT9NO) | [Dead Horse Riding](https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL) | [Phoenix \- Breaking the Cycle](https://open.spotify.com/album/25fUK2kTg4PxRZndSf57ns) | 4:22 | 2026-03-30 |  |
 | [Ashes](https://open.spotify.com/track/5Ft6nMdweaJkJAJX57SHza) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:57 | 2026-01-19 | 2026-02-21 |
 | [Astrifer](https://open.spotify.com/track/66NCwHAAArMOhD6aduLl6g) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Spectra](https://open.spotify.com/album/0dRFvEUEt5gg9u4TVhLJpe) | 4:08 | 2025-11-08 | 2025-12-01 |
 | [Autumn Fall](https://open.spotify.com/track/1bm4evNgnGNc6TkrW5coXx) | [Legends of the Seven Golden Vampires](https://open.spotify.com/artist/5MWBriMQP4x8AeTN48ErdZ) | [Autumn Fall](https://open.spotify.com/album/7x7BkLrEek3R6ekBdB6mrB) | 2:56 | 2025-12-30 | 2026-01-25 |
@@ -139,6 +140,7 @@
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-02-08 |  |
 | [For A Season](https://open.spotify.com/track/0wpGtY0s0bf7sOGau3zwYx) | [Nicky Jean](https://open.spotify.com/artist/4ecawqe1AHRUfnQeizauYD) | [For A Season](https://open.spotify.com/album/0hsm4XQOLAOPRhKJQRM7tp) | 3:50 | 2025-12-22 | 2026-01-25 |
 | [For Tonight](https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Brother](https://open.spotify.com/album/5RV6Ggi9hnALeXXchpW37O) | 2:29 | 2025-12-20 | 2026-01-15 |
+| [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-03-30 |  |
 | [Frases del Ayer](https://open.spotify.com/track/7EwgbuZ57KNgOtgMSdar3R) | [Diego Stegmeier](https://open.spotify.com/artist/5M2u8mwkoZWHPBXINtfV7a) | [Frases del Ayer](https://open.spotify.com/album/3DFXycXInOtOYW4Hmvyy0E) | 4:37 | 2026-02-20 |  |
 | [Freedom Queen](https://open.spotify.com/track/4pxoCgIkaSSFx8cu31N01R) | [Mink's Miracle Medicine](https://open.spotify.com/artist/1XEYWgovYzwpxtdJba7dO0) | [Freedom Queen](https://open.spotify.com/album/7GPApbSd4SkQrzJeSBMzTt) | 4:15 | 2026-01-04 | 2026-02-21 |
 | [Fucked Up](https://open.spotify.com/track/68uVC0iivrNHCfEmRFhPR4) | [Crest](https://open.spotify.com/artist/7HkVIIis479rPDZsLmp0Z9) | [Fucked Up](https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0) | 2:42 | 2025-11-02 | 2025-12-01 |

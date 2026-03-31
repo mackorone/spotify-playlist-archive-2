@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,864 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,051 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 66 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
 | 67 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 68 | [Testa](https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Testa / Caracalla Dub](https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp) | 3:20 |
-| 69 | [Babylon, baby](https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Grégoire Tine](https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO) | [Babylon, baby](https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T) | 3:27 |
+| 69 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
 | 70 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
-| 71 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
+| 71 | [Babylon, baby](https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Grégoire Tine](https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO) | [Babylon, baby](https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T) | 3:27 |
 | 72 | [Ancora](https://open.spotify.com/track/4oJnLY71i5d7lIwelHcM5Z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Tipo Cosi](https://open.spotify.com/album/0EBhGMQZe2nEZCdqejtRzD) | 4:13 |
 | 73 | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ) | [Rollover Djs](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4) | 4:17 |
 | 74 | [From Here to Eternity \- Bonus Track \- Single Version \- Remastered](https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [From Here to Eternity \(Remastered\)](https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv) | 3:53 |
-| 75 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 75 | [Come On Closer \- \(Dub Version\) Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP) | [Pineapples](https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Douglas Roop](https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY) | [Come On Closer \(2020 Remaster\)](https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL) | 6:30 |
 
 Snapshot ID: `AAAAAHwgV5XuCMVP1Ftc3rFbA+YDMEwH`

@@ -43,6 +43,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190534,
-      "name": "Hello (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Gangsta Blues",
         "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
       },
@@ -855,6 +835,34 @@
       "duration_ms": 254946,
       "name": "It's A Pity",
       "url": "https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Danny Boy",
+          "url": "https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga"
+        },
+        {
+          "name": "Syke",
+          "url": "https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm"
+        },
+        {
+          "name": "C-PO",
+          "url": "https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV"
+        }
+      ],
+      "duration_ms": 314906,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
     }
   ],
   "unique_name": "Steven Victor's Taste",

@@ -15958,7 +15958,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 208000,
       "name": "Hello Juliet",
       "url": "https://open.spotify.com/track/0miNQiJqyO5CIZbyLTHO7J"
@@ -16218,7 +16218,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 81290,
       "name": "Herm\u00e8s 2.0",
       "url": "https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9"
@@ -21566,7 +21566,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -27181,6 +27181,24 @@
     },
     {
       "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
+    },
+    {
+      "album": {
         "name": "SLAANG",
         "url": "https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q"
       },
@@ -28886,7 +28904,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -42194,6 +42212,28 @@
       "duration_ms": 235660,
       "name": "World That Doesn't Fit",
       "url": "https://open.spotify.com/track/1rwxUhIxJqLdRImrNHlWEU"
+    },
+    {
+      "album": {
+        "name": "worry",
+        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "riserayss",
+          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201908,
+      "name": "worry - Slowed",
+      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,599 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,681 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 32 | [Southside God](https://open.spotify.com/track/11UObOhKpPTE1KWG3BG5PS) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Southside God](https://open.spotify.com/album/1XJllKRQSbPDcERNNSlmhE) | 3:30 |
 | 33 | [Trackhawk](https://open.spotify.com/track/1q8rWcQ8xXd6Q9NKdXNgDL) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Trackhawk](https://open.spotify.com/album/7Kj33Q2x72qmFqs6pmsQ67) | 1:59 |
 | 34 | [6WA](https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI) | [6WA](https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO) | 2:08 |
-| 35 | [Mayweather](https://open.spotify.com/track/2F6WFMeVBBZZlwg6ZjIkeH) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK), [FRVR INTL.](https://open.spotify.com/artist/0NenVxc39qo53ebeCZMBOm) | [Mayweather](https://open.spotify.com/album/5o43BjpfhkCCe608zZwUnj) | 2:20 |
+| 35 | [Mayweather](https://open.spotify.com/track/2F6WFMeVBBZZlwg6ZjIkeH) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK) | [Mayweather](https://open.spotify.com/album/5o43BjpfhkCCe608zZwUnj) | 2:20 |
 | 36 | [Dream](https://open.spotify.com/track/3r4myCRyUHfTc8joUS3st5) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Dream](https://open.spotify.com/album/3iOdVj6hlLXxDgW7ooU9ZA) | 2:22 |
 | 37 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
 | 38 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |

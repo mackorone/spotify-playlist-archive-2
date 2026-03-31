@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkGWvShf+sZWuC+h8XLsNPO82EjWN9",
+  "snapshot_id": "AAAkH0X9/honlOkp3psEk42EohlEAmsu",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -601,86 +601,6 @@
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
     },
     {
-      "added_at": "2026-03-06 08:15:20",
-      "album": {
-        "name": "yung n dumb",
-        "url": "https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj"
-      },
-      "artists": [
-        {
-          "name": "Marc Vinyls",
-          "url": "https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8"
-        }
-      ],
-      "duration_ms": 112940,
-      "name": "yung n dumb",
-      "url": "https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK"
-    },
-    {
-      "added_at": "2026-03-09 08:40:34",
-      "album": {
-        "name": "LOCO",
-        "url": "https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd"
-      },
-      "artists": [
-        {
-          "name": "ZIG LA RIME",
-          "url": "https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n"
-    },
-    {
-      "added_at": "2026-03-10 08:13:37",
-      "album": {
-        "name": "gas station girlfriend",
-        "url": "https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Gutierrez",
-          "url": "https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga"
-        }
-      ],
-      "duration_ms": 228219,
-      "name": "gas station girlfriend",
-      "url": "https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT"
-    },
-    {
-      "added_at": "2026-03-16 16:43:05",
-      "album": {
-        "name": "Getting Closer",
-        "url": "https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI"
-      },
-      "artists": [
-        {
-          "name": "GINSHER",
-          "url": "https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Getting Closer",
-      "url": "https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A"
-    },
-    {
-      "added_at": "2026-03-17 08:56:55",
-      "album": {
-        "name": "Would You Stay?",
-        "url": "https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG"
-      },
-      "artists": [
-        {
-          "name": "Jen\u00e8riq",
-          "url": "https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Would You Stay?",
-      "url": "https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01"
-    },
-    {
       "added_at": "2026-03-17 14:30:02",
       "album": {
         "name": "slowdance",
@@ -775,6 +695,22 @@
       "duration_ms": 222364,
       "name": "Almost there",
       "url": "https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm"
+    },
+    {
+      "added_at": "2026-03-30 07:28:39",
+      "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH"
+      },
+      "artists": [
+        {
+          "name": "GINSHER",
+          "url": "https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS"
+        }
+      ],
+      "duration_ms": 146528,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca"
     }
   ],
   "unique_name": "Alternative Pop Archive",

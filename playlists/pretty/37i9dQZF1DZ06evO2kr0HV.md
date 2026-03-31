@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,581 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,583 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 8 | [Noche Sensorial](https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:21 |
 | 9 | [Reina Leona](https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:07 |
 | 10 | [El acuerdo](https://open.spotify.com/track/1LLWnqc93bK8DgWxmYvARN) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:25 |
-| 11 | [Piensa en mí](https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Piensa en mí](https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev) | 2:53 |
-| 12 | [Mar](https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:58 |
+| 11 | [Mar](https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:58 |
+| 12 | [Piensa en mí](https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Piensa en mí](https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev) | 2:53 |
 | 13 | [Besos y Pendientes](https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DARA](https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft) | 2:51 |
 | 14 | [No sabes amar](https://open.spotify.com/track/2yhwd5uElvQJaDquJ0Iexv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 4:02 |
 | 15 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 49 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 50 | [Crème Brulée \- Bilingual Version](https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Crème Brulée \(Bilingual Version\)](https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h) | 2:59 |
 
-Snapshot ID: `accaAAAAAAD5gwotWd/VvFCQ6ZHo4HPZ`
+Snapshot ID: `achrgAAAAAAZP1+1it/cQCMNkNDaOqwN`

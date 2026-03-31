@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Ty Myers
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,126 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,118 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

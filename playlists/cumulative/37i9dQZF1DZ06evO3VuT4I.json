@@ -480,6 +480,50 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141399,
+      "name": "Concr\u00e8te Waves Barcelona A1",
+      "url": "https://open.spotify.com/track/1nDrq8IRDjIaf15cbkkuVU"
+    },
+    {
+      "album": {
+        "name": "Concr\u00e8te Waves",
+        "url": "https://open.spotify.com/album/3oUT8rTRNHo2We9h8YQFmn"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150503,
+      "name": "Concr\u00e8te Waves Barcelona A3",
+      "url": "https://open.spotify.com/track/396csASCfD87LuEhzou3DS"
+    },
+    {
+      "album": {
+        "name": "Concr\u00e8te Waves",
+        "url": "https://open.spotify.com/album/3oUT8rTRNHo2We9h8YQFmn"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -526,7 +570,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 345880,
       "name": "Concr\u00e8te Waves London B1",
       "url": "https://open.spotify.com/track/1XNZGZZ8vHlZSaX1NnjD10"
@@ -614,7 +658,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 271099,
       "name": "Concr\u00e8te Waves London B5",
       "url": "https://open.spotify.com/track/7qxiNLWGPHrBsqB1UbN0ph"
@@ -988,7 +1032,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 586880,
       "name": "History Of My Heart",
       "url": "https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs"
@@ -1862,7 +1906,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -2020,7 +2064,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 199053,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
@@ -2126,7 +2170,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 527925,
       "name": "Sweetheart (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/63IuQMqOgTvIARFqngU31Y"

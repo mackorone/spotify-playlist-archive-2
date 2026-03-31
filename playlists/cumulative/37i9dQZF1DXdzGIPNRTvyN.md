@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-453 songs - 21 hr 18 min
+454 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |
 | [Fractions](https://open.spotify.com/track/2BNm7OnbAZsIjTU0PfIpj0) | [Soluna](https://open.spotify.com/artist/0TbAQgVTA22KsYaYwfmT77) | [Fractions](https://open.spotify.com/album/7MHO5zdyk1KSRm9cGKitbB) | 2:24 | 2026-03-16 |  |
 | [Fresh Air](https://open.spotify.com/track/0MUmZdQ9bbmNERdOGWVydX) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Fresh Air](https://open.spotify.com/album/0rwJL6Y78HNXm7CfXhTkOv) | 3:15 | 2024-08-22 |  |
-| [Fresh Air](https://open.spotify.com/track/2MysoZkOGxCtx3ZFVmi6zN) | [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [Fresh Air](https://open.spotify.com/album/0K6cL3Fea7z1aT5YxrNwnl) | 2:28 | 2026-03-16 |  |
+| [Fresh Air](https://open.spotify.com/track/2MysoZkOGxCtx3ZFVmi6zN) | [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [Fresh Air](https://open.spotify.com/album/0K6cL3Fea7z1aT5YxrNwnl) | 2:28 | 2026-03-16 | 2026-03-31 |
 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
 | [From a Hill](https://open.spotify.com/track/4bvGaHgG1z0uLX5kItReO2) | [Azure Aura](https://open.spotify.com/artist/6mBfByzjieXdCvg1gTm0TR) | [From a Hill](https://open.spotify.com/album/1d9k3ldWgjuHRxOPO91zUA) | 2:33 | 2025-10-01 |  |
 | [Garden of Hope](https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Garden of Hope](https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc) | 2:56 | 2026-03-16 |  |
@@ -379,6 +379,7 @@
 | [Skyflow](https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skyflow](https://open.spotify.com/album/01rre0E5ZuPhFZ0v9FJ2ob) | 2:51 | 2025-02-10 |  |
 | [Slow Drifting](https://open.spotify.com/track/7kXKkgCB1u4mzXO2P9LsUP) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Slow Drifting](https://open.spotify.com/album/39V8Sj52MNmbsCViIj67gr) | 2:25 | 2025-12-18 |  |
 | [Slow Ripples](https://open.spotify.com/track/71unFIB5BbLJZP6gn7DCk9) | [Circular Motions](https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva) | [Slow Ripples](https://open.spotify.com/album/2Q7x6n0GMxNlP0OymMdRa7) | 2:58 | 2026-03-16 |  |
+| [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-03-16 |  |
 | [Slow Stream](https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Slow Stream](https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ) | 3:24 | 2025-04-01 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
 | [Softwood Mist](https://open.spotify.com/track/5529RBTOKi6pZwOHaSQCP4) | [Emerald Haze](https://open.spotify.com/artist/1ZAxYNJ7InAWRbooQVWtoD) | [Softwood Mist](https://open.spotify.com/album/2CZceCsGyB6BtWpgbKFH2Z) | 2:36 | 2026-03-06 |  |

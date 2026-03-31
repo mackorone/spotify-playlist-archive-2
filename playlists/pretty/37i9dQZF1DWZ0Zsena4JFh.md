@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > lo alt, raro y cool\. Death Cab For Cutie en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,628 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,597 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 11 | [Part Two](https://open.spotify.com/track/1kyg6jF7AdFrh7fHuhrZFt) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time \(20th Anniversary Edition\)](https://open.spotify.com/album/3Ed5gXhHQZGZDq3LurjY2l) | 4:33 |
 | 12 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 13 | [Let Me Down](https://open.spotify.com/track/6qcUVmXpxlRQSuoBpSAsk3) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Talking 2 Strangers](https://open.spotify.com/album/0lzOE47YC52cIvneKSr4h3) | 2:55 |
-| 14 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
+| 14 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 15 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 |
-| 16 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
+| 16 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
 | 17 | [Blue Morpho](https://open.spotify.com/track/2L2hSDvL4wvpjrSrYDGiIE) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Blue Morpho](https://open.spotify.com/album/4QeSrUhUIZRF5XZDt0MT5E) | 6:18 |
 | 18 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 19 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 46 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 47 | [Time Is A Bomb](https://open.spotify.com/track/2B2CwJ9ViewmNc6qDKTS3I) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Time Is A Bomb](https://open.spotify.com/album/6zPOrWyVY2e57qwUW1m7Si) | 4:24 |
 | 48 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 |
-| 49 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 |
-| 50 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 |
+| 49 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 |
+| 50 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 |
 
 Snapshot ID: `AAAAAMetV22IaNvP/wy62vs6GRSoxOUO`

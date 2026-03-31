@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song  🎧 cover: Suki Waterhouse<br/>📍Somewhere between indie, pop, folk and country
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,168 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,164 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

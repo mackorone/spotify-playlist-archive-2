@@ -1,6 +1,6 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 281019,
+  "num_followers": 281225,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
-      },
-      "artists": [
-        {
-          "name": "Dean Delaux",
-          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
-        }
-      ],
-      "duration_ms": 144845,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
         "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Minimalia",
-        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
       },
       "artists": [
         {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+          "name": "Dean Delaux",
+          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
         }
       ],
-      "duration_ms": 188731,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
+      "duration_ms": 144845,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -999,6 +983,22 @@
       "duration_ms": 303786,
       "name": "Healing Sounds (Nature Music)",
       "url": "https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Minimalia",
+        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/5fWtbghCtnvCD92Qdp1vWO"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Ragas Relax",
-        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
-      },
-      "artists": [
-        {
-          "name": "Chinmaya Dunster",
-          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
-        }
-      ],
-      "duration_ms": 399666,
-      "name": "Goddess Evocation",
-      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
-    },
-    {
       "added_at": "2023-06-27 05:36:24",
       "album": {
         "name": "Breathing In",
@@ -1475,6 +1459,22 @@
       "duration_ms": 150775,
       "name": "Breathing In",
       "url": "https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ragas Relax",
+        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
+      },
+      "artists": [
+        {
+          "name": "Chinmaya Dunster",
+          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
+        }
+      ],
+      "duration_ms": 399666,
+      "name": "Goddess Evocation",
+      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
     },
     {
       "added_at": "2021-06-15 08:38:14",

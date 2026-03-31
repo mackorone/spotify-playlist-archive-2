@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,786 likes - 149 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,898 likes - 149 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 58 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 59 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
 | 60 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
-| 61 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 |
-| 62 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 |
+| 61 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 |
+| 62 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 |
 | 63 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 |
 | 64 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
 | 65 | [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 114 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 115 | [Forever And A Day](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Forever And A Day](https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj) | 2:46 |
 | 116 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
-| 117 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 |
-| 118 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
+| 117 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
+| 118 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 |
 | 119 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
 | 120 | [Summer Air](https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi) | 3:03 |
 | 121 | [Lean On](https://open.spotify.com/track/4WxU1gDVmoH6gstgR0MT78) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/50Q4ewXTrb8txE3mOAnUn1) | 2:56 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 189484,
+  "num_followers": 189487,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACwHNuJcm7/eZPpASKae66I",
+  "snapshot_id": "achrgAAAAADZPD05cQcbjZYBz1j5Ga4b",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Livin' Is Easy (Live 1969)",
         "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 110984,
       "name": "Me - Live 1969",
       "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,

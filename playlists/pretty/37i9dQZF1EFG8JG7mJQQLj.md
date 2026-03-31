@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,899 likes - 502 songs - 1 day 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,905 likes - 502 songs - 1 day 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -417,8 +417,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 407 | [Alone \(From "Songland"\)](https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS) | [Josh Wood](https://open.spotify.com/artist/1HRIzEYLoNSJoKLjkQnUbe) | [Alone \(From "Songland"\)](https://open.spotify.com/album/6XdiKayoiuZEznkQyo57cv) | 2:29 |
 | 408 | [Something New \(From "Songland"\)](https://open.spotify.com/track/50Bj5QzuSCCVK5RQVTZ1lq) | [Ollie Gabriel](https://open.spotify.com/artist/4TNVwxe6cso3F2sGxA2KLG) | [Something New \(From "Songland"\)](https://open.spotify.com/album/1tg1aHD3MEqCdveJvJnlQm) | 3:37 |
 | 409 | [Enemy](https://open.spotify.com/track/0fC0DPtpNvrc3jQmLdPGIb) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream](https://open.spotify.com/album/5S0nZaBZCnu3bN5UjfjtmZ) | 4:35 |
-| 410 | [Better \- The Launch Season 2](https://open.spotify.com/track/6qAAv1B27xMGH9FYGvfI3H) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Better \(The Launch Season 2\)](https://open.spotify.com/album/43MrgZTpQo65Cst3QhxoOP) | 3:03 |
-| 411 | [Charleston](https://open.spotify.com/track/4rthQPbfPSFp6MtHlFYzKC) | [Eddie Cantor](https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L), [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Billy Jones](https://open.spotify.com/artist/6zjCA3n8DwVeTC5zwAQ4jT), [Vernon Dalhart](https://open.spotify.com/artist/1hnGjQYIeEHbqWKwh10Oz6), [Johnny Marvin](https://open.spotify.com/artist/1uMpnC5saduDB7LY5aRwgB), [Gene Austin](https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d) | [Making Eyes at Me](https://open.spotify.com/album/4murVJ5VID2AGGNJxtgvju) | 3:02 |
+| 410 | [Charleston](https://open.spotify.com/track/4rthQPbfPSFp6MtHlFYzKC) | [Eddie Cantor](https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L), [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Billy Jones](https://open.spotify.com/artist/6zjCA3n8DwVeTC5zwAQ4jT), [Vernon Dalhart](https://open.spotify.com/artist/1hnGjQYIeEHbqWKwh10Oz6), [Johnny Marvin](https://open.spotify.com/artist/1uMpnC5saduDB7LY5aRwgB), [Gene Austin](https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d) | [Making Eyes at Me](https://open.spotify.com/album/4murVJ5VID2AGGNJxtgvju) | 3:02 |
+| 411 | [Better \- The Launch Season 2](https://open.spotify.com/track/6qAAv1B27xMGH9FYGvfI3H) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Better \(The Launch Season 2\)](https://open.spotify.com/album/43MrgZTpQo65Cst3QhxoOP) | 3:03 |
 | 412 | [Heart Hypnotic \- Radio Edit](https://open.spotify.com/track/3tyGqGY2n3bkxAJ04YmE5X) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Heart Hypnotic \(Radio Edit\)](https://open.spotify.com/album/1dKfy495faODzqIuCL9Xdd) | 3:25 |
 | 413 | [Loner](https://open.spotify.com/track/6cSjhVv4TWmeTr3duuLBk3) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Time \(Spotify Exclusive\)](https://open.spotify.com/album/6ZM59O9R5zjawLVwCMD2zJ) | 4:04 |
 | 414 | [Do You Think Of Me? \(From "Songland"\)](https://open.spotify.com/track/3vYIHk7odRFC7VNGjvF61G) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf) | [Do You Think Of Me? \(From "Songland"\)](https://open.spotify.com/album/5wDKKvmNdFliTIglx6APzc) | 2:31 |
@@ -511,4 +511,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 501 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 502 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AcNdYAAAAADSDsuFTThXx8Oqwd0ddkT7`
+Snapshot ID: `AcNjFAAAAAAufg+XVaYQ2Y9QTINx4BSr`

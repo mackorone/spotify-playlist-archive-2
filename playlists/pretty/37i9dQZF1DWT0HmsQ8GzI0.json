@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Fran Palermo",
-  "num_followers": 16389,
+  "num_followers": 16390,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "TRANSFORMANIA",
+        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "duration_ms": 231948,
+      "name": "\u00c9n vagyok az aki nem j\u00f3",
+      "url": "https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "\u00c9n is f\u00e9lek",
         "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 182307,
       "name": "\u00c9n is f\u00e9lek",
       "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "TRANSFORMANIA",
-        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
-      },
-      "artists": [
-        {
-          "name": "Csinszka",
-          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
-        }
-      ],
-      "duration_ms": 231948,
-      "name": "\u00c9n vagyok az aki nem j\u00f3",
-      "url": "https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
+        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 179636,
+      "name": "k\u00f6z\u00f6ny",
+      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "LIQUORICE",
         "url": "https://open.spotify.com/album/2LlpJqTFPHAcUBNxC0rT1K"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 163124,
       "name": "LIQUORICE",
       "url": "https://open.spotify.com/track/6idjDMMV9TbJ1GdNLlvbn0"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
-        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 179636,
-      "name": "k\u00f6z\u00f6ny",
-      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "HAMU",
-        "url": "https://open.spotify.com/album/1i7qU8N1m5l9MOGyU5X0yW"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 214809,
-      "name": "HAMU",
-      "url": "https://open.spotify.com/track/4UINS170JG1vNJIZSBNSku"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Takarj el",
         "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 273362,
       "name": "Takarj el",
       "url": "https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "HAMU",
+        "url": "https://open.spotify.com/album/1i7qU8N1m5l9MOGyU5X0yW"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 214809,
+      "name": "HAMU",
+      "url": "https://open.spotify.com/track/4UINS170JG1vNJIZSBNSku"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "B\u00e1natszalonna",
-        "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 182827,
-      "name": "B\u00e1natszalonna",
-      "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Porcel\u00e1n",
         "url": "https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 240000,
       "name": "Porcel\u00e1n",
       "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "B\u00e1natszalonna",
+        "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 182827,
+      "name": "B\u00e1natszalonna",
+      "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
     },
     {
       "added_at": "2026-03-12 23:00:51",

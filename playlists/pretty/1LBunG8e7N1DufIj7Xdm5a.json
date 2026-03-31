@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIGf2JzLxTFvupBJh1TRO0FqKOiSwI",
+  "snapshot_id": "AAAIGnRvs6JST3d+FqWXljJlJuK9frRT",
   "tracks": [
+    {
+      "added_at": "2026-03-30 10:29:01",
+      "album": {
+        "name": "Midnite Blessing",
+        "url": "https://open.spotify.com/album/2Lqo9xToF8Ft5afvPgbR93"
+      },
+      "artists": [
+        {
+          "name": "Indiana Jim",
+          "url": "https://open.spotify.com/artist/2QE57sqgXg61PmxVAnBma8"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Midnite Blessing",
+      "url": "https://open.spotify.com/track/1pykCOk2rzcOsjl8mPdZbd"
+    },
     {
       "added_at": "2026-03-26 15:39:41",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,719 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 39 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
 | 40 | [Girls Gone Wild](https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Girls Gone Wild](https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r) | 2:22 |
 | 41 | [Square One](https://open.spotify.com/track/0U6wtwuY9V5qWqnAXz90Y4) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 3:09 |
-| 42 | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz) | 2:41 |
-| 43 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
+| 42 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
+| 43 | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz) | 2:41 |
 | 44 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 45 | [Black Brick](https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Black Brick](https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq) | 7:27 |
 | 46 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 58 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
 | 59 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
 | 60 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
-| 61 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
-| 62 | [Make It Out Alive](https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw) | [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK), [Man Ov God](https://open.spotify.com/artist/5IoAhDxIVxXuhZWd1GchB9) | [Make It Out Alive](https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K) | 3:22 |
+| 61 | [Make It Out Alive](https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw) | [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK), [Man Ov God](https://open.spotify.com/artist/5IoAhDxIVxXuhZWd1GchB9) | [Make It Out Alive](https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K) | 3:22 |
+| 62 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 63 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 64 | [Fuck What You Heard](https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Fuck What You Heard](https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI) | 3:17 |
 | 65 | [Animal](https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Animal](https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44) | 3:59 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 67 | [Bloom](https://open.spotify.com/track/1H2zKaQx4lFhfNtbYATw4k) | [Ice Sealed Eyes](https://open.spotify.com/artist/0eVDo1w1SoyNP0xswwFYi7), [FreeHowling](https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG) | [Bloom](https://open.spotify.com/album/1aia6LRXEcNJKbGUMBfVgE) | 3:48 |
 | 68 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
 | 69 | [MEOW](https://open.spotify.com/track/7281czVHZ4ETc5yz4AYf09) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [MEOW](https://open.spotify.com/album/2K6lSKr0ZfEUU0mrJuwcGQ) | 3:12 |
-| 70 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
-| 71 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
+| 70 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
+| 71 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
 | 72 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
 | 73 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
 | 74 | [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 95 | [Lifers](https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG) | [Culted](https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F) | [Lifers](https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB) | 4:58 |
 | 96 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
 | 97 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
-| 98 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
-| 99 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
-| 100 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
+| 98 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
+| 99 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
+| 100 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
 
 Snapshot ID: `AAAAAA7LpaPwwBJHg51Gmx5uWSC+5BB7`

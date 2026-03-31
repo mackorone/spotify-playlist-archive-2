@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 593 likes - 74 songs - 4 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 594 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 72 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 |
 | 73 | [The Architect](https://open.spotify.com/track/1hPg5pGa9OpduItQzRW0eM) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:25 |
 | 74 | [X88B88](https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [X88B88](https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo) | 2:56 |
+| 75 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 |
 
-Snapshot ID: `AAADKDQrZ1hrl6M2yoQLv+wj6cFicRr6`
+Snapshot ID: `AAADKf33eOurzo/aMsuDFpTmLZ9H2/VP`

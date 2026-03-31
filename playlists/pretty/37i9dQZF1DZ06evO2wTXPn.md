@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,849 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,846 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 31 | [la vida viene y va](https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI) | 3:35 |
 | 32 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 |
 | 33 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 |
-| 34 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
-| 35 | [YA VA A VENIR](https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:24 |
+| 34 | [YA VA A VENIR](https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:24 |
+| 35 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
 | 36 | [Un Pedacito de Ti](https://open.spotify.com/track/65rNTveNX91Df29bbplB09) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ) | 2:55 |
 | 37 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 |
 | 38 | [Prometo](https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 3:20 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 42 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
 | 43 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida \(Deluxe\)](https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH) | 2:53 |
 | 44 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
-| 45 | [A Un Minuto](https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:04 |
-| 46 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
+| 45 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
+| 46 | [A Un Minuto](https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:04 |
 | 47 | [Jodido Sin Ti](https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Jodido Sin Ti](https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U) | 2:45 |
 | 48 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 |
-| 49 | [Volver A Verte](https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:28 |
-| 50 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
+| 49 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
+| 50 | [Volver A Verte](https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:28 |
 
-Snapshot ID: `accaAAAAAADgig8TsH/M6vbCqdEDKo1N`
+Snapshot ID: `achrgAAAAADMDx0Nn3FGQYkmPNCTM/cP`

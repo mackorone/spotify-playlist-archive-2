@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,401 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,413 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 90 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 |
 | 91 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 |
 | 92 | [Tú](https://open.spotify.com/track/7e6vvTnOICR7sY6MKkmh20) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Tú](https://open.spotify.com/album/0CFy2tIg0L4rGxZ5NbgtFe) | 3:44 |
-| 93 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
-| 94 | [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 |
+| 93 | [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 |
+| 94 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
 | 95 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
 | 96 | [Ya ni mis amigos me contestan](https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Ya ni mis amigos me contestan](https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b) | 3:15 |
 | 97 | [Mi Día](https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Mi Día](https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7) | 3:33 |

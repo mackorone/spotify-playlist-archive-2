@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 24337,
+  "num_followers": 24345,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Lay Wit Ya (feat. Duke Deuce)",
         "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "We Win (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
     },
     {
       "added_at": "2022-10-01 16:00:00",

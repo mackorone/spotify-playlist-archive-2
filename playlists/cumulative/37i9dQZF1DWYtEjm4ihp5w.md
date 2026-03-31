@@ -4,7 +4,7 @@
 
 > Cover: Inkonnu
 
-492 songs - 1 day 1 hr 41 min
+495 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [CALLE](https://open.spotify.com/track/5UpwX7ibkJrMJjBzK3Odya) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [CALLE](https://open.spotify.com/album/5NlqSqAiywEFNcRioOAhqU) | 4:15 | 2023-08-05 | 2023-08-24 |
 | [Camarade](https://open.spotify.com/track/7y9xAKHxH4dHxmF1XKRtRe) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Camarade](https://open.spotify.com/album/1JKkwn8aDnHWVtXnFQGaKy) | 2:34 | 2024-12-21 | 2025-02-04 |
 | [CAPABLE](https://open.spotify.com/track/7CSLJOKj4LuDlBMYArB2x1) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [CAPABLE](https://open.spotify.com/album/2u3CFLaBj7EKD5EoKvh875) | 2:46 | 2025-12-29 |  |
-| [Capitaine](https://open.spotify.com/track/33wWROHqj5ffAYKq7rzFDM) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Therapy](https://open.spotify.com/album/7lpHxatfVtKuYAvxYdzeUZ) | 2:46 | 2025-09-17 |  |
+| [Capitaine](https://open.spotify.com/track/33wWROHqj5ffAYKq7rzFDM) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Therapy](https://open.spotify.com/album/7lpHxatfVtKuYAvxYdzeUZ) | 2:46 | 2025-09-17 | 2026-03-31 |
 | [Casablanca](https://open.spotify.com/track/5rXsQFfmIDaUtRpyoPpxLM) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Casablanca](https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr) | 3:13 | 2022-11-14 | 2023-02-07 |
 | [Casadream](https://open.spotify.com/track/1o7QXcVqkza8Ssml6vbme0) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casadream](https://open.spotify.com/album/1ImQKybUH6thgYXNxKkxWV) | 4:15 | 2025-09-24 | 2025-11-22 |
 | [Chabiba](https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [Chabiba](https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn) | 2:28 | 2023-10-26 | 2023-11-16 |
@@ -123,6 +123,7 @@
 | [Denbi Ana](https://open.spotify.com/track/7nPSqRB6nc9sf5cqSTJKzx) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Denbi Ana](https://open.spotify.com/album/6aQ0rQWbW94FLbCui79SfB) | 2:09 | 2023-08-19 | 2024-07-23 |
 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 | 2026-02-28 |  |
 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 | 2022-11-28 | 2023-10-27 |
+| [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 | 2026-03-30 |  |
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-10 | 2023-05-21 |
 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-10-23 | 2025-04-26 |
 | [DIPLOMATICO](https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:16 | 2025-08-28 | 2025-12-19 |
@@ -231,7 +232,7 @@
 | [KIYA](https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [KIYA](https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW) | 3:18 | 2025-12-15 |  |
 | [Kola Lila](https://open.spotify.com/track/2VqhFDBSEwU19GdTWs4Ehf) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Kola Lila](https://open.spotify.com/album/0b43XR2Qo0YHr0SjPCDy5S) | 3:27 | 2025-05-15 | 2025-07-17 |
 | [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-03 | 2025-08-08 |
-| [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-06-27 |  |
+| [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-06-27 | 2026-03-31 |
 | [Koulchi Dial Alah](https://open.spotify.com/track/3JKgfoiKyBdxF2sw2lPNUH) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Koulchi Dial Allah](https://open.spotify.com/album/2ot0LJmlCgjB8ml3oFK6OL) | 2:57 | 2025-07-16 | 2026-02-11 |
 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 | 2022-11-25 | 2023-02-14 |
 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 | 2025-07-14 |  |
@@ -271,10 +272,12 @@
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-13 | 2023-10-27 |
 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 | 2024-07-12 | 2024-11-18 |
 | [Ma Mère](https://open.spotify.com/track/7olBJXnUt6te4YGhDd8OPW) | [Lemhllwess](https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Ma Mère](https://open.spotify.com/album/2O9O6EeyowClx0t4uRpYLh) | 3:07 | 2024-03-08 | 2024-06-23 |
-| [Mab9ach](https://open.spotify.com/track/7lQ1yvzd4Cxxmo3ORpT99C) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Mab9ach](https://open.spotify.com/album/7bn1o0H5SCp0hqlGPwzXzN) | 2:27 | 2026-01-31 |  |
+| [MA VIDA](https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [MA VIDA](https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9) | 3:21 | 2026-03-30 |  |
+| [Mab9ach](https://open.spotify.com/track/7lQ1yvzd4Cxxmo3ORpT99C) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Mab9ach](https://open.spotify.com/album/7bn1o0H5SCp0hqlGPwzXzN) | 2:27 | 2026-01-31 | 2026-03-31 |
 | [MACHAKIL](https://open.spotify.com/track/2PFX4PymQztndGtLbVADWG) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [MACHAKIL](https://open.spotify.com/album/67myjm0ApsCdgyBAiVFQ1x) | 2:27 | 2022-11-17 | 2023-05-09 |
 | [MACHI HAKA](https://open.spotify.com/track/46vZZCyBcvlABmEF57PLBc) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:22 | 2025-11-24 | 2026-01-26 |
 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 | 2024-01-11 | 2025-01-21 |
+| [Machi M3ana](https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Machi M3ana](https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx) | 2:33 | 2026-03-30 |  |
 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2024-05-17 | 2024-09-02 |
 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 | 2024-09-17 | 2024-11-29 |
 | [Makareb](https://open.spotify.com/track/0y6YPIv8y7m9zhxCwtonlo) | [Skizo Beats](https://open.spotify.com/artist/59HL7kLWCoAxxnS4jzRDnr), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Ante Bellum](https://open.spotify.com/album/16A58ezcKCnbwpebx6sCxc) | 3:28 | 2024-02-23 | 2024-04-16 |

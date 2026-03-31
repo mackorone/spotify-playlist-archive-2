@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,258 likes - 21 songs - 1 hr 29 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,260 likes - 22 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 19 | [Mother Of Pearl](https://open.spotify.com/track/3UYbX558Zg0bte6PlOWw3v) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [The Museum Of Imaginary Animals](https://open.spotify.com/album/39KtuXAPlbb1O88ozEyTZS) | 5:09 |
 | 20 | [Push Ups](https://open.spotify.com/track/0TYAYDR79QLLNWW95fPXSh) | [Natasha Sandworms](https://open.spotify.com/artist/4CCbEgPF1jwGjIyTGNP2ba) | [No Magic](https://open.spotify.com/album/1AUJCbAlbRugB3hAo5fzHt) | 5:12 |
 | 21 | [Pick up the Phone](https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:55 |
+| 22 | [Off the Rail](https://open.spotify.com/track/1pLQ2Wwyd9DlyFWkki5HHX) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:27 |
 
-Snapshot ID: `AAAODb0YDT++wZUeH2PuubvLTeDlMOE9`
+Snapshot ID: `AAAODuLpMM3q2CoUKuN2HprOYh/EVoG8`

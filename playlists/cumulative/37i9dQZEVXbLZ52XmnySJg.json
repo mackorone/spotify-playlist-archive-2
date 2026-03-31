@@ -5829,6 +5829,32 @@
     },
     {
       "album": {
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Da Future",
+          "url": "https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR"
+        },
+        {
+          "name": "Virk Andaaz",
+          "url": "https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110125,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
+    },
+    {
+      "album": {
         "name": "Tere Ishk Mein",
         "url": "https://open.spotify.com/album/3U6JvK5ij3bbhBmdotoNJ1"
       },
@@ -10172,7 +10198,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 208169,
       "name": "Hum Pyaar Karne Wale",
       "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
@@ -25876,7 +25902,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -25906,7 +25932,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -26308,7 +26334,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -26334,7 +26360,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"

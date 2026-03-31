@@ -1313,6 +1313,28 @@
     },
     {
       "album": {
+        "name": "Ifesinachi",
+        "url": "https://open.spotify.com/album/3iaMOteznpPvHMCBVUxxF5"
+      },
+      "artists": [
+        {
+          "name": "Jumabee",
+          "url": "https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Ifesinachi",
+      "url": "https://open.spotify.com/track/07MthdskQl9A0yxbNuIBzu"
+    },
+    {
+      "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABQ8Ge3biuTajfgvpTx7Gwu",
+  "snapshot_id": "achrgAAAAACmJ+lezwVhkBiDF2u27Wyd",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         }
       ],
-      "duration_ms": 296053,
-      "name": "Jesus At The Center (Bonus Track) - Acoustic",
-      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+      "duration_ms": 296053,
+      "name": "Jesus At The Center (Bonus Track) - Acoustic",
+      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
     },
     {
       "added_at": null,

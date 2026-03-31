@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Central Cee, Yeat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,841 likes - 59 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,932 likes - 59 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 30 | [Mad About Merseyside, Pt.1](https://open.spotify.com/track/3cMSxrjblWVvAMGNVaEAf0) | [4.4c](https://open.spotify.com/artist/6FrW0pQ9mi0A3B5UGP9nrd), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Merseyside](https://open.spotify.com/album/2zwnpgLQX3sCTu6VHwfSiE) | 2:56 |
 | 31 | [AYE](https://open.spotify.com/track/1pv2Yw2RN9ET9GZFFaHIWL) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [AYE](https://open.spotify.com/album/1OYr2wjX9Ev82084V2mpAf) | 2:36 |
 | 32 | [Million Dollar Mansion](https://open.spotify.com/track/4tRcgIJZ7fWSrDFERW9ZBa) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Million Dollar Mansion / Promoting Violence](https://open.spotify.com/album/4vZJCYey33bwoVukpOVWiO) | 2:13 |
-| 33 | [Mayweather](https://open.spotify.com/track/2F6WFMeVBBZZlwg6ZjIkeH) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK), [FRVR INTL.](https://open.spotify.com/artist/0NenVxc39qo53ebeCZMBOm) | [Mayweather](https://open.spotify.com/album/5o43BjpfhkCCe608zZwUnj) | 2:20 |
+| 33 | [Mayweather](https://open.spotify.com/track/2F6WFMeVBBZZlwg6ZjIkeH) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK) | [Mayweather](https://open.spotify.com/album/5o43BjpfhkCCe608zZwUnj) | 2:20 |
 | 34 | [OUR OWN TIME](https://open.spotify.com/track/06af40NvLxqt47hkf1BGzY) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [JADA](https://open.spotify.com/artist/0Xljt7s05h7xt9edRtZLmx), [S14H](https://open.spotify.com/artist/1oeCKtSTQzEUklVw3VmGkC) | [OUR OWN TIME](https://open.spotify.com/album/2jtPhMmbkLywBGaeDNwPsF) | 1:48 |
 | 35 | [Never Change](https://open.spotify.com/track/5B3Q7otESAwf2ZFZ2SIz5W) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Trent Shelton](https://open.spotify.com/artist/0TFOpHVjYqotplA5rEQ48a) | [Never Change](https://open.spotify.com/album/2sGj6UCPfypqtzzjF21HWl) | 4:30 |
 | 36 | [The Neighborhood](https://open.spotify.com/track/6ZZTvL1oeVNhMPoX2BKZ1b) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Neighborhood](https://open.spotify.com/album/0uGynnzhlGs0JBNkhajVI4) | 3:28 |

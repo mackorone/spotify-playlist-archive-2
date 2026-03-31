@@ -4,7 +4,7 @@
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 13 min
+126 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,8 @@
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 | 2022-11-26 | 2023-07-26 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2022-01-12 | 2022-11-27 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/4Smx7N3TVs9McglUSCWEYn) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Dr\. Luke](https://open.spotify.com/artist/3qk8IBcwEDBKBdExVhSLIb), [Cirkut](https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv), [Dream Machine](https://open.spotify.com/artist/1RXCSRl9JrHXl7cSGebdWG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:58 | 2022-05-25 | 2022-05-27 |
-| [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 | 2026-03-29 |  |
-| [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 | 2022-01-12 | 2024-12-23 |
+| [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 | 2026-03-29 | 2026-03-31 |
+| [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 | 2022-01-12 |  |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-11 |  |
 | [Lost](https://open.spotify.com/track/3YHr20DraO9onR5iadROdA) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys \(15th Anniversary Edition\)](https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0) | 4:15 | 2024-05-22 | 2024-06-10 |
 | [Love Me](https://open.spotify.com/track/2BSFAQuiYKu4VcMjovRgRQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:52 | 2022-05-21 | 2024-07-24 |
@@ -104,7 +104,7 @@
 | [Spiritual](https://open.spotify.com/track/6lOS1dPkjHlAzRCMplJupN) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:35 | 2022-03-09 | 2022-03-11 |
 | [STARSTRUKK \(feat\. Katy Perry\)](https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [WANT \(Deluxe\)](https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN) | 3:22 | 2022-01-12 |  |
 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 | 2022-01-12 |  |
-| [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 | 2022-01-27 |  |
+| [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 | 2022-01-27 | 2026-03-31 |
 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 | 2022-11-25 | 2023-07-22 |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-02-20 |  |
 | [Teenage Dream](https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2022-01-12 | 2022-01-29 |
@@ -115,6 +115,7 @@
 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2023-08-13 | 2023-12-22 |
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2022-03-06 | 2025-11-22 |
 | [Thinking Of You](https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8) | 4:06 | 2022-01-12 |  |
+| [Thinking Of You \- Acoustic Version](https://open.spotify.com/track/6Xrw10Wcr1PmLXHvJkTxFO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking Of You](https://open.spotify.com/album/10yPrx37K92cz5vrWBR9gA) | 4:51 | 2026-03-31 |  |
 | [This Is How We Do](https://open.spotify.com/track/5vL0yvddknhGj7IrBc6UTj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:24 | 2022-01-12 | 2023-02-03 |
 | [This Is How We Do](https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:24 | 2023-02-02 |  |
 | [This Moment](https://open.spotify.com/track/0NfwNHAyi4s9HVes4JkaXA) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:46 | 2024-06-28 | 2024-07-21 |

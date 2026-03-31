@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 18 | [Come Down When You're Ready](https://open.spotify.com/track/78j4KQrXCx87awJOSFGHnr) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Come Down When You're Ready](https://open.spotify.com/album/1XaCrNZW12toGk7bpCYAsS) | 4:11 |
 | 19 | [Not the Only One](https://open.spotify.com/track/17AnW24hC6ZU6P8VQwElH9) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:46 |
 | 20 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/43dRlKQJNxYVY8Sa2XiQNx) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 3:29 |
-| 21 | [Don't Wait Forever](https://open.spotify.com/track/3EoQSIQ91sDN2gYIcPXa5b) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:28 |
-| 22 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 |
+| 21 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 |
+| 22 | [Don't Wait Forever](https://open.spotify.com/track/3EoQSIQ91sDN2gYIcPXa5b) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:28 |
 | 23 | [Vueltas](https://open.spotify.com/track/4zMbUp4WDZxVeEeBpdgtH4) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
 | 24 | [My Turn](https://open.spotify.com/track/0HrsOXHxl421JdkscJY1mE) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:59 |
 | 25 | [Keep Running](https://open.spotify.com/track/1iEW4lIeD5IuGDo9zP9lHW) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:19 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 89 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 |
 | 90 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 |
 | 91 | [Justify](https://open.spotify.com/track/43iP1mpb3RHifrt8sHGKi4) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:04 |
-| 92 | [woozy](https://open.spotify.com/track/2OJpoFLYK2ZZdxbZX7t7ul) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw) | [fka kyko EP](https://open.spotify.com/album/08Uz0ACnlwb9o4cdy6ylyN) | 2:51 |
-| 93 | [ultimatejutsu\_1644.wav](https://open.spotify.com/track/1tuXIa2dInm5AE4Prxyhbi) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ultimate jutsu](https://open.spotify.com/album/2K6f6oH8L3oKQlObx3Huds) | 2:49 |
+| 92 | [ultimatejutsu\_1644.wav](https://open.spotify.com/track/1tuXIa2dInm5AE4Prxyhbi) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ultimate jutsu](https://open.spotify.com/album/2K6f6oH8L3oKQlObx3Huds) | 2:49 |
+| 93 | [woozy](https://open.spotify.com/track/2OJpoFLYK2ZZdxbZX7t7ul) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw) | [fka kyko EP](https://open.spotify.com/album/08Uz0ACnlwb9o4cdy6ylyN) | 2:51 |
 | 94 | [Tokyo](https://open.spotify.com/track/0sKPeFueWGKbLDxd6DkTzu) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Tokyo](https://open.spotify.com/album/53HIhnB6r9p1JUh6fTY4J5) | 4:13 |
 | 95 | [Como Si](https://open.spotify.com/track/593prmaxSVWSGOx0UJwMcU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:23 |
 | 96 | [Apeshit \(Interlude\)](https://open.spotify.com/track/13AWCMQDdpXPAysb5ZuHkS) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 1:28 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 279 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 280 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcNdYAAAAADRh5GAtSvP1MdUfgeJKz2O`
+Snapshot ID: `AcNjFAAAAADpdZTMv5noKdDHBwt0Ga2l`

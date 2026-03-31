@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Zoë Livay \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a><br/>\-artiest\)
 
-479 songs - 1 day 0 hr 23 min
+480 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-02-02 | 2024-07-05 |
 | [Kwijt](https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Kwijt](https://open.spotify.com/album/3HdzIBLsdVX4RTuA4zxumb) | 3:15 | 2023-02-24 | 2023-09-29 |
 | [La Pression](https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [La Pression](https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX) | 2:41 | 2024-11-12 | 2025-03-13 |
+| [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-03-30 |  |
 | [Laat Me \- Live](https://open.spotify.com/track/0Li2DcD86qAHxpY4BLQzLV) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Laat Me \(Live\)](https://open.spotify.com/album/4pzEUoFwxJz9PLxdJOE1Tu) | 2:36 | 2025-04-17 |  |
 | [Laat Me Er Langs](https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Laat Me Er Langs](https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H) | 2:31 | 2025-02-27 | 2025-05-27 |
 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 | 2023-02-24 | 2024-02-14 |
@@ -302,7 +303,7 @@
 | [Morning](https://open.spotify.com/track/4VQ9pA1QmZW8pdR5T0AB3R) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Morning](https://open.spotify.com/album/4sHcIgIww30W4pqcm9PEKi) | 2:57 | 2025-09-25 | 2026-02-19 |
 | [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 | 2025-08-04 |  |
 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 | 2026-02-12 |  |
-| [Muziek](https://open.spotify.com/track/7vlevLM94u3K5zTI3aEOLX) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Muziek](https://open.spotify.com/album/4oIvuFaHvK30SRN9zuGWN9) | 2:08 | 2025-07-14 |  |
+| [Muziek](https://open.spotify.com/track/7vlevLM94u3K5zTI3aEOLX) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Muziek](https://open.spotify.com/album/4oIvuFaHvK30SRN9zuGWN9) | 2:08 | 2025-07-14 | 2026-03-31 |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-03-19 | 2025-04-26 |
 | [Más Más Más](https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Más Más Más](https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM) | 2:34 | 2023-02-24 | 2024-10-04 |
 | [Naar De Maan](https://open.spotify.com/track/7aDHKwBUUx7dmuuyCQygD4) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Naar De Maan](https://open.spotify.com/album/62JUsleEG1qBdO9TxdpSDN) | 3:08 | 2023-02-24 | 2023-05-16 |

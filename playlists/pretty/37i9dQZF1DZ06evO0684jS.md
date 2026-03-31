@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,961 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,952 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Throw Sum Mo](https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 4:20 |
 | 50 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
 
-Snapshot ID: `accaAAAAAAA75+qHFRxUHT6UcEqSjx/M`
+Snapshot ID: `achrgAAAAAB1PfCufGp93W5X0uhhkK6O`

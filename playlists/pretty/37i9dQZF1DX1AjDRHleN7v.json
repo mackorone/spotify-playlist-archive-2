@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 418554,
+  "num_followers": 418614,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
+        "name": "Origem",
+        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 153165,
+      "name": "Vestido De Seda",
+      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 193205,
       "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
       "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
-        "name": "Origem",
-        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 153165,
-      "name": "Vestido De Seda",
-      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -199,26 +199,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "Oh! Chuva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 194771,
-      "name": "Oh! Chuva - Ao Vivo",
-      "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Rindo \u00c0 Toa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
       },
@@ -239,18 +219,22 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "OCANV (Cap. I)",
-        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
+        "name": "Oh! Chuva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
       },
       "artists": [
         {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Onde Existe Amor",
-      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
+      "duration_ms": 194771,
+      "name": "Oh! Chuva - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -271,6 +255,22 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "OCANV (Cap. I)",
+        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Onde Existe Amor",
+      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 168637,
       "name": "Encantos Mil",
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "Linhas De Cerol",
-        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Um Sonho Na Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Meu Jeito de Ser",
         "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 176470,
       "name": "Meu Jeito de Ser",
       "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "Linhas De Cerol",
+        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Um Sonho Na Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
+        "name": "Quando Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/5Okvk2S1pgegfoN0I2rJaP"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 175489,
+      "name": "Quando Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/3aq2j6kWDpS46LGABJUrOk"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
         "name": "Saquarema (Remix)",
         "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "Quando Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/5Okvk2S1pgegfoN0I2rJaP"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 175489,
-      "name": "Quando Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/3aq2j6kWDpS46LGABJUrOk"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 170608,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 198340,
+      "name": "S\u00f3 Pra Brilhar",
+      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 198340,
-      "name": "S\u00f3 Pra Brilhar",
-      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Agarradinho - Spotify Singles",
         "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
         "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 249864,
       "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
       "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2026-03-27 15:41:14",

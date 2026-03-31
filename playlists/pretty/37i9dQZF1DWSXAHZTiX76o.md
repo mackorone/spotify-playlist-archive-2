@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Cazzu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,913 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,889 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 25 | [iGO](https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:13 |
 | 26 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |
 | 27 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
-| 28 | [Tengo Un Pensamiento](https://open.spotify.com/track/1PrL6L3z5m4QfQpZJhe5d1) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Si Abro Los Ojos No Es Real](https://open.spotify.com/album/5hdd9BcMltcCZpAgcjXtCT) | 2:45 |
-| 29 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
+| 28 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
+| 29 | [Tengo Un Pensamiento](https://open.spotify.com/track/1PrL6L3z5m4QfQpZJhe5d1) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Si Abro Los Ojos No Es Real](https://open.spotify.com/album/5hdd9BcMltcCZpAgcjXtCT) | 2:45 |
 | 30 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 |
 | 31 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 |
 | 32 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 36 | [Harém](https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:41 |
 | 37 | [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 |
 | 38 | [69](https://open.spotify.com/track/3V7jJJq960AvmVLHffYZ9u) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [El Secreto](https://open.spotify.com/album/4NJFWpVWPgPvrciytpxOvr) | 3:24 |
-| 39 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
-| 40 | [Luna de Miel](https://open.spotify.com/track/1YkHOy8RzoHfYAPvu9ccxh) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:38 |
+| 39 | [Luna de Miel](https://open.spotify.com/track/1YkHOy8RzoHfYAPvu9ccxh) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:38 |
+| 40 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 | 41 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 42 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
 | 43 | [você vai gostar](https://open.spotify.com/track/4NONYT8T6OK8hjO46EnajI) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [esse delírio vol.1](https://open.spotify.com/album/6AUcLdJaoXmK6OSCS0RCwi) | 3:24 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 48 | [desahogo](https://open.spotify.com/track/2aUri2vJaCT1qEEUAUtavg) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:09 |
 | 49 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 50 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
-| 51 | [Locura Automática](https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Osa Mayor](https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc) | 3:47 |
-| 52 | [dejarte ir](https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [dejarte ir](https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI) | 3:17 |
+| 51 | [dejarte ir](https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [dejarte ir](https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI) | 3:17 |
+| 52 | [Locura Automática](https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Osa Mayor](https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc) | 3:47 |
 | 53 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 54 | [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 |
 | 55 | [Yo Juraré](https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ), [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Yo Juraré](https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS) | 2:55 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 57 | [Azul](https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Azul](https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH) | 3:22 |
 | 58 | [Miraíta \- Rumba, Libertad](https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5) | [María Terremoto](https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd) | [Manifiesto](https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o) | 3:26 |
 | 59 | [QUÉ IMPORTA](https://open.spotify.com/track/6GFsfZc0hFNthskN5d5FDs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:51 |
-| 60 | [Porquería](https://open.spotify.com/track/4zUjrwurtASSlrtMQJFvO6) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 2:40 |
+| 60 | [Mi Rehén](https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1) | [Carmen Goett](https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf) | [MEXICANA VOL\. 2](https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4) | 3:15 |
 
 Snapshot ID: `AAAAADxnjlYct93CQ8dnKtMFuVn5735M`

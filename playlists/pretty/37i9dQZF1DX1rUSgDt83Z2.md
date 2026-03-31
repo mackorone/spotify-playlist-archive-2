@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,556 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,571 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 14 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
 | 15 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
 | 16 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
-| 17 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
-| 18 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
+| 17 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
+| 18 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
 | 19 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
 | 20 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
 | 21 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 40 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
 | 41 | [Alleen Maar Jou](https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Alleen Maar Jou](https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0) | 3:13 |
 | 42 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 |
-| 43 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
-| 44 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
-| 45 | [Plus 1](https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Plus 1](https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE) | 3:03 |
+| 43 | [Plus 1](https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Plus 1](https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE) | 3:03 |
+| 44 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
+| 45 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
 | 46 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 |
 | 47 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
 | 48 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 |

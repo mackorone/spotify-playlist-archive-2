@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7249,
+  "num_followers": 7251,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAD3bBInIbCaUaCbKLxbY1Yu",
+  "snapshot_id": "achrgAAAAAA36qCCMwGh8qhX/zCrtg7z",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Boom, Boom Out Goes The Light",
-      "url": "https://open.spotify.com/track/2h3bo2yMQ3EgZWCez9Fm4x"
+      "duration_ms": 182840,
+      "name": "Blue Midnight - Alternate Take",
+      "url": "https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 368706,
       "name": "I Just Want To Make Love To You",
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "One More Chance With You",
-      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 341560,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "I Got To Go",
+      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "I Got To Go",
-      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 250800,
       "name": "You Don't Love Me",
       "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "One More Chance With You",
+      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Mean Old Frisco",
-      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 254506,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Mean Old Frisco",
+      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
     },
     {
       "added_at": null,

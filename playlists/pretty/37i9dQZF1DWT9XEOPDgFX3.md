@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,263 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,272 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 83 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
 | 84 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
 | 85 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
-| 86 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
-| 87 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
-| 88 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
+| 86 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
+| 87 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
+| 88 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 89 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
 | 90 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
 | 91 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 |
@@ -109,29 +109,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 99 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 100 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 |
 | 101 | [I'm In Love](https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [I'm In Love](https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7) | 3:22 |
-| 102 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
-| 103 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
+| 102 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
+| 103 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 | 104 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 105 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 |
 | 106 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
-| 107 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 |
-| 108 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 |
+| 107 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 |
+| 108 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 |
 | 109 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
 | 110 | [Thompson's Station](https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Thompson's Station](https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV) | 3:24 |
 | 111 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 |
 | 112 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [Farmer's Son](https://open.spotify.com/artist/4NI6mNXHm6QG2NcYRinMXV) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 |
 | 113 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 |
-| 114 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
-| 115 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
+| 114 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
+| 115 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
 | 116 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 |
 | 117 | [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 |
 | 118 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
 | 119 | [Can I Trust You](https://open.spotify.com/track/4T2pumcxU0Kx8PEsP3bXlJ) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Can I Trust You](https://open.spotify.com/album/6vxHdBdkoZgnjGBqXZuulZ) | 3:21 |
-| 120 | [if it’s not with you](https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT \(Deluxe\)](https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc) | 2:33 |
-| 121 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
+| 120 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
+| 121 | [if it’s not with you](https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT \(Deluxe\)](https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc) | 2:33 |
 | 122 | [Crybaby](https://open.spotify.com/track/1Fe51DbsaZeTmLxqnp7eYf) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Crybaby](https://open.spotify.com/album/2zMU4HPuaNTBpWscm9PsXy) | 3:45 |
 | 123 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
-| 124 | [come on, baby! be a good girl for the camera](https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [come on, baby! be a good girl for the camera](https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7) | 4:09 |
-| 125 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
+| 124 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
+| 125 | [come on, baby! be a good girl for the camera](https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [come on, baby! be a good girl for the camera](https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7) | 4:09 |
 
 Snapshot ID: `AAAAAPtCmZvLhVTSHfkm0rpyFN/Su0JW`

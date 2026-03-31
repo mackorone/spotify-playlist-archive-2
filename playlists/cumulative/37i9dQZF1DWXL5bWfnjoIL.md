@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXL5bWfnjoIL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXL5bWfnjoIL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXL5bWfnjoIL)
 
-### [ちびまる子ちゃん  CHIBI MARUKO CHAN](https://open.spotify.com/playlist/37i9dQZF1DWXL5bWfnjoIL)
+### [CHIBI MARUKO CHAN](https://open.spotify.com/playlist/37i9dQZF1DWXL5bWfnjoIL)
 
-> Enjoy music from "CHIBI MARUKO CHAN"! アニメ「ちびまる子ちゃん」でお馴染みの楽曲をプレイリストで。© さくらプロダクション / 日本アニメーション
+> Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
 23 songs - 1 hr 21 min
 

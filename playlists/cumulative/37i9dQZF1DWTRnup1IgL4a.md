@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-328 songs - 14 hr 2 min
+332 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 | 2024-10-15 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2021-12-09 | 2024-04-05 |
 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 | 2024-12-17 |  |
+| [Before The Water Rises](https://open.spotify.com/track/6Vlo05BBMttzQbfbvFReKa) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Before The Water Rises](https://open.spotify.com/album/0DbT5d0jg9rFr3w9yNuEuK) | 2:19 | 2026-03-30 |  |
 | [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 | 2025-03-05 | 2025-06-17 |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
 | [Beyond the Blue](https://open.spotify.com/track/2I7ZoXTC9RWJka1rpLcxZF) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Beyond the Blue](https://open.spotify.com/album/2UjDmSX3lUFvgEPrtd8mY7) | 2:23 | 2025-05-19 | 2025-11-13 |
@@ -99,6 +100,7 @@
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 | 2024-04-20 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2023-06-03 |
+| [Fiora Notturna](https://open.spotify.com/track/0fCuGlhzbEtKEvBBu9wcIV) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Fiora Notturna](https://open.spotify.com/album/4vlNde9zWcbXfvlRgzLWS3) | 3:08 | 2026-03-30 |  |
 | [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 | 2023-06-08 | 2024-04-20 |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-03-18 |
 | [Floating Forward](https://open.spotify.com/track/0xKjYEWto03CgN1LxLo3Bv) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Floating Forward](https://open.spotify.com/album/1NArt4RVEbgJM83PCWFaJ1) | 2:22 | 2025-11-24 |  |
@@ -120,7 +122,7 @@
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2021-12-09 |  |
 | [Gracefully Yours](https://open.spotify.com/track/4uhJxUjSz3xuVwS1yFjYQV) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Gracefully Yours](https://open.spotify.com/album/5VLzAXOg2SRt5OpJ3zDaPP) | 1:52 | 2022-10-14 | 2023-08-26 |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2021-12-09 | 2022-04-06 |
-| [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 | 2021-12-09 |  |
+| [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 | 2021-12-09 | 2026-03-31 |
 | [Guided By A Somber Moon](https://open.spotify.com/track/2pJECtEnAdcsJs1E1ouUW5) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Guided By A Somber Moon](https://open.spotify.com/album/4Gp2lNh0euC91is8VKIcav) | 2:14 | 2022-10-28 | 2023-06-15 |
 | [guiding torch](https://open.spotify.com/track/498q55SF7VSIt5PCeagVGs) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [arrow clouds \| guiding torch](https://open.spotify.com/album/6ENT6YprbGElGS7XDkImeu) | 2:56 | 2022-07-29 | 2022-08-19 |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2022-02-22 | 2023-08-26 |
@@ -156,6 +158,7 @@
 | [Lakes of Covadonga](https://open.spotify.com/track/03Vp5T4fXcsPL0cUTiKDy8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Lakes of Covadonga](https://open.spotify.com/album/22qbaZkVfusEm4ljcynslY) | 2:23 | 2023-01-20 | 2024-04-05 |
 | [Largo](https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Largo](https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG) | 2:05 | 2022-10-14 | 2025-11-13 |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2024-02-02 |
+| [Lavender Sun](https://open.spotify.com/track/5v0YFbxaEqKd1dMciTxaBR) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Lavender Sun](https://open.spotify.com/album/0WB9nrmow21f2lO1i3LAjf) | 2:09 | 2026-03-30 |  |
 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 | 2023-06-02 | 2025-11-13 |
 | [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2022-11-25 |  |
 | [Less Than Before](https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Less Than Before](https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6) | 2:21 | 2025-08-18 |  |
@@ -322,7 +325,7 @@
 | [Vibrations](https://open.spotify.com/track/1u4kezJPmcBmdUeiJ14joT) | [Mae Ji\-Yoon](https://open.spotify.com/artist/7xt9s2tSwZnZrgwQh3kL1M) | [Vibrations](https://open.spotify.com/album/7J86BlOWt2zLh8sL4UN819) | 2:43 | 2021-12-09 | 2022-04-22 |
 | [Villa Serrana](https://open.spotify.com/track/6NX6CR98Ms0fObJgizfaYK) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Villa Serrana](https://open.spotify.com/album/1bsWzYeC8YekzSXPHmSpz7) | 1:41 | 2022-10-07 | 2023-08-26 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2021-12-09 | 2024-04-05 |
-| [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-09 |  |
+| [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-09 | 2026-03-31 |
 | [Waiting Depths](https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Waiting Depths](https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp) | 2:36 | 2025-05-13 |  |
 | [Walz for Marion](https://open.spotify.com/track/4TU6HO0q8qHMkItZwP9pom) | [Ruben Wagner](https://open.spotify.com/artist/5nlrY0oxCjsGrwJECLQEMq) | [Walz for Marion](https://open.spotify.com/album/4ZIpalRJnVdcSzMOUwz299) | 3:13 | 2021-12-09 | 2022-04-06 |
 | [Warm Winds](https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [Warm Winds](https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP) | 2:56 | 2024-08-08 |  |
@@ -330,6 +333,7 @@
 | [When It Rains](https://open.spotify.com/track/0z5y5lpBfxrZsDnvMOZOVy) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [When It Rains](https://open.spotify.com/album/4g9kfD7eRLcAwH60x94ygo) | 2:28 | 2023-01-20 | 2023-04-29 |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-04-28 |  |
 | [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 | 2021-12-09 | 2024-07-30 |
+| [Whole Summer](https://open.spotify.com/track/60KUGpuWeAoXjIU80jq9GR) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Whole Summer](https://open.spotify.com/album/48JqpHCPzcb5HqKdcAYKL5) | 2:10 | 2026-03-30 |  |
 | [Why Me](https://open.spotify.com/track/5ea1LyyvBGWH3Hp0f61Pwt) | [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Why Me](https://open.spotify.com/album/2W2K8SjkzULAvFF93OBN5U) | 2:46 | 2021-12-09 | 2023-09-29 |
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-18 |  |

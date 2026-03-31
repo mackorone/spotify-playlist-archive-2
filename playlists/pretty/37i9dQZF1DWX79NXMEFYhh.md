@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,647 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,547 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 33 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 34 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
 | 35 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 |
-| 36 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
-| 37 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
+| 36 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
+| 37 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
 | 38 | [Paradise](https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Paradise \- EP](https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S) | 4:16 |
 | 39 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 |
 | 40 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |

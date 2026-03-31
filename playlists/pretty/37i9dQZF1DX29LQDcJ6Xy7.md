@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,736 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,787 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 53 | [Go With The Flow](https://open.spotify.com/track/0ogtgveW3JxxtPE4YVJPaj) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 3:02 |
 | 54 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
 | 55 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
-| 56 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
-| 57 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
+| 56 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
+| 57 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
 | 58 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 59 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
 | 60 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 79 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 |
 | 80 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 81 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |
-| 82 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |
-| 83 | [Suck](https://open.spotify.com/track/6pBabkxMdp7dXLgJXnsFGp) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [The Best Of Pigface](https://open.spotify.com/album/1xPDQlenantNKawfHa3cyw) | 3:40 |
+| 82 | [Suck](https://open.spotify.com/track/6pBabkxMdp7dXLgJXnsFGp) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [The Best Of Pigface](https://open.spotify.com/album/1xPDQlenantNKawfHa3cyw) | 3:40 |
+| 83 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |
 | 84 | [S E X](https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx) | [Aesthetic Perfection](https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN), [Sebastian Svalland](https://open.spotify.com/artist/0NS9PpmJrJodmXFLNlRk5B) | [S E X](https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97) | 3:40 |
 | 85 | [Post Self](https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 4:28 |
 | 86 | [Hollow \(Project Regeneration\)](https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Hollow \(Project Regeneration\)](https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf) | 2:41 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 93 | [Burn Everything](https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Burn Everything](https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od) | 4:23 |
 | 94 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
 | 95 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 |
-| 96 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 |
-| 97 | [Vision 2020 Vision](https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Vision 2020 Vision](https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ) | 4:23 |
-| 98 | [Fiction](https://open.spotify.com/track/0Y9Vvicrw9zj40jtEK4tRL) | [Not My God](https://open.spotify.com/artist/27tok8SdKheI4yBDfiIUGY), [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Fiction](https://open.spotify.com/album/4td7ZCz71To3BiAM70k0kq) | 3:56 |
+| 96 | [Fiction](https://open.spotify.com/track/0Y9Vvicrw9zj40jtEK4tRL) | [Not My God](https://open.spotify.com/artist/27tok8SdKheI4yBDfiIUGY), [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Fiction](https://open.spotify.com/album/4td7ZCz71To3BiAM70k0kq) | 3:56 |
+| 97 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 |
+| 98 | [Vision 2020 Vision](https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Vision 2020 Vision](https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ) | 4:23 |
 | 99 | [Feed Our Lie](https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Feed Our Lie](https://open.spotify.com/album/16ZUBw17hhLFdrWTDr94VP) | 4:06 |
 | 100 | [Therapy](https://open.spotify.com/track/59xf0j7TD8NOsY4gmS2UcZ) | [The Hunger](https://open.spotify.com/artist/1TzYfIDcBPrD2ICroUPv5H) | [The Hunger](https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI) | 4:32 |
 

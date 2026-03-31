@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Donnie & Senna \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,423 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,433 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 11 | [Ik Kom Terug](https://open.spotify.com/track/1wiBI0OGxVOzGPAyJFr7dy) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Ik Kom Terug](https://open.spotify.com/album/1tLkY8oqGcwmTjvtdZLHMd) | 2:49 |
 | 12 | [Ik Wil Je Helemaal](https://open.spotify.com/track/3QxvbBt6GnNZ8AbWNO8CoN) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Ik Wil Je Helemaal](https://open.spotify.com/album/2ZhPISAto7OhMhu3oNCc8D) | 2:47 |
 | 13 | [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 |
-| 14 | [In Het Hart Van](https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [In Het Hart Van](https://open.spotify.com/album/1wMb3TbE8B5cfbrxUnZ5aZ) | 2:50 |
-| 15 | [Tussen Nu En Straks](https://open.spotify.com/track/0RdWbZR2ki6KdRo1XcPPIt) | [Jip Kaptijn](https://open.spotify.com/artist/1JGScsywcMyJCxwCVxnNYr) | [Tussen Nu En Straks](https://open.spotify.com/album/4ycXsqa2QbGAhHV1iEWaPi) | 3:15 |
-| 16 | [Dat Doe Jij](https://open.spotify.com/track/22u2ehqXZvpRgmsNB5zerD) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dat Doe Jij](https://open.spotify.com/album/2JBYIlp40gTwBwqCPjRe8f) | 2:28 |
-| 17 | [Dansen In De Kroeg](https://open.spotify.com/track/5xcWDblbN7zWJrZLu99cAY) | [Milan Verwoert](https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d) | [Dansen In De Kroeg](https://open.spotify.com/album/6glKIVMwQPhBXgsXeYnzFK) | 2:31 |
-| 18 | [Als Jij Voorbij Loopt](https://open.spotify.com/track/5Jxxyhe6yCryukFYyXDqvl) | [Sylvia Bruens](https://open.spotify.com/artist/6xBk2UlM97OwWgo7YPduEZ) | [Als Jij Voorbij Loopt](https://open.spotify.com/album/25dJ9GHk8E27ZF4Q8p7Hlm) | 2:38 |
-| 19 | [Ik Geniet En Ik Leef](https://open.spotify.com/track/6mY2IGGSG8vILXNZhb8Q5S) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Ik Geniet En Ik Leef](https://open.spotify.com/album/4xusIsn7afigsmlLyPoDoo) | 2:33 |
-| 20 | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/track/3pg9B5UsUEtQTNUcKbX52N) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/album/3UeDyDiuoL8GFHtTWqwMBo) | 2:34 |
-| 21 | [Veel Leuker Met Jou](https://open.spotify.com/track/73nmRgRJboLydYZkLh9emE) | [Susanna Veldmeijer](https://open.spotify.com/artist/2MgUlFmA4sje2WpKCPLavJ), [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Veel Leuker Met Jou](https://open.spotify.com/album/0f6oKEY6gwR9MCL7MUeV9q) | 2:53 |
-| 22 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
-| 23 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
-| 24 | [De Warmte Van Je Hartstocht](https://open.spotify.com/track/5sPEcF6AdBLIkRwzLIxBK2) | [Robbie Goorden](https://open.spotify.com/artist/0SGFIHrSXsjH3z4hUocdxq) | [De Warmte Van Je Hartstocht](https://open.spotify.com/album/2jLGy6H31tJzVK8mMrMys8) | 2:58 |
+| 14 | [De Warmte Van Je Hartstocht](https://open.spotify.com/track/5sPEcF6AdBLIkRwzLIxBK2) | [Robbie Goorden](https://open.spotify.com/artist/0SGFIHrSXsjH3z4hUocdxq) | [De Warmte Van Je Hartstocht](https://open.spotify.com/album/2jLGy6H31tJzVK8mMrMys8) | 2:58 |
+| 15 | [In Het Hart Van](https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [In Het Hart Van](https://open.spotify.com/album/1wMb3TbE8B5cfbrxUnZ5aZ) | 2:50 |
+| 16 | [Tussen Nu En Straks](https://open.spotify.com/track/0RdWbZR2ki6KdRo1XcPPIt) | [Jip Kaptijn](https://open.spotify.com/artist/1JGScsywcMyJCxwCVxnNYr) | [Tussen Nu En Straks](https://open.spotify.com/album/4ycXsqa2QbGAhHV1iEWaPi) | 3:15 |
+| 17 | [Dat Doe Jij](https://open.spotify.com/track/22u2ehqXZvpRgmsNB5zerD) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dat Doe Jij](https://open.spotify.com/album/2JBYIlp40gTwBwqCPjRe8f) | 2:28 |
+| 18 | [Dansen In De Kroeg](https://open.spotify.com/track/5xcWDblbN7zWJrZLu99cAY) | [Milan Verwoert](https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d) | [Dansen In De Kroeg](https://open.spotify.com/album/6glKIVMwQPhBXgsXeYnzFK) | 2:31 |
+| 19 | [Als Jij Voorbij Loopt](https://open.spotify.com/track/5Jxxyhe6yCryukFYyXDqvl) | [Sylvia Bruens](https://open.spotify.com/artist/6xBk2UlM97OwWgo7YPduEZ) | [Als Jij Voorbij Loopt](https://open.spotify.com/album/25dJ9GHk8E27ZF4Q8p7Hlm) | 2:38 |
+| 20 | [Ik Geniet En Ik Leef](https://open.spotify.com/track/6mY2IGGSG8vILXNZhb8Q5S) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Ik Geniet En Ik Leef](https://open.spotify.com/album/4xusIsn7afigsmlLyPoDoo) | 2:33 |
+| 21 | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/track/3pg9B5UsUEtQTNUcKbX52N) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/album/3UeDyDiuoL8GFHtTWqwMBo) | 2:34 |
+| 22 | [Veel Leuker Met Jou](https://open.spotify.com/track/73nmRgRJboLydYZkLh9emE) | [Susanna Veldmeijer](https://open.spotify.com/artist/2MgUlFmA4sje2WpKCPLavJ), [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Veel Leuker Met Jou](https://open.spotify.com/album/0f6oKEY6gwR9MCL7MUeV9q) | 2:53 |
+| 23 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
+| 24 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
 | 25 | [We Doen 't Gewoon](https://open.spotify.com/track/01bup6sVPbSxTpE2pZGRuK) | [Jan Witlox](https://open.spotify.com/artist/0C2i7hVaB3C0LpCKIxZhYJ) | [We Doen 't Gewoon](https://open.spotify.com/album/6pGuaKG4txWBzhGIXqIJga) | 3:04 |
 | 26 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
 | 27 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Ik Kan Niet Zonder Jou](https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9) | [Bryan Stricker](https://open.spotify.com/artist/3tdgnZyx1pSSe4XrLg7RnB) | [Ik Kan Niet Zonder Jou](https://open.spotify.com/album/3pidvIjA9VGuaBonE9x2d4) | 3:23 |
 | 80 | [Ik Wil Je Kussen 2.0](https://open.spotify.com/track/1uU3iQCiGsR8kq4DCq79KX) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Ik Wil Je Kussen 2.0](https://open.spotify.com/album/5OI189MSn1DB016gIY4Khr) | 3:13 |
 
-Snapshot ID: `AAAAABcpEqzTQayl/HFrzep86xax6JMv`
+Snapshot ID: `AAAAAJxkHP8uqb0oi3zvUYckDB63RkLj`

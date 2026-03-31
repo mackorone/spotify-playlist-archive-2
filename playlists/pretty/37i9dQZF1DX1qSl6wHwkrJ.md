@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,439 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,438 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 16 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
 | 17 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
 | 18 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
-| 19 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
-| 20 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |
+| 19 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |
+| 20 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
 | 21 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
 | 22 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:37 |
 | 23 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 31 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
 | 32 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
 | 33 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |
-| 34 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
-| 35 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
-| 36 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
+| 34 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
+| 35 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
+| 36 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 37 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
 | 38 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
 | 39 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |

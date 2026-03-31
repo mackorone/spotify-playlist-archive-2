@@ -947,6 +947,32 @@
     },
     {
       "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Lame (feat. CLARA, Tedua)",
+      "url": "https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM"
+    },
+    {
+      "album": {
         "name": "Matteo",
         "url": "https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc"
       },

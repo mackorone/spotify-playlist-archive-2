@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 
 > This is Chris Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,769 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,830 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 | 38 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 | 39 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 |
 | 40 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 |
-| 41 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
-| 42 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 |
+| 41 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 |
+| 42 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
 | 43 | [Gimme That](https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:06 |
 | 44 | [Easy \- Remix](https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Easy \(Remix\)](https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z) | 3:06 |
 | 45 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 | 49 | [Party \(feat\. Usher & Gucci Mane\)](https://open.spotify.com/track/1KhljCoJ2TgDEldnnfTHHc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:41 |
 | 50 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 
-Snapshot ID: `accaAAAAAABvBUykA2FZQnX8k/TkdbWJ`
+Snapshot ID: `achrgAAAAAASrgdvrriKx+tsaR6xYAyl`

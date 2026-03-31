@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 252536,
+  "num_followers": 252542,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAfuhjsRF0+ne6GT22dFigZ",
+  "snapshot_id": "achrgAAAAAAB8f3kv6EajQiAyvuDRI1T",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "Dance With The One That Brought You",
+      "url": "https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "Dance With The One That Brought You",
-      "url": "https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "What Made You Say That - Single Version",
+      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 222413,
       "name": "You Needed Me",
       "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "What Made You Say That - Single Version",
-      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
-      },
-      "artists": [
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up! (Red and Blue Versions)",
         "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 229093,
       "name": "She's Not Just A Pretty Face",
       "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encontros Pelo Caminho",
+        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
+      },
+      "artists": [
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
     },
     {
       "added_at": null,

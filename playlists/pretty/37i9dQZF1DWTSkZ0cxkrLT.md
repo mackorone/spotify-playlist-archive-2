@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,321 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,315 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 27 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
 | 28 | [Todo el Día Así](https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo el Día Así](https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR) | 3:35 |
 | 29 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
-| 30 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
-| 31 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 |
+| 30 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 |
+| 31 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 32 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 33 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
 | 34 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |

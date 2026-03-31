@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,339 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,357 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 | 50 | [Chronomentrophobia](https://open.spotify.com/track/0rZTj6vFpLrQ4z9PKQIqM4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 2:12 |
 
-Snapshot ID: `accaAAAAAABnrtyXCvbuXbibxfI4rQ+W`
+Snapshot ID: `achrgAAAAABRnvOVsM43BX1UZ93/t7T5`

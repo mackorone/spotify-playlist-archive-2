@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 
 > Todos los grandes éxitos del año, reunidos en un solo lugar\. Chuyin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,047 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,158 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 | 45 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
 | 46 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 47 | [ROSONES](https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ROSONES](https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL) | 2:57 |
-| 48 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
-| 49 | [Pika Pika](https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pika Pika](https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt) | 2:27 |
+| 48 | [Pika Pika](https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pika Pika](https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt) | 2:27 |
+| 49 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 50 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 |
 | 51 | [Chula Vente](https://open.spotify.com/track/2AWY8422GKdGpGw6ejB1Ys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 4:01 |
 | 52 | [EL LOKERON](https://open.spotify.com/track/6X6m4xmdFcz31p1h7Qg68c) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:25 |

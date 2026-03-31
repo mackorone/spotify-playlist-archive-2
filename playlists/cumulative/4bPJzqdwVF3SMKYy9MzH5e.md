@@ -4,7 +4,7 @@
 
 > 
 
-2,396 songs - 5 day 8 hr 49 min
+2,400 songs - 5 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Closer To You](https://open.spotify.com/track/3r2TFFPynN97CgmzXKal5X) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:04 | 2021-08-05 |  |
 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 | 2023-06-07 |  |
 | [Cloud99 \(As Above Mix\)](https://open.spotify.com/track/5FbJG8bTkeDjTWUEgsGzQG) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:20 | 2023-02-26 |  |
+| [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2026-03-30 |  |
 | [CLOVER](https://open.spotify.com/track/5hAM55vP9ItpfFCjdCLIUk) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [CLOVER](https://open.spotify.com/album/2OARpFnfS5yBGuWeqY8zA6) | 2:33 | 2026-01-04 |  |
 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2025-06-02 |  |
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-22 |  |
@@ -1397,6 +1398,7 @@
 | [Murders](https://open.spotify.com/track/0AFydkgl5Creero3gNjqvF) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 3:42 | 2021-08-05 |  |
 | [MUSIC BOX](https://open.spotify.com/track/1FXB6Ws5Vp0clbyqSxUqTr) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [MUSIC BOX](https://open.spotify.com/album/4FdAkhYfsuzkBy2z5elUAy) | 3:17 | 2022-02-04 |  |
 | [Musical Genius](https://open.spotify.com/track/5IN1WK3kO5YjJ7mNHph3bm) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 1:55 | 2022-06-08 |  |
+| [Mutant Exotic](https://open.spotify.com/track/73bJ5zBhjkY6alC6mpupgr) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Dedicated 2 Disrespect EP](https://open.spotify.com/album/5RoqnNPtlVOM1blmKaLlv8) | 3:51 | 2026-03-30 |  |
 | [Muzzle](https://open.spotify.com/track/5Xkb7aUxlFlV2NjKAWk7LC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Muzzle](https://open.spotify.com/album/4oqVp6xSsw3oaiqlnho7gM) | 1:02 | 2021-08-05 |  |
 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 | 2024-11-10 |  |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2022-07-10 |  |
@@ -1705,6 +1707,7 @@
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2021-08-05 |  |
 | [REBOUND!](https://open.spotify.com/track/7J8V76XTLhJXAm8hwCQKXG) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 3:44 | 2022-04-03 |  |
 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 | 2021-08-05 |  |
+| [RED](https://open.spotify.com/track/3yeyMmRL4FccdJdKhoT7eU) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 2:41 | 2026-03-30 |  |
 | [Red Hot Riding Hood](https://open.spotify.com/track/50fQpNxss8lKs7yJ6JAXo0) | [Lolita Storm](https://open.spotify.com/artist/6YF9sFv4SPlpLL6808Gsny) | [Girls Fucking Shit Up](https://open.spotify.com/album/69wksuPldtwiKixYBHCsO0) | 2:39 | 2022-07-08 |  |
 | [Red Sex](https://open.spotify.com/track/2KBOfdbo1WlLsPI87RrqPH) | [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Punish, Honey](https://open.spotify.com/album/0Kmn5zoggtkDhoGrNpHOeZ) | 5:37 | 2024-05-27 |  |
 | [Redrum](https://open.spotify.com/track/6CqAwSwYn3CLgShkBs7ow2) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Redrum](https://open.spotify.com/album/3MU5N9IuseIt0Kp9tDcpwj) | 2:21 | 2021-08-05 |  |
@@ -1929,6 +1932,7 @@
 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 | 2021-08-05 |  |
 | [Sonho do Brasil](https://open.spotify.com/track/1F1OWM6IeFXhJjnkLxJUur) | [Slowdown](https://open.spotify.com/artist/3VLBTVpduYKBntn2BNtBFA) | [Retrospectives](https://open.spotify.com/album/6qVprDA4Kd6uMhqrZ63XZq) | 3:24 | 2025-06-25 |  |
 | [Soon](https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 6:58 | 2021-12-30 |  |
+| [Sorbet \- LSDXOXO Remix](https://open.spotify.com/track/6agcpxNbvaijdICaroWF9g) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:31 | 2026-03-30 |  |
 | [Sorority Girls](https://open.spotify.com/track/2pHdxvGY6DLgS7fFqrIi6D) | [Mommy Long Legs](https://open.spotify.com/artist/1cZJetf4bkK5CE3VeU18h0) | [Life Rips](https://open.spotify.com/album/1huDuiGdrGSqiy6YFL7CJL) | 2:28 | 2022-04-26 |  |
 | [Sorry](https://open.spotify.com/track/7Hs4BDVWvKvKzfr5A0pI9K) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Sorry // Single](https://open.spotify.com/album/34ywWzeLG8WVOwgyV6vLUY) | 3:31 | 2021-08-05 |  |
 | [Soundproof](https://open.spotify.com/track/02Ple3mAITDIZjdjqPfneB) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:53 | 2021-09-15 |  |

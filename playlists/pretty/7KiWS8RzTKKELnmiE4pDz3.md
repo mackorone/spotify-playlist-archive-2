@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 175 songs - 10 hr 49 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 181 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,5 +183,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 173 | [RUSSIAN ROULETT3](https://open.spotify.com/track/4wiNxNXwnhVdwvxedo40FK) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [R3SET](https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR) | 3:47 |
 | 174 | [Make Something Up](https://open.spotify.com/track/64OIDldq25VvelMStZiDvy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 4:06 |
 | 175 | [Cosmo Freestyle](https://open.spotify.com/track/7rOMXlhgozetHpzmJciBjm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/44k1aegQDc03y66kpRoWKt) | 3:04 |
+| 176 | [Face the World](https://open.spotify.com/track/0MFUtcr3Vo3G2ERd2Tgnfi) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/2POZpxnN6IgGAzIf5P3KHz) | 3:57 |
+| 177 | [The Weather](https://open.spotify.com/track/2xLOs0DeMHYkzAKuAc17Af) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Cuzzy Capone](https://open.spotify.com/artist/1grD3RkZNEVH9vgPUxhIDS) | [Crenshaw](https://open.spotify.com/album/2POZpxnN6IgGAzIf5P3KHz) | 4:46 |
+| 178 | [Perfect Timing](https://open.spotify.com/track/4X7Lprg53uDxjF84kvbq2P) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Perfect Timing](https://open.spotify.com/album/6z0zcu4vVYHAbjS5XzA3HD) | 2:30 |
+| 179 | [Welcome Home](https://open.spotify.com/track/4AHebDFjQrv3ApKg13aVfP) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Born 2 Rap](https://open.spotify.com/album/4UFn9Lp48TeDrdOmIEKQDV) | 4:33 |
+| 180 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
+| 181 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 |
 
-Snapshot ID: `AAAgB0SfUUbDOlH35mys4sodDfe8zjoH`
+Snapshot ID: `AAAgDXT2iAHzeNBiKQG0rc0n+zt00O2N`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,397 likes - 85 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,407 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 5 | [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 |
 | 6 | [Copinho de Extrato de Tomate](https://open.spotify.com/track/1lVd6sm5t1GxblrTsicl9A) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Copinho de Extrato de Tomate](https://open.spotify.com/album/7ktV3hvFEh2JABI8JDX55C) | 4:36 |
 | 7 | [Entre Milhões](https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1) | [Entre Milhões](https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ) | 4:11 |
-| 8 | [Entardecer](https://open.spotify.com/track/7dc6mrQJRolSAjV8PlAm2A) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq), [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Entardecer](https://open.spotify.com/album/3vK0UgEbZSAvTOQRfVIxL0) | 3:38 |
-| 9 | [Samaritana](https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Samaritana](https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01) | 3:33 |
+| 8 | [Samaritana](https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Samaritana](https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01) | 3:33 |
+| 9 | [Entardecer](https://open.spotify.com/track/7dc6mrQJRolSAjV8PlAm2A) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq), [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Entardecer](https://open.spotify.com/album/3vK0UgEbZSAvTOQRfVIxL0) | 3:38 |
 | 10 | [Desejável](https://open.spotify.com/track/2u2NL48dpclQeLPh3rbA9I) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah), [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Desejável](https://open.spotify.com/album/4B3VnrNJcH1vmsvYlntKFc) | 5:33 |
 | 11 | [A Minha Razão \(Reason I Sing\)](https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [A Minha Razão \(Reason I Sing\)](https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G) | 4:33 |
 | 12 | [Esqueço Até o Tempo \(Acústico\)](https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Feliz7Play](https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG), [Benjamim Silva](https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX) | [Esqueço Até o Tempo](https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU) | 2:39 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 33 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 |
 | 34 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
 | 35 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
-| 36 | [Ousado Amor \(Releitura\)](https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Ousado Amor \(Releitura\)](https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug) | 3:44 |
-| 37 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
+| 36 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
+| 37 | [Ousado Amor \(Releitura\)](https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Ousado Amor \(Releitura\)](https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug) | 3:44 |
 | 38 | [Alegria \- Ao Vivo](https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Alegria \(Ao Vivo\)](https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p) | 4:58 |
 | 39 | [Iluminado](https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [Iluminado](https://open.spotify.com/album/6WidAThASUspFTkUzM9X88) | 4:00 |
 | 40 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 |
 | 85 | [O Amor de Deus](https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p) | 2:36 |
 
-Snapshot ID: `AAAAADfUjyDAzzxG8tvWj3evu06HAtZP`
+Snapshot ID: `AAAAAOW8jUUJmEM/XNUuFK+3+WVo0IlB`

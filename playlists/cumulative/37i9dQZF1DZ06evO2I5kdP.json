@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 424273,
       "name": "And Instantly Take Effect",
       "url": "https://open.spotify.com/track/3jCxGUOiUPbTIo6dVekl1H"
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "No. 2",
+        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Brain Fog",
+      "url": "https://open.spotify.com/track/4LIkDeZ5VvHtoYbTtfnYHu"
+    },
+    {
+      "album": {
         "name": "No. 3",
         "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
       },
@@ -132,6 +150,48 @@
       "duration_ms": 366754,
       "name": "CV",
       "url": "https://open.spotify.com/track/0PoBZcWm6tmJbKvvRGQMOh"
+    },
+    {
+      "album": {
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Margaret Hermant",
+          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
+        },
+        {
+          "name": "Neil Leiter",
+          "url": "https://open.spotify.com/artist/6JadM3Xj5echVd3jCNZQJS"
+        },
+        {
+          "name": "Vincent Werbrouck",
+          "url": "https://open.spotify.com/artist/31zrSGTGXyG0QTKyE8QVFE"
+        },
+        {
+          "name": "Lieselot de Wilde",
+          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
+        },
+        {
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95310,
+      "name": "Dance Rehearsal",
+      "url": "https://open.spotify.com/track/4It0SkcS72eaqtPDaHbKXI"
     },
     {
       "album": {
@@ -396,7 +456,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 207000,
       "name": "Hot Tub",
       "url": "https://open.spotify.com/track/0j8Flba4l23dsYi9ac56p0"
@@ -452,7 +512,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 382436,
       "name": "Kimona II",
       "url": "https://open.spotify.com/track/0k73dH9OjmtaXVlpe37KdO"
@@ -470,7 +530,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 243898,
       "name": "Lair 10",
       "url": "https://open.spotify.com/track/4ICfUmLK13c9zPEggxIbbf"
@@ -878,7 +938,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 222747,
       "name": "Small Choir",
       "url": "https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA"
@@ -1134,7 +1194,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 118280,
       "name": "Vostok",
       "url": "https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj"

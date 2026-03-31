@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071,386 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071,650 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 68 | [Fade To Grey](https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [The Damned Don't Cry](https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt) | 3:49 |
 | 69 | [Theme For Great Cities](https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sons And Fascination/Sister Feelings Call](https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq) | 5:51 |
 | 70 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/3zLZ7AVfbYuy0BnRWLafZg) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Greatest Hits](https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk) | 3:45 |
-| 71 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
-| 72 | [Dreaming](https://open.spotify.com/track/4qaG0dyK5mPXqynUrQ0vCi) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Translucence](https://open.spotify.com/album/7AG2w0blIElVtSU3i4VxZ7) | 3:48 |
+| 71 | [Dreaming](https://open.spotify.com/track/4qaG0dyK5mPXqynUrQ0vCi) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Translucence](https://open.spotify.com/album/7AG2w0blIElVtSU3i4VxZ7) | 3:48 |
+| 72 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
 | 73 | [Happy Hour](https://open.spotify.com/track/0kpmeoNfuZ0cys5tCEBCXZ) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [Now That's What I Call Quite Good](https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9) | 2:22 |
 | 74 | [Take Me to the River](https://open.spotify.com/track/7fRPW34qS6KkZpMY4iBrJJ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 5:02 |
 | 75 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 |
 | 76 | [I Want Candy](https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [Love, Peace & Harmony The Best Of Bow Wow Wow](https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF) | 2:41 |
-| 77 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
-| 78 | [April Skies](https://open.spotify.com/track/1tYeax0qrIkT2ECT3OJSNp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:00 |
+| 77 | [April Skies](https://open.spotify.com/track/1tYeax0qrIkT2ECT3OJSNp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:00 |
+| 78 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
 | 79 | [I Love a Man in a Uniform](https://open.spotify.com/track/2o4O4AJgwbiWUVVXQ0sq7O) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Songs Of The Free](https://open.spotify.com/album/7HRzIhQYVnaXqpvTTeeb3q) | 4:07 |
 | 80 | [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 |
 

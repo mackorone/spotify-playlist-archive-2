@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: La Pegatina
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,853 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,867 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 37 | [She Got Arrested](https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 3:25 |
 | 38 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 39 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
-| 40 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
+| 40 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
 | 41 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 |
-| 42 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
+| 42 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 43 | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/track/2rwkaFdBNUlYHEpInYEeM0) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs) | 3:48 |
 | 44 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
-| 45 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
-| 46 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
-| 47 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |
+| 45 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
+| 46 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |
+| 47 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
 | 48 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 49 | [My Commanding Wife](https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh) | 3:04 |
 | 50 | [I Had Some Help](https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [I Had Some Help](https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0) | 2:39 |

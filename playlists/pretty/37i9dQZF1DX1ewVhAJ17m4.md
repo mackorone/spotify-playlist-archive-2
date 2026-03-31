@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Free Throw
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,991 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,030 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 54 | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB) | 3:33 |
 | 55 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
 | 56 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
-| 57 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 |
-| 58 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
+| 57 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
+| 58 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 |
 | 59 | [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 |
 | 60 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 61 | [every little thing](https://open.spotify.com/track/5YTjpBWmHCtSDu7tQ4jsf1) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [every little thing](https://open.spotify.com/album/5ZxAdcIzXnwa2peHJh3OFU) | 3:07 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 64 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
 | 65 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |
 | 66 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
-| 67 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
-| 68 | [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 |
-| 69 | [Bexy](https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Bexy](https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV) | 1:50 |
+| 67 | [Bexy](https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Bexy](https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV) | 1:50 |
+| 68 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
+| 69 | [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 |
 | 70 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume III\)](https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex) | 3:53 |
 | 71 | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 |
 | 72 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 75 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 76 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 77 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
-| 78 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
-| 79 | [REACHING FOR THE SKY](https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [REACHING FOR THE SKY](https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo) | 3:55 |
-| 80 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 |
+| 78 | [REACHING FOR THE SKY](https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [REACHING FOR THE SKY](https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo) | 3:55 |
+| 79 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
+| 80 | [magnet](https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [MOON](https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB) | 2:46 |
 
 Snapshot ID: `AAAAAOivrGMZH2HhMqbEsCmRriOn/8bX`

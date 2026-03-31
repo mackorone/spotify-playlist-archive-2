@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,924 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,932 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 17 | [Fragile](https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:50 |
 | 18 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 |
 | 19 | [Losers](https://open.spotify.com/track/1bAvtmTl0F9loyz9AwPwp7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:41 |
-| 20 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [FUNNY little FEARS](https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO) | 3:17 |
-| 21 | [Earthquake \(feat\. Tinie Tempah\)](https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:34 |
+| 20 | [Earthquake \(feat\. Tinie Tempah\)](https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:34 |
+| 21 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [FUNNY little FEARS](https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO) | 3:17 |
 | 22 | [Labrinth \- Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
 | 23 | [No Ordinary](https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [No Ordinary](https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu) | 3:04 |
 | 24 | [Nate Growing Up \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 45 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
 | 46 | [Majesty \(with Labrinth & feat\. Eminem\)](https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:55 |
 | 47 | [Pull Me In](https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:36 |
-| 48 | [Covering](https://open.spotify.com/track/79RRMy751roUzddljSSgbt) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:13 |
-| 49 | [Accepted By The Crew](https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:42 |
+| 48 | [Accepted By The Crew](https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:42 |
+| 49 | [Covering](https://open.spotify.com/track/79RRMy751roUzddljSSgbt) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:13 |
 | 50 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 |
 
-Snapshot ID: `accaAAAAAAB3gm0EnoJu4sFMFFbt1CqH`
+Snapshot ID: `achrgAAAAAD3ESeMN0LM+6Asj7d2hoGi`

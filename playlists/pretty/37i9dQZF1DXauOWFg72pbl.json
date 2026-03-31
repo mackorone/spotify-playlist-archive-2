@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 609707,
+  "num_followers": 609721,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
+        "name": "Cold War Kids",
+        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 192654,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
-        "name": "Worm in the Sun",
-        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
-      },
-      "artists": [
-        {
-          "name": "alexsucks",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "Worm in the Sun",
-      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Cold War Kids",
-        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
+        "name": "Worm in the Sun",
+        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "alexsucks",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 192654,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
+      "duration_ms": 161240,
+      "name": "Worm in the Sun",
+      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
     },
     {
       "added_at": "2026-02-08 16:59:41",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 6 hr 21 min
+126 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/4QkNTRmPGMyubxV3PL3mT5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/2ruotvPgxJcb8DMbzQ5XFz) | 2:49 | 2023-02-12 | 2024-10-07 |
 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/5Dwi8UxcZkZ74C7tYzRqGv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/1fzL3WefoCP6F7sEzlU8mg) | 2:49 | 2024-10-06 |  |
 | [lady](https://open.spotify.com/track/1h9HxkDH67X8cig593BBOb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:36 | 2022-09-16 |  |
+| [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 | 2026-03-30 |  |
 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 | 2023-09-25 |  |
 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 | 2025-09-10 |  |
 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 | 2022-09-16 |  |

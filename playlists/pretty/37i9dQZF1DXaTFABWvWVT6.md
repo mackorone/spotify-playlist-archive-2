@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,278 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,296 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 24 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 25 | [You & Me \- Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:42 |
 | 26 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 |
-| 27 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
-| 28 | [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 |
+| 27 | [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 |
+| 28 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 29 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 |
 | 30 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
 | 31 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |

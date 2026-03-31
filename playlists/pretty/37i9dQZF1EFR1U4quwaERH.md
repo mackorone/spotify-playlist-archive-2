@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 80 | [Pay Attention](https://open.spotify.com/track/5qCCBPO81dyZEsavwxn8eC) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:29 |
 | 81 | [Bittersweet](https://open.spotify.com/track/2XVx3CrFPfBft2UOeNrphk) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Bittersweet](https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4) | 3:21 |
 | 82 | [Cheers](https://open.spotify.com/track/74SFVRttFhSJ39uBIVL6cG) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 4:15 |
-| 83 | [Don't Know What to Call It](https://open.spotify.com/track/6zfZyw34dIJZh8WCZWMGMT) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Don't Know What to Call It](https://open.spotify.com/album/4cyMu0ajv2wk0C9YMItSuA) | 3:16 |
-| 84 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
+| 83 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
+| 84 | [Don't Know What to Call It](https://open.spotify.com/track/6zfZyw34dIJZh8WCZWMGMT) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Don't Know What to Call It](https://open.spotify.com/album/4cyMu0ajv2wk0C9YMItSuA) | 3:16 |
 | 85 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 |
 | 86 | [WADE](https://open.spotify.com/track/67T80y4xJHFL0HZ9E1068T) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw), [Jessie B\. Horne](https://open.spotify.com/artist/6YQQd6atMpVumxmPoHjK4U) | [WADE](https://open.spotify.com/album/5BZVvweppmNfgpe5cbcem3) | 2:46 |
 | 87 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcNdYAAAAABMWiThgMeK2LnBvjx3qtdo`
+Snapshot ID: `AcNjFAAAAADGVTAtkbyWZMkDxupH89FL`

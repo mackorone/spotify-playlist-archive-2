@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Shape Confused Cowboy Be You",
+        "url": "https://open.spotify.com/album/3StXqvVFi65vodaxP8g3L2"
+      },
+      "artists": [
+        {
+          "name": "Sam Weber",
+          "url": "https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217484,
+      "name": "cowboy-3.com",
+      "url": "https://open.spotify.com/track/72BXuFsvDf6J8jngG8sLXR"
+    },
+    {
+      "album": {
         "name": "Portishead",
         "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
       },

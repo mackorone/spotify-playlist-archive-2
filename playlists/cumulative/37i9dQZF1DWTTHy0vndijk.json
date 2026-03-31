@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: \uc720\ub098 (YUNA) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: \uc544\uc774\ub9b0 (IRENE)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -762,6 +762,24 @@
       "duration_ms": 191186,
       "name": "Between Us Two",
       "url": "https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy"
+    },
+    {
+      "album": {
+        "name": "Biggest Fan - The 1st Album",
+        "url": "https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Biggest Fan",
+      "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
     },
     {
       "album": {
@@ -5516,7 +5534,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 196160,
       "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"

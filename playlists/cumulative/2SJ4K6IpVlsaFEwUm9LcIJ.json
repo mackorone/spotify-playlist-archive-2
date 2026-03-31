@@ -10647,6 +10647,24 @@
     },
     {
       "album": {
+        "name": "Neon Golden",
+        "url": "https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Off the Rail",
+      "url": "https://open.spotify.com/track/1pLQ2Wwyd9DlyFWkki5HHX"
+    },
+    {
+      "album": {
         "name": "Carry the Wood",
         "url": "https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493"
       },

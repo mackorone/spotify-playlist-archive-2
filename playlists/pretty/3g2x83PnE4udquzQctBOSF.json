@@ -1,13 +1,205 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2719,
+  "num_followers": 2721,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARxkg7yCOY5Zn9BPO8GkbyJDxiBHgZ",
+  "snapshot_id": "AAAR0rCqQj0DQKMJXd9euwjF6NwJOk30",
   "tracks": [
+    {
+      "added_at": "2026-03-30 06:25:24",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Load-Bearing",
+      "url": "https://open.spotify.com/track/7ulxrtY8WpnWff9glhnQVb"
+    },
+    {
+      "added_at": "2026-03-30 06:13:29",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Concrete Bloom",
+      "url": "https://open.spotify.com/track/3s5coJ1c82iUthCqCZnyUo"
+    },
+    {
+      "added_at": "2026-03-30 06:05:13",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 297240,
+      "name": "After the Dust Settles",
+      "url": "https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5"
+    },
+    {
+      "added_at": "2026-03-30 05:58:23",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Signal Fires on the Roof",
+      "url": "https://open.spotify.com/track/63TXZ2EAmAU6HyibfsumEl"
+    },
+    {
+      "added_at": "2026-03-30 05:46:02",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Where the Structure Bends",
+      "url": "https://open.spotify.com/track/3n2jTRrFP2Cgv9bZrNdKiL"
+    },
+    {
+      "added_at": "2026-03-30 05:26:01",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 363120,
+      "name": "Weightless Over Asphalt",
+      "url": "https://open.spotify.com/track/4bN52LMMiUxLuuyvQnHo2l"
+    },
+    {
+      "added_at": "2026-03-30 05:15:50",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Steel in the Water",
+      "url": "https://open.spotify.com/track/0Rbh1PpJDx4WCFT3dyqmKW"
+    },
+    {
+      "added_at": "2026-03-30 05:06:25",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 328920,
+      "name": "The Skyline Holds",
+      "url": "https://open.spotify.com/track/7dCiBMbFyao9V37WhLXpHA"
+    },
+    {
+      "added_at": "2026-03-30 04:58:06",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 296640,
+      "name": "Open Framework",
+      "url": "https://open.spotify.com/track/2GHHRTK91APkLDle2EHcyd"
+    },
+    {
+      "added_at": "2026-03-30 04:46:17",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 294960,
+      "name": "Borrowed Light",
+      "url": "https://open.spotify.com/track/1bho1XejCPCYz4G6RJ3CS4"
+    },
+    {
+      "added_at": "2026-03-30 04:31:50",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "Scattered Blueprints",
+      "url": "https://open.spotify.com/track/2JmDEJXSNvspOOFgNOJu0l"
+    },
+    {
+      "added_at": "2026-03-30 04:23:51",
+      "album": {
+        "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
+        "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "Night Crane",
+      "url": "https://open.spotify.com/track/4FD48eynO8XoG9Zn6nVzQr"
+    },
     {
       "added_at": "2026-03-29 21:05:05",
       "album": {

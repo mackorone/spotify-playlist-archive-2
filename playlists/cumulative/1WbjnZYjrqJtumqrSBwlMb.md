@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,297 songs - 3 day 7 hr 25 min
+1,298 songs - 3 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1170,6 +1170,7 @@
 | [To Be Hunted](https://open.spotify.com/track/7kjL0ldXgBwZ3xOzA0WHMD) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 4:14 | 2024-05-13 |  |
 | [To The Island \- Tame Impala Remix](https://open.spotify.com/track/5oY6OqGZYMENBeP3qNVsZI) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [To The Island \(Tame Impala Remix\)](https://open.spotify.com/album/1Q1oSbvgkLUIo4diiRAyLd) | 4:13 | 2021-04-08 |  |
 | [Toast](https://open.spotify.com/track/24T3pT2TQsqx9RN5US9ZeT) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 4:09 | 2022-04-06 |  |
+| [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2026-03-30 |  |
 | [Tomorrow's Dust](https://open.spotify.com/track/666PdikRnUzdvjT9p5wWND) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 5:26 | 2020-02-13 |  |
 | [TOO EASY](https://open.spotify.com/track/4uxn2XuLHdZ3IDWpLG1VMQ) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 2:57 | 2025-04-30 | 2025-05-02 |
 | [Too Late](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:44 | 2022-12-10 |  |

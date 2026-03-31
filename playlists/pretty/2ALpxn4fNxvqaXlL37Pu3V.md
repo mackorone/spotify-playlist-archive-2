@@ -13,4 +13,4 @@ pretty - [cumulative](/playlists/cumulative/2ALpxn4fNxvqaXlL37Pu3V.md) - [plain]
 | 3 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
 | 4 | [Rain in Soho](https://open.spotify.com/track/39FSHZBHrLTF0eINDw2uF9) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths \(Deluxe Version\)](https://open.spotify.com/album/1yJuS1MzCnoqG8IKZA6uuf) | 4:46 |
 
-Snapshot ID: `AAAACPoELitBFz5U2dkrzkOeIbOvmj1O`
+Snapshot ID: `AAAACdAWuY0foOxJJnQa3z/lKyLS+tv3`

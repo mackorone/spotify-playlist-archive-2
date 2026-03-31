@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28708,
+  "num_followers": 28709,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -547,30 +547,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Si Me Voy Antes Que Vos",
-        "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
-      },
-      "artists": [
-        {
-          "name": "El Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
-        },
-        {
-          "name": "Emiliano Y El Zurdo",
-          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
-        },
-        {
-          "name": "Lu Ferreira",
-          "url": "https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ"
-        }
-      ],
-      "duration_ms": 151564,
-      "name": "Si Me Voy Antes Que Vos",
-      "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Nace una Madre",
         "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
       },
@@ -603,6 +579,30 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Si Me Voy Antes Que Vos",
+        "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
+      },
+      "artists": [
+        {
+          "name": "El Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
+        },
+        {
+          "name": "Emiliano Y El Zurdo",
+          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
+        },
+        {
+          "name": "Lu Ferreira",
+          "url": "https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ"
+        }
+      ],
+      "duration_ms": 151564,
+      "name": "Si Me Voy Antes Que Vos",
+      "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 179635,
       "name": "los ausentes",
       "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Hunde",
+        "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
+      },
+      "artists": [
+        {
+          "name": "Patuco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy"
+        },
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "El \u00daltimo Mate",
+      "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -683,26 +703,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Hunde",
-        "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
-      },
-      "artists": [
-        {
-          "name": "Patuco L\u00f3pez",
-          "url": "https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy"
-        },
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "El \u00daltimo Mate",
-      "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Recuerdos de Ypacara\u00ed",
-        "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
-      },
-      "artists": [
-        {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        },
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 267523,
-      "name": "Recuerdos de Ypacara\u00ed",
-      "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -763,6 +743,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Recuerdos de Ypacara\u00ed",
+        "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
+      },
+      "artists": [
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        },
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 267523,
+      "name": "Recuerdos de Ypacara\u00ed",
+      "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
+      },
+      "artists": [
+        {
+          "name": "Micaela Basadoni",
+          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
+        },
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        }
+      ],
+      "duration_ms": 139952,
+      "name": "Siesta rosa",
+      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Soltar",
         "url": "https://open.spotify.com/album/00SVJrCl9DMqFNqvISN1ME"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 183989,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/4fDcua8K7LINi5eeut5Hki"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "A\u00fan no mor\u00ed",
-        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        },
-        {
-          "name": "Isabel Lenoir",
-          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
-        }
-      ],
-      "duration_ms": 217457,
-      "name": "A\u00fan no mor\u00ed",
-      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -847,6 +847,26 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "A\u00fan no mor\u00ed",
+        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        },
+        {
+          "name": "Isabel Lenoir",
+          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
+        }
+      ],
+      "duration_ms": 217457,
+      "name": "A\u00fan no mor\u00ed",
+      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -883,26 +903,6 @@
       "duration_ms": 171309,
       "name": "El Oasis",
       "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
-      },
-      "artists": [
-        {
-          "name": "Micaela Basadoni",
-          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
-        },
-        {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Siesta rosa",
-      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "V13",
         "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
       },
@@ -1019,38 +1035,6 @@
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Porte\u00f1a",
-        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 254829,
-      "name": "Malagradecida",
-      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
       },
       "artists": [
         {
-          "name": "Vipisita",
-          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
         }
       ],
-      "duration_ms": 160696,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1111,6 +1095,22 @@
       "duration_ms": 209917,
       "name": "Cenital",
       "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
+      },
+      "artists": [
+        {
+          "name": "Vipisita",
+          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
+        }
+      ],
+      "duration_ms": 160696,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "As\u00ed Sea",
         "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 216766,
       "name": "As\u00ed Sea",
       "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
-      },
-      "artists": [
-        {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
-        },
-        {
-          "name": "Seba Cavazzoli",
-          "url": "https://open.spotify.com/artist/78LuAC1Waxn1C8FpYU1Ny7"
-        }
-      ],
-      "duration_ms": 190691,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Cortina",
         "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 191118,
       "name": "Cortina",
       "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        },
+        {
+          "name": "Seba Cavazzoli",
+          "url": "https://open.spotify.com/artist/78LuAC1Waxn1C8FpYU1Ny7"
+        }
+      ],
+      "duration_ms": 190691,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Desencanto",
-        "url": "https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Maz\u00fa",
-          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
-        },
-        {
-          "name": "Noelia Sinkunas",
-          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
-        }
-      ],
-      "duration_ms": 258269,
-      "name": "Desencanto",
-      "url": "https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "no te lo tomes personal",
         "url": "https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL"
       },
@@ -1747,18 +1727,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+        "name": "Desencanto",
+        "url": "https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Mariana Maz\u00fa",
+          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
+        },
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
         }
       ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+      "duration_ms": 258269,
+      "name": "Desencanto",
+      "url": "https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1779,6 +1763,38 @@
       "duration_ms": 250723,
       "name": "Los Ancestros",
       "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "D\u00eda tras d\u00eda",
+        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
+      },
+      "artists": [
+        {
+          "name": "El Tio Valen",
+          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "D\u00eda tras d\u00eda",
+      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1807,18 +1823,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "D\u00eda tras d\u00eda",
-        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
       },
       "artists": [
         {
-          "name": "El Tio Valen",
-          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
         }
       ],
-      "duration_ms": 177750,
-      "name": "D\u00eda tras d\u00eda",
-      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1835,22 +1851,6 @@
       "duration_ms": 193910,
       "name": "Cobquecura",
       "url": "https://open.spotify.com/track/5ZnFgUWXHN7mfxcLWb4adt"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1895,18 +1895,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Esperanza/ Nunca te vayas",
-        "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
+        "name": "Shangril\u00e1",
+        "url": "https://open.spotify.com/album/5zFxx45avjpTQlFV7cF6sm"
       },
       "artists": [
         {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+          "name": "Ninguna Higuera",
+          "url": "https://open.spotify.com/artist/5L9ZrNaSTvFWmAyGAOqpVW"
+        },
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 150200,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
+      "duration_ms": 299000,
+      "name": "Shangril\u00e1",
+      "url": "https://open.spotify.com/track/7D9vbNoGjTDBZlqFVnUT5m"
     }
   ],
   "unique_name": "Voces del Sur",

@@ -1,6 +1,6 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 13146,
+  "num_followers": 13156,
   "original_name": "BrooklynVegan's Favorite Songs of the Week",
   "owner": {
     "name": "BrooklynVegan",
@@ -182,6 +182,10 @@
         {
           "name": "Soft Cell",
           "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        },
+        {
+          "name": "Nona Hendryx",
+          "url": "https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg"
         }
       ],
       "duration_ms": 304740,

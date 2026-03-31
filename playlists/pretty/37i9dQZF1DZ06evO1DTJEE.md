@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,596 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,620 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 33 | [I Let A Damn Good Woman Leave](https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:32 |
 | 34 | [Ain’t Like I Can Hide It](https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:00 |
 | 35 | [Where Corn Don’t Grow](https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where Corn Don't Grow](https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F) | 4:03 |
-| 36 | [Smoke](https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Smoke](https://open.spotify.com/album/4uI9tXHHbtAAhNX3q0fZq4) | 3:11 |
-| 37 | [She Used to Be Mine \(with Riley Green\)](https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:41 |
+| 36 | [She Used to Be Mine \(with Riley Green\)](https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:41 |
+| 37 | [Smoke](https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Smoke](https://open.spotify.com/album/4uI9tXHHbtAAhNX3q0fZq4) | 3:11 |
 | 38 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 |
 | 39 | [Bury Me In Dixie](https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Bury Me In Dixie](https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8) | 3:08 |
 | 40 | [What Am I Supposed To Do Now](https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Huntin' Land \(feat\. Riley Green\)](https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:01 |
 | 50 | [Stick to My Guns \(feat\. Riley Green\)](https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:05 |
 
-Snapshot ID: `accaAAAAAAAL3zd14LqHleIj3xiK0x00`
+Snapshot ID: `achrgAAAAAAMUi0W8CI9eDH5cwMSnpp9`

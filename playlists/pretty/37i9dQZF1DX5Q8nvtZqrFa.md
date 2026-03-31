@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,469 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,466 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 43 | [ENDROLL](https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg) | [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [ENDROLL](https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy) | 3:02 |
 | 44 | [騙シ愛 \- Damashiai](https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [騙シ愛 \- Damashiai](https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ) | 3:56 |
 | 45 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |
-| 46 | [リビングデッド](https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [セレナーデ](https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG) | 2:29 |
-| 47 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
+| 46 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
+| 47 | [リビングデッド](https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [セレナーデ](https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG) | 2:29 |
 | 48 | [ら、のはなし](https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 3:01 |
 | 49 | [アクション](https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [アクション](https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx) | 2:53 |
 | 50 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |

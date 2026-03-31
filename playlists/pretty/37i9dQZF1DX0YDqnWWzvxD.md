@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,019 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,225 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 54 | [Descending](https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Shakuhachi Sleep Music](https://open.spotify.com/album/4t1knEf4OemS9en0BH7CGf) | 9:41 |
 | 55 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
 | 56 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 |
-| 57 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
-| 58 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
-| 59 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
-| 60 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 57 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
+| 58 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
+| 59 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 60 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
 | 61 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
 | 62 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
 | 63 | [Healing](https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Yoga Music](https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS) | 5:35 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 84 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
 | 85 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
 | 86 | [The Hierophant](https://open.spotify.com/track/5fWtbghCtnvCD92Qdp1vWO) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw) | [The Spirit of Yoga](https://open.spotify.com/album/4j1FyRXikLSkVFdLEq56d6) | 15:13 |
-| 87 | [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 |
-| 88 | [Breathing In](https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [Breathing In](https://open.spotify.com/album/1WuIBoOzsSprBaSAz04bkz) | 2:30 |
+| 87 | [Breathing In](https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [Breathing In](https://open.spotify.com/album/1WuIBoOzsSprBaSAz04bkz) | 2:30 |
+| 88 | [Goddess Evocation](https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:39 |
 | 89 | [Hopefull](https://open.spotify.com/track/3T9YBqJEpy7IZsIo89SYVm) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Hopefull](https://open.spotify.com/album/4bpCA9wD3IapewaQ7clEMm) | 4:18 |
 | 90 | [Singing Wire](https://open.spotify.com/track/4Zqbylu19hY0WlhEoRiULb) | [Tom Green](https://open.spotify.com/artist/5i6KZLTbAeOQN21u8Px2RG) | [40 Meditative Mindfulness](https://open.spotify.com/album/6gODh3t3GeohyQMrEZyskI) | 6:58 |
 | 91 | [Closing Meditation](https://open.spotify.com/track/1d25xxmGKe134EkAn9s6AG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live in Love, Vol\. 2](https://open.spotify.com/album/4jBwmGefP4zLBpJ3UN1gC2) | 6:00 |

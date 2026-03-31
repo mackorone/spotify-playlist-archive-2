@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,546 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,563 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
 | 50 | [At The Cross](https://open.spotify.com/track/1IAhLdE6jDVfLyV10b68cG) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/7IYkLgcSw21e6uBRiXJKHI) | 3:39 |
 
-Snapshot ID: `accaAAAAAACNsEnEVyY3umcf1EeEW4Ht`
+Snapshot ID: `achrgAAAAACHcVTvnocJgEKVJ3tsKKiS`

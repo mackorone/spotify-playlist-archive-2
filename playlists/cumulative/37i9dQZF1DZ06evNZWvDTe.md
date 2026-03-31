@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-239 songs - 14 hr 12 min
+240 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Hello \(feat\. KiDi\)](https://open.spotify.com/track/51UajxghdmBlcW1WGU1lXa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 4:01 | 2021-12-30 | 2022-10-12 |
 | [Hennessy Cypher](https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Hennessy Cypher](https://open.spotify.com/album/3pqhwdNsbyzuXL54RMUjNw) | 8:20 | 2024-07-27 | 2024-08-24 |
 | [Highest, Pt\. 1 \- Interlude](https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 0:35 | 2022-09-18 | 2025-05-17 |
-| [Homicide](https://open.spotify.com/track/4sXR32GHaqM9WKPpqdfQtr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/1m8U2P0PXOh00k1GnCjObK) | 2:57 | 2026-03-01 |  |
+| [Homicide](https://open.spotify.com/track/4sXR32GHaqM9WKPpqdfQtr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/1m8U2P0PXOh00k1GnCjObK) | 2:57 | 2026-03-01 | 2026-03-31 |
 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 | 2022-05-21 | 2025-12-25 |
 | [Honey \(feat\. Kuami Eugene\)](https://open.spotify.com/track/5nVhVTm0ZVWMiFRXmC1ori) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:17 | 2022-03-13 | 2022-09-25 |
 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 | 2022-05-10 | 2025-11-20 |
@@ -175,6 +175,7 @@
 | [Onyame eyhira\(produced By Kaywa\) \(feat\. Castro\)](https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:24 | 2021-12-28 | 2022-10-13 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2021-12-28 | 2025-03-31 |
 | [Oofeets](https://open.spotify.com/track/6AHcBAF5OFbachtFx1WiL0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/3OmwpHJA0I4yi8Jxa6CVK3) | 3:46 | 2025-12-13 | 2026-01-22 |
+| [Original](https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 4:06 | 2026-03-31 |  |
 | [Original](https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:07 | 2022-07-19 | 2025-11-07 |
 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-13 | 2025-09-18 |
 | [Otan](https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a) | 3:17 | 2025-09-18 |  |

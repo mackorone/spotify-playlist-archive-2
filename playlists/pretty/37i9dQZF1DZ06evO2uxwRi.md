@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,537 likes - 44 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,541 likes - 44 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,26 +16,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 6 | [Boom Roasted](https://open.spotify.com/track/4w6NzeDqQtJniU3q9lTZJc) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 2:43 |
 | 7 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
 | 8 | [A Thousand Years](https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 4:00 |
-| 9 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
+| 9 | [Head On Collision](https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:46 |
 | 10 | [100%](https://open.spotify.com/track/26IlCzN5laD4d0QF7pHIiG) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:30 |
 | 11 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 |
-| 12 | [Head On Collision](https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:46 |
+| 12 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
 | 13 | [Dressed To Kill](https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:28 |
 | 14 | [Laugh It Off](https://open.spotify.com/track/04b0odih4serjGTkd2vjUm) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 |
 | 15 | [King Of Wishful Thinking](https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
 | 16 | [Hold My Hand](https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:42 |
 | 17 | [Truth Of My Youth](https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:02 |
 | 18 | [Beer and Blood Stains](https://open.spotify.com/track/0ZzFPV1ksTXatHVgxNXvJz) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:19 |
-| 19 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
-| 20 | [Forget My Name](https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:09 |
+| 19 | [Forget My Name](https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:09 |
+| 20 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
 | 21 | [The Glory Of Love](https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:19 |
 | 22 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
-| 23 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
-| 24 | [Sonny](https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:27 |
+| 23 | [Sonny](https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:27 |
+| 24 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
 | 25 | [Failure's Not Flattering](https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:51 |
 | 26 | [Treat Yourself](https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 |
-| 27 | [Part of Your World](https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:58 |
-| 28 | [Something I Call Personality](https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 2:40 |
+| 27 | [Something I Call Personality](https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 2:40 |
+| 28 | [Part of Your World](https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:58 |
 | 29 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
 | 30 | [This Disaster](https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:08 |
 | 31 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 43 | [Listen To Your Friends](https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:19 |
 | 44 | [nothing matters \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:23 |
 
-Snapshot ID: `accaAAAAAAAsK2V2XbxrWv6+rirI4KV7`
+Snapshot ID: `achrgAAAAABGgHieGXXG7wesFRwRV/b3`

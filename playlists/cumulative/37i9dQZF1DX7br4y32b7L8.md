@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist
 
-866 songs - 1 day 19 hr 29 min
+867 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Dumb Ways to Die](https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI) | [Tangerine Kitty](https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T) | [Dumb Ways to Die](https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6) | 3:00 | 2023-03-06 | 2023-04-19 |
 | [Durf Niet](https://open.spotify.com/track/04AqyNAI5Sddba51EWhqiE) | [Wesley & Lynn](https://open.spotify.com/artist/6sK2fAn86mDi6GhhWLUwk9), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Durf Niet](https://open.spotify.com/album/1mH39i9NW0c1vnsi6CO3zC) | 2:18 | 2023-11-29 | 2023-12-30 |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-06 | 2023-07-11 |
-| [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2025-12-18 |  |
+| [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2025-12-18 | 2026-03-31 |
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-02-23 | 2023-03-28 |
 | [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 | 2024-12-18 | 2025-10-03 |
 | [Echte Liefde](https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Echte liefde](https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd) | 3:32 | 2024-11-21 | 2025-06-21 |
@@ -246,6 +246,7 @@
 | [Fall Back](https://open.spotify.com/track/2C4hn4mieI2Oot6Z2NlAJO) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/42TE5Np0NZj4OngJLxtjn7) | 2:09 | 2024-07-17 | 2024-10-15 |
 | [Falling Faster](https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl) | [Dylan Espeseth](https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0) | [Falling Faster](https://open.spotify.com/album/55Kd1nwppQaWjuKmphoeih) | 1:32 | 2024-05-15 | 2024-06-01 |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-06 | 2024-05-24 |
+| [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 | 2026-03-30 |  |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-27 | 2023-05-10 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-04-10 | 2025-05-08 |
 | [Feels Like Summer](https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Feels Like Summer](https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k) | 3:07 | 2024-06-26 | 2024-10-02 |

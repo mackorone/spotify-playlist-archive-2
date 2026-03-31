@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,773 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,777 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 46 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 47 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 48 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
-| 49 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
-| 50 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
+| 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
+| 50 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
 
 Snapshot ID: `AAAAAAF89+baT1llTQ/kpdaEsqJ7Hj83`

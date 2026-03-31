@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,933 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,992 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 26 | [Flood Of Dreams](https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Porthgain Wave](https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t) | 2:07 |
 | 27 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
 | 28 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
-| 29 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Sollay](https://open.spotify.com/artist/1qXg0buEWygWqO6DM1m4mq) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
-| 30 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
-| 31 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
+| 29 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
+| 30 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
+| 31 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Sollay](https://open.spotify.com/artist/1qXg0buEWygWqO6DM1m4mq) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
 | 32 | [Bankside Brook](https://open.spotify.com/track/1ZEFrqKC6alse3gc8VN9e9) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Rural Nature Sounds](https://open.spotify.com/album/2BaceU3ldmiPRUjPHb4imI) | 5:28 |
 | 33 | [Gentle Brook](https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Calming Nature Sounds](https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM) | 3:16 |
 | 34 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 46 | [Gentle Scottish Stream](https://open.spotify.com/track/0dKGsQxWNrUElbR46vHoJz) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Gentle Scottish Stream](https://open.spotify.com/album/3WzdhG6WOZOXmDmXQFT82N) | 2:22 |
 | 47 | [Gentle River Flow](https://open.spotify.com/track/3Gs2QLEuEXUEJeLidHuk7y) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Flowing Rivers](https://open.spotify.com/album/7uhHSNlivW28TuDO2fs6J4) | 3:21 |
 | 48 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |
-| 49 | [Crystal River](https://open.spotify.com/track/3xI1aR8lHTFgPjYIoqo0S4) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 4:08 |
+| 49 | [Mountain Stream](https://open.spotify.com/track/6LDHyOcmn6t2oKHMb8O0E6) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Mountain Stream](https://open.spotify.com/album/4IZzLEcCrmGvmpaPEvPCjI) | 3:30 |
 | 50 | [Waterfall In The Forest](https://open.spotify.com/track/0yjxDtpJck8VnEaLh7rcyK) | [Stereo Outdoor Sampling](https://open.spotify.com/artist/34IdTgwUmZY7V5J44aFSzR) | [Waterfall In The Forest](https://open.spotify.com/album/5ZJavnJ7Qs0th2aPSEeUFO) | 4:02 |
 
 Snapshot ID: `AAAAAFnvzh58XYSDbqGW+qYb0s27ZrhG`

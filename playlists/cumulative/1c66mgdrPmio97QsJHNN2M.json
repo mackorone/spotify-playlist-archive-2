@@ -8451,6 +8451,24 @@
     },
     {
       "album": {
+        "name": "FLIGHT ATTUNED",
+        "url": "https://open.spotify.com/album/78ffn5hIhwzN5w8HW6MCKC"
+      },
+      "artists": [
+        {
+          "name": "Nibs",
+          "url": "https://open.spotify.com/artist/44PCnr42qAFVWTK6z6Aydc"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198479,
+      "name": "FLIGHT ATTUNED",
+      "url": "https://open.spotify.com/track/0AhGhH87FruUWr2Z8QRFRR"
+    },
+    {
+      "album": {
         "name": "Flip Dat",
         "url": "https://open.spotify.com/album/2RfOMDFHmPpvjjPWbVdlwf"
       },
@@ -12071,6 +12089,24 @@
     },
     {
       "album": {
+        "name": "In Covenant / Searching4U",
+        "url": "https://open.spotify.com/album/6KNRMeOEeiQ7OW2wu2VxF9"
+      },
+      "artists": [
+        {
+          "name": "B. Shay",
+          "url": "https://open.spotify.com/artist/0HjhYifntPQLGZ1AElPeqI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "In Covenant",
+      "url": "https://open.spotify.com/track/6wtV43PhgKnwSg5Pzffg0I"
+    },
+    {
+      "album": {
         "name": "In Nocte Sancta, op. I",
         "url": "https://open.spotify.com/album/4efPKSkwlCaHkvyaxBBogk"
       },
@@ -13671,6 +13707,24 @@
     },
     {
       "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/1hWOwKVfugdmgfIUBPK5c1"
+      },
+      "artists": [
+        {
+          "name": "Martin Firehead",
+          "url": "https://open.spotify.com/artist/5B90dSOkVnwrwf2IJ7Rso6"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191979,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/0Syg8u4WaXLdV88k2ESe34"
+    },
+    {
+      "album": {
         "name": "Lights Flicker",
         "url": "https://open.spotify.com/album/5VHB716ISArfEer7MHgitx"
       },
@@ -14428,7 +14482,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 196400,
       "name": "Love Forever",
       "url": "https://open.spotify.com/track/1B0oJwUpdX8liSVWHjSoBp"
@@ -16612,6 +16666,24 @@
       "duration_ms": 202835,
       "name": "Never The One",
       "url": "https://open.spotify.com/track/63N1txkohAbf7TcrPAmhAo"
+    },
+    {
+      "album": {
+        "name": "New Car",
+        "url": "https://open.spotify.com/album/2VtdVtsUeAkBpNaC2C74yp"
+      },
+      "artists": [
+        {
+          "name": "TORYONTHEBEAT",
+          "url": "https://open.spotify.com/artist/3AkvEQvJYYQcX20kZ8l7j9"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "New Car",
+      "url": "https://open.spotify.com/track/5sL4TKdHF4sgWL6CuU5VIU"
     },
     {
       "album": {
@@ -19443,6 +19515,28 @@
     },
     {
       "album": {
+        "name": "Raining in Tokyo",
+        "url": "https://open.spotify.com/album/7uG7FlamHzLdgDgCcp2335"
+      },
+      "artists": [
+        {
+          "name": "J.s.R",
+          "url": "https://open.spotify.com/artist/4AgFh2nWsr8tykFtJoPfXX"
+        },
+        {
+          "name": "David Love",
+          "url": "https://open.spotify.com/artist/5vio9sHGTUJUj3PjF9NPvJ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Raining in Tokyo",
+      "url": "https://open.spotify.com/track/05ySH0wTMWeUVPG3NjZvpZ"
+    },
+    {
+      "album": {
         "name": "Rainlight",
         "url": "https://open.spotify.com/album/1rGZvzIU1JroxM8Zc8gUGx"
       },
@@ -20210,6 +20304,24 @@
       "duration_ms": 211698,
       "name": "Roar (Instrumental)",
       "url": "https://open.spotify.com/track/5Pu3DsBzhrdr33ZV7oHxzB"
+    },
+    {
+      "album": {
+        "name": "Rock hard, ride free",
+        "url": "https://open.spotify.com/album/1etssOqs795c6cTprSXq7P"
+      },
+      "artists": [
+        {
+          "name": "Dead Gaze NL",
+          "url": "https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250635,
+      "name": "Rock hard, ride free",
+      "url": "https://open.spotify.com/track/6UQ4EwZAGporPTw83GDbOB"
     },
     {
       "album": {
@@ -23254,6 +23366,24 @@
       "duration_ms": 204289,
       "name": "Tau Neutrino",
       "url": "https://open.spotify.com/track/2baRIWyOx7rzjpGYSYzBMc"
+    },
+    {
+      "album": {
+        "name": "Teach Me How (Candlelight Version)",
+        "url": "https://open.spotify.com/album/0SxYZ1w7GAXykBX7KpCqML"
+      },
+      "artists": [
+        {
+          "name": "Whyzer",
+          "url": "https://open.spotify.com/artist/2TI6EvqRMyrpv8MbLygWLj"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176549,
+      "name": "Teach Me How - Candlelight Version",
+      "url": "https://open.spotify.com/track/4EeJXkS7NBIE6OgYXo7zcE"
     },
     {
       "album": {
@@ -27228,6 +27358,24 @@
       "duration_ms": 127000,
       "name": "Wolves (Instrumental Version)",
       "url": "https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK"
+    },
+    {
+      "album": {
+        "name": "Work At Night",
+        "url": "https://open.spotify.com/album/7fdrdcXAGBSwE1V11ShrYU"
+      },
+      "artists": [
+        {
+          "name": "Lara Liqueur",
+          "url": "https://open.spotify.com/artist/4nMmHLx5uusLFbjqA4WGTD"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "Work At Night",
+      "url": "https://open.spotify.com/track/5z7T0ec9POH9aMAPNAsgUI"
     },
     {
       "album": {

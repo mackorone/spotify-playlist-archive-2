@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Dan Sanchez y Kidd Keo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,032 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,040 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 90 | [Es Mi Gusto](https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq) | 3:35 |
 | 91 | [CINDERELLA](https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [CINDERELLA](https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK) | 3:36 |
 | 92 | [GOMIN0LA](https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [GOMIN0LA](https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq) | 2:49 |
-| 93 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
-| 94 | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO) | 2:30 |
+| 93 | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO) | 2:30 |
+| 94 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
 | 95 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 96 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 | 97 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |

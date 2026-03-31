@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 123013,
       "name": "312-391",
       "url": "https://open.spotify.com/track/7z4fzUAytbfZlpd6ekP3js"
@@ -33780,7 +33780,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -37008,6 +37008,24 @@
       "duration_ms": 201750,
       "name": "Parler tout bas",
       "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
+    },
+    {
+      "album": {
+        "name": "Num\u00e9ro d'\u00e9crou",
+        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141266,
+      "name": "PARLU",
+      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
     },
     {
       "album": {
@@ -43102,7 +43120,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 147810,
       "name": "Serrure #667",
       "url": "https://open.spotify.com/track/5vn0xBdcX4MORxgi1nvTGK"
@@ -45332,7 +45350,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 187959,
       "name": "SRT FULL NWAR",
       "url": "https://open.spotify.com/track/3NaM8jq5zSHdAa0idhBAmA"
@@ -50738,7 +50756,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 148573,
       "name": "VERISURE",
       "url": "https://open.spotify.com/track/41Jgfm85d6tiZ3Fifhv2bY"

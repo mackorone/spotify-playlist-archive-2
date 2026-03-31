@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218653,
+      "name": "Flat Pack",
+      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
+    },
+    {
+      "album": {
         "name": "Bluey the Album (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
       },
@@ -898,7 +920,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 116537,
       "name": "Tradies",
       "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"

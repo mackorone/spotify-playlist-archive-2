@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,077 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,075 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 6 | [Te Apuesto \- Remasterizado](https://open.spotify.com/track/3uM5bHJguZptW8prB7ADql) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Te Apuesto \(Remasterizado\)](https://open.spotify.com/album/3FYr2TrMy66YhigGoOpFu0) | 3:44 |
 | 7 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
 | 8 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
-| 9 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 |
-| 10 | [Soy Alegre](https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:09 |
+| 9 | [Soy Alegre](https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:09 |
+| 10 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 |
 | 11 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 12 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 13 | [Ven Conmigo](https://open.spotify.com/track/642pJ6MwUEE6QI426ScXmO) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 17 | [Que Fue Lo Que Paso](https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:47 |
 | 18 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 | 19 | [Sobrino Del Chavalon \- En Vivo](https://open.spotify.com/track/4IZvy2zGSrlUkGCRZ02pVN) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/77ZS3zOcl24hgHQpI9S9Z1) | 3:28 |
-| 20 | [7](https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:03 |
+| 20 | [Buen Resultado \- En Vivo](https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Buen Resultado \(En Vivo\)](https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB) | 2:54 |
 | 21 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 |
-| 22 | [Buen Resultado \- En Vivo](https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Buen Resultado \(En Vivo\)](https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB) | 2:54 |
+| 22 | [7](https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:03 |
 | 23 | [Lejos \- En Vivo](https://open.spotify.com/track/5ApwxAEVY9BLPZ4x9KUNMF) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:27 |
 | 24 | [Lo Que Hay x Aquí](https://open.spotify.com/track/3Ck2hZFoRgNL2CUUkp64Bf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Lo Que Hay x Aquí](https://open.spotify.com/album/6b2PIJN4fzFif2Y1RivYOb) | 3:30 |
 | 25 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 49 | [DICE QUE QUIERE VERME](https://open.spotify.com/track/3kn2VQXsISqLcwEW1Rk9yU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 2:39 |
 | 50 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 |
 
-Snapshot ID: `accaAAAAAABX94yXunNZapPE37IEEKxz`
+Snapshot ID: `achrgAAAAAAzHtA5MOU71lz7RWPRzNkk`

@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-163 songs - 8 hr 53 min
+164 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 | 2022-09-16 | 2023-01-17 |
 | [Smash Shit Up](https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:47 | 2022-09-16 | 2023-02-03 |
 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2023-02-02 |  |
+| [Solidarity](https://open.spotify.com/track/5fcVW5y9qWX48UKbopp7GG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN) | 2:18 | 2026-03-31 |  |
 | [Sooner Kill 'Em First](https://open.spotify.com/track/4Wk5305BdZHpFaE0evPnPC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 3:16 | 2025-07-06 | 2025-08-07 |
 | [Sooner Kill 'Em First](https://open.spotify.com/track/5bZxgJ0gCXsiHBNZWUNlg9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:16 | 2025-11-16 | 2025-11-29 |
 | [Straight Edge \(I Liked You Better\) \- Bonus Track](https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:58 | 2025-11-12 | 2025-11-19 |
@@ -169,7 +170,7 @@
 | [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 | 2025-06-05 | 2025-08-04 |
 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 | 2022-09-16 |  |
 | [You'll Never Walk Alone](https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 3:22 | 2023-02-22 | 2025-11-10 |
-| [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 | 2022-09-16 |  |
+| [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 | 2022-09-16 | 2026-03-31 |
 | [Your Spirit's Alive](https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:20 | 2022-09-16 | 2023-06-01 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 141230,
       "name": "Baltimore (feat. Trettmann)",
       "url": "https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb"
@@ -726,6 +726,24 @@
       "duration_ms": 163001,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/13UTiKaRrV0yUvSQ284uzs"
+    },
+    {
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156617,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
     },
     {
       "album": {
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 138582,
       "name": "DVD",
       "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
@@ -2088,6 +2106,28 @@
       "duration_ms": 210000,
       "name": "FULL IN LOVE",
       "url": "https://open.spotify.com/track/1P8sXHNdNth4EMXDNk757U"
+    },
+    {
+      "album": {
+        "name": "Fahrt ins Blaue",
+        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172023,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
     },
     {
       "album": {

@@ -600,7 +600,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 206625,
       "name": "Bassline Riot",
       "url": "https://open.spotify.com/track/0jQEbBOmXfT1j0C6a1FPUr"
@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "BKJN",
+        "url": "https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv"
+      },
+      "artists": [
+        {
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138024,
+      "name": "BKJN",
+      "url": "https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo"
+    },
+    {
+      "album": {
         "name": "BLACK HOLE",
         "url": "https://open.spotify.com/album/4s4jnEYCM5gQalByOEXQqo"
       },
@@ -1008,6 +1026,28 @@
       "duration_ms": 284494,
       "name": "Bring It Hardcore",
       "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+    },
+    {
+      "album": {
+        "name": "Bring The Hammer Down",
+        "url": "https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140919,
+      "name": "Bring The Hammer Down",
+      "url": "https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt"
     },
     {
       "album": {
@@ -3004,7 +3044,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 151024,
       "name": "Hard Gaan",
       "url": "https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y"
@@ -4019,6 +4059,36 @@
     },
     {
       "album": {
+        "name": "Just like me (Nosferatu Remix)",
+        "url": "https://open.spotify.com/album/2AkApAXF401gaLEhEQdfyr"
+      },
+      "artists": [
+        {
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        },
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "MC Jeff",
+          "url": "https://open.spotify.com/artist/7zKk52i6Ad4So5HltHRPa9"
+        },
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296228,
+      "name": "Just like me - Nosferatu Remix",
+      "url": "https://open.spotify.com/track/1ZBR5pgAyBOVEByrGGT27i"
+    },
+    {
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0"
       },
@@ -4114,7 +4184,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 178666,
       "name": "Kick Train",
       "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
@@ -4678,7 +4748,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 181371,
       "name": "Loyal to the Game",
       "url": "https://open.spotify.com/track/7wIuIs7P8QOPaASnFhnxt0"
@@ -5580,7 +5650,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 153142,
       "name": "Oh My (Dimitri K Remix)",
       "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
@@ -6657,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Self-Destroyed EP",
+        "url": "https://open.spotify.com/album/0NiIooDAUgxBPyh1MllqHA"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Self-Destroyed",
+      "url": "https://open.spotify.com/track/50aM5Kh9jnUezTFFKUqZyt"
+    },
+    {
+      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -6774,7 +6862,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 188562,
       "name": "Sikam Szampan Techno",
       "url": "https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp"

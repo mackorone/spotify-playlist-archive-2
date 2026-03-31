@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 28 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418 likes - 28 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 2 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 |
 | 3 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
 | 4 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
-| 5 | [Slide Away \(Remastered\)](https://open.spotify.com/track/5JIWKAgPBMzV9k0ivxlB62) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:07 |
+| 5 | [Afterglow \(Remastered\)](https://open.spotify.com/track/3nLnsbuCQgWL9QqinXxV6R) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:44 |
 | 6 | [Silverspoon](https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:42 |
 | 7 | [Dweeb](https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 4:23 |
 | 8 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 |
-| 9 | [Afterglow \(Remastered\)](https://open.spotify.com/track/3nLnsbuCQgWL9QqinXxV6R) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:44 |
+| 9 | [Slide Away \(Remastered\)](https://open.spotify.com/track/5JIWKAgPBMzV9k0ivxlB62) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:07 |
 | 10 | [High Again](https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
 | 11 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
 | 12 | [Mary](https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:46 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 27 | [Humbug](https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 | 28 | [Bloom \(Remastered\)](https://open.spotify.com/track/1g299OyEF4WpiZ2DIq32u3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:37 |
 
-Snapshot ID: `accaAAAAAAAhs1WeoiGdDG60PprW/Auy`
+Snapshot ID: `achrgAAAAAAMm4P4td/FPbSseyVxMbSt`

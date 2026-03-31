@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,167 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,234 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 18 | [Call Me](https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
 | 19 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:07 |
 | 20 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
-| 21 | [Sorry](https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru) | 3:46 |
-| 22 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
-| 23 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
+| 21 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
+| 22 | [Sorry](https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru) | 3:46 |
+| 23 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
 | 24 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 |
 | 25 | [Ashes of Eden](https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 4:53 |
 | 26 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 72 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
 | 73 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 |
 | 74 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
-| 75 | [Stealing Life](https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [THREAD](https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT) | 5:04 |
+| 75 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
 
 Snapshot ID: `AAAAANEIGGP3FTLBkZTKi3h0U5JHC03S`

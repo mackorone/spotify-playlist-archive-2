@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942,731 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,942,556 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 46 | [Pool \- Gravagerz Version \- Sped Up](https://open.spotify.com/track/0yQOKvmYpZDzMmOMS9qY1u) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version \- Sped Up & Slowed Down\)](https://open.spotify.com/album/0x2OZtWCIZP5tDBazcPdlJ) | 1:57 |
 | 47 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
 | 48 | [Messy \- Sped Up](https://open.spotify.com/track/17a9C1O1SoUAr5sVwu4YUR) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy EP](https://open.spotify.com/album/1S7fb88qH3ph787NbiX3Vq) | 4:18 |
-| 49 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 |
-| 50 | [Wannabe \- Sped Up Version](https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe \(Sped Up Version\)](https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ) | 3:19 |
+| 49 | [Wannabe \- Sped Up Version](https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe \(Sped Up Version\)](https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ) | 3:19 |
+| 50 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 |
 | 51 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
 | 52 | [greedy sped up](https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 1:59 |
 | 53 | [Give It To Me](https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN) | [Henrik](https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx) | [Give It To Me](https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v) | 2:56 |

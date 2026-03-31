@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,285 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,303 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 40 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
 | 41 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 |
 | 42 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 |
-| 43 | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav) | 2:58 |
-| 44 | [Shawty \(feat\. Coogie\)](https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [쿠기 \(Coogie\)](https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:48 |
+| 43 | [Shawty \(feat\. Coogie\)](https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [쿠기 \(Coogie\)](https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:48 |
+| 44 | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav) | 2:58 |
 | 45 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
 | 46 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
 | 47 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |

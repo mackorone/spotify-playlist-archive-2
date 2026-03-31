@@ -2,7 +2,7 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heroes\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: \) \(핫한 국내 록 음악을 만나보세요!\)
 
 1,161 songs - 2 day 22 hr 32 min
 
@@ -814,7 +814,7 @@
 | [Romantist](https://open.spotify.com/track/2O043aP6XbrMNW0N00jtGj) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Romantist](https://open.spotify.com/album/0jl2ykzcUXPu6LZ8lZcrgv) | 5:30 | 2026-01-28 | 2026-02-13 |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2022-04-12 | 2025-05-31 |
 | [Ruby](https://open.spotify.com/track/1pha3bEl2w7TmudxbEq9rN) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Red Signal](https://open.spotify.com/album/1lxMHSVNpocUb4ls28XvET) | 4:43 | 2025-08-12 | 2025-08-27 |
-| [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 | 2025-10-06 |  |
+| [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 | 2025-10-06 | 2026-03-31 |
 | [Rules](https://open.spotify.com/track/6b8PDqaWAwX7aZ2f5wO2Tr) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [Rules](https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz) | 3:57 | 2025-02-25 | 2025-04-12 |
 | [Run](https://open.spotify.com/track/1vWvtub6ZiPgjGifozuvTW) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Run](https://open.spotify.com/album/5wrJcdaP62CGZxEwIY6MIW) | 3:46 | 2025-02-05 | 2025-03-18 |
 | [Run](https://open.spotify.com/track/4SQw5cHoDxfoSTtaXgaG86) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Run](https://open.spotify.com/album/7McA98esvLlvWfNOnCmfqd) | 3:52 | 2023-04-07 | 2023-04-27 |
@@ -1043,7 +1043,7 @@
 | [War](https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [War](https://open.spotify.com/album/02JAq1LeSVB6WMqgctzmWB) | 4:46 | 2022-04-12 | 2022-07-28 |
 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-01-30 | 2025-03-18 |
 | [WatchOut](https://open.spotify.com/track/5KbCS44g1kvV6zVXe29NzQ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Chil](https://open.spotify.com/album/2RTfaQzsiBOgVb1WlUXlwM) | 2:57 | 2022-10-01 | 2022-10-19 |
-| [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 | 2024-03-06 | 2026-03-30 |
+| [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 | 2024-03-06 |  |
 | [We All Live Young \- Geuneu Remix Version](https://open.spotify.com/track/2C8PXEFlJPsEZw4qEYhv78) | [이츠허밍](https://open.spotify.com/artist/2qYgbpt1efCVWNjDbhpeVf) | [We All Live Young](https://open.spotify.com/album/2ZUs2eaYqRsSOEUbZzgRXk) | 3:22 | 2023-07-28 | 2023-08-18 |
 | [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 | 2023-01-14 | 2023-01-26 |
 | [we are fine](https://open.spotify.com/track/4h4FflzmpQTIMZ062LpCqm) | [BLSG](https://open.spotify.com/artist/1a4wvAslylMTa4fafqPJFi) | [we are fine](https://open.spotify.com/album/6QBzIrib2DDrsMB3vQO6GO) | 3:27 | 2022-04-12 | 2022-04-21 |

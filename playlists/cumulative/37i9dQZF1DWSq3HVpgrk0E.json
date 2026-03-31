@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -118,7 +144,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 234654,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI"
@@ -462,7 +488,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 111462,
       "name": "DPMO",
       "url": "https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0"
@@ -502,6 +528,32 @@
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
+    },
+    {
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
       "album": {
@@ -600,6 +652,28 @@
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Griddl\u00eb",
+      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
     },
     {
       "album": {
@@ -1448,7 +1522,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 165668,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"

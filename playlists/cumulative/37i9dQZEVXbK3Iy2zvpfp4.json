@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 176032,
       "name": "31",
       "url": "https://open.spotify.com/track/1Gix5ydCHyeExbBvbmI7WH"
@@ -3186,6 +3186,24 @@
       "duration_ms": 204000,
       "name": "AJ PO ROKOCH",
       "url": "https://open.spotify.com/track/1smTowoh6URIJyF2gPD75K"
+    },
+    {
+      "album": {
+        "name": "AJAJAJ",
+        "url": "https://open.spotify.com/album/4VRUN2fnz7mIZqlVRQHZ14"
+      },
+      "artists": [
+        {
+          "name": "Hrdlovi\u010d",
+          "url": "https://open.spotify.com/artist/4UReAgvMlrqEmCUyXfwqca"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134263,
+      "name": "AJAJAJ",
+      "url": "https://open.spotify.com/track/6BWm8BSDfURVk2WzPjLfrB"
     },
     {
       "album": {
@@ -7332,7 +7350,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 157213,
       "name": "Bass da da da (Sentad\u00e3o)",
       "url": "https://open.spotify.com/track/7H7ZaKNujnBdb7goF9ZcWU"
@@ -28502,7 +28520,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 111341,
       "name": "hannahmontanah",
       "url": "https://open.spotify.com/track/2Bq2ptvWVdFNfvWAfGdHzE"
@@ -34924,7 +34942,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 124267,
       "name": "Italiano,Cigan,Arab",
       "url": "https://open.spotify.com/track/0ByJbHq3o1ssNSTSWZAZi9"
@@ -43690,6 +43708,24 @@
       "duration_ms": 152571,
       "name": "Ma\u010fari",
       "url": "https://open.spotify.com/track/48MFI7CDb3SE3bkKJEjnnA"
+    },
+    {
+      "album": {
+        "name": "Ma\u010fari (Remastered)",
+        "url": "https://open.spotify.com/album/5lu9F7OQvV9Mx62ZZGvi9H"
+      },
+      "artists": [
+        {
+          "name": "XXXTRAKTOR",
+          "url": "https://open.spotify.com/artist/0K3HTzDJ8ojqiH9OjKJlYL"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Ma\u010fari (Remastered)",
+      "url": "https://open.spotify.com/track/7A8RLEsj0uP0wv1i40sWFh"
     },
     {
       "album": {

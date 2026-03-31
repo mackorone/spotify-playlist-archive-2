@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 5831,
+  "num_followers": 5835,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Black Swan Songs",
-        "url": "https://open.spotify.com/album/2voi9yJzbucvDooWNM2ro7"
+        "name": "High Society",
+        "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
       },
       "artists": [
         {
           "name": "Epik High",
           "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TBNY",
+          "url": "https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Lesson 3 (MC)",
-      "url": "https://open.spotify.com/track/19rhATjgisVmI9uwb9hRW4"
+      "duration_ms": 236706,
+      "name": "\ud53c\ud574\ub9dd\uc0c1 Pt.3 (with TBNY)",
+      "url": "https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -655,18 +659,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
       "artists": [
         {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Epik High & MYK",
+          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
         }
       ],
-      "duration_ms": 230765,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr"
+      "duration_ms": 255866,
+      "name": "It\u2019s Me (feat. Epik High & MYK)",
+      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -687,22 +695,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
       "artists": [
         {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Epik High & MYK",
-          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 255866,
-      "name": "It\u2019s Me (feat. Epik High & MYK)",
-      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
+      "duration_ms": 230765,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -775,6 +779,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
       },
@@ -827,22 +847,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Handalas",
         "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
@@ -867,22 +871,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Leo Kekoa, Dok2 & Simon Dominic",
-          "url": "https://open.spotify.com/artist/2qkxAjAlyP3hsxOIpXdXjK"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Give It to H.E.R. (feat. Leo Kekoa, Dok2 & Simon Dominic)",
-      "url": "https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS"
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -903,18 +903,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Leo Kekoa, Dok2 & Simon Dominic",
+          "url": "https://open.spotify.com/artist/2qkxAjAlyP3hsxOIpXdXjK"
         }
       ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
+      "duration_ms": 254866,
+      "name": "Give It to H.E.R. (feat. Leo Kekoa, Dok2 & Simon Dominic)",
+      "url": "https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "High Society",
-        "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
+        "name": "Black Swan Songs",
+        "url": "https://open.spotify.com/album/2voi9yJzbucvDooWNM2ro7"
       },
       "artists": [
         {
           "name": "Epik High",
           "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "TBNY",
-          "url": "https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j"
         }
       ],
-      "duration_ms": 236706,
-      "name": "\ud53c\ud574\ub9dd\uc0c1 Pt.3 (with TBNY)",
-      "url": "https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU"
+      "duration_ms": 281826,
+      "name": "Lesson 3 (MC)",
+      "url": "https://open.spotify.com/track/19rhATjgisVmI9uwb9hRW4"
     },
     {
       "added_at": "2024-11-20 08:34:55",

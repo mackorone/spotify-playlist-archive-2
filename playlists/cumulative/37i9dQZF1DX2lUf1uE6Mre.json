@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 158480,
       "name": "Bei dir",
       "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
@@ -1174,6 +1174,24 @@
       "duration_ms": 221535,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+    },
+    {
+      "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139803,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
     },
     {
       "album": {
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 150000,
       "name": "DRECKIGE DOLLARS",
       "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 108569,
       "name": "MAYBACH TRUCK",
       "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 214146,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3p4kiz2Gr2bRkTZzKRDb28"
@@ -5759,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
+    },
+    {
+      "album": {
         "name": "Moneygram",
         "url": "https://open.spotify.com/album/0EWy7iCpUK4fAxeh6yhWF7"
       },
@@ -6116,7 +6152,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 206053,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -6817,6 +6853,32 @@
     },
     {
       "album": {
+        "name": "Que pasa",
+        "url": "https://open.spotify.com/album/3AXzv1siNozGI4AOaKuv13"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Que pasa",
+      "url": "https://open.spotify.com/track/4fH8BbJKlb5jnmmXDroWe1"
+    },
+    {
+      "album": {
         "name": "Rabona",
         "url": "https://open.spotify.com/album/3QlyzBi2sdJtlH63MTEqeo"
       },
@@ -7450,6 +7512,24 @@
       "duration_ms": 158448,
       "name": "SMS",
       "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
+    },
+    {
+      "album": {
+        "name": "so einfach",
+        "url": "https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127776,
+      "name": "so einfach",
+      "url": "https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd"
     },
     {
       "album": {
@@ -8734,6 +8814,28 @@
       "duration_ms": 153722,
       "name": "VIP",
       "url": "https://open.spotify.com/track/1MzSOhTWEPzy18WT0hzcK9"
+    },
+    {
+      "album": {
+        "name": "Vollmond",
+        "url": "https://open.spotify.com/album/5R0nZ5Wweeme5DX3LNu3GY"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "JUGGLERZ",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147472,
+      "name": "Vollmond",
+      "url": "https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 9457,
+  "num_followers": 9471,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
+        "name": "Naoa",
+        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "added_at": "2026-03-27 02:59:15",
+      "album": {
         "name": "Kuokota",
         "url": "https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 242076,
       "name": "Kuokota",
       "url": "https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF"
-    },
-    {
-      "added_at": "2026-03-27 02:59:15",
-      "album": {
-        "name": "Naoa",
-        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Naoa",
-      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa"
-      },
-      "artists": [
-        {
-          "name": "Mczo Morfan (Big)",
-          "url": "https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2"
-        }
-      ],
-      "duration_ms": 240107,
-      "name": "Bambia",
-      "url": "https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA"
-    },
-    {
-      "added_at": "2026-03-27 02:59:15",
-      "album": {
         "name": "Jina",
         "url": "https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 227662,
       "name": "Jina",
       "url": "https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG"
+    },
+    {
+      "added_at": "2026-03-27 02:59:15",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa"
+      },
+      "artists": [
+        {
+          "name": "Mczo Morfan (Big)",
+          "url": "https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2"
+        }
+      ],
+      "duration_ms": 240107,
+      "name": "Bambia",
+      "url": "https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -855,18 +855,22 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+        "name": "Wanga",
+        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
         }
       ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+      "duration_ms": 244767,
+      "name": "Wanga",
+      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -891,22 +895,18 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
-        "name": "Wanga",
-        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
       "artists": [
         {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 244767,
-      "name": "Wanga",
-      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
-    },
-    {
-      "added_at": "2026-03-27 02:59:15",
-      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 180000,
       "name": "Nikizipata",
       "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2026-03-27 02:59:15",
+      "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
+        "name": "Dar Es Salaam",
+        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "Dar Es Salaam",
+      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
+    },
+    {
+      "added_at": "2026-03-27 02:59:15",
+      "album": {
         "name": "Rudi Tena",
         "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 226208,
       "name": "Rudi Tena",
       "url": "https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1"
-    },
-    {
-      "added_at": "2026-03-27 02:59:15",
-      "album": {
-        "name": "Dar Es Salaam",
-        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Dar Es Salaam",
-      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
-        "name": "Shobo",
-        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 186193,
-      "name": "Shobo",
-      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
-    },
-    {
-      "added_at": "2026-03-27 02:59:15",
-      "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
@@ -1239,22 +1223,18 @@
     {
       "added_at": "2026-03-27 02:59:15",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+        "name": "Shobo",
+        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
       },
       "artists": [
         {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
         }
       ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+      "duration_ms": 186193,
+      "name": "Shobo",
+      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -1279,6 +1259,42 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+    },
+    {
+      "added_at": "2026-03-27 02:59:15",
+      "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+    },
+    {
+      "added_at": "2026-03-27 02:59:15",
+      "album": {
+        "name": "Kijumbe",
+        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
+      },
+      "artists": [
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "duration_ms": 209084,
+      "name": "Kijumbe",
+      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
     },
     {
       "added_at": "2026-03-27 02:59:15",
@@ -1331,22 +1347,6 @@
       "duration_ms": 279000,
       "name": "Cheusi Cheupe (feat. Meja Kunta)",
       "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
-    },
-    {
-      "added_at": "2026-03-27 02:59:15",
-      "album": {
-        "name": "Kijumbe",
-        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
-      },
-      "artists": [
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
-        }
-      ],
-      "duration_ms": 209084,
-      "name": "Kijumbe",
-      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
     },
     {
       "added_at": "2026-03-27 02:59:15",

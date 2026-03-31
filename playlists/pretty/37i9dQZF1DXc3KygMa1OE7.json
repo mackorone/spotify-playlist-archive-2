@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2605959,
+  "num_followers": 2606042,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 274560,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2026-02-25 17:39:27",

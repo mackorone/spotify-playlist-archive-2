@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURSまであと4日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Masato Hayashi
+> 【POP YOURSまであと3日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Sonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,148 likes - 102 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,160 likes - 102 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 101 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
 | 102 | [DREAMS COME TRUE](https://open.spotify.com/track/4lNAolOACIO4o3NuIsWLY5) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [DREAMS COME TRUE](https://open.spotify.com/album/7yrWn3kDO6z9hc6PXYzgBN) | 3:31 |
 
-Snapshot ID: `AAAAAOI7DEPQ96XVKpzmm+i7nhTadG4T`
+Snapshot ID: `AAAAAAm1EoMWcPkVEPhiELhdamACv/RW`

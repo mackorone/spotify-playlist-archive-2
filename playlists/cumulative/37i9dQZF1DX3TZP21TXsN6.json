@@ -5971,6 +5971,28 @@
     },
     {
       "album": {
+        "name": "MET JOU",
+        "url": "https://open.spotify.com/album/7oXsSaQwH5BcvOg8FbyMmp"
+      },
+      "artists": [
+        {
+          "name": "TYCH",
+          "url": "https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ"
+        },
+        {
+          "name": "domchasing",
+          "url": "https://open.spotify.com/artist/5iHkjPYXxGnRAhjJ8ZvQi6"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122706,
+      "name": "MET JOU",
+      "url": "https://open.spotify.com/track/7F7yVvEO8QVfGKOOlhPxnV"
+    },
+    {
+      "album": {
         "name": "Mezelf even kwijt",
         "url": "https://open.spotify.com/album/1hjt515H6iTHbKzCpFaa6M"
       },

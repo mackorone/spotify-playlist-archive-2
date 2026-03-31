@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-111 songs - 6 hr 27 min
+112 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 | 2026-03-23 |  |
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-05 | 2026-03-20 |
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
-| [gas station girlfriend](https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT) | [Gabrielle Gutierrez](https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga) | [gas station girlfriend](https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg) | 3:48 | 2026-03-10 |  |
-| [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 | 2026-03-16 |  |
+| [Game On](https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Game On](https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH) | 2:26 | 2026-03-30 |  |
+| [gas station girlfriend](https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT) | [Gabrielle Gutierrez](https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga) | [gas station girlfriend](https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg) | 3:48 | 2026-03-10 | 2026-03-31 |
+| [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 | 2026-03-16 | 2026-03-31 |
 | [Gravity](https://open.spotify.com/track/4QIFS5XokMBJjfAdZjABPV) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [Out Of Nothing](https://open.spotify.com/album/5oJiqbHX8PnUc1uEEAcII7) | 4:40 | 2021-03-29 |  |
 | [GROWING](https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW) | 2:49 | 2025-12-29 | 2026-01-29 |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |
@@ -64,7 +65,7 @@
 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 | 2026-02-23 | 2026-03-14 |
 | [Life Your Way](https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [Life Your Way](https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7) | 3:20 | 2026-01-12 | 2026-02-22 |
 | [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 | 2026-02-24 | 2026-03-17 |
-| [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 | 2026-03-09 |  |
+| [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 | 2026-03-09 | 2026-03-31 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-07-26 |  |
 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2021-03-29 |  |
 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 | 2026-03-23 |  |
@@ -113,10 +114,10 @@
 | [Where Blossoms Remain \(꽃이 남아 있는 곳\)](https://open.spotify.com/track/0gJNeIbblQYLH2iVFTVUk2) | [ECLIPSE OF AERA](https://open.spotify.com/artist/3Stckikbh1beMMDjayt2W9) | [Where Blossoms Remain \(꽃이 남아 있는 곳\)](https://open.spotify.com/album/0Iect8Re2rVpvO7qimEemI) | 4:17 | 2025-11-04 | 2025-11-22 |
 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 | 2026-01-03 | 2026-01-29 |
 | [White Flag](https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA) | 4:00 | 2021-03-29 |  |
-| [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 | 2026-03-17 |  |
+| [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 | 2026-03-17 | 2026-03-31 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2021-03-29 |  |
 | [you accommodate my apprehensions](https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY) | [pato](https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg) | [you accommodate my apprehensions](https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT) | 3:30 | 2026-01-29 |  |
-| [yung n dumb](https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK) | [Marc Vinyls](https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8) | [yung n dumb](https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj) | 1:52 | 2026-03-06 |  |
+| [yung n dumb](https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK) | [Marc Vinyls](https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8) | [yung n dumb](https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj) | 1:52 | 2026-03-06 | 2026-03-31 |
 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 | 2021-03-29 |  |
 | [イマジネーション・シティ](https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [イマジネーション・シティ](https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8) | 3:33 | 2026-03-03 | 2026-03-20 |
 

@@ -4,7 +4,7 @@
 
 > Nieuw: FOCUS & Jack, Mooney11,  Vurr Flashy en meer…
 
-488 songs - 21 hr 5 min
+489 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Meer Money](https://open.spotify.com/track/54OgxYjv2mDpkZ4aw5mWAD) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Meer Money](https://open.spotify.com/album/2QlR4QRBLoAll73tKyWktI) | 2:07 | 2025-07-17 | 2025-08-29 |
 | [Mensenschuw](https://open.spotify.com/track/3HzeCBiXznhV1GPq02P6Vp) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Mensenschuw](https://open.spotify.com/album/2SlQxEVOF2zQpqypum8npc) | 2:06 | 2025-07-17 | 2025-08-08 |
 | [Mentality](https://open.spotify.com/track/0EwDbNMMk23a5icdhPRADv) | [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [Mentality](https://open.spotify.com/album/5Vfa1zOBB4Rda99O9oDjbF) | 1:35 | 2026-01-23 | 2026-02-27 |
+| [MET JOU](https://open.spotify.com/track/7F7yVvEO8QVfGKOOlhPxnV) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [domchasing](https://open.spotify.com/artist/5iHkjPYXxGnRAhjJ8ZvQi6) | [MET JOU](https://open.spotify.com/album/7oXsSaQwH5BcvOg8FbyMmp) | 2:02 | 2026-03-30 |  |
 | [Mezelf even kwijt](https://open.spotify.com/track/1zVYyc8qS3MPubzvzbZyTn) | [Burkeys](https://open.spotify.com/artist/43OU5L8Wx3q4hSkooXrfaJ), [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Mezelf even kwijt](https://open.spotify.com/album/1hjt515H6iTHbKzCpFaa6M) | 2:23 | 2026-02-26 |  |
 | [Mij Niet Stoorn](https://open.spotify.com/track/00E47XLbfaECEWD8U3LUti) | [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [SHEPTEMBER PACK](https://open.spotify.com/album/5B1T3BvG0Sbw33WRYkCBCX) | 2:15 | 2025-12-04 | 2026-01-15 |
 | [Mijn Meisje](https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:33 | 2026-01-29 | 2026-02-06 |

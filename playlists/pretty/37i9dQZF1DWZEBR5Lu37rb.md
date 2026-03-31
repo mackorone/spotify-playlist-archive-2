@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> You still believe in love, grand gestures, and songs that feel like a slow dance in the rain.
+> If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,827 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,842 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 16 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 |
 | 17 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
 | 18 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
-| 19 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
+| 19 | [Sip \(Alcohol\)](https://open.spotify.com/track/4s6x56uNiNCAA87yzqTz5G) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:38 |
 | 20 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
-| 21 | [Sip \(Alcohol\)](https://open.spotify.com/track/4s6x56uNiNCAA87yzqTz5G) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:38 |
+| 21 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
 | 22 | [Playboy](https://open.spotify.com/track/2AKS1HhpLu2rgkojECUm3V) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:27 |
 | 23 | [Wrong Places](https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:57 |
 | 24 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 36 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 37 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 |
 | 38 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/3RMr94P81nO3GtW9MfqNp5) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:45 |
-| 39 | [KU LO SA](https://open.spotify.com/track/6NYaKDhK6xOuylauWDuLrP) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:28 |
-| 40 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 39 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 40 | [KU LO SA](https://open.spotify.com/track/6NYaKDhK6xOuylauWDuLrP) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:28 |
 | 41 | [Need You](https://open.spotify.com/track/1rgK0UrJNwkaIptPI0a5kg) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 3:41 |
 | 42 | [Calculate \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate \(II\)](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 |
 | 43 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "description": "That summer sound.",
-  "num_followers": 2073808,
+  "num_followers": 2073760,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
-        "name": "Guess featuring billie eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
+        "name": "Guess featuring billie eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 165714,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
-        "name": "Bag Raiders (Deluxe)",
-        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
+        "name": "Bag Raiders (Deluxe)",
+        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
     },
     {
       "added_at": "2025-07-07 03:03:28",

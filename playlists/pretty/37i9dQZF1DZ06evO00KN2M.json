@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1156463,
+  "num_followers": 1156644,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAR1M+CP/57Kny4qgrmt6EK",
+  "snapshot_id": "achrgAAAAACDHI6E+0yWsUGFze2R3krA",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6"
+      "duration_ms": 222400,
+      "name": "Seven Wonders - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Seven Wonders - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": null,
@@ -299,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
@@ -308,9 +324,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
+      "duration_ms": 214666,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4rBnrnqnI0tcjcNAFO6RZO"
     },
     {
       "added_at": null,
@@ -331,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Mystery to Me",
+        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
       },
       "artists": [
         {
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4rBnrnqnI0tcjcNAFO6RZO"
+      "duration_ms": 289200,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
     },
     {
       "added_at": null,
@@ -363,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery to Me",
-        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
       "artists": [
         {
@@ -372,9 +388,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
+      "duration_ms": 250760,
+      "name": "Peacekeeper",
+      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
     },
     {
       "added_at": null,
@@ -395,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
       "artists": [
         {
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Peacekeeper",
-      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
+      "duration_ms": 249995,
+      "name": "Only over You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W"
     },
     {
       "added_at": null,
@@ -427,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
       "artists": [
         {
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 249995,
-      "name": "Only over You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W"
+      "duration_ms": 227826,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/3YrjFJwsOPWShEkIvxbqwW"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 167840,
       "name": "Monday Morning",
       "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/3YrjFJwsOPWShEkIvxbqwW"
     },
     {
       "added_at": null,

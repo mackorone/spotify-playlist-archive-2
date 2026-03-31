@@ -4,7 +4,7 @@
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-93 songs - 6 hr 13 min
+94 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [No Soy Tu Perro](https://open.spotify.com/track/3XVHMzqnE8vhVVGDKPFxR8) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No Soy Tu Perro](https://open.spotify.com/album/5N04Cpk0KQpwZioDIcvtEw) | 4:27 | 2023-03-21 | 2023-08-26 |
 | [Nocivo para la salud](https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 2:56 | 2023-01-14 |  |
 | [Nostalgia](https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Fin de siglo](https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD) | 4:26 | 2023-01-14 |  |
-| [Nunca digas que no](https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 5:14 | 2023-01-14 |  |
+| [Nunca digas que no](https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 5:14 | 2023-01-14 | 2026-03-31 |
+| [Nunca digas que no](https://open.spotify.com/track/32f9OzuvcqB6JQDaEP3Ej8) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 5:14 | 2026-03-31 |  |
 | [Oye cantinero](https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 5:42 | 2023-01-14 |  |
 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 | 2023-01-14 |  |
 | [Parece fácil](https://open.spotify.com/track/75dHHUzOPXZcFjFYEPa7cj) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:34 | 2023-01-14 |  |

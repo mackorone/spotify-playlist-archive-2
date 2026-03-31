@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-282 songs - 17 hr 14 min
+283 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 | 2025-10-29 |  |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Your Love Shines Down Like a Supernova's Death](https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:06 | 2025-11-02 | 2025-12-06 |
+| [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 | 2026-03-31 |  |
 | [Лавины](https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F) | [genteel renegade](https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl) | [Лавины](https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX) | 3:53 | 2026-03-12 |  |
 | [Навстречу вам](https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Навстречу вам](https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob) | 3:18 | 2026-01-19 | 2026-02-19 |
 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 | 2026-02-20 | 2026-03-27 |

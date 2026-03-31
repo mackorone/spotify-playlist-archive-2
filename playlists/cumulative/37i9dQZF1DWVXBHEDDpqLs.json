@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 188000,
       "name": "1234 Ladys on the Floor",
       "url": "https://open.spotify.com/track/5RyPMwmk9Wb5ZhxRCcagva"
@@ -832,6 +832,28 @@
       "duration_ms": 253000,
       "name": "Aluga",
       "url": "https://open.spotify.com/track/0IKZozc89S4bydkrr66ZCG"
+    },
+    {
+      "album": {
+        "name": "Always With Me (Eden Burns Remix)",
+        "url": "https://open.spotify.com/album/4BQwn1ofpBdPSf8xzkyzJC"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218263,
+      "name": "Always With Me - Eden Burns Remix",
+      "url": "https://open.spotify.com/track/6hEpu6PhXCvVAYk7fL3wXK"
     },
     {
       "album": {
@@ -6050,7 +6072,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 202325,
       "name": "Fast Talking",
       "url": "https://open.spotify.com/track/6o1hyhIV6t1pBtVRbDN3qw"
@@ -13053,6 +13075,28 @@
     },
     {
       "album": {
+        "name": "Pipe Up",
+        "url": "https://open.spotify.com/album/13JonOUORqjQxPHZAu0FOU"
+      },
+      "artists": [
+        {
+          "name": "Deft",
+          "url": "https://open.spotify.com/artist/43qPWPlDL5noyuCJKPKm6N"
+        },
+        {
+          "name": "COIDO",
+          "url": "https://open.spotify.com/artist/3pY8LTXZvim2leLtFv1jej"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205077,
+      "name": "Pipe Up",
+      "url": "https://open.spotify.com/track/0RlCE8V8FPIr4FOsPDkzSv"
+    },
+    {
+      "album": {
         "name": "MELBOURNE'S DEAD!!",
         "url": "https://open.spotify.com/album/1q465dLj8WqBV3hCPvzwgy"
       },
@@ -16276,7 +16320,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 147428,
       "name": "SYRINX",
       "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
@@ -17368,6 +17412,24 @@
       "duration_ms": 243158,
       "name": "TRIBE",
       "url": "https://open.spotify.com/track/1xcoaMrMDAUjB3NqI5r8Lc"
+    },
+    {
+      "album": {
+        "name": "Silent Way",
+        "url": "https://open.spotify.com/album/0VNrAhVsTuL1RLopapcQFE"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536291,
+      "name": "TRNS",
+      "url": "https://open.spotify.com/track/7qAHnqzfocGSbUdfoObkBR"
     },
     {
       "album": {

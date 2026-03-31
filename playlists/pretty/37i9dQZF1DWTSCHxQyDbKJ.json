@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Arlo Parks",
-  "num_followers": 34170,
+  "num_followers": 34167,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "praxis",
-        "url": "https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Auder",
-          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
-        }
-      ],
-      "duration_ms": 208071,
-      "name": "praxis",
-      "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "Dudu",
         "url": "https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 186129,
       "name": "Dudu",
       "url": "https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "praxis",
+        "url": "https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "duration_ms": 208071,
+      "name": "praxis",
+      "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "GERM",
-        "url": "https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 306009,
-      "name": "GERM",
-      "url": "https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "Recognise",
         "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 269280,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "GERM",
+        "url": "https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 306009,
+      "name": "GERM",
+      "url": "https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "Heaven Can Wait",
-        "url": "https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 215929,
-      "name": "Are You Ready Now?",
-      "url": "https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "Thank Goodness",
         "url": "https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD"
       },
       "artists": [
         {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 272693,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n"
+      "duration_ms": 215929,
+      "name": "Are You Ready Now?",
+      "url": "https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1055,6 +1039,22 @@
       "duration_ms": 264591,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "Needed You",
-        "url": "https://open.spotify.com/album/1YQ9TJ7YRjbhbHA9Uu3WCr"
-      },
-      "artists": [
-        {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Needed You",
-      "url": "https://open.spotify.com/track/7qoxNcIKxTNC3TzocVd7Pi"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "Now What?",
         "url": "https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 193443,
       "name": "Now What?",
       "url": "https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "Needed You",
+        "url": "https://open.spotify.com/album/1YQ9TJ7YRjbhbHA9Uu3WCr"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Needed You",
+      "url": "https://open.spotify.com/track/7qoxNcIKxTNC3TzocVd7Pi"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "Wahoo",
-        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 125400,
-      "name": "Wahoo",
-      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "The Hit",
         "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "Wahoo",
+        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "Wahoo",
+      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "Talk 2 Me",
-        "url": "https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        }
-      ],
-      "duration_ms": 222271,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "WILD!",
         "url": "https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 202955,
       "name": "WILD!",
       "url": "https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "Talk 2 Me",
+        "url": "https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        }
+      ],
+      "duration_ms": 222271,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "go!",
-        "url": "https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17"
-      },
-      "artists": [
-        {
-          "name": "Freddie Lewis",
-          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
-        }
-      ],
-      "duration_ms": 211469,
-      "name": "go!",
-      "url": "https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "One More Time (feat. Popstar)",
         "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 200843,
       "name": "One More Time (feat. Popstar)",
       "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "go!",
+        "url": "https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17"
+      },
+      "artists": [
+        {
+          "name": "Freddie Lewis",
+          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
+        }
+      ],
+      "duration_ms": 211469,
+      "name": "go!",
+      "url": "https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1575,22 +1575,6 @@
       "duration_ms": 174558,
       "name": "Cowboys!",
       "url": "https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
-        "name": "DONT MAKE THIS WEIRD",
-        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
-      },
-      "artists": [
-        {
-          "name": "DONT MAKE THIS WEIRD",
-          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
-        }
-      ],
-      "duration_ms": 170905,
-      "name": "DONT MAKE THIS WEIRD",
-      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
     },
     {
       "added_at": "2026-02-10 09:22:04",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
+        "name": "DONT MAKE THIS WEIRD",
+        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
+      },
+      "artists": [
+        {
+          "name": "DONT MAKE THIS WEIRD",
+          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
+        }
+      ],
+      "duration_ms": 170905,
+      "name": "DONT MAKE THIS WEIRD",
+      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
         "name": "The Two Houses EP",
         "url": "https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3j2Arsso32JifElbA1Vdk4"
-      },
-      "artists": [
-        {
-          "name": "Harry Strange",
-          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
-        }
-      ],
-      "duration_ms": 133694,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/52Z7EBRzdQuU6kxhVT9LZp"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
         "name": "Isn't he pretty",
         "url": "https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 175941,
       "name": "Isn't he pretty",
       "url": "https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3j2Arsso32JifElbA1Vdk4"
+      },
+      "artists": [
+        {
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+        }
+      ],
+      "duration_ms": 133694,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/52Z7EBRzdQuU6kxhVT9LZp"
     },
     {
       "added_at": "2026-02-10 09:22:04",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,103 songs - 2 day 23 hr 44 min
+1,104 songs - 2 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Corn Maze](https://open.spotify.com/track/7oDQlEb0Uy1AfSkVL5k2Ac) | [Malibu Ken](https://open.spotify.com/artist/5PB4q8DMiGL17Jdo4k6TOy), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR) | [Malibu Ken](https://open.spotify.com/album/7xa97ZeKKo4MiBJ96awavT) | 3:22 | 2023-03-24 | 2023-04-26 |
 | [Couldn’t Be Done \(feat\. Kelly Price\)](https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:31 | 2022-10-05 |  |
 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 | 2026-01-29 |  |
+| [cowboy\-3.com](https://open.spotify.com/track/72BXuFsvDf6J8jngG8sLXR) | [Sam Weber](https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl) | [Shape Confused Cowboy Be You](https://open.spotify.com/album/3StXqvVFi65vodaxP8g3L2) | 3:37 | 2026-03-30 |  |
 | [Cowboys](https://open.spotify.com/track/1DB8s1L4z25jcRw88815ko) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:39 | 2022-10-27 | 2024-05-17 |
 | [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 | 2024-04-02 |  |
 | [CPR](https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 2:50 | 2025-07-11 | 2025-07-17 |

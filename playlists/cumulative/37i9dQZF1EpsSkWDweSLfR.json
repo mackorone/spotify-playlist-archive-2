@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 208186,
       "name": "...Ready For It?",
       "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -1607,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+    },
+    {
+      "album": {
         "name": "Click Clack Symphony. (feat. Hans Zimmer)",
         "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
       },
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
@@ -5133,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255639,
+      "name": "Life Boat.",
+      "url": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -5232,7 +5272,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 258084,
       "name": "Locals (Girls like us) [with gabby start]",
       "url": "https://open.spotify.com/track/42FM6tM3n06euZCvpJn3dn"
@@ -6040,7 +6080,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 167989,
       "name": "motive (with Doja Cat)",
       "url": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT"
@@ -7682,7 +7722,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 220564,
       "name": "Ruin The Friendship",
       "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
@@ -8201,6 +8241,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -8606,7 +8668,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 213250,
       "name": "Tell Me (U Want It)",
       "url": "https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,573 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,584 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Hacedor De Milagros](https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:42 |
 | 50 | [Aliento De Vida](https://open.spotify.com/track/3S7srdmi98Ey4YW0fjBknA) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Emanuel](https://open.spotify.com/album/0oXynWN5dOPgOa6rLBczTM) | 6:28 |
 
-Snapshot ID: `accaAAAAAACY9DhY5z8diVvlvLAHVhwM`
+Snapshot ID: `achrgAAAAAA5nYzJj8teaMR1KNbmhUDN`

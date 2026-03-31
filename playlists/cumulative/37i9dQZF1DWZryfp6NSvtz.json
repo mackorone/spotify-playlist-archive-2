@@ -122677,6 +122677,24 @@
     },
     {
       "album": {
+        "name": "pe$o$",
+        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "pe$o$",
+      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
+    },
+    {
+      "album": {
         "name": "PEACE & LOVE/ZIPPO",
         "url": "https://open.spotify.com/album/7eSZOOLRx89vSZMUyUcwnf"
       },
@@ -123402,24 +123420,6 @@
       "duration_ms": 247384,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/6LqFc2I827LegWXB5XrxdN"
-    },
-    {
-      "album": {
-        "name": "pesos",
-        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138133,
-      "name": "pesos",
-      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
     },
     {
       "album": {

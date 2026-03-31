@@ -1,6 +1,6 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Luis Miguel",
-  "num_followers": 2938614,
+  "num_followers": 2938611,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-09-11 21:46:02",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2025-09-11 21:46:02",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": "2025-09-11 21:46:02",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2025-09-11 21:46:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-09-11 21:46:02",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 216752,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
-    },
-    {
-      "added_at": "2025-09-11 21:46:02",
-      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2025-09-11 21:46:02",
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 216752,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
     },
     {
       "added_at": "2025-09-11 21:46:02",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-09-11 21:46:02",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
-    },
-    {
-      "added_at": "2025-09-11 21:46:02",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 193373,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2025-09-11 21:46:02",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
     },
     {
       "added_at": "2025-09-11 21:46:02",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-11 21:46:02",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2025-09-11 21:46:02",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 289866,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2025-09-11 21:46:02",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2025-09-11 21:46:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-09-11 21:46:02",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
-    },
-    {
-      "added_at": "2025-09-11 21:46:02",
-      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2025-09-11 21:46:02",
       "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
+    },
+    {
+      "added_at": "2025-09-11 21:46:02",
+      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 222826,
       "name": "Que Lo Nuestro Se Quede Nuestro",
       "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
-    },
-    {
-      "added_at": "2025-09-11 21:46:02",
-      "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Llegaste t\u00fa",
-      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2025-09-11 21:46:02",
@@ -1191,6 +1175,22 @@
       "duration_ms": 288946,
       "name": "Yo Te Amo",
       "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+    },
+    {
+      "added_at": "2025-09-11 21:46:02",
+      "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Llegaste t\u00fa",
+      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2025-09-11 21:46:02",

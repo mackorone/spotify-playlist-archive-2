@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,019 songs - 2 day 5 hr 12 min
+1,020 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-06 | 2025-05-30 |
 | [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 | 2025-11-20 | 2026-01-15 |
 | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD) | 3:13 | 2024-11-28 | 2025-02-25 |
+| [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 | 2026-03-27 |  |
 | [BACK WHEN YOU WERE MINE](https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BACK WHEN YOU WERE MINE](https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k) | 2:41 | 2026-01-01 | 2026-03-22 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-12 | 2025-01-25 |
 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 | 2026-01-15 |  |
@@ -111,7 +112,7 @@
 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-08 | 2025-08-08 |
 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-10 | 2025-07-11 |
 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 | 2025-08-08 |
-| [Bliv hvor du er](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 | 2026-03-26 |  |
+| [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 | 2026-03-26 |  |
 | [Blodigt \(feat\. Annika\)](https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Blodigt \(feat\. Annika\)](https://open.spotify.com/album/2a4DFqBDsOnLkeyJWQtNtI) | 3:02 | 2025-01-24 | 2025-04-11 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-08-22 |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-13 |  |
@@ -828,7 +829,7 @@
 | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/track/6xVtp04jMDg8mFtqGBLUT9) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/album/2G7eb2SCHvx0AqhiaET7lY) | 3:26 | 2025-07-24 | 2025-09-20 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2024-10-03 | 2025-01-25 |
 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 | 2026-03-13 | 2026-03-20 |
-| [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 |  |
+| [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 | 2026-03-31 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-07-01 | 2024-09-06 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-01 | 2024-08-17 |
 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-09-10 | 2024-11-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: Outsiders & Paul Elstak",
+  "description": "Weekly new Hardstyle releases! Cover: D-Sturb",
   "name": "Hardstyle Adrenaline! 2026",
   "tracks": [
     {
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 174375,
       "name": "Beating Heart",
       "url": "https://open.spotify.com/track/2NoZ6fwCTwMe0J1lIW6bbR"
@@ -4624,7 +4624,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 150039,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/0uH7CD5FORsmqXGhdPvJz7"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 171374,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0zG68w59XvZl2Bc9GRbTRQ"
@@ -6388,7 +6388,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 174187,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/0rG07soO3A46ojCWvaCEQT"
@@ -7898,7 +7898,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 153000,
       "name": "Day Into Night",
       "url": "https://open.spotify.com/track/4yoywUjglxJYHU4fdoC059"
@@ -12792,6 +12792,28 @@
     {
       "album": {
         "name": "Frozen",
+        "url": "https://open.spotify.com/album/2JNI0cZgoAf7XqDvxsQFY6"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185812,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/3n78tY1R80tFQ0mRj5gr9f"
+    },
+    {
+      "album": {
+        "name": "Frozen",
         "url": "https://open.spotify.com/album/76tjwS44TxTx1r6Qnkn0gr"
       },
       "artists": [
@@ -13846,6 +13868,28 @@
       "duration_ms": 188766,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/2A1M7acWrGIsDVb2vyoB0N"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5Zy2niccqu7kZlvWX37SQW"
+      },
+      "artists": [
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7n5iBpHfwG0Z01NqR27FJY"
     },
     {
       "album": {
@@ -16149,6 +16193,28 @@
     },
     {
       "album": {
+        "name": "I GOT IT",
+        "url": "https://open.spotify.com/album/3OAUgj57TnwtLMNBY9KgvR"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Wavehi",
+          "url": "https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "I GOT IT",
+      "url": "https://open.spotify.com/track/2Mrkb19VjBQggUjI3qDSy6"
+    },
+    {
+      "album": {
         "name": "I Like Bass",
         "url": "https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy"
       },
@@ -16176,6 +16242,28 @@
       "duration_ms": 269049,
       "name": "I Like Bass",
       "url": "https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN"
+    },
+    {
+      "album": {
+        "name": "I Like It Slow",
+        "url": "https://open.spotify.com/album/25UlyGE9bWquDK2MEABFpN"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150875,
+      "name": "I Like It Slow",
+      "url": "https://open.spotify.com/track/4AVt3SBXzGZwisc4zZmQmN"
     },
     {
       "album": {
@@ -19688,7 +19776,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 126923,
       "name": "Life's A Bitch",
       "url": "https://open.spotify.com/track/3ikFZxHC5BjyHp1BbpkIN0"
@@ -20370,7 +20458,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 157511,
       "name": "LOKKED OUTSIDE",
       "url": "https://open.spotify.com/track/377IPDQ3VsN1nq6eurQlC8"
@@ -23855,6 +23943,28 @@
     },
     {
       "album": {
+        "name": "Night Of Fire",
+        "url": "https://open.spotify.com/album/04YQCSprd9hoxZYsTNrWhJ"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Komb",
+          "url": "https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179940,
+      "name": "Night Of Fire",
+      "url": "https://open.spotify.com/track/51mXKPBJ57J0b8uTwIuOeu"
+    },
+    {
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/1a4WXPzjbtfeN8QGpVWhJr"
       },
@@ -26115,6 +26225,24 @@
     },
     {
       "album": {
+        "name": "Papacito",
+        "url": "https://open.spotify.com/album/7G5ViyhAHRxSqY1RqGemm7"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183375,
+      "name": "Papacito",
+      "url": "https://open.spotify.com/track/5MIAFaJE1zfeLVLlhep06E"
+    },
+    {
+      "album": {
         "name": "EVOLVE",
         "url": "https://open.spotify.com/album/1reohG63PnDofh7MBG8FFq"
       },
@@ -27649,6 +27777,28 @@
     },
     {
       "album": {
+        "name": "Rap to the Rave",
+        "url": "https://open.spotify.com/album/4STQPOiN7Ka1TzUHgPxVhh"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "MJU",
+          "url": "https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174683,
+      "name": "Rap to the Rave",
+      "url": "https://open.spotify.com/track/0PzF918PNCH2bnJTuPi2xP"
+    },
+    {
+      "album": {
         "name": "Ratata (Outsiders Remix)",
         "url": "https://open.spotify.com/album/1B3QlTuhqSsUbp0y1VRaof"
       },
@@ -28682,6 +28832,36 @@
     {
       "album": {
         "name": "Reload",
+        "url": "https://open.spotify.com/album/0CkIGp3bzvhtfMkPw2evXw"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Refold",
+          "url": "https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY"
+        },
+        {
+          "name": "Shadow Legacy",
+          "url": "https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163031,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/7yphW1BVGy6cwSYo1imUr2"
+    },
+    {
+      "album": {
+        "name": "Reload",
         "url": "https://open.spotify.com/album/3iuLIVtYN72KM3NWnVsWvT"
       },
       "artists": [
@@ -28838,6 +29018,24 @@
       "duration_ms": 243093,
       "name": "Reshape & Dominate (Ode To Shockerz)",
       "url": "https://open.spotify.com/track/725x4yit85xnVGCElEaym6"
+    },
+    {
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/07xubqHw8D9mRrHtUappu0"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/6j2MGSY85BqrI2reZ3IOsk"
     },
     {
       "album": {
@@ -29238,7 +29436,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 177750,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP"
@@ -30120,6 +30318,28 @@
       "duration_ms": 266258,
       "name": "Running Wild Forever - The Qontinent Anthem 2024",
       "url": "https://open.spotify.com/track/6exlgpUCrEyhaMmCmeh6kW"
+    },
+    {
+      "album": {
+        "name": "Sacred Oath (Defqon.1 2026 Anthem)",
+        "url": "https://open.spotify.com/album/7r4jQKMJPEQkPhRZbvL5Fc"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298838,
+      "name": "Sacred Oath (Defqon.1 2026 Anthem)",
+      "url": "https://open.spotify.com/track/0S9f4Q3EpMzK7oqJRgLER1"
     },
     {
       "album": {
@@ -36733,6 +36953,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6oARPTv8T40Fke47WZN2I5"
+      },
+      "artists": [
+        {
+          "name": "VENNIC",
+          "url": "https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1S6dQuhOjoIDjlapTxbuyQ"
+    },
+    {
+      "album": {
         "name": "Time Is Running Out",
         "url": "https://open.spotify.com/album/2acQQf86JpGpPULZNNR35X"
       },
@@ -37352,6 +37590,28 @@
       "duration_ms": 128516,
       "name": "Trommels",
       "url": "https://open.spotify.com/track/6aDqCxxfcz2d9Rxbjdg8DB"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0lYUQ8HQXhCsC3ZbzyDcBb"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Hardstyle Pianist",
+          "url": "https://open.spotify.com/artist/62X4mhiCOYCnwGuP5ZQ8ug"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258078,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4m1m9AYEfObUC3p2nB6Oht"
     },
     {
       "album": {
@@ -38004,7 +38264,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 186750,
       "name": "United In Strength",
       "url": "https://open.spotify.com/track/6zD3HJhLDN7KGvZv4wi6zr"
@@ -38088,7 +38348,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 192000,
       "name": "Unleash The Radical",
       "url": "https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6"
@@ -38388,7 +38648,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 161032,
       "name": "Us Against the World",
       "url": "https://open.spotify.com/track/3IqPQnW8wOXFcVvaYSVLGc"
@@ -38704,7 +38964,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 149419,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/6cNoRQCK71ZTTiOliDlEc7"
@@ -39300,6 +39560,28 @@
       "duration_ms": 238129,
       "name": "Way Of The Warrior",
       "url": "https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu"
+    },
+    {
+      "album": {
+        "name": "We Are Fire (HARDFEST 2026 OST)",
+        "url": "https://open.spotify.com/album/72HMt5LG3In0VVW0Wy6Wnw"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267375,
+      "name": "We Are Fire - HARDFEST 2026 OST",
+      "url": "https://open.spotify.com/track/2q9zKHGzH6SahCMoL7wGUa"
     },
     {
       "album": {
@@ -40584,7 +40866,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 196285,
       "name": "Who Wants To Live Forever",
       "url": "https://open.spotify.com/track/03FdX85SzRWMUwMSh8bMnp"
@@ -41498,7 +41780,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 246213,
       "name": "You Are My Storm",
       "url": "https://open.spotify.com/track/3DJW3kIIzZyzeCdYxfY3DX"
@@ -41582,6 +41864,36 @@
       "duration_ms": 133818,
       "name": "You Owe Me",
       "url": "https://open.spotify.com/track/5kwwsfTyavPnE8LfZ4Rnq9"
+    },
+    {
+      "album": {
+        "name": "You Were Never Mine",
+        "url": "https://open.spotify.com/album/1qXglUZbKDmBvMH75Gk21f"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195227,
+      "name": "You Were Never Mine",
+      "url": "https://open.spotify.com/track/3GNeKccwYGYVz53tnjLEad"
     },
     {
       "album": {

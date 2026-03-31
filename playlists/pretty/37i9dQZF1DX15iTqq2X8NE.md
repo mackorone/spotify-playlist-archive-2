@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,835 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,837 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 64 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 |
 | 65 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 |
 | 66 | [Mook II \(Rerelease\) \[feat\. Bas\]](https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk) | [Hemdi](https://open.spotify.com/artist/5MCsHy03kWsXatVAGb4sSi), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [3049 Floors](https://open.spotify.com/album/4nxSgV9VWOHy9xudxuImF9) | 3:18 |
-| 67 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 |
-| 68 | [Voyage](https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR) | [Karet Safar](https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9) | [Safra](https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau) | 3:32 |
-| 69 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
+| 67 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
+| 68 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 |
+| 69 | [Voyage](https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR) | [Karet Safar](https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9) | [Safra](https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau) | 3:32 |
 | 70 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 |
 | 71 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
 | 72 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,690 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,681 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 43 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
 | 44 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
 | 45 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 46 | [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 |
-| 47 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
+| 46 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
+| 47 | [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 |
 | 48 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
 | 49 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 |
 | 50 | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra), [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/album/0vWlkvSqfybQN4pqu6MVKV) | 2:20 |

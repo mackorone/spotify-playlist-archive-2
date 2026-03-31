@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Vimbs Mavimbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,150 likes - 60 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,162 likes - 60 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 35 | [War](https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [War](https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH) | 5:11 |
 | 36 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |
 | 37 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
-| 38 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
-| 39 | [speak now](https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [ANXIOUSLY PREOCCUPIED](https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi) | 3:42 |
+| 38 | [speak now](https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [ANXIOUSLY PREOCCUPIED](https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi) | 3:42 |
+| 39 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
 | 40 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
 | 41 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
 | 42 | [Sombhuluka](https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:58 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 54 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 |
 | 55 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
 | 56 | [H.O.P.E](https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 6:05 |
-| 57 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
-| 58 | [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 |
-| 59 | [Mbuluzi / the flute song](https://open.spotify.com/track/5w5sZ3vPzXgbGiNfLeBSY1) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Cara Stacey](https://open.spotify.com/artist/61wW94ACljX2jsBnRP9uCR) | [Mbuluzi / the flute song](https://open.spotify.com/album/791LOrITeMAMdpIG6RFnC9) | 2:39 |
+| 57 | [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 |
+| 58 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
+| 59 | [Together](https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Wrapped in Rhythm, Vol\. 1](https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i) | 3:30 |
 | 60 | [Kwandebele \(Live\)](https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 7:20 |
 
 Snapshot ID: `AAAAAPNMVMb4Imo5gNeeWad9j5BXHFmi`

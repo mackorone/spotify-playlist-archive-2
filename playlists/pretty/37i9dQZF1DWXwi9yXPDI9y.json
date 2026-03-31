@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 192841,
+  "num_followers": 192876,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 162733,
       "name": "The Touch Of Your Lips",
       "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Sings The Winners",
         "url": "https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Ella Swings Lightly",
         "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 277013,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Give Him The Ooh-La-La (Expanded Edition)",
         "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Comin' On",
-        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 377933,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Comin' On",
+        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 377933,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+        "name": "By Special Request",
+        "url": "https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine & The Three Sounds",
-          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 323333,
-      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
-      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
+      "duration_ms": 191546,
+      "name": "Something To Live For",
+      "url": "https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "By Special Request",
-        "url": "https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0"
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Stanley Turrentine & The Three Sounds",
+          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Something To Live For",
-      "url": "https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO"
+      "duration_ms": 323333,
+      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
+      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 436573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 251680,
       "name": "Gone With the Wind",
       "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 436573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
     },
     {
       "added_at": "2026-02-04 10:41:16",

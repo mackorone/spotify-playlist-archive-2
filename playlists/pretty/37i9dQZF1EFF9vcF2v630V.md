@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 24 | [Down with Ya \(feat\. Madcon\)](https://open.spotify.com/track/6t43w43IpQxBt5IrEUqgdy) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Head for the stars](https://open.spotify.com/album/2pvzF6KG5eCbmSTgmTTiHe) | 3:44 |
 | 25 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
 | 26 | [Heart Of Yours](https://open.spotify.com/track/7gtPeJcz77AaxCDokiySwl) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:25 |
-| 27 | [Tuxedo](https://open.spotify.com/track/5wEnFcmoUs8ExWLhJlxlxd) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:26 |
-| 28 | [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 |
+| 27 | [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 |
+| 28 | [Tuxedo](https://open.spotify.com/track/5wEnFcmoUs8ExWLhJlxlxd) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:26 |
 | 29 | [Can't Say Goodbye](https://open.spotify.com/track/020u6AekCG9lytydtX5pVu) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:23 |
 | 30 | [Riotka](https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:05 |
 | 31 | [History](https://open.spotify.com/track/24zwkDcBw7P3usV9r6Szrb) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Story of Me](https://open.spotify.com/album/18sE9lHzw8d61riXaA14Ny) | 3:27 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 72 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 73 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AcNdYAAAAACMiAOdwS6u5JsEpixboQqq`
+Snapshot ID: `AcNjFAAAAABpqCij2k6hY6BrLEg21nmZ`

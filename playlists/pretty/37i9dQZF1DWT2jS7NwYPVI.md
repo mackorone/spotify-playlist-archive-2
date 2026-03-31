@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Karen Dió
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,168 likes - 120 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,211 likes - 120 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 32 | [Legs In A Snare](https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Legs In A Snare](https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H) | 3:14 |
 | 33 | [One Track Mind](https://open.spotify.com/track/2bfTC4W83goNET1BqrdEcK) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [One Track Mind](https://open.spotify.com/album/1Cl1CmQhsbpZLHpi65xljQ) | 2:44 |
 | 34 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
-| 35 | [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
+| 35 | [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
 | 36 | [Portrait set on fire](https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Portrait set on fire](https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC) | 3:49 |
 | 37 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
 | 38 | [Hannibal](https://open.spotify.com/track/2xZWwL80vahHzQ0GmfCdPW) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Hannibal](https://open.spotify.com/album/6D9jatmN9XKjaw3inpzfFv) | 5:08 |

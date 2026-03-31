@@ -4,7 +4,7 @@
 
 > Brani virali e trend, rap e urban 📈  Kid Yugi in cover
 
-1,005 songs - 2 day 3 hr 55 min
+1,007 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Alicante](https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Alicante](https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw) | 3:13 | 2022-08-05 | 2022-08-09 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-11 | 2025-07-04 |
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-13 | 2025-07-04 |
+| [ALL THE LOVE \(feat\. Andre Troutman\)](https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Andre Troutman](https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:49 | 2026-03-30 |  |
 | [All The Stars \(with SZA\)](https://open.spotify.com/track/7dMBU2Kf4vmvwfVLW6yb6P) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/5sOSzueqgCiVpXNcpd6QpL) | 3:52 | 2025-08-07 | 2025-08-21 |
 | [Allez dehors](https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Allez dehors](https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf) | 2:46 | 2022-08-30 | 2022-11-18 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 | 2024-10-04 | 2024-10-25 |
@@ -314,6 +315,7 @@
 | [Fantasy](https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Fantasy](https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD) | 2:36 | 2022-07-26 | 2022-08-30 |
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 | 2022-10-08 |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-24 | 2025-07-04 |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-30 |  |
 | [Faut pas](https://open.spotify.com/track/48d98Nlj1XKXxzo9KDBx0H) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Faut pas](https://open.spotify.com/album/6RlAxkB6DUlh0XPab49uXn) | 2:18 | 2024-02-02 | 2024-07-14 |
 | [Favorite Lie](https://open.spotify.com/track/5KEixB30VO3hb8etUPkMEq) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:49 | 2025-07-03 | 2025-07-22 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-01 |  |

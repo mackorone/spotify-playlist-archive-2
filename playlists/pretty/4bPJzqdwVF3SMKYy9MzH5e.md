@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,369 songs - 5 day 7 hr 7 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,373 songs - 5 day 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2377,5 +2377,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2367 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 |
 | 2368 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 |
 | 2369 | [Alice \- LSDXOXO Remix](https://open.spotify.com/track/050s0Msd1WXkSdG8UjFDEa) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:40 |
+| 2370 | [RED](https://open.spotify.com/track/3yeyMmRL4FccdJdKhoT7eU) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 2:41 |
+| 2371 | [Sorbet \- LSDXOXO Remix](https://open.spotify.com/track/6agcpxNbvaijdICaroWF9g) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:31 |
+| 2372 | [Mutant Exotic](https://open.spotify.com/track/73bJ5zBhjkY6alC6mpupgr) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Dedicated 2 Disrespect EP](https://open.spotify.com/album/5RoqnNPtlVOM1blmKaLlv8) | 3:51 |
+| 2373 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 |
 
-Snapshot ID: `AAAFRrgd7JVfR/SRLDviwyenTZvJFih9`
+Snapshot ID: `AAAFSgbyU/uNr4v/tsN5zSA2s4JVpwID`

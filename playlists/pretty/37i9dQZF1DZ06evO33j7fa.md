@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,036 likes - 39 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,051 likes - 39 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 38 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:31 |
 | 39 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 |
 
-Snapshot ID: `accaAAAAAABe2pbd/u66zTVcXzrmtqzr`
+Snapshot ID: `achrgAAAAADai4CXcEj5xXgy/8WnLgi5`

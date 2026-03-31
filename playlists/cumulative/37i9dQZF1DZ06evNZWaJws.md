@@ -4,7 +4,7 @@
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 13 min
+81 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Cien Por Uno](https://open.spotify.com/track/64VeKDD6z3P2UnDl8nphc4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:45 | 2024-01-29 |  |
 | [Clave Nueva](https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:46 | 2024-01-29 |  |
 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 | 2024-01-29 | 2024-09-20 |
-| [De Corral En Corral \- \(2026 Remasterizado\)](https://open.spotify.com/track/3qyYFHqiYfHwQ38WYtvW6j) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos y Rancheras \(2026 Remasterizado\)](https://open.spotify.com/album/2BBDRVEGGvK3Jp2C2kYhxd) | 3:17 | 2026-03-04 |  |
+| [De Corral En Corral \- \(2026 Remasterizado\)](https://open.spotify.com/track/3qyYFHqiYfHwQ38WYtvW6j) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos y Rancheras \(2026 Remasterizado\)](https://open.spotify.com/album/2BBDRVEGGvK3Jp2C2kYhxd) | 3:17 | 2026-03-04 | 2026-03-31 |
 | [Desde Que Te Amo](https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:17 | 2024-01-29 |  |
 | [Déjate Querer \(En Vivo\)](https://open.spotify.com/track/5spTwphngRhm7QVFVKBwDm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 3:01 | 2024-12-23 | 2025-01-07 |
 | [El 3 De Durango](https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El 3 De Durango](https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm) | 3:04 | 2024-01-29 | 2024-02-09 |
@@ -77,6 +77,7 @@
 | [Rigo Campos](https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Rigo Campos](https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb) | 3:47 | 2025-09-01 |  |
 | [Sangre Potosina](https://open.spotify.com/track/5erCcQWsyLw84cPDKQCls4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Del Norte](https://open.spotify.com/album/7enZWFv7Rg26LhC5LF8j7o) | 3:38 | 2024-09-07 | 2024-11-12 |
 | [Se Desgranó La Mazorca](https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:27 | 2024-02-12 | 2025-02-02 |
+| [Se Equivoco El Pistolero](https://open.spotify.com/track/643LQeeR5hE6l8AlZJDxdY) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Lista Negra](https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT) | 2:32 | 2026-03-31 |  |
 | [Se Fue Mi Amor](https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Romance Norteño](https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG) | 3:28 | 2024-01-29 |  |
 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 | 2024-01-29 | 2024-11-24 |
 | [Secuestro De Amor](https://open.spotify.com/track/3iJLikbO9yEtMixvIz9Tx1) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/1gnLsNVwaWf37PddaBTn1H) | 3:42 | 2024-11-24 | 2024-12-20 |

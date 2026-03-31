@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 808008,
+  "num_followers": 808139,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Bless Your Soul",
         "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -871,26 +891,6 @@
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Virginia (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWPnSuSkTBMiFHF8hQD1G"
-      },
-      "artists": [
-        {
-          "name": "Eli Waltz",
-          "url": "https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV"
-        }
-      ],
-      "duration_ms": 332298,
-      "name": "Virginia - Acoustic",
-      "url": "https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "What Does It Matter Now?",
         "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 275720,
       "name": "What Does It Matter Now?",
       "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Virginia (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWPnSuSkTBMiFHF8hQD1G"
+      },
+      "artists": [
+        {
+          "name": "Eli Waltz",
+          "url": "https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV"
+        }
+      ],
+      "duration_ms": 332298,
+      "name": "Virginia - Acoustic",
+      "url": "https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Hell's Comin' with Me",
-        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
-      },
-      "artists": [
-        {
-          "name": "Poor Man's Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "duration_ms": 212996,
-      "name": "Hell's Comin' with Me",
-      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Singing Bones",
         "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 124853,
       "name": "All My Tears",
       "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Hell's Comin' with Me",
+        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
+      },
+      "artists": [
+        {
+          "name": "Poor Man's Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "duration_ms": 212996,
+      "name": "Hell's Comin' with Me",
+      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Hell Among The Yearlings",
-        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "The Devil Had A Hold Of Me",
-      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "King Arthur: Legend of the Sword - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3T3Kfm4Z6OGCVqIpcpULP1"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Hell Among The Yearlings",
+        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "The Devil Had A Hold Of Me",
+      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "A Long Life of Living",
         "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 279733,
       "name": "Too Dry to Cry",
       "url": "https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
     }
   ],
   "unique_name": "Southern Gothic",

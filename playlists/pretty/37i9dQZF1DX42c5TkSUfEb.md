@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,264 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,268 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 85 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 |
 | 86 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 87 | [Beautiful Thingz](https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Beautiful Thingz](https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ) | 3:28 |
-| 88 | [Bodega](https://open.spotify.com/track/0RCmvFMkxUTOdMKENZhGkj) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Bodega](https://open.spotify.com/album/4FUQszz37SGd31O8Ppzklo) | 2:09 |
-| 89 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 |
+| 88 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 |
+| 89 | [Bodega](https://open.spotify.com/track/0RCmvFMkxUTOdMKENZhGkj) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Bodega](https://open.spotify.com/album/4FUQszz37SGd31O8Ppzklo) | 2:09 |
 | 90 | [Free as a Bird](https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Free as a Bird](https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6) | 3:29 |
-| 91 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
-| 92 | [Il neige](https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI) | 4:24 |
+| 91 | [Il neige](https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI) | 4:24 |
+| 92 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
 | 93 | [Le temps passe](https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:12 |
 | 94 | [Please Slow Down \- Rubber Bridge Version](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down \(Rubber Bridge Version\)](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
-| 95 | [Cure for Emptiness \(with Bello\)](https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Bello](https://open.spotify.com/artist/2T51pCP4efnt6zBBOj6CZT) | [Cure for Emptiness \(with Bello\)](https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT) | 3:20 |
-| 96 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:13 |
-| 97 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
+| 95 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:13 |
+| 96 | [Cure for Emptiness \(with Bello\)](https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Bello](https://open.spotify.com/artist/2T51pCP4efnt6zBBOj6CZT) | [Cure for Emptiness \(with Bello\)](https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT) | 3:20 |
+| 97 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
 | 98 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 |
-| 99 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
-| 100 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
+| 99 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
+| 100 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
 
 Snapshot ID: `AAAAAEFLnIz/ge4UDkZmEOKyljtDQgyD`

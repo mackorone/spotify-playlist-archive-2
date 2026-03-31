@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル『POP YOURS』の公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,188 likes - 132 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,236 likes - 132 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

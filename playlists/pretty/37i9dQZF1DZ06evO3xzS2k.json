@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2862,
+  "num_followers": 2868,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADeUvflisEbnhucLB1GIbKz",
+  "snapshot_id": "achrgAAAAADCz7ofCpCxEoVGRkn9nN8+",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 250120,
-      "name": "essential tremors",
-      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
+      "duration_ms": 321480,
+      "name": "the rain don\u2019t care",
+      "url": "https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 321480,
-      "name": "the rain don\u2019t care",
-      "url": "https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c"
+      "duration_ms": 250120,
+      "name": "essential tremors",
+      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-298 songs - 17 hr 1 min
+299 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [No bien abran las flores](https://open.spotify.com/track/7qWXSnQMeeGHkKgDjdOkXU) | [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01), [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [No bien abran las flores](https://open.spotify.com/album/2mN2xBT2hm7ml4ZwC2d7bH) | 4:47 | 2022-08-12 | 2023-05-20 |
 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2022-10-14 | 2023-05-20 |
 | [No Juego Más](https://open.spotify.com/track/65oxgrIHuaUwGyFzAtf5dE) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [No Juego Más](https://open.spotify.com/album/669jETLtDfGSYKZFNASzli) | 3:06 | 2022-08-05 | 2023-05-20 |
+| [No me quite de mi sueño](https://open.spotify.com/track/4QWuXwctr5fj1BQypwPuaG) | [Nico Vonder](https://open.spotify.com/artist/3QkrGUgIufQ9rDcGkw9zsd) | [Kyden](https://open.spotify.com/album/1kPvMKNXRo7DzjC8YBHNBk) | 1:30 | 2026-03-30 |  |
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-06-29 | 2022-08-27 |
 | [No Quiero Salir](https://open.spotify.com/track/0Z9EiIeAxn26L0lTVOn1aH) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [No Quiero Salir](https://open.spotify.com/album/2XYNPtHlKeJTxPAmyIbkmq) | 2:18 | 2022-06-29 | 2023-05-20 |
 | [No Te Desvistas](https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY) | [Simón Abentin](https://open.spotify.com/artist/3Zs1HOnF2dqmc60qkEziol) | [Tocable, Adorable](https://open.spotify.com/album/3blcyiycMdmmomf37A0SoP) | 2:13 | 2022-06-29 | 2022-07-20 |

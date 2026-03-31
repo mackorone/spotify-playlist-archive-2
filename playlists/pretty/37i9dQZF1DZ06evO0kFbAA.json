@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 54214,
+  "num_followers": 54226,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABRwe8dCbWgiJmdGEKliKVG",
+  "snapshot_id": "achrgAAAAAAnN0oh4wOmshZJw2lLZs9m",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recorded Fall '61",
-        "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
@@ -88,13 +88,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 419626,
-      "name": "A Nightingale Sang In Berkeley Square",
-      "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Recorded Fall '61",
+        "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
       "artists": [
         {
@@ -124,13 +124,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+      "duration_ms": 419626,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
     },
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
+      "duration_ms": 369280,
+      "name": "Samba De Uma Nota So",
+      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 369280,
-      "name": "Samba De Uma Nota So",
-      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
+      "duration_ms": 195480,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 128160,
       "name": "Sambalero",
       "url": "https://open.spotify.com/track/4ENo69KpwpYb1C8UyhruQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "'Tis Autumn",
-      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 349218,
-      "name": "Manha De Carnaval (Morning of Carnaval)",
-      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
+      "duration_ms": 429026,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Manha De Carnaval (Morning of Carnaval)",
+      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 202586,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
     },
     {
       "added_at": null,

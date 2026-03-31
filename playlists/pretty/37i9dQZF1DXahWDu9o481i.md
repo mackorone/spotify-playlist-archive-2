@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,792 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,786 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 21 | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg) | 3:26 |
 | 22 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 |
 | 23 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 |
-| 24 | [Bad Moons](https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [Bad Moons](https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p) | 8:13 |
-| 25 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
+| 24 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
+| 25 | [Bad Moons](https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [Bad Moons](https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p) | 8:13 |
 | 26 | [THE SCYTHE \[Feat\. TiaCorine & A$AP Ferg\]](https://open.spotify.com/track/2cGDqP18a0Bme8o2gtjmiO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [THE SCYTHE \[Feat\. TiaCorine & A$AP Ferg\]](https://open.spotify.com/album/0YmJPpKQdsskngFVgZy8Ss) | 2:56 |
 | 27 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
 | 28 | [Ordinary Feelings](https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Ordinary Feelings](https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb) | 3:54 |

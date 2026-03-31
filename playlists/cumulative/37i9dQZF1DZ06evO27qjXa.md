@@ -4,13 +4,13 @@
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 37 min
+56 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Airplane Mode!](https://open.spotify.com/track/3SiijksKZyytWUhHftvctc) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Airplane Mode!](https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL) | 3:44 | 2026-02-27 |  |
 | [Apple\-Pickin' Song \- Lullaby Version](https://open.spotify.com/track/0SwSh2OiuJaDXP79QFjaZv) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music, Vol\. 2 \(Lullaby Version\)](https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe) | 4:50 | 2026-03-02 | 2026-03-03 |
-| [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 | 2026-02-27 |  |
+| [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 | 2026-02-27 | 2026-03-31 |
 | [Bouncing Time](https://open.spotify.com/track/5RYyeEG5NmebGNHVnSuuQC) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bouncing Time](https://open.spotify.com/album/5l0Q3vge5EqFjpMGcGKKsY) | 3:24 | 2026-02-27 |  |
 | [Brand New Day \- Good Morning Dance](https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Brand New Day \(Good Morning Dance\)](https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb) | 2:56 | 2026-02-27 |  |
 | [Candy Cane Crush!](https://open.spotify.com/track/0jmbMP78lyWbm6XrHsys2U) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Candy Cane Crush!](https://open.spotify.com/album/2hYLyrESl8sozgPKE0j9s4) | 3:29 | 2026-02-27 |  |
@@ -47,6 +47,7 @@
 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 | 2026-02-27 |  |
 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 | 2026-02-27 |  |
 | [The Bat Wing Beat](https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Bat Wing Beat](https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO) | 3:49 | 2026-02-27 |  |
+| [The Bravest Knight!](https://open.spotify.com/track/4L3JmesNmUOkvC73qhdUeq) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Bravest Knight!](https://open.spotify.com/album/7DiWcMXwZb4kOJGcjZmmJs) | 9:20 | 2026-03-31 |  |
 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 | 2026-02-27 |  |
 | [The Creepy Crawl](https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Creepy Crawl](https://open.spotify.com/album/53kXMqX4i6E0kJwwbAxkNn) | 2:42 | 2026-02-27 |  |
 | [The Dinosaur Dance](https://open.spotify.com/track/0gnvsnWoIeVVIpTwW3Kffo) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Dinosaur Dance](https://open.spotify.com/album/3UEKyqn0Q5cOgOLbM15ep7) | 3:30 | 2026-02-27 |  |

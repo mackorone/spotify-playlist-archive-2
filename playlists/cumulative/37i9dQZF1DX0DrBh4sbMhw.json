@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "AYOS",
+        "url": "https://open.spotify.com/album/4rr0Zu5EuhUVKWu89qi8Ke"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218863,
+      "name": "AYOS",
+      "url": "https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX"
+    },
+    {
+      "album": {
         "name": "Babalik Sa'yo",
         "url": "https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 207558,
       "name": "baka bukas",
       "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 269981,
       "name": "di ko pa kaya",
       "url": "https://open.spotify.com/track/4t9pOrXsUFcBDAZs5VxdNC"
@@ -1178,10 +1196,28 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 247413,
       "name": "Di Na",
       "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+    },
+    {
+      "album": {
+        "name": "Dibale Na Lang",
+        "url": "https://open.spotify.com/album/1E2hT2XZI2b9GPym2YbC4B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Paringit",
+          "url": "https://open.spotify.com/artist/2mpQg7knqekGlqdFzmyZqZ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Dibale Na Lang",
+      "url": "https://open.spotify.com/track/76pp35sOjDw9o5x4JhsH4U"
     },
     {
       "album": {
@@ -1214,7 +1250,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 180147,
       "name": "Die For Me",
       "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
@@ -1632,7 +1668,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 179330,
       "name": "Funeral Song",
       "url": "https://open.spotify.com/track/6Dn7DyEV8MHnvLNl0ebuGQ"
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 268703,
       "name": "Gabi",
       "url": "https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD"
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 257812,
       "name": "Grabe Ka Naman Saktan",
       "url": "https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t"
@@ -1852,7 +1888,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 225014,
       "name": "Guhit",
       "url": "https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5"
@@ -2368,7 +2404,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
@@ -2938,7 +2974,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 234052,
       "name": "Leonora",
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
@@ -3230,7 +3266,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 189530,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA"
@@ -3252,6 +3288,28 @@
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
+    },
+    {
+      "album": {
+        "name": "Magbabakasakali",
+        "url": "https://open.spotify.com/album/136lrTH67qfMIhaUXwEJpK"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a",
+          "url": "https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8"
+        },
+        {
+          "name": "ielle",
+          "url": "https://open.spotify.com/artist/5BPdAKPdRH2b30F2pZA5cm"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281360,
+      "name": "Magbabakasakali",
+      "url": "https://open.spotify.com/track/7p6mcJQPENSSQ7RP549m6f"
     },
     {
       "album": {
@@ -4478,7 +4536,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 130064,
       "name": "Pilit Pinili",
       "url": "https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ"
@@ -4652,6 +4710,24 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "album": {
+        "name": "LUXEMBOURG",
+        "url": "https://open.spotify.com/album/7kZMLlLjTEFwJ7NNmjxYcj"
+      },
+      "artists": [
+        {
+          "name": "John Sam",
+          "url": "https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Saan-saan",
+      "url": "https://open.spotify.com/track/63gFonBTMqMR8BRJz0qVXp"
     },
     {
       "album": {
@@ -5308,7 +5384,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"

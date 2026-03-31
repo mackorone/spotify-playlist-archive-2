@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 半清醒的時刻最迷人，讓最迷人的音樂和你一起隨興...
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,171 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,172 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 38 | [I Don’t Wanna](https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 3:04 |
 | 39 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
 | 40 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
-| 41 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
-| 42 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
-| 43 | [Wicked Game](https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [Dva \(Bonus Track Version\)](https://open.spotify.com/album/2njhI39km75PtiP4JNIOza) | 3:56 |
-| 44 | [Downtown Vibes](https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Downtown Vibes](https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ) | 1:48 |
+| 41 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
+| 42 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
+| 43 | [Downtown Vibes](https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Downtown Vibes](https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ) | 1:48 |
+| 44 | [Wicked Game](https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [Dva \(Bonus Track Version\)](https://open.spotify.com/album/2njhI39km75PtiP4JNIOza) | 3:56 |
 | 45 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 46 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
 | 47 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 58 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
 | 59 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 |
 | 60 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 |
-| 61 | [Those Days](https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg) | [Dal](https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt), [Leah Yeger](https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k) | [Those Days](https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX) | 3:49 |
-| 62 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
+| 61 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
+| 62 | [Those Days](https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg) | [Dal](https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt), [Leah Yeger](https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k) | [Those Days](https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX) | 3:49 |
 | 63 | [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 |
 | 64 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 |
 | 65 | [Sweet Love](https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Basement Grooves](https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6) | 2:49 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 94 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
 | 95 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
 | 96 | [Easy \(feat\. 6LACK\)](https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Easy \(feat\. 6LACK\)](https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb) | 3:24 |
-| 97 | [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 |
-| 98 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 |
+| 97 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 |
+| 98 | [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 |
 | 99 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 | 100 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 |
 

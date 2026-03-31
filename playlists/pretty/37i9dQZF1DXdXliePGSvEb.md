@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,796 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,807 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 29 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 30 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
 | 31 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
-| 32 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
-| 33 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
+| 32 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
+| 33 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 34 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 35 | [Love Will Win The Day \- Take 3 Radio Edit](https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Love Will Win The Day \(Take 3 Radio Edit\)](https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a) | 3:15 |
 | 36 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |

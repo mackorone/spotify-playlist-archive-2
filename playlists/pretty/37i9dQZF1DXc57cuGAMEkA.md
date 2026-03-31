@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。RAYE, Charlie Puth, HANA, Miley Cyrus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,258 likes - 88 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,267 likes - 88 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

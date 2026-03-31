@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva & Julio Preciado \ud83d\udcf8",
-  "num_followers": 1300305,
+  "num_followers": 1300368,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Directo al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 216157,
-      "name": "Directo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "En Coma Inducido",
         "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 159929,
       "name": "En Coma Inducido",
       "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Directo al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 216157,
+      "name": "Directo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Sentimental (En Vivo)",
-        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sentimental - En Vivo",
-      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Quererte Mucho",
         "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197400,
       "name": "Quererte Mucho",
       "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Que Empiece La Borrachera (En Vivo)",
-        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
-      },
-      "artists": [
-        {
-          "name": "Arath Arceo",
-          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Besos Y Copas (En Vivo)",
-      "url": "https://open.spotify.com/track/0lGxEUBHCr0zWUo2Ny7tqq"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
+      },
+      "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Besos Y Copas (En Vivo)",
+      "url": "https://open.spotify.com/track/0lGxEUBHCr0zWUo2Ny7tqq"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -871,22 +871,18 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
       },
       "artists": [
         {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
-        },
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 182376,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -907,18 +903,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        },
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
         }
       ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+      "duration_ms": 182376,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "De Nuestro Amor No Queda Nada",
+        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 215364,
+      "name": "De Nuestro Amor No Queda Nada",
+      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "Las Tres Vueltas",
         "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 140832,
       "name": "Las Tres Vueltas",
       "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "De Nuestro Amor No Queda Nada",
-        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 215364,
-      "name": "De Nuestro Amor No Queda Nada",
-      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Letal (Remasterizado)",
-        "url": "https://open.spotify.com/album/6y3uwphJUidWsHe8eZqeKq"
-      },
-      "artists": [
-        {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
-        }
-      ],
-      "duration_ms": 179269,
-      "name": "Letal - Remasterizado",
-      "url": "https://open.spotify.com/track/73uPndptmSmlRABX66NegK"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Si No Te Tengo",
         "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 206193,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Letal (Remasterizado)",
+        "url": "https://open.spotify.com/album/6y3uwphJUidWsHe8eZqeKq"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "duration_ms": 179269,
+      "name": "Letal - Remasterizado",
+      "url": "https://open.spotify.com/track/73uPndptmSmlRABX66NegK"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Las Ma\u00f1anitas",
-        "url": "https://open.spotify.com/album/56Z39rIzLEuaC0NLsuiCAZ"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Las Ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/1iwWSiAjIqwihkbhGfl0Fo"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/56Z39rIzLEuaC0NLsuiCAZ"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/1iwWSiAjIqwihkbhGfl0Fo"
     },
     {
       "added_at": "2026-03-27 16:10:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,337 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,333 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 20 | [Aldatıldık](https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Aldatıldık](https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s) | 3:06 |
 | 21 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
 | 22 | [Yalnız Ölmek](https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO) | [Can Güngör](https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN) | [Yalnız Ölmek](https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh) | 3:47 |
-| 23 | [Müteşekkir](https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:33 |
-| 24 | [Kumsalda](https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Turuncu](https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO) | 3:46 |
+| 23 | [Kumsalda](https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Turuncu](https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO) | 3:46 |
+| 24 | [Müteşekkir](https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:33 |
 | 25 | [Sen Istersin](https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Sen Istersin](https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5) | 3:23 |
 | 26 | [Kaybolur](https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Kaybolur](https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ) | 4:52 |
 | 27 | [Hatıralar](https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 45 | [Yosun \- Aytaç Kart Remix](https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI), [Aytaç Kart](https://open.spotify.com/artist/2xLZvc0cMLbHKWeENrDH7E) | [Yosun \(Aytaç Kart Remix\)](https://open.spotify.com/album/742LXpIVetALHQnkHi1G31) | 3:38 |
 | 46 | [ultrapop](https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz) | [Birileri](https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR) | [ultrapop](https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw) | 3:58 |
 | 47 | [Yeniden Sev](https://open.spotify.com/track/3A2711bGNF7y0rTVy2XZNH) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Onno Tunç Şarkıları](https://open.spotify.com/album/05AuqXIInjEOYuuoSxlAKP) | 5:35 |
-| 48 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |
-| 49 | [Kahrettim](https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kahrettim](https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b) | 3:06 |
+| 48 | [Kahrettim](https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kahrettim](https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b) | 3:06 |
+| 49 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |
 | 50 | [Oyunbaz](https://open.spotify.com/track/0ctDpklud2Y5eY4KOsCmTJ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Oyunbaz](https://open.spotify.com/album/5vj6vkFybfZR136v1Rcius) | 3:18 |
 
 Snapshot ID: `AAAAAC5LuX/H1VP9sLk3iO/75ulUo70y`

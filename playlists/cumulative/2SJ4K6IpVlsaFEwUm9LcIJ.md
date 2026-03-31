@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-947 songs - 2 day 9 hr 18 min
+948 songs - 2 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [obvious](https://open.spotify.com/track/786jy4LS2o1DIPIcul4y7D) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 2:15 | 2024-10-24 | 2024-11-14 |
 | [October](https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m) | [Laura Watling](https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ) | [Early Morning Walk](https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ) | 3:06 | 2024-09-30 | 2024-11-14 |
 | [Of Up And Coming Monarchs](https://open.spotify.com/track/7LLK9N77v699ZyY3X88sjX) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [It's Hard To Find A Friend \(Remastered\)](https://open.spotify.com/album/2mwUmDzFVzwlgibfYH38GR) | 3:03 | 2024-09-27 | 2024-10-12 |
+| [Off the Rail](https://open.spotify.com/track/1pLQ2Wwyd9DlyFWkki5HHX) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:27 | 2026-03-30 |  |
 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 | 2024-08-12 | 2024-09-08 |
 | [Ohio](https://open.spotify.com/track/7CQvwewBvkpX67eLoYqetW) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [OH \(Ohio\)](https://open.spotify.com/album/6BQv93NiGNNikZ3QrHacFh) | 2:24 | 2024-04-25 | 2024-05-16 |
 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 | 2024-03-20 | 2024-05-16 |

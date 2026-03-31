@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,507 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,487 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 33 | [Puro Comer](https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1) | [Elegante & La Imperial](https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27) | [El Sonido de las Lobas](https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo) | 4:20 |
 | 34 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 35 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 |
-| 36 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 |
-| 37 | [Tierra Mojá \- Cerrero Dub Mix](https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ) | [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Tierra Mojá \(Dub Mix\)](https://open.spotify.com/album/5nNgttpJa3yf9foArittyG) | 5:07 |
+| 36 | [Tierra Mojá \- Cerrero Dub Mix](https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ) | [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Tierra Mojá \(Dub Mix\)](https://open.spotify.com/album/5nNgttpJa3yf9foArittyG) | 5:07 |
+| 37 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 |
 | 38 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 |
 | 39 | [La Que Es](https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6), [Betsayda Machado](https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k), [Parranda el Clavo](https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:14 |
 | 40 | [Ofelia \- Cerrero Dub Mix](https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m) | [Sexteto Tabala](https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Ofelia \(Cerrero Dub Mix\)](https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K) | 4:01 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 48 | [Purna Mantra](https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF) | [Manuela Mejia](https://open.spotify.com/artist/3lRxoMB4YMbbCOvvR5dekK) | [Purna Mantra](https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp) | 6:46 |
 | 49 | [¿Qué Jue?](https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [¿Qué Jue?](https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m) | 3:25 |
 | 50 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
-| 51 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 |
-| 52 | [Antares](https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE) | [Alejandro Molinari](https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE) | [Antares](https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa) | 4:55 |
+| 51 | [Antares](https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE) | [Alejandro Molinari](https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE) | [Antares](https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa) | 4:55 |
+| 52 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 |
 | 53 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 |
 | 54 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
 | 55 | [Baquiné](https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Baquiné](https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG) | 4:32 |

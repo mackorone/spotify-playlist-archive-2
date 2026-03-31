@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Malcolm Todd",
-  "num_followers": 1673085,
+  "num_followers": 1673066,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -681,6 +681,38 @@
       "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
+      "added_at": "2026-03-27 05:14:04",
+      "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "LEZ GO!",
@@ -699,22 +731,6 @@
       "duration_ms": 164566,
       "name": "LEZ GO!",
       "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -749,22 +765,6 @@
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
-      "added_at": "2026-03-27 05:14:04",
-      "album": {
-        "name": "Back in Love",
-        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Back in Love",
-      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
-    },
-    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Equus Caballus",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Vampire Bat",
-        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 206652,
-      "name": "Vampire Bat",
-      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Vampire Bat",
+        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 206652,
+      "name": "Vampire Bat",
+      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "21st Century Cool Girl",
-        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 197655,
-      "name": "21st Century Cool Girl",
-      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 253675,
       "name": "Rabbits Can Swim",
       "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "21st Century Cool Girl",
+        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "21st Century Cool Girl",
+      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Stupid Bitches",
         "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1113,20 +1113,20 @@
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
+      "added_at": "2026-03-27 05:14:04",
       "album": {
-        "name": "Drama King",
-        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
+        "name": "Want It Back",
+        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
       },
       "artists": [
         {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 190901,
-      "name": "Drama King",
-      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
+      "duration_ms": 207509,
+      "name": "Want It Back",
+      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+        "name": "Drama King",
+        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
       },
       "artists": [
         {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+      "duration_ms": 190901,
+      "name": "Drama King",
+      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1175,6 +1175,22 @@
       "duration_ms": 215531,
       "name": "Lipdance",
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1245,22 +1261,6 @@
       "url": "https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH"
     },
     {
-      "added_at": "2026-03-27 05:14:04",
-      "album": {
-        "name": "Want It Back",
-        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 207509,
-      "name": "Want It Back",
-      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
-    },
-    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Ants In My Room",
@@ -1275,6 +1275,22 @@
       "duration_ms": 168919,
       "name": "Ants In My Room",
       "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "auburn",
+        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "auburn",
+      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 180056,
-      "name": "Jelly",
-      "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "the punisher",
         "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "auburn",
-        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt"
       },
       "artists": [
         {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 209591,
-      "name": "auburn",
-      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+      "duration_ms": 180056,
+      "name": "Jelly",
+      "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Would You Go Down On A Girl? (Deluxe)",
-        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
-        }
-      ],
-      "duration_ms": 221152,
-      "name": "Silverlake Baby",
-      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189898,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Would You Go Down On A Girl? (Deluxe)",
+        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 221152,
+      "name": "Silverlake Baby",
+      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Cool",
-        "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 158688,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "just friends",
         "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 208363,
       "name": "just friends",
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 158688,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "A Man Written by a Woman",
-        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "A Man Written by a Woman",
-      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Gold Star Baby: After Hours",
         "url": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
       },
@@ -1671,34 +1655,50 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Letters From The Day",
-        "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
         }
       ],
-      "duration_ms": 259073,
-      "name": "Letters From The Day",
-      "url": "https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz"
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
+      "added_at": "2026-03-27 05:14:04",
       "album": {
-        "name": "Blame it on You",
-        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
+        "name": "Come To God",
+        "url": "https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo"
       },
       "artists": [
         {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 185318,
-      "name": "Blame it on You",
-      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
+      "duration_ms": 157446,
+      "name": "Come To God",
+      "url": "https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J"
+    },
+    {
+      "added_at": "2026-03-27 05:14:04",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
     }
   ],
   "unique_name": "Indie Pop",

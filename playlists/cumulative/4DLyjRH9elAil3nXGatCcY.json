@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "A Little Messed Up",
+        "url": "https://open.spotify.com/album/0Cb0KcevtzRaH7hmYxoeny"
+      },
+      "artists": [
+        {
+          "name": "june",
+          "url": "https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "A Little Messed Up",
+      "url": "https://open.spotify.com/track/5iDaEbPX8Lq2evx3ZpAgQU"
+    },
+    {
+      "album": {
         "name": "METAL GEAR RISING REVENGEANCE Vocal Tracks Selection",
         "url": "https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf"
       },

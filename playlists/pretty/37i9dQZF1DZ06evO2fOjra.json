@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 563597,
+  "num_followers": 563747,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAChgViWbaC+CkNJ/3XucyFp",
+  "snapshot_id": "achrgAAAAACvhdj9N/2wYxObyckGKkOf",
   "tracks": [
     {
       "added_at": null,
@@ -730,11 +730,15 @@
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 235944,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
+      "duration_ms": 240548,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
     },
     {
       "added_at": null,
@@ -794,15 +798,11 @@
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 240548,
-      "name": "Wicked (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+      "duration_ms": 235944,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
     },
     {
       "added_at": null,

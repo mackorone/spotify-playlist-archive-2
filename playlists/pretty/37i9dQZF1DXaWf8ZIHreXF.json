@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 529335,
+  "num_followers": 529365,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Reload (Vocal Version / Radio Edit)",
         "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 221272,
       "name": "Reload - Radio Edit",
       "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277687,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 213946,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277687,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
     },
     {
       "added_at": "2023-08-25 09:30:35",

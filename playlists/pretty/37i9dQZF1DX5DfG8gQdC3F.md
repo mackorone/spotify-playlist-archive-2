@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from RAYE, Miley Cyrus, Jessie Reyez, Cameron Whitcomb, Yeat and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,475 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,438 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 53 | [The Former Site Of](https://open.spotify.com/track/73NSR0zuF1CgdeICZMNPaM) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [The Former Site Of](https://open.spotify.com/album/10Ehvbp6eFc4X4D84aOxhc) | 6:38 |
 | 54 | [Deep End](https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Deep End](https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ) | 2:30 |
 | 55 | [Shine](https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [Inferno](https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M) | 2:31 |
-| 56 | [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
+| 56 | [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
 | 57 | [Sinners On The Moon \(Feat\. Justin Jesso\)](https://open.spotify.com/track/5cVUWUHswj53gusYGVxtvs) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Sinners On The Moon \(Feat\. Justin Jesso\)](https://open.spotify.com/album/0uUfuyBF4WoZOaC5I20vdh) | 2:30 |
 | 58 | [Don't Wanna Go Home \(feat\. Henry Camamile\)](https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Henry Camamile](https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB) | [Don't Wanna Go Home \(feat\. Henry Camamile\)](https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn) | 2:37 |
 | 59 | [Hit With Music](https://open.spotify.com/track/1BypV2vDJ5nudihKMdN5QS) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Hit With Music](https://open.spotify.com/album/0zqhxiLkWbJufPN3cv0myH) | 3:15 |

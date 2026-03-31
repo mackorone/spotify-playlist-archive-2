@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "See You, Evergreen",
+        "url": "https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyo Rin",
+          "url": "https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267435,
+      "name": "Gleaning",
+      "url": "https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe"
+    },
+    {
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
@@ -2723,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Monet",
+        "url": "https://open.spotify.com/album/1nwqVDmzx6YtuImEak65qK"
+      },
+      "artists": [
+        {
+          "name": "Hong Taeyeon",
+          "url": "https://open.spotify.com/artist/4EMsihpNXYdhVAm3oCNbVp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283518,
+      "name": "Monet",
+      "url": "https://open.spotify.com/track/4QlzIlP8GvGDTOpwV2G2oX"
+    },
+    {
+      "album": {
         "name": "Don't Know",
         "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
       },
@@ -2770,7 +2806,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 193667,
       "name": "moon river (2021)",
       "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
@@ -3597,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Still Shining OST Part.7",
+        "url": "https://open.spotify.com/album/5BQZMlxrr98Yi4KeKY8ZMA"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/4YgkvKLJGdjy3LyMBiJnxa"
+    },
+    {
+      "album": {
         "name": "Dancing With You",
         "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
       },
@@ -3698,7 +3752,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 205306,
       "name": "Softly",
       "url": "https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh"
@@ -3836,7 +3890,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"

@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 104002,
+  "num_followers": 103998,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADtM/YiswHuqi6yIHNzI8YN",
+  "snapshot_id": "achrgAAAAABHaCHEAIL7tL8rmSET2Hzu",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo Odiarte",
-        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
+        "name": "Si Quieres (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         },
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 126386,
-      "name": "No Puedo Odiarte",
-      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
+      "duration_ms": 258480,
+      "name": "Si Quieres - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
     },
     {
       "added_at": null,
@@ -723,22 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
+        "name": "No Puedo Odiarte",
+        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        },
-        {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 258480,
-      "name": "Si Quieres - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+      "duration_ms": 126386,
+      "name": "No Puedo Odiarte",
+      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
     },
     {
       "added_at": null,

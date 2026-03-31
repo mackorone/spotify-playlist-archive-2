@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Ate",
+        "url": "https://open.spotify.com/album/5A4eJARS7eP1fdKBG7kJDw"
+      },
+      "artists": [
+        {
+          "name": "Ely Buendia",
+          "url": "https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241855,
+      "name": "Ate",
+      "url": "https://open.spotify.com/track/6Lsts5Jn22moVr4H5FTtAx"
+    },
+    {
+      "album": {
         "name": "Atin Ang Gabi",
         "url": "https://open.spotify.com/album/644WR11yPJHfACPlaSPmQK"
       },
@@ -626,6 +644,24 @@
       "duration_ms": 240000,
       "name": "Ayaw Mo Na",
       "url": "https://open.spotify.com/track/1hZsKR2qyml8tb9qF1ZGyw"
+    },
+    {
+      "album": {
+        "name": "AYOS",
+        "url": "https://open.spotify.com/album/4rr0Zu5EuhUVKWu89qi8Ke"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218863,
+      "name": "AYOS",
+      "url": "https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX"
     },
     {
       "album": {
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 184178,
       "name": "Dapit hapon",
       "url": "https://open.spotify.com/track/0FmXwwndEuzyug70tZZLkQ"
@@ -1396,6 +1432,24 @@
       "duration_ms": 197031,
       "name": "Di Nakakasawa",
       "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
+    },
+    {
+      "album": {
+        "name": "Dibale Na Lang",
+        "url": "https://open.spotify.com/album/1E2hT2XZI2b9GPym2YbC4B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Paringit",
+          "url": "https://open.spotify.com/artist/2mpQg7knqekGlqdFzmyZqZ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Dibale Na Lang",
+      "url": "https://open.spotify.com/track/76pp35sOjDw9o5x4JhsH4U"
     },
     {
       "album": {
@@ -1688,7 +1742,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 179330,
       "name": "Funeral Song",
       "url": "https://open.spotify.com/track/6Dn7DyEV8MHnvLNl0ebuGQ"
@@ -1728,7 +1782,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 268703,
       "name": "Gabi",
       "url": "https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD"
@@ -1786,7 +1840,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 141818,
       "name": "GET 2 KNOW U",
       "url": "https://open.spotify.com/track/1L9hGUkEa141Z76qe4kdEl"
@@ -2400,7 +2454,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 180923,
       "name": "i know u by heart",
       "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
@@ -3346,7 +3400,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 183024,
       "name": "Kupido",
       "url": "https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya"
@@ -3418,7 +3472,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
@@ -3530,7 +3584,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 171527,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
@@ -3740,7 +3794,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 189530,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA"
@@ -3852,7 +3906,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
@@ -4192,7 +4246,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
@@ -4610,7 +4664,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 210354,
       "name": "Nangangamba",
       "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
@@ -5058,7 +5112,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 188190,
       "name": "Pagmamahal",
       "url": "https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa"
@@ -5210,7 +5264,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
@@ -5842,7 +5896,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 130064,
       "name": "Pilit Pinili",
       "url": "https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ"
@@ -6214,6 +6268,24 @@
       "duration_ms": 246290,
       "name": "Sa Uulitin",
       "url": "https://open.spotify.com/track/0lAZd9knO0d5whnNyc9CSd"
+    },
+    {
+      "album": {
+        "name": "LUXEMBOURG",
+        "url": "https://open.spotify.com/album/7kZMLlLjTEFwJ7NNmjxYcj"
+      },
+      "artists": [
+        {
+          "name": "John Sam",
+          "url": "https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Saan-saan",
+      "url": "https://open.spotify.com/track/63gFonBTMqMR8BRJz0qVXp"
     },
     {
       "album": {
@@ -7998,7 +8070,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 192000,
       "name": "We Were There (kabataan ko'y sayo)",
       "url": "https://open.spotify.com/track/20lgvwb7zyJc3KmnXcVcXb"

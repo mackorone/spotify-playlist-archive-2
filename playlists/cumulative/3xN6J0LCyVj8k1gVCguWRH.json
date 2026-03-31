@@ -39055,6 +39055,24 @@
     },
     {
       "album": {
+        "name": "ABSURED",
+        "url": "https://open.spotify.com/album/6bUQlPPo9AvGZQMAbN7GBc"
+      },
+      "artists": [
+        {
+          "name": "Plyer",
+          "url": "https://open.spotify.com/artist/2iakGKLbFFRduLEgIJaUNt"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232882,
+      "name": "Goofy Face",
+      "url": "https://open.spotify.com/track/35rwAythOgFEUXudtKCqdI"
+    },
+    {
+      "album": {
         "name": "Gooseberry",
         "url": "https://open.spotify.com/album/18zx5U8dqOUiN9tMfopTcT"
       },
@@ -74778,6 +74796,24 @@
       "duration_ms": 265861,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2"
+    },
+    {
+      "album": {
+        "name": "Please Be Kind, Rewind",
+        "url": "https://open.spotify.com/album/7c9Allw4Z1AnjmCoLnQArB"
+      },
+      "artists": [
+        {
+          "name": "Skinny Dippers",
+          "url": "https://open.spotify.com/artist/0Dob2W5r4Uxwa1WIJRt67Y"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Please Be Kind, Rewind",
+      "url": "https://open.spotify.com/track/3q0WtL6dvAEl6hpotT1bRT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,531 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,536 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 19 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 |
 | 20 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
 | 21 | [dance now!](https://open.spotify.com/track/0RDXqfmkzxoiQ53JHrFNYz) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [dance now!](https://open.spotify.com/album/6mO4D69qVPbluFWDXCh0ya) | 2:44 |
-| 22 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 22 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 23 | [あむりた](https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [あむりた](https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC) | 4:00 |
 | 24 | [sunday driver](https://open.spotify.com/track/53Hc3XjCHfBDzz3ZsjBEhs) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:38 |
 | 25 | [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 |
-| 26 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
+| 26 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 27 | [nothing left, we don’t know why](https://open.spotify.com/track/0HaDAS34EmQQSWm7CW667p) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [nothing left, we don’t know why](https://open.spotify.com/album/1HWeHIiosyZ1xznrpRxizV) | 2:59 |
 | 28 | [スピカ](https://open.spotify.com/track/0txI0uDofmnAXqbZraQRYn) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [スピカ](https://open.spotify.com/album/0Q3KAcVAVo2HyanbDhhLBk) | 3:33 |
 | 29 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 49 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
 | 50 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
 | 51 | [Whitoxin](https://open.spotify.com/track/7HGUFKQkVQMgPhMIm2GDfl) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Whitoxin](https://open.spotify.com/album/2OSTqjT8ESEOYbasGPRjra) | 4:09 |
-| 52 | [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 |
-| 53 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
-| 54 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
+| 52 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
+| 53 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
+| 54 | [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 |
 | 55 | [東京ゴッドストリートボーイズ](https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl) | 3:50 |
-| 56 | [天誅 & Mercy](https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:45 |
-| 57 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 |
+| 56 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 |
+| 57 | [天誅 & Mercy](https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:45 |
 | 58 | [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 |
 | 59 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
 | 60 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |

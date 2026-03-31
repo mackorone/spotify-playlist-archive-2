@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,191 songs - 9 day 7 hr 14 min
+4,192 songs - 9 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2309,6 +2309,7 @@
 | [Midnight Whispers](https://open.spotify.com/track/4rReyKRnq2nvUUAkDcmnZZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 4:00 | 2025-09-19 |  |
 | [Midnight Whispers \(another\)](https://open.spotify.com/track/35Ukg0ez0UyToL0y1XxAZH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 2:45 | 2025-09-19 |  |
 | [Midnight!](https://open.spotify.com/track/3aMdU8W0lecHdriqXSwEXU) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Midnight!](https://open.spotify.com/album/5g3W430udW1ZH8t37Bbmkb) | 2:43 | 2025-05-16 |  |
+| [Midnite Blessing](https://open.spotify.com/track/1pykCOk2rzcOsjl8mPdZbd) | [Indiana Jim](https://open.spotify.com/artist/2QE57sqgXg61PmxVAnBma8) | [Midnite Blessing](https://open.spotify.com/album/2Lqo9xToF8Ft5afvPgbR93) | 3:45 | 2026-03-30 |  |
 | [Miele](https://open.spotify.com/track/7cdXoOa0776c7rAvakp1fZ) | [NeroVivo](https://open.spotify.com/artist/0op0Ux45RUDErA0Fi00qew) | [Miele](https://open.spotify.com/album/06FOn7MtByN77ZG4PbXQII) | 3:52 | 2025-05-11 |  |
 | [Mientras Brillen](https://open.spotify.com/track/6EEaosPGgR1VRJuB2Uole1) | [Abismo](https://open.spotify.com/artist/4BHfQZgTgag2M8R8vRHBDN) | [Mientras Brillen](https://open.spotify.com/album/1vcdeu7k2Tw1sQfKfzvG7P) | 3:19 | 2025-06-30 |  |
 | [Milioni di farfalle](https://open.spotify.com/track/1yxIPWhbubDNdW8HuusRh6) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 3:42 | 2025-06-08 |  |

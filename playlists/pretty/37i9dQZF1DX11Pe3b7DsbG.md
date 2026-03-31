@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,753 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,762 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 16 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
 | 17 | [Feijoada Completa](https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 2:51 |
 | 18 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
-| 19 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
-| 20 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
+| 19 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
+| 20 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
 | 21 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
 | 22 | [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 |
 | 23 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 31 | [Dependente Do Amor](https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mais Feliz](https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9) | 3:44 |
 | 32 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
 | 33 | [No Pagode Do Vavá](https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:05 |
-| 34 | [Promessa](https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo) | [Noca Da Portela](https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC) | [De Mãos Dadas](https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF) | 2:54 |
-| 35 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
+| 34 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
+| 35 | [Promessa](https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo) | [Noca Da Portela](https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC) | [De Mãos Dadas](https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF) | 2:54 |
 | 36 | [Spc](https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho](https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs) | 3:23 |
 | 37 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
 | 38 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |

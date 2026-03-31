@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,221 likes - 328 songs - 17 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,220 likes - 328 songs - 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 28 | [Tattoos Together](https://open.spotify.com/track/3pTHZHX0MRE7xYeiTEWlaM) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:06 |
 | 29 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 | 30 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
-| 31 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 |
-| 32 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
+| 31 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
+| 32 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 |
 | 33 | [The Story Never Ends](https://open.spotify.com/track/6I6lwAR8HMDQwltRcRJOtg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:49 |
 | 34 | [Chasing Fire](https://open.spotify.com/track/5V5c0lAnvM2aqCDHWZFx0K) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:25 |
 | 35 | [Shot Glass of Tears](https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:47 |
@@ -135,10 +135,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 125 | [RAIN](https://open.spotify.com/track/55PC8EQgaWWrIgP0H2VC6x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 3:33 |
 | 126 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 |
 | 127 | [More to Lose](https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:35 |
-| 128 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
-| 129 | [Sleeping With The Lights On](https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 3:44 |
-| 130 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
-| 131 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
+| 128 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
+| 129 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
+| 130 | [Sleeping With The Lights On](https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 3:44 |
+| 131 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 | 132 | [Heat](https://open.spotify.com/track/1zv5ce0HHLD90EByNsgBfD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:10 |
 | 133 | [Wonder Woman](https://open.spotify.com/track/1sHRnn8zuTMusee3ahseXC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:05 |
 | 134 | [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 |
@@ -306,8 +306,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 296 | [All That Love](https://open.spotify.com/track/5rnGF6xiFwbXSL6IEELei8) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [All That Love \- SM STATION](https://open.spotify.com/album/4OJCJDqVmugtPC6iHCsdOZ) | 3:13 |
 | 297 | [The Other Side](https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR) | [The Greatest Showman A Cappella](https://open.spotify.com/album/1jdS2Z2L7De7iyK68vLFeS) | 3:28 |
 | 298 | [fake it](https://open.spotify.com/track/1bU5mjzGlU3iyZn2cUy1J4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 3:00 |
-| 299 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
-| 300 | [About Last Night](https://open.spotify.com/track/7GkwXNjyUnScwInFroo9lW) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 3:36 |
+| 299 | [About Last Night](https://open.spotify.com/track/7GkwXNjyUnScwInFroo9lW) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 3:36 |
+| 300 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
 | 301 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 |
 | 302 | [insecure](https://open.spotify.com/track/7rpsDhcHu6mJ1aMRupHtGa) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 3:31 |
 | 303 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 327 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 |
 | 328 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 
-Snapshot ID: `AcNdYAAAAAAenpCz/vzG+rmLi6WrtyrB`
+Snapshot ID: `AcNjAAAAAAC0rKMA8I/gz8F5zHSQLQeJ`

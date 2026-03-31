@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 15 | [Fire & Desire](https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:58 |
 | 16 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 17 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
-| 18 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
-| 19 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 18 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 19 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 | 20 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
 | 21 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
-| 22 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 |
-| 23 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
+| 22 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
+| 23 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 |
 | 24 | [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 |
 | 25 | [Liability](https://open.spotify.com/track/2vy9Ry1TNjCD85TiCbTz0r) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:57 |
 | 26 | [Passion Fruit](https://open.spotify.com/track/52JVO9jBTTmdxncddU06sN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:14 |

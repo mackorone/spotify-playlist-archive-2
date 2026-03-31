@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1326906,
+  "num_followers": 1326825,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Rubber Band Man (with Hozier)",
-        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Rubber Band Man (with Hozier)",
-      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+      "duration_ms": 228449,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 228449,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "FOREVER AGAIN",
-        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 160147,
-      "name": "FOREVER AGAIN",
-      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "ROOM UNDER THE STAIRS",
         "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "FOREVER AGAIN",
+        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 160147,
+      "name": "FOREVER AGAIN",
+      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172778,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Sweet Delusion",
         "url": "https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 172282,
       "name": "Sweet Delusion",
       "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 172778,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
-      },
-      "artists": [
-        {
-          "name": "Lewis Fitzgerald",
-          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
-        }
-      ],
-      "duration_ms": 169934,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "duration_ms": 169934,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Light hit my face like a straight right",
         "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 212043,
       "name": "Horses",
       "url": "https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     }
   ],
   "unique_name": "Easy",

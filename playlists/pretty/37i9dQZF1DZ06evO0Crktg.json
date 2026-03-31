@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 335959,
+  "num_followers": 335999,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABAzAV8O1XMBSlPIwcjD5PN",
+  "snapshot_id": "achrgAAAAADWwgur/OB+tXCeLAz3CCo4",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 198115,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+      "duration_ms": 190000,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
     },
     {
       "added_at": null,

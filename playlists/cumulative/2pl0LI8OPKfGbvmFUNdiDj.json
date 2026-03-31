@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Phoenix - Breaking the Cycle",
+        "url": "https://open.spotify.com/album/25fUK2kTg4PxRZndSf57ns"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse Riding",
+          "url": "https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262857,
+      "name": "Apparently Dead",
+      "url": "https://open.spotify.com/track/7KU3oqTPIO1vH8Dm3qT9NO"
+    },
+    {
+      "album": {
         "name": "Lifelike Figures",
         "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
       },
@@ -2432,6 +2450,24 @@
       "duration_ms": 149975,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W"
+    },
+    {
+      "album": {
+        "name": "NOISY NOISY NOISY",
+        "url": "https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm"
+      },
+      "artists": [
+        {
+          "name": "Impulse Bangs",
+          "url": "https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172712,
+      "name": "Forgot Yourself",
+      "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
     },
     {
       "album": {

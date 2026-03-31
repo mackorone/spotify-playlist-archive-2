@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 9156,
+  "num_followers": 9160,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACfkobYwP28U+tWjiHGQ7R+",
+  "snapshot_id": "achrgAAAAADu5k/SK4Lq4bh5MXRVTF2y",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gehn Gehn Album",
-        "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
       },
       "artists": [
         {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
         }
       ],
-      "duration_ms": 207317,
-      "name": "Ogede",
-      "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
+      "duration_ms": 203280,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
     },
     {
       "added_at": null,
@@ -211,22 +207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
+        "name": "The Gehn Gehn Album",
+        "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
         },
         {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 203280,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
+      "duration_ms": 207317,
+      "name": "Ogede",
+      "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
     },
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+        "name": "Alubarika",
+        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
       },
       "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+      "duration_ms": 235440,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alubarika",
-        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -503,42 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWEET US",
-        "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Onorato",
-        "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 161111,
-      "name": "Yan Yan Po",
-      "url": "https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M.O.N.E.Y",
         "url": "https://open.spotify.com/album/0vsUBIp6yJsp9ZomhLXuiq"
       },
@@ -555,6 +519,22 @@
       "duration_ms": 231106,
       "name": "M.O.N.E.Y",
       "url": "https://open.spotify.com/track/4LV4Zfb9bz5ELPOb9rOjf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWEET US",
+        "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onorato",
+        "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 161111,
+      "name": "Yan Yan Po",
+      "url": "https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ODESHI",
         "url": "https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 192053,
       "name": "ODESHI",
       "url": "https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/0udi5wEx1hvToZRFRRmYL7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solidstar",
         "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 218305,
       "name": "My Body",
       "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Bow Down",
-      "url": "https://open.spotify.com/track/0udi5wEx1hvToZRFRRmYL7"
     },
     {
       "added_at": null,

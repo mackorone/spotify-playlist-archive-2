@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,555 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,557 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 |
 | 2 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
 | 3 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
-| 4 | [Cuánta Razón](https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cuánta Razón](https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab) | 3:05 |
-| 5 | [Te Creí](https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 4:02 |
+| 4 | [Te Creí](https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 4:02 |
+| 5 | [Cuánta Razón](https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cuánta Razón](https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab) | 3:05 |
 | 6 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 |
 | 7 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
 | 8 | [Que Alguien Me Diga \- En Vivo](https://open.spotify.com/track/1UQB7AlBK4X3hTPbSHOXJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Íntimo \(En Vivo\)](https://open.spotify.com/album/5gxFzD2Aew2LN9fcvezK2m) | 4:36 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 56 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
 | 57 | [Quien Sabe](https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Soñar Contigo\. Una Colección de Sus Grandes Canciones](https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08) | 3:59 |
 | 58 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
-| 59 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 |
-| 60 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 |
+| 59 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 |
+| 60 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 |
 | 61 | [A fuego lento \(feat\. Vicente Garcia\)](https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A fuego lento \(feat\. Vicente Garcia\)](https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa) | 3:19 |
 | 62 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
 | 63 | [Todo Cambió](https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Todo Cambió](https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb) | 3:38 |

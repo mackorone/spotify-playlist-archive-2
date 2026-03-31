@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  Mannywellz",
-  "num_followers": 262165,
+  "num_followers": 262188,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "when the party's over",
         "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Julie",
         "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 178000,
       "name": "Julie",
       "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -947,30 +947,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Arike (Remix)",
-        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Arike - Remix",
-      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 154105,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "GINGER U",
+        "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
+      },
+      "artists": [
+        {
+          "name": "Mack H.D",
+          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 141704,
+      "name": "GINGER U",
+      "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1015,26 +1015,26 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "GINGER U",
-        "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
       "artists": [
         {
-          "name": "Mack H.D",
-          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         },
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         },
         {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 141704,
-      "name": "GINGER U",
-      "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Kontrollah",
-        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
-      },
-      "artists": [
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 155924,
-      "name": "Kontrollah",
-      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 174050,
       "name": "WILL I EVER",
       "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Kontrollah",
+        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
+      },
+      "artists": [
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "duration_ms": 155924,
+      "name": "Kontrollah",
+      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
     }
   ],
   "unique_name": "Ginja",

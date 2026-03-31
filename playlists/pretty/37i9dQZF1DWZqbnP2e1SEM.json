@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325206,
+  "num_followers": 325204,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "BACKBONE",
-        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 166448,
-      "name": "BACKBONE",
-      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
+      },
+      "artists": [
+        {
+          "name": "Tomcraft",
+          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "Loneliness - Radio Cut",
+      "url": "https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
         "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
         "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 160602,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
       "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
-      },
-      "artists": [
-        {
-          "name": "Tomcraft",
-          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
-        }
-      ],
-      "duration_ms": 228653,
-      "name": "Loneliness - Radio Cut",
-      "url": "https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws"
     }
   ],
   "unique_name": "Island Anthems",

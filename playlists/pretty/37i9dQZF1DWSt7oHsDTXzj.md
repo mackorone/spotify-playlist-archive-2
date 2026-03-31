@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,254 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,225 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 54 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
 | 55 | [snowpool](https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [snowpool](https://open.spotify.com/album/3SfMVVm5Aro0KDirWJqcXs) | 3:15 |
 | 56 | [Tchotchkes](https://open.spotify.com/track/52uBuW0bJLOR0l4L1wFObL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T), [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchkes](https://open.spotify.com/album/7palXr5xfbnTxikTKz6xQA) | 3:42 |
-| 57 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
-| 58 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
+| 57 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
+| 58 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 59 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 60 | [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 |
 | 61 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
-| 62 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
-| 63 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
+| 62 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
+| 63 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
 | 64 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
 | 65 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 66 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 72 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
 | 73 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 |
 | 74 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 |
-| 75 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 |
+| 75 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
 
 Snapshot ID: `AAAAANSm03ud3HSMDGYwoOy+sGln7KfA`

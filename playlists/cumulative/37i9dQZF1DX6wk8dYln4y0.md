@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: CHIRAI
 
-680 songs - 1 day 12 hr 41 min
+681 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-23 | 2025-03-07 |
 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-10 | 2025-05-25 |
 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-11 | 2024-08-28 |
-| [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 | 2025-08-21 |  |
+| [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 | 2025-08-21 | 2026-03-31 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-12 | 2024-06-28 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6xGr4tVzpTX99p9Cf0hRRL) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:21 | 2023-12-19 | 2024-02-09 |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-09 | 2025-04-09 |
@@ -613,6 +613,7 @@
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-03-16 | 2023-10-24 |
 | [Tidal Wave](https://open.spotify.com/track/2h1UMCTfPc3P2ko1D5tbNQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Tidal Wave](https://open.spotify.com/album/2JPBkJNbO1SOO3duRkJ4Md) | 3:04 | 2025-07-10 | 2025-08-22 |
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 |  |
+| [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-03-26 |  |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-03 | 2026-01-30 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2024-01-08 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-03-28 |

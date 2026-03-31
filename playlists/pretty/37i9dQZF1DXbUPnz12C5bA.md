@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,288 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,392 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 24 | [Te Amo y Te Amo](https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:47 |
 | 25 | [Todo No Puede Llamarse Amor \(with Víctor Manuelle\)](https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 4:52 |
 | 26 | [Casualidad](https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Super Vallenatos 2008](https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w) | 4:52 |
-| 27 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
-| 28 | [La Gemela](https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [30 Grandes Exitos](https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9) | 4:12 |
+| 27 | [La Gemela](https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [30 Grandes Exitos](https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9) | 4:12 |
+| 28 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
 | 29 | [Cuando Quieras Quiero \- En Vivo](https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 5:11 |
 | 30 | [Mujer Marchita](https://open.spotify.com/track/2BOOZcN1iF4EVlCtg3FtwI) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 3:46 |
 | 31 | [Te Pierdo y Te Pienso \- Sinfónica Version](https://open.spotify.com/track/2pem6pA9BNiMQDmsaVLYmW) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Bendito Vallenato](https://open.spotify.com/album/1N2jQb3iusmjsdoCLSazoZ) | 5:03 |

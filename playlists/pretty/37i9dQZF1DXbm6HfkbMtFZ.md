@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,387 likes - 115 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,462 likes - 115 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 88 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
 | 89 | [Red Wine](https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh) | [Grapetooth](https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI) | 3:59 |
 | 90 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
-| 91 | [The Conservation of Energy](https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Choose Your Own Adventure](https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz) | 4:13 |
-| 92 | [Rock Pools](https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy), [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Tomorrow Again](https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG) | 3:58 |
+| 91 | [Rock Pools](https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy), [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Tomorrow Again](https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG) | 3:58 |
+| 92 | [The Conservation of Energy](https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Choose Your Own Adventure](https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz) | 4:13 |
 | 93 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 |
 | 94 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 |
 | 95 | [Believer](https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:09 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 97 | [Nobody But You](https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Sounds Good](https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD) | 2:14 |
 | 98 | [Lucy](https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW) | [Yenkee](https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd) | [Lucy](https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz) | 3:46 |
 | 99 | [Love You Most](https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh) | [Laura Jean Anderson](https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0) | [Lonesome No More](https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi) | 3:07 |
-| 100 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
-| 101 | [Sun & Moon](https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Sun & Moon](https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g) | 2:45 |
+| 100 | [Sun & Moon](https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Sun & Moon](https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g) | 2:45 |
+| 101 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
 | 102 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
 | 103 | [I Don't](https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:22 |
 | 104 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
@@ -117,11 +117,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 107 | [Picture Frame](https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Picture Frame](https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU) | 3:15 |
 | 108 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
 | 109 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
-| 110 | [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 |
-| 111 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 |
+| 110 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 |
+| 111 | [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 |
 | 112 | [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 |
 | 113 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:35 |
 | 114 | [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 |
-| 115 | [Tell Me With Your Eyes \(Just Be You\)](https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108) | [Rob Galbraith](https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc) | [Damn It All](https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd) | 3:47 |
+| 115 | [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 |
 
 Snapshot ID: `AAAAAPooXA/zUZtQX7LMIsDkX0jTNN1m`

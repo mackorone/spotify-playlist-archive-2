@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,554 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,623 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 45 | [Bailotea](https://open.spotify.com/track/1fyLW3o7YFf1FokqoJHC9d) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:02 |
 | 46 | [No Puedo Mas](https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Muchas Ganas](https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V) | 3:00 |
 | 47 | [Fuego Contra Fuego](https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 3:06 |
-| 48 | [Por las Damas Caballero](https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 2:47 |
-| 49 | [Mía](https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 3:31 |
+| 48 | [Mía](https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 3:31 |
+| 49 | [Por las Damas Caballero](https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 2:47 |
 | 50 | [Espero Que Él](https://open.spotify.com/track/0NV4SoTZUkKchA23Fa3AcV) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espero Que Él](https://open.spotify.com/album/6uAGCxcfRtcxANS8oxnc34) | 3:22 |
 
-Snapshot ID: `accaAAAAAADVGkcT2FzgT4z9e7LE3znd`
+Snapshot ID: `achrgAAAAAB/MIAr08lcSX5BJwtzxn/L`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: SB19
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,923 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,927 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

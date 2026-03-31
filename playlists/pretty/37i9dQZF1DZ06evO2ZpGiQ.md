@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,492 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,542 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 29 | [A Milli](https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO) | 3:41 |
 | 30 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
 | 31 | [Beware](https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:55 |
-| 32 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 |
-| 33 | [Back That Azz Up](https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [400 Degreez](https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ) | 4:25 |
+| 32 | [Back That Azz Up](https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [400 Degreez](https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ) | 4:25 |
+| 33 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 |
 | 34 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
 | 35 | [Sorry 4 The Wait](https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 2:36 |
 | 36 | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 49 | [I'm Into You](https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 3:20 |
 | 50 | [The Real Her](https://open.spotify.com/track/74atKkOasLOVzvqB6mYgga) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:21 |
 
-Snapshot ID: `accaAAAAAACro/rgV8cMrpz+9M9BPTae`
+Snapshot ID: `achrgAAAAAA9neQ+ZjffPzJnUxc3qwzs`

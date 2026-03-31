@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34730,
+  "num_followers": 34734,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Los piratas (Portal Sessions)",
-        "url": "https://open.spotify.com/album/5DxUdYRUYcRW5ZH7qRjF0o"
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
       "artists": [
         {
-          "name": "Portal Sessions",
-          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
-        },
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 199311,
-      "name": "Los piratas (Portal Sessions)",
-      "url": "https://open.spotify.com/track/4OATyXnNPGBcMn3OHzxqMu"
+      "duration_ms": 222334,
+      "name": "1000 D\u00edas",
+      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -583,18 +575,26 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+        "name": "Los piratas (Portal Sessions)",
+        "url": "https://open.spotify.com/album/5DxUdYRUYcRW5ZH7qRjF0o"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Portal Sessions",
+          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
+        },
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 222334,
-      "name": "1000 D\u00edas",
-      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
+      "duration_ms": 199311,
+      "name": "Los piratas (Portal Sessions)",
+      "url": "https://open.spotify.com/track/4OATyXnNPGBcMn3OHzxqMu"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
-      },
-      "artists": [
-        {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
       },
       "artists": [
         {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
         }
       ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -943,6 +927,22 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Big Bombo Mamma",
-        "url": "https://open.spotify.com/album/2mUnAYErozFk0gn4V8noY8"
+        "name": "Env\u00e9s",
+        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Fool Times",
-      "url": "https://open.spotify.com/track/1V5Rk0zJFtw3Fz6DnRxIQf"
+      "duration_ms": 378213,
+      "name": "Maybe I'm Leo",
+      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Env\u00e9s",
-        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
+        "name": "Big Bombo Mamma",
+        "url": "https://open.spotify.com/album/2mUnAYErozFk0gn4V8noY8"
       },
       "artists": [
         {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
         }
       ],
-      "duration_ms": 378213,
-      "name": "Maybe I'm Leo",
-      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+      "duration_ms": 236400,
+      "name": "Fool Times",
+      "url": "https://open.spotify.com/track/1V5Rk0zJFtw3Fz6DnRxIQf"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "en m\u00ed",
-        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
-      },
-      "artists": [
-        {
-          "name": "Lola Sanchez",
-          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
-        }
-      ],
-      "duration_ms": 246910,
-      "name": "en m\u00ed",
-      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Chicas on Fire - Single",
         "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "en m\u00ed",
+        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
+      },
+      "artists": [
+        {
+          "name": "Lola Sanchez",
+          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
+        }
+      ],
+      "duration_ms": 246910,
+      "name": "en m\u00ed",
+      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "De Reviente",
         "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 205374,
       "name": "Pret\u00e9rito Mujer",
       "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1491,6 +1491,30 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Miro donde miro",
+        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Veppo",
+          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "duration_ms": 175249,
+      "name": "Miro donde miro",
+      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 161379,
       "name": "Sujeto a Espacio",
       "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Miro donde miro",
-        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
-      },
-      "artists": [
-        {
-          "name": "Lautaro Veppo",
-          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
-        },
-        {
-          "name": "jjjuli\u00e1n",
-          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
-        },
-        {
-          "name": "Evan Bitz",
-          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
-        }
-      ],
-      "duration_ms": 175249,
-      "name": "Miro donde miro",
-      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
     },
     {
       "added_at": "2026-03-20 03:00:24",

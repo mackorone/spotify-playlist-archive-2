@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Fcukers debut album bby <3 <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,831 likes - 155 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,803 likes - 155 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

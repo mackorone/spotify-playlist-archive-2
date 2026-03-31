@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-220 songs - 14 hr 10 min
+221 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Stars](https://open.spotify.com/track/2zLLPBqAZOzwgTgv4TJbjn) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:42 | 2021-12-27 | 2025-08-26 |
 | [Stars](https://open.spotify.com/track/7fWAOcaiqIdwQ8LkM6iN2B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL) | 3:42 | 2025-08-25 | 2026-03-23 |
 | [Stay The Same](https://open.spotify.com/track/5Xh20CzoddxdZN0yoy6lbJ) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:48 | 2021-12-27 |  |
+| [Steam](https://open.spotify.com/track/7o78oF3lSOhgyxGWg5Epm4) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 3:23 | 2026-03-30 |  |
 | [Story](https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:16 | 2023-12-21 |  |
 | [Story](https://open.spotify.com/track/1zzW13Fbj5MS26ev02TFnv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im) | 3:16 | 2023-12-13 | 2023-12-22 |
 | [Suddenly Monday](https://open.spotify.com/track/4bmPHxWGCkrCLVJw8KVUt2) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 2:37 | 2021-12-27 |  |

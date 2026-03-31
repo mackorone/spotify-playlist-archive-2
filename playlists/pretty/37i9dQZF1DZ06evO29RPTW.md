@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,438 likes - 47 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,442 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 4 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 |
 | 5 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
 | 6 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
-| 7 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
+| 7 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
 | 8 | [Pussy Liquor](https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 4:46 |
 | 9 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
 | 10 | [Never Gonna Stop \(The Red, Red Kroovy\)](https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:09 |
-| 11 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
+| 11 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
 | 12 | [Two\-Lane Blacktop](https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:02 |
 | 13 | [Demonoid Phenomenon](https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 4:11 |
 | 14 | [Iron Head](https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 4:11 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 46 | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Wrong Side of Heaven Volume 1 + 2](https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t) | 3:37 |
 | 47 | [Girl On Fire](https://open.spotify.com/track/4d8rLkF805Bv2HlFlPHmpo) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:29 |
 
-Snapshot ID: `accaAAAAAADeSZ+HbXMzbFS8ou1EX1MH`
+Snapshot ID: `achrgAAAAABcprFOH6Ehs5UyfpX1Cm5G`

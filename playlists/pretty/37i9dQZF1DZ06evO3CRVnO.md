@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,225 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,252 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 21 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 |
 | 22 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 |
 | 23 | [R.I.P.](https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:12 |
-| 24 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
-| 25 | [Flex](https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 4:00 |
+| 24 | [Flex](https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 4:00 |
+| 25 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
 | 26 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 27 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 |
 | 28 | [Foreign](https://open.spotify.com/track/500l6Cwe40hkPqS7Sf7ufY) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:22 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 46 | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
 | 47 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
 
-Snapshot ID: `accaAAAAAAD9x5n2z0j+u3LIxNe8Ia9i`
+Snapshot ID: `achrgAAAAADHTIHBlF9A0omWBi84NkpP`

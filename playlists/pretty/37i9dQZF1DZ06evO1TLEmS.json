@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4448,
+  "num_followers": 4451,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACpFbsXIHDHkdwn+7K5sRpa",
+  "snapshot_id": "achrgAAAAACt0Vp4VPYh2i5F96s0cYuR",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 184445,
-      "name": "Modern Man (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+      "duration_ms": 226626,
+      "name": "Impressions (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
     },
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
       "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Impressions (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 306783,
-      "name": "All I\u2019ve Ever Known",
-      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,

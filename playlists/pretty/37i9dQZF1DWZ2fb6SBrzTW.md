@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,948 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,974 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 38 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 |
 | 39 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 40 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 |
-| 41 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
-| 42 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
+| 41 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
+| 42 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 | 43 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
 | 44 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
 | 45 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |

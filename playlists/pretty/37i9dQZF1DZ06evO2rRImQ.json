@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 204570,
+  "num_followers": 204583,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACXyj7+ZlJghZoqHgMYeKQF",
+  "snapshot_id": "achrgAAAAACmzZ4Bpl2Yr9sDkNinflZj",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ti Solita",
-        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+        "name": "En Coma Inducido",
+        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Sin Autorizaci\u00f3n",
-      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
+      "duration_ms": 159929,
+      "name": "En Coma Inducido",
+      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Coma Inducido",
-        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 159929,
-      "name": "En Coma Inducido",
-      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
+      "duration_ms": 197253,
+      "name": "Sin Autorizaci\u00f3n",
+      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
     },
     {
       "added_at": null,

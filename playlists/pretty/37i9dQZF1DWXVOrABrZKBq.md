@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,724 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,733 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,8 +6,32 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI4MnxMGHuZkFK2p1t4H3CzW6Qy5CV",
+  "snapshot_id": "AAAI5knZ/SCtrZaLA45AgXEhzKSF2VFo",
   "tracks": [
+    {
+      "added_at": "2026-03-30 10:29:12",
+      "album": {
+        "name": "Woke Up Smiling",
+        "url": "https://open.spotify.com/album/7KZCZwpHh6hzib43EZ9alQ"
+      },
+      "artists": [
+        {
+          "name": "Aural Nouveau",
+          "url": "https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i"
+        },
+        {
+          "name": "Lundin",
+          "url": "https://open.spotify.com/artist/6K8kUtJg3OhSrAIcKWmtTF"
+        },
+        {
+          "name": "Jaede Serry",
+          "url": "https://open.spotify.com/artist/6iBDQIFUnH7tKv8zzperK0"
+        }
+      ],
+      "duration_ms": 141527,
+      "name": "Woke Up Smiling",
+      "url": "https://open.spotify.com/track/3zDGgXzRMJ1zTZyRtM2O5y"
+    },
     {
       "added_at": "2026-03-18 17:33:09",
       "album": {
@@ -18084,8 +18108,8 @@
       },
       "artists": [
         {
-          "name": "Lord Vanger",
-          "url": "https://open.spotify.com/artist/7F6RsAQKRYEcaroe2DHCOg"
+          "name": "Vanger",
+          "url": "https://open.spotify.com/artist/1UD0dTtdMHuT1uVylFOH14"
         }
       ],
       "duration_ms": 208969,
@@ -35919,6 +35943,86 @@
       "duration_ms": 149768,
       "name": "My Type",
       "url": "https://open.spotify.com/track/5RhzVmRbZixvy5PkuwaEEY"
+    },
+    {
+      "added_at": "2026-03-30 09:32:37",
+      "album": {
+        "name": "Te Quiero un Poco Mas que Ayer",
+        "url": "https://open.spotify.com/album/5PNRIcbmmKH316fScpEr9z"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "Te Quiero un Poco Mas que Ayer",
+      "url": "https://open.spotify.com/track/6Xo5MDZk4C9C8FPIXpbfAy"
+    },
+    {
+      "added_at": "2026-03-30 09:32:58",
+      "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/7mFOfSD3RsF4bYFAtzcJd5"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "duration_ms": 224959,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/5onNZ1zE2WLZljPYeIBo82"
+    },
+    {
+      "added_at": "2026-03-30 09:33:27",
+      "album": {
+        "name": "No Me Faltes",
+        "url": "https://open.spotify.com/album/3hCoH6JUGGzoiihYLssRVu"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "duration_ms": 198359,
+      "name": "No Me Faltes",
+      "url": "https://open.spotify.com/track/6vRrzftD5VPE97cASRGDO6"
+    },
+    {
+      "added_at": "2026-03-30 09:33:39",
+      "album": {
+        "name": "No Estas Cerca",
+        "url": "https://open.spotify.com/album/2FYr0svN8acYaK0wID61rT"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "No Estas Cerca",
+      "url": "https://open.spotify.com/track/6wJgxcP6uexZ65xhyk2vyk"
+    },
+    {
+      "added_at": "2026-03-30 09:33:53",
+      "album": {
+        "name": "El Que Nunca Se Fue",
+        "url": "https://open.spotify.com/album/1b1sZkyLXjfm1FtIYdJTUU"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "duration_ms": 144959,
+      "name": "El Que Nunca Se Fue",
+      "url": "https://open.spotify.com/track/3kG23PaOrePhCnp80mPPEi"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

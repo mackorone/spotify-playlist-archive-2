@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43535,
+  "num_followers": 43529,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Chica Violeta",
         "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 386900,
       "name": "Chica Violeta",
       "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 262057,
-      "name": "Esto Que Me Pasa",
-      "url": "https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Raices de Pasi\u00f3n",
         "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 127426,
       "name": "Feliz en Mi Soledad",
       "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 262057,
+      "name": "Esto Que Me Pasa",
+      "url": "https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -727,8 +727,8 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 259659,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -811,8 +811,8 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+      "duration_ms": 259659,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
-      },
-      "artists": [
-        {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
-        }
-      ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 190165,
       "name": "EGO",
       "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+      },
+      "artists": [
+        {
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+        }
+      ],
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 188861,
       "name": "Sola y Feliz",
       "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "El lado sur de mi coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Toussaint",
-          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
-        }
-      ],
-      "duration_ms": 175235,
-      "name": "Te agradezco el amor",
-      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Mil Gritos Tiene la Noche, Vol. 1",
         "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 269305,
       "name": "Infierno",
       "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "El lado sur de mi coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "duration_ms": 175235,
+      "name": "Te agradezco el amor",
+      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Denadie",
-        "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 186041,
-      "name": "Denadie",
-      "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "El Cerebro",
         "url": "https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 180240,
       "name": "Quiz\u00e1s Hoy",
       "url": "https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Denadie",
+        "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 186041,
+      "name": "Denadie",
+      "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Stallone",
-        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
-      },
-      "artists": [
-        {
-          "name": "Stallone",
-          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
-        }
-      ],
-      "duration_ms": 340856,
-      "name": "Drowned",
-      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Se Trata de Ti",
         "url": "https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 265496,
       "name": "Se Trata de Ti",
       "url": "https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Stallone",
+        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
+      },
+      "artists": [
+        {
+          "name": "Stallone",
+          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
+        }
+      ],
+      "duration_ms": 340856,
+      "name": "Drowned",
+      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Las Presencias, Pt. I",
         "url": "https://open.spotify.com/album/2OHrRjpglp8VuWitqQ7Pqh"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 216358,
       "name": "\u00bfA D\u00f3nde Voy Si Se Termina el Mundo?",
       "url": "https://open.spotify.com/track/7jXOyUXySEKG0V7Kxpiy4t"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2025-06-26 15:52:01",

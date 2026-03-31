@@ -336,7 +336,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 210181,
       "name": "Awesome God - Live",
       "url": "https://open.spotify.com/track/5OaR7aPSOyODhdyb5mvIWc"
@@ -560,6 +560,28 @@
       "duration_ms": 159700,
       "name": "Deliver",
       "url": "https://open.spotify.com/track/60N5ftFz1BIGuiPIzd6HEi"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe / Live)",
+        "url": "https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Deliver - Live",
+      "url": "https://open.spotify.com/track/7sDHOQpUKkdS6nH1y2ozj8"
     },
     {
       "album": {
@@ -1450,7 +1472,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 180784,
       "name": "I Shall Praise - Live",
       "url": "https://open.spotify.com/track/1ApLJEbcGPgBFOV4qhwC7K"
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 164966,
       "name": "Incredible God - Live",
       "url": "https://open.spotify.com/track/0yI42IhNtDeYCWSmUkRwNZ"

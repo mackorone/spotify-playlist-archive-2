@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Kom Maar Bij Me",
+        "url": "https://open.spotify.com/album/0jgiARhaa77wUzIY91QxQb"
+      },
+      "artists": [
+        {
+          "name": "Marlijn",
+          "url": "https://open.spotify.com/artist/16fziKlvEinEhQRH8qx1Qu"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242621,
+      "name": "Kom Maar Bij Me",
+      "url": "https://open.spotify.com/track/7FVUFUp9MRsV9eWHzvk2w5"
+    },
+    {
+      "album": {
         "name": "tot ziens, Justine Keller",
         "url": "https://open.spotify.com/album/2aeLBdqU5aMNt5TPKuDHRg"
       },
@@ -3173,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "Nu Nog Niet - Josephine Odhil versie",
+        "url": "https://open.spotify.com/album/7CGFASyw6vLfX2AdpoY7l4"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        },
+        {
+          "name": "Josephine Odhil",
+          "url": "https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162394,
+      "name": "Nu Nog Niet - Josephine Odhil versie",
+      "url": "https://open.spotify.com/track/0H4jonrXvaYd2jZHuCmR1N"
+    },
+    {
+      "album": {
         "name": "Oceaan",
         "url": "https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r"
       },
@@ -3640,6 +3680,24 @@
       "duration_ms": 231979,
       "name": "Slaap",
       "url": "https://open.spotify.com/track/03uUxpinGNtYRgQn8w84a1"
+    },
+    {
+      "album": {
+        "name": "Soms weet je niet meer",
+        "url": "https://open.spotify.com/album/2HqYBpHRolImkk7d3JKtq3"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Soms weet je niet meer",
+      "url": "https://open.spotify.com/track/1LKwFfhWW1dqIdF0Dsr4yB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Tegi Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,125 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,123 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 2 | [Eastside](https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Eastside](https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl) | 1:37 |
 | 3 | [JDP](https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Misunderstood](https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT) | 2:17 |
 | 4 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
-| 5 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
-| 6 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 |
+| 5 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 |
+| 6 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
 | 7 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
 | 8 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 9 | [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 |

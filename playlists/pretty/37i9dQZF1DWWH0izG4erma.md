@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,861 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,950 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 57 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 |
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO) | 3:18 |
 | 59 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
-| 60 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
-| 61 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
+| 60 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
+| 61 | [SPINNIN' YOU AROUND](https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:44 |
 | 62 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 |
-| 63 | [SPINNIN' YOU AROUND](https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:44 |
+| 63 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
 | 64 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
 | 65 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 |
 | 66 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 94 | [Found](https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Found](https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03) | 3:46 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 96 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
-| 97 | [Alexis Texas](https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Alexis Texas](https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP) | 2:44 |
+| 97 | [INSIGNIFICANT OTHER \- feat\. Sam Canty & Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
-| 99 | [INSIGNIFICANT OTHER \- feat\. Sam Canty & Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
+| 99 | [Alexis Texas](https://open.spotify.com/track/4s62FMj60Tvtf6NtFZvuuK) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Alexis Texas](https://open.spotify.com/album/5IvBLBjl0fY6pVsQoTpKTP) | 2:44 |
 | 100 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 
 Snapshot ID: `AAAAAK9l3hX7c78KNkS2BSmIzBsx+Nfy`

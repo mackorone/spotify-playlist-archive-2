@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,989 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,996 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 36 | [This Is Not Real Love \(feat\. Mutya\) \- Remastered 2006](https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mutya](https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:56 |
 | 37 | [Hand to Mouth \- Remastered](https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:36 |
 | 38 | [Fastlove, Pt\. 2](https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:55 |
-| 39 | [Waiting \(Reprise\) \- Remastered](https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 2:27 |
+| 39 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 |
 | 40 | [Feeling Good \- Live](https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:15 |
 | 41 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
 | 42 | [Round Here](https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 5:55 |
-| 43 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 |
+| 43 | [Waiting \(Reprise\) \- Remastered](https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 2:27 |
 | 44 | [Through \- Live](https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 5:09 |
 | 45 | [Monkey \- Remastered](https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:06 |
 | 46 | [Wild Is the Wind](https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
 | 50 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 |
 
-Snapshot ID: `accaAAAAAABb/FmX+IXOvsUeO1NllyWh`
+Snapshot ID: `achrgAAAAABdzd+Rleorl/BeBztYPrQo`

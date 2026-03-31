@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-296 songs - 18 hr 41 min
+297 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 | 2022-05-13 | 2023-01-13 |
 | [Boomerang](https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Boomerang](https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb) | 3:27 | 2023-10-06 |  |
 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 | 2022-06-28 | 2024-04-19 |
-| [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-05-13 |  |
+| [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-05-13 | 2026-03-31 |
 | [Bossa Carioca](https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc) | [Central Park Quartet](https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4) | [Bossa Carioca](https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig) | 3:38 | 2024-07-08 |  |
 | [Bossa For Miles](https://open.spotify.com/track/065vvnxY5JmXGfkMfXc2cD) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc), [Ola Bothzén](https://open.spotify.com/artist/04RGyqM7mPycHtLq2QWPD6) | [Bossa for Miles](https://open.spotify.com/album/6efthBuFIC8O5uasQQzgwk) | 4:09 | 2024-12-13 | 2025-11-11 |
 | [Bossa Nova Cha Cha](https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9) | [Luiz Bonfá Plays And Sings Bossa Nova](https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb) | 3:20 | 2022-05-13 |  |
@@ -81,6 +81,7 @@
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2022-12-08 | 2025-11-11 |
 | [Don't Know Why](https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n) | [Naira Fonseca](https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC) | [Don't Know Why](https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq) | 3:24 | 2023-01-19 | 2025-11-11 |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-05-13 |  |
+| [Dressed In White](https://open.spotify.com/track/2zMv4lzp68XO8j1pSmC0eN) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Dressed In White](https://open.spotify.com/album/2ZlhVNgedWT1zfJOoVKXK2) | 3:23 | 2026-03-20 |  |
 | [Drivers License \- Bossa Nova](https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Drivers License \(Bossa Nova\)](https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ) | 4:08 | 2022-05-13 | 2025-07-02 |
 | [Easy To Love](https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:36 | 2022-05-13 |  |
 | [Effortlessly](https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr) | [Eleonora Kouneni](https://open.spotify.com/artist/5PcatRGgqZngGcVfmHWs6m) | [Effortlessly](https://open.spotify.com/album/0g04IdZKalfueB9Nr1F0fl) | 4:57 | 2023-06-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,897 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,893 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 30 | [Corazón De Piedra](https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 2:40 |
 | 31 | [Toda Una Vida](https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:42 |
 | 32 | [No Me Queda Más](https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 3:20 |
-| 33 | [BALA PERDIDA](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [BALA PERDIDA](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 |
-| 34 | [CASTIGO](https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Aguachile](https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp) | 3:02 |
+| 33 | [CASTIGO](https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Aguachile](https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp) | 3:02 |
+| 34 | [BALA PERDIDA](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [BALA PERDIDA](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 |
 | 35 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
 | 36 | [La Tequilera](https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:03 |
-| 37 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
-| 38 | [Maldita Primavera](https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Yuri y Sus Amigos del Regional Mexicano](https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V) | 3:46 |
+| 37 | [Maldita Primavera](https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Yuri y Sus Amigos del Regional Mexicano](https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V) | 3:46 |
+| 38 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
 | 39 | [Obsesión](https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:35 |
 | 40 | [Paloma Negra](https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:29 |
 | 41 | [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 43 | [Quizás Quizás Quizás](https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:13 |
 | 44 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
 | 45 | [La Chancla](https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb) | 3:33 |
-| 46 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
+| 46 | [El Jinete](https://open.spotify.com/track/190VKP3lFhbQA2HvGQxosC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [El Jinete](https://open.spotify.com/album/1OdaWoKbUOD1HTf85M7lfF) | 3:12 |
 | 47 | [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
-| 48 | [El Jinete](https://open.spotify.com/track/190VKP3lFhbQA2HvGQxosC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [El Jinete](https://open.spotify.com/album/1OdaWoKbUOD1HTf85M7lfF) | 3:12 |
+| 48 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
 | 49 | [Baila Esta Cumbia](https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:55 |
 | 50 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Desde la Azotea \- Fase II](https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz) | 4:02 |
 
-Snapshot ID: `accaAAAAAACg57fuD4NOUpvv5AINk4a7`
+Snapshot ID: `achrgAAAAADYaOxmfCBM/euy0FijxNwl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: NOISEMAKER
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,786 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,794 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 84 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 |
 | 85 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 86 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
-| 87 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
-| 88 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
+| 87 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
+| 88 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
 | 89 | [Neversleep \(feat\. Myke Terry\)](https://open.spotify.com/track/00RTIzyDmz5cQooU5Zbu4Z) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [Myke Terry](https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw) | [Neversleep](https://open.spotify.com/album/2Tyzkpt6lsahYyLXmVOVvW) | 2:49 |
 | 90 | [開花宣言](https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [開花宣言](https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK) | 3:09 |
 | 91 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 97 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz), [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 98 | [Until You Die Out](https://open.spotify.com/track/2ijSj23nvR4Zo4NdNOpw4v) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Until You Die Out](https://open.spotify.com/album/4oSV62VjbA1f87S0VNZqkx) | 3:26 |
 | 99 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 |
-| 100 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
+| 100 | [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 |
 
 Snapshot ID: `AAAAANoUMT7DCDcCHW/OGldp/nuWBK3Q`

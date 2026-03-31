@@ -1,6 +1,6 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7591902,
+  "num_followers": 7591941,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 269658,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Wheatus",
+        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Wheatus",
-        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
-      },
-      "artists": [
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 237932,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 237932,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2591,18 +2591,18 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 456866,
-      "name": "It's All Coming Back to Me Now",
-      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2623,18 +2623,18 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Love Stuff",
-        "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 202177,
-      "name": "Ex's & Oh's",
-      "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Love Stuff",
+        "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 202177,
+      "name": "Ex's & Oh's",
+      "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2947,6 +2947,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -2963,22 +2979,6 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
     },
     {
       "added_at": "2025-12-27 05:55:14",

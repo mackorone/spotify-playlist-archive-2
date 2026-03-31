@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,347 songs - 2 day 23 hr 58 min
+1,348 songs - 3 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Back To The Groove](https://open.spotify.com/track/4tMr7Bik0z8R6nAOz3FPQ1) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [coldsweat](https://open.spotify.com/artist/2bx8wO19oWkzkhO1hD8OTK), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [Back To The Groove](https://open.spotify.com/album/21bvRyKAoj2ut7zwlY4vIx) | 4:29 | 2025-04-04 | 2026-03-08 |
 | [Back Tomorrow](https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Back Tomorrow](https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI) | 1:58 | 2021-11-20 | 2022-11-13 |
 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 | 2020-07-03 | 2022-04-19 |
+| [Bad & U Know It](https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bad & U Know It](https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc) | 3:11 | 2026-03-27 |  |
 | [Bad Boy \(feat\. bbno$\) \- Low Steppa Remix](https://open.spotify.com/track/0iorfThvp0sgwOB1qcZDk3) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Bad Boy \(feat\. bbno$\) \[Low Steppa Remix\]](https://open.spotify.com/album/18g9uBlpNGzfOc7bs7TE6P) | 3:17 | 2020-05-22\* | 2021-12-19 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-05 | 2023-07-17 |
 | [Bad Day](https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/4N3ODBFIfU3SrBUfRAVxpo) | 2:15 | 2023-07-28 | 2023-09-17 |
@@ -470,7 +471,7 @@
 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 | 2023-05-26 | 2023-07-29 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-14 | 2022-04-21 |
-| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 |  |
+| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 | 2026-03-31 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-08-18 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-04-06 | 2024-06-08 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-07-14 | 2022-07-30 |

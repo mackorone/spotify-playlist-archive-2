@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,190 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,199 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 49 | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP) | 3:13 |
 | 50 | [MI ALGO](https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [MI ALGO](https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh) | 2:56 |
 | 51 | [Tu Boquita](https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG) | [OM.VI](https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh) | [S3NSACIóN](https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV) | 2:14 |
-| 52 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
-| 53 | [Aiwo \- Remix](https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Aiwo \(Remix\)](https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ) | 2:55 |
+| 52 | [Aiwo \- Remix](https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Aiwo \(Remix\)](https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ) | 2:55 |
+| 53 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
 | 54 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
 | 55 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
 | 56 | [todavíA](https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Todavía](https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx) | 3:03 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 67 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
 | 68 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
 | 69 | [Todo Se Supera](https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Todo Se Supera](https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0) | 3:19 |
-| 70 | [X Siempre](https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [X Siempre](https://open.spotify.com/album/4503riheEdxWQTNSVZItgF) | 2:19 |
-| 71 | [Loba](https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Loba](https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3) | 4:17 |
+| 70 | [Loba](https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Loba](https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3) | 4:17 |
+| 71 | [X Siempre](https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [X Siempre](https://open.spotify.com/album/4503riheEdxWQTNSVZItgF) | 2:19 |
 | 72 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
 | 73 | [Aroma](https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Afro Vibes \(2024\-07\-19\)](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:09 |
 | 74 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 96 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
 | 97 | [LLUVIA](https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [LLUVIA](https://open.spotify.com/album/21QMRyGxOlvlKldRJdbX6j) | 3:37 |
 | 98 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
-| 99 | [Cómotu](https://open.spotify.com/track/0LJTp3MB60HmW6YaXGckPd) | [Binny](https://open.spotify.com/artist/1xfAfaMDflIQ6eUDtuQ1q3), [Sixtina](https://open.spotify.com/artist/6Utuwz6QcMufemPQsYT7Uu) | [Cómotu](https://open.spotify.com/album/3YSoXxrDu3IfLMeqILmTNk) | 2:44 |
-| 100 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
+| 99 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
+| 100 | [Cómotu](https://open.spotify.com/track/0LJTp3MB60HmW6YaXGckPd) | [Binny](https://open.spotify.com/artist/1xfAfaMDflIQ6eUDtuQ1q3), [Sixtina](https://open.spotify.com/artist/6Utuwz6QcMufemPQsYT7Uu) | [Cómotu](https://open.spotify.com/album/3YSoXxrDu3IfLMeqILmTNk) | 2:44 |
 
 Snapshot ID: `AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt`

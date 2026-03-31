@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-335 songs - 15 hr 37 min
+336 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 | 2023-11-18 | 2025-09-25 |
 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 | 2023-04-13 | 2026-01-24 |
 | [Boundless](https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Boundless](https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh) | 3:07 | 2024-04-01 | 2025-02-11 |
-| [Bowie \- Awakening](https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Forest of Rain](https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID) | 3:06 | 2026-03-20 |  |
+| [Bowie \- Awakening](https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Forest of Rain](https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID) | 3:06 | 2026-03-20 | 2026-03-31 |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 | 2025-06-12 |
 | [by our brook](https://open.spotify.com/track/5D2j9P6XAjC1KTHWgCtKCD) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [by our brook](https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB) | 2:36 | 2025-12-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 | 2025-04-25 |
@@ -91,6 +91,7 @@
 | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/track/0l7RsztlECGX9Of6opJMSK) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/album/22KgajjdlBD7Ntg4d5cBGl) | 2:59 | 2024-03-05 | 2025-09-25 |
 | [Dream Catcher](https://open.spotify.com/track/4cgqpbNog3N37Gd6uCvOB1) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Dream Catcher](https://open.spotify.com/album/6yHKsek0ogZXVhcBL3FaFT) | 3:07 | 2024-06-03 | 2024-08-24 |
 | [Dream Resolve](https://open.spotify.com/track/0LvFkTyn6KUbCIoj6lQCwM) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Dream Resolve](https://open.spotify.com/album/0Wm1b8IbShzmgqBgMSGdCe) | 2:58 | 2025-01-15 |  |
+| [Drifted Roots](https://open.spotify.com/track/0bHg0FMaPM01Nfw7dc1JuH) | [Silent Glade](https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr) | [Drifted Roots](https://open.spotify.com/album/5qFw7xLFqM8smKkcSQAXbP) | 2:47 | 2026-03-20 |  |
 | [Drifter](https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Drifter](https://open.spotify.com/album/6zi83WWOy4rMmWK5hzCiMi) | 2:04 | 2025-02-21 |  |
 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-01 | 2026-03-21 |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-03-03 | 2025-06-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,146 likes - 22 songs - 1 hr 28 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,156 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 8 | [Rockcurry](https://open.spotify.com/track/2AFeJ0e0kAoKi3IVU4GkGk) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Rockcurry](https://open.spotify.com/album/3S7q9XpuNwuj9Xp3eMSduV) | 3:29 |
 | 9 | [Water Drops](https://open.spotify.com/track/65SwobxDwUigYvd91PIAuF) | [New German Cinema](https://open.spotify.com/artist/5gssGahmFreA31AlhyKqLK) | [Pain Will Polish Me](https://open.spotify.com/album/2gQRYx8YxrWvmS93clqLrI) | 3:30 |
 | 10 | [Mediocre Demon](https://open.spotify.com/track/6czAd28iXPvAHAe2rmUEk2) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [All Clouds Bring Not Rain](https://open.spotify.com/album/7mff4WyO4K87HPZm3HkRDG) | 6:35 |
-| 11 | [Out Come The Freaks](https://open.spotify.com/track/3wruKM85ZxOxSBZZfBNbHJ) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Out Come The Freaks](https://open.spotify.com/album/3WI6glgAE0cRhZ0V7XFrFG) | 5:04 |
+| 11 | [Out Come The Freaks](https://open.spotify.com/track/3wruKM85ZxOxSBZZfBNbHJ) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc), [Nona Hendryx](https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg) | [Out Come The Freaks](https://open.spotify.com/album/3WI6glgAE0cRhZ0V7XFrFG) | 5:04 |
 | 12 | [Cold Call on the Hot Line](https://open.spotify.com/track/0CQgzUT3TfDeZe41t4mnbR) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [The Man Comes Around](https://open.spotify.com/album/0GSS3P7JIbwd15FHWwHV82) | 4:06 |
 | 13 | [Doorway](https://open.spotify.com/track/3SETOzL3cPGMp8qbCBniJo) | [Kathryn Mohr](https://open.spotify.com/artist/2lbUZvIMQVI9unYN34lmOZ) | [Doorway](https://open.spotify.com/album/4xOhSOOtfki7fxQHJ4g6Zl) | 2:53 |
 | 14 | [DOGS DONT LIE](https://open.spotify.com/track/5X99Lh4DHRiEVuNOIfCcLo) | [WIDGET](https://open.spotify.com/artist/6HTVZ0zfUDlSVz6TcRfH1U) | [DOGS DONT LIE](https://open.spotify.com/album/3keyUHzvbazHI4veL7jrgk) | 2:28 |

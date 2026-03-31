@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 30016,
+  "num_followers": 30025,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABbwsuelhSdFMVZkRa+EW+9",
+  "snapshot_id": "achrgAAAAADVxBABgEvoHY9GbweLtWSG",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 165240,
-      "name": "Trendy Winds",
-      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
+      "duration_ms": 158280,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
+      "duration_ms": 220973,
+      "name": "Diznee Time",
+      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
     },
     {
       "added_at": null,
@@ -612,15 +612,15 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 158280,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
+      "duration_ms": 165240,
+      "name": "Trendy Winds",
+      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Diznee Time",
-      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
       "added_at": null,

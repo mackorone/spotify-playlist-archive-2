@@ -1,6 +1,6 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 978242,
+  "num_followers": 978528,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 210226,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2025-06-25 03:01:58",

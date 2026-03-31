@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,421 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,429 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 5 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 | 6 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
 | 7 | [Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:38 |
-| 8 | [Prague](https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:15 |
+| 8 | [Lonesome](https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:16 |
 | 9 | [Tyler Herro](https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:36 |
 | 10 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
 | 11 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
-| 12 | [Lonesome](https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:16 |
+| 12 | [Prague](https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:15 |
 | 13 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
-| 14 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 |
-| 15 | [Route 66 \(feat\. EST Gee\)](https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:33 |
+| 14 | [Route 66 \(feat\. EST Gee\)](https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:33 |
+| 15 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 |
 | 16 | [Move Along](https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 0:54 |
 | 17 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
-| 18 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
-| 19 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 |
+| 18 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 |
+| 19 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
 | 20 | [Living Alone](https://open.spotify.com/track/6f4umZL8qLZeY2p9Qc3iGy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:12 |
 | 21 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
 | 22 | [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [OUT FRONT](https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:58 |
 | 50 | [WALK IN THE PARK](https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:32 |
 
-Snapshot ID: `accaAAAAAACDZa/CEr9t1jGzc4DGT3jk`
+Snapshot ID: `achrgAAAAADKBYpL+iwFeXloXpja2SW4`

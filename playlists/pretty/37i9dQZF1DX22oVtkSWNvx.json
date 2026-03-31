@@ -1,6 +1,6 @@
 {
   "description": "A smooth nostalgia trip through the 80s.",
-  "num_followers": 362295,
+  "num_followers": 362324,
   "original_name": "Unwind 80s",
   "owner": {
     "name": "Spotify",
@@ -663,8 +663,8 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "A New Flame (Expanded Version)",
-        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
       "artists": [
         {
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 204000,
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -707,6 +691,22 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 354880,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -743,8 +743,8 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+        "name": "A New Flame (Expanded Version)",
+        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+      "duration_ms": 204000,
+      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
       "added_at": "2024-08-05 06:19:03",

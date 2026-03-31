@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcytuPF2IzEB.md) - [plain]
 
 > Disco, acid and synths galore \- all your favourite 80s dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,125 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,142 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcytuPF2IzEB.md) - [plain]
 | 32 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 33 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 34 | [Teardrops \- 7” Single Version](https://open.spotify.com/track/2eRmD96ncTEgQwJmXa6rrg) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Soul \(International Version\)](https://open.spotify.com/album/6eQ7vSfXNxJWeLUFeqKt4A) | 3:48 |
-| 35 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
-| 36 | [Moments In Love](https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [\(Who's Afraid Of\) The Art Of Noise? \[Remastered\]](https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR) | 10:15 |
+| 35 | [Moments In Love](https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [\(Who's Afraid Of\) The Art Of Noise? \[Remastered\]](https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR) | 10:15 |
+| 36 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
 | 37 | [Doo Wa Ditty \(Blow That Thing\)](https://open.spotify.com/track/2mx0O7IniovyDS8Wi0B3Sq) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:45 |
-| 38 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
-| 39 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
+| 38 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
+| 39 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
 | 40 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
 | 41 | [Temptation \- 12" Version / Remastered 2016](https://open.spotify.com/track/1u8wrxIC4Vo3OYI1Rbb5hN) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap](https://open.spotify.com/album/3Hw08OOns5loVSh9cV8AeY) | 4:43 |
 | 42 | [Youre the One for Me \- Radio Mix](https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One For Me EP](https://open.spotify.com/album/4cTvhKV4kfDfANADB5WtRw) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,367 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,381 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 43 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
 | 44 | [Angelus](https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:06 |
 | 45 | [Outlaw](https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 |
-| 46 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 |
-| 47 | [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 |
+| 46 | [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 |
+| 47 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 |
 | 48 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 |
 | 49 | [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN) | 3:02 |
 | 50 | [Special](https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 3:12 |
 
-Snapshot ID: `accaAAAAAADMrE/3dAxortVdztCQpiYe`
+Snapshot ID: `achrgAAAAAAiry8lseca+6XruG9SGpKK`

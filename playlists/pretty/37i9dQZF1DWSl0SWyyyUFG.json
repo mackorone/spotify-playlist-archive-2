@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 421245,
+  "num_followers": 421612,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 276540,
-      "name": "A Gozar",
-      "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 183186,
       "name": "Arreando La Mula",
       "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 276540,
+      "name": "A Gozar",
+      "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 221857,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Misa De Cuerpo Presente",
         "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 235554,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
+      "duration_ms": 221857,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -971,6 +955,22 @@
       "duration_ms": 209571,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 235554,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Esta Tristeza M\u00eda",
+      "url": "https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 177706,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Esta Tristeza M\u00eda",
-      "url": "https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 210047,
-      "name": "Que Bonita Te Vez",
-      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
+      "duration_ms": 205055,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+      "duration_ms": 241382,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 205055,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
+      "duration_ms": 210047,
+      "name": "Que Bonita Te Vez",
+      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 241382,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2075,8 +2075,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
       "artists": [
         {
@@ -2084,9 +2084,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+      "duration_ms": 212040,
+      "name": "M\u00e1s Adelante",
+      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2155,8 +2155,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
       "artists": [
         {
@@ -2164,9 +2164,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 212040,
-      "name": "M\u00e1s Adelante",
-      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2026-02-09 16:44:15",

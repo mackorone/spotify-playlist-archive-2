@@ -4,7 +4,7 @@
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-143 songs - 8 hr 17 min
+144 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Busted](https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:33 | 2023-05-19 | 2026-03-18 |
 | [Candy and Her Friends \(feat\. Lil Noid\)](https://open.spotify.com/track/0IMBV4YXZABCZ95FaaQZUp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Lil Noid](https://open.spotify.com/artist/7gl9WTEz70flJtHlSSnR0S) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:25 | 2024-04-07 | 2024-04-21 |
 | [Candy and Her Friends \(feat\. Lil Noid\)](https://open.spotify.com/track/6tQlRlfZTOwXR55T43eZ4g) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Lil Noid](https://open.spotify.com/artist/7gl9WTEz70flJtHlSSnR0S) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 3:25 | 2024-11-21 | 2025-03-08 |
+| [Coal Black Mattie](https://open.spotify.com/track/4gtK1dONrcHFlHAupP3h7C) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2026-03-31 |  |
 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 | 2022-01-11 | 2023-05-24 |
 | [Crawling Kingsnake](https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 6:08 | 2022-01-11 | 2024-02-05 |
 | [Dead and Gone](https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:41 | 2022-01-11 | 2026-02-01 |
@@ -129,7 +130,7 @@
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2022-01-11 | 2022-10-07 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-09 | 2025-08-13 |
 | [The Night Before](https://open.spotify.com/track/718SlaHAcFwEKTIDIBa1Z2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:34 | 2025-08-13 |  |
-| [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 | 2022-01-11 |  |
+| [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 | 2022-01-11 | 2026-03-31 |
 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 | 2022-01-11 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 | 2024-04-21 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-03-09 | 2024-04-21 |

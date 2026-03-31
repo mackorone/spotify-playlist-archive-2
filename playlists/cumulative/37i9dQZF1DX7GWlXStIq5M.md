@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Bia Marques
 
-1,114 songs - 2 day 7 hr 14 min
+1,115 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,6 +732,7 @@
 | [PARECE OUTRA VIDA](https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO) | [Marco Baptista](https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF) | [PARECE OUTRA VIDA](https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM) | 2:41 | 2025-05-23 |  |
 | [Passando de Fase](https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Minissaia](https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6) | 2:49 | 2025-06-20 | 2025-08-02 |
 | [passarela](https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 2:39 | 2024-12-06 | 2025-01-18 |
+| [PASSARINHO](https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [PASSARINHO](https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8) | 3:21 | 2026-03-30 |  |
 | [Passarinho](https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Passarinho](https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa) | 2:37 | 2023-06-16 | 2023-08-26 |
 | [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 | 2023-11-24 | 2024-08-24 |
 | [pdv](https://open.spotify.com/track/6F1GOxswjLVcpUfC9CkowQ) | [TMJ](https://open.spotify.com/artist/1kI5Fhk2S8mHOEdTcGu6Yn), [Laudz](https://open.spotify.com/artist/7yrw5KX85FJ6aKdMfBSa9T) | [glitchfunk](https://open.spotify.com/album/6URVDClAwhEMLm1fGdgDsP) | 1:29 | 2024-11-15 | 2025-06-21 |
@@ -964,7 +965,7 @@
 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 | 2024-11-08 | 2025-01-18 |
 | [SUAVEMENTE \(talk to me\)](https://open.spotify.com/track/3ekcUECrX49IMy2aHZKDGw) | [Kiki Galvão](https://open.spotify.com/artist/5eCTqwltM24GlVJCixKQoS) | [SUAVEMENTE \(talk to me\)](https://open.spotify.com/album/3qOTz2MnjLBbYBXGQpmiNw) | 2:49 | 2025-09-05 | 2025-12-12 |
 | [sub.ver.si.va](https://open.spotify.com/track/5LI9Jc5HDi6d3oPrwTG2gZ) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [GRACINHA](https://open.spotify.com/album/0Nf3vjP7Uxtnyxt3GTibrS) | 2:57 | 2023-02-14 | 2023-04-09 |
-| [Subconsciente](https://open.spotify.com/track/5M9u4fXuHLDYSrxGzezMSL) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 2:02 | 2025-10-17 |  |
+| [Subconsciente](https://open.spotify.com/track/5M9u4fXuHLDYSrxGzezMSL) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 2:02 | 2025-10-17 | 2026-03-31 |
 | [Sucesso Na Vida](https://open.spotify.com/track/3AB0wf9nh9lDanoFRcKHKB) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7) | [Sucesso Na Vida](https://open.spotify.com/album/5nbd1s29YCurkES92kAHJU) | 3:38 | 2020-10-20 | 2022-07-20 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2020-10-20 | 2023-02-15 |
 | [Sumaúma](https://open.spotify.com/track/5UGW4lRaR6jfx1be4WxOn8) | [Kaê Guajajara](https://open.spotify.com/artist/3PMGE59u9984fAh4jVYP6C) | [Sumaúma](https://open.spotify.com/album/2n9Jup0IdHxQFNZGROe6FS) | 4:16 | 2024-08-09 | 2024-11-23 |

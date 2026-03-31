@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33911,
+  "num_followers": 33913,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Stone Cold Sober",
-        "url": "https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Stone Cold Sober",
-      "url": "https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -663,6 +647,38 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
+        "name": "Stone Cold Sober",
+        "url": "https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Stone Cold Sober",
+      "url": "https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -691,18 +707,22 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+        "name": "Nashville Dreaming",
+        "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
       },
       "artists": [
         {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "Jan Tekstra",
+          "url": "https://open.spotify.com/artist/1JRKQK9beR7EOaKlCetzTn"
         }
       ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+      "duration_ms": 234584,
+      "name": "Nashville Dreaming",
+      "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -735,26 +755,6 @@
       "duration_ms": 166957,
       "name": "Buckle Down",
       "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
-        "name": "Nashville Dreaming",
-        "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
-      },
-      "artists": [
-        {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "Jan Tekstra",
-          "url": "https://open.spotify.com/artist/1JRKQK9beR7EOaKlCetzTn"
-        }
-      ],
-      "duration_ms": 234584,
-      "name": "Nashville Dreaming",
-      "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
     },
     {
       "added_at": "2026-03-26 23:00:07",

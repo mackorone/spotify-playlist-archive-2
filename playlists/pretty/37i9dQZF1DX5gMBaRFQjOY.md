@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,161 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,330 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 52 | [Big Bad John](https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso) | [Jimmy Dean](https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC) | [The Best Of Jimmy Dean](https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci) | 3:02 |
 | 53 | [It's Only Make Believe](https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty Sings](https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP) | 2:12 |
 | 54 | [Behind Closed Doors](https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Love Songs](https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL) | 2:54 |
-| 55 | [Okie From Muskogee](https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:44 |
+| 55 | [Pancho and Lefty](https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Walking the Line](https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw) | 4:46 |
 | 56 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Moanin' The Blues \(Expanded Edition\)](https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT) | 2:48 |
-| 57 | [Pancho and Lefty](https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Walking the Line](https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw) | 4:46 |
+| 57 | [Okie From Muskogee](https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:44 |
 | 58 | [Take This Job and Shove It](https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 2:36 |
 | 59 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 |
 | 60 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |

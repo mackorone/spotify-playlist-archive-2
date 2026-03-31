@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Spring is here! Check out these fresh tracks to keep your faith blooming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,521 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,523 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 26 | [Rome](https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn) | [Rome](https://open.spotify.com/album/290mHkt1I4zqbxwheKMIxA) | 3:09 |
 | 27 | [Simple Phrase](https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Simple Phrase](https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0) | 3:28 |
 | 28 | [mourning 2 dancing](https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [mourning 2 dancing](https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq) | 2:44 |
-| 29 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Life.Church Switch](https://open.spotify.com/artist/6SxVapqY1aezT5SFSTQn6N) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
+| 29 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Life.Church Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
 | 30 | [Before You're Too Far Gone](https://open.spotify.com/track/2e3VQv2IhelfCnCVgzqjZE) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [Waiting Here For You](https://open.spotify.com/album/0tMrKiI48viphENPWhdUgI) | 3:11 |
 | 31 | [YES BE YES](https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [YES BE YES](https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj) | 2:45 |
 | 32 | [honeydew \(praise the Lord\)](https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [honeydew \(praise the Lord\)](https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz) | 3:44 |

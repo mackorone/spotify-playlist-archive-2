@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,280,602 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280,483 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 54 | [Our Time](https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:24 |
 | 55 | [Joyride \(home demo\)](https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Joyride \(home demo\)](https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6) | 3:44 |
 | 56 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
-| 57 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
-| 58 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
+| 57 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
+| 58 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 59 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
 | 60 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 |
 | 61 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |

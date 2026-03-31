@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,359 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,579 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 28 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
 | 29 | [Hong Kong Garden](https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:55 |
 | 30 | [You Hear Yes](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
-| 31 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
-| 32 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 |
+| 31 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 |
+| 32 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
 | 33 | [Figurine](https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Figurine](https://open.spotify.com/album/27P08yRazykZcJCbgQxheh) | 2:31 |
 | 34 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
 | 35 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 54 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
 | 55 | [Brother](https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA) | [The Organ](https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go) | [Grab That Gun](https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF) | 4:01 |
 | 56 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
-| 57 | [Last Breath](https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Last Breath](https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap) | 1:50 |
-| 58 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 57 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 58 | [Last Breath](https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Last Breath](https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap) | 1:50 |
 | 59 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 60 | [Unbeschreiblich Weiblich](https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Spliff](https://open.spotify.com/artist/47U0ujLT2qD3wSOGl5WDth) | [Nina Hagen Band](https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx) | 3:30 |
 | 61 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 89 | [DOOMTOWN](https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [DOOMTOWN](https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y) | 3:18 |
 | 90 | [The Surface](https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 1:55 |
 | 91 | [I Don't Mind It](https://open.spotify.com/track/4azLr54wMnoayzplNpQpRh) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/4lUYpT7Ksnyn2TtLMJ6Nr8) | 3:26 |
-| 92 | [Sofa Bed](https://open.spotify.com/track/7AFlvs5nqulxTRq06NLCBx) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Sofa Bed](https://open.spotify.com/album/0e1vkBegA6Xe1RBE3urE9P) | 3:03 |
-| 93 | [We Are the One](https://open.spotify.com/track/6o16JFxoLZbrKCdlkC36e0) | [The Avengers](https://open.spotify.com/artist/7eSvd8I9IvSXvz5DhbJ7Oe) | [The American in Me](https://open.spotify.com/album/2YsJTJdqKhc0g9FN6p3bFE) | 2:38 |
+| 92 | [We Are the One](https://open.spotify.com/track/6o16JFxoLZbrKCdlkC36e0) | [The Avengers](https://open.spotify.com/artist/7eSvd8I9IvSXvz5DhbJ7Oe) | [The American in Me](https://open.spotify.com/album/2YsJTJdqKhc0g9FN6p3bFE) | 2:38 |
+| 93 | [Sofa Bed](https://open.spotify.com/track/7AFlvs5nqulxTRq06NLCBx) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Sofa Bed](https://open.spotify.com/album/0e1vkBegA6Xe1RBE3urE9P) | 3:03 |
 | 94 | [Hurricane](https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Larceny & Old Lace](https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P) | 2:32 |
 | 95 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
 | 96 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |

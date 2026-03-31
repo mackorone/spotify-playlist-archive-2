@@ -1,29 +1,13 @@
 {
   "description": "Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.",
-  "num_followers": 33894,
+  "num_followers": 33888,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAcFry1vdCTzBIDJtN5Ru5WLaPkuHvb",
+  "snapshot_id": "AAAcH7yxqzlP8mNkjmw5cSOC9160hBr8",
   "tracks": [
-    {
-      "added_at": "2026-01-12 18:13:08",
-      "album": {
-        "name": "ALL FLATS",
-        "url": "https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo"
-      },
-      "artists": [
-        {
-          "name": "JaYy Wick",
-          "url": "https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u"
-        }
-      ],
-      "duration_ms": 116800,
-      "name": "ALL FLATS",
-      "url": "https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx"
-    },
     {
       "added_at": "2026-03-09 21:01:01",
       "album": {
@@ -59,6 +43,74 @@
       "duration_ms": 179924,
       "name": "LET 'EM KNOW",
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    },
+    {
+      "added_at": "2026-03-30 18:53:09",
+      "album": {
+        "name": "DHS Inc. (feat. Lil Yee & ZayBang)",
+        "url": "https://open.spotify.com/album/3q6kPxAotO5hloywhU4kQJ"
+      },
+      "artists": [
+        {
+          "name": "1 Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "duration_ms": 159614,
+      "name": "DHS Inc. (feat. Lil Yee & ZayBang)",
+      "url": "https://open.spotify.com/track/1HS0SlJ269bUV4HLh47C9L"
+    },
+    {
+      "added_at": "2026-03-30 18:54:48",
+      "album": {
+        "name": "Never Felt Love",
+        "url": "https://open.spotify.com/album/0SBrq5bkZqBtlnvVSv7rac"
+      },
+      "artists": [
+        {
+          "name": "Lil Pete",
+          "url": "https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV"
+        }
+      ],
+      "duration_ms": 112472,
+      "name": "Never Felt Love",
+      "url": "https://open.spotify.com/track/2KCBMLVim2hQ1LR9x4bzF6"
+    },
+    {
+      "added_at": "2026-01-12 18:13:08",
+      "album": {
+        "name": "ALL FLATS",
+        "url": "https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo"
+      },
+      "artists": [
+        {
+          "name": "JaYy Wick",
+          "url": "https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u"
+        }
+      ],
+      "duration_ms": 116800,
+      "name": "ALL FLATS",
+      "url": "https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx"
     },
     {
       "added_at": "2026-02-24 00:23:15",

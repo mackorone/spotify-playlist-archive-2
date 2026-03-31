@@ -554,6 +554,14 @@
         {
           "name": "Trinidad James",
           "url": "https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7"
+        },
+        {
+          "name": "Ori Kaplan",
+          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
+        },
+        {
+          "name": "Tamir Muskat",
+          "url": "https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR"
         }
       ],
       "duration_ms": 182638,
@@ -579,26 +587,6 @@
     {
       "added_at": "2026-03-26 22:00:28",
       "album": {
-        "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
-        "url": "https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190"
-      },
-      "artists": [
-        {
-          "name": "Aviv Geffen",
-          "url": "https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 165303,
-      "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
-      "url": "https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549"
-    },
-    {
-      "added_at": "2026-03-26 22:00:28",
-      "album": {
         "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
         "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
       },
@@ -615,6 +603,26 @@
       "duration_ms": 217560,
       "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
+    },
+    {
+      "added_at": "2026-03-26 22:00:28",
+      "album": {
+        "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
+        "url": "https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190"
+      },
+      "artists": [
+        {
+          "name": "Aviv Geffen",
+          "url": "https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 165303,
+      "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
+      "url": "https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549"
     },
     {
       "added_at": "2026-03-26 22:00:28",
@@ -879,22 +887,22 @@
     {
       "added_at": "2026-03-26 22:00:28",
       "album": {
-        "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb"
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
       },
       "artists": [
         {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
         },
         {
-          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
-          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 271815,
-      "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu"
+      "duration_ms": 196262,
+      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

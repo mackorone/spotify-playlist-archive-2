@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 177960,
+  "num_followers": 177969,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 184733,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "El Noveno Mandamiento",
-      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Nominado",
         "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 219800,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "El Noveno Mandamiento",
+      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Los Extranos",
-        "url": "https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Con La Cumbia En La Sangre",
         "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 171333,
       "name": "No Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Los Extranos",
+        "url": "https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 214900,
+      "name": "Es el Amor",
+      "url": "https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
         "name": "Para Que La Cu\u00f1a Apriete",
         "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 296680,
       "name": "La Rumba Quimbumba",
       "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 214900,
-      "name": "Es el Amor",
-      "url": "https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/78iEnVk4OmYctV5syJPtif"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Ritmo, Sol y Arena",
         "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 147866,
       "name": "Acapulco Tropical",
       "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/78iEnVk4OmYctV5syJPtif"
     },
     {
       "added_at": "2025-07-14 16:04:01",

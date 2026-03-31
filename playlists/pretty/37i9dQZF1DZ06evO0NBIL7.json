@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAASzx/vU/20FmA6m5kkH65P",
+  "snapshot_id": "achrgAAAAABzMpdLEDnMe6N7HGRgODph",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
@@ -372,25 +372,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,
@@ -420,25 +404,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 226602,
-      "name": "Coma Happy",
-      "url": "https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+      "duration_ms": 187945,
+      "name": "Inside Joke",
+      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
     },
     {
       "added_at": null,
@@ -459,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet Head",
-        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
       },
       "artists": [
         {
@@ -468,9 +436,25 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 178232,
-      "name": "Psycho - Demo",
-      "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
     },
     {
       "added_at": null,
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 187945,
-      "name": "Inside Joke",
-      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+      "duration_ms": 226602,
+      "name": "Coma Happy",
+      "url": "https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Heart Is A Landmine",
+      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+        "name": "Bullet Head",
+        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Heart Is A Landmine",
-      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
+      "duration_ms": 178232,
+      "name": "Psycho - Demo",
+      "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
     },
     {
       "added_at": null,

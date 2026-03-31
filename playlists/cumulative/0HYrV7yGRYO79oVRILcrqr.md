@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-400 songs - 1 day 1 hr 4 min
+402 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-02-22 | 2026-03-18 |
 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 | 2025-12-16 |  |
 | [Badclown](https://open.spotify.com/track/5kWwICLRj4mSYYcAlxus8v) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 4:36 | 2025-09-21 | 2025-11-28 |
+| [Barroom Brawl on a Friday Night](https://open.spotify.com/track/4Yblk5pDY4rZaWTyocDsWW) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:54 | 2026-03-30 |  |
 | [Beat Up Chevy](https://open.spotify.com/track/4b3pnApfGfgQbmL44FeIl5) | [Mellowscape](https://open.spotify.com/artist/21SImcHsUMIWVlAM96ZIe3), [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD) | [Sunsick](https://open.spotify.com/album/18wREmEVKw4na0Q3uYKCYx) | 4:42 | 2025-09-22 | 2025-12-17 |
 | [Bebeğim](https://open.spotify.com/track/0UE1X4VimOchf2p37eE4uh) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Bebeğim](https://open.spotify.com/album/78VtGQ3K0YPQxKHXrFuAyh) | 3:11 | 2025-10-28 | 2025-11-28 |
 | [Besándonos](https://open.spotify.com/track/4OKsfv1MEH1PqIDt81w6Sa) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:36 | 2026-01-16 | 2026-03-18 |
@@ -120,6 +121,7 @@
 | [Equinoccio](https://open.spotify.com/track/0bxkS8cpglDigda6J3Kfam) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:21 | 2025-10-29 | 2025-12-17 |
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2025-09-26 | 2025-12-17 |
 | [Especial](https://open.spotify.com/track/7loutfpfEG6vueLszoVZ7S) | [ZETA fvd](https://open.spotify.com/artist/0CbWaaBJmzKzenlZcLgUk5) | [Especial](https://open.spotify.com/album/2ckbNjxdwiDfmRetZf6bUN) | 3:56 | 2025-11-24 | 2025-12-17 |
+| [Esploratore](https://open.spotify.com/track/1WC9lEhr79UeT1rV9c0mOC) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Claudia / Esploratore](https://open.spotify.com/album/1qs6f1FbQuFIoXuH1KeF4v) | 4:50 | 2026-03-30 |  |
 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 | 2026-02-09 | 2026-03-18 |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 | 2025-12-17 |
 | [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 | 2025-11-29 | 2025-12-17 |

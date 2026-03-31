@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 356746,
+  "num_followers": 356839,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Love You For A Long Time",
-        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Love You For A Long Time",
-      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Love You For A Long Time",
+        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Love You For A Long Time",
+      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -1775,6 +1759,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Natalie Cole Anthology",
         "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Quite Miss Home",
-      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 177568,
       "name": "Her",
       "url": "https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Quite Miss Home",
+      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1871,8 +1871,8 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
       "artists": [
         {
@@ -1880,9 +1880,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+      "duration_ms": 197538,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1939,38 +1939,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "The Supremes Sing Holland, Dozier, Holland",
         "url": "https://open.spotify.com/album/5BrLn546krr08d9UvOj73k"
       },
@@ -1983,6 +1951,38 @@
       "duration_ms": 163280,
       "name": "You Keep Me Hangin' On",
       "url": "https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2029,6 +2029,22 @@
       "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
     },
     {
+      "added_at": "2024-05-28 07:30:45",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196752,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
       "added_at": "2024-04-05 00:00:00",
       "album": {
         "name": "Back & Forth",
@@ -2051,22 +2067,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2024-05-28 07:30:45",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196752,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Happier (Acoustic)",
-        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206209,
-      "name": "Happier - Acoustic",
-      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Just Got Paid",
         "url": "https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 218250,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
       "artists": [
         {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
         }
       ],
-      "duration_ms": 182497,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
+      "duration_ms": 226386,
+      "name": "Warwick Avenue",
+      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
     }
   ],
   "unique_name": "Music for a Workday",

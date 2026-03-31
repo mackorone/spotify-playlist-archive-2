@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепло вже тут\. Все буде добре 🫶🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,350 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,347 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 55 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
 | 56 | [ДИМ \- Acoustic](https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ \(Acoustic\)](https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es) | 3:41 |
 | 57 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
-| 58 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
-| 59 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 58 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 59 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
 | 60 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
 
 Snapshot ID: `AAAAAGOpioEj28CKIPYKhXyvsUFzMiow`

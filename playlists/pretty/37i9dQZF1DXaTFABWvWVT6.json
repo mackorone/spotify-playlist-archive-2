@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 87278,
+  "num_followers": 87296,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-10-09 23:00:29",
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "added_at": "2025-10-09 23:00:29",
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2025-10-09 23:00:29",
-      "album": {
-        "name": "We Do What We Want (Edit)",
-        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "We Do What We Want - Edit",
-      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
     },
     {
       "added_at": "2025-10-09 23:00:29",

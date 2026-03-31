@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jduck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,266 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,269 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 26 | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb) | [EYE Nuttanichar](https://open.spotify.com/artist/0Zz8nyoky80zR9W05adPu1) | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV) | 3:09 |
 | 27 | [เปลี่ยนไปแล้ว \- It'S Over](https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB) | [mita.](https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs) | [เปลี่ยนไปแล้ว \(It'S Over\)](https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE) | 4:00 |
 | 28 | [เมดูซา](https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [เมดูซา](https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB) | 3:01 |
-| 29 | [กอดไว้ \(It's u\)](https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [กอดไว้ \(It's u\)](https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1) | 3:39 |
+| 29 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
 | 30 | [Stuck in Time](https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO) | [THREETIME](https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV) | [Stuck in Time](https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp) | 4:23 |
-| 31 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
+| 31 | [กอดไว้ \(It's u\)](https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [กอดไว้ \(It's u\)](https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1) | 3:39 |
 | 32 | [เรื่องของเรื่อง](https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ) | [ossey](https://open.spotify.com/artist/4M0X6x1jVeztDUmhHY9ZhU) | [เรื่องของเรื่อง](https://open.spotify.com/album/3npcOAiTi992g0JDKdHgSi) | 3:37 |
 | 33 | [ทำได้แค่ทน](https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx) | [JDI](https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4) | [ทำได้แค่ทน](https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN) | 3:16 |
 | 34 | [หลอกให้รัก](https://open.spotify.com/track/2yxNSd8qmaj0LYKZsHS7oJ) | [The Juu's](https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf), [Chermin](https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6) | [เดอะ จูส์](https://open.spotify.com/album/59stqpD8rcfucsAXpsXK6X) | 3:30 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 43 | [First Take](https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d) | [Chermin](https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6) | [First Take](https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo) | 3:43 |
 | 44 | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG) | [on/no](https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa) | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG) | 3:16 |
 | 45 | [คิดถึงเธออีกแล้ว](https://open.spotify.com/track/6SLXzYoPzuzhK73XNne8XZ) | [TEAM](https://open.spotify.com/artist/2Dm8W7POMJQsCGDpum1osw) | [คิดถึงเธออีกแล้ว](https://open.spotify.com/album/2mmAa58aKg0njzI6UPdL5W) | 3:10 |
-| 46 | [ก่อนเธอจะรักคนใหม่ \- Before](https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w) | [RATTHEE](https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh) | [ก่อนเธอจะรักคนใหม่ \(Before\)](https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge) | 3:46 |
-| 47 | [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 |
+| 46 | [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 |
+| 47 | [ก่อนเธอจะรักคนใหม่ \- Before](https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w) | [RATTHEE](https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh) | [ก่อนเธอจะรักคนใหม่ \(Before\)](https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge) | 3:46 |
 | 48 | [ไม่ได้ชอบ](https://open.spotify.com/track/09u67EylNXvhuMIBD17yQc) | [KABii](https://open.spotify.com/artist/00NCrNASle1HNVaqNUa0ts), [$LUTTYP](https://open.spotify.com/artist/2ZG0PBRopuCGFDBWdrVaYb) | [ไม่ได้ชอบ](https://open.spotify.com/album/5jOBjB4KRxdYrVtPlyHrZC) | 3:29 |
 | 49 | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 |
 | 50 | [Deep Sea Monster](https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ) | [HEADLESS SCULPTURES](https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB) | [Deep Sea Monster](https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV) | 4:46 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 53 | [ไม่พร้อมฟัง \- Yum Yum](https://open.spotify.com/track/2M402fhMdfEnN6ubcczakm) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [ไม่พร้อมฟัง \(Yum Yum\)](https://open.spotify.com/album/3OtebzeLCguedVJaN5so0m) | 3:13 |
 | 54 | [Lake](https://open.spotify.com/track/3ltcYTFX6Dpsr54OiL1kaG) | [wake by woof](https://open.spotify.com/artist/3RFxP63cZb4a1QvpHWNPGj) | [Lake](https://open.spotify.com/album/7A7U2aZ7jx9rttKZNP6qau) | 4:06 |
 | 55 | [เผลอทักไป](https://open.spotify.com/track/0H7ey7sBM9jkznYFKnRc7W) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [เผลอทักไป](https://open.spotify.com/album/1ZPzlOJQhxQsmBxnxT6kHy) | 4:31 |
-| 56 | [สัมผัสโกหก](https://open.spotify.com/track/0o4lQPKg7aFhQU6g32Q0I6) | [Ohmchom](https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9) | [สัมผัสโกหก](https://open.spotify.com/album/1RoyATW49Dkwq5gn23SsHx) | 3:07 |
-| 57 | [รู้หรือเปล่า](https://open.spotify.com/track/6C2VLOtIeJcblw0bKBhVVH) | [Aesia](https://open.spotify.com/artist/3gwJkZwWf9dbTts5c2OhwN) | [รู้หรือเปล่า](https://open.spotify.com/album/6uNPzZpnVyCxdLOWaJVRET) | 3:46 |
+| 56 | [รู้หรือเปล่า](https://open.spotify.com/track/6C2VLOtIeJcblw0bKBhVVH) | [Aesia](https://open.spotify.com/artist/3gwJkZwWf9dbTts5c2OhwN) | [รู้หรือเปล่า](https://open.spotify.com/album/6uNPzZpnVyCxdLOWaJVRET) | 3:46 |
+| 57 | [สัมผัสโกหก](https://open.spotify.com/track/0o4lQPKg7aFhQU6g32Q0I6) | [Ohmchom](https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9) | [สัมผัสโกหก](https://open.spotify.com/album/1RoyATW49Dkwq5gn23SsHx) | 3:07 |
 | 58 | [โทรได้รึเปล่า \- Will You Answer?](https://open.spotify.com/track/6Tu7qGeULDB5nkB0CT8k3m) | [RATTHEE](https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh) | [โทรได้รึเปล่า \(Will You Answer?\)](https://open.spotify.com/album/1hDzWMgtDIfWqsXVYfPxZS) | 3:52 |
 | 59 | [ii uu](https://open.spotify.com/track/7mPrazW5UjgJpmM8Z0rvAQ) | [HAYDEN](https://open.spotify.com/artist/6VxLIdqbuN1MWLW5NaPHmz) | [ii uu](https://open.spotify.com/album/4iuFYXbjfMnePLI7RMD13I) | 3:14 |
 | 60 | [อุ้งมือ \(rewind\)](https://open.spotify.com/track/7vNRdiyGapUwabPg95bnb6) | [phufa](https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y) | [daiprode](https://open.spotify.com/album/108S2GKsLHDaePcbv4CAhg) | 3:31 |

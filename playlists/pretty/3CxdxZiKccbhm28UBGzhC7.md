@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 114 songs - 6 hr 41 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 115 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 112 | [Bones](https://open.spotify.com/track/76RAlQcfuQknnQFruYDj6Q) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:09 |
 | 113 | [The Boxer](https://open.spotify.com/track/2rIIbUK6hOdpojv37cnbYr) | [The Enemy](https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k) | [Social Disguises](https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG) | 3:31 |
 | 114 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:27 |
+| 115 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 
-Snapshot ID: `AAAA3xScVNYoF2fd91bNmolb3aL4fBQy`
+Snapshot ID: `AAAA4AhvK9Nc4dcKAcJAueWuBwb2Gk7q`

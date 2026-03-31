@@ -2051,6 +2051,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -18648,7 +18674,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -26432,7 +26458,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -31094,7 +31120,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -31112,7 +31138,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -34400,7 +34426,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -49132,7 +49158,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 179906,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/1Dit5cKN2ktAceRIsSIwdk"
@@ -51794,7 +51820,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"

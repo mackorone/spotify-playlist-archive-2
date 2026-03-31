@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Paloma Morphy y EMJAY en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,274 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,278 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 23 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
 | 24 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
 | 25 | [Aplauso](https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Aplauso](https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb) | 3:52 |
-| 26 | [Tú y Yo X Siempre](https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tú y Yo X Siempre](https://open.spotify.com/album/3E0UYsVU8PxkYYMF7ibS2Q) | 3:04 |
-| 27 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
+| 26 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
+| 27 | [Tú y Yo X Siempre](https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tú y Yo X Siempre](https://open.spotify.com/album/3E0UYsVU8PxkYYMF7ibS2Q) | 3:04 |
 | 28 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
 | 29 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 30 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |

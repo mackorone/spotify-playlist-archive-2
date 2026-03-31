@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 38221,
+  "num_followers": 38222,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAA00xngq0xokOVz0NEBqdTs",
+  "snapshot_id": "achrgAAAAABt6LdITauREVjM4TLiPpbq",
   "tracks": [
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO"
       },
       "artists": [
+        {
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 70200,
-      "name": "The Story Of Fear",
-      "url": "https://open.spotify.com/track/5c1N90E1wVVNTH6WEljZka"
+      "duration_ms": 449882,
+      "name": "Something About The Name Jesus (feat. Kirk Franklin) - Producer's Remix",
+      "url": "https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

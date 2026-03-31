@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,398 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,406 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 68 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 69 | [100% Pure Love \- UNIIQU3 Remix](https://open.spotify.com/track/0aCcAr2o7IPxGRxZ6e3rzF) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [100% Pure Love \(UNIIQU3 Remix\)](https://open.spotify.com/album/0snVlqrONcCE5xKYxs3Dpx) | 2:50 |
 | 70 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
-| 71 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
-| 72 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
-| 73 | [BE FORREAL](https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Big Bam](https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq), [DJ Blizz](https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq) | [BE FORREAL](https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h) | 1:26 |
+| 71 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
+| 72 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
+| 73 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 |
 | 74 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
-| 75 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 |
+| 75 | [BE FORREAL](https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Big Bam](https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq), [DJ Blizz](https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq) | [BE FORREAL](https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h) | 1:26 |
 
 Snapshot ID: `AAAAAIJxBHmufj0JgtMr6qGyLiLGkEdp`

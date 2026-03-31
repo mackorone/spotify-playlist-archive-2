@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Yas Mayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,894 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,906 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 17 | [Only Love’s to Blame](https://open.spotify.com/track/6aA0wenLdVQESqvB3pmdMe) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Only Love’s to Blame](https://open.spotify.com/album/5NwMkDuxcTZ6rSZuug6gxa) | 2:56 |
 | 18 | [BEAUTIFUL DAY](https://open.spotify.com/track/3BytHPrP6HolL4qFikBs0y) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [BEAUTIFUL DAY](https://open.spotify.com/album/2CRjF7mOcgW1WRPMNMXAye) | 2:00 |
 | 19 | [Hold Your Hand](https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Hold Your Hand](https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp) | 2:44 |
-| 20 | [Oceans Apart](https://open.spotify.com/track/1MZQt3aRLpGd9kn2otzxPX) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm), [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Starbase 17](https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg) | 3:54 |
+| 20 | [Oceans Apart](https://open.spotify.com/track/1MZQt3aRLpGd9kn2otzxPX) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Starbase 17](https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg) | 3:54 |
 | 21 | [somewhere in the world](https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [ijan](https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1) | 3:32 |
 | 22 | [Rich](https://open.spotify.com/track/6XdUQ6ipN5btwCWzA1AvC2) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [abrahamblue](https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g), [Le Modo](https://open.spotify.com/artist/5e717AzUl7w8jTjKyUY0om) | [Rich](https://open.spotify.com/album/7aNfY3tTMBkw8A7uK6tfNE) | 2:53 |
 | 23 | [Architect](https://open.spotify.com/track/6Teu1T4BtzKENkseup5Fle) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [TOS](https://open.spotify.com/artist/3o7iDFUagDPxmiEL8FEqMX) | [Architect](https://open.spotify.com/album/75NONw8p9atqr5UJ5GC92D) | 2:20 |

@@ -4,7 +4,7 @@
 
 > Geniett van het zonnetje met deze lijst vol lente vibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-329 songs - 18 hr 13 min
+330 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-02-02 |  |
 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-09-22 | 2026-02-21 |
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-09-22 |  |
+| [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2026-03-30 |  |
 | [The Scythe](https://open.spotify.com/track/6VlV6vwhHedxxBumKM5J4s) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/7LQYDVBV6XwJTZMuaQNwHn) | 4:45 | 2025-09-22 | 2025-10-21 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-05 |  |
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 | 2026-02-14 |

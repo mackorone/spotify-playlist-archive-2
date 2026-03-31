@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,113 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,132 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 35 | [Love On a Mountaintop](https://open.spotify.com/track/6zEdkGQCg57M1XigHl0Alu) | [Robert Knight](https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1) | [Everlasting Love \(Expanded Edition\)](https://open.spotify.com/album/76gTPZDkrOTvu6UyT0xSYp) | 2:28 |
 | 36 | [Soul Time \- Single Version](https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ) | [Shirley Ellis](https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg) | [The Northern Soul Story Vol.1: The Twisted Wheel](https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d) | 2:38 |
 | 37 | [I Got A Feeling \- Single Version](https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [Big Hits & Hard To Find Classics](https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD) | 3:01 |
-| 38 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
-| 39 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
+| 38 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
+| 39 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
 | 40 | [You're Ready Now](https://open.spotify.com/track/7lk6vvcetCT6RcTndNpKj8) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 2:18 |
 | 41 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
 | 42 | [Keep On Keepin' On](https://open.spotify.com/track/5mhcCfNBmbTTMNZcq1hIbP) | [Nolan Porter](https://open.spotify.com/artist/7H2X4y4sB4EnP593GbQi66) | [Nolan](https://open.spotify.com/album/1Bi02TLjn4ONPqXTM6r9eu) | 3:06 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 90 | [Love Runs Out](https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:39 |
 | 91 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
 | 92 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |
-| 93 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
-| 94 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
+| 93 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
+| 94 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
 | 95 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
 | 96 | [I Got The Fever](https://open.spotify.com/track/6MAV3IXWc2cRbgzhgQomUw) | [Prophets](https://open.spotify.com/artist/2eSddWmVzjlAKbK7EBrfRq) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:52 |
 | 97 | [Think It Over](https://open.spotify.com/track/5yiVaLYpDFcOIq0Qkz1i61) | [The Harvey Averne Dozen](https://open.spotify.com/artist/1mck5dIwHpn9Roun7jD1lJ) | [Viva Soul](https://open.spotify.com/album/4QFIv1WCGUe2n9ir61BLNB) | 2:37 |

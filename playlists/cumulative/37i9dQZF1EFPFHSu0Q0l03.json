@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk"
       },

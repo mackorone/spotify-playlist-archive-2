@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24044,
+  "num_followers": 24049,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACeXv9OTnFti9o/oKCQb0Io",
+  "snapshot_id": "achrgAAAAACEwtixUFcVIyACbmCeOxyE",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "beeni (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -659,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 199026,
-      "name": "beeni (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u"
+      "duration_ms": 172619,
+      "name": "tey tey",
+      "url": "https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG"
     },
     {
       "added_at": null,
@@ -699,42 +715,6 @@
       "duration_ms": 225321,
       "name": "4U (feat. CKay, Leo Rizzi)",
       "url": "https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 172619,
-      "name": "tey tey",
-      "url": "https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Cocoro",
-      "url": "https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
       "duration_ms": 251204,
       "name": "Good Boy (feat. BOJ and Ckay)",
       "url": "https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Cocoro",
+      "url": "https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR"
     },
     {
       "added_at": null,

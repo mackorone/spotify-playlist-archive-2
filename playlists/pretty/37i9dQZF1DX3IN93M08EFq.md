@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > De bästa indielåtarna \- klassiker som Dansa Fastän, Shoreline och Helgen v\. 48!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,367 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,369 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 7 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 |
 | 8 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 9 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
-| 10 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
-| 11 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
+| 10 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
+| 11 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 12 | [Don't Look Back in Anger \- Remastered](https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:49 |
 | 13 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 14 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 41 | [Din tid kommer](https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Din tid kommer](https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd) | 4:41 |
 | 42 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
 | 43 | [Cheek to Cheek](https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [What If Leaving Is a Loving Thing](https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3) | 3:15 |
-| 44 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
-| 45 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
+| 44 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
+| 45 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
 
 Snapshot ID: `AAAAAPPh1fbDp/6WvKl2UMbtWMY5tBv2`

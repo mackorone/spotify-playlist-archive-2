@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,879 likes - 74 songs - 4 hr 10 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,880 likes - 74 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 50 | [Long Way to Fall](https://open.spotify.com/track/6cFzM8VYjUNt6LKtp74Goc) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Long Way to Fall](https://open.spotify.com/album/6ls4jkkmX2LbNcJeuVCrPj) | 5:01 |
 | 51 | [Shanghai](https://open.spotify.com/track/3usD9bUC7zXljdDjAdigvo) | [Al·lèrgiques al pol·len](https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS) | [Shanghai](https://open.spotify.com/album/0MkNzTUXdio1ZkCnZv3kFG) | 3:08 |
 | 52 | [i kinda like how u know just how beautiful u are](https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [getting up to no good](https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf) | 2:31 |
-| 53 | [Tú me piensas](https://open.spotify.com/track/3Fdei6YCj3k9RsmxEvAR96) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [Tú me piensas](https://open.spotify.com/album/4L5QLVKHud1eDxM23AtauB) | 2:29 |
+| 53 | [Tú me piensas](https://open.spotify.com/track/3Fdei6YCj3k9RsmxEvAR96) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Benzie](https://open.spotify.com/artist/3eohCag0W34l6pN5g3woRS) | [Tú me piensas](https://open.spotify.com/album/4L5QLVKHud1eDxM23AtauB) | 2:29 |
 | 54 | [Bosom](https://open.spotify.com/track/6AHJKa1t0G15di4cnWhmj1) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Bosom](https://open.spotify.com/album/5YMv4ZHLgNtVbiZObxxA9H) | 4:45 |
 | 55 | [Phoenix](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Phoenix](https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx) | 2:24 |
 | 56 | [Recuerdo el Verano](https://open.spotify.com/track/5MrpHtWqMDxN6c09wpUx4J) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Recuerdo el Verano](https://open.spotify.com/album/3XblJXhGOMb2RqiVnhWFbk) | 2:44 |

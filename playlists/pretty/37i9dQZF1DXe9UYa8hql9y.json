@@ -1,6 +1,6 @@
 {
   "description": "puro rol\u00f3n para amanecer y seguirla ",
-  "num_followers": 128449,
+  "num_followers": 128513,
   "original_name": "La Peda ",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-13 06:00:10",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
-    },
-    {
-      "added_at": "2026-03-13 06:00:10",
-      "album": {
         "name": "Te Quer\u00eda Ver",
         "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "added_at": "2026-03-13 06:00:10",
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
     },
     {
       "added_at": "2026-03-13 06:00:10",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-03-13 06:00:10",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
-    },
-    {
-      "added_at": "2026-03-13 06:00:10",
-      "album": {
         "name": "San Charly",
         "url": "https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 174770,
       "name": "San Charly",
       "url": "https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz"
+    },
+    {
+      "added_at": "2026-03-13 06:00:10",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": "2026-03-13 06:00:10",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-03-13 06:00:10",
       "album": {
-        "name": "Shorty Party",
-        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "La Kelly",
-          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Shorty Party",
-      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2026-03-13 06:00:10",
-      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "added_at": "2026-03-13 06:00:10",
+      "album": {
+        "name": "Shorty Party",
+        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "La Kelly",
+          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Shorty Party",
+      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
     },
     {
       "added_at": "2026-03-13 06:00:10",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-03-13 06:00:10",
       "album": {
-        "name": "SR. SANTOS",
-        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
-    },
-    {
-      "added_at": "2026-03-13 06:00:10",
-      "album": {
         "name": "WORLDWAI",
         "url": "https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 180923,
       "name": "CHINGON 2",
       "url": "https://open.spotify.com/track/54gJmxMx9Ea5zRaAKNodqp"
+    },
+    {
+      "added_at": "2026-03-13 06:00:10",
+      "album": {
+        "name": "SR. SANTOS",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
     },
     {
       "added_at": "2026-03-13 06:00:10",

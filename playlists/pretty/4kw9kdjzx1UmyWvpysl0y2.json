@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124140,
+  "num_followers": 124131,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVQvoe6Kep1CW7YeFPcAVPS6EKrkvq",
+  "snapshot_id": "AAAVROEIFRsUnLY986UiR8AhJ5RTqYxF",
   "tracks": [
+    {
+      "added_at": "2026-03-30 15:08:36",
+      "album": {
+        "name": "Hiding In Plain Sight",
+        "url": "https://open.spotify.com/album/4KcUNDN2nVj9Jjr5t1WDKO"
+      },
+      "artists": [
+        {
+          "name": "Merage",
+          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Islet Oak",
+          "url": "https://open.spotify.com/artist/5bcyahJJpuygwCCVIIgfXE"
+        }
+      ],
+      "duration_ms": 208081,
+      "name": "Hiding In Plain Sight",
+      "url": "https://open.spotify.com/track/7zGqVYTVy5l6BnwZQR0y8Z"
+    },
     {
       "added_at": "2026-03-27 16:56:06",
       "album": {
@@ -1099,222 +1123,6 @@
       "duration_ms": 222004,
       "name": "Back To The Stars",
       "url": "https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA"
-    },
-    {
-      "added_at": "2025-12-17 14:49:32",
-      "album": {
-        "name": "The Six Of Wands",
-        "url": "https://open.spotify.com/album/3AbNqSOILxIqYT7plJQ8El"
-      },
-      "artists": [
-        {
-          "name": "Caster",
-          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
-        }
-      ],
-      "duration_ms": 233139,
-      "name": "The Six Of Wands",
-      "url": "https://open.spotify.com/track/3KbkG7dIQUJhTA3kiOw1ly"
-    },
-    {
-      "added_at": "2025-12-16 15:32:23",
-      "album": {
-        "name": "Silk Selections 06",
-        "url": "https://open.spotify.com/album/18ePX3brO8fQvulAwFNvNR"
-      },
-      "artists": [
-        {
-          "name": "Elliot Vast",
-          "url": "https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/0DrCOcgrsmY1fjiDjt3JEN"
-    },
-    {
-      "added_at": "2025-12-15 14:56:26",
-      "album": {
-        "name": "Droid",
-        "url": "https://open.spotify.com/album/0JJvYBZOCxvBJCdTKuoD3i"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Droid",
-      "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
-    },
-    {
-      "added_at": "2025-12-12 14:46:41",
-      "album": {
-        "name": "LA Beast",
-        "url": "https://open.spotify.com/album/09hkGHi52PcqHs5VPDoZZI"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Bliss",
-          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
-        }
-      ],
-      "duration_ms": 496725,
-      "name": "LA Beast",
-      "url": "https://open.spotify.com/track/10oJ63fBqGd5lNlnXLpEsp"
-    },
-    {
-      "added_at": "2025-12-11 15:20:15",
-      "album": {
-        "name": "Disco Kissing",
-        "url": "https://open.spotify.com/album/1lmSOfKZKwFR996kNlaEyQ"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "MORGXN",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "Disco Kissing",
-      "url": "https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx"
-    },
-    {
-      "added_at": "2025-12-10 14:52:50",
-      "album": {
-        "name": "Caught Between",
-        "url": "https://open.spotify.com/album/1eJ9aC4RMU10ZtBBTbw4on"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 213931,
-      "name": "Caught Between",
-      "url": "https://open.spotify.com/track/36oJ6fOZHn0dEjGY9EPb9y"
-    },
-    {
-      "added_at": "2025-12-09 15:42:26",
-      "album": {
-        "name": "fall back",
-        "url": "https://open.spotify.com/album/3lMswHWl4cOJ3uiHITg9VW"
-      },
-      "artists": [
-        {
-          "name": "oncor",
-          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
-        },
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "fall back",
-      "url": "https://open.spotify.com/track/6OM3iwZdRPpgxI3j6kNfGR"
-    },
-    {
-      "added_at": "2025-12-08 14:52:08",
-      "album": {
-        "name": "Washed Up",
-        "url": "https://open.spotify.com/album/194oqehF5IdRB9i7S7x9tD"
-      },
-      "artists": [
-        {
-          "name": "Dodge & Fuski",
-          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "And Available For Bookings",
-      "url": "https://open.spotify.com/track/0s0JY6OLSofUciQL1JTFr9"
-    },
-    {
-      "added_at": "2025-12-05 15:21:09",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4IgoUhWQKq4Ye3IoFfWimD"
-      },
-      "artists": [
-        {
-          "name": "Used",
-          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
-        },
-        {
-          "name": "Lily Denning",
-          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/5KEIAvl6n6RtCdEuWmRcbb"
-    },
-    {
-      "added_at": "2025-12-04 16:24:52",
-      "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
-    },
-    {
-      "added_at": "2025-12-03 15:42:34",
-      "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/3KfvY5Y0Pqm6N7bBG55j59"
-      },
-      "artists": [
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 131703,
-      "name": "Beg For Mercy",
-      "url": "https://open.spotify.com/track/4lPpWCtwDlcSRGp1TPz4g4"
-    },
-    {
-      "added_at": "2025-12-02 15:45:56",
-      "album": {
-        "name": "Blue Planet (Qrion Remix)",
-        "url": "https://open.spotify.com/album/26I0CeXrVRzpknDqyKZ3vr"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Blue Planet - Qrion Remix",
-      "url": "https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

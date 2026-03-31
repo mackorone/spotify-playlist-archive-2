@@ -4,7 +4,7 @@
 
 > Voor boslucht, koffie en kalmte.
 
-286 songs - 17 hr 8 min
+287 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Body as a Meadow](https://open.spotify.com/track/4mRShssMbisESekK0l63Z3) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [Body as a meadow](https://open.spotify.com/album/5fS6k6t6Q8xF1Puwt6dlmE) | 3:39 | 2024-10-03 | 2024-10-23 |
 | [Both Sides Now](https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:33 | 2025-07-03 | 2025-09-20 |
 | [Bright Star](https://open.spotify.com/track/582t08OyJrrpS35HyWSruM) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 3:10 | 2025-07-03 | 2025-09-20 |
-| [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 | 2025-09-19 |  |
+| [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 | 2025-09-19 | 2026-03-31 |
 | [Cactus Tree](https://open.spotify.com/track/0TUPxOcJc4R3PbWo8QwC3m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 4:38 | 2025-07-03 | 2025-09-20 |
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2024-06-27 | 2024-09-20 |
 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 | 2025-01-23 | 2025-12-05 |
@@ -153,6 +153,7 @@
 | [Love, Try Not To Let Go](https://open.spotify.com/track/15i1lTIR753F3DyOQChGue) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/5QYEVPcPA33XHwZngWalS1) | 3:43 | 2025-07-03 | 2025-09-20 |
 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 | 2025-07-03 | 2025-09-20 |
 | [Lullabye For Losers](https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Rock Bottom Ballads](https://open.spotify.com/album/47fvZIFsSRHdYQW378dNlZ) | 4:29 | 2024-06-27 | 2024-07-19 |
+| [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 | 2026-03-30 |  |
 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-23 |  |
 | [Mine](https://open.spotify.com/track/3UQhGFxNjCN2DjnEzYXfRi) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:08 | 2025-07-03 | 2025-09-20 |
 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 | 2025-09-19 | 2025-11-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,559 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,431 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 85 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 86 | [El Lado Oscuro de Tu Corazón](https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 3:42 |
 | 87 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
-| 88 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
-| 89 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
+| 88 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
+| 89 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 90 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 |
 | 91 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
 | 92 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,296 likes - 149 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,307 likes - 149 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drekke dæ fin](https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Drekke dæ fin](https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc) | 1:59 |
-| 2 | [FAKK MITT EX](https://open.spotify.com/track/6RXBmjvRX1XWZyS8jF416I) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [FAKK MITT EX](https://open.spotify.com/album/72QDi4ww9Hn3zz6V1A0oBK) | 2:54 |
-| 3 | [Sommarkatt](https://open.spotify.com/track/06SBaFS25FItwI86Euk05d) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sommarkatt](https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn) | 1:58 |
+| 2 | [Sommarkatt](https://open.spotify.com/track/06SBaFS25FItwI86Euk05d) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sommarkatt](https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn) | 1:58 |
+| 3 | [FAKK MITT EX](https://open.spotify.com/track/6RXBmjvRX1XWZyS8jF416I) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [FAKK MITT EX](https://open.spotify.com/album/72QDi4ww9Hn3zz6V1A0oBK) | 2:54 |
 | 4 | [Volvo, villa & hund](https://open.spotify.com/track/4ytQR7TA9tU2ua46jDaBj2) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [2 Blyga Läppar](https://open.spotify.com/artist/04UWvFdSYUV4wv6UJ0mARE) | [Volvo, villa & hund](https://open.spotify.com/album/41zUcJ8IV6b4lNJ6Tq5qjA) | 3:05 |
-| 5 | [Big City Life](https://open.spotify.com/track/0hecjMGCQAejEoyRKqNI26) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Big City Life](https://open.spotify.com/album/1pqCV6LC2iODdoz3YIe1bW) | 2:12 |
-| 6 | [LIGGA](https://open.spotify.com/track/0kqIYJAaGAs8xwYgwTuAvF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [EPA EP:n](https://open.spotify.com/album/0eUtQ9eDskBU0DfrsQ4qG8) | 1:53 |
-| 7 | [BE WITH U](https://open.spotify.com/track/2SZgyWAVTXWejEAnjr0p6q) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [BE WITH U](https://open.spotify.com/album/0nKbQ35mOu0uFHsRqgdoSX) | 2:56 |
-| 8 | [Lilla Lapper](https://open.spotify.com/track/3ZbsZBcOqpWY8dZHy3Mvyn) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Lilla Lapper](https://open.spotify.com/album/4nDzPTJn0VJWS4ysZUCJtz) | 2:16 |
-| 9 | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/track/76tyr2QnGa8rZMkcjMTjSR) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY) | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/album/53S5r8qxuUDf2LI7Hj36Td) | 2:29 |
-| 10 | [VETLANDATJEJ](https://open.spotify.com/track/2TREoE1GJwT461CvOgbHTK) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [VETLANDATJEJ](https://open.spotify.com/album/3Hmp5JQ3gVMwAP9zd4851l) | 2:21 |
-| 11 | [HAKUNA MATATA](https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [HAKUNA MATATA](https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk) | 2:16 |
-| 12 | [Bitch](https://open.spotify.com/track/0DF4Z8hunwvY7Vp3Tk6h3C) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Bitch](https://open.spotify.com/album/2pklHN6T1P7Bzd8jRIWe6a) | 2:30 |
+| 5 | [LIGGA](https://open.spotify.com/track/0kqIYJAaGAs8xwYgwTuAvF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [EPA EP:n](https://open.spotify.com/album/0eUtQ9eDskBU0DfrsQ4qG8) | 1:53 |
+| 6 | [Bitch](https://open.spotify.com/track/0DF4Z8hunwvY7Vp3Tk6h3C) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Bitch](https://open.spotify.com/album/2pklHN6T1P7Bzd8jRIWe6a) | 2:30 |
+| 7 | [Big City Life](https://open.spotify.com/track/0hecjMGCQAejEoyRKqNI26) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Big City Life](https://open.spotify.com/album/1pqCV6LC2iODdoz3YIe1bW) | 2:12 |
+| 8 | [BE WITH U](https://open.spotify.com/track/2SZgyWAVTXWejEAnjr0p6q) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [BE WITH U](https://open.spotify.com/album/0nKbQ35mOu0uFHsRqgdoSX) | 2:56 |
+| 9 | [Lilla Lapper](https://open.spotify.com/track/3ZbsZBcOqpWY8dZHy3Mvyn) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Lilla Lapper](https://open.spotify.com/album/4nDzPTJn0VJWS4ysZUCJtz) | 2:16 |
+| 10 | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/track/76tyr2QnGa8rZMkcjMTjSR) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY) | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/album/53S5r8qxuUDf2LI7Hj36Td) | 2:29 |
+| 11 | [VETLANDATJEJ](https://open.spotify.com/track/2TREoE1GJwT461CvOgbHTK) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [VETLANDATJEJ](https://open.spotify.com/album/3Hmp5JQ3gVMwAP9zd4851l) | 2:21 |
+| 12 | [HAKUNA MATATA](https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [HAKUNA MATATA](https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk) | 2:16 |
 | 13 | [ASTRONAUT](https://open.spotify.com/track/5VL30JXRmzjOaDxk5rQqBZ) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r) | [ASTRONAUT](https://open.spotify.com/album/2aazrz2gsf0Y66LFS9gRQv) | 2:08 |
 | 14 | [Living Next Door to Alice \(Who the Fuck is Alice?\)](https://open.spotify.com/track/2VhTsEe1BD4TsTzSTs4Cbd) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro), [Wizex](https://open.spotify.com/artist/4SaTBFtB3RPsxEGBdRB6EG) | [Living Next Door to Alice \(Who the Fuck is Alice?\)](https://open.spotify.com/album/2ahcRKOb5EkSSfg403zPak) | 3:25 |
 | 15 | [F.T.P](https://open.spotify.com/track/0Dx9ZpRkTJ40zjdTdyIjoa) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [F.T.P](https://open.spotify.com/album/3rPNew5ADG0bk3Gso2Vf0X) | 3:15 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 148 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
 | 149 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
 
-Snapshot ID: `AAAAADzEwuQvFO26YQiLtt+pGbrtnjhn`
+Snapshot ID: `AAAAAKwevi2Spdp9kfTg8m03fRmR5wu0`

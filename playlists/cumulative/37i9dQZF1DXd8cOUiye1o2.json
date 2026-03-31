@@ -9976,7 +9976,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 245847,
       "name": "Noor",
       "url": "https://open.spotify.com/track/5JjxhoPVlC54Or4qqvJegR"
@@ -13231,7 +13231,7 @@
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 148500,
+      "duration_ms": 151083,
       "name": "Tauba",
       "url": "https://open.spotify.com/track/4QKT1WE079EqMAWC8S0MEJ"
     },
@@ -14060,6 +14060,36 @@
       "duration_ms": 231021,
       "name": "Toote Dhaage",
       "url": "https://open.spotify.com/track/3mt24yVupqdOSjGFz9XrPv"
+    },
+    {
+      "album": {
+        "name": "Touch Buddy [From \"Dacoit (Hindi)\"]",
+        "url": "https://open.spotify.com/album/1UUJT7zWUh5sxtmVamO3JS"
+      },
+      "artists": [
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "Touch Buddy (From \"Dacoit (Hindi)\")",
+      "url": "https://open.spotify.com/track/6FmS87TsPRkI8EAqt06KPt"
     },
     {
       "album": {

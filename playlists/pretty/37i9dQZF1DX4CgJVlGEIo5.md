@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,050 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,060 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 39 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 40 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 41 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
-| 42 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 43 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
+| 42 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
+| 43 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 44 | [We Were Young](https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [We Were Young](https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg) | 4:53 |
 | 45 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 46 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 55 | [Wandered Away](https://open.spotify.com/track/2jEeajNK4i658NEy0O4706) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:45 |
 | 56 | [Like I Used To \- Acoustic Version](https://open.spotify.com/track/53GeeseR2mm7yjGIJCNvvq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To \(Acoustic Version\)](https://open.spotify.com/album/7uHg8PgXRvRgrzSscVAZ6M) | 4:01 |
 | 57 | [First Try \(Team Swim Mix\)](https://open.spotify.com/track/7arcVtHon0y7CLKWyaKpLV) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [First Try \(Team Swim Mix\)](https://open.spotify.com/album/1msfl4Ye25not0Tj5eWHT2) | 3:10 |
-| 58 | [One](https://open.spotify.com/track/6y6EFX5MsSaRYrQpOOOVTW) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0YAlCsMw5XUBLugLwlg654) | 3:59 |
-| 59 | [Migration of Souls](https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 3:28 |
+| 58 | [Migration of Souls](https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 3:28 |
+| 59 | [One](https://open.spotify.com/track/6y6EFX5MsSaRYrQpOOOVTW) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0YAlCsMw5XUBLugLwlg654) | 3:59 |
 | 60 | [New Paint \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 2:58 |
 | 61 | [Feels Like Lightning](https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Gathering](https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi) | 3:02 |
 | 62 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |

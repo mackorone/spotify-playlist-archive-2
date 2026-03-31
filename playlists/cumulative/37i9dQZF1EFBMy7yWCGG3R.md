@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-395 songs - 21 hr 45 min
+396 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Poster Girl](https://open.spotify.com/track/5B1TY0oq5I1VeTZxEnkGV8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 | 2023-12-30 |  |
 | [Power](https://open.spotify.com/track/65YThnxDm8OZPT6vdSwqbT) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Power](https://open.spotify.com/album/1u0sHhQwhnLrV48oU2jkE3) | 4:00 | 2025-01-09 | 2025-04-12 |
 | [Preacher](https://open.spotify.com/track/2maL3doGPlzMJxvkglaJ6K) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:26 | 2023-12-30 |  |
+| [Prettier](https://open.spotify.com/track/1xxFjjn9zePi0WUrhOn6Kb) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Prettier](https://open.spotify.com/album/65bWAdko9EMXM0yzVyJXHi) | 2:34 | 2026-03-30 |  |
 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 | 2023-12-30 |  |
 | [Priest](https://open.spotify.com/track/6VAlmgM31jc1K7SZrmECRS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:13 | 2023-12-30 |  |
 | [Prior Warning](https://open.spotify.com/track/0nfcZs5NRpJAUFCn5sraHL) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:30 | 2023-12-30 |  |

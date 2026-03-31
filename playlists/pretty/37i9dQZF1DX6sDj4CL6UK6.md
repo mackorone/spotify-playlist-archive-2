@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Kiara Chettri
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,732 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,734 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 4 | [Sunbeam](https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Gurl](https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO) | [Sunbeam](https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk) | 2:51 |
 | 5 | [Too Much?](https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH) | 2:45 |
 | 6 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
-| 7 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
-| 8 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
+| 7 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
+| 8 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
 | 9 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 |
 | 10 | [Champagne Roses](https://open.spotify.com/track/0jk7q9bU2L9c5We9qsosGD) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Sundari](https://open.spotify.com/album/6qvcpPDHrLbSdIHavSCcst) | 2:15 |
 | 11 | [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 23 | [lighthouse](https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:33 |
 | 24 | [My Last Cigarette](https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [My Last Cigarette](https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0) | 4:37 |
 | 25 | [Wait a sec](https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje) | [Heat Sink](https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD) | [On Second Thought](https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe) | 3:12 |
-| 26 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 |
-| 27 | [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 |
+| 26 | [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 |
+| 27 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 |
 | 28 | [Jaloux](https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Jaloux](https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8) | 2:48 |
 | 29 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 30 | [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 38 | [Paws](https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS) | [Paws](https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z) | 4:12 |
 | 39 | [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 |
 | 40 | [Cortado](https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL) | [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [Cortado](https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr) | 2:52 |
-| 41 | [Believer's Curse](https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Believer's Curse](https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT) | 2:36 |
-| 42 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
+| 41 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
+| 42 | [Believer's Curse](https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Believer's Curse](https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT) | 2:36 |
 | 43 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
 | 44 | [Keep You](https://open.spotify.com/track/1EY3dZn5z9ZpVCIIh855J2) | [Shrestha D.](https://open.spotify.com/artist/2lmdJPTrldJerZZEMPGYBT), [Hiten Mukherjee](https://open.spotify.com/artist/1NcTcdQoKp0zcJxr7rZVa4), [gaurab gaboo chatterjee](https://open.spotify.com/artist/10e0DmwViaefZxDfwTg7YT), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Sudipto Paul](https://open.spotify.com/artist/0bCsOJ63rO4aP5EWUCV7JG) | [Keep You](https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1) | 5:23 |
 | 45 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |

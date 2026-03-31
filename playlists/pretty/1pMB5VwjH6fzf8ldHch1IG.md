@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 42,944 likes - 99 songs - 5 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 42,936 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 19 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 |
 | 20 | [Three Am](https://open.spotify.com/track/4X9uWhydX65lTRIPBPb8zg) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Three Am](https://open.spotify.com/album/1aqA8Ff13TfQsnSEGrUr4g) | 2:53 |
 | 21 | [Ritual](https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Ritual](https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72) | 3:01 |
-| 22 | [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
+| 22 | [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
 | 23 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 24 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
 | 25 | [I Ain't No Cowboy](https://open.spotify.com/track/5OcF4vawklKyNnFs4eWX0o) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Ain't No Cowboy](https://open.spotify.com/album/0yx1Y4gQni0WqCbBfietQv) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,375 likes - 121 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,370 likes - 121 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 5 | [Ham Med Guitaren](https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Ham Med Guitaren](https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl) | 3:14 |
 | 6 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 7 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
-| 8 | [Bliv hvor du er](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 |
+| 8 | [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 |
 | 9 | [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 |
 | 10 | [Galt Med Mig](https://open.spotify.com/track/5NgJ6hUZAmgr7baIMxfNKO) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Galt Med Mig](https://open.spotify.com/album/6oUMRdYiNFCiBCS5BHIFAU) | 2:55 |
 | 11 | [Sucker For Love](https://open.spotify.com/track/5O8GYy3zDYonQno0UWYc9n) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 |

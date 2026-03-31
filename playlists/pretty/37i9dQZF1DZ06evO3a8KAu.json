@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50622,
+  "num_followers": 50627,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACEFczvrbV6CtVvj0v6Xz6T",
+  "snapshot_id": "achrgAAAAAChSDQRS2ocTNhmxHb9N6CS",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "A Qu\u00e9 Le Tiras",
-      "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 192218,
       "name": "No Tiene Comparaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "A Qu\u00e9 Le Tiras",
+      "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda a La Vez (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Nunca Valiste Tanto (En Vivo)",
-      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gente del Este",
         "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 186972,
       "name": "DEL Rojo",
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Nunca Valiste Tanto (En Vivo)",
+      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
     },
     {
       "added_at": null,

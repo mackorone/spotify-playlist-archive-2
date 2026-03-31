@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 974821,
+  "num_followers": 975042,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "O Tu O Ninguna",
-      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 312560,
       "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "O Tu O Ninguna",
+      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 180986,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 174360,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
     },
     {
-      "added_at": "2024-09-26 19:28:08",
-      "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
-    },
-    {
       "added_at": "2021-04-22 14:20:49",
       "album": {
         "name": "Un Gato En La Oscuridad",
@@ -1083,6 +1067,22 @@
       "duration_ms": 260066,
       "name": "Amada Amante",
       "url": "https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a"
+    },
+    {
+      "added_at": "2024-09-26 19:28:08",
+      "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 173146,
-      "name": "Ahora y siempre",
-      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 162040,
       "name": "Digan lo que digan",
       "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 173146,
+      "name": "Ahora y siempre",
+      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
     },
     {
       "added_at": "2021-04-22 14:20:49",

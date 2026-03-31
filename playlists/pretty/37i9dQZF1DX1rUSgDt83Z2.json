@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 45556,
+  "num_followers": 45571,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "duration_ms": 201118,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
+    },
+    {
+      "added_at": "2026-03-26 23:00:00",
+      "album": {
         "name": "Beste Zangers 2025 (KiKa aflevering)",
         "url": "https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 234101,
       "name": "Zo Stil",
       "url": "https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH"
-    },
-    {
-      "added_at": "2026-03-26 23:00:00",
-      "album": {
-        "name": "Oktober",
-        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
-        }
-      ],
-      "duration_ms": 201118,
-      "name": "Oktober",
-      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
     },
     {
       "added_at": "2026-03-26 23:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-03-26 23:00:00",
       "album": {
+        "name": "Plus 1",
+        "url": "https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE"
+      },
+      "artists": [
+        {
+          "name": "De Troubadours",
+          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
+        }
+      ],
+      "duration_ms": 183169,
+      "name": "Plus 1",
+      "url": "https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt"
+    },
+    {
+      "added_at": "2026-03-26 23:00:00",
+      "album": {
         "name": "Ik Mis Je Nu Wel Hier",
         "url": "https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 222288,
       "name": "Ik Weet Dat Jij Het Niet Weet",
       "url": "https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU"
-    },
-    {
-      "added_at": "2026-03-26 23:00:00",
-      "album": {
-        "name": "Plus 1",
-        "url": "https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE"
-      },
-      "artists": [
-        {
-          "name": "De Troubadours",
-          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
-        }
-      ],
-      "duration_ms": 183169,
-      "name": "Plus 1",
-      "url": "https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt"
     },
     {
       "added_at": "2026-03-26 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 527889,
+  "num_followers": 527966,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -955,18 +955,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Saga All Stars: Heat Wave / Selected Film Tracks 1950-1957",
-        "url": "https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ"
+        "name": "Calamity Jane / The Pajama Game",
+        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
       },
       "artists": [
         {
-          "name": "Marilyn Monroe",
-          "url": "https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
         }
       ],
-      "duration_ms": 135320,
-      "name": "River of No Return",
-      "url": "https://open.spotify.com/track/1JQdEwIjo3lzhaMWUvrIzV"
+      "duration_ms": 178933,
+      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
+      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -987,22 +991,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Calamity Jane / The Pajama Game",
-        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
+        "name": "Saga All Stars: Heat Wave / Selected Film Tracks 1950-1957",
+        "url": "https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+          "name": "Marilyn Monroe",
+          "url": "https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY"
         }
       ],
-      "duration_ms": 178933,
-      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
-      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
+      "duration_ms": 135320,
+      "name": "River of No Return",
+      "url": "https://open.spotify.com/track/1JQdEwIjo3lzhaMWUvrIzV"
     },
     {
       "added_at": "2022-05-30 12:59:00",

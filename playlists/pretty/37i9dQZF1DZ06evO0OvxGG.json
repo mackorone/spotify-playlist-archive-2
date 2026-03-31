@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9074,
+  "num_followers": 9079,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAtAIXmHqQZmnnQ+nZnbWOZ",
+  "snapshot_id": "achrgAAAAABp6aSt9D4I6Ch0QWJ/tMrP",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,30 @@
       "duration_ms": 124500,
       "name": "Gostosa Posturada",
       "url": "https://open.spotify.com/track/6LjKiYjn0GyxjyGdvmQGvO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "Eles S\u00e3o Fracos",
+      "url": "https://open.spotify.com/track/4ZMkVpeTbQUO2fO6MRd8BQ"
     },
     {
       "added_at": null,
@@ -111,30 +135,6 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "Eles S\u00e3o Fracos",
-      "url": "https://open.spotify.com/track/4ZMkVpeTbQUO2fO6MRd8BQ"
     },
     {
       "added_at": null,
@@ -774,15 +774,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+      "duration_ms": 174550,
+      "name": "N\u00e3o Gosto",
+      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
     },
     {
       "added_at": null,
@@ -874,11 +870,15 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 174550,
-      "name": "N\u00e3o Gosto",
-      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,

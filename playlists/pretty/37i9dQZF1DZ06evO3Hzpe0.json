@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAC93RmRFLqxUKeJtsWgvnDp",
+  "snapshot_id": "achrgAAAAACcILmylLit6B6Y0Y7I1xEB",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 147133,
-      "name": "I Can Feel It",
-      "url": "https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8"
+      "duration_ms": 152120,
+      "name": "Competition Ain't Nothin' - Single Version",
+      "url": "https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 152120,
-      "name": "Competition Ain't Nothin' - Single Version",
-      "url": "https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E"
+      "duration_ms": 147133,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Timer",
-        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 154250,
-      "name": "Two Timer",
-      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
+      "duration_ms": 219615,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
     },
     {
       "added_at": null,
@@ -451,6 +451,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Two Timer",
+        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 154250,
+      "name": "Two Timer",
+      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rare Sweet & Soul 12",
+        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "This feeling's rated extra",
+      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Property",
         "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
       },
@@ -460,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 219615,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
+      "duration_ms": 232521,
+      "name": "Thank You for Sticking Around",
+      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
     },
     {
       "added_at": null,
@@ -483,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rare Sweet & Soul 12",
-        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
+        "name": "Hold On a Little Longer",
+        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
       },
       "artists": [
         {
@@ -492,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 249506,
-      "name": "This feeling's rated extra",
-      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
+      "duration_ms": 201962,
+      "name": "Hold On a Little Longer",
+      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
     },
     {
       "added_at": null,
@@ -524,25 +556,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 232521,
-      "name": "Thank You for Sticking Around",
-      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold On a Little Longer",
-        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "Hold On a Little Longer",
-      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Grooves, Vol. 1 (Special House Beats Selection)",
         "url": "https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 192000,
       "name": "Bring down - Foggy Day Mix",
       "url": "https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 293623,
       "name": "Private Revibe",
       "url": "https://open.spotify.com/track/0HoxL5hk97ccPyrS50ccAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,

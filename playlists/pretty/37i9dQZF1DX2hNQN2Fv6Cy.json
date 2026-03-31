@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 259528,
+  "num_followers": 259821,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Through The Wire",
+      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Through The Wire",
-      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Pandemonium!",
         "url": "https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 282773,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Fantasy EP",
         "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 291355,
       "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
       "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
-      },
-      "artists": [
-        {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2135,6 +2135,30 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Queen Pen",
+          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0AvV49z4EPz5ocYN7eKGAK"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Dutty Rock",
         "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
@@ -2167,30 +2191,6 @@
       "duration_ms": 257066,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
-      },
-      "artists": [
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Queen Pen",
-          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0AvV49z4EPz5ocYN7eKGAK"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Pain Is Love (International Version)",
         "url": "https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 245093,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
     },
     {
       "added_at": "2024-07-15 07:37:26",

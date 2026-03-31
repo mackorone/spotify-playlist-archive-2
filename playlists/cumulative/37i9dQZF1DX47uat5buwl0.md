@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Bausa 🔥
 
-156 songs - 6 hr 50 min
+157 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-07-17 | 2025-12-12 |
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-13 |  |
 | [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 | 2025-09-16 |  |
+| [Allerrijkste Man](https://open.spotify.com/track/0h8GdVEcpbZAGhh9dZjpvE) | [Max Bolhuis](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Allerrijkste Man](https://open.spotify.com/album/0PE1LskBIQhjfZSkS0Jx4t) | 2:20 | 2026-03-30 |  |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-17 |  |
 | [Astronaut](https://open.spotify.com/track/3O0gQuyw3xDzm9tvW4db36) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Astronaut](https://open.spotify.com/album/6D9lAQPn4ZH7HK06EtvQ2x) | 2:33 | 2025-07-17 | 2026-02-13 |
 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 | 2025-09-09 |  |
@@ -106,7 +107,7 @@
 | [Mijntje](https://open.spotify.com/track/7G8Sd2g1wVXnmPUxpRitEX) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Mijntje](https://open.spotify.com/album/1NhlRAt4HUgo79YdrhZG0v) | 2:31 | 2025-07-17 |  |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2025-07-17 | 2025-10-18 |
 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 | 2025-07-17 |  |
-| [Niet Voor De Smaak](https://open.spotify.com/track/1cLMnHYsSs0lS52FqnFLZ6) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Niet Voor De Smaak](https://open.spotify.com/album/0rxFRnGwMpxTof1jhJ7DGY) | 2:25 | 2026-01-13 |  |
+| [Niet Voor De Smaak](https://open.spotify.com/track/1cLMnHYsSs0lS52FqnFLZ6) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Niet Voor De Smaak](https://open.spotify.com/album/0rxFRnGwMpxTof1jhJ7DGY) | 2:25 | 2026-01-13 | 2026-03-31 |
 | [Niet Yusu](https://open.spotify.com/track/4unCaFwAKU0C4bNTbYwMqN) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Niet Yusu](https://open.spotify.com/album/58iLqC8WicZ6nxHk3CNlmA) | 2:27 | 2026-03-23 |  |
 | [Niks Voor Mij](https://open.spotify.com/track/4K3ruvSedoAvOHijvvptqm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Niks Voor Mij](https://open.spotify.com/album/7EYhYwOMCmnGWNeLNTkguI) | 2:07 | 2025-07-17 | 2025-08-30 |
 | [No Go Zone \(Remix\)](https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [No Go Zone \(Remix\)](https://open.spotify.com/album/7C3DlpFK7aOVzOjM81nHWJ) | 4:40 | 2025-07-17 |  |

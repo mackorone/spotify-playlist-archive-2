@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,896 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,917 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 15 | [Distraction](https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:55 |
 | 16 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
 | 17 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:59 |
-| 18 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
-| 19 | [Good Thing \(with Kehlani\)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Thing \(with Kehlani\)](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) | 3:30 |
+| 18 | [Good Thing \(with Kehlani\)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Thing \(with Kehlani\)](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) | 3:30 |
+| 19 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
 | 20 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
 | 21 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 22 | [Honey](https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Honey](https://open.spotify.com/album/2D37uNhXgherfImusGBKTx) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 49 | [any given sunday \(feat\. blxst\)](https://open.spotify.com/track/4gnrIW6VqlCxVbOSVE50zi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 2:45 |
 | 50 | [The Way \(feat\. Chance the Rapper\)](https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 4:22 |
 
-Snapshot ID: `accaAAAAAACij7wpAGBo4na+KIUqQHN3`
+Snapshot ID: `achrgAAAAACShY4e2p2LxNbg6rcWH0Wu`

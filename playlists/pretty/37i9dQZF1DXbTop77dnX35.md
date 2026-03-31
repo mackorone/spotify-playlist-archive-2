@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr & Angelique Kidjo, Darkoo & Ruger, Black Sherif, Yarden, T.I BLaze,  Apex Village,   and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,515 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,569 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating 5 Years of EQUAL\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,082 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,087 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 |
 | 42 | [Damn I Wish I Was Your Lover](https://open.spotify.com/track/0RmEn2jcbyrLV4em3bnDZJ) | [Sophie B\. Hawkins](https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC) | [The Best Of Sophie B\. Hawkins](https://open.spotify.com/album/191wfG4xD0VAgJH7rJ97iD) | 5:23 |
 | 43 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
-| 44 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
-| 45 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 |
+| 44 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 |
+| 45 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 46 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
 | 47 | [Phenomenal \(feat\. Doechii\)](https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 3:37 |
 | 48 | [BOY CRAZY.](https://open.spotify.com/track/1oxc4yLlqlEnKnuIqeWRQc) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [\. \(...\)](https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3) | 2:28 |

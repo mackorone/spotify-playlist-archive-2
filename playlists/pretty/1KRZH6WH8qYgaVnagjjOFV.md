@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 373,226 likes - 143 songs - 9 hr 27 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 373,243 likes - 143 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Left It In The River](https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:58 |
-| 2 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 |
+| 1 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 |
+| 2 | [Left It In The River](https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:58 |
 | 3 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 |
 | 4 | [God Story](https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Story](https://open.spotify.com/album/58oNXHgb7gR5PEO3CYvUVd) | 3:07 |
 | 5 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 142 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |
 | 143 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 
-Snapshot ID: `AAAmeW175X4jJl97JSDMgTzIaPb1Iz4w`
+Snapshot ID: `AAAmenZFWCznTH4y6JQaeixbx2a776gO`

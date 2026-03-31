@@ -4,7 +4,7 @@
 
 > Nerissima in cover della playlist dello street rap italiano ⛓️
 
-1,022 songs - 1 day 22 hr 29 min
+1,023 songs - 1 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [BENEF](https://open.spotify.com/track/5AV8mcCebGTtk8DmCeHAZl) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [CRIMI](https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud) | 2:47 | 2022-05-19 | 2022-06-10 |
 | [Benefit](https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Benefit](https://open.spotify.com/album/2QEXRSejARYPvcDfQmXENK) | 2:37 | 2022-07-21 | 2022-09-23 |
 | [Bentley \(feat\. Simba La Rue, J Lord\)](https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 1:59 | 2023-10-12 | 2024-03-08 |
+| [BERLUSCONI](https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [BERLUSCONI](https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K) | 2:06 | 2026-03-30 |  |
 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 | 2025-12-17 | 2026-01-30 |
 | [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-06-30 | 2022-07-22 |
 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 | 2025-12-12 |  |
@@ -598,7 +599,7 @@
 | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 | 2025-01-23 | 2025-03-07 |
 | [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-11 | 2024-06-01 |
 | [MILLY ROCK \(feat\. Tony Boy\)](https://open.spotify.com/track/5TFMwSpK4JSx4XMjZypln7) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [GOBLIN](https://open.spotify.com/album/02RzOO14ybPB0mGrfdjkX4) | 2:38 | 2024-11-07 | 2024-12-20 |
-| [Minacce](https://open.spotify.com/track/0JA9UPcgQ5avstU5IL23yE) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Minacce](https://open.spotify.com/album/3sbkXUoXCMcfwLZr7Yy59G) | 2:29 | 2026-03-13 |  |
+| [Minacce](https://open.spotify.com/track/0JA9UPcgQ5avstU5IL23yE) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Minacce](https://open.spotify.com/album/3sbkXUoXCMcfwLZr7Yy59G) | 2:29 | 2026-03-13 | 2026-03-31 |
 | [Minaccia](https://open.spotify.com/track/0RbhNJIb0vOtLbFlcBN3lx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Minaccia](https://open.spotify.com/album/0jBPzPKM05G6OyULtiaq9p) | 2:41 | 2023-03-02 | 2023-04-07 |
 | [Minorè](https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Minorè](https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ) | 2:26 | 2022-06-09 | 2022-06-24 |
 | [Mississippi Drive \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3cX3mdvcLfvSShxKfXIr8T) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Cultura Italiana Pt.1](https://open.spotify.com/album/1b3MZM1zZG8yRK4Hpcf8pJ) | 2:32 | 2024-09-12 | 2024-10-25 |

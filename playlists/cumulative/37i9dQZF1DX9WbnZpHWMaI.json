@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Jackie Hollander.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Storm Mollison.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Baby I Forgive You",
+        "url": "https://open.spotify.com/album/450Pj7mRcbv4yW3wWhesAw"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159445,
+      "name": "Baby I Forgive You",
+      "url": "https://open.spotify.com/track/2jWOLxiICD1MVpUBSzBKdW"
+    },
+    {
+      "album": {
         "name": "Baby, We're Ascending",
         "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
@@ -1116,6 +1134,24 @@
       "duration_ms": 222585,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/6UTQKc4s4UVSiEVHSdgRhB"
+    },
+    {
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163506,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
     },
     {
       "album": {
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 212932,
       "name": "Born to Fly",
       "url": "https://open.spotify.com/track/3XKuIEGQ1boUlHDdEGopOQ"
@@ -2652,7 +2688,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 252929,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
@@ -2880,6 +2916,24 @@
       "duration_ms": 144374,
       "name": "Dancing With My Boyz",
       "url": "https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
     },
     {
       "album": {
@@ -4194,7 +4248,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 216477,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b"
@@ -5154,7 +5208,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 244406,
       "name": "Get U Hot",
       "url": "https://open.spotify.com/track/1ZxPTrVVjgqBrvHOOCPqbD"
@@ -7520,6 +7574,24 @@
       "duration_ms": 145699,
       "name": "Keep Dancing",
       "url": "https://open.spotify.com/track/4Q0RxLgLm5JDLLU43TmM6P"
+    },
+    {
+      "album": {
+        "name": "Keep It Movin'",
+        "url": "https://open.spotify.com/album/06jAhqNyTEC8vfRA8OcTPj"
+      },
+      "artists": [
+        {
+          "name": "BETH",
+          "url": "https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187725,
+      "name": "Keep It Movin'",
+      "url": "https://open.spotify.com/track/3jXZzQIDIe2IiJC6mXzeVG"
     },
     {
       "album": {
@@ -10566,7 +10638,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 217807,
       "name": "Pull The Trigger",
       "url": "https://open.spotify.com/track/0Y0B8pQ0q7On2qnhbRpMfS"
@@ -12227,6 +12299,28 @@
     },
     {
       "album": {
+        "name": "Spirit Higher",
+        "url": "https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "EMJIE",
+          "url": "https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216744,
+      "name": "Spirit Higher",
+      "url": "https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25"
+    },
+    {
+      "album": {
         "name": "stargirl",
         "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
       },
@@ -12961,6 +13055,24 @@
     },
     {
       "album": {
+        "name": "DJ-Kicks: Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325843,
+      "name": "Texas Changing",
+      "url": "https://open.spotify.com/track/3ZesyGLfqTx3AxWxbWlxOC"
+    },
+    {
+      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
@@ -13062,7 +13174,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 213214,
       "name": "The Fault Is Mine",
       "url": "https://open.spotify.com/track/52guz6B9Tmho2QTpwVO6gC"
@@ -14214,7 +14326,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
@@ -14832,6 +14944,24 @@
       "duration_ms": 182373,
       "name": "WORK XPERIENCE",
       "url": "https://open.spotify.com/track/2806jkSYPMWwilhS0z6N6F"
+    },
+    {
+      "album": {
+        "name": "A.L.T.",
+        "url": "https://open.spotify.com/album/1exLcroSoMKCdQ6NCohGJ0"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236718,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/35Dj515Ju4vvsGFVQ4YXPW"
     },
     {
       "album": {

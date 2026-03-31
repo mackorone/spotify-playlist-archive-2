@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,409 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,437 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 55 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
 | 56 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 57 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
-| 58 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
-| 59 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
+| 58 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
+| 59 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
 | 60 | [Femme de couleur](https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Mes Fantaisies](https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu) | 3:36 |
 
 Snapshot ID: `AAAAAK/aAXOoZ+Vk6sLQDtEr9qbFrv31`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Lockjaw, Die Oberherren and more",
+  "description": "With Locus Noir, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 243555,
       "name": "Alright - Radio Edit",
       "url": "https://open.spotify.com/track/3u1de60CFWhpvfo51RmcxZ"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Songs of Death",
+        "url": "https://open.spotify.com/album/1DbauAWFDEnx1gslUBV2fk"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218090,
+      "name": "Death Is On the Way",
+      "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
+    },
+    {
+      "album": {
         "name": "Shadow Sun",
         "url": "https://open.spotify.com/album/7F2lyeX0ypmTDsSdT9cKmR"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 281024,
       "name": "Der Brandtaucher",
       "url": "https://open.spotify.com/track/38UpY1Y40BUufYoLVLTUE0"
@@ -1790,7 +1808,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 244508,
       "name": "Drag Me Under",
       "url": "https://open.spotify.com/track/6dVPnr1wql334QkuGLzJfZ"
@@ -2226,6 +2244,24 @@
       "duration_ms": 355067,
       "name": "End of The Day",
       "url": "https://open.spotify.com/track/10vNfy55vyXQYsLbtSNzya"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1jZTGrDf8z80eqzkIjWgOz"
+      },
+      "artists": [
+        {
+          "name": "Outshine",
+          "url": "https://open.spotify.com/artist/0UKWgEl3R0zs0CVOgQBVgI"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241060,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/3UhS1QFeAcVZHDIOTNAdEz"
     },
     {
       "album": {
@@ -3160,7 +3196,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -5022,7 +5058,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 211145,
       "name": "My Empire Of Fire - The Fire Trilogy Part II",
       "url": "https://open.spotify.com/track/5aBzAXo3q7DQQ7W1V75SjY"
@@ -6401,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Sat\u0131l\u0131k",
+        "url": "https://open.spotify.com/album/15Wxv2fU7fngbIPhwlyCjv"
+      },
+      "artists": [
+        {
+          "name": "Krank",
+          "url": "https://open.spotify.com/artist/1e7chD84hWr9mL0RyZiIsG"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Sat\u0131l\u0131k",
+      "url": "https://open.spotify.com/track/7on488VC4QZnr1ugaYj87q"
+    },
+    {
+      "album": {
         "name": "Savour the Moment",
         "url": "https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH"
       },
@@ -6614,7 +6668,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "Shadow Sun",
       "url": "https://open.spotify.com/track/6NxMk012STcCepEzfxDCOD"
@@ -6686,7 +6740,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -7436,7 +7490,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 365697,
       "name": "Take This Waltz",
       "url": "https://open.spotify.com/track/1gIoMyoS1okNkMs19TkJMe"
@@ -7534,6 +7588,24 @@
       "duration_ms": 215725,
       "name": "Terms and Conditions Apply",
       "url": "https://open.spotify.com/track/0sRxAObesclcIixu23x3Sy"
+    },
+    {
+      "album": {
+        "name": "The Antagonist",
+        "url": "https://open.spotify.com/album/1171xAu3oLVH18r40t5Lyr"
+      },
+      "artists": [
+        {
+          "name": "Avfall",
+          "url": "https://open.spotify.com/artist/6zHDYKTojhLTzBfCqAVmJb"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "The Antagonist",
+      "url": "https://open.spotify.com/track/6uS76Gq0vuXHTadTSgr3Xi"
     },
     {
       "album": {
@@ -7638,7 +7710,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -7710,7 +7782,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 368253,
       "name": "The Great Replacement",
       "url": "https://open.spotify.com/track/6RAcTglUaypJX3WLrRxgbV"
@@ -8144,7 +8216,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -8772,7 +8844,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"

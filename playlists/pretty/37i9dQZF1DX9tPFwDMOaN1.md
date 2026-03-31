@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover: BTS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,111,886 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,112,285 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 26 | [THIS IS FOR](https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:11 |
 | 27 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 28 | [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 |
-| 29 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 |
-| 30 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 |
-| 31 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 |
-| 32 | [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 |
-| 33 | [SUPA DUPA LUV](https://open.spotify.com/track/5S0QxfYABBoLI4sMk2aCa2) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 2:52 |
-| 34 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
-| 35 | [FaceTime](https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 2:47 |
-| 36 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
-| 37 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
-| 38 | [Do It](https://open.spotify.com/track/1uAwfkhhuiAH0pBAWjBlx7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/2BZzqDmniyOHoHvRlaUbKb) | 2:39 |
-| 39 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
-| 40 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 |
-| 41 | [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 |
-| 42 | [WHERE YOU AT](https://open.spotify.com/track/0BIutvdEclGIwaFeekFNCC) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2llGDqePFTgjCIxOW1RehG) | 2:42 |
-| 43 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
+| 29 | [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 |
+| 30 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 |
+| 31 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 |
+| 32 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 |
+| 33 | [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 |
+| 34 | [SUPA DUPA LUV](https://open.spotify.com/track/5S0QxfYABBoLI4sMk2aCa2) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 2:52 |
+| 35 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
+| 36 | [FaceTime](https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 2:47 |
+| 37 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
+| 38 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
+| 39 | [Do It](https://open.spotify.com/track/1uAwfkhhuiAH0pBAWjBlx7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/2BZzqDmniyOHoHvRlaUbKb) | 2:39 |
+| 40 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
+| 41 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 |
+| 42 | [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 |
+| 43 | [WHERE YOU AT](https://open.spotify.com/track/0BIutvdEclGIwaFeekFNCC) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2llGDqePFTgjCIxOW1RehG) | 2:42 |
 | 44 | [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 |
-| 45 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
-| 46 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 |
+| 45 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 |
+| 46 | [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 |
 | 47 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 |
 | 48 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 49 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
 | 50 | [Butterfly Doors](https://open.spotify.com/track/1U7iwruAyuD1lnsTzuYfY3) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/0cE9QJeRkNDanugLRjX9d7) | 2:51 |
 
-Snapshot ID: `AAAAAEJycbjAVm7F0qaCqDsnMU0Squwm`
+Snapshot ID: `AAAAAB0CMyLsRkyRhT3jkMj3PirhXWnl`

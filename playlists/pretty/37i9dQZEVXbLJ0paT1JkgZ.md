@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,595 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,596 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Resentia](https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:20 |
 | 50 | [CHALET](https://open.spotify.com/track/6D04cLJF71OwuyqxDusWwP) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [JEREMIAS](https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0) | 2:34 |
 
-Snapshot ID: `MVyQ8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MV3gGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

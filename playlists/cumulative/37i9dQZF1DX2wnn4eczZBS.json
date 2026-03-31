@@ -1735,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1L95CMnIW9LHwQ8MKhkauD"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176103,
+      "name": "HEMEL & AARDE",
+      "url": "https://open.spotify.com/track/7G6la7Z1YkOCgR3oIRtEaN"
+    },
+    {
+      "album": {
         "name": "Vrijplaats",
         "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
       },
@@ -3645,6 +3671,28 @@
     },
     {
       "album": {
+        "name": "Nu Nog Niet - Josephine Odhil versie",
+        "url": "https://open.spotify.com/album/7CGFASyw6vLfX2AdpoY7l4"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        },
+        {
+          "name": "Josephine Odhil",
+          "url": "https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162394,
+      "name": "Nu Nog Niet - Josephine Odhil versie",
+      "url": "https://open.spotify.com/track/0H4jonrXvaYd2jZHuCmR1N"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
       },
@@ -3918,7 +3966,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 188272,
       "name": "OSAMA BIN LADEN",
       "url": "https://open.spotify.com/track/06ibtv7JGpTPrPabspWOOh"
@@ -5224,7 +5272,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 240949,
       "name": "Water",
       "url": "https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr"

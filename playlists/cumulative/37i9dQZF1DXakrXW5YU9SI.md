@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-886 songs - 2 day 1 hr 42 min
+887 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 | 2026-02-27 | 2026-03-14 |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-05-24 |
 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 | 2025-10-23 | 2025-12-06 |
+| [ILU NAS JEST](https://open.spotify.com/track/1Oe9VmxzM7ErbPq8PrSKxV) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa) | [ILU NAS JEST](https://open.spotify.com/album/2spGZawF0CXXIlckgPsbS9) | 3:02 | 2026-03-27 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-09-12 | 2024-11-04 |
 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 | 2025-12-05 | 2026-03-14 |
 | [In My Mind](https://open.spotify.com/track/5Kbs5ZbYLGKchaT0C6fqjQ) | [Formeo](https://open.spotify.com/artist/58VDkUTKHrrr5b0P4yszTO) | [In My Mind](https://open.spotify.com/album/1FCcWwRuJplJfGh6gqPILZ) | 3:55 | 2025-02-21 | 2025-03-08 |
@@ -761,7 +762,7 @@
 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 | 2025-08-15 | 2025-09-16 |
 | [TO KIEDYŚ MINIE](https://open.spotify.com/track/4G5JYGSUKdWOFL4UWRi8xS) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [DZIECI DOKERÓW](https://open.spotify.com/album/4Y1O2OPtH6fuQndU4Sa6qa) | 3:39 | 2025-01-17 | 2025-01-25 |
 | [To nie koniec](https://open.spotify.com/track/7u1mfYq6nRZmD4F9iumOy8) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [To nie koniec](https://open.spotify.com/album/7MJf5dvbXttoVqkcxWxDcM) | 3:11 | 2026-02-27 |  |
-| [To nie koniec](https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [To nie koniec](https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG) | 2:52 | 2026-03-13 |  |
+| [To nie koniec](https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [To nie koniec](https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG) | 2:52 | 2026-03-13 | 2026-03-31 |
 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 | 2026-02-20 |  |
 | [To nie powtórzy się](https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik) | [The Dumplings](https://open.spotify.com/artist/1nEmAvnOKMBYCziZQNb5B4) | [To nie powtórzy się](https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf) | 3:12 | 2024-09-12 | 2024-09-29 |
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-09-15 | 2025-10-12 |

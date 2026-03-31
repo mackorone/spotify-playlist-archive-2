@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Lowfeye
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,070 likes - 95 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,103 likes - 95 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

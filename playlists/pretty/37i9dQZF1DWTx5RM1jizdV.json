@@ -1,15 +1,15 @@
 {
   "description": "Music from \"ASSASSINATION CLASSROOM\"! /\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d\u306e\u4e16\u754c\u3092\u5f69\u308b\u697d\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u677e\u4e95\u512a\u5f81\uff0f\u96c6\u82f1\u793e\u30fb\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a2025",
-  "num_followers": 7363,
+  "num_followers": 7480,
   "original_name": "\u6697\u6bba\u6559\u5ba4 ASSASSINATION CLASSROOM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3QZThwwMp+9UtFnygTUlXi6Cy/",
+  "snapshot_id": "AAAAAM5nokLDWFsY6QoehfJjtMCkKBe+",
   "tracks": [
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u6bba\u305b\u3093\u305b\u30fc\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/5r1nnEYS5XNPT3ouxwbfJs"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/555IwnS4XsMtNUfhG7rrNu"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/4ubxMkwVR9RZzbqh1c6bCk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2B8YBnczcZAoloFcSlBwFC"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u30b9\u30d4\u30ab",
         "url": "https://open.spotify.com/album/0Q3KAcVAVo2HyanbDhhLBk"
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/0txI0uDofmnAXqbZraQRYn"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
-        "name": "\u30bb\u30c4\u30caBlossom (TVsize)",
-        "url": "https://open.spotify.com/album/0LNBgG5yEQM1dzc8iaEhjF"
+        "name": "\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d10th anniversary Music Collection",
+        "url": "https://open.spotify.com/album/5KkfD9gyoyjGmYQX48oDjq"
       },
       "artists": [
         {
@@ -68,12 +68,44 @@
           "url": "https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf"
         }
       ],
-      "duration_ms": 90433,
-      "name": "\u30bb\u30c4\u30caBlossom - TVsize",
-      "url": "https://open.spotify.com/track/22PyaiG4Br5x5LYwYa7FFH"
+      "duration_ms": 209166,
+      "name": "\u30de\u30b7\u30f3\u30ac\u30f3\u3068\u7f85\u91dd\u76e4",
+      "url": "https://open.spotify.com/track/015DGan9RZXR1GaaMzsP26"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d10th anniversary Music Collection",
+        "url": "https://open.spotify.com/album/5KkfD9gyoyjGmYQX48oDjq"
+      },
+      "artists": [
+        {
+          "name": "\u6f6e\u7530\u6e1a\uff08CV.\u6e15\u4e0a\u821e\uff09",
+          "url": "https://open.spotify.com/artist/0gEr3iKf71AmtDXBk9wibb"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Anti-Love song",
+      "url": "https://open.spotify.com/track/0AihX3TJ5GSBH1FnvJx9Oz"
+    },
+    {
+      "added_at": "2026-03-30 13:01:57",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d10th anniversary Music Collection",
+        "url": "https://open.spotify.com/album/5KkfD9gyoyjGmYQX48oDjq"
+      },
+      "artists": [
+        {
+          "name": "3\u5e74E\u7d44\u3046\u305f\u62c5(\u6e1a&\u8305\u91ce&\u696d&\u78ef\u8c9d&\u524d\u539f)",
+          "url": "https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "\u30bb\u30c4\u30caBlossom",
+      "url": "https://open.spotify.com/track/3IWL0Hyft6vygn9idFnF6g"
+    },
+    {
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "ENDER",
         "url": "https://open.spotify.com/album/1tDnsQ4qohcSZAikateDZR"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/2FMwLbed4YtLgB8MwfbSJ6"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "Infinity karat",
         "url": "https://open.spotify.com/album/72lwdVn2vzvqAbLmvgFaBf"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/0EcZVK4nEnQshCO1vN1F2A"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u30e9\u30b9\u30c8\u30eb\u30c3\u30af",
         "url": "https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u9ec4\u8272\u4fe1\u53f7",
         "url": "https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u30c4\u30ad\u30ce\u30d5\u30cd",
         "url": "https://open.spotify.com/album/3xNmkBhuHL3OIWzavob6OB"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/67G4XvHmTW7JKg6YKzPZV2"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u9752\u6625\u30b5\u30c4\u30d0\u30c4\u8ad6",
         "url": "https://open.spotify.com/album/3arlRorn9ipIUsI1LY7ACQ"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/0PY7EFmEa52bsJ12xSq4B5"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "Hello,shooting-star",
         "url": "https://open.spotify.com/album/656whZvaXTOHvs95llmtXR"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/2Vv7OUb0VgufsPc53l8xZs"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u81ea\u529b\u672c\u9858\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/3lChV8Q6Rs3d3Atxqc9T96"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/2jgVyvvBfdf6LC1EUSYDDM"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "QUESTION",
         "url": "https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr"
@@ -217,7 +249,23 @@
       "url": "https://open.spotify.com/track/4MorYttxU39XKVoRlCopyz"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d10th anniversary Music Collection",
+        "url": "https://open.spotify.com/album/5KkfD9gyoyjGmYQX48oDjq"
+      },
+      "artists": [
+        {
+          "name": "3\u5e74E\u7d44\u4fee\u5b66\u65c5\u884c4\u73ed",
+          "url": "https://open.spotify.com/artist/6lRBM3b64f4SXV1qaKRlWC"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "\u9752\u6625\u30b5\u30c4\u30d0\u30c4\u8ad6 - 3\u5e74E\u7d44\u4fee\u5b66\u65c5\u884c4\u73ed(\u6e1a\uff06\u8305\u91ce\uff06\u696d\uff06\u6749\u91ce\uff06\u795e\u5d0e\uff06\u5965\u7530)ver. -",
+      "url": "https://open.spotify.com/track/5H88WhqiJtXVTwMtLXY74e"
+    },
+    {
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u6b20\u3051\u305f\u6708",
         "url": "https://open.spotify.com/album/5oYVkq722Y2mWqeEef0rxo"
@@ -233,7 +281,7 @@
       "url": "https://open.spotify.com/track/1r1FQ64XOQSpfSDuFrbm0b"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u30d0\u30a4\u30d0\u30a4 YESTERDAY",
         "url": "https://open.spotify.com/album/5nnuB9aYtocIU9aESp6di9"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/66lF1QWtLZXJofJ3x388RV"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u30bd\u30e9",
         "url": "https://open.spotify.com/album/6VjYuBi1P9mywKJwiheGw7"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/0hgHn4Akeuo4NHbqnwFCLY"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u30d0\u30a4\u30d0\u30a4 YESTERDAY",
         "url": "https://open.spotify.com/album/5nnuB9aYtocIU9aESp6di9"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/1ooeKZlmf9fSa1V9l92JYg"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u65c5\u7acb\u3061\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/2HkuVRRwcHGacdstMeqOLi"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/4Dbp7OAA07e5BB23nIey7L"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u5352\u696d\u8a3c\u66f8",
         "url": "https://open.spotify.com/album/7M8mokoPuWZXU1jrXNoHJH"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/2IbsFcA4QHMFoL3lJlPY9l"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u9752\u6625\u30b5\u30c4\u30d0\u30c4\u8ad6",
         "url": "https://open.spotify.com/album/3arlRorn9ipIUsI1LY7ACQ"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/6M6CXOajkcVjIOPxVWA2dv"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "\u81ea\u529b\u672c\u9858\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/3lChV8Q6Rs3d3Atxqc9T96"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/0r9r6v283cb47Db0CqvWFo"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
         "name": "QUESTION",
         "url": "https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr"
@@ -361,10 +409,10 @@
       "url": "https://open.spotify.com/track/0kwKxogKc98AMwEAUkums3"
     },
     {
-      "added_at": "2026-03-03 15:00:40",
+      "added_at": "2026-03-30 13:01:57",
       "album": {
-        "name": "\u59cb\u696d\u306e\u30d9\u30eb (movie size)",
-        "url": "https://open.spotify.com/album/6LOhlnc8F5qc5Rm45IBG9E"
+        "name": "\u30a2\u30cb\u30e1\u300c\u6697\u6bba\u6559\u5ba4\u300d10th anniversary Music Collection",
+        "url": "https://open.spotify.com/album/5KkfD9gyoyjGmYQX48oDjq"
       },
       "artists": [
         {
@@ -372,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2"
         }
       ],
-      "duration_ms": 167250,
-      "name": "\u59cb\u696d\u306e\u30d9\u30eb - movie size",
-      "url": "https://open.spotify.com/track/5MxPfVmCb6QlH8IaRPP2Vb"
+      "duration_ms": 265200,
+      "name": "\u59cb\u696d\u306e\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/4dUfNkHPQFs8TcmBJgNybN"
     }
   ],
   "unique_name": "\u6697\u6bba\u6559\u5ba4 ASSASSINATION CLASSROOM",

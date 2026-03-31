@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 111263,
+  "num_followers": 111272,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 217293,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "bc i love you",
         "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 237052,
       "name": "bc i love you",
       "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Sunburn Fades",
-        "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Sunburn Fades",
-      "url": "https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 289987,
       "name": "Homes",
       "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Sunburn Fades",
+        "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Sunburn Fades",
+      "url": "https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "HEADSPLIT (Deluxe)",
-        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 153145,
-      "name": "if it\u2019s not with you",
-      "url": "https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Backyard Lover",
         "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 328348,
       "name": "Backyard Lover",
       "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "HEADSPLIT (Deluxe)",
+        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 153145,
+      "name": "if it\u2019s not with you",
+      "url": "https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "come on, baby! be a good girl for the camera",
-        "url": "https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 249575,
-      "name": "come on, baby! be a good girl for the camera",
-      "url": "https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "All of This Beauty",
         "url": "https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 128266,
       "name": "All of This Beauty",
       "url": "https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "come on, baby! be a good girl for the camera",
+        "url": "https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 249575,
+      "name": "come on, baby! be a good girl for the camera",
+      "url": "https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1"
     }
   ],
   "unique_name": "Folk Arc",

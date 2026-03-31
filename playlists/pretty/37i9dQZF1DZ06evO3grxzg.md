@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,915 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,909 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 2 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
 | 3 | [Veo en ti la luz](https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 3:37 |
 | 4 | [Nada Es Para Siempre](https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Nada Es Para Siempre](https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI) | 3:15 |
-| 5 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
-| 6 | [Nada](https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:53 |
+| 5 | [Nada](https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:53 |
+| 6 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
 | 7 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
 | 8 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
 | 9 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 39 | [Agüita](https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:39 |
 | 40 | [AMOR ÁCIDO](https://open.spotify.com/track/1WnzNGJICOdCu7NPeEOXk1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:01 |
 | 41 | [Final Feliz](https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:04 |
-| 42 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
-| 43 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
+| 42 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
+| 43 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
 | 44 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 45 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
 | 46 | [Es Mejor](https://open.spotify.com/track/2SH19kAKFEqKFYFNLhIEFA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [MÍA](https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [MÍA](https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz) | 3:10 |
 | 50 | [De Mí Enamórate](https://open.spotify.com/track/6JmCyFj0UAIkGlp9EsFEsu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC) | 4:59 |
 
-Snapshot ID: `accaAAAAAAAw2Yl/HCO5e5/dNR1Sjg66`
+Snapshot ID: `achrgAAAAAAJ8OSpKMcP0c1OYll6g2iu`

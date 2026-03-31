@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Friend of a Friend",
+        "url": "https://open.spotify.com/album/0R6BJ105xjkK53w3JTJJPw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Grin",
+          "url": "https://open.spotify.com/artist/1Nymwcz4ybOrV0WjkFPsne"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241983,
+      "name": "A Message to Myself",
+      "url": "https://open.spotify.com/track/04VkKDZvMssOBSP4Cw06Z2"
+    },
+    {
+      "album": {
         "name": "Acid Rain (Edit)",
         "url": "https://open.spotify.com/album/0wG2Ose6eAKTyohO1JoPJd"
       },
@@ -1680,6 +1698,24 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "album": {
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 196558,
       "name": "I Do - Vandelux Remix",
       "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
@@ -5924,7 +5960,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 223700,
       "name": "Know You Love Me - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/44gzSGzjh6yexlWqbMlKPw"

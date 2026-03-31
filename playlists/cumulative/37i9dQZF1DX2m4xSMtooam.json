@@ -652,7 +652,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 284373,
       "name": "Bossa Antigua",
       "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
@@ -1416,6 +1416,24 @@
       "duration_ms": 280529,
       "name": "Don't Think Twice, It's Alright",
       "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
+    },
+    {
+      "album": {
+        "name": "Dressed In White",
+        "url": "https://open.spotify.com/album/2ZlhVNgedWT1zfJOoVKXK2"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203754,
+      "name": "Dressed In White",
+      "url": "https://open.spotify.com/track/2zMv4lzp68XO8j1pSmC0eN"
     },
     {
       "album": {

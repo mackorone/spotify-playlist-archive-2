@@ -22173,6 +22173,24 @@
     },
     {
       "album": {
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361760,
+      "name": "Tommy's Party",
+      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
+    },
+    {
+      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },

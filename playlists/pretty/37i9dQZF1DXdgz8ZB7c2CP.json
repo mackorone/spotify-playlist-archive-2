@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf1f featuring MAYV",
-  "num_followers": 843519,
+  "num_followers": 843585,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGtn0hKwdx+sf+G9RpFO91ULbLYM",
+  "snapshot_id": "AAAAAPgV+sX1M558TXPQt6W9SciKHhuR",
   "tracks": [
     {
       "added_at": "2026-03-20 15:46:35",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
     },
     {
+      "added_at": "2026-03-30 15:43:09",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/082BFZZXhPeRRigSZhwdEN"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/0C6kGnMDhdKre3kkODrGap"
+    },
+    {
       "added_at": "2026-03-20 15:46:35",
       "album": {
         "name": "Born Again",
@@ -287,26 +303,6 @@
       "duration_ms": 158873,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
-    },
-    {
-      "added_at": "2026-03-27 04:00:17",
-      "album": {
-        "name": "k_i_s_s_i_n_g.wav",
-        "url": "https://open.spotify.com/album/6TCLFfCXQXpSze0ncBNpZU"
-      },
-      "artists": [
-        {
-          "name": "Tej",
-          "url": "https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL"
-        },
-        {
-          "name": "Z3LLA",
-          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "k_i_s_s_i_n_g.wav",
-      "url": "https://open.spotify.com/track/5d4qt2LPwtyOEHmWkFvIrz"
     },
     {
       "added_at": "2026-03-20 15:46:35",

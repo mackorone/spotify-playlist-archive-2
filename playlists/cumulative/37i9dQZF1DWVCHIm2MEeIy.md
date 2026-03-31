@@ -4,7 +4,7 @@
 
 > This is our playground 🪩  Cover: Keinemusik
 
-612 songs - 2 day 1 hr 54 min
+613 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Burn Through](https://open.spotify.com/track/1fgjv0A82xSTAymPVwQQ79) | [Solique](https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Burn Through](https://open.spotify.com/album/7uXNZrwK4WExs5lKomAb6C) | 6:22 | 2023-04-07 | 2023-04-29 |
 | [Burning Flame \- 2020 Remix](https://open.spotify.com/track/2xWC2Gp09mdco5kEzXnm9I) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Jez Phunk](https://open.spotify.com/artist/3MBYR1OMC2QDN9kL32e0df), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Burning Flame \(2020 Remix\)](https://open.spotify.com/album/1rBKdxgSEhNr1qA342r1of) | 9:07 | 2022-04-15 | 2022-05-08 |
 | [Butterflies](https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies](https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo) | 2:49 | 2025-03-03 | 2025-11-19 |
+| [CA$H BEIBY](https://open.spotify.com/track/1a2YioBXoAKvZdihxcbhcl) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Zol Ekaterina](https://open.spotify.com/artist/6L82D9M6vQkMBQTSm13eMM) | [CA$H BEIBY](https://open.spotify.com/album/10cBflFJWpSgONDqcPqdxt) | 3:43 | 2026-03-30 |  |
 | [Cabalero](https://open.spotify.com/track/22vql5nRZdCJ0wqLLzi2mQ) | [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Cabalero](https://open.spotify.com/album/1hTnb56AqwEnUV52UPnYbq) | 4:27 | 2024-01-26 | 2024-02-07 |
 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-06-26 |  |
 | [Can I](https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN) | [No Pushing Only Pulling](https://open.spotify.com/album/57LVq8AxNiBVuPMN0iZLZP) | 8:31 | 2022-04-15 | 2022-07-28 |
@@ -469,7 +470,7 @@
 | [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 | 2024-09-27 | 2025-11-14 |
 | [Save The Rave](https://open.spotify.com/track/0F98k4uhiiQhyCMKojTkFB) | [Lexy & K\-Paul](https://open.spotify.com/artist/5Jpy5UevFNksfrxNyE7tcE) | [Save The Rave](https://open.spotify.com/album/3lejIMtfZWGjcSGSBroPrY) | 6:07 | 2022-05-20 | 2022-06-22 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-24 |  |
-| [Searching](https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [Searching](https://open.spotify.com/album/1wtegba6llZ8I6UeKGyFlY) | 4:07 | 2024-11-18 |  |
+| [Searching](https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [Searching](https://open.spotify.com/album/1wtegba6llZ8I6UeKGyFlY) | 4:07 | 2024-11-18 | 2026-03-31 |
 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 | 2025-08-20 |  |
 | [Serendipity](https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Serendipity](https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ) | 6:08 | 2022-11-15 | 2022-11-26 |
 | [set me free](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M) | 3:38 | 2024-10-10 |  |

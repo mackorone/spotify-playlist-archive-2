@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 32 | [Becoming](https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:10 |
 | 33 | [Dream Fighter](https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 6:06 |
 | 34 | [Intro \- Live](https://open.spotify.com/track/6yynZDWbyfY4emRXrNSExQ) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:19 |
-| 35 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
+| 35 | [Love Is Watching](https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:29 |
 | 36 | [EOS Brussels \- Live](https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 4:06 |
-| 37 | [Beautiful](https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:05 |
-| 38 | [Love Is Watching](https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:29 |
+| 37 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
+| 38 | [Beautiful](https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:05 |
 | 39 | [Walking in Your Eternal Love](https://open.spotify.com/track/6SIfERtNKaRiinslahFDce) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:18 |
 
-Snapshot ID: `accaAAAAAABOywOZhK8AuvWD/S3TWaQ4`
+Snapshot ID: `achrgAAAAAAOyhe7PLflsdjHeiq1r67y`

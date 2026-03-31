@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 32302,
+  "num_followers": 32308,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Aguanc\u00f3",
+      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 127586,
       "name": "Viento de Arrabal",
       "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Aguanc\u00f3",
-      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -531,34 +531,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        },
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "brass.beats",
-          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
-        }
-      ],
-      "duration_ms": 123810,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Remixes lofi del Regional Chill",
         "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        },
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
+        }
+      ],
+      "duration_ms": 123810,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Beautiful Lights",
-        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Diamond Sparkle",
-      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "are you kidding?",
         "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 131091,
       "name": "are you kidding?",
       "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Beautiful Lights",
+        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Diamond Sparkle",
+      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
-      },
-      "artists": [
-        {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/1UkmUDvr8N92hRv5L0H9Mh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 134918,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0WmBZJiCZBgkfNmT0Pms3Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
     },
     {
       "added_at": "2025-04-04 04:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,275 likes - 142 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 142 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 113 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7sgc6ahX3IQwSzFzdQnA5p) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Look At Me Now](https://open.spotify.com/album/3dW1ehIUEORxqwC3NtNVV2) | 2:45 |
 | 114 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 |
 | 115 | [Breath Away](https://open.spotify.com/track/6wpEKnAD0c7y4H2iAUrj4K) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:51 |
-| 116 | [Mad](https://open.spotify.com/track/3M01ewRy7GgG7JkSjy9EqN) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 2:25 |
-| 117 | [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 |
+| 116 | [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 |
+| 117 | [Mad](https://open.spotify.com/track/3M01ewRy7GgG7JkSjy9EqN) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 2:25 |
 | 118 | [Empty \(feat\. Swae Lee\)](https://open.spotify.com/track/2U5yyG20dxfpFDjq7otXIY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:43 |
 | 119 | [Butterflies](https://open.spotify.com/track/5kJkOtbYfLn9z6dQR8tx6u) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 3:40 |
 | 120 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 141 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 | 142 | [The Visitor](https://open.spotify.com/track/09FguG41UTBFcJuj2sDssl) | [John Rod Dondoyano](https://open.spotify.com/artist/2opN2BRNgnBJIO932Kyr3U) | [The Visitor](https://open.spotify.com/album/5Kwri33nzNWZSmi7eRX9wW) | 3:55 |
 
-Snapshot ID: `AcNdYAAAAAA79gzcZ7gM5rnFxSfA/Mjd`
+Snapshot ID: `AcNjAAAAAADgfdSv3W9/zXqXF8sY6ygk`

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 156151,
+  "num_followers": 156155,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABKXFmalY9AGs0KZcLuxPvu",
+  "snapshot_id": "achrgAAAAAAspvzNJH0UuISGPjMEa1cj",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
       "artists": [
         {
@@ -572,13 +572,17 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 170000,
-      "name": "GOTHAM",
-      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
       "added_at": null,
@@ -611,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
       "artists": [
         {
@@ -620,17 +624,13 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
+      "duration_ms": 170000,
+      "name": "GOTHAM",
+      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,
@@ -1147,18 +1147,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
       "artists": [
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 153413,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+      "duration_ms": 183196,
+      "name": "UM ERRO",
+      "url": "https://open.spotify.com/track/5cDqPZ79hO8LujICezKQm0"
     },
     {
       "added_at": null,
@@ -1195,26 +1203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
       },
       "artists": [
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 183196,
-      "name": "UM ERRO",
-      "url": "https://open.spotify.com/track/5cDqPZ79hO8LujICezKQm0"
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
     },
     {
       "added_at": null,

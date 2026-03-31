@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,900 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,901 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 26 | [Beat Up Guitar](https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:27 |
 | 27 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
 | 28 | [Givin' Up You](https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:26 |
-| 29 | [Wine O'Clock](https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:03 |
-| 30 | [Apple Pie And A .45](https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:45 |
+| 29 | [Apple Pie And A .45](https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:45 |
+| 30 | [Wine O'Clock](https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:03 |
 | 31 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
 | 32 | [Too Close](https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:39 |
 | 33 | [It Don't Hurt No More](https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:05 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 44 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 45 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 |
 | 46 | [Is There Anybody Up There?](https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:44 |
-| 47 | [The Push I Need](https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:48 |
-| 48 | [I'm A Woman](https://open.spotify.com/track/12hDJoPtsQCVIKmK7jWBpG) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Basie Swings The Blues](https://open.spotify.com/album/7cNYq2vwnvRkoi9g1eAl0d) | 4:58 |
-| 49 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
+| 47 | [I'm A Woman](https://open.spotify.com/track/12hDJoPtsQCVIKmK7jWBpG) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Basie Swings The Blues](https://open.spotify.com/album/7cNYq2vwnvRkoi9g1eAl0d) | 4:58 |
+| 48 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
+| 49 | [The Push I Need](https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:48 |
 | 50 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 |
 
-Snapshot ID: `accaAAAAAADcGhxOw3eSqjxUFRwfZmMy`
+Snapshot ID: `achrgAAAAABGtlS0mS+hl4p9Po+UPF2b`

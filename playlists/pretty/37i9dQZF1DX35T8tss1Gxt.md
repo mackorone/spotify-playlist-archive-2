@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Taylor Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,730 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,779 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 78 | [Gone With You](https://open.spotify.com/track/5f8CabVpyhXG7kNJ22zlWO) | [tentonELEPHANT.](https://open.spotify.com/artist/44ErpCyytvC0njkKSe5GsM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Gone With You](https://open.spotify.com/album/1XSGRFJe4rnQcwQZzPNaxh) | 2:09 |
 | 79 | [LET ME DOWN](https://open.spotify.com/track/24DvqkVz0xTfevjGTLTd5v) | [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [LET ME DOWN](https://open.spotify.com/album/2hJqKzdARQb8X0avjxZgV9) | 3:49 |
 
-Snapshot ID: `AAAAAP3CCenqCn/pJ/wMPJ0LkKPCcYXF`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

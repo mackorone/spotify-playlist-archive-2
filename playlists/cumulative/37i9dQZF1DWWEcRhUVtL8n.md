@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcolm Todd
 
-2,351 songs - 5 day 5 hr 11 min
+2,353 songs - 5 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-09-30 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-30 | 2024-06-11 |
 | [Blame Game](https://open.spotify.com/track/23YKtFHHfoCCgPN3jE7Ye0) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Blame Game](https://open.spotify.com/album/2ROajNedjFylk0fhSUeE2E) | 3:34 | 2021-01-15 | 2021-02-02 |
-| [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 | 2026-02-20 |  |
+| [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 | 2026-02-20 | 2026-03-31 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 | 2026-03-21 |
 | [Blindside](https://open.spotify.com/track/47iGN5FfJJnBSZWh5pz1bZ) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Blindside](https://open.spotify.com/album/2iPcf10Dnk8YCSjpnCNH3l) | 3:38 | 2022-04-08 | 2022-04-21 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-27 |
@@ -439,6 +439,7 @@
 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 | 2025-03-28 | 2026-02-21 |
 | [Come Home](https://open.spotify.com/track/6NpkEt1C0m5AnK13Y76qR5) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Come Home](https://open.spotify.com/album/3sSmnR952IGjKyhsNZlcxJ) | 3:43 | 2023-02-04 | 2023-02-11 |
 | [come on come on](https://open.spotify.com/track/0DtBLzMEDG3xWgr516VOM3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [come on come on](https://open.spotify.com/album/56zGeV8gCqo1RXNiOx6JJo) | 2:47 | 2021-01-17 | 2021-06-03 |
+| [Come To God](https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Come To God](https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo) | 2:37 | 2026-03-27 |  |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-06-03 | 2021-10-05 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-07 | 2024-11-21 |
 | [coming of age](https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [coming of age](https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5) | 2:38 | 2022-05-13 | 2022-07-29 |
@@ -1229,7 +1230,7 @@
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-10-20 | 2021-06-03 |
 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 4:14 | 2023-03-24 | 2024-02-01 |
 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-13 | 2023-03-16 |
-| [Letters From The Day](https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Letters From The Day](https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP) | 4:19 | 2025-12-12 |  |
+| [Letters From The Day](https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Letters From The Day](https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP) | 4:19 | 2025-12-12 | 2026-03-31 |
 | [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-16 | 2023-07-05 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 | 2026-03-06 |  |
@@ -1453,6 +1454,7 @@
 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 | 2022-03-04 | 2022-07-25 |
 | [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 | 2025-03-15 |
 | [Never Fucking Fall in Love Again](https://open.spotify.com/track/2KjjaYuZrYqTyau5doDnW3) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Never Fucking Fall in Love Again](https://open.spotify.com/album/0U6R4LjIiTa81tGQKWTDTd) | 2:21 | 2020-10-20 | 2020-10-21 |
+| [Never Let Go](https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Never Let Go](https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM) | 5:12 | 2026-03-27 |  |
 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2024-02-28 | 2024-06-17 |
 | [nevermind](https://open.spotify.com/track/6SzMMd1rNtyfj8bAgm2BLw) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [nevermind](https://open.spotify.com/album/7EKuPcaolXbxykekJyQo9K) | 2:56 | 2020-10-20 | 2021-06-03 |
 | [New Age Meds](https://open.spotify.com/track/4FaYk25oNcZClZ6tx5CE8R) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New Age Meds](https://open.spotify.com/album/4QyxAGwZ1rlb58wSY1oRu0) | 3:30 | 2020-10-20 | 2020-10-21 |

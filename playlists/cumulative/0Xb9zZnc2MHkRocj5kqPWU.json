@@ -1049,6 +1049,32 @@
     },
     {
       "album": {
+        "name": "Arise, Shine",
+        "url": "https://open.spotify.com/album/11R3cLGfVGBdpEA35PRKEI"
+      },
+      "artists": [
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        },
+        {
+          "name": "Sophia Membery",
+          "url": "https://open.spotify.com/artist/4HZTH0hcr5ioXuYK8d39G2"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259666,
+      "name": "Arise, Shine",
+      "url": "https://open.spotify.com/track/3g91h8Bl0vZnazbogwDMLJ"
+    },
+    {
+      "album": {
         "name": "Aurora piano rework",
         "url": "https://open.spotify.com/album/43e9dt7bF8oU9MRmD9dnus"
       },
@@ -2081,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/2Svpw3hziSZ69cU4e5qFE1"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Barrios Mangor\u00e9",
+          "url": "https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR"
+        },
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297053,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/7KxDekrdYuui0l7OzzBDJO"
+    },
+    {
+      "album": {
         "name": "Consolations, S. 172/No. 1 in E Major. Andante con moto",
         "url": "https://open.spotify.com/album/1dRMwnKO1N5OdyNxiEtyRB"
       },
@@ -2898,6 +2946,28 @@
       "duration_ms": 274346,
       "name": "Flight (feat. Jess Gillam)",
       "url": "https://open.spotify.com/track/34977Zr6C0jrt2hUM7qoYD"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/7xUH0H3d0V5NaEw86gpd0d"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213536,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/5xAe6C5gdoZD0v8JHHpQSB"
     },
     {
       "album": {
@@ -4117,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/6DrYfzWOrRTIV2FNZmDJVl"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187535,
+      "name": "L'\u00eele",
+      "url": "https://open.spotify.com/track/3FYUVdbHjh4OAL6dOPHJTt"
+    },
+    {
+      "album": {
         "name": "La fille aux cheveux de lin",
         "url": "https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy"
       },
@@ -4172,6 +4260,24 @@
       "duration_ms": 163160,
       "name": "La Sieste",
       "url": "https://open.spotify.com/track/48lCGg8M4kDMJk9SAsTWgO"
+    },
+    {
+      "album": {
+        "name": "Ithaca Flow",
+        "url": "https://open.spotify.com/album/71JbSSSTIWTkDq5uGkNJJc"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187477,
+      "name": "Laertes - Sleep Rework",
+      "url": "https://open.spotify.com/track/4oWzSKVDSJjJRnUWQAAako"
     },
     {
       "album": {
@@ -4340,6 +4446,24 @@
       "duration_ms": 111013,
       "name": "Laura (Piano Vision)",
       "url": "https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu"
+    },
+    {
+      "album": {
+        "name": "Laura Marling: What He Wrote",
+        "url": "https://open.spotify.com/album/3Z9NFXMRlkDKLqmNwZ3gtu"
+      },
+      "artists": [
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Laura Marling: What He Wrote",
+      "url": "https://open.spotify.com/track/28mrR89iMAn9mFGrpDUoEs"
     },
     {
       "album": {
@@ -4997,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/6DrYfzWOrRTIV2FNZmDJVl"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217203,
+      "name": "Montmartre",
+      "url": "https://open.spotify.com/track/4h5joNCA2vVBrb6SuaCX0F"
+    },
+    {
+      "album": {
         "name": "Moszkowski Piano Concerto Variation (After Piano Concerto No. 2, Op. 59, II. Andante) [Arr. for Piano by Jan-Peter Kl\u00f6pfel]",
         "url": "https://open.spotify.com/album/3RCdp1utfzII99zTrsEgRM"
       },
@@ -5487,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "Of Love",
+        "url": "https://open.spotify.com/album/25oLqEVvAKsitF8EM9le2q"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219074,
+      "name": "Of Love",
+      "url": "https://open.spotify.com/track/5nCXByE5w0fc2zwpcbNPL9"
+    },
+    {
+      "album": {
         "name": "Of Time 1 (JS Bach Variation)",
         "url": "https://open.spotify.com/album/27FLhPtg5kFLshLwk69WpX"
       },
@@ -5827,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "Les Rayons et les Ombres (Bande originale du film)",
+        "url": "https://open.spotify.com/album/7adJkbJQhdAD0DrZYYs13O"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Roussel",
+          "url": "https://open.spotify.com/artist/0t8ueo26TERMirdkaKKgSP"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158960,
+      "name": "Parisienne",
+      "url": "https://open.spotify.com/track/3q85OjVoflyehu83O1f7E3"
+    },
+    {
+      "album": {
         "name": "Baroque",
         "url": "https://open.spotify.com/album/21RQ5ToNB79hGsqOobGGQi"
       },
@@ -5894,6 +6072,24 @@
       "duration_ms": 161933,
       "name": "Pavane, Op. 50 (Arr. for Violin, Cello and Piano by Ehsan Mohagheghi Fard)",
       "url": "https://open.spotify.com/track/0hVl0ef4yDfvp19ymr53zi"
+    },
+    {
+      "album": {
+        "name": "Ithaca Flow",
+        "url": "https://open.spotify.com/album/71JbSSSTIWTkDq5uGkNJJc"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223103,
+      "name": "Pax Athanae - Sleep Rework",
+      "url": "https://open.spotify.com/track/2MTtwT4s6R5vYcpL5m5nAs"
     },
     {
       "album": {
@@ -6418,6 +6614,24 @@
       "duration_ms": 111706,
       "name": "Prelude Piano Variation (After Prelude from Violin Sonata in F Major, Op. 5, No. 10)",
       "url": "https://open.spotify.com/track/778Yq1brkZsJPZxMMb7BcS"
+    },
+    {
+      "album": {
+        "name": "Primapulsa",
+        "url": "https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147728,
+      "name": "Primapulsa",
+      "url": "https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq"
     },
     {
       "album": {
@@ -7009,6 +7223,28 @@
     },
     {
       "album": {
+        "name": "Scarlatti: Sonata in F Minor, K 466",
+        "url": "https://open.spotify.com/album/16QD38J0i5443CHsFoHb8T"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362173,
+      "name": "Scarlatti: Sonata in F Minor, K 466",
+      "url": "https://open.spotify.com/track/6QGxnINJMTLBw4cKV9mvxU"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Transkriptionen",
         "url": "https://open.spotify.com/album/4qGx5P38CjSiWvW6hCwEbq"
       },
@@ -7046,6 +7282,28 @@
       "duration_ms": 121480,
       "name": "Schubert Andantino Variation (arr. from Piano Sonata in A Major, D. 959 by Dirk Maassen)",
       "url": "https://open.spotify.com/track/5rdoVYazMiHKOImxSNCBgq"
+    },
+    {
+      "album": {
+        "name": "Kinderszenen, Op.15/VII. Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/36EZtqxqwmHC0pGgDpK1Hd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "Schumann: Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/09TW4n0avALTSmPsnmFoxc"
     },
     {
       "album": {
@@ -7432,6 +7690,28 @@
       "duration_ms": 139205,
       "name": "Song of the Fisherwomen",
       "url": "https://open.spotify.com/track/5i6mMKs41lWpHSLe2sawc3"
+    },
+    {
+      "album": {
+        "name": "Spring Meditation (After Polish Songs, Op. 74, No. 2: Wiosna)",
+        "url": "https://open.spotify.com/album/7nUzFRvgcuCZt38CTQeN9Y"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173018,
+      "name": "Spring Meditation (After Polish Songs, Op. 74, No. 2: Wiosna)",
+      "url": "https://open.spotify.com/track/3yZl0Mupui6mxC9Y2zP2um"
     },
     {
       "album": {
@@ -8018,6 +8298,24 @@
       "duration_ms": 264360,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/1DaUE599Sj6oJztgqGc3dF"
+    },
+    {
+      "album": {
+        "name": "The Silent Dialogue",
+        "url": "https://open.spotify.com/album/0IKQ74y8GWckLRZyZd3BRa"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132973,
+      "name": "The Silent Dialogue",
+      "url": "https://open.spotify.com/track/2MzSEgZxzBrQ2GSTKfQXaM"
     },
     {
       "album": {

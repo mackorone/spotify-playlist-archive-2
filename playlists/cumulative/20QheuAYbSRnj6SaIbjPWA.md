@@ -4,7 +4,7 @@
 
 > 2021
 
-170 songs - 11 hr 32 min
+172 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-06-30 |  |
 | [Face In The Picture](https://open.spotify.com/track/2Fo9ObbJQsDOqdUT3zN14t) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Face In the Picture](https://open.spotify.com/album/3iCcMrg5ljQmVyxLsV2M0K) | 2:44 | 2025-01-14 |  |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2025-08-24 |  |
+| [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 | 2026-03-30 |  |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2023-11-28 |  |
 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 | 2023-10-17 |  |
 | [Free Fallin'](https://open.spotify.com/track/60NdsqyuYa6QSeEJEbHKfP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Failure](https://open.spotify.com/album/3Fb7UeC7wyXOsoSjAwQdMV) | 4:40 | 2025-09-15 |  |
@@ -170,6 +171,7 @@
 | [Wandering Nomad](https://open.spotify.com/track/03l0rO4IIIuGWqOujIJXOK) | [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Good Days](https://open.spotify.com/album/7zZWkvMoTkylBihC81VqDd) | 2:53 | 2022-07-01 |  |
 | [What Was I Made For? \(Epilogue\) \- Instrumental Version](https://open.spotify.com/track/5n6l4Q0qiVOQ55B0OvOfVr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:32 | 2025-02-05 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2023-09-02 |  |
+| [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2026-03-30 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2023-08-11 | 2024-01-26 |
 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 | 2025-01-13 |  |
 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2024-01-14 |  |

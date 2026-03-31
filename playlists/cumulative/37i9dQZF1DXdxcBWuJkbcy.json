@@ -5953,6 +5953,28 @@
     },
     {
       "album": {
+        "name": "Euro Dollar Yen",
+        "url": "https://open.spotify.com/album/4q7Gg46v8LBTkKMyMZM1rf"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156568,
+      "name": "Euro Dollar Yen",
+      "url": "https://open.spotify.com/track/3ANnIrR04vDdQ3yRpmpV5R"
+    },
+    {
+      "album": {
         "name": "Every Battle",
         "url": "https://open.spotify.com/album/2FYVe0lquh5aLgbT9aB6uz"
       },

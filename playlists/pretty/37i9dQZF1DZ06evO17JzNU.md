@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,053 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,055 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 24 | [Suerte No Fue](https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Suerte No Fue](https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi) | 3:11 |
 | 25 | [Jhonnie Walker](https://open.spotify.com/track/30bz0ig7eM3zzppKa93BPT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 2:17 |
 | 26 | [130](https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe) | 3:03 |
-| 27 | [Amor Que Duele](https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 3:10 |
-| 28 | [Bloody Steps](https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bloody Steps](https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY) | 3:15 |
+| 27 | [Bloody Steps](https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bloody Steps](https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY) | 3:15 |
+| 28 | [Amor Que Duele](https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 3:10 |
 | 29 | [Ahora Piden Paros](https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD) | 2:19 |
 | 30 | [La Vida Recia](https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:08 |
 | 31 | [El Muchachon](https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchachon](https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN) | 3:21 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 40 | [Muchos Se Burlaron](https://open.spotify.com/track/0pV7q3SQa4c8C7etLHntxF) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 2:59 |
 | 41 | [Bola De Corrientes](https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Bola De Corrientes](https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm) | 3:39 |
 | 42 | [Sapo 777](https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Sapo 777](https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo) | 3:16 |
-| 43 | [Son 4 Rifando](https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Son 4 Rifando](https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh) | 2:19 |
-| 44 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
+| 43 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
+| 44 | [Son 4 Rifando](https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Son 4 Rifando](https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh) | 2:19 |
 | 45 | [FUIMOS CASI ALGO](https://open.spotify.com/track/5juswOHyQNEBSC5b9WQWXn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:41 |
 | 46 | [Rose Coke](https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Rose Coke](https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII) | 2:46 |
 | 47 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
 | 50 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
 
-Snapshot ID: `accaAAAAAADNla/zGhcLvQ+SSg39eXKt`
+Snapshot ID: `achrgAAAAACDyWOZ/l/Dvf33RRthjWT4`

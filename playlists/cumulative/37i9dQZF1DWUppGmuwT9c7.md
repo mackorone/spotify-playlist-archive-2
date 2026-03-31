@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-160 songs - 7 hr 43 min
+161 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 | 2025-07-14 |  |
 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 | 2025-07-14 | 2025-09-05 |
 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 | 2025-07-14 |  |
-| [Kroegentocht](https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Kroegentocht](https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP) | 2:33 | 2025-12-04 |  |
+| [Kroegentocht](https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Kroegentocht](https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP) | 2:33 | 2025-12-04 | 2026-03-31 |
 | [Kroegtijger](https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kroegtijger](https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi) | 2:49 | 2025-09-04 |  |
 | [Laat De Zon In Je Hart](https://open.spotify.com/track/7drS8Zj5rq3usSZY1e5crj) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Vanaf Vandaag](https://open.spotify.com/album/0lpxldNjICOrFahnXfprEI) | 3:25 | 2025-07-14 |  |
 | [Laat Mij Nu Alleen](https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Laat Mij Nu Alleen](https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR) | 2:15 | 2025-07-14 | 2025-08-09 |
@@ -149,6 +149,7 @@
 | [Vandaag Ben Ik Van Jou](https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Vandaag Ben Ik Van Jou](https://open.spotify.com/album/6kQ7PZDZMsHTrQwL8sqt4f) | 2:57 | 2025-07-14 | 2025-08-09 |
 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 | 2025-07-14 |  |
 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 | 2025-07-14 |  |
+| [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 | 2026-03-30 |  |
 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 | 2025-10-16 | 2025-11-07 |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-07-14 |  |
 | [Wat Een Plezier](https://open.spotify.com/track/2EQADDlKBRcITByxWX5upT) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Wat Een Plezier](https://open.spotify.com/album/67R5Zi52SgiuyIJ2xbDS1K) | 2:36 | 2025-07-14 | 2025-08-09 |

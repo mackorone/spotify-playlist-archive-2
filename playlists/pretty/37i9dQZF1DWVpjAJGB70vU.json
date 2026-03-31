@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2175325,
+  "num_followers": 2175922,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Third Rock From The Sun",
-        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 178493,
       "name": "Hard Workin' Man",
       "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Third Rock From The Sun",
+        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "You've Got to Stand for Something",
         "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Brand New Man",
         "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 197640,
       "name": "Boot Scootin' Boogie",
       "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Is There Life Out There",
-      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Be Good At It",
         "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 213333,
       "name": "The Shake",
       "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Is There Life Out There",
+      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
     },
     {
       "added_at": "2026-02-11 22:52:29",

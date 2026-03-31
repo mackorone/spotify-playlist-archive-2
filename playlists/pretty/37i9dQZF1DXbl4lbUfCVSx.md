@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,529 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,535 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 12 | [Ti manmi](https://open.spotify.com/track/74PII6iDa5Rn7dY5eS2mx2) | [L Won](https://open.spotify.com/artist/1kRfVuceSK92E3iO5uT4dT) | [Welcome](https://open.spotify.com/album/5V1uYLqtA3oVcAyRg58WaD) | 2:32 |
 | 13 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
 | 14 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
-| 15 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
+| 15 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
 | 16 | [Se ou'l ye](https://open.spotify.com/track/4ep65mItDTJ5f1O5CdW5V6) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh) | [I'M OK](https://open.spotify.com/album/6TA3ulRMkO8UuBXKyBZgaO) | 4:05 |
-| 17 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
+| 17 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
 | 18 | [Pi Bon Chwa](https://open.spotify.com/track/4nJhXIVIs9g5yIHfGIvt6d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 3:07 |
 | 19 | [Spicy](https://open.spotify.com/track/3bLv5xvPDnSlIebugPc7sQ) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Spicy](https://open.spotify.com/album/2MHBqVE1knQkujPWYKBVWh) | 2:58 |
 | 20 | [DIS MOI](https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [DIS MOI](https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy) | 3:50 |

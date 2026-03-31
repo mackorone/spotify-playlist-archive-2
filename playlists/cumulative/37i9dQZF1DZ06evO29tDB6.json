@@ -990,10 +990,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 314240,
       "name": "Nunca digas que no",
       "url": "https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy"
+    },
+    {
+      "album": {
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314240,
+      "name": "Nunca digas que no",
+      "url": "https://open.spotify.com/track/32f9OzuvcqB6JQDaEP3Ej8"
     },
     {
       "album": {

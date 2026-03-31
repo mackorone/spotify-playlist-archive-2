@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,599 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,611 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 12 | [همس المشاعر](https://open.spotify.com/track/7tcCZMLo0OoIrh6QyzuaOv) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [مسلسل حكاية حياة](https://open.spotify.com/album/0beBD3oFWxap1ONghGammh) | 4:51 |
 | 13 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 14 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
-| 15 | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/track/6HJVfj3VeFOcAkPNpYx7G7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/album/0kWVuEQEr1CJeuiHWzdl15) | 2:42 |
-| 16 | [أفوق لكرامتي](https://open.spotify.com/track/4WmLQxbEDu8hhCWsYUAQdg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أفوق لكرامتي](https://open.spotify.com/album/27h9OLJPaW6eukA0SuuNel) | 3:46 |
-| 17 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 |
+| 15 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 |
+| 16 | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/track/6HJVfj3VeFOcAkPNpYx7G7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/album/0kWVuEQEr1CJeuiHWzdl15) | 2:42 |
+| 17 | [أفوق لكرامتي](https://open.spotify.com/track/4WmLQxbEDu8hhCWsYUAQdg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أفوق لكرامتي](https://open.spotify.com/album/27h9OLJPaW6eukA0SuuNel) | 3:46 |
 | 18 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
 | 19 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
 | 20 | [انا وانت سوا](https://open.spotify.com/track/1f2hNkDAGoVfjH4wIY7kzJ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا وانت سوا](https://open.spotify.com/album/0l5B4ZOolT5fasPcru5Qc7) | 2:34 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 50 | [اهل كايرو](https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [اهل كايرو](https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS) | 3:30 |
 | 51 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
 | 52 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
-| 53 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
-| 54 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 53 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 54 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
 | 55 | [Etdaret](https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Etdaret](https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE) | 3:43 |
 | 56 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
 | 57 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 |

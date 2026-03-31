@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,495 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,582 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 2 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
+| 1 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
+| 2 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 3 | [Got You Right](https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Got You Right](https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6) | 3:25 |
 | 4 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 5 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 79 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 80 | [Let Her Go](https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights](https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1) | 4:12 |
 | 81 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
-| 82 | [Heartbeats](https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG) | 2:40 |
-| 83 | [Hey There Delilah](https://open.spotify.com/track/0xM88xobymkMgg46MStfnV) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT) | 3:52 |
+| 82 | [Hey There Delilah](https://open.spotify.com/track/0xM88xobymkMgg46MStfnV) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT) | 3:52 |
+| 83 | [Heartbeats](https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG) | 2:40 |
 | 84 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 85 | [The Night We Met](https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8) | 3:28 |
 | 86 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
-| 87 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
-| 88 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
+| 87 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
+| 88 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
 | 89 | [This Love \- Acoustic](https://open.spotify.com/track/3uYzfyifC7J1j1IEjN1xz6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 4:15 |
 | 90 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 |
 | 91 | [Wonderful Life](https://open.spotify.com/track/0cqLFzFYsQurUI3McUZkLg) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Wonderful Life](https://open.spotify.com/album/5PzrmeHkX1u2Gt4j4O4oYr) | 4:07 |

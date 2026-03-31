@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,476 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,500 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 22 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 23 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
 | 24 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
-| 25 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
+| 25 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 26 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
-| 27 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
+| 27 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
 | 28 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 29 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 30 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 44 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 45 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
 | 46 | [Tensoon](https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Tensoon](https://open.spotify.com/album/5rmVFzFZ2rwZDwrVg5HVfj) | 3:57 |
-| 47 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
-| 48 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
+| 47 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
+| 48 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 | 49 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
 | 50 | [Who I Am](https://open.spotify.com/track/06Jz0fCBIazg682Rl0OUyA) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Who I Am](https://open.spotify.com/album/5rnzEG84btgV1sLI0N9eFQ) | 3:13 |
 

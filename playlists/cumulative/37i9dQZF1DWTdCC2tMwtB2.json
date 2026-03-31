@@ -68,7 +68,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 183536,
       "name": "Assi Sajna",
       "url": "https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd"
@@ -339,6 +339,32 @@
     },
     {
       "album": {
+        "name": "Haseen",
+        "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        },
+        {
+          "name": "Rippy Grewal",
+          "url": "https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Haseen",
+      "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
+    },
+    {
+      "album": {
         "name": "Heer Ranjha",
         "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
       },
@@ -490,7 +516,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 163200,
       "name": "Khileya",
       "url": "https://open.spotify.com/track/0WvjrHwSrm0ZfhRGje2j2W"
@@ -541,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Pagalpan - The Album",
+        "url": "https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270080,
+      "name": "Kya Bataun Tujhe",
+      "url": "https://open.spotify.com/track/7wg6IOI3dapIER6r1Sz5eS"
+    },
+    {
+      "album": {
         "name": "Lahore",
         "url": "https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N"
       },
@@ -552,7 +596,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 197390,
       "name": "Lahore",
       "url": "https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC"
@@ -709,6 +753,32 @@
     },
     {
       "album": {
+        "name": "Raja Hindustani",
+        "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212713,
+      "name": "Maza Pyaar Karne Mein (feat. Kumar Sanu)",
+      "url": "https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7"
+    },
+    {
+      "album": {
         "name": "Milenge Hum Nahi",
         "url": "https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K"
       },
@@ -764,7 +834,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 178000,
       "name": "O Beliya",
       "url": "https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC"
@@ -820,10 +890,36 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 309266,
       "name": "Qismat Badal Di (From \"Yodha\")",
       "url": "https://open.spotify.com/track/30YqoekCI5XuWys0rD9lLL"
+    },
+    {
+      "album": {
+        "name": "RAINA",
+        "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217192,
+      "name": "RAINA",
+      "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
     },
     {
       "album": {
@@ -926,7 +1022,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 219632,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO"
@@ -948,6 +1044,46 @@
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
       "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
+    },
+    {
+      "album": {
+        "name": "The Last Letter",
+        "url": "https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Mazaak",
+          "url": "https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169941,
+      "name": "The Last Letter",
+      "url": "https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
     },
     {
       "album": {

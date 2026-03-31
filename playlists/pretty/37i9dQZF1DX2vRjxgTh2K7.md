@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 
 > The official soundtrack and score of Project Hail Mary, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,664 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,040 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
-| 2 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 |
-| 3 | [El Amanecer \- 1a Version](https://open.spotify.com/track/4oYENSo4OoiiVW8cvNdJSd) | [Carlos Di Sarli y su Orquesta Típica](https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU) | [Serie 78 RPM : Carlos Di Sarli Vol.2](https://open.spotify.com/album/2O59zcsHXWL8de10JAfwFc) | 2:21 |
-| 4 | [Rainbows](https://open.spotify.com/track/0mONC9WyQSPG869cO2zfIL) | [Dennis Wilson](https://open.spotify.com/artist/5gl6pfPwJ1coivVUMZPiS9) | [Pacific Ocean Blue & Bambu \- 2 CD Deluxe Legacy Edition](https://open.spotify.com/album/08CyNpU6VJMtGmR7DYjNmQ) | 2:47 |
-| 5 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
+| 1 | [Sunday Morning Comin' Down](https://open.spotify.com/track/7MF59N5Uhql4yd68wzCraQ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 4:32 |
+| 2 | [Pata Pata](https://open.spotify.com/track/3ee1W3Xt6sphAgNeuEoGo2) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 3:01 |
+| 3 | [El Amanecer](https://open.spotify.com/track/7eHcjNLTgxivtGrH99QWqb) | [Carlos Di Sarli y su Orquesta Típica](https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 2:26 |
+| 4 | [Rainbows](https://open.spotify.com/track/2abfW2W0CgBtsojdK81wrn) | [Dennis Wilson](https://open.spotify.com/artist/5gl6pfPwJ1coivVUMZPiS9) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 2:47 |
+| 5 | [Wind of Change](https://open.spotify.com/track/2pEWDK3XARzvTmUFJ4fMaK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 5:08 |
 | 6 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
-| 7 | [Po Atarau](https://open.spotify.com/track/6Fm975KYRkkq7O6va7gWCr) | [Turakina Maori Girls Choir](https://open.spotify.com/artist/2fv3jVAkZ4y5e6JquQ7LMv) | [Kia Ora](https://open.spotify.com/album/1sEagZ2Ku4Klaimpk3QBzI) | 0:51 |
-| 8 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
+| 7 | [Po Atarau](https://open.spotify.com/track/2atjs3n7Da36ygUX9i80Fz) | [Turakina Maori Girls Choir](https://open.spotify.com/artist/2fv3jVAkZ4y5e6JquQ7LMv) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 0:51 |
+| 8 | [Gracias A La Vida](https://open.spotify.com/track/0Y7LvRJWXhUDASLmiugH1z) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 4:22 |
 | 9 | [Two Of Us \- Remastered 2009](https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:36 |
-| 10 | [Stargazer](https://open.spotify.com/track/7zsJeMvXZbYvcrTt7TrPYv) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Beautiful Noise](https://open.spotify.com/album/5fCDkUPdEk9yDmZ5nOhwSI) | 2:43 |
-| 11 | [Glory, Glory](https://open.spotify.com/track/6sugSdBmAyzy5XPNanBSzL) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The Gospel According To Ike And Tina](https://open.spotify.com/album/5rXjcoATK6snwgCM3QpRMZ) | 3:13 |
+| 10 | [Stargazer](https://open.spotify.com/track/1F9H21t3SqR3643NiffUKU) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 2:42 |
+| 11 | [Glory, Glory](https://open.spotify.com/track/7nPggvXVNWIZD08tZsax0X) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Project Hail Mary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak) | 3:13 |
 | 12 | [Ryland Grace, Cognition Assessment \- from "Project Hail Mary"](https://open.spotify.com/track/5jIgkhFUl6c6htlj1iCGcj) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 4:47 |
 | 13 | [Last Man on Ship \- from "Project Hail Mary"](https://open.spotify.com/track/7sQuNJ5i8tI0TjNMUVd9i8) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 2:36 |
 | 14 | [Invalid Operation \- from "Project Hail Mary"](https://open.spotify.com/track/7DS1pfH8IoteDcvZOjayeh) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 2:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 | 48 | [Believe in the Hail Mary \- from "Project Hail Mary"](https://open.spotify.com/track/5PPz4cYhvi0ZWCO9xj8fNN) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 3:57 |
 | 49 | [Amaze Amaze Amaze \(Life on Erid\) \- from "Project Hail Mary"](https://open.spotify.com/track/7hw7VMjvTVoF58kVgWeLNM) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 3:04 |
 
-Snapshot ID: `AAAAANtldetsaZaO9qOgDuKgkJZw3bje`
+Snapshot ID: `AAAAAFzCYQzoXYI8RfhVhzDarqKj+RbQ`

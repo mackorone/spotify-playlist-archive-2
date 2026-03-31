@@ -2987,6 +2987,28 @@
     },
     {
       "album": {
+        "name": "BERLUSCONI",
+        "url": "https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "NiceKidd",
+          "url": "https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126947,
+      "name": "BERLUSCONI",
+      "url": "https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4"
+    },
+    {
+      "album": {
         "name": "Berserker",
         "url": "https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP"
       },
@@ -13212,7 +13234,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 149506,
       "name": "Minacce",
       "url": "https://open.spotify.com/track/0JA9UPcgQ5avstU5IL23yE"

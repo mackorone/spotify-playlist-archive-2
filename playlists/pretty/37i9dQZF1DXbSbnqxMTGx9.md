@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,197,280 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,197,562 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,15 +96,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 86 | [Stir It Up](https://open.spotify.com/track/452CB7U24P2K6HiBS4PRY4) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [The Best Of Bob Marley & The Wailers 20th Century Masters The Millennium Collection](https://open.spotify.com/album/74dSntt5j1iLVDmGguRmwj) | 3:07 |
 | 87 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 88 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
-| 89 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
+| 89 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
 | 90 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 91 | [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 |
-| 92 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
-| 93 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
-| 94 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 95 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
-| 96 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 97 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
+| 92 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
+| 93 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
+| 94 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
+| 95 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 96 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
+| 97 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
 | 98 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
 | 99 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 | 100 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |

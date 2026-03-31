@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 514688,
+  "num_followers": 514711,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Starland Vocal Band",
         "url": "https://open.spotify.com/album/5DDpGgEdJKpH99oD4jlvQ8"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Exodus (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC"
     },
     {
       "added_at": "2024-06-03 14:45:23",

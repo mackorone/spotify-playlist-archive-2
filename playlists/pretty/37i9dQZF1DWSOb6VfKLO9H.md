@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,224 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,255 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 65 | [Hele Meneer](https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Hele Meneer \#Dingems \- EP](https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia) | 2:43 |
 | 66 | [Volgende Stap](https://open.spotify.com/track/7vIlKSC5fcyNhDBaQyFTxM) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ik Leef](https://open.spotify.com/album/2ibLsqb4jdCcfC7iy6PZCH) | 3:20 |
 | 67 | [Op De Weg \(feat\. Adje & CHO\)](https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [Reloaded](https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu) | 3:04 |
-| 68 | [Niet Zo](https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [We Doen Ons Best](https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp) | 2:55 |
-| 69 | [Go Go Club](https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Nachtvlinder](https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5) | 2:27 |
+| 68 | [Go Go Club](https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Nachtvlinder](https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5) | 2:27 |
+| 69 | [Niet Zo](https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [We Doen Ons Best](https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp) | 2:55 |
 | 70 | [My Love](https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [My Love](https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE) | 4:03 |
 | 71 | [Hans Betaalt De Schade \(feat\. Chivv & Henkie T\)](https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3) | [Delivio Reavon](https://open.spotify.com/artist/3SvtTg5cUQ4XDX3AP4c6Tv), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mr.Ontspannen](https://open.spotify.com/artist/1DNnuZUOSZpx3FqW4h1S0d), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Hans Betaalt De Schade \(feat\. Chivv & Henkie T\)](https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6) | 2:54 |
 | 72 | [My Bébé](https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [My Bébé](https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp) | 2:34 |

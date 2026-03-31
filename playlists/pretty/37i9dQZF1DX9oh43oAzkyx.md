@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,848,890 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,849,118 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 36 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 37 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
 | 38 | [Hello](https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:35 |
-| 39 | [B.B.B.](https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Genesisthegawd](https://open.spotify.com/artist/4Sn6QtpIRLwt5mtQBbzcOu) | [B.B.B.](https://open.spotify.com/album/2cuHPmCMw1FbcYjzFnYxX5) | 2:20 |
-| 40 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
+| 39 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
+| 40 | [B.B.B.](https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Genesisthegawd](https://open.spotify.com/artist/4Sn6QtpIRLwt5mtQBbzcOu) | [B.B.B.](https://open.spotify.com/album/2cuHPmCMw1FbcYjzFnYxX5) | 2:20 |
 | 41 | [SHYNE](https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:13 |
 | 42 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 | 43 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |

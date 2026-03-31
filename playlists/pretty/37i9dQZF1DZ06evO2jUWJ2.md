@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,420 likes - 50 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,495 likes - 50 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Unstoppable God](https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:21 |
 | 50 | [Wait On You \(feat\. Dante Bowe & Chandler Moore\)](https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:24 |
 
-Snapshot ID: `accaAAAAAADl7nrOD0cDN+VPq0qk4UUH`
+Snapshot ID: `achrgAAAAADsJLd8yVkgLcX02UTVvUaf`

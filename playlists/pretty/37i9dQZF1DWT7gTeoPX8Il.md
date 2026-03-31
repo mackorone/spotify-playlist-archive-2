@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,128 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,199 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,19 +41,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 31 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
 | 32 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
 | 33 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
-| 34 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
-| 35 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
+| 34 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
+| 35 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
 | 36 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
 | 37 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
 | 38 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 |
 | 39 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
 | 40 | [Bukan Untukku](https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bukan Untukku](https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv) | 3:52 |
-| 41 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
-| 42 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
-| 43 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
+| 41 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
+| 42 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
+| 43 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
 | 44 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
-| 45 | [Kuharap Duka Ini Selamanya](https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Kuharap Duka Ini Selamanya](https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts) | 4:22 |
-| 46 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 |
+| 45 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 |
+| 46 | [Kuharap Duka Ini Selamanya](https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Kuharap Duka Ini Selamanya](https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts) | 4:22 |
 | 47 | [Peluk](https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL), [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Peluk](https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q) | 4:03 |
 | 48 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
 | 49 | [Sendiri](https://open.spotify.com/track/5gecy5VJBKgLMwj8q3OoR9) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Sendiri](https://open.spotify.com/album/6qa8phimspRLQ5Zh5gJPgQ) | 3:12 |

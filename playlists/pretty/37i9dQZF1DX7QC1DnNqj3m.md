@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,193 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,198 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 15 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
 | 16 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 17 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
-| 18 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
-| 19 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
+| 18 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
+| 19 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 20 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
 | 21 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
 | 22 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 56 | [I Heard It Through The Grapevine](https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 3:16 |
 | 57 | [Hurt Me So Good](https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:31 |
 | 58 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 59 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
-| 60 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |
+| 59 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |
+| 60 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
 | 61 | [Illusions](https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Illusions](https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz) | 3:36 |
 | 62 | [Sun Is Gone](https://open.spotify.com/track/0Rkdov9ktWGjqOqy9MQ8XP) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Sun Is Gone](https://open.spotify.com/album/1khO1egdgcjU26efaTHLb0) | 2:40 |
 | 63 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |

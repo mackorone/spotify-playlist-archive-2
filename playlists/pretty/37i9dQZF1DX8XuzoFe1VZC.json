@@ -1,6 +1,6 @@
 {
   "description": "Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas \ud83c\udf51",
-  "num_followers": 541000,
+  "num_followers": 541018,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-03-20 03:00:25",
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2026-03-20 03:00:25",
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 187507,
       "name": "WELTiTA",
       "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"
-    },
-    {
-      "added_at": "2026-03-20 03:00:25",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "added_at": "2026-03-20 03:00:25",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-03-20 03:00:25",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
-    },
-    {
-      "added_at": "2026-03-20 03:00:25",
-      "album": {
         "name": "YO y T\u00da",
         "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "added_at": "2026-03-20 03:00:25",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2026-03-20 03:00:25",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-20 03:00:25",
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2026-03-20 03:00:25",
-      "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+    },
+    {
+      "added_at": "2026-03-20 03:00:25",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2026-03-20 03:00:25",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-03-20 03:00:25",
       "album": {
-        "name": "Universidad",
-        "url": "https://open.spotify.com/album/3hqIUFKHSl6tnlKIY8tRF9"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 156377,
-      "name": "Universidad",
-      "url": "https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7"
-    },
-    {
-      "added_at": "2026-03-20 03:00:25",
-      "album": {
         "name": "Un Finde | CROSSOVER #2",
         "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2026-03-20 03:00:25",
+      "album": {
+        "name": "Universidad",
+        "url": "https://open.spotify.com/album/3hqIUFKHSl6tnlKIY8tRF9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 156377,
+      "name": "Universidad",
+      "url": "https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7"
     },
     {
       "added_at": "2026-03-20 03:00:25",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-03-20 03:00:25",
       "album": {
-        "name": "Beat Yourself Up",
-        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "Beat Yourself Up",
-      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
-    },
-    {
-      "added_at": "2026-03-20 03:00:25",
-      "album": {
         "name": "blackout \ud83e\uddca",
         "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
+    },
+    {
+      "added_at": "2026-03-20 03:00:25",
+      "album": {
+        "name": "Beat Yourself Up",
+        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "Beat Yourself Up",
+      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
     },
     {
       "added_at": "2026-03-20 03:00:25",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-03-20 03:00:25",
       "album": {
-        "name": "Buenos D\u00edas",
-        "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
-    },
-    {
-      "added_at": "2026-03-20 03:00:25",
-      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
+    },
+    {
+      "added_at": "2026-03-20 03:00:25",
+      "album": {
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
     },
     {
       "added_at": "2026-03-20 03:00:25",

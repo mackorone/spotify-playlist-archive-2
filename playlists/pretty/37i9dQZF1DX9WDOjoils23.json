@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 38830,
+  "num_followers": 38868,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-03-25 13:12:35",
       "album": {
+        "name": "Dil Nu",
+        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
+      },
+      "artists": [
+        {
+          "name": "Sukhjinder Alfaaz",
+          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
+        }
+      ],
+      "duration_ms": 271749,
+      "name": "Dil Nu",
+      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
+    },
+    {
+      "added_at": "2026-03-25 13:12:35",
+      "album": {
         "name": "Bemisaal Jagjit Singh",
         "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 645097,
       "name": "Meriyaan Udaasiyann",
       "url": "https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD"
-    },
-    {
-      "added_at": "2026-03-25 13:12:35",
-      "album": {
-        "name": "Dil Nu",
-        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
-      },
-      "artists": [
-        {
-          "name": "Sukhjinder Alfaaz",
-          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
-        }
-      ],
-      "duration_ms": 271749,
-      "name": "Dil Nu",
-      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
     },
     {
       "added_at": "2026-03-25 13:12:35",

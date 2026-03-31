@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Vasilis Karras
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,336 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,342 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 38 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 |
 | 39 | [Me 'Geia Sou](https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Me 'Geia Sou](https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l) | 3:42 |
 | 40 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 |
-| 41 | [Mavra Matia](https://open.spotify.com/track/3KpyeBandv07ri3WUu111o) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Mavra Matia](https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z) | 3:01 |
-| 42 | [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 |
+| 41 | [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 |
+| 42 | [Mavra Matia](https://open.spotify.com/track/3KpyeBandv07ri3WUu111o) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Mavra Matia](https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z) | 3:01 |
 | 43 | [Simera \- Unplugged](https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Unplugged 2025](https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE) | 3:37 |
 | 44 | [Isitirio Ena](https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Isitirio Ena](https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11) | 3:43 |
 | 45 | [San To Louloudi](https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK) | [San To Louloudi](https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2) | 3:13 |

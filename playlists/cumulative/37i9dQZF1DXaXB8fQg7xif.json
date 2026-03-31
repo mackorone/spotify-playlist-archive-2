@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Bad & U Know It",
+        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191669,
+      "name": "Bad & U Know It",
+      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
+    },
+    {
+      "album": {
         "name": "Bad Boy (feat. bbno$) [Low Steppa Remix]",
         "url": "https://open.spotify.com/album/18g9uBlpNGzfOc7bs7TE6P"
       },
@@ -10120,7 +10142,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,554 likes - 44 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,575 likes - 44 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 43 | [I Remember You \- Remastered 2004](https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:15 |
 | 44 | [Do It the Hard Way](https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:03 |
 
-Snapshot ID: `accaAAAAAADFhjc6/QengSSVqBI4b8ZZ`
+Snapshot ID: `achrgAAAAABI/GnO/bVkonpwwYq+5JJW`

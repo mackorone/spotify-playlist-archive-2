@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 153273,
+  "num_followers": 153311,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Nos Hizo Falta Tiempo",
         "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 166500,
       "name": "Nos Hizo Falta Tiempo",
       "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 233525,
       "name": "Traigo Canciones",
       "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "En la Intimidad",
-        "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Puente",
-          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Mi Ciudad",
-      "url": "https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 326266,
       "name": "Popurri a Vicente Fernandez: De Qu\u00e9 Manera Te Olvido? / Tu Camino y el M\u00edo / Si Acaso Vuelves / Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/2E1PZkiCEH6XDtqIP5TR2O"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "En la Intimidad",
+        "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Puente",
+          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Mi Ciudad",
+      "url": "https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
-      },
-      "artists": [
-        {
-          "name": "Romanticos De La Guitarra",
-          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Mexico Lindo y Querido",
-      "url": "https://open.spotify.com/track/6kUb9SK5nzn0HjDiLA61mx"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1267,34 +1251,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Los Poetas de la Guitarra",
-        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
+          "name": "Romanticos De La Guitarra",
+          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
         }
       ],
-      "duration_ms": 212973,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/0znUdNIr1OnHLW6Z1O22aB"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
+      "duration_ms": 226266,
+      "name": "Mexico Lindo y Querido",
+      "url": "https://open.spotify.com/track/6kUb9SK5nzn0HjDiLA61mx"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1315,18 +1283,34 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+      "duration_ms": 214746,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Los Poetas de la Guitarra",
+        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
+      },
+      "artists": [
+        {
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/0znUdNIr1OnHLW6Z1O22aB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1343,6 +1327,22 @@
       "duration_ms": 356360,
       "name": "Popurri de Cuco Sanchez: Anillo de Compromiso / Fallaste Coraz\u00f3n / La Cama de Piedra / La Chancla",
       "url": "https://open.spotify.com/track/149Ka0uCWWH4b9pA7GeRPZ"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2024-07-11 01:27:02",

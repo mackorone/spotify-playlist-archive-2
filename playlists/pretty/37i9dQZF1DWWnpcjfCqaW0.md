@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,174 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,171 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 46 | [Oh Lonesome Me](https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:29 |
 | 47 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
 | 48 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
-| 49 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
+| 49 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
-| 52 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
+| 52 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
 | 53 | [Goin' Steady](https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:41 |
 | 54 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
 | 55 | [Midnight](https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:12 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 72 | [Invitation to the Blues](https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:48 |
 | 73 | [Don't Ever Leave Me Again](https://open.spotify.com/track/3tg51RdnZhCa2smOP9ShYH) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:27 |
 | 74 | [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 |
-| 75 | [Ballad Of A Teenage Queen](https://open.spotify.com/track/4Io1aec8TYbaEffiJrlTV2) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Ballad Of A Teenage Queen / Big River](https://open.spotify.com/album/7Kr8LI2gijAGicOBlLL9LN) | 2:10 |
+| 75 | [I Forgot More Than You'll Ever Know \- Remastered](https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH) | [The Davis Sisters](https://open.spotify.com/artist/2WVoGWk3tcKJd7Lc4QJ7ux) | [Skeeter Davis: RCA Country Legend](https://open.spotify.com/album/2pWSwDwX3lcPSe8vHY3NDy) | 3:01 |
 
 Snapshot ID: `AAAAAGTbxGs7Ijs0Vj0SwBj86tGBC7ea`

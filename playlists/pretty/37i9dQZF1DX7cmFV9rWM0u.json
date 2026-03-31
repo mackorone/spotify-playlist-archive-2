@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1725117,
+  "num_followers": 1725049,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,22 @@
     {
       "added_at": "2026-01-09 19:44:42",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
     },
     {
       "added_at": "2026-01-09 19:44:42",
@@ -563,22 +567,18 @@
     {
       "added_at": "2026-01-09 19:44:42",
       "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2026-01-09 19:44:42",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-01-09 19:44:42",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
-    },
-    {
-      "added_at": "2026-01-09 19:44:42",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2026-01-09 19:44:42",
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
     },
     {
       "added_at": "2026-01-09 19:44:42",

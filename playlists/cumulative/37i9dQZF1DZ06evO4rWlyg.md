@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-161 songs - 11 hr 30 min
+162 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Big Time Sensuality](https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 3:56 | 2023-11-10 | 2024-03-14 |
 | [Black Lake](https://open.spotify.com/track/5qfJSItAIEndephCzfQ6Nu) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 10:08 | 2025-11-06 | 2025-12-08 |
 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 | 2024-01-14 | 2024-03-12 |
-| [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 | 2025-05-10 |  |
+| [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 | 2025-05-10 | 2026-03-31 |
 | [Blissing Me](https://open.spotify.com/track/0QEwFjt0hX1aQqrJY20HCz) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 5:05 | 2023-11-10 | 2024-03-15 |
 | [Body Memory](https://open.spotify.com/track/2Ql3mCjOnedeUMbbmS2zLq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 9:46 | 2024-03-15 | 2024-03-18 |
 | [Borealis](https://open.spotify.com/track/4J7yVcO9wMxau3NJ1s54eO) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Akoma](https://open.spotify.com/album/50EueHsKbgqTVQ9Zda8ebw) | 4:06 | 2024-03-24 | 2024-05-01 |
@@ -147,6 +147,7 @@
 | [Stonemilker](https://open.spotify.com/track/1Q9PT8sgU7q9IH7kb5dSwv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/1ttnHZ0HVGMSMTJdZZ7kYK) | 6:49 | 2024-03-16 | 2024-03-23 |
 | [Sun In My Mouth](https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 2:40 | 2023-11-10 | 2024-03-10 |
 | [Sun In My Mouth](https://open.spotify.com/track/4mhuw0kAHPdZeidq1UIAQP) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 2:40 | 2024-03-26 | 2024-03-28 |
+| [Surrender](https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Surrender](https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY) | 5:21 | 2026-03-31 |  |
 | [The Gate](https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 6:33 | 2023-11-10 | 2024-03-19 |
 | [The Gate \- Live](https://open.spotify.com/track/6e7xCrlGPNWWqCmVozr0f8) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 4:50 | 2025-10-29 | 2026-01-06 |
 | [There's More To Life Than This \- Live At The Milk Bar Toilets](https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:21 | 2024-04-09 | 2024-04-12 |

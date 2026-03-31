@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,108 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,145 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 2 | [Blue Strips](https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:27 |
 | 3 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/0kE09o4Jdeu7vqjmkV1YJP) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:21 |
 | 4 | [If I Died Last Night](https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:44 |
-| 5 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 |
+| 5 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
 | 6 | [Bad As The Rest](https://open.spotify.com/track/3RzL5fTJeqNqLwqSpKJ3xh) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 3:02 |
-| 7 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
+| 7 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 |
 | 8 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 |
 | 9 | [Forever \(feat\. 6LACK\)](https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 3:12 |
 | 10 | [I Like How I Look](https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:16 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 35 | [Hallelujah \- Live from iHeartRadio Jingle Ball 2025](https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Hallelujah \(Live from iHeartRadio Jingle Ball 2025\)](https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P) | 2:27 |
 | 36 | [No Chance](https://open.spotify.com/track/2hlqy1X7LxeE8IvBCFU7Re) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 1:57 |
 
-Snapshot ID: `accaAAAAAACjssHd1zHFZ2PMxQkUkKGJ`
+Snapshot ID: `achrgAAAAACqnzNFXBgXJIdrGvhxyUFn`

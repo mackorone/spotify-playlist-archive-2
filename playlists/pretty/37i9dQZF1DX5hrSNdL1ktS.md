@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Joss ML y Loyaltty en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,259 likes - 68 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,319 likes - 68 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 10 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |
 | 11 | [Kamailo](https://open.spotify.com/track/7diyGYJhD6TcQY2PAgvSVO) | [Kikito](https://open.spotify.com/artist/4FK6dPwdKhwU7KNoIzdqkE), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Kamailo](https://open.spotify.com/album/2Im9ftflkRtg4DpHeKMhLn) | 2:58 |
 | 12 | [XOT](https://open.spotify.com/track/22aPjtNxR1JxmwvzlbufBg) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [XOT](https://open.spotify.com/album/24NuQi4gfo8X8bhFH4AZAP) | 3:07 |
-| 13 | [MEXICANA](https://open.spotify.com/track/6FZro1fYNjSXd0d1xJpp5A) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [MEXICANA](https://open.spotify.com/album/1YCgsRmgb5rEuUysd0A0j4) | 3:31 |
+| 13 | [MEXICANA](https://open.spotify.com/track/6FZro1fYNjSXd0d1xJpp5A) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [MEXICANA](https://open.spotify.com/album/1YCgsRmgb5rEuUysd0A0j4) | 3:33 |
 | 14 | [Fifty Fifty](https://open.spotify.com/track/1gMrWve44Y9plqq2i0aK18) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 3:01 |
 | 15 | [50/50](https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [50/50](https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz) | 3:24 |
 | 16 | [Duras](https://open.spotify.com/track/4e3ohkLKIKfMEnk86D5gON) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Duras](https://open.spotify.com/album/0lVDHojc2ETggUby6VzsW3) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Ghoulish
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,463 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,482 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 65 | [Point Of No Return //](https://open.spotify.com/track/2cxgR1NIV5limwOSUcz5MX) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac), [Engle](https://open.spotify.com/artist/4EBTVvuF1oSpoiPFWrUSmA) | [Point Of No Return //](https://open.spotify.com/album/0cS0jJy71sAYgRJtudPQkc) | 2:32 |
 | 66 | [Pied Piper 2025](https://open.spotify.com/track/3bXiZRRB49MxBlDBXrJtiX) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Pied Piper 2025](https://open.spotify.com/album/0suNaacL8fdCVMk5fYr3V6) | 2:16 |
 | 67 | [Welcome 2 LDN \(feat\. Flowdan\)](https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Welcome 2 LDN \(feat\. Flowdan\)](https://open.spotify.com/album/08s53yPAoXtWg29VLYK8Ju) | 2:52 |
-| 68 | [Feels Like](https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Feels Like](https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3) | 3:23 |
-| 69 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
+| 68 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
+| 69 | [Feels Like](https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Feels Like](https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3) | 3:23 |
 | 70 | [Dis Badman](https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Dis Badman](https://open.spotify.com/album/7rWOE4qznyqy2eggc1jR91) | 2:49 |
 
 Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

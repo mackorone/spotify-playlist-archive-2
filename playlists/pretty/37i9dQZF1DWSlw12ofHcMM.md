@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,672 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,665 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 15 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 16 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
 | 17 | [Grave Digger](https://open.spotify.com/track/6UWmNaS12bUJzFBuQB6e7j) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Grave Digger](https://open.spotify.com/album/2QGm9wqX2SSeZNV3kdxHMi) | 3:57 |
-| 18 | [Glitter & Gold](https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:56 |
-| 19 | [All on My Mind](https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 |
+| 18 | [All on My Mind](https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 |
+| 19 | [Glitter & Gold](https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:56 |
 | 20 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
 | 21 | [Empire Now](https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 2:58 |
 | 22 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |

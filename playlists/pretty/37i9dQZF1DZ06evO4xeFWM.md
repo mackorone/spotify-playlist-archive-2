@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,427 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,439 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 3 | [Pompeii](https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 3:34 |
 | 4 | [Good Grief](https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World](https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4) | 3:26 |
 | 5 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 |
-| 6 | [Feel Alive](https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Feel Alive](https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6) | 2:48 |
-| 7 | [Icarus](https://open.spotify.com/track/3aO4GaEhtu1UanIGKefdD3) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:45 |
+| 6 | [Icarus](https://open.spotify.com/track/3aO4GaEhtu1UanIGKefdD3) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:45 |
+| 7 | [Feel Alive](https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Feel Alive](https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6) | 2:48 |
 | 8 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 |
 | 9 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
 | 10 | [No Angels](https://open.spotify.com/track/1pRYM4pRLkBxojE8s5hnNt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Bad Blood X \(10th Anniversary Edition\)](https://open.spotify.com/album/4wGbIbPiP3C3LdvewkRwTc) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 49 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
 | 50 | [The Answer](https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw) | [Energies](https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Rittipo](https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N) | [The Answer](https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP) | 3:23 |
 
-Snapshot ID: `accaAAAAAACvIOGAYwfGRaa35bh2CnlD`
+Snapshot ID: `achrgAAAAABQ4kMmSEs0oR6XRo9G7pWQ`

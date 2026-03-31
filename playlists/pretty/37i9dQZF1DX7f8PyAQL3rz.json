@@ -1,6 +1,6 @@
 {
   "description": "\u00e9 cabelo preto \u00e9 cabelo loiro os cara n tem nem a\u00ed pra NADA",
-  "num_followers": 1452001,
+  "num_followers": 1451945,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,34 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "Bolad\u00e3o Escutando Orochi",
+        "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 206017,
+      "name": "Bolad\u00e3o Escutando Orochi",
+      "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
         "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
       },
@@ -719,34 +747,6 @@
       "duration_ms": 107906,
       "name": "Belieber",
       "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "Bolad\u00e3o Escutando Orochi",
-        "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 206017,
-      "name": "Bolad\u00e3o Escutando Orochi",
-      "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
-        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 151381,
-      "name": "PREFERIDA",
-      "url": "https://open.spotify.com/track/02sc7bVObYkp8bW5Ueq5zt"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/1O6473FQ4oOmVhgHMtCiJY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 196626,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5nNScs8d0L55YlrPepJi7C"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
+        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 151381,
+      "name": "PREFERIDA",
+      "url": "https://open.spotify.com/track/02sc7bVObYkp8bW5Ueq5zt"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -967,6 +967,30 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "M.P.B",
+        "url": "https://open.spotify.com/album/7y1FJ9AGymKo3qbLKpVM4p"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 178317,
+      "name": "M.P.B",
+      "url": "https://open.spotify.com/track/6BZT61t4kVGC9lL5931vZv"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "DOIS Quebrada Inteligente Pro Max",
         "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 237456,
       "name": "PRINCESA MANDRAKA.",
       "url": "https://open.spotify.com/track/20BRVZEog9m5rZGSv2UIGf"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "M.P.B",
-        "url": "https://open.spotify.com/album/7y1FJ9AGymKo3qbLKpVM4p"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 178317,
-      "name": "M.P.B",
-      "url": "https://open.spotify.com/track/6BZT61t4kVGC9lL5931vZv"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "Que toda dor vire dinheiro",
-        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
-      },
-      "artists": [
-        {
-          "name": "SNIF",
-          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Que toda dor vire dinheiro",
-      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "ADRENALINA",
         "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 155789,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "Que toda dor vire dinheiro",
+        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Que toda dor vire dinheiro",
+      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "\u00c1rea de Risco",
-        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
-      },
-      "artists": [
-        {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "\u00c1rea de Risco",
-      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "gelo no stanley",
         "url": "https://open.spotify.com/album/1GFDa6HJINq4vyNWfU6ws3"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 160000,
       "name": "gelo no stanley",
       "url": "https://open.spotify.com/track/6jTPmHRjqA8VrVEJAgYkfp"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "\u00c1rea de Risco",
+        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "\u00c1rea de Risco",
+      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "Press\u00e1gio (Studio Rec #9)",
-        "url": "https://open.spotify.com/album/7kRLRiRjCpzKYlO8Ku7Oxf"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "IG\u00ca",
-          "url": "https://open.spotify.com/artist/46hsJcmYDt4sJm22bv2XY2"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Press\u00e1gio (Studio Rec #9)",
-      "url": "https://open.spotify.com/track/0mqn4Z7wLkveA0DlQuARLq"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "T\u00f4 com Saudade",
         "url": "https://open.spotify.com/album/2wK2TXDdcKFtRQXS6ZIcAV"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 104539,
       "name": "T\u00f4 com Saudade",
       "url": "https://open.spotify.com/track/1W2nInxS8amzBPiBqrcyHT"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "Press\u00e1gio (Studio Rec #9)",
+        "url": "https://open.spotify.com/album/7kRLRiRjCpzKYlO8Ku7Oxf"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "IG\u00ca",
+          "url": "https://open.spotify.com/artist/46hsJcmYDt4sJm22bv2XY2"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Press\u00e1gio (Studio Rec #9)",
+      "url": "https://open.spotify.com/track/0mqn4Z7wLkveA0DlQuARLq"
     },
     {
       "added_at": "2026-03-27 03:01:06",

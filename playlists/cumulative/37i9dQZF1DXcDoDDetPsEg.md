@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Darkoo, Ruger
 
-1,751 songs - 3 day 15 hr 45 min
+1,752 songs - 3 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Far Away](https://open.spotify.com/track/4IxX3PGMYUtJVf1065uba6) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Far Away](https://open.spotify.com/album/2ge6TECyNNu5GDWiwhFZIO) | 2:58 | 2022-10-13 | 2023-03-09 |
 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 | 2022-08-23 | 2022-08-31 |
 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:46 | 2025-03-07 | 2025-07-11 |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-30 |  |
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-05-03 | 2024-11-01 |
 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:16 | 2022-07-21 | 2022-09-16 |
 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 | 2024-05-24 | 2024-06-14 |
@@ -1014,7 +1015,7 @@
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2023-09-16 | 2023-09-19 |
 | [Monitoring Me](https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Monitoring Me](https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV) | 2:24 | 2024-10-04 | 2024-12-13 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-03-08 | 2024-03-09 |
-| [More Fire More Flamez](https://open.spotify.com/track/5EfOaTaMSYbgs6SWlTuml2) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [More Fire More Flamez](https://open.spotify.com/album/0mNOVd463MJxAqDV36xp7G) | 3:10 | 2025-12-12 |  |
+| [More Fire More Flamez](https://open.spotify.com/track/5EfOaTaMSYbgs6SWlTuml2) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [More Fire More Flamez](https://open.spotify.com/album/0mNOVd463MJxAqDV36xp7G) | 3:10 | 2025-12-12 | 2026-03-31 |
 | [More Money More Problems](https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [More Money More Problems](https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO) | 2:57 | 2023-08-10 | 2023-09-15 |
 | [More Than A Woman](https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 3:49 | 2023-09-16 | 2023-09-19 |
 | [More Vibes More Money](https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [More Vibes More Money](https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7) | 3:08 | 2023-07-20 | 2023-09-08 |

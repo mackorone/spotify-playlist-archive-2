@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 46257,
+  "num_followers": 46285,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 171000,
       "name": "Mademoiselle (feat. ODUMODUBLVCK, Shallipopi, Theodora, Zeina)",
       "url": "https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Toro - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 194436,
-      "name": "Toro - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Toro - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 194436,
+      "name": "Toro - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
         "name": "STINGY",
         "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 220206,
       "name": "STINGY",
       "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Verily",
-        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Verily",
-      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Before We Became Strangers",
         "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 210000,
       "name": "Maj\u1eb9kaj\u00e1",
       "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/1EwRPcScU1xa4YLlwn2ntA"
-      },
-      "artists": [
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/1EwRPcScU1xa4YLlwn2ntA"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY"
     }
   ],
   "unique_name": "Afro Chill",

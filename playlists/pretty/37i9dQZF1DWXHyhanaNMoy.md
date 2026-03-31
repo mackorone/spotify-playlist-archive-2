@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Architrackz
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,019 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,014 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,626 likes - 200 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,675 likes - 200 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 199 | [Lunar Breath](https://open.spotify.com/track/09SNI09hiEKhoHWIIm2tMb) | [Lunao Sol](https://open.spotify.com/artist/4kuabxT28eAvWVknQUk6wx) | [Lunar Breath](https://open.spotify.com/album/5XbbdptRxVgmbtI6JHJGv3) | 2:56 |
 | 200 | [Polarities](https://open.spotify.com/track/6IwZQRhI6epmnDiiq6X1Qr) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Polarities](https://open.spotify.com/album/1REmUsOxHM7oPQhOCh4Q9v) | 2:32 |
 
-Snapshot ID: `AAAAACaqzTYhwyW9cmavjtJZnxpGsmoa`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

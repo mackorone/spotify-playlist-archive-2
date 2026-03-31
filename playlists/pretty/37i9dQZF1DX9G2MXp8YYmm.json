@@ -1,6 +1,6 @@
 {
   "description": "Pop'un sevilen isimleri. Kapak: Sena \u015eahin",
-  "num_followers": 176301,
+  "num_followers": 176403,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2026-03-26 21:00:15",
       "album": {
+        "name": "\u00dcz\u00fclmedim Ki",
+        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "duration_ms": 154402,
+      "name": "\u00dcz\u00fclmedim Ki",
+      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
         "name": "Beni Unutma",
         "url": "https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM"
       },
@@ -399,22 +419,6 @@
     {
       "added_at": "2026-03-26 21:00:15",
       "album": {
-        "name": "G\u00f6zlerinden G\u00f6zlerine",
-        "url": "https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 176625,
-      "name": "G\u00f6zlerinden G\u00f6zlerine",
-      "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
         "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
         "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
       },
@@ -427,6 +431,22 @@
       "duration_ms": 247334,
       "name": "Ey A\u015fk",
       "url": "https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
+        "name": "G\u00f6zlerinden G\u00f6zlerine",
+        "url": "https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 176625,
+      "name": "G\u00f6zlerinden G\u00f6zlerine",
+      "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
     },
     {
       "added_at": "2026-03-26 21:00:15",
@@ -483,26 +503,6 @@
     {
       "added_at": "2026-03-26 21:00:15",
       "album": {
-        "name": "\u00dcz\u00fclmedim Ki",
-        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
-        }
-      ],
-      "duration_ms": 154402,
-      "name": "\u00dcz\u00fclmedim Ki",
-      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
         "name": "Anlatas\u0131m Var",
         "url": "https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ"
       },
@@ -515,6 +515,30 @@
       "duration_ms": 232800,
       "name": "Sevilmeye Doy Diye",
       "url": "https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
+        "name": "Sabrettim",
+        "url": "https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "duration_ms": 185114,
+      "name": "Sabrettim",
+      "url": "https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr"
     },
     {
       "added_at": "2026-03-26 21:00:15",
@@ -571,30 +595,6 @@
       "duration_ms": 128947,
       "name": "SALINA SALINA",
       "url": "https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
-        "name": "Sabrettim",
-        "url": "https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
-        }
-      ],
-      "duration_ms": 185114,
-      "name": "Sabrettim",
-      "url": "https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr"
     },
     {
       "added_at": "2026-03-26 21:00:15",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-26 21:00:15",
       "album": {
-        "name": "Ka\u00e7sam Gitsem",
-        "url": "https://open.spotify.com/album/4oxsJFAb6MdQpIBmOuoUGh"
-      },
-      "artists": [
-        {
-          "name": "Elif Buse Do\u011fan",
-          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
-        }
-      ],
-      "duration_ms": 168864,
-      "name": "Ka\u00e7sam Gitsem",
-      "url": "https://open.spotify.com/track/6vmhvj2k8RyAoOy4BmD5Nc"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
         "name": "Yalan Dolan",
         "url": "https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 194926,
       "name": "\u015eerbetli",
       "url": "https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
+        "name": "Ka\u00e7sam Gitsem",
+        "url": "https://open.spotify.com/album/4oxsJFAb6MdQpIBmOuoUGh"
+      },
+      "artists": [
+        {
+          "name": "Elif Buse Do\u011fan",
+          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
+        }
+      ],
+      "duration_ms": 168864,
+      "name": "Ka\u00e7sam Gitsem",
+      "url": "https://open.spotify.com/track/6vmhvj2k8RyAoOy4BmD5Nc"
     },
     {
       "added_at": "2026-03-26 21:00:15",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2026-03-26 21:00:15",
       "album": {
-        "name": "B\u0131\u00e7ak",
-        "url": "https://open.spotify.com/album/4tA43nNgYDybyFQaEWNFIO"
-      },
-      "artists": [
-        {
-          "name": "\u0130ntizar",
-          "url": "https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0"
-        }
-      ],
-      "duration_ms": 185388,
-      "name": "B\u0131\u00e7ak",
-      "url": "https://open.spotify.com/track/5XYPcsaR7a1rTqTOHc99LN"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
-        "name": "Ezberime",
-        "url": "https://open.spotify.com/album/3jpT9JyRVtDiHrsrghAn7R"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6khan T\u00fcrkmen",
-          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
-        }
-      ],
-      "duration_ms": 200895,
-      "name": "Ezberime",
-      "url": "https://open.spotify.com/track/6bt1Y09ypUNbNtbSPjMjp0"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
         "name": "Buzlu Cam",
         "url": "https://open.spotify.com/album/3ElEbr56YR4TRjqLM38G8p"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 179478,
       "name": "Iss\u0131z Duvarlar",
       "url": "https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
+        "name": "B\u0131\u00e7ak",
+        "url": "https://open.spotify.com/album/4tA43nNgYDybyFQaEWNFIO"
+      },
+      "artists": [
+        {
+          "name": "\u0130ntizar",
+          "url": "https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0"
+        }
+      ],
+      "duration_ms": 185388,
+      "name": "B\u0131\u00e7ak",
+      "url": "https://open.spotify.com/track/5XYPcsaR7a1rTqTOHc99LN"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
+        "name": "Ezberime",
+        "url": "https://open.spotify.com/album/3jpT9JyRVtDiHrsrghAn7R"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        }
+      ],
+      "duration_ms": 200895,
+      "name": "Ezberime",
+      "url": "https://open.spotify.com/track/6bt1Y09ypUNbNtbSPjMjp0"
     },
     {
       "added_at": "2026-03-26 21:00:15",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2026-03-26 21:00:15",
       "album": {
+        "name": "Anlad\u0131m",
+        "url": "https://open.spotify.com/album/4QIMFcpVUUNSFmVN7tK03V"
+      },
+      "artists": [
+        {
+          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
+          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
+        },
+        {
+          "name": "Hande Mehan",
+          "url": "https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl"
+        }
+      ],
+      "duration_ms": 237162,
+      "name": "Anlad\u0131m",
+      "url": "https://open.spotify.com/track/2pzbuLuY8PWqMMkKqpeoKU"
+    },
+    {
+      "added_at": "2026-03-26 21:00:15",
+      "album": {
         "name": "B\u0131rak",
         "url": "https://open.spotify.com/album/52iyAQgL30kvdU9CNUshsT"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 188076,
       "name": "Yolda B\u0131rakt\u0131n",
       "url": "https://open.spotify.com/track/4kJEvIxJy5I3E3dxjVsXwy"
-    },
-    {
-      "added_at": "2026-03-26 21:00:15",
-      "album": {
-        "name": "Anlad\u0131m",
-        "url": "https://open.spotify.com/album/4QIMFcpVUUNSFmVN7tK03V"
-      },
-      "artists": [
-        {
-          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
-          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
-        },
-        {
-          "name": "Hande Mehan",
-          "url": "https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl"
-        }
-      ],
-      "duration_ms": 237162,
-      "name": "Anlad\u0131m",
-      "url": "https://open.spotify.com/track/2pzbuLuY8PWqMMkKqpeoKU"
     },
     {
       "added_at": "2026-03-26 21:00:15",

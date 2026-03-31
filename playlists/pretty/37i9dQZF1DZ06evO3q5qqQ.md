@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,705 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,711 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 7 | [Una Llamada Al Cielo](https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Una Llamada Al Cielo](https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD) | 3:33 |
 | 8 | [Mi Nueva Versión](https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Mi Nueva Versión](https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L) | 2:43 |
 | 9 | [Rosas](https://open.spotify.com/track/555N8dZTTSQwhzlS3jryxf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/0OIdc0aQSkDtXUuywx55OP) | 4:34 |
-| 10 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
-| 11 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |
+| 10 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |
+| 11 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
 | 12 | [Ismael](https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:16 |
 | 13 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 |
 | 14 | [El Fugitivo](https://open.spotify.com/track/3HevcnYdnqtS0MvtyWkOg5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo](https://open.spotify.com/album/0BJXARzPuTj3mNYGRBs28t) | 2:49 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 31 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
 | 32 | [El Rápido \- En vivo](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido \(En vivo\)](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
 | 33 | [Corazón Ranchero \(En Vivo\)](https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:41 |
-| 34 | [La Muchacha Del Salado](https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 2:49 |
-| 35 | [El Bolas](https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:51 |
+| 34 | [El Bolas](https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:51 |
+| 35 | [La Muchacha Del Salado](https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 2:49 |
 | 36 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 |
 | 37 | [El Meño](https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:34 |
 | 38 | [La Playa](https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [En La Cima \(En vivo\)](https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 3:06 |
 | 50 | [Chuyito y el Mayo \(En Vivo\)](https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:09 |
 
-Snapshot ID: `accaAAAAAAB4fXDdksKm5SGMKCO/B25y`
+Snapshot ID: `achrgAAAAAC9fVIN+eu3+SpZjSmTSr70`

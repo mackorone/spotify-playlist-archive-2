@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADFBwRh2epA0Ot2QLAyj7Nc",
+  "snapshot_id": "achrgAAAAAB7VfdNRZUSk1WTbnwh36Oz",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE THE SNOW GLOBE",
-        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "BEST ON EARTH (feat. BIA) - Bonus",
-      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 171764,
       "name": "..FEISTY",
       "url": "https://open.spotify.com/track/5ZcmUzUzeuYnMjHYQXyHSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHAKE THE SNOW GLOBE",
+        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "BEST ON EARTH (feat. BIA) - Bonus",
+      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
     },
     {
       "added_at": null,

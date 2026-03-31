@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,262 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,221 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Fiz Quase Tudo \- Ao Vivo](https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Fiz Quase Tudo \(Ao Vivo\)](https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48) | 2:47 |
 | 45 | [Sob a luz do seu olhar](https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 |
 | 46 | [Rei da Noite](https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:25 |
-| 47 | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH) | 3:17 |
-| 48 | [Interrogação \- Ao Vivo](https://open.spotify.com/track/0e91TwYBNqiEAHenznkari) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Interrogação \(Ao Vivo\)](https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC) | 2:51 |
+| 47 | [Interrogação \- Ao Vivo](https://open.spotify.com/track/0e91TwYBNqiEAHenznkari) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Interrogação \(Ao Vivo\)](https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC) | 2:51 |
+| 48 | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH) | 3:17 |
 | 49 | [Quando Você Ligou](https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb) | [Quando Você Ligou](https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh) | 3:09 |
 | 50 | [Nosso Lance \- Ao Vivo](https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm), [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Os Caras da Rua, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu) | 1:32 |
 

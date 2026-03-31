@@ -4,7 +4,7 @@
 
 > This is Lia Kohl\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 40 min
+49 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Airport Fridge, Self Checkout](https://open.spotify.com/track/6YGq2bo4e1rOEnzoYbzbG9) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 6:33 | 2026-03-27 |  |
 | [Amtrak, Hudson Valley](https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-27 |  |
 | [Antwerp Central Train Station, Antwerp](https://open.spotify.com/track/1vNJjGJtu6JAVuzFI9UCgc) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-27 | 2026-03-29 |
-| [As Sweet As](https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [In the Deep Drift You Will Find the Most Serene of Lullabies](https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9) | 4:20 | 2026-03-27 | 2026-03-29 |
+| [As Sweet As](https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [In the Deep Drift You Will Find the Most Serene of Lullabies](https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9) | 4:20 | 2026-03-27 |  |
 | [Basketball Court](https://open.spotify.com/track/2Wrr8X4LvPFvucyaDxqs2q) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-29 |  |
 | [became daily today](https://open.spotify.com/track/6lMpeGCEAbyaODknLJc9uf) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 4:35 | 2026-03-27 |  |
 | [burning \| counting \(sleeping\)](https://open.spotify.com/track/1PGgpr46xeeFsyQhHsEYem) | [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [burning \| counting \(sleeping\)](https://open.spotify.com/album/5vjlMxFRcp9EuvDmWOXSgA) | 2:27 | 2026-03-27 |  |
@@ -42,6 +42,7 @@
 | [Outside, Arrington](https://open.spotify.com/track/0xRvIQV2KDHvMGwcoJfNNf) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Colin Held](https://open.spotify.com/artist/5ysT1fo4ccE4WSSvDP4tNY) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-27 |  |
 | [Plane](https://open.spotify.com/track/3mjE5YUdcMsqp7tVWBqziy) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 6:56 | 2026-03-27 |  |
 | [Rich, Sticky, Sweet](https://open.spotify.com/track/434fNClMan2sL4bZ26Iw2Z) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 5:42 | 2026-03-30 |  |
+| [Scrimble\-Scramble](https://open.spotify.com/track/1fac4qYqKoPCVWFW1lAsAa) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 2:52 | 2026-03-31 |  |
 | [Second Picture of the Same Weather Pattern](https://open.spotify.com/track/6F9q6f0K3L0fFfemzWenXC) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Too Small to be a Plain](https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14) | 3:31 | 2026-03-27 |  |
 | [sit on the floor and wait for storms](https://open.spotify.com/track/3UOZ8EqRzTlvqOPaymIl2x) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 3:16 | 2026-03-27 |  |
 | [Stone Piece I](https://open.spotify.com/track/4YKtbKS2yNpI4go04yh2x1) | [Whitney Deanne Johnson](https://open.spotify.com/artist/0bYFegqSy4kotn92Pb3KTb), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt) | [Stone Piece I](https://open.spotify.com/album/7AvRPX7SFGboxDbsieV3SL) | 7:29 | 2026-03-29 |  |

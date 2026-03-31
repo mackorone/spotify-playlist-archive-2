@@ -5313,6 +5313,24 @@
     },
     {
       "album": {
+        "name": "Prettier",
+        "url": "https://open.spotify.com/album/65bWAdko9EMXM0yzVyJXHi"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154167,
+      "name": "Prettier",
+      "url": "https://open.spotify.com/track/1xxFjjn9zePi0WUrhOn6Kb"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 48 songs - 2 hr 57 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 44 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,12 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 35 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 38 | [yung n dumb](https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK) | [Marc Vinyls](https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8) | [yung n dumb](https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj) | 1:52 |
-| 39 | [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 |
-| 40 | [gas station girlfriend](https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT) | [Gabrielle Gutierrez](https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga) | [gas station girlfriend](https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg) | 3:48 |
-| 41 | [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 |
-| 42 | [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 |
-| 43 | [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 |
-| 44 | [Almost Again](https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Pink Girls](https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42) | 2:48 |
-| 45 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 |
-| 46 | [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 |
-| 47 | [Dumb Girls](https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.2](https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ) | 2:55 |
-| 48 | [Almost there](https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm) | [Elaisa Mancini](https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr) | [Almost there](https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh) | 3:42 |
+| 38 | [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 |
+| 39 | [Almost Again](https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Pink Girls](https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42) | 2:48 |
+| 40 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 |
+| 41 | [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 |
+| 42 | [Dumb Girls](https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.2](https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ) | 2:55 |
+| 43 | [Almost there](https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm) | [Elaisa Mancini](https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr) | [Almost there](https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh) | 3:42 |
+| 44 | [Game On](https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Game On](https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH) | 2:26 |
 
-Snapshot ID: `AAAkGWvShf+sZWuC+h8XLsNPO82EjWN9`
+Snapshot ID: `AAAkH0X9/honlOkp3psEk42EohlEAmsu`

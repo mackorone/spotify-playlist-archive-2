@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731064,
+  "num_followers": 731039,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "High On Me",
         "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 189767,
       "name": "High On Me",
       "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 129817,
       "name": "Hot In It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
       },
@@ -1587,18 +1571,38 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "SMOKE THE PAIN AWAY",
-        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
+        "name": "I Loved You (feat. Melissa Steel)",
+        "url": "https://open.spotify.com/album/0Fuq38dhyTw57Kyq2ctmxN"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Melissa Steel",
+          "url": "https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf"
         }
       ],
-      "duration_ms": 162772,
-      "name": "SMOKE THE PAIN AWAY",
-      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
+      "duration_ms": 184704,
+      "name": "I Loved You (feat. Melissa Steel)",
+      "url": "https://open.spotify.com/track/3yh9WHZs15IKNBXYaFAZH5"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1623,22 +1627,18 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "I Loved You (feat. Melissa Steel)",
-        "url": "https://open.spotify.com/album/0Fuq38dhyTw57Kyq2ctmxN"
+        "name": "SMOKE THE PAIN AWAY",
+        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
       },
       "artists": [
         {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Melissa Steel",
-          "url": "https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 184704,
-      "name": "I Loved You (feat. Melissa Steel)",
-      "url": "https://open.spotify.com/track/3yh9WHZs15IKNBXYaFAZH5"
+      "duration_ms": 162772,
+      "name": "SMOKE THE PAIN AWAY",
+      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Don\u2019t Forget My Love",
-        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don\u2019t Forget My Love",
-      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Under The Sun (with Alok)",
         "url": "https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 165743,
       "name": "Under The Sun (with Alok)",
       "url": "https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Don\u2019t Forget My Love",
+        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don\u2019t Forget My Love",
+      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
     },
     {
       "added_at": "2026-01-23 00:00:40",

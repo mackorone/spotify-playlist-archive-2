@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Samuel Welten, Bankzitters
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,701 likes - 54 songs - 2 hr 28 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,696 likes - 54 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

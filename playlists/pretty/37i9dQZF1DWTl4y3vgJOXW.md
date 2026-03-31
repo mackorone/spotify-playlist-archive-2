@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Jamal Murray
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,869,844 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,870,303 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,322 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,874 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 10 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 |
 | 11 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
 | 12 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
-| 13 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
-| 14 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
+| 13 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
+| 14 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 15 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 16 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
 | 17 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 33 | [Mr\. Vain Recall \- Radio Edit](https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain Recall](https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO) | 3:33 |
 | 34 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
 | 35 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
-| 36 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See the Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
-| 37 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
-| 38 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
+| 36 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 37 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
+| 38 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See the Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 39 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
 | 40 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 |
 | 41 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 71 | [Let the Beat Hit 'Em](https://open.spotify.com/track/5uxcZzsePjVOQxYjoURVr8) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT) | [Super Hits](https://open.spotify.com/album/3kDq0nsk9B7EJ9MhaPXuqj) | 4:37 |
 | 72 | [Do You Miss Me \- Running Mix](https://open.spotify.com/track/3xrCsXsFJRWbZBpjVStBtl) | [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [Jocelyn](https://open.spotify.com/album/7KyQQ5lAMkVaoocNr4KZHj) | 3:45 |
 | 73 | [Waiting for Tonight \- Hex's Momentous Radio Mix](https://open.spotify.com/track/6zY3ijGTWs4e357AHvmaD5) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/7Gw1W7OHekTxmG5bgdQlZm) | 3:45 |
-| 74 | [Uh La La La \- Almighty's Radio Edit](https://open.spotify.com/track/3JNUWpyJj2rgw25W11J08V) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB), [12 Almighty](https://open.spotify.com/artist/6lI87i3blMBsIBgGFFcxky) | [Uh La La La \(Original Remixes\)](https://open.spotify.com/album/7lkd0IRqHwAc8V2xmiHQVn) | 3:41 |
-| 75 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 |
+| 74 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 |
+| 75 | [Uh La La La \- Almighty's Radio Edit](https://open.spotify.com/track/3JNUWpyJj2rgw25W11J08V) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB), [12 Almighty](https://open.spotify.com/artist/6lI87i3blMBsIBgGFFcxky) | [Uh La La La \(Original Remixes\)](https://open.spotify.com/album/7lkd0IRqHwAc8V2xmiHQVn) | 3:41 |
 
 Snapshot ID: `AAAAAKv0kZX35qHcnvefQ9fDr2AZAUq1`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29056,
+  "num_followers": 29058,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAeYtaJRj1jAswhvr3Fhakg",
+  "snapshot_id": "achrgAAAAAAsui8q8iAR4xhZOoBGftld",
   "tracks": [
     {
       "added_at": null,
@@ -147,38 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Te Perdon\u00e9",
-        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "Ya Te Perdon\u00e9",
-      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 189996,
-      "name": "Qu\u00e9 Hubiera Sido",
-      "url": "https://open.spotify.com/track/1o7gmHtkprmJO4Vl0qzMPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -267,6 +235,38 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 189996,
+      "name": "Qu\u00e9 Hubiera Sido",
+      "url": "https://open.spotify.com/track/1o7gmHtkprmJO4Vl0qzMPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Te Perdon\u00e9",
+        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Ya Te Perdon\u00e9",
+      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed de Juan Gabriel",
-        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 294653,
-      "name": "Popurr\u00ed de Juan Gabriel",
-      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 158297,
       "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popurr\u00ed de Juan Gabriel",
+        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 294653,
+      "name": "Popurr\u00ed de Juan Gabriel",
+      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 171808,
       "name": "Inevitables",
       "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 198112,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 168645,
       "name": "De 0 a 100",
       "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 198112,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 192926,
       "name": "Est\u00e1s",
       "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "added_at": null,

@@ -15625,6 +15625,24 @@
     },
     {
       "album": {
+        "name": "If You Change",
+        "url": "https://open.spotify.com/album/6mom0BjN9nyY1aQaCDgNtk"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281253,
+      "name": "If You Change",
+      "url": "https://open.spotify.com/track/25JwuQuID6TFelmbUr9vgy"
+    },
+    {
+      "album": {
         "name": "If You're Blue",
         "url": "https://open.spotify.com/album/13i41KdYRgeDRSnGDjri2j"
       },
@@ -23657,6 +23675,24 @@
     },
     {
       "album": {
+        "name": "pe$o$",
+        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "pe$o$",
+      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
+    },
+    {
+      "album": {
         "name": "Pea",
         "url": "https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV"
       },
@@ -23780,24 +23816,6 @@
       "duration_ms": 228406,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "album": {
-        "name": "pesos",
-        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138133,
-      "name": "pesos",
-      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
     },
     {
       "album": {
@@ -33682,7 +33700,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 205185,
       "name": "Weight of The Truth",
       "url": "https://open.spotify.com/track/2f59hMF7rBNhT400280pxe"

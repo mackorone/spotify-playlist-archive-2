@@ -10250,7 +10250,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 169868,
       "name": "Lijntje",
       "url": "https://open.spotify.com/track/7pjRtk9nAPyU9zdyPQFFqi"
@@ -11206,6 +11206,32 @@
       "duration_ms": 173537,
       "name": "MARSEILLE",
       "url": "https://open.spotify.com/track/2u3xX0vQ8m4iYjzV1H3SGh"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Matth\u00e4us-Passion BWV 244",
+        "url": "https://open.spotify.com/album/5ZHCqltda5ywYkHPqFIUQJ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Collegium Vocale Gent",
+          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
+        },
+        {
+          "name": "Philippe Herreweghe",
+          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418693,
+      "name": "Matth\u00e4us-Passion, BWV 244, Erster Teil: 1. Chorus I & II \"Kommt, ihr T\u00f6chter, helft mir klagen\"",
+      "url": "https://open.spotify.com/track/4U62Hd2kvzSwIpEZ65CeAp"
     },
     {
       "album": {
@@ -14682,7 +14708,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -14700,7 +14726,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

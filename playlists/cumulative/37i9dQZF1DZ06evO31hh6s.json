@@ -2159,6 +2159,36 @@
     },
     {
       "album": {
+        "name": "The Outlawz & Aktual Raging Thugs (Fully Loaded Pack)",
+        "url": "https://open.spotify.com/album/1YCm0tloF8D3kBOuJcz6lU"
+      },
+      "artists": [
+        {
+          "name": "Aktual",
+          "url": "https://open.spotify.com/artist/3w7mWtRkKH3dCzX4JuJfDD"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Inrich Maed",
+          "url": "https://open.spotify.com/artist/1Dxe9YA63433kbYZVFhkYv"
+        },
+        {
+          "name": "Google Mall",
+          "url": "https://open.spotify.com/artist/20gEGzBsc9DjVXFBwYLo2Y"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201978,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4rGP75m2lSzweuA4dlJhzk"
+    },
+    {
+      "album": {
         "name": "Purpose",
         "url": "https://open.spotify.com/album/0LoLLKMlLm2nO0lcSVJWp8"
       },
@@ -3350,7 +3380,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15993,
+  "num_followers": 16008,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -491,30 +491,18 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Namorar (Remix)",
-        "url": "https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO"
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
       },
       "artists": [
         {
-          "name": "10 QUI",
-          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        },
-        {
-          "name": "Pumba Dos Santos",
-          "url": "https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h"
-        },
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 226319,
-      "name": "Namorar - Remix",
-      "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
+      "duration_ms": 156470,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -539,18 +527,30 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
+        "name": "Namorar (Remix)",
+        "url": "https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Pumba Dos Santos",
+          "url": "https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
         }
       ],
-      "duration_ms": 156470,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
+      "duration_ms": 226319,
+      "name": "Namorar - Remix",
+      "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
-      },
-      "artists": [
-        {
-          "name": "Para\u00edsos",
-          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 195317,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
         "name": "Museo",
         "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 165923,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edsos",
+          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
     },
     {
       "added_at": "2026-03-20 04:59:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Мейнстримні та нішеві поп треки, якими захоплюється Україна і світ! Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,539 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,611 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 53 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
 | 54 | [Смак\-печаль](https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Смак\-печаль](https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k) | 2:28 |
 | 55 | [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 |
-| 56 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
-| 57 | [Схожі](https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Схожі](https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG) | 2:13 |
+| 56 | [Схожі](https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Схожі](https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG) | 2:13 |
+| 57 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
 | 58 | [Пінаколада](https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno) | [Vitaliy Kozlovskiy](https://open.spotify.com/artist/1xn58akm1S6uU3ZVbNNfSw) | [Пінаколада](https://open.spotify.com/album/112jvnaQDUj6eHextLkaaS) | 3:15 |
 | 59 | [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 |
 | 60 | [HORA](https://open.spotify.com/track/5PBohl4TCGfmUkDxsYgAuk) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [HORA](https://open.spotify.com/album/1zvYTSGjOKxgoEque7gpHu) | 2:25 |
-| 61 | [Ridnym](https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym](https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn) | 2:58 |
-| 62 | [Хто якщо не ми](https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Хто якщо не ми](https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3) | 2:43 |
+| 61 | [Хто якщо не ми](https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Хто якщо не ми](https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3) | 2:43 |
+| 62 | [Ridnym](https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym](https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn) | 2:58 |
 | 63 | [LIGHTKEEPER](https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [LIGHTKEEPER](https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE) | 2:59 |
 | 64 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 65 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |

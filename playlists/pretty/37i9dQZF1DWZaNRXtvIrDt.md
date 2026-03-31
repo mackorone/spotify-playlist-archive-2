@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,067 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,056 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 21 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 |
 | 22 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 23 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
-| 24 | [All Night Long](https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT) | [LNRT](https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC) | [All Night Long](https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl) | 2:59 |
-| 25 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
+| 24 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
+| 25 | [All Night Long](https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT) | [LNRT](https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC) | [All Night Long](https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl) | 2:59 |
 | 26 | [Feel The Friction](https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Feel The Friction](https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi) | 3:02 |
 | 27 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |
 | 28 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 45 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 46 | [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [Sekta](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 |
 | 47 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 |
-| 48 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
-| 49 | [Murda Style](https://open.spotify.com/track/3CfXDUYPtL6UWgLf5UES2R) | [4K](https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP) | [Shellerz Volume One](https://open.spotify.com/album/3YbE8A7z6u1qtAXJRj8jbZ) | 4:30 |
-| 50 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
+| 48 | [Murda Style](https://open.spotify.com/track/3CfXDUYPtL6UWgLf5UES2R) | [4K](https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP) | [Shellerz Volume One](https://open.spotify.com/album/3YbE8A7z6u1qtAXJRj8jbZ) | 4:30 |
+| 49 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
+| 50 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 
 Snapshot ID: `AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,851 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,879 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 61 | [Learn To Love \(with Dean Lewis\)](https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Learn To Love \(with Dean Lewis\)](https://open.spotify.com/album/2S3BmpJnHH9YthFFyNmv3e) | 3:33 |
 | 62 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
 | 63 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
-| 64 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
-| 65 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 |
+| 64 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 |
+| 65 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
 | 66 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
 | 67 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
 | 68 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 71 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
 | 72 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 73 | [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 |
-| 74 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 |
-| 75 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
+| 74 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
+| 75 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 |
 | 76 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 77 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
 | 78 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 97 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
 | 98 | [All This Love](https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [All This Love](https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4) | 3:25 |
 | 99 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
-| 100 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
+| 100 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 |
 
 Snapshot ID: `AAAAAJTmwS2EPyT3JfQTdjxycJSfKmVE`

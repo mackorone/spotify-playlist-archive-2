@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAADHwkbszemTiUpmwKUeZ2X",
+  "snapshot_id": "achrgAAAAACZiCKRdzUjvk0EtbXar/D7",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees - The Very Best Of",
-        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 218626,
-      "name": "What I Did for Love",
-      "url": "https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx"
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 169640,
-      "name": "You're the Fool",
-      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
+      "duration_ms": 218626,
+      "name": "What I Did for Love",
+      "url": "https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees Live",
-        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Free Ride - Live at Bailey's, London, England - 1975",
-      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Dimensions",
         "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 367520,
       "name": "Giving Up, Giving In",
       "url": "https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Free Ride - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
     },
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 293906,
-      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
-      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+      "duration_ms": 293906,
+      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
+      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
     },
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
       "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 151786,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
+      "duration_ms": 283066,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb"
     },
     {
       "added_at": null,
@@ -767,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb"
+      "duration_ms": 215640,
+      "name": "Bodycheck",
+      "url": "https://open.spotify.com/track/4zGey0xDrpJWmzRfs6qDIC"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Gonna Need You / Just Right for Love",
-        "url": "https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "I'm Gonna Need You",
-      "url": "https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+        "name": "I'm Gonna Need You / Just Right for Love",
+        "url": "https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Bodycheck",
-      "url": "https://open.spotify.com/track/4zGey0xDrpJWmzRfs6qDIC"
+      "duration_ms": 172133,
+      "name": "I'm Gonna Need You",
+      "url": "https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY"
     }
   ],
   "unique_name": "This Is The Three Degrees",

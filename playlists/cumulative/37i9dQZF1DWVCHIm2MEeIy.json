@@ -1855,6 +1855,28 @@
     },
     {
       "album": {
+        "name": "CA$H BEIBY",
+        "url": "https://open.spotify.com/album/10cBflFJWpSgONDqcPqdxt"
+      },
+      "artists": [
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Zol Ekaterina",
+          "url": "https://open.spotify.com/artist/6L82D9M6vQkMBQTSm13eMM"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223216,
+      "name": "CA$H BEIBY",
+      "url": "https://open.spotify.com/track/1a2YioBXoAKvZdihxcbhcl"
+    },
+    {
+      "album": {
         "name": "Cabalero",
         "url": "https://open.spotify.com/album/1hTnb56AqwEnUV52UPnYbq"
       },
@@ -9598,7 +9620,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 247384,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I"

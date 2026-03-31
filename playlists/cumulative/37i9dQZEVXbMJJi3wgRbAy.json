@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -2880,6 +2880,28 @@
       "duration_ms": 197284,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/3Zf4GutWZ7Hv3wsVQsSQPs"
+    },
+    {
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/4EhK5YzElsndOqDWKhyzXC"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/1iYO9XtNR0soZCgBxJ1mg7"
     },
     {
       "album": {
@@ -19847,6 +19869,24 @@
     },
     {
       "album": {
+        "name": "Que No Queden Huellas",
+        "url": "https://open.spotify.com/album/6iJtbZdTOp966hCo2EFWJj"
+      },
+      "artists": [
+        {
+          "name": "La Pen\u00faltima",
+          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218017,
+      "name": "Que No Queden Huellas",
+      "url": "https://open.spotify.com/track/2jTZ5rxKSTpzPJfVFM9nsP"
+    },
+    {
+      "album": {
         "name": "Que Pasar\u00eda",
         "url": "https://open.spotify.com/album/5jezPedG2PCHgMKVwv1kfs"
       },
@@ -25052,7 +25092,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"

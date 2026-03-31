@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,064 likes - 150 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,219 likes - 150 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 78 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
 | 79 | [Square Hammer](https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 3:58 |
 | 80 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
-| 81 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
-| 82 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
+| 81 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
+| 82 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
 | 83 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 | 84 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 |
 | 85 | [Angus Mcfife](https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Tales from the Kingdom of Fife](https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE) | 3:28 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 108 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 |
 | 109 | [Rats](https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq) | 4:21 |
 | 110 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
-| 111 | [Proving Grounds](https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Guilty Pleasure](https://open.spotify.com/album/57kMq4QecevJKf8DOH8Gzp) | 3:28 |
-| 112 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 111 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 112 | [Proving Grounds](https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Guilty Pleasure](https://open.spotify.com/album/57kMq4QecevJKf8DOH8Gzp) | 3:28 |
 | 113 | [Wash It Away](https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Searching for Solace](https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8) | 3:34 |
 | 114 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
 | 115 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 123 | [Ashes of the Dawn](https://open.spotify.com/track/02kCXxQSaaVZiyXZMQWgpA) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Reaching into Infinity](https://open.spotify.com/album/5lW7oJLGH5ggUyqJEBXu59) | 4:33 |
 | 124 | [Mama Said Knock You Out](https://open.spotify.com/track/3EhGmExUtvaa15OueF2kvC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 2:47 |
 | 125 | [Night of the Werewolves](https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:30 |
-| 126 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 |
-| 127 | [The Anomaly](https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Unseen Empire](https://open.spotify.com/album/0cZkE6WaTMF97XjoidD8FZ) | 3:50 |
+| 126 | [The Anomaly](https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Unseen Empire](https://open.spotify.com/album/0cZkE6WaTMF97XjoidD8FZ) | 3:50 |
+| 127 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 |
 | 128 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 |
 | 129 | [Invisible Enemy](https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:37 |
 | 130 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |

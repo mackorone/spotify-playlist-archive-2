@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-297 songs - 17 hr 5 min
+298 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,10 +165,11 @@
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2022-12-22 | 2024-02-16 |
 | [Love Is Pain](https://open.spotify.com/track/6Prd1Z03iwPmmPSPTzMBhh) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [Love Is Pain](https://open.spotify.com/album/14HZiGrDyGfdVvjZisEni1) | 3:42 | 2023-11-09 | 2025-12-06 |
 | [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 | 2025-09-17 |  |
+| [Lovers Come And Go](https://open.spotify.com/track/0tMEIkZBGW6y3oQoahqmJ1) | [Oliver Aron](https://open.spotify.com/artist/5HatOJzhgoVHpXTGBeCJlI) | [Lovers Come And Go](https://open.spotify.com/album/5PDqHAq1ABpCfpI8vXAIMo) | 2:25 | 2026-03-30 |  |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-12-22 | 2025-03-13 |
 | [Make it a Memory](https://open.spotify.com/track/4wNyXz7XVh4CfjTgstJr7T) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Make it a Memory](https://open.spotify.com/album/5SxOgwsyojWkxjknZwFusM) | 3:29 | 2022-12-22 | 2024-07-19 |
 | [Mathematics](https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:01 | 2025-01-25 |  |
-| [MAYBE.](https://open.spotify.com/track/6yA2GnuThv4oDuEimu4Rmg) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/0bAYZeyWRQEikxxpxRGZrs) | 3:55 | 2025-03-12 |  |
+| [MAYBE.](https://open.spotify.com/track/6yA2GnuThv4oDuEimu4Rmg) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/0bAYZeyWRQEikxxpxRGZrs) | 3:55 | 2025-03-12 | 2026-03-31 |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2022-12-22 | 2024-04-19 |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2024-04-18 | 2025-04-25 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-12-22 | 2025-06-05 |
@@ -214,7 +215,7 @@
 | [Running Out \- Live From The Studio](https://open.spotify.com/track/2iAy8pc1c5qEyHBETuiVP4) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Running Out \(Live From The Studio\)](https://open.spotify.com/album/4UBss9tPBdE1Pjh5tvz6Vf) | 2:45 | 2022-12-22 | 2023-11-10 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-03-12 |  |
 | [See You Soon](https://open.spotify.com/track/6wapYSSHUWcugaK7W6BLsl) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Oxygen](https://open.spotify.com/album/7eTIlScpWObigoFJXZEtpH) | 2:54 | 2025-06-04 |  |
-| [She Knows Me Now \(The Silent Song\)](https://open.spotify.com/track/6mu0veQ0m8WuWp8TyLWKOw) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [She Knows Me Now \(The Silent Song\)](https://open.spotify.com/album/5Q4LCPIGD40akgsy9EcQIj) | 2:53 | 2025-05-15 |  |
+| [She Knows Me Now \(The Silent Song\)](https://open.spotify.com/track/6mu0veQ0m8WuWp8TyLWKOw) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [She Knows Me Now \(The Silent Song\)](https://open.spotify.com/album/5Q4LCPIGD40akgsy9EcQIj) | 2:53 | 2025-05-15 | 2026-03-31 |
 | [Silently Hurting Me](https://open.spotify.com/track/2XD4jhSNQ64FbOui9Fd7rs) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Silently Hurting Me](https://open.spotify.com/album/2Aco4L6QmFBxtfvb7MMuLB) | 3:26 | 2026-01-23 |  |
 | [Sit With Me](https://open.spotify.com/track/38PC1s0cjBQFMOLAK49UQy) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Sit With Me](https://open.spotify.com/album/0mzB6cpwbFqhK8D3qJd8UY) | 4:28 | 2025-11-11 |  |
 | [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 | 2024-07-18 | 2025-06-05 |

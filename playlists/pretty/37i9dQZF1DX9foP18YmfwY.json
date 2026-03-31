@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 374986,
+  "num_followers": 375084,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Essencial (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        },
-        {
-          "name": "Maninho",
-          "url": "https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM"
-        }
-      ],
-      "duration_ms": 220071,
-      "name": "Essencial - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
         "name": "Msh ao Teu Lado 2026",
         "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 298155,
       "name": "Cora\u00e7\u00e3o Ferido",
       "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Essencial (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM"
+        }
+      ],
+      "duration_ms": 220071,
+      "name": "Essencial - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ"
     },
     {
       "added_at": "2026-03-27 19:13:13",

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,690 songs - 3 day 17 hr 21 min
+1,691 songs - 3 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-17 | 2023-08-04 |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-09 | 2024-01-26 |
 | [Big Revolution](https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7) | [Big Revolution](https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68) | 3:37 | 2022-11-08 | 2022-11-21 |
+| [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 | 2026-03-30 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 | 2025-11-25 |
 | [BIRD \- THE BEST Ver.](https://open.spotify.com/track/1r3pEtxuKLrkVt8tPXQX4K) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [BIRD \(THE BEST Ver.\)](https://open.spotify.com/album/1owcEw2antmRf5VKfUudPd) | 4:04 | 2023-04-18 | 2023-06-07 |
 | [Birth](https://open.spotify.com/track/1yi1SkHImBpnP99qvWHajP) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre1 : Birth>](https://open.spotify.com/album/6IkXLIaBHITQ0FLbTZkJg2) | 2:42 | 2024-04-18 | 2024-05-08 |
@@ -840,7 +841,7 @@
 | [Love MySelf](https://open.spotify.com/track/6lXnpJ3t85Eb16tH2UPSAq) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Love MySelf](https://open.spotify.com/album/2VxMzrTFXYfYnJnYb8Udnj) | 3:09 | 2025-03-06 | 2025-04-30 |
 | [Love or Die](https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [EVERSHINE](https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ) | 2:47 | 2024-02-26 | 2024-04-17 |
 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 | 2023-02-14 | 2023-05-10 |
-| [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 | 2025-08-18 |  |
+| [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 | 2025-08-18 | 2026-03-31 |
 | [Love Storm \-Japanese version\-](https://open.spotify.com/track/4gT3kYUuvq8muugNGUc5D2) | [K4](https://open.spotify.com/artist/5inuQ4IeBomUOFXuYolnay) | [Love Storm／Bye Bye Bye](https://open.spotify.com/album/3phYwhCnhFTu2hMKWIStsl) | 4:19 | 2024-03-26 | 2024-04-03 |
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-03-16 |
 | [LOVE TODAY](https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:07 | 2025-03-04 | 2025-03-07 |

@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Allerrijkste Man",
+        "url": "https://open.spotify.com/album/0PE1LskBIQhjfZSkS0Jx4t"
+      },
+      "artists": [
+        {
+          "name": "Max Bolhuis",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140979,
+      "name": "Allerrijkste Man",
+      "url": "https://open.spotify.com/track/0h8GdVEcpbZAGhh9dZjpvE"
+    },
+    {
+      "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
       },
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 145263,
       "name": "Niet Voor De Smaak",
       "url": "https://open.spotify.com/track/1cLMnHYsSs0lS52FqnFLZ6"

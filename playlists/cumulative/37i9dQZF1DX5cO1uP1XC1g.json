@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Arabic Music.\nCover: Haifa Wehbe",
+  "description": "The Hottest Arabic Music.\nCover: Angham",
   "name": "Yalla ",
   "tracks": [
     {
@@ -4637,6 +4637,24 @@
     },
     {
       "album": {
+        "name": "Mesh Habibi Bas",
+        "url": "https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241163,
+      "name": "Mesh Habibi Bas",
+      "url": "https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ"
+    },
+    {
+      "album": {
         "name": "Mesytara",
         "url": "https://open.spotify.com/album/26hT0T2WvH4PhIxTLrNnSw"
       },
@@ -5992,6 +6010,32 @@
       "duration_ms": 205062,
       "name": "TMO (with Mohamed Ramadan & Gims)",
       "url": "https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb"
+    },
+    {
+      "album": {
+        "name": "Vito Van",
+        "url": "https://open.spotify.com/album/2145OvUcIZ6DnL5tfodrii"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "ORIO",
+          "url": "https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Vito Van",
+      "url": "https://open.spotify.com/track/0UQyYkHeR1xv51ApdrNFKv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,595 songs - 5 day 15 hr 42 min
+2,596 songs - 5 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [fare thee well](https://open.spotify.com/track/2IxDyOPHjAxRGDZAtGD4Q4) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/6Bdj3psgGGsBxYUCpLhhqV) | 4:23 | 2023-04-29 | 2023-05-01 |
 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 | 2024-10-05 | 2024-10-13 |
 | [farger](https://open.spotify.com/track/1TlykKAjLgM94KrSb0pSqS) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj) | [det er mindre ensomt alene](https://open.spotify.com/album/78pLqJwUxMeqtkwwItADPX) | 3:18 | 2024-04-08 | 2024-04-13 |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-03-30 |  |
 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 | 2025-10-04 | 2025-10-26 |
 | [Father Figure](https://open.spotify.com/track/1lD0oPIfSYid1LhPvgrz10) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:32 | 2025-10-08 | 2025-10-12 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-27 |
@@ -1742,7 +1743,7 @@
 | [Overalt \(freestyle\)](https://open.spotify.com/track/2GTerLvsvldMg3YjVo6S5C) | [S1sco](https://open.spotify.com/artist/6P5E47LG2XlrXhGu5Ia17x) | [Overalt \(freestyle\)](https://open.spotify.com/album/65PnsOvK3Svk3p7kQsMA8Y) | 2:01 | 2021-03-27 | 2021-03-29 |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-15 | 2023-07-24 |
 | [Overdrive](https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:27 | 2023-07-31 | 2023-08-13 |
-| [Overfladisk](https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Overfladisk](https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34) | 2:58 | 2025-03-29 |  |
+| [Overfladisk](https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Overfladisk](https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34) | 2:58 | 2025-03-29 | 2026-03-31 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-21 |
 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2021-08-01 | 2021-08-08 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-24 |

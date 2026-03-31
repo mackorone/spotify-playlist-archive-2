@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 307357,
+  "num_followers": 307385,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABx9pHciIJGbUIh4kd0zxT/",
+  "snapshot_id": "achrgAAAAAAaAKxXTFYYvMxrBXQkf01l",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 137983,
-      "name": "Cry Baby (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 165395,
       "name": "Rapunzel (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 137983,
+      "name": "Cry Baby (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 171067,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158663,
       "name": "Otaku Hot Girl",
       "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 171067,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 154389,
-      "name": "Girls in the Hood",
-      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suga",
         "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe"
+      "duration_ms": 154389,
+      "name": "Girls in the Hood",
+      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 176749,
+      "name": "Captain Hook",
+      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 206461,
       "name": "B.A.S. (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 176749,
-      "name": "Captain Hook",
-      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 191711,
-      "name": "Where Them Girls At",
-      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 123636,
       "name": "Tuned In Freestyle",
       "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155090,
+      "name": "What\u2019s New",
+      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -791,42 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155090,
-      "name": "What\u2019s New",
-      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 199427,
       "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
     },
     {
       "added_at": null,

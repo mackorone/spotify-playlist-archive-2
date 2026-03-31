@@ -47003,6 +47003,24 @@
     },
     {
       "album": {
+        "name": "pe$o$",
+        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "pe$o$",
+      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/4tORIFZR2cAnZlkVk82q6o"
       },
@@ -47282,24 +47300,6 @@
       "duration_ms": 188164,
       "name": "Permanently Sealed - Bonus Track",
       "url": "https://open.spotify.com/track/2KEbK50PjCZKdbaycJkYy1"
-    },
-    {
-      "album": {
-        "name": "pesos",
-        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138133,
-      "name": "pesos",
-      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
     },
     {
       "album": {

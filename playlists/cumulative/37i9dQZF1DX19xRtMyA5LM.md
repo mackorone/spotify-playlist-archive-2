@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: JayKoppig
 
-377 songs - 17 hr 0 min
+378 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ballie](https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Ballie](https://open.spotify.com/album/55umMdwSFkqtjvJfktDi8K) | 2:53 | 2025-09-25 | 2025-12-05 |
 | [Bandz](https://open.spotify.com/track/0X7knxXVCAIt08kX8LWVC6) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD), [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [RpBeats](https://open.spotify.com/artist/5KycryP0jIKEwY9sl1Fpq9) | [Bandz](https://open.spotify.com/album/799RMHsa3qm6sBzu0CP8KS) | 2:10 | 2025-07-17 | 2025-07-25 |
 | [Banlieue](https://open.spotify.com/track/1GNQaqjUla0JLBM8bLxdL7) | [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [Banlieue](https://open.spotify.com/album/45tSyBs3b6fJhCG4qjWsPe) | 2:41 | 2025-07-17 | 2025-08-05 |
+| [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 | 2026-03-30 |  |
 | [Beeldspraak](https://open.spotify.com/track/7gNMzb2QugWttXBA63EGM0) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:27 | 2026-01-22 | 2026-02-04 |
 | [Beemsterstraat](https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Beemsterstraat](https://open.spotify.com/album/4fIC1wHhQghmmJZS5QmFJT) | 2:20 | 2025-12-04 | 2026-01-15 |
 | [Before The Hype](https://open.spotify.com/track/6Xl8SV2MuJgXtytiJwX5Vz) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Before The Hype](https://open.spotify.com/album/5DrNm3Tp7PpS2zNHas1uLR) | 2:30 | 2026-01-29 | 2026-02-13 |
@@ -92,7 +93,7 @@
 | [Discrepantie](https://open.spotify.com/track/4pSaNPrchMlg7Nve9qKSMY) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:05 | 2026-03-19 |  |
 | [Don Julio](https://open.spotify.com/track/50xOKdGM8g8aBZoF6eDFb1) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Don Julio](https://open.spotify.com/album/6sdewdfn0oBTIRZewCPT8d) | 2:10 | 2025-11-13 | 2026-02-13 |
 | [Doolhof](https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Doolhof](https://open.spotify.com/album/3FPIq2ubwc17mIJz5l7YvX) | 3:49 | 2025-10-23 | 2025-11-28 |
-| [Dromen Achterna](https://open.spotify.com/track/5pyzmmODTKxN3CAFnQ1lto) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Dromen Achterna](https://open.spotify.com/album/5xEDclHO7NfsaCW4BqpgVz) | 2:32 | 2026-02-12 |  |
+| [Dromen Achterna](https://open.spotify.com/track/5pyzmmODTKxN3CAFnQ1lto) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Dromen Achterna](https://open.spotify.com/album/5xEDclHO7NfsaCW4BqpgVz) | 2:32 | 2026-02-12 | 2026-03-31 |
 | [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 | 2026-01-16 | 2026-02-25 |
 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 | 2025-09-18 | 2026-01-06 |
 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 | 2025-07-17 | 2025-09-19 |

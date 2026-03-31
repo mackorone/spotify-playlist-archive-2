@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9470,
+  "num_followers": 9471,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAAhtylK2eVIs+Y2uyJZuJv",
+  "snapshot_id": "achrgAAAAAApxRSYgciZz4j02N/4L34G",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
+      "duration_ms": 245787,
+      "name": "Not Your Usual Night",
+      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
     },
     {
       "added_at": null,
@@ -562,15 +562,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,
@@ -615,6 +611,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
+      },
+      "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -635,46 +671,6 @@
       "duration_ms": 197474,
       "name": "Glass Face",
       "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
-      },
-      "artists": [
-        {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 245787,
-      "name": "Not Your Usual Night",
-      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
-      },
-      "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
     },
     {
       "added_at": null,
@@ -730,11 +726,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,

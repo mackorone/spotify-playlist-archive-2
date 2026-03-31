@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain](/playlists/plain/37i9dQZF1DWXL5bWfnjoIL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXL5bWfnjoIL)
 
-### [ちびまる子ちゃん  CHIBI MARUKO CHAN](https://open.spotify.com/playlist/37i9dQZF1DWXL5bWfnjoIL)
+### [CHIBI MARUKO CHAN](https://open.spotify.com/playlist/37i9dQZF1DWXL5bWfnjoIL)
 
-> Enjoy music from "CHIBI MARUKO CHAN"! アニメ「ちびまる子ちゃん」でお馴染みの楽曲をプレイリストで。© さくらプロダクション / 日本アニメーション
+> Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 23 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain]
 | 22 | [人生いろいろ](https://open.spotify.com/track/5hIBNRNYo7zVcXNgbO4kCD) | [Chiyoko Shimakura](https://open.spotify.com/artist/53cuVCnpOQkB0gnNcoS3SC) | [浜口庫之助作品集を唄う](https://open.spotify.com/album/14B4MJcVtitpXxJmvwUAOZ) | 3:54 |
 | 23 | [ゆめいっぱい \- Cover](https://open.spotify.com/track/6LBsaxjOkXIkzliEt4YFid) | [有馬ゆみこ](https://open.spotify.com/artist/1oSTnOvEeh8zxbSBvtUYbw) | [ゆめいっぱい \(Cover\)](https://open.spotify.com/album/51AxOHsHEfEOlk9QfXl9GU) | 3:13 |
 
-Snapshot ID: `AAAAAG7TQetUjry++qhUUt1H50uHDri5`
+Snapshot ID: `AAAAAM3mF4B0QgCI/1kimMvvdXLcNrx5`

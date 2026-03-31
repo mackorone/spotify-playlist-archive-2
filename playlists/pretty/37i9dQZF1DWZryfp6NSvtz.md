@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Paul McCartney
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,240 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,321 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 34 | [Portrait set on fire](https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Portrait set on fire](https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC) | 3:49 |
 | 35 | [tell me](https://open.spotify.com/track/3jfJPzGD3L82wgPbbWPX8B) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [tell me](https://open.spotify.com/album/67WhRSBT9V28tG17YLI0ua) | 2:28 |
 | 36 | [Whore & Savior](https://open.spotify.com/track/5cTtCrGbZtFfED0xji1Gi3) | [Forest](https://open.spotify.com/artist/4yhFkgZya8FbiBkJU7t5j6) | [Whore & Savior](https://open.spotify.com/album/6bHsZZMr8WmCuTFguvgwJr) | 2:49 |
-| 37 | [pesos](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pesos](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
+| 37 | [pe$o$](https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [pe$o$](https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA) | 2:18 |
 | 38 | [Appetite](https://open.spotify.com/track/0itY67PAKCZ7ct5rfqDYny) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [Ultra Violence / Appetite](https://open.spotify.com/album/1knLB4NojYvAH1vULgDuNz) | 2:27 |
 | 39 | [Crash Landing](https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Crash Landing](https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y) | 5:34 |
 | 40 | [Glassman](https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Swan Songs](https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc) | 4:28 |

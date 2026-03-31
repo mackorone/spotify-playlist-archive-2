@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,092 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,093 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 66 | [Relate](https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Relate](https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw) | 2:48 |
 | 67 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
 | 68 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
-| 69 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
-| 70 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
+| 69 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
+| 70 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 71 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
-| 72 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
-| 73 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
+| 72 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
+| 73 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 74 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 75 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |
-| 76 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
-| 77 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
+| 76 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
+| 77 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
 | 78 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
 | 79 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
 | 80 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 |

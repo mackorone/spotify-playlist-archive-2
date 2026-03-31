@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADI5bR6hU/quoQIifhOtrmK",
+  "snapshot_id": "achrgAAAAABq4+Q1WtXaczOS+urKVdei",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "HEART OF MINE (DELUXE)",
+        "url": "https://open.spotify.com/album/4qapKMn9FqBtBVCnRo4tV6"
+      },
+      "artists": [
+        {
+          "name": "Darrel Walls",
+          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 169912,
+      "name": "AMAZING - REMIX",
+      "url": "https://open.spotify.com/track/56URSnHWXyLZvgThlyWSOF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -399,30 +423,6 @@
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HEART OF MINE (DELUXE)",
-        "url": "https://open.spotify.com/album/4qapKMn9FqBtBVCnRo4tV6"
-      },
-      "artists": [
-        {
-          "name": "Darrel Walls",
-          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 169912,
-      "name": "AMAZING - REMIX",
-      "url": "https://open.spotify.com/track/56URSnHWXyLZvgThlyWSOF"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -695,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Me",
         "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 206413,
       "name": "Why Me?",
       "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Canton Jones",
+          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
+        }
+      ],
+      "duration_ms": 264346,
+      "name": "Repin My God",
+      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
     },
     {
       "added_at": null,
@@ -783,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Canton Jones",
-          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
-        }
-      ],
-      "duration_ms": 264346,
-      "name": "Repin My God",
-      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Judge Me (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 204000,
       "name": "Don't Judge Me (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G.U.T.S. (God's Up To Something)",
+        "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 90008,
+      "name": "G.U.T.S. (God's Up To Something)",
+      "url": "https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 252760,
       "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
       "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G.U.T.S. (God's Up To Something)",
-        "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 90008,
-      "name": "G.U.T.S. (God's Up To Something)",
-      "url": "https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 307960,
-      "name": "All Glory",
-      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACELAND (Deluxe)",
         "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
       },
@@ -1015,74 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 209927,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Praise Him Now",
-      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 189392,
-      "name": "Better Than I Found It (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 335816,
-      "name": "Making A Way (feat. Adia)",
-      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
+      "duration_ms": 307960,
+      "name": "All Glory",
+      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
     },
     {
       "added_at": null,
@@ -1112,9 +1040,29 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Wave Your Banner",
-      "url": "https://open.spotify.com/track/55uc68Rku0EI2lTwvDHhoq"
+      "duration_ms": 229840,
+      "name": "Praise Him Now",
+      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 335816,
+      "name": "Making A Way (feat. Adia)",
+      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
     },
     {
       "added_at": null,
@@ -1135,6 +1083,58 @@
       "duration_ms": 310644,
       "name": "Come A Little Closer - Live",
       "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 209927,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Wave Your Banner",
+      "url": "https://open.spotify.com/track/55uc68Rku0EI2lTwvDHhoq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 189392,
+      "name": "Better Than I Found It (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

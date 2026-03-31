@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 242847,
+  "num_followers": 242845,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Blood // Water",
-        "url": "https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "Blood // Water",
-      "url": "https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Blood // Water",
+        "url": "https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "Blood // Water",
+      "url": "https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "My Honest Face",
-      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "The Pleasure Principle",
-        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
-      },
-      "artists": [
-        {
-          "name": "Gary Numan",
-          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The Pleasure Principle",
+        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "My Honest Face",
+      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Your New Morning Alarm",
         "url": "https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 217706,
       "name": "Everyday I Love You Less And Less",
       "url": "https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Marcus Garvey",
+        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
+      },
+      "artists": [
+        {
+          "name": "Burning Spear",
+          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Marcus Garvey",
+      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Cult Classics",
         "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Marcus Garvey",
-        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
+        "name": "All U Gotta Do",
+        "url": "https://open.spotify.com/album/5eBnGbTjE9gIFh7IC01EEI"
       },
       "artists": [
         {
-          "name": "Burning Spear",
-          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Marcus Garvey",
-      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
+      "duration_ms": 225785,
+      "name": "All U Gotta Do",
+      "url": "https://open.spotify.com/track/1Uk6kqbSTNFBqXACE4Vv6A"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1907,22 +1923,6 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing (with Charlotte Plank)",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "All U Gotta Do",
-        "url": "https://open.spotify.com/album/5eBnGbTjE9gIFh7IC01EEI"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 225785,
-      "name": "All U Gotta Do",
-      "url": "https://open.spotify.com/track/1Uk6kqbSTNFBqXACE4Vv6A"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1975,18 +1975,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
       "artists": [
         {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/633PfmSDPfYA2wOjZK6EZm"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2007,22 +2011,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Rust (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/633PfmSDPfYA2wOjZK6EZm"
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "TANZPARTEI II (Mixtape)",
         "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 151599,
       "name": "Friday (Alone Right Now)",
       "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "What They Say EP",
-        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
+        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
       },
       "artists": [
         {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 400115,
-      "name": "What They Say",
-      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+      "duration_ms": 167866,
+      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2487,18 +2487,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
+        "name": "What They Say EP",
+        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
         }
       ],
-      "duration_ms": 167866,
-      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+      "duration_ms": 400115,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 202055,
-      "name": "Britpop",
-      "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2819,38 +2819,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "H.O.O.D 2025",
-        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        }
-      ],
-      "duration_ms": 172557,
-      "name": "H.O.O.D - 2025 Mix",
-      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Send Return Remixes Pt. 1",
         "url": "https://open.spotify.com/album/2d10S3TzEDbCwxnTSZH1Bq"
       },
@@ -2883,6 +2851,38 @@
       "duration_ms": 442506,
       "name": "Paris - Chlo\u00e9 Caillet Remix",
       "url": "https://open.spotify.com/track/4J3XYyIJYpXVKenF566F3A"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "H.O.O.D 2025",
+        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "duration_ms": 172557,
+      "name": "H.O.O.D - 2025 Mix",
+      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -3103,6 +3087,22 @@
       "duration_ms": 307075,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3203,22 +3203,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Come And See",
-        "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/6wWmhXZFZe39QGyXRHZ1NR"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "How To Steal The World",
         "url": "https://open.spotify.com/album/4kGCKCIGbJvPP6TQT9XPqc"
       },
@@ -3231,6 +3215,22 @@
       "duration_ms": 248640,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Come And See",
+        "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/6wWmhXZFZe39QGyXRHZ1NR"
     },
     {
       "added_at": "2025-06-27 23:00:28",

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Baby Keem",
-  "num_followers": 80792,
+  "num_followers": 80786,
   "original_name": "Editors' Picks: Best Songs of February",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Bad Moons",
-        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
-      },
-      "artists": [
-        {
-          "name": "American Football",
-          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
-        }
-      ],
-      "duration_ms": 493146,
-      "name": "Bad Moons",
-      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "Broken Record",
         "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 145181,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Bad Moons",
+        "url": "https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "duration_ms": 493146,
+      "name": "Bad Moons",
+      "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
     },
     {
       "added_at": "2026-03-02 12:43:35",

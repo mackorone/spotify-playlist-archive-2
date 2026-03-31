@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,938 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,939 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 15 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:32 |
 | 16 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 17 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 18 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
+| 18 | [Cielo en la Tierra](https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cielo en la Tierra](https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6) | 3:50 |
 | 19 | [El Disfraz](https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:48 |
-| 20 | [Cielo en la Tierra](https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cielo en la Tierra](https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6) | 3:50 |
+| 20 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
 | 21 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 22 | [Indiferentes](https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [ENTREPUERTAS](https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm) | 2:47 |
 | 23 | [Fue Por Algo](https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:55 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 44 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
 | 45 | [Corazón De Judas](https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tributo A Una Leyenda Humberto Pabón \(Vol\. 1\)](https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8) | 3:52 |
 | 46 | [La Buena Lección](https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:50 |
-| 47 | [FENGSHUI](https://open.spotify.com/track/164CZjnTexbOglCCrao8jo) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FENGSHUI](https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh) | 2:42 |
-| 48 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
+| 47 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
+| 48 | [FENGSHUI](https://open.spotify.com/track/164CZjnTexbOglCCrao8jo) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FENGSHUI](https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh) | 2:42 |
 | 49 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 
-Snapshot ID: `accaAAAAAAAUce8KBf8gfFv1rHI+HnBy`
+Snapshot ID: `achrgAAAAAB7Cp+Az5GqlHwMa4b7N4nl`

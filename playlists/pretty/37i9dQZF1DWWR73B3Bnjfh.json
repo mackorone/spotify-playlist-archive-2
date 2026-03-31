@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 303993,
+  "num_followers": 304169,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "F\u00e4bodjazz",
-        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
-      },
-      "artists": [
-        {
-          "name": "Lars Gullin",
-          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "Danny's Dream",
-      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+        "name": "F\u00e4bodjazz",
+        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
       },
       "artists": [
         {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+          "name": "Lars Gullin",
+          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
         }
       ],
-      "duration_ms": 371986,
-      "name": "Something I Dreamed Last Night",
-      "url": "https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V"
+      "duration_ms": 338733,
+      "name": "Danny's Dream",
+      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -555,6 +539,22 @@
       "duration_ms": 252893,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 371986,
+      "name": "Something I Dreamed Last Night",
+      "url": "https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 471173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
     },
     {
       "added_at": "2025-12-04 13:09:04",

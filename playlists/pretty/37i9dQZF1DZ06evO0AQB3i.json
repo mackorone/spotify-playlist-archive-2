@@ -1,29 +1,13 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 63047,
+  "num_followers": 63060,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAAaHnMFYiWh4jkJDEMdZ5qm",
+  "snapshot_id": "achrgAAAAAAMVr98WUQIkxyo6W0wxfz/",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always Alright",
-        "url": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 249169,
-      "name": "Always Alright",
-      "url": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always Alright",
+        "url": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 249169,
+      "name": "Always Alright",
+      "url": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 277580,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 144200,
       "name": "Hang Loose",
       "url": "https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 277580,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe (Live From Austin City Limits)",
-        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 211374,
-      "name": "Joe - Live From Austin City Limits",
-      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 179653,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joe (Live From Austin City Limits)",
+        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 211374,
+      "name": "Joe - Live From Austin City Limits",
+      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/66R8LOliRn161vDiINJo9z"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 92320,
-      "name": "Mama - Live At KCRW",
-      "url": "https://open.spotify.com/track/4QoURqcKCV0HAoXPZELe1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 175800,
       "name": "I Ain't The Same",
       "url": "https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/66R8LOliRn161vDiINJo9z"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 92320,
+      "name": "Mama - Live At KCRW",
+      "url": "https://open.spotify.com/track/4QoURqcKCV0HAoXPZELe1e"
     },
     {
       "added_at": null,

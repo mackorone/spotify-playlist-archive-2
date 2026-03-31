@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,740 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,782 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 32 | [It's Enough](https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 7:54 |
 | 33 | [What Goes Around Comes Around \- 2012 Remaster/Explicit](https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said \(Deluxe\)](https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh) | 4:49 |
 | 34 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 |
-| 35 | [Mr\. Cab Driver](https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:50 |
-| 36 | [Superlove](https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg) | 3:28 |
+| 35 | [Superlove](https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg) | 3:28 |
+| 36 | [Mr\. Cab Driver](https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:50 |
 | 37 | [Use Me](https://open.spotify.com/track/51fEz8VT1OlCYjU8ItAgQg) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Wandering Spirit](https://open.spotify.com/album/3TAd5skYEcJ9dosbhEsVgA) | 4:28 |
 | 38 | [Fields Of Joy](https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:57 |
 | 39 | [Rock And Roll Is Dead](https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [Ride \(Edit\)](https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo) | 3:40 |
 | 50 | [Circus](https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:48 |
 
-Snapshot ID: `accaAAAAAAACsx5RAHTPHpAF/+FKzfTY`
+Snapshot ID: `achrgAAAAABPaShxkkATckRt49OK/fu/`

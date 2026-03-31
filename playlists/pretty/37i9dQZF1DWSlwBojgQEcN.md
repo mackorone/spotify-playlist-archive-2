@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,264 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,102 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 56 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
 | 57 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
 | 58 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
-| 59 | [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 |
-| 60 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 |
+| 59 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 |
+| 60 | [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 |
 | 61 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 |
 | 62 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
-| 63 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
-| 64 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
-| 65 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
+| 63 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
+| 64 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
+| 65 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
 | 66 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
 | 67 | [I Like to Be With Me When I'm With You](https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [The Collection](https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i) | 3:50 |
 | 68 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 80 | [I Do](https://open.spotify.com/track/0x2kJ54nT96frJQ27700jS) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Euphorics](https://open.spotify.com/album/1WPoh6fbUUAapxP6xfeY9D) | 3:39 |
 | 81 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |
 | 82 | [Love You the Most](https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Love You the Most](https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ) | 2:51 |
-| 83 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
-| 84 | [Who Saved Who](https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Who Saved Who](https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX) | 4:05 |
+| 83 | [Who Saved Who](https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Who Saved Who](https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX) | 4:05 |
+| 84 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 85 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
 | 86 | [Nothing Stays the Same](https://open.spotify.com/track/2xv9YbPXYQFxIJOFQZ93kJ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Tornados EP](https://open.spotify.com/album/1sEIDqRXKhMYnTmxtet0E5) | 4:01 |
 | 87 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 95 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 |
 | 96 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
 | 97 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
-| 98 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
-| 99 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 |
+| 98 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 |
+| 99 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
 | 100 | [Love Is a Made up Word](https://open.spotify.com/track/1dUfHTOZfjE7fqpqd5zjpH) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Love Is a Made up Word](https://open.spotify.com/album/16nXFlZeEgcDuSCEr8fjKD) | 3:06 |
 
 Snapshot ID: `AAAAAAUrI/3R44/q/s6BCEgAMbKh55qP`

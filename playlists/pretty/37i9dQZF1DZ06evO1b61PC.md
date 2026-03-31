@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,390 likes - 44 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,391 likes - 44 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 21 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
 | 22 | [It All Started With A Feeling](https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 2:56 |
 | 23 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
-| 24 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
-| 25 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 24 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 25 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
 | 26 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
 | 27 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
 | 28 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 43 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
 | 44 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 
-Snapshot ID: `accaAAAAAADKHmEfXX4htyzPjR19nFsD`
+Snapshot ID: `achrgAAAAAAe9j3rZbPn8bySGSA65bPd`

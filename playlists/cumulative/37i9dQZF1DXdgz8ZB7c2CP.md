@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌟 featuring MAYV
 
-1,346 songs - 3 day 1 hr 17 min
+1,347 songs - 3 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,7 @@
 | [Jump In The Ride](https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Jump In The Ride](https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1) | 3:50 | 2024-10-31 | 2024-11-16 |
 | [JUMP OUT](https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [JUMP OUT](https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj) | 2:09 | 2023-09-01 | 2023-12-14 |
 | [June 17th](https://open.spotify.com/track/6DmOUU5qGAK28eXy1E1bHz) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [June 17th](https://open.spotify.com/album/6EFFFv8G2WZOsSYQR9ncPu) | 2:29 | 2023-09-22 | 2023-10-01 |
-| [k\_i\_s\_s\_i\_n\_g.wav](https://open.spotify.com/track/5d4qt2LPwtyOEHmWkFvIrz) | [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [k\_i\_s\_s\_i\_n\_g.wav](https://open.spotify.com/album/6TCLFfCXQXpSze0ncBNpZU) | 3:06 | 2026-03-27 |  |
+| [k\_i\_s\_s\_i\_n\_g.wav](https://open.spotify.com/track/5d4qt2LPwtyOEHmWkFvIrz) | [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [k\_i\_s\_s\_i\_n\_g.wav](https://open.spotify.com/album/6TCLFfCXQXpSze0ncBNpZU) | 3:06 | 2026-03-27 | 2026-03-31 |
 | [Kaleidoscope \(Me&U\)](https://open.spotify.com/track/6T5BzQTQzr7JQkPUVlbbLL) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Alexander Lewis](https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV) | [Kaleidoscope \(Me&U\)](https://open.spotify.com/album/2TNaumC6KtDTgt80bdY3n5) | 2:50 | 2022-12-21 | 2023-05-13 |
 | [KARMA](https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [KARMA](https://open.spotify.com/album/4Jr5o5eaXLhVSucvED6QA4) | 2:29 | 2021-08-06 | 2022-07-21 |
 | [Kcab Gnihsur](https://open.spotify.com/track/7GP2geX3A16B2IUFejZtSS) | [gade 节奏](https://open.spotify.com/artist/6BWcu2p4Zn7BgJyx1lexW3) | [Kcab Gnihsur](https://open.spotify.com/album/4vRbGdmuLUTzOEnGPFWTre) | 3:51 | 2023-12-08 | 2023-12-22 |
@@ -1001,6 +1001,7 @@
 | [Set It Off, Set It Right \- davey Remix](https://open.spotify.com/track/2yutngZxUynCq2ji0b3KHV) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm), [davey](https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D) | [Set It Off, Set It Right \(davey Remix\)](https://open.spotify.com/album/3vgl2z7qXunCGAwyz6uE2A) | 5:14 | 2024-02-16 | 2024-03-08 |
 | [Set The Roof \(Flux Pavilion Remix\)](https://open.spotify.com/track/7AqsAzxoevATD63LEoeDoB) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Set The Remixes](https://open.spotify.com/album/5MZjbJlDz79EU90vunw7ZV) | 3:39 | 2024-04-18 | 2024-06-07 |
 | [Shade \- kmoe remix](https://open.spotify.com/track/1XmrSAn9lvlwhVvsHn0Jde) | [MOSSY](https://open.spotify.com/artist/2VWRHe5C0twed36GOerpK5), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Shade \(kmoe remix\)](https://open.spotify.com/album/3kD8EsAWdUbSmDhAXwFIPR) | 2:13 | 2021-09-28 | 2022-05-10 |
+| [Shadow](https://open.spotify.com/track/0C6kGnMDhdKre3kkODrGap) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Shadow](https://open.spotify.com/album/082BFZZXhPeRRigSZhwdEN) | 2:36 | 2026-03-30 |  |
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Shadow \(feat\. Calivania\)](https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L) | 3:35 | 2021-08-06 | 2023-02-11 |
 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 | 2025-01-23 | 2026-01-24 |
 | [Shapeshift](https://open.spotify.com/track/0sYHnDAAx6sM5PBvNL1bKB) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Shapeshift](https://open.spotify.com/album/2RUbKHZHSV3ehikTjFBYD5) | 4:50 | 2025-04-10 | 2025-05-09 |

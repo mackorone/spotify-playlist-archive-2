@@ -4,7 +4,7 @@
 
 > Les sons urbains et Afro les plus chauds 🔥 Cover: Tyla
 
-336 songs - 16 hr 56 min
+337 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2024-03-26 | 2024-08-02 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 | 2025-05-24 | 2026-01-21 |
 | [Derja Derja](https://open.spotify.com/track/2hmo4PM9pPjV1FXL9keYml) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Derja Derja](https://open.spotify.com/album/6qOdqqH9EnQkscRwiMjZR7) | 3:12 | 2024-11-01 | 2024-12-11 |
+| [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 | 2026-03-30 |  |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2024-03-26 | 2024-04-16 |
 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-12-10 | 2025-05-25 |
 | [DIPLOMATICO](https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:16 | 2025-05-15 | 2025-05-25 |
@@ -301,7 +302,7 @@
 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 | 2025-09-15 |  |
 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 | 2025-05-30 |  |
 | [TAGHAZOUT](https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt), [Aziz Ozouss](https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K) | [TAGHAZOUT](https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM) | 3:28 | 2024-05-10 | 2024-05-18 |
-| [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-06-10 |  |
+| [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-06-10 | 2026-03-31 |
 | [Thunes](https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Thunes](https://open.spotify.com/album/4HA7CScPa22I7xf2eoaZsg) | 4:12 | 2025-10-25 | 2026-01-19 |
 | [Ti RIRI](https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac) | [Hustle](https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N) | [Ti RIRI](https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od) | 2:23 | 2024-11-19 | 2025-08-03 |
 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-03-26 | 2024-09-15 |

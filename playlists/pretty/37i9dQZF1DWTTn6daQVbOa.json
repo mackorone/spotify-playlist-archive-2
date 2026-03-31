@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1146157,
+  "num_followers": 1146390,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Spirits Having Flown",
-        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Too Much Heaven",
-      "url": "https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Spirits Having Flown",
+        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Too Much Heaven",
+      "url": "https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Across The Universe - Remastered 2009",
-      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 201773,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Across The Universe - Remastered 2009",
+      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Michael Johnson Album",
         "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 179666,
       "name": "Bluer Than Blue",
       "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+      "duration_ms": 237826,
+      "name": "How Can You Mend A Broken Heart",
+      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 237826,
-      "name": "How Can You Mend A Broken Heart",
-      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277797,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Manhattans (Expanded Version)",
         "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 266733,
       "name": "Kiss and Say Goodbye",
       "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277797,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let Me In Your Life",
-        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
-      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 158533,
       "name": "Snowqueen Of Texas",
       "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let Me In Your Life",
+        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 197626,
       "name": "And I Love You So",
       "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
     },
     {
       "added_at": "2022-09-23 05:26:33",

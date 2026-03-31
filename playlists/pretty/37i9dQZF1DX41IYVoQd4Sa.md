@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אבנר טואג
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,499 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,499 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 28 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |
 | 29 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 30 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
-| 31 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
+| 31 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Tamir Muskat](https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
 | 32 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
-| 33 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 |
-| 34 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
+| 33 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
+| 34 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 |
 | 35 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
 | 36 | [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 |
 | 37 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 47 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 48 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 49 | [עד שירדו דמעות](https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ) | [Assaf Amdursky](https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B) | [עד שירדו דמעות](https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG) | 4:34 |
-| 50 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
+| 50 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
 
 Snapshot ID: `AAAAAH3Ej96hGZZUlwMtHj6AsM4n4lxZ`

@@ -1281,6 +1281,28 @@
     },
     {
       "album": {
+        "name": "Arise (Over the Nations) [Live]",
+        "url": "https://open.spotify.com/album/0vOm5gVUrLOJH8sbNzORgc"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410952,
+      "name": "Arise (Over the Nations) - Live",
+      "url": "https://open.spotify.com/track/5rlI8fiWdU4LQER9uzOHY7"
+    },
+    {
+      "album": {
         "name": "As we look",
         "url": "https://open.spotify.com/album/0dGMDH7mo6O8isPMiMrmzU"
       },
@@ -14140,7 +14162,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 395226,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA"

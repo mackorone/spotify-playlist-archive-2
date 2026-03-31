@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 510157,
+  "num_followers": 510405,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "In the Name of Love",
-        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 198815,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 271426,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "In the Name of Love",
+        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 198815,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
         "name": "Love Tonight (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 158095,
       "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
     },
     {
       "added_at": "2025-01-16 12:30:53",

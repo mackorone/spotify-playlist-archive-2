@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26337,
+  "num_followers": 26335,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Dancin (feat. Luvli) [Krono Remix]",
         "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 198053,
       "name": "Dancin (feat. Luvli) - Krono Remix",
       "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 174444,
       "name": "Post Malone (feat. RANI)",
       "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        }
+      ],
+      "duration_ms": 153391,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2024-07-03 14:32:39",

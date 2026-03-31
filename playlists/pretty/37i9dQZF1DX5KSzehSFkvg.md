@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,835 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,848 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 2 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 |
+| 1 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 |
+| 2 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 3 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
 | 4 | [Mimti](https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia) | 3:18 |
 | 5 | [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 | 50 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
 
-Snapshot ID: `AAAAALD/e9eOiZVwpgPDiSbz7eVygraV`
+Snapshot ID: `AAAAAIGMD0g0KMc/Jxl0+Tyd6yYknm95`

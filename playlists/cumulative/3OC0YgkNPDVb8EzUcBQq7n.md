@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-150 songs - 8 hr 6 min
+151 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-03 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-07-17 |  |
 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 | 2025-10-03 |  |
+| [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2026-03-30 |  |
 | [The Scythe](https://open.spotify.com/track/6VlV6vwhHedxxBumKM5J4s) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/7LQYDVBV6XwJTZMuaQNwHn) | 4:45 | 2025-09-05 | 2025-10-18 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-05 |  |
 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 | 2025-10-03 |  |

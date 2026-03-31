@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1405220,
+  "num_followers": 1405470,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hey Lover / Stand by Me",
         "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best of Sam Cooke",
         "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 129061,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
-      },
-      "artists": [
-        {
-          "name": "Maurice Williams",
-          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
-        },
-        {
-          "name": "Zodiacs",
-          "url": "https://open.spotify.com/artist/2zNVfYS1CR05iqfnTqwswJ"
-        }
-      ],
-      "duration_ms": 94906,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+      },
+      "artists": [
+        {
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "Zodiacs",
+          "url": "https://open.spotify.com/artist/2zNVfYS1CR05iqfnTqwswJ"
+        }
+      ],
+      "duration_ms": 94906,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "Tears Of Fire: The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 159760,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Tears Of Fire: The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
-      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Tommy James and The Shondells: Anthology",
         "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 209800,
       "name": "Crimson & Clover",
       "url": "https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Then He Kissed Me",
+      "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
-        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 133746,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Da Doo Ron Ron (When He Walked Me Home)",
+      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
     },
     {
       "added_at": "2024-07-12 06:11:58",

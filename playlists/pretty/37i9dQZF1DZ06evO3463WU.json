@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158749,
+  "num_followers": 158753,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABwv0JcUhPYLLJp9KHTS9rx",
+  "snapshot_id": "achrgAAAAACbJxMRKnjcDTB1ivthVRwu",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 3)",
-        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Campo a la Ciudad",
         "url": "https://open.spotify.com/album/2Z7kNdzXDDRPZhQlyW6d67"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 206309,
       "name": "Los Amantes",
       "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 3)",
+        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
     },
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Unidos Para Amarnos",
+      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido (En Vivo)",
       "url": "https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Unidos Para Amarnos",
-      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 195566,
-      "name": "Mi Amor sin Ella - Remastered 2025",
-      "url": "https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 220533,
       "name": "Con El Alma En La Mano",
       "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 195566,
+      "name": "Mi Amor sin Ella - Remastered 2025",
+      "url": "https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 220673,
-      "name": "Pasi\u00f3n de Amor - Remastered 2025",
-      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Me Maten Las Penas",
         "url": "https://open.spotify.com/album/1G3ctECROeLa3lNVers9tt"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 224126,
       "name": "Que Me Maten Las Penas",
       "url": "https://open.spotify.com/track/0agl1LIUm2XGtbWak77G68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 220673,
+      "name": "Pasi\u00f3n de Amor - Remastered 2025",
+      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inv\u00e9ntame Un Amor",
         "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 241359,
       "name": "Inv\u00e9ntame Un Amor",
       "url": "https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215224,
+      "name": "La Reyna de Mi Hogar - Remastered 2025",
+      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 215224,
-      "name": "La Reyna de Mi Hogar - Remastered 2025",
-      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pap\u00e1 Soltero",
+        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Amor Que Mata",
+      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 187050,
       "name": "Cien Por Ciento Sincero",
       "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pap\u00e1 Soltero",
-        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Amor Que Mata",
-      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Ms\. I Thrift Everything](https://open.spotify.com/track/1x61J9jICZFEoB3FFu1jH6) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Ms\. I Thrift Everything](https://open.spotify.com/album/6OaYidnqhiK4rlaUdlhRrr) | 3:36 |
 | 2 | [地球與隕石](https://open.spotify.com/track/5AP8M6iR2nriu7yB93IIAP) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [地球與隕石](https://open.spotify.com/album/0dV0XQmhIAsRZ4XsUpIIXW) | 2:46 |
-| 3 | [你说的永远](https://open.spotify.com/track/5JL3XE8ooJ4dJUW2yp8l4N) | [Glenn Yong 容启航](https://open.spotify.com/artist/7219YP3xIrAtqomoTE7jxw) | [你说的永远](https://open.spotify.com/album/3RzVkOpRsAAYJ5lOiVX1Br) | 3:54 |
+| 3 | [你说的永远](https://open.spotify.com/track/5JL3XE8ooJ4dJUW2yp8l4N) | [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [你说的永远](https://open.spotify.com/album/3RzVkOpRsAAYJ5lOiVX1Br) | 3:54 |
 | 4 | [Let Go](https://open.spotify.com/track/7Bnk4aT8KhSeE1bOrQngpx) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS) | [Let Go](https://open.spotify.com/album/73PIrL8rN2gr5tvVHmHXC7) | 3:22 |
 | 5 | [Alibi](https://open.spotify.com/track/3Ulbdvnr5dpZs9S1DAakYR) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [People Pleaser](https://open.spotify.com/album/78pUzFtuRcj2rgdxXdw7pB) | 3:45 |
 | 6 | [2X CHAMP](https://open.spotify.com/track/3doKW8CCzcSjGF0whmYqUp) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [2X CHAMP](https://open.spotify.com/album/4UdO3RpEjgxdXl73yl5ZkJ) | 2:54 |

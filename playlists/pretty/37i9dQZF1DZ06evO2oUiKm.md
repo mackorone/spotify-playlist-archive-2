@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,480 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,483 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 41 | [How I Could Fall](https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:01 |
 | 42 | [Anything Worth Holding On To](https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:44 |
 | 43 | [The Color Purple \(Reprise\)](https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Color Purple New Broadway Cast](https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:54 |
-| 44 | [We'll Meet Again](https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 4:14 |
-| 45 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
+| 44 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
+| 45 | [We'll Meet Again](https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 4:14 |
 | 46 | [Nobody](https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Forbidden](https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR) | 3:52 |
 | 47 | [A Window](https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:40 |
 | 48 | [No Place Like Home \- Commentary](https://open.spotify.com/track/7jCUml0R1F8TRi7dXyYoLc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: For Good – The Soundtrack \(Commentary\)](https://open.spotify.com/album/1R5nuRHEJTGMMN9wy6FdfD) | 0:41 |
 | 49 | [Somebody Gonna Love You](https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 1:17 |
 | 50 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy) | 3:12 |
 
-Snapshot ID: `accaAAAAAACzVMsJIKwQyOm6F3UwikQh`
+Snapshot ID: `achrgAAAAADYKnx/8LguJ1Q84w9rViVh`

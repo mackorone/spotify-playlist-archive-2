@@ -4,7 +4,7 @@
 
 > 
 
-141 songs - 7 hr 21 min
+142 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [bad idea](https://open.spotify.com/track/5Il6Oe7lr5XM7A0cWbVQtr) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:27 | 2026-03-27 |  |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-08 | 2025-12-15 |
 | [Bang Dem Sticks](https://open.spotify.com/track/1aSjgqYklzgdzOXSXLrWSn) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:00 | 2025-11-18 | 2026-03-03 |
+| [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 | 2026-03-31 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 | 2025-10-30 | 2025-12-15 |
 | [Been Like This](https://open.spotify.com/track/04cyJEBNascBpFaYRES91n) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:25 | 2026-01-21 | 2026-02-17 |
 | [bloodonmyhands \(feat\. Flo Milli\)](https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:42 | 2025-05-16 | 2025-12-15 |

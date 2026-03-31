@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,440 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,487 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 49 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |
 | 50 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 |
 
-Snapshot ID: `accaAAAAAADoy8VSYBIb+hJDKH+0U9lz`
+Snapshot ID: `achrgAAAAABMqOHAAOLh3cYoMR30vhTI`

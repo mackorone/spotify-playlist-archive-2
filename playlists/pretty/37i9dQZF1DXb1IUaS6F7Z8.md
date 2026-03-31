@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,955 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,077 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 39 | [Bottoms Up](https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Devil's Dozen](https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo) | 3:01 |
 | 40 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |
 | 41 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 |
-| 42 | [Welcome To Bastards Bay](https://open.spotify.com/track/2tqi27SMrF3lfvVWVVlJfr) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:30 |
-| 43 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
+| 42 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
+| 43 | [Welcome To Bastards Bay](https://open.spotify.com/track/2tqi27SMrF3lfvVWVVlJfr) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:30 |
 | 44 | [Foggy Dew](https://open.spotify.com/track/27Pu3Gp0lG0v2qRk8NHjWX) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 4:26 |
-| 45 | [A Rambler\\'s Life](https://open.spotify.com/track/5WyZKzskByzPGc2ZvMXMvs) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Legends Never Die](https://open.spotify.com/album/0S7hl9NtRXGbHq9TWUVRAU) | 5:33 |
-| 46 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
+| 45 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
+| 46 | [A Rambler\\'s Life](https://open.spotify.com/track/5WyZKzskByzPGc2ZvMXMvs) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Legends Never Die](https://open.spotify.com/album/0S7hl9NtRXGbHq9TWUVRAU) | 5:33 |
 | 47 | [USA](https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Emerald City](https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ) | 3:36 |
 | 48 | [Grace O'malley](https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY) | 3:36 |
 | 49 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
-| 50 | [Back Home in Bristol](https://open.spotify.com/track/4fJ3Izp494APZkuSQJMe36) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Foreign Skies](https://open.spotify.com/album/4sXaOOcXH2tfRFUJsiIzKh) | 4:03 |
+| 50 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
 
 Snapshot ID: `AAAAAOQ0SNXOJkKT5KuvfuPkufenRvi2`

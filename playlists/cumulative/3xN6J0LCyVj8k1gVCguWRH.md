@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,860 songs - 13 day 15 hr 21 min
+5,862 songs - 13 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2063,6 +2063,7 @@
 | [Goodbyes](https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Goodbyes](https://open.spotify.com/album/5iSzdROTQXPbsEyzzsqqxr) | 2:56 | 2024-02-09 | 2024-08-07 |
 | [Goodnight Love](https://open.spotify.com/track/1jsSSKAZCoH1q8ccjMMLiY) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Goodnight Love](https://open.spotify.com/album/5yfmvU2UObXABDSRfM8jPk) | 3:35 | 2023-04-07 | 2023-04-30 |
 | [GOODTIME](https://open.spotify.com/track/0e0IxBXAVjgKoqnTLrxNL3) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [GOODTIME](https://open.spotify.com/album/7jGQpd0KmBcLJ0iCw2C7VP) | 2:13 | 2022-09-02 | 2022-09-18 |
+| [Goofy Face](https://open.spotify.com/track/35rwAythOgFEUXudtKCqdI) | [Plyer](https://open.spotify.com/artist/2iakGKLbFFRduLEgIJaUNt) | [ABSURED](https://open.spotify.com/album/6bUQlPPo9AvGZQMAbN7GBc) | 3:52 | 2026-03-30 |  |
 | [Gooseberry](https://open.spotify.com/track/0R38pdHLCfs8ZosHp2UsIJ) | [arinakuchmina](https://open.spotify.com/artist/63GAwdURar99eTRh8KODpn) | [Gooseberry](https://open.spotify.com/album/18zx5U8dqOUiN9tMfopTcT) | 3:44 | 2025-11-14 | 2025-12-19 |
 | [Gostar do Mundo](https://open.spotify.com/track/2j60V272qgAufKU7Y89gHL) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/5pH4N97k9zZmHAc3ketHcT) | 2:21 | 2022-11-04 | 2022-11-27 |
 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 | 2023-07-20 |  |
@@ -3938,6 +3939,7 @@
 | [Playlist](https://open.spotify.com/track/0xu5fobRmWiQI3hGbCF5qu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Playlist](https://open.spotify.com/album/65zm0Vv44YuJKIkxmklQ5u) | 3:01 | 2022-12-15 | 2023-01-13 |
 | [PLAYLIST](https://open.spotify.com/track/5VqqvOs5ZvoFshIGWhOZGK) | [Vyrol](https://open.spotify.com/artist/5xIRGqB42AsSPbHuewjH9N) | [PLAYLIST](https://open.spotify.com/album/356NchPwAFDGQOHHaxfvLL) | 3:01 | 2025-11-02 | 2025-11-15 |
 | [PLEASE](https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [PLEASE](https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz) | 4:25 | 2024-09-25 | 2024-10-07 |
+| [Please Be Kind, Rewind](https://open.spotify.com/track/3q0WtL6dvAEl6hpotT1bRT) | [Skinny Dippers](https://open.spotify.com/artist/0Dob2W5r4Uxwa1WIJRt67Y) | [Please Be Kind, Rewind](https://open.spotify.com/album/7c9Allw4Z1AnjmCoLnQArB) | 3:28 | 2026-03-30 |  |
 | [Please Don't Call Me](https://open.spotify.com/track/7GqwLdZ5WDoFPn0ic9EayK) | [KKyle](https://open.spotify.com/artist/7f0jta51sdmrZEkTrpcMYU) | [Please Don't Call Me](https://open.spotify.com/album/6EllXwFP1gUUW7TmGZkMWE) | 2:00 | 2024-10-17 | 2024-10-30 |
 | [Please Dont Ever Go Away \(From Me\)](https://open.spotify.com/track/32YvRwlZLQcXQ0BCrcu9xI) | [April Stubbs](https://open.spotify.com/artist/2kpUtFUInedvpfLOR7Kv8C) | [Please Dont Ever Go Away \(From Me\)](https://open.spotify.com/album/7AB6Nn0mDr9OYDDv3LVFng) | 3:46 | 2025-02-03 | 2025-02-15 |
 | [Please Don’t Cry](https://open.spotify.com/track/6wAUFWRFSJyHv1GDfeg3Ha) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Please Don't Cry](https://open.spotify.com/album/33xhr16dci2QCoUzllBBdC) | 3:34 | 2025-12-18 | 2026-02-02 |

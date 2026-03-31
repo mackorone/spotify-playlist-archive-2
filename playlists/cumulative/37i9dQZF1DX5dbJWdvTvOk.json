@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Before The Water Rises",
+        "url": "https://open.spotify.com/album/0DbT5d0jg9rFr3w9yNuEuK"
+      },
+      "artists": [
+        {
+          "name": "Blythe Davidson",
+          "url": "https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139408,
+      "name": "Before The Water Rises",
+      "url": "https://open.spotify.com/track/6Vlo05BBMttzQbfbvFReKa"
+    },
+    {
+      "album": {
         "name": "Within",
         "url": "https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax"
       },
@@ -3077,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Dawn\u2019s Gate",
+        "url": "https://open.spotify.com/album/0ewvZdDzVMDZeyLTRMQF8s"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159874,
+      "name": "Dawn\u2019s Gate",
+      "url": "https://open.spotify.com/track/38XtTC0unFbfit93eMYtvT"
+    },
+    {
+      "album": {
         "name": "Day Break",
         "url": "https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W"
       },
@@ -3092,6 +3128,24 @@
       "duration_ms": 152362,
       "name": "Day Break",
       "url": "https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD"
+    },
+    {
+      "album": {
+        "name": "Daydream Dust",
+        "url": "https://open.spotify.com/album/5aKyv1JskZWm3fjHJ81oIc"
+      },
+      "artists": [
+        {
+          "name": "Enzo Costa",
+          "url": "https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137334,
+      "name": "Daydream Dust",
+      "url": "https://open.spotify.com/track/4xT4Chrh4xkuJpnwu7fIBR"
     },
     {
       "album": {
@@ -5652,7 +5706,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 144078,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD"
@@ -6646,7 +6700,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 129888,
       "name": "Kaelyn",
       "url": "https://open.spotify.com/track/5ApECtcgQM42gHHHg0ZH0H"
@@ -8008,7 +8062,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 130000,
       "name": "Madeline",
       "url": "https://open.spotify.com/track/4GNgHIkp3jZLZItPYY1vt9"
@@ -8264,6 +8318,24 @@
       "duration_ms": 141991,
       "name": "Meliora",
       "url": "https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF"
+    },
+    {
+      "album": {
+        "name": "Memories of Home",
+        "url": "https://open.spotify.com/album/6UNwcaUYzy80n1aKhhFEXD"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165428,
+      "name": "Memories of Home",
+      "url": "https://open.spotify.com/track/6NbIgL7L7qx936CiSohRsl"
     },
     {
       "album": {
@@ -9581,6 +9653,24 @@
     },
     {
       "album": {
+        "name": "Open Eyes, Open Arms",
+        "url": "https://open.spotify.com/album/4B2u4Ffj4St4GqqCng9Y82"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Open Eyes, Open Arms",
+      "url": "https://open.spotify.com/track/3hiQpbFbKepAx6zjcy4uvL"
+    },
+    {
+      "album": {
         "name": "Ordinary Sunday",
         "url": "https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7"
       },
@@ -9646,7 +9736,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 123937,
       "name": "Origins",
       "url": "https://open.spotify.com/track/69D9LtJfcaMnY7S47ZjiPd"
@@ -11655,6 +11745,24 @@
     },
     {
       "album": {
+        "name": "Silver Shore",
+        "url": "https://open.spotify.com/album/4SkCt13SONkfoeQdVTLwHU"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165375,
+      "name": "Silver Shore",
+      "url": "https://open.spotify.com/track/4I56yjvCp03jYNXlF1RAI4"
+    },
+    {
+      "album": {
         "name": "Simpatia",
         "url": "https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17"
       },
@@ -13275,6 +13383,24 @@
     },
     {
       "album": {
+        "name": "The narrow road",
+        "url": "https://open.spotify.com/album/0l6FhK8rFSJspT1yTpAQLa"
+      },
+      "artists": [
+        {
+          "name": "J. Kahnberg",
+          "url": "https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132945,
+      "name": "The narrow road",
+      "url": "https://open.spotify.com/track/3r9SHTWUUCZWRvBCsTdgGN"
+    },
+    {
+      "album": {
         "name": "The Northwest",
         "url": "https://open.spotify.com/album/4cL55EmSZz5XuqISawUSTr"
       },
@@ -14612,6 +14738,24 @@
       "duration_ms": 103000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6WoPTEeOq4IEEVEp0n9biN"
+    },
+    {
+      "album": {
+        "name": "Weightless Hours",
+        "url": "https://open.spotify.com/album/7vgUbq2EVbv5xkxcAPgIab"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Weightless Hours",
+      "url": "https://open.spotify.com/track/2iwtObyukKDsBdFec5Wvkx"
     },
     {
       "album": {

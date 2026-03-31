@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,560 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,617 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 2 | [Parachute](https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:13 |
 | 3 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
 | 4 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
-| 5 | [Black Creek](https://open.spotify.com/track/4jB3Mw900goYibsFAueHph) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [No Place Left to Leave \(2006\)](https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K) | 3:32 |
+| 5 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
 | 6 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 |
-| 7 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
+| 7 | [Black Creek](https://open.spotify.com/track/4jB3Mw900goYibsFAueHph) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [No Place Left to Leave \(2006\)](https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K) | 3:32 |
 | 8 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
 | 9 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 10 | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) | 2:38 |
 | 11 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
 | 12 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:37 |
 | 13 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
-| 14 | [If They Come Lookin'](https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:27 |
-| 15 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
+| 14 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
+| 15 | [If They Come Lookin'](https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:27 |
 | 16 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:03 |
 | 17 | [Luckenbach, Texas \(Back to the Basics of Love\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ol' Waylon](https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO) | 3:21 |
 | 18 | [Hurricane](https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Top Hat Crown & the Clapmaster's Son](https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf) | 5:19 |

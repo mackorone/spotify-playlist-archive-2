@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82082,
+  "num_followers": 82083,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADkC8PDise7mxDSJ4VTOZ3A",
+  "snapshot_id": "achrgAAAAAA8/NTrIX1AfJ8SiO6cL7nF",
   "tracks": [
     {
       "added_at": null,
@@ -215,30 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Quero Viajar",
-        "url": "https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 213997,
-      "name": "S\u00f3 Quero Viajar",
-      "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Negaram Amor",
         "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 288000,
       "name": "Me Negaram Amor",
       "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Quero Viajar",
+        "url": "https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 213997,
+      "name": "S\u00f3 Quero Viajar",
+      "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
     },
     {
       "added_at": null,
@@ -855,22 +855,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
         }
       ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+      "duration_ms": 183428,
+      "name": "Romance de Fevereiro",
+      "url": "https://open.spotify.com/track/0MI5t0bfLWpgQ8VBBvFOLr"
     },
     {
       "added_at": null,
@@ -899,26 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
       },
       "artists": [
         {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
         }
       ],
-      "duration_ms": 183428,
-      "name": "Romance de Fevereiro",
-      "url": "https://open.spotify.com/track/0MI5t0bfLWpgQ8VBBvFOLr"
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,
@@ -991,30 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Liberta",
-      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Jeri",
         "url": "https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 262978,
       "name": "Poesia Ac\u00fastica Ep. Jeri",
       "url": "https://open.spotify.com/track/4tnMSnDkcMj43ovIXIwdMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Liberta",
+      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
     },
     {
       "added_at": null,

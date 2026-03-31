@@ -2,9 +2,9 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Haifa Wehbe
+> The Hottest Arabic Music.<br/>Cover: Angham
 
-456 songs - 1 day 3 hr 16 min
+458 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 | 2024-01-23 | 2024-03-03 |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-12-12 | 2022-09-19 |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2021-12-12 | 2022-09-19 |
+| [Mesh Habibi Bas](https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Mesh Habibi Bas](https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv) | 4:01 | 2026-03-30 |  |
 | [Mesytara](https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Mesytara](https://open.spotify.com/album/26hT0T2WvH4PhIxTLrNnSw) | 2:48 | 2022-08-19 | 2023-05-15 |
 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 | 2023-06-20 | 2023-06-27 |
 | [Miganinani](https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Miganinani](https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1) | 2:47 | 2023-08-01 | 2023-08-15 |
@@ -321,6 +322,7 @@
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2021-12-12 | 2023-02-10 |
 | [Tigi Netjawaz Bilser](https://open.spotify.com/track/14lf86kzJWv7QXp0zCpYPF) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [Tigi Netjawaz Bilser](https://open.spotify.com/album/6ZMkHd8mFGFx2XFL5WNXmE) | 8:55 | 2023-06-02 | 2023-08-15 |
 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 | 2023-05-01 | 2023-08-15 |
+| [Vito Van](https://open.spotify.com/track/0UQyYkHeR1xv51ApdrNFKv) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Vito Van](https://open.spotify.com/album/2145OvUcIZ6DnL5tfodrii) | 2:47 | 2026-03-30 |  |
 | [W Bahleflak](https://open.spotify.com/track/6dl0rOeMbMYpqsnOjdaFLr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [W Bahleflak](https://open.spotify.com/album/4RG5kVZevsPgZrqhrfVc5Q) | 4:18 | 2021-12-23 | 2022-01-05 |
 | [W Btir](https://open.spotify.com/track/5FnNPUjvsrRGiZiDvQDIj3) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [W Btir](https://open.spotify.com/album/2EcC0e5A1Yjpo3yLtxg37I) | 4:10 | 2022-11-01 | 2023-05-15 |
 | [W Lessa](https://open.spotify.com/track/11seWhJIAGkw3xn36trlFW) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [W Lessa](https://open.spotify.com/album/5SzZmcmLYCwZYzNmgXBcxn) | 4:39 | 2021-12-12 | 2022-01-04 |

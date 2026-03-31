@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,407 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,399 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 8 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
 | 9 | [Eres Mi Droga](https://open.spotify.com/track/3jWMdxA8deSoncSMcnihjJ) | [Gency Ramírez](https://open.spotify.com/artist/5UFyg4bZE7EiscLZT4SMPF) | [Eres Mi Droga](https://open.spotify.com/album/76AKJnA2e1zZYGxlebgv9F) | 3:14 |
 | 10 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
-| 11 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
+| 11 | [Bello Espejismo](https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx) | [Gerardo Gómez](https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF) | [Bello Espejismo](https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU) | 4:35 |
 | 12 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
-| 13 | [Bello Espejismo](https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx) | [Gerardo Gómez](https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF) | [Bello Espejismo](https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU) | 4:35 |
+| 13 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
 | 14 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 |
 | 15 | [Señor Prohibido](https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Unica](https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD) | 3:27 |
 | 16 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 |
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 34 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
 | 35 | [Tu Hora Pasó](https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:04 |
 | 36 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
-| 37 | [Quiero Que Sepas](https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [Los Exitazos De Lupe Y Polo](https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS) | 2:30 |
-| 38 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 37 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 38 | [Quiero Que Sepas](https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [Los Exitazos De Lupe Y Polo](https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS) | 2:30 |
 | 39 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
 | 40 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 |
 | 41 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
 | 42 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
 | 43 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
-| 44 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
-| 45 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
+| 44 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
+| 45 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
 | 46 | [Era un Domingo](https://open.spotify.com/track/6kO9XmOlD4VI3WSrqgbq6W) | [Los Alegres Cordillera](https://open.spotify.com/artist/4ZlDiExFa7Zjiu9Y65V608) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 3:05 |
 | 47 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 |
 | 48 | [Loco por Amor](https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Con el Triunfo en las Manos](https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG) | 2:51 |

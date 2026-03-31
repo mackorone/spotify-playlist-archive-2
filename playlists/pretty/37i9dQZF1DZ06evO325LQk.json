@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38116,
+  "num_followers": 38117,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAClKhECvYbk1kyWjtFDeTuf",
+  "snapshot_id": "achrgAAAAADf/+NM6fC0dlQBnDML9fen",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 151519,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
+      "duration_ms": 188520,
+      "name": "JUST LIKE WE NEVER SAID GOODBYE",
+      "url": "https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 188520,
-      "name": "JUST LIKE WE NEVER SAID GOODBYE",
-      "url": "https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N"
+      "duration_ms": 151519,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
     },
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 244062,
       "name": "Live In My Truth (feat. BC Kingdom & LIZ)",
       "url": "https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "clown shit (up the wall) [SOPHIE Remix]",
         "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 387310,
       "name": "clown shit (up the wall) [SOPHIE Remix]",
       "url": "https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
-        }
-      ],
-      "duration_ms": 117010,
-      "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CCCLX",
         "url": "https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 169090,
       "name": "Drop Down",
       "url": "https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "duration_ms": 117010,
+      "name": "Gallop (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
     },
     {
       "added_at": null,

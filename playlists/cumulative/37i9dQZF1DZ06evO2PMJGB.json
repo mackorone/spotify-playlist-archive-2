@@ -1314,10 +1314,32 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 152752,
       "name": "Onde Anda Voc\u00ea",
       "url": "https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr"
+    },
+    {
+      "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152752,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/1a8ugQMvqGdFdkV60BtKDF"
     },
     {
       "album": {
@@ -2104,7 +2126,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 234950,
       "name": "Um Pouco de Mim",
       "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"

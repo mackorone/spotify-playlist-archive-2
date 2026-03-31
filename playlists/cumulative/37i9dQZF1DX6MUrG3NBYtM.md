@@ -2,9 +2,9 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> De beste Indie releases\. Cover: Hiqpy
+> De beste Indie releases\. Cover: Naaz
 
-284 songs - 17 hr 18 min
+286 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2025-01-13 | 2025-06-24 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-27 | 2025-12-05 |
 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 | 2026-02-05 |  |
+| [Bark](https://open.spotify.com/track/4uuoM3cpAJYuR8qCuf6DfT) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bark](https://open.spotify.com/album/5x3TAHhEQoDNsNu2onC5mn) | 3:55 | 2026-03-30 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2025-01-23 | 2025-06-24 |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2024-06-26 | 2024-07-12 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-26 | 2024-09-27 |
@@ -181,6 +182,7 @@
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-07-11 | 2025-01-07 |
 | [One More](https://open.spotify.com/track/0fkzqZcxXDBGuYrbP8DHNE) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [In Between Borderlines](https://open.spotify.com/album/027Ba0mbr086Fq8ax1yFR1) | 2:40 | 2024-06-26 | 2024-07-19 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-06-02 | 2025-08-30 |
+| [Orgulho](https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Orgulho](https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y) | 4:08 | 2026-03-30 |  |
 | [Our Part of Town](https://open.spotify.com/track/79bfMnQOe8oaqXjZenmcQw) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Our Part of Town](https://open.spotify.com/album/5cH4Ls7MGVkc1sJrmDEoqX) | 3:07 | 2025-02-27 | 2025-08-30 |
 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 | 2024-06-26 | 2024-09-25 |
 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2024-06-26 | 2024-08-02 |
@@ -199,7 +201,7 @@
 | [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 | 2024-11-06 | 2025-01-07 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-30 | 2025-08-30 |
 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-06-05 | 2026-03-21 |
-| [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 | 2025-06-02 |  |
+| [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 | 2025-06-02 | 2026-03-31 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-08-29 |  |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-04-25 | 2025-08-30 |
 | [Remember?](https://open.spotify.com/track/5RMlKxmmHbbalI8q7qg9IX) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Remember?](https://open.spotify.com/album/6tgI1ImweeRVAhWlLQesxj) | 4:13 | 2025-08-29 | 2026-02-09 |
@@ -219,7 +221,7 @@
 | [sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 | 2025-01-23 | 2025-03-22 |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 | 2025-01-24 |
 | [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 | 2025-08-29 | 2026-03-21 |
-| [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 | 2026-01-19 |  |
+| [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 | 2026-01-19 | 2026-03-31 |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 | 2025-02-07 | 2025-10-22 |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-02-06 | 2025-06-06 |
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-08 |  |

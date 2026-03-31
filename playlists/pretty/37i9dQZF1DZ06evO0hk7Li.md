@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,213 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,216 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 44 | [Silver Lining](https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 4:36 |
 | 45 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
 | 46 | [Thorns](https://open.spotify.com/track/2y3mVK20NpiMwMeADn38we) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [All The Flowers Have Bloomed](https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO) | 6:23 |
-| 47 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
-| 48 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
+| 47 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
+| 48 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
 | 49 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
 | 50 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
 
-Snapshot ID: `accaAAAAAAAs6Rs4nBaLi+gRUhEwphX9`
+Snapshot ID: `achrgAAAAABCSe8hU2Xsr8n8TZ9MGCqx`

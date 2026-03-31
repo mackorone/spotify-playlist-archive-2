@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Zack Knight, Priyanshi Srivastava, Deedar Kaur and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,521 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,698 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tauba](https://open.spotify.com/track/4QKT1WE079EqMAWC8S0MEJ) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Tauba](https://open.spotify.com/album/6HKrPUgo4uVtv1Qfzs4ntK) | 2:28 |
+| 1 | [Tauba](https://open.spotify.com/track/4QKT1WE079EqMAWC8S0MEJ) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Tauba](https://open.spotify.com/album/6HKrPUgo4uVtv1Qfzs4ntK) | 2:31 |
 | 2 | [Badal Gya](https://open.spotify.com/track/1QyUebXlm3gnaPSw3omRMW) | [Arshaan](https://open.spotify.com/artist/1vxsrY2Jh6mxNkQmXlV3Zr), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Badal Gya](https://open.spotify.com/album/0qEWN2arM4F1SzIL6Qz5jt) | 3:10 |
 | 3 | [Endless](https://open.spotify.com/track/2Zn3ALsgLJ6WJcmRWvbY07) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Suhit Abhyankar](https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E) | [Endless](https://open.spotify.com/album/1RyZAlvby4JqWjSFbacLLp) | 3:14 |
 | 4 | [Gumshuda](https://open.spotify.com/track/6gG0DORD3lrsrnXDLKQIPt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Gumshuda](https://open.spotify.com/album/3Re9vlX5wIp2BsWQJbmcSv) | 3:11 |

@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: ONE Service",
-  "num_followers": 183617,
+  "num_followers": 183650,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+      },
+      "artists": [
+        {
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "Tua Vontade (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 207698,
       "name": "Tua Vontade - Ao Vivo",
       "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
-      },
-      "artists": [
-        {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2026-03-13 03:01:13",

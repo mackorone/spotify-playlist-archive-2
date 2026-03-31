@@ -1,6 +1,6 @@
 {
   "description": "CAD\u00ca O BONDE DO ESCULACHO?? // Ci\u00e7a ",
-  "num_followers": 99387,
+  "num_followers": 99415,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-03-27 19:26:26",
       "album": {
+        "name": "Soffisticada",
+        "url": "https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Vinex",
+          "url": "https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK"
+        }
+      ],
+      "duration_ms": 150437,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4MI74pChD6IazETUmHdAoH"
+    },
+    {
+      "added_at": "2026-03-27 19:26:26",
+      "album": {
         "name": "Indom\u00e1vel",
         "url": "https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA"
       },
@@ -887,26 +907,6 @@
     {
       "added_at": "2026-03-27 19:26:26",
       "album": {
-        "name": "bandida chata (original)",
-        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
-      },
-      "artists": [
-        {
-          "name": "Ana Rima",
-          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
-        },
-        {
-          "name": "VITOR VRIL",
-          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
-        }
-      ],
-      "duration_ms": 200649,
-      "name": "Bandida chata",
-      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
-    },
-    {
-      "added_at": "2026-03-27 19:26:26",
-      "album": {
         "name": "O OURO",
         "url": "https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs"
       },
@@ -931,22 +931,22 @@
     {
       "added_at": "2026-03-27 19:26:26",
       "album": {
-        "name": "Soffisticada",
-        "url": "https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt"
+        "name": "bandida chata (original)",
+        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
       },
       "artists": [
         {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
         },
         {
-          "name": "Vinex",
-          "url": "https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK"
+          "name": "VITOR VRIL",
+          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
         }
       ],
-      "duration_ms": 150437,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/4MI74pChD6IazETUmHdAoH"
+      "duration_ms": 200649,
+      "name": "Bandida chata",
+      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
     },
     {
       "added_at": "2026-03-27 19:26:26",

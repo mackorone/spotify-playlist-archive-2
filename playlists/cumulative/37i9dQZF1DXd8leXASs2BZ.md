@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURSまであと4日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Masato Hayashi
+> 【POP YOURSまであと3日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Sonsi
 
 1,394 songs - 2 day 16 hr 15 min
 

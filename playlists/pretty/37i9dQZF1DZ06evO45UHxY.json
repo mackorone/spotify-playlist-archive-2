@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADBL51sair/DyKLptwss7M7",
+  "snapshot_id": "achrgAAAAAB3j3yS8CKVlD1xQpy8YpDE",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 134903,
-      "name": "Nuestra Historia",
-      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pal Bailador (Pasito Tun Tun)",
         "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
       },
@@ -387,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esp\u00edritu de Paz",
-        "url": "https://open.spotify.com/album/5VNuRD5e8HB8OthFJLrfFb"
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Esp\u00edritu de Paz",
-      "url": "https://open.spotify.com/track/0rkksBlsgbkBq32PS0uRMi"
+      "duration_ms": 134903,
+      "name": "Nuestra Historia",
+      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
     },
     {
       "added_at": null,
@@ -419,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS!",
-        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "El cari\u00f1o que perd\u00ed",
-      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grupero Hits",
         "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
       },
@@ -447,6 +415,38 @@
       "duration_ms": 167320,
       "name": "Aerobics de se\u00f1oritas",
       "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esp\u00edritu de Paz",
+        "url": "https://open.spotify.com/album/5VNuRD5e8HB8OthFJLrfFb"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Esp\u00edritu de Paz",
+      "url": "https://open.spotify.com/track/0rkksBlsgbkBq32PS0uRMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS!",
+        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "El cari\u00f1o que perd\u00ed",
+      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 196291,
+      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Mexicanos",
-        "url": "https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "La chica del tec",
-      "url": "https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Califas y Sus Cumbias Calientes, Vol. 1",
         "url": "https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
-        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+        "name": "Top Banda",
+        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
       },
       "artists": [
         {
@@ -592,9 +576,25 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 168746,
-      "name": "El se\u00f1or de las canas",
-      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+      "duration_ms": 157866,
+      "name": "La p\u00e1lida luz",
+      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Mexicanos",
+        "url": "https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "La chica del tec",
+      "url": "https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Banda",
-        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 157866,
-      "name": "La p\u00e1lida luz",
-      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
+      "duration_ms": 168746,
+      "name": "El se\u00f1or de las canas",
+      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 175368,
-      "name": "Pies de Chicle",
-      "url": "https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy"
+      "duration_ms": 162771,
+      "name": "De Chivito los Tamales",
+      "url": "https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 162771,
-      "name": "De Chivito los Tamales",
-      "url": "https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93"
+      "duration_ms": 175368,
+      "name": "Pies de Chicle",
+      "url": "https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropicalandia, Vol. II",
-        "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Dime Lo Que Quieras",
-      "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Manicomio",
         "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 191574,
       "name": "Amor De Manicomio",
       "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tropicalandia, Vol. II",
+        "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Dime Lo Que Quieras",
+      "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Le\u00f3n Larregui en portada ",
-  "num_followers": 835924,
+  "num_followers": 835979,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "100/10",
-        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 158634,
-      "name": "100/10",
-      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
-    },
-    {
-      "added_at": "2026-03-27 06:00:14",
-      "album": {
         "name": "ESTOICISMO",
         "url": "https://open.spotify.com/album/4qAlEESvgHKRHphbZc6QVC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 170322,
       "name": "ESTOICISMO",
       "url": "https://open.spotify.com/track/7sF5eflbAhpo0wh5NX2jDZ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:14",
+      "album": {
+        "name": "100/10",
+        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 158634,
+      "name": "100/10",
+      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Dime si recuerdas",
-      "url": "https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS"
-    },
-    {
-      "added_at": "2026-03-27 06:00:14",
-      "album": {
         "name": "Todo a Su Tiempo",
         "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
+    },
+    {
+      "added_at": "2026-03-27 06:00:14",
+      "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Dime si recuerdas",
+      "url": "https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 200254,
-      "name": "Todo Es Diferente",
-      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
-    },
-    {
-      "added_at": "2026-03-27 06:00:14",
-      "album": {
         "name": "KAWASAKI (&TEAM Remix)",
         "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
       },
@@ -1015,22 +995,22 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "UN LE\u00d1O",
-        "url": "https://open.spotify.com/album/3Ah6062p6SYwBjjXnFtQcF"
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
       },
       "artists": [
         {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         },
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 180000,
-      "name": "UN LE\u00d1O",
-      "url": "https://open.spotify.com/track/6ozLcS63i78I9cjnTpvwPI"
+      "duration_ms": 200254,
+      "name": "Todo Es Diferente",
+      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -1055,22 +1035,22 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "Sin Darme Explicacion",
-        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+        "name": "UN LE\u00d1O",
+        "url": "https://open.spotify.com/album/3Ah6062p6SYwBjjXnFtQcF"
       },
       "artists": [
         {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 187560,
-      "name": "Sin Darme Explicacion",
-      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
+      "duration_ms": 180000,
+      "name": "UN LE\u00d1O",
+      "url": "https://open.spotify.com/track/6ozLcS63i78I9cjnTpvwPI"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -1099,6 +1079,42 @@
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
+    },
+    {
+      "added_at": "2026-03-27 06:00:14",
+      "album": {
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
+    },
+    {
+      "added_at": "2026-03-27 06:00:14",
+      "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -1139,18 +1155,22 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 336026,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
+      "duration_ms": 204849,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 204849,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
-    },
-    {
-      "added_at": "2026-03-27 06:00:14",
-      "album": {
         "name": "Te Juro Que Te Amo",
         "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
+    },
+    {
+      "added_at": "2026-03-27 06:00:14",
+      "album": {
+        "name": "Da\u00f1os Luz",
+        "url": "https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Vida En El Espectro",
+      "url": "https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -1227,22 +1243,6 @@
       "duration_ms": 185333,
       "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
       "url": "https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw"
-    },
-    {
-      "added_at": "2026-03-27 06:00:14",
-      "album": {
-        "name": "Da\u00f1os Luz",
-        "url": "https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Vida En El Espectro",
-      "url": "https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN"
     },
     {
       "added_at": "2026-03-27 06:00:14",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-03-27 06:00:14",
       "album": {
-        "name": "Me Enamor\u00e9 Solo",
-        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 185246,
-      "name": "Me Enamor\u00e9 Solo",
-      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
-    },
-    {
-      "added_at": "2026-03-27 06:00:14",
-      "album": {
         "name": "Mi Droga",
         "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 195389,
       "name": "Magia",
       "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
+    },
+    {
+      "added_at": "2026-03-27 06:00:14",
+      "album": {
+        "name": "Me Enamor\u00e9 Solo",
+        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "Me Enamor\u00e9 Solo",
+      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
     },
     {
       "added_at": "2026-03-27 06:00:14",

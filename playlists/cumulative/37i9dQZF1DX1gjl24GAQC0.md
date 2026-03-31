@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: LNGSHOT\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: 원필 \(WONPIL\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-841 songs - 1 day 21 hr 34 min
+842 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-21 | 2025-07-29 |
 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 | 2022-03-22 | 2024-01-05 |
 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-23 |  |
-| [BOTTOMS UP](https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SEVEN : CRIMSON HORIZON](https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik) | 3:18 | 2026-03-17 |  |
+| [BOTTOMS UP](https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SEVEN : CRIMSON HORIZON](https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik) | 3:18 | 2026-03-17 | 2026-03-31 |
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-20 |  |
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2021-12-08 | 2022-07-29 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-07-27 | 2024-04-19 |
@@ -845,6 +845,7 @@
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2021-12-08 | 2022-07-29 |
 | [내일, 오늘 Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2021-12-08 | 2022-07-28 |
 | [별, 빛 \(STAY\)](https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [별, 빛 \(STAY\)](https://open.spotify.com/album/3ChdptcphAZ5VJHQG0DO7S) | 3:06 | 2026-03-25 |  |
+| [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 | 2026-03-30 |  |
 | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc) | 3:24 | 2025-09-16 | 2025-09-30 |
 | [아 왜 I Wait](https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:38 | 2022-03-31 | 2022-04-08 |
 | [어쩌면](https://open.spotify.com/track/18CMsYZK40q75KKo6prq4Y) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [어쩌면](https://open.spotify.com/album/16ijmvpwtcowSqCXh4oHmd) | 4:21 | 2025-06-18 | 2025-07-09 |

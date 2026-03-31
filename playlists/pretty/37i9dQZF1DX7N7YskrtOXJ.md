@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,632 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,645 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 67 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 |
 | 68 | [Chica Sexy](https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd), [Grupo Karicia](https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:22 |
 | 69 | [Mariposa Del Dolor](https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ILag Keins](https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y) | [Mariposa Del Dolor](https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg) | 4:13 |
-| 70 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
+| 70 | [Ritmo Sabroso](https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Digan Lo Que Digan](https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu) | 2:54 |
 | 71 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 |
 | 72 | [Como la Flor](https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Como la Flor](https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp) | 3:03 |
 | 73 | [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 |
 | 74 | [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 |
-| 75 | [Ritmo Sabroso](https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Digan Lo Que Digan](https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu) | 2:54 |
+| 75 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 | 76 | [Sigue La Cumbia](https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Sigue La Cumbia](https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx) | 2:46 |
 | 77 | [Bailantero y Parrandero](https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK) | [Grupo Sixx](https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF) | [Bailantero y Parrandero](https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc) | 3:19 |
 | 78 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Devon Gilfillian",
-  "num_followers": 425433,
+  "num_followers": 425430,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
+      },
+      "artists": [
+        {
+          "name": "The Jaws of Brooklyn",
+          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "It's Been Too Long (Since I've Loved Someone)",
         "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 223164,
       "name": "Unforgivable",
       "url": "https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
-      },
-      "artists": [
-        {
-          "name": "The Jaws of Brooklyn",
-          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
-        }
-      ],
-      "duration_ms": 172014,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
-      },
-      "artists": [
-        {
-          "name": "Walker Lukens",
-          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
+      },
+      "artists": [
+        {
+          "name": "Walker Lukens",
+          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
-        }
-      ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+        }
+      ],
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
     },
     {
       "added_at": "2026-03-27 04:00:15",

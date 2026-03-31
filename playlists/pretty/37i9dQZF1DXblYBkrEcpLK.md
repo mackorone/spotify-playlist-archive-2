@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,895 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,943 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 22 | [風のゆくえ \- from CrosSing](https://open.spotify.com/track/4Ed4O9ETPQOCU9kD7gkZFT) | [名塚佳織](https://open.spotify.com/artist/7DNrt1OR5Dv7YNcpDmn5fD) | [風のゆくえ \- from CrosSing](https://open.spotify.com/album/0elDQ19Kzj8mWzx5fQmfML) | 4:29 |
 | 23 | [innocent starter \-MUSEUM STYLE\-](https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 5:09 |
 | 24 | [月に向かって撃て](https://open.spotify.com/track/2aQpmTVc26tkNVChUYzZcS) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [月に向かって撃て](https://open.spotify.com/album/5aZz8n89Y0VpdCEioB05NS) | 3:13 |
-| 25 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
+| 25 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
 | 26 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
 | 27 | [HYPE ALIVE](https://open.spotify.com/track/1jsVXC1HPMtL6hYvOw96Ej) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Light Me Up](https://open.spotify.com/album/5APG9tmgTjocMcFYvzucxV) | 3:00 |
 | 28 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
-| 29 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
+| 29 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
 | 30 | [Sayo\-Shigure](https://open.spotify.com/track/65PpJlLtW2Wo30nQ5A2zS4) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [Sayo\-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！](https://open.spotify.com/album/0srMzgv4BKTOHyBMuCrPFb) | 3:28 |
 | 31 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 32 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |

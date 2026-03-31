@@ -283709,6 +283709,24 @@
     },
     {
       "album": {
+        "name": "pe$o$",
+        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "pe$o$",
+      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
+    },
+    {
+      "album": {
         "name": "PEACE & VIOLENCE",
         "url": "https://open.spotify.com/album/0KmhbXst3AOZY5L8Gc6SXp"
       },
@@ -285938,24 +285956,6 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
-    },
-    {
-      "album": {
-        "name": "pesos",
-        "url": "https://open.spotify.com/album/0CEyE25eHrUIQhHrBQZJrA"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138133,
-      "name": "pesos",
-      "url": "https://open.spotify.com/track/4zuGjBWn1SxRoJZ1sJsbyF"
     },
     {
       "album": {

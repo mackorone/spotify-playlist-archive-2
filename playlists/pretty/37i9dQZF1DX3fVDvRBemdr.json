@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Donnie & Senna (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
-  "num_followers": 155423,
+  "num_followers": 155433,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABcpEqzTQayl/HFrzep86xax6JMv",
+  "snapshot_id": "AAAAAJxkHP8uqb0oi3zvUYckDB63RkLj",
   "tracks": [
     {
       "added_at": "2026-03-26 23:00:23",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-03-26 23:00:23",
       "album": {
+        "name": "De Warmte Van Je Hartstocht",
+        "url": "https://open.spotify.com/album/2jLGy6H31tJzVK8mMrMys8"
+      },
+      "artists": [
+        {
+          "name": "Robbie Goorden",
+          "url": "https://open.spotify.com/artist/0SGFIHrSXsjH3z4hUocdxq"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "De Warmte Van Je Hartstocht",
+      "url": "https://open.spotify.com/track/5sPEcF6AdBLIkRwzLIxBK2"
+    },
+    {
+      "added_at": "2026-03-26 23:00:23",
+      "album": {
         "name": "In Het Hart Van",
         "url": "https://open.spotify.com/album/1wMb3TbE8B5cfbrxUnZ5aZ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 156726,
       "name": "More Amor Por Favor",
       "url": "https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa"
-    },
-    {
-      "added_at": "2026-03-26 23:00:23",
-      "album": {
-        "name": "De Warmte Van Je Hartstocht",
-        "url": "https://open.spotify.com/album/2jLGy6H31tJzVK8mMrMys8"
-      },
-      "artists": [
-        {
-          "name": "Robbie Goorden",
-          "url": "https://open.spotify.com/artist/0SGFIHrSXsjH3z4hUocdxq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "De Warmte Van Je Hartstocht",
-      "url": "https://open.spotify.com/track/5sPEcF6AdBLIkRwzLIxBK2"
     },
     {
       "added_at": "2026-03-26 23:00:23",

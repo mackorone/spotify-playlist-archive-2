@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Raghav Meattle, Kamakshi Khanna, Bulli Bainbridge and other exciting artists.
 
-1,393 songs - 3 day 4 hr 18 min
+1,394 songs - 3 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-04-25 | 2025-07-26 |
 | [Maddham](https://open.spotify.com/track/4tYogjyp5Azr6Jyj5ERkam) | [Vibha Kale](https://open.spotify.com/artist/2nYV3AXefi8GgeP3aFFdCS), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Maddham](https://open.spotify.com/album/2Ka2P9lZXZFN7EP48dVLH0) | 3:09 | 2024-03-08 | 2024-04-19 |
 | [Madno](https://open.spotify.com/track/6JQGsT4utFMNXUanXvrAEd) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Madno](https://open.spotify.com/album/5L0dMmVvTMJyOEh4dZerKU) | 5:33 | 2025-11-28 | 2026-02-07 |
+| [Mahfooz](https://open.spotify.com/track/66bOMWZ3vrXz3OBKPLTppQ) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Mahfooz](https://open.spotify.com/album/4ub8gIyOeECq4ozJSWVp54) | 3:26 | 2026-03-27 |  |
 | [maikhana](https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [maikhana](https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E) | 3:48 | 2025-11-07 | 2026-01-24 |
 | [Main Awara](https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE) | [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Main Awara](https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00) | 3:23 | 2023-10-13 | 2023-11-18 |
 | [Main Character Energy](https://open.spotify.com/track/78yacUG8akg9bd52nk5RZL) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Main Character Energy](https://open.spotify.com/album/5M9mshylSiOl4Rz7rpykOb) | 3:21 | 2024-09-06 | 2024-10-05 |
@@ -920,7 +921,7 @@
 | [Noor](https://open.spotify.com/track/0og6yQkdya4bsYnhshXVvV) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Noor](https://open.spotify.com/album/2AjN4gjLFrNFmPMys0ZjDC) | 2:34 | 2023-11-10 | 2023-12-09 |
 | [Noor](https://open.spotify.com/track/1Q36B0rYq3m2CEqESn5Q0D) | [Deepali Sathe](https://open.spotify.com/artist/3cGXRvJBjBJ2Uz01Tzh8kI), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Noor](https://open.spotify.com/album/0k6lT1WZYNjnFwxQIaxXq8) | 2:52 | 2024-03-15 | 2024-04-27 |
 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 | 2026-01-30 |  |
-| [Not With You](https://open.spotify.com/track/4GDDcYPDKWiR51yqfjQxH6) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Not With You](https://open.spotify.com/album/6fG16EBMG0rHaPoBkNIrUq) | 3:58 | 2026-02-27 |  |
+| [Not With You](https://open.spotify.com/track/4GDDcYPDKWiR51yqfjQxH6) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Not With You](https://open.spotify.com/album/6fG16EBMG0rHaPoBkNIrUq) | 3:58 | 2026-02-27 | 2026-03-31 |
 | [O Baalam](https://open.spotify.com/track/6mmysz9VDxzdzjZhFhxGMK) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Vedang Gaikwad](https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 3:09 | 2024-10-11 | 2024-11-23 |
 | [O Dil](https://open.spotify.com/track/7ajb5k6A9qJPQvGaUu2Tq0) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [O Dil](https://open.spotify.com/album/322g9WBJfBkjtsLbaklsvT) | 2:46 | 2025-12-05 | 2026-02-28 |
 | [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 | 2025-05-23 | 2025-08-23 |

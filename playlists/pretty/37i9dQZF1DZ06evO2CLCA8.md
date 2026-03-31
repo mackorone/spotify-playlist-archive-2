@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 29 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
 | 30 | [Something Big](https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:44 |
 | 31 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 |
-| 32 | [Anything That's Rock 'N' Roll](https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 2:24 |
-| 33 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
+| 32 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
+| 33 | [Anything That's Rock 'N' Roll](https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 2:24 |
 | 34 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 |
 | 35 | [All The Wrong Reasons](https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:45 |
 | 36 | [I Should Have Known It](https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [U Get Me High](https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:11 |
 | 50 | [The Trip to Pirate's Cove](https://open.spotify.com/track/39Y6FhE6CKDxHAJlU2jhUv) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 4:59 |
 
-Snapshot ID: `accaAAAAAADZyPqUukrPxkzYMNkDTfnx`
+Snapshot ID: `achrgAAAAAAqUTwoV9k402DUNXF1s6SD`

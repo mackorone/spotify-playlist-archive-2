@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,445 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,565 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 36 | [The Good Mr\. Square](https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 1:26 |
 | 37 | [Rainy Day Mushroom Pillow](https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 3:04 |
 | 38 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
-| 39 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
-| 40 | [I Walk on Guilded Splinters](https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 7:46 |
+| 39 | [I Walk on Guilded Splinters](https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 7:46 |
+| 40 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
 | 41 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
 | 42 | [Incense And Peppermints](https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense & Peppermints](https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5) | 2:49 |
 | 43 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 63 | [Rainbow](https://open.spotify.com/track/3qCnqSMioCZ7stbXqCorUq) | [Twentieth Century Zoo](https://open.spotify.com/artist/2YIXlmXZrJoFZfUQFOw4hT) | [Thunder On A Clear Day](https://open.spotify.com/album/60DV7mFo39JXUL8e3IiaEs) | 4:17 |
 | 64 | [Under the Rainbow](https://open.spotify.com/track/5GGHGmV00uMekAdhqia3Mt) | [The End](https://open.spotify.com/artist/45jcnUQrgsJtv7M6kfAFK4) | [From Beginning to End](https://open.spotify.com/album/6XMRS79DmOuEOFtcBsDdRo) | 3:47 |
 | 65 | [With All in Mind](https://open.spotify.com/track/0BE1Nqi5OtEp05IqZITvt9) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:58 |
-| 66 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
+| 66 | [Child in Time](https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 10:19 |
 | 67 | [Riddles and Fairytales](https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw) | [Bohemian Vendetta](https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c) | [Bohemian Vendetta](https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD) | 2:57 |
-| 68 | [Child in Time](https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 10:19 |
+| 68 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
 | 69 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 70 | [Eight Miles High](https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO) | 3:34 |
-| 71 | [I'd Love To Change The World](https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [The Best Of Ten Years After](https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u) | 3:43 |
-| 72 | [Sunshine Of Your Love](https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Gold](https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E) | 4:10 |
-| 73 | [Somebody to Love](https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Best Of](https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N) | 2:58 |
+| 71 | [Somebody to Love](https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Best Of](https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N) | 2:58 |
+| 72 | [I'd Love To Change The World](https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [The Best Of Ten Years After](https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u) | 3:43 |
+| 73 | [Sunshine Of Your Love](https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Gold](https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E) | 4:10 |
 | 74 | [Shapes Of Things](https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Classic Yardbirds Vol.1](https://open.spotify.com/album/5vgLTfGzgr1UQq6pd3bU0U) | 2:25 |
 | 75 | [The Pusher](https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Born To Be Wild \(Best Of....\)](https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc) | 5:48 |
 

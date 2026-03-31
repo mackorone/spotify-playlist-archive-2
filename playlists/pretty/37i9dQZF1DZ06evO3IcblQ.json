@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36199,
+  "num_followers": 36207,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAAA1f+NyEDvTOk611kCVWbP+",
+  "snapshot_id": "achrgAAAAAAo2QfCoDNk4RNGkSOWv7z/",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 138480,
-      "name": "Waste of Time - 2005 Remaster",
-      "url": "https://open.spotify.com/track/7p1O4s2ROAJ8KMfbLLKE4S"
+      "duration_ms": 185920,
+      "name": "Perfect People - 2005 Remaster",
+      "url": "https://open.spotify.com/track/09CibftU63IIhXuGa1Xzzo"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Land of the Free?",
-      "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Land of the Free?",
+      "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "About Time (2005 Remaster)",
         "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Perfect People - 2005 Remaster",
-      "url": "https://open.spotify.com/track/09CibftU63IIhXuGa1Xzzo"
+      "duration_ms": 138480,
+      "name": "Waste of Time - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7p1O4s2ROAJ8KMfbLLKE4S"
     },
     {
       "added_at": null,

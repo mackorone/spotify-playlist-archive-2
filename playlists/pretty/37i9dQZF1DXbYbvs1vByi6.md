@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. for all you rock'n'roll stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,786 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,794 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 43 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
 | 44 | [Puppets](https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Puppets](https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw) | 2:29 |
 | 45 | [Red Socks Pugie](https://open.spotify.com/track/3ilYdRwg3iu6EXRaC7QMLB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 5:15 |
-| 46 | [Romantic Rights](https://open.spotify.com/track/2PKgrfkc1HRaN9FnGlz9o5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [You're A Woman, I'm A Machine](https://open.spotify.com/album/5AGKxoQIJ6MKDOiITKwH9z) | 3:15 |
-| 47 | [What If](https://open.spotify.com/track/1Gjhq1MYeBLfFc5g4oYSmy) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:09 |
+| 46 | [What If](https://open.spotify.com/track/1Gjhq1MYeBLfFc5g4oYSmy) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:09 |
+| 47 | [Romantic Rights](https://open.spotify.com/track/2PKgrfkc1HRaN9FnGlz9o5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [You're A Woman, I'm A Machine](https://open.spotify.com/album/5AGKxoQIJ6MKDOiITKwH9z) | 3:15 |
 | 48 | [Here's The Thing](https://open.spotify.com/track/08WlCqv58b7ivVAHcOygTp) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 2:55 |
 | 49 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
 | 50 | [Butt No Rifle](https://open.spotify.com/track/40SY3X8rm5UVztJrm1Ey22) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Awake and Hungry](https://open.spotify.com/album/7sJT2b89raHGQKU73zNBGW) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,845 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,852 likes - 75 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 21 | [My Forbidden Lover](https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 4:34 |
 | 22 | [Enjoy Your Life](https://open.spotify.com/track/2TAuq1e91Y636PDppnI2tq) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want To Feel Your Love](https://open.spotify.com/album/5CNIhCpg0W8pdXBJ8b3ISJ) | 6:18 |
 | 23 | [Georgy Porgy \(feat\. Cheryl Lynn\) \- Disco Version](https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best Of Cheryl Lynn: Got To Be Real](https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy) | 5:05 |
-| 24 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 24 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
 | 25 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 3:50 |
-| 26 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
+| 26 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
 | 27 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
 | 28 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 29 | [Take Me to the Bridge](https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH) | [Vera](https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh) | [Take Me to the Bridge / Jumpin' \(Get Hot, Hit the Spot\)](https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx) | 7:03 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 63 | [Time Waits for No One](https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:15 |
 | 64 | [Angel in My Pocket \- Extended Version](https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 7:09 |
 | 65 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
-| 66 | [Fulton County Line](https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn) | [Tommy Stewart](https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h) | [Tommy Stewart](https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG) | 4:49 |
-| 67 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
+| 66 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
+| 67 | [Fulton County Line](https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn) | [Tommy Stewart](https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h) | [Tommy Stewart](https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG) | 4:49 |
 | 68 | [24 Hours a Day](https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN) | [Barbara Pennington](https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:12 |
 | 69 | [It's a Better Than Good Time](https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 5:46 |
 | 70 | [1979 It's Dancing Time \(Full Length Album Mix\)](https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P) | [Revanche](https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9) | [Music Man](https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8) | 8:39 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 72 | [Make Love To Me](https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Reddy](https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI) | 6:39 |
 | 73 | [He's My Man \- Extended Version](https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Let Yourself Go: The ’70s Albums, Vol\. 2: 1974\-1977 \(The Final Sessions\)](https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG) | 4:57 |
 | 74 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
-| 75 | [I Want Your Love](https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic](https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o) | 6:55 |
+| 75 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 |
 
 Snapshot ID: `AAAAAFxwH/NqplQmXuGGhIegr3GVC5eY`

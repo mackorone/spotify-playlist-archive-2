@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7708,
+  "num_followers": 7718,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACQF1cRTaqvNdTPt+Q+RLT5",
+  "snapshot_id": "achrgAAAAAADHfBbehAYlHZwu+k1TlTu",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 167657,
       "name": "14DRoad",
       "url": "https://open.spotify.com/track/2rkKR9JLqCNdAC4swOmAbv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,

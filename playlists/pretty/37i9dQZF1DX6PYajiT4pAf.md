@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Camin, J Balvin, María Becerra, Beret y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,903 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,924 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 39 | [suenan como tu \- canción original de la película boulevard](https://open.spotify.com/track/4Vl4tAJ9O7YvGN8yRqwOjd) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [suenan como tu \(canción original de la película boulevard\)](https://open.spotify.com/album/2dNmj7klwHTGsqmQ0Of5ro) | 3:34 |
 | 40 | [Reírme Sin Ti](https://open.spotify.com/track/1MPVlNPGwBdXN3Uaw6FIzS) | [MARASMO](https://open.spotify.com/artist/5c7eng6pvZIUFqfgWMTHWX), [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Reírme Sin Ti](https://open.spotify.com/album/5H2g3Iocjutw32ge6PCf34) | 3:21 |
 | 41 | [DONT TALK TO ME](https://open.spotify.com/track/2dkJPbAWJRRWBEnNyR0uKC) | [WEST DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [SKICHI](https://open.spotify.com/artist/2M8f9O42ST7uUKON6q0FUY) | [DONT TALK TO ME](https://open.spotify.com/album/7GcKIMHw8r84e7K2O8J79G) | 1:36 |
-| 42 | [Tú me piensas](https://open.spotify.com/track/3Fdei6YCj3k9RsmxEvAR96) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [Tú me piensas](https://open.spotify.com/album/4L5QLVKHud1eDxM23AtauB) | 2:29 |
+| 42 | [Tú me piensas](https://open.spotify.com/track/3Fdei6YCj3k9RsmxEvAR96) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Benzie](https://open.spotify.com/artist/3eohCag0W34l6pN5g3woRS) | [Tú me piensas](https://open.spotify.com/album/4L5QLVKHud1eDxM23AtauB) | 2:29 |
 | 43 | [Mi ausencia](https://open.spotify.com/track/7lkLuEZmHXzsaKZFQ6xsvg) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [Mi ausencia](https://open.spotify.com/album/2BGdFwyNpBkiQJtTZX8pIv) | 3:57 |
 | 44 | [Ella y Yo](https://open.spotify.com/track/1fXxXLjBxlUeP9a2MZbRiW) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC) | [Ella y Yo](https://open.spotify.com/album/2HpPIcOO0IAY943dV6Fjh8) | 3:33 |
 | 45 | [margaritas](https://open.spotify.com/track/3mTIByOeDVUrU8HvcM3zwF) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [margaritas](https://open.spotify.com/album/1FP2zXJ2BBx48ShWAYMS5P) | 3:51 |

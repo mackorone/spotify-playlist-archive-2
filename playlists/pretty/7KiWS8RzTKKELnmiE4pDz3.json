@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgB0SfUUbDOlH35mys4sodDfe8zjoH",
+  "snapshot_id": "AAAgDXT2iAHzeNBiKQG0rc0n+zt00O2N",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -3279,6 +3279,114 @@
       "duration_ms": 184405,
       "name": "Cosmo Freestyle",
       "url": "https://open.spotify.com/track/7rOMXlhgozetHpzmJciBjm"
+    },
+    {
+      "added_at": "2026-03-30 22:28:09",
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/2POZpxnN6IgGAzIf5P3KHz"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Face the World",
+      "url": "https://open.spotify.com/track/0MFUtcr3Vo3G2ERd2Tgnfi"
+    },
+    {
+      "added_at": "2026-03-30 22:46:41",
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/2POZpxnN6IgGAzIf5P3KHz"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Cuzzy Capone",
+          "url": "https://open.spotify.com/artist/1grD3RkZNEVH9vgPUxhIDS"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/2xLOs0DeMHYkzAKuAc17Af"
+    },
+    {
+      "added_at": "2026-03-30 23:09:39",
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6z0zcu4vVYHAbjS5XzA3HD"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 150214,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/4X7Lprg53uDxjF84kvbq2P"
+    },
+    {
+      "added_at": "2026-03-30 23:16:46",
+      "album": {
+        "name": "Born 2 Rap",
+        "url": "https://open.spotify.com/album/4UFn9Lp48TeDrdOmIEKQDV"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 273718,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/4AHebDFjQrv3ApKg13aVfP"
+    },
+    {
+      "added_at": "2026-03-31 00:42:22",
+      "album": {
+        "name": "TOTEP",
+        "url": "https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 126306,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231"
+    },
+    {
+      "added_at": "2026-03-31 00:49:31",
+      "album": {
+        "name": "Roc-A-Fella Y'all",
+        "url": "https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 299703,
+      "name": "Roc-A-Fella Y'all",
+      "url": "https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp"
     }
   ],
   "unique_name": "main ",

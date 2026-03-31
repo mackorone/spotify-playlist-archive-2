@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 687,
+  "num_followers": 693,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADVpByWBV6gRJSewMQfS4hSeH5L/4O",
+  "snapshot_id": "AAADWCgXtCabQiU4mXapvytoUnwQ1QjV",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -1255,6 +1255,38 @@
       "duration_ms": 207999,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ"
+    },
+    {
+      "added_at": "2026-03-30 20:18:48",
+      "album": {
+        "name": "NOISY NOISY NOISY",
+        "url": "https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm"
+      },
+      "artists": [
+        {
+          "name": "Impulse Bangs",
+          "url": "https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp"
+        }
+      ],
+      "duration_ms": 172712,
+      "name": "Forgot Yourself",
+      "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
+    },
+    {
+      "added_at": "2026-03-30 20:19:48",
+      "album": {
+        "name": "Phoenix - Breaking the Cycle",
+        "url": "https://open.spotify.com/album/25fUK2kTg4PxRZndSf57ns"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse Riding",
+          "url": "https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL"
+        }
+      ],
+      "duration_ms": 262857,
+      "name": "Apparently Dead",
+      "url": "https://open.spotify.com/track/7KU3oqTPIO1vH8Dm3qT9NO"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

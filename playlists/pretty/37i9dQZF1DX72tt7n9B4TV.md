@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,975 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,977 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 58 | [Call](https://open.spotify.com/track/1eGdBOJKqioNJ4v3Eawcwp) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:30 |
 | 59 | [I'll Wait](https://open.spotify.com/track/0YSeLT9HdsmHsCcmuYDcky) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 2:52 |
 | 60 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
-| 61 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
-| 62 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
+| 61 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
+| 62 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 63 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
 | 64 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
 | 65 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/7lnDmOjAU6K1LjAxfSHa9n) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc) | 2:33 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 76 | [I Just Do!](https://open.spotify.com/track/3bcLNMckHtoZ3Gds38DSlR) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Sweetness](https://open.spotify.com/album/00CNmHlBN88lF6nc7NYPaF) | 3:09 |
 | 77 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
 | 78 | [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 |
-| 79 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
-| 80 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 79 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 80 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
 
 Snapshot ID: `AAAAAONZlfRIMkiurdKOgs/9GFBilNF5`

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 79120,
+  "num_followers": 79181,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "LEGOLAS",
-      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "Aimoye",
         "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 134265,
       "name": "Aimoye",
       "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "LEGOLAS",
+      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "2:02PM IN LONDON (FREESTYLE)",
         "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
       },
@@ -531,18 +511,22 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "Nkemakonam",
-        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
       "artists": [
         {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 239673,
-      "name": "Nkemakonam",
-      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -571,6 +555,22 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
+        "name": "Nkemakonam",
+        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 239673,
+      "name": "Nkemakonam",
+      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/60v0m0FzuoBlbFwd9WkknL"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "Never Fold",
         "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 170475,
       "name": "Rules Of Life",
       "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
-      },
-      "artists": [
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 172588,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "FLAKO",
         "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "duration_ms": 172588,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "ACL",
-      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 184821,
       "name": "INDUSTRY MACHINE",
       "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "ACL",
+      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 131592,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "Time Traveler",
-        "url": "https://open.spotify.com/album/07wy9JIr7cu1W95IORtr3S"
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 135902,
-      "name": "Big Masquerade (Opu Owu)",
-      "url": "https://open.spotify.com/track/7gc3zWnWsNq1AWX1o9iCKw"
+      "duration_ms": 131592,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -1079,6 +1063,22 @@
       "duration_ms": 173559,
       "name": "BORN TO BE GREAT",
       "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/07wy9JIr7cu1W95IORtr3S"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 135902,
+      "name": "Big Masquerade (Opu Owu)",
+      "url": "https://open.spotify.com/track/7gc3zWnWsNq1AWX1o9iCKw"
     },
     {
       "added_at": "2026-03-27 00:01:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 150873,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
         "name": "Pour the World Spit",
         "url": "https://open.spotify.com/album/6Pcw9s46ajtJvTXRJD5lNo"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
-        "name": "Stormy",
-        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 150873,
-      "name": "Stormy",
-      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
         "name": "Motho Waka",
         "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
       },
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-03-27 00:01:15",
       "album": {
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "No Less",
+      "url": "https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:15",
+      "album": {
         "name": "G.O.A.T",
         "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 163444,
       "name": "THERAPY SESSION",
       "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
-    },
-    {
-      "added_at": "2026-03-27 00:01:15",
-      "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "No Less",
-      "url": "https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6"
     },
     {
       "added_at": "2026-03-27 00:01:15",

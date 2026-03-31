@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,516 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,522 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 57 | [Pop Boy \(feat\. Aitch\)](https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:31 |
 | 58 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 59 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
-| 60 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
-| 61 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 |
+| 60 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 |
+| 61 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 62 | [Splitting The Atom](https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:16 |
 | 63 | [Guten Tag](https://open.spotify.com/track/5YVAa5A1w987AIeCn6I0UI) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:35 |
 | 64 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 92 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
 | 93 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 |
 | 94 | [Town Called Malice](https://open.spotify.com/track/73RGpQg8Cxtly4QuHtNiOd) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Jam Story](https://open.spotify.com/album/50d9Hx8o4z7XooQItBG9nH) | 2:52 |
-| 95 | [It's Strange](https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Strange](https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN) | 4:05 |
-| 96 | [Mean Demeanor](https://open.spotify.com/track/0KDTWyOfhVNSHyctLmiQC3) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Mean Demeanor](https://open.spotify.com/album/2u3sopyvQaCshQSFfzgxSJ) | 3:01 |
-| 97 | [Rise To The Challenge](https://open.spotify.com/track/1Hd8LnDfCZltoUvuwDl6ZC) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z) | [Enemy Of The Enemy \(Remastered\)](https://open.spotify.com/album/5v8lBCWTqHrCy5b0DDaRtV) | 4:25 |
-| 98 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |
-| 99 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 |
+| 95 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |
+| 96 | [It's Strange](https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Strange](https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN) | 4:05 |
+| 97 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 |
+| 98 | [Mean Demeanor](https://open.spotify.com/track/0KDTWyOfhVNSHyctLmiQC3) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Mean Demeanor](https://open.spotify.com/album/2u3sopyvQaCshQSFfzgxSJ) | 3:01 |
+| 99 | [Rise To The Challenge](https://open.spotify.com/track/1Hd8LnDfCZltoUvuwDl6ZC) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z) | [Enemy Of The Enemy \(Remastered\)](https://open.spotify.com/album/5v8lBCWTqHrCy5b0DDaRtV) | 4:25 |
 | 100 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |
 
 Snapshot ID: `AAAAAKkggfSFFEf+Z12vyU/diUhX4zc9`

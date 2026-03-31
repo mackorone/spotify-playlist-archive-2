@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,325 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,336 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 41 | [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 |
 | 42 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 |
 | 43 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
-| 44 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 |
-| 45 | [千鳥](https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 4:12 |
-| 46 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
+| 44 | [千鳥](https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 4:12 |
+| 45 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 |
+| 46 | [Breezy Love](https://open.spotify.com/track/0sty8aSXM7llsVgtEx6B9E) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Breezy Love](https://open.spotify.com/album/3ZtlNvCGTQgyg76AgYQ7Kh) | 3:42 |
 | 47 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
-| 48 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
-| 49 | [Breezy Love](https://open.spotify.com/track/0sty8aSXM7llsVgtEx6B9E) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Breezy Love](https://open.spotify.com/album/3ZtlNvCGTQgyg76AgYQ7Kh) | 3:42 |
+| 48 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
+| 49 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
 | 50 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
 
 Snapshot ID: `AAAAAD/S0C1Si8GEpQgByBINxKjg8PSA`

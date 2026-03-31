@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABrV/CbMA9Qyib320sSzOEP",
+  "snapshot_id": "achrgAAAAADZpfdjxwRUp+a73UxCZVb3",
   "tracks": [
     {
       "added_at": null,
@@ -303,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 215960,
-      "name": "What's Your Flava? - Radio Edit",
-      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
+      "duration_ms": 205478,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
     },
     {
       "added_at": null,
@@ -335,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 205478,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
+      "duration_ms": 215960,
+      "name": "What's Your Flava? - Radio Edit",
+      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
     },
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Hidden Agenda",
-      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
+      "duration_ms": 185200,
+      "name": "When the Bassline Drops",
+      "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Big Narstie",
-          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
         }
       ],
-      "duration_ms": 185200,
-      "name": "When the Bassline Drops",
-      "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
+      "duration_ms": 233640,
+      "name": "Hidden Agenda",
+      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 241293,
       "name": "Woman Trouble (Radio Edit)",
       "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 280893,
-      "name": "What's Changed",
-      "url": "https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv"
+      "duration_ms": 228600,
+      "name": "2 Steps Back",
+      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 228600,
-      "name": "2 Steps Back",
-      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
+      "duration_ms": 280893,
+      "name": "What's Changed",
+      "url": "https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv"
     },
     {
       "added_at": null,

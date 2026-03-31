@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 649167,
+  "num_followers": 649182,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2026-02-27 14:00:21",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2026-02-27 14:00:21",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Chica del Este",
+      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
+    },
+    {
+      "added_at": "2026-02-27 14:00:21",
+      "album": {
         "name": "VUELA",
         "url": "https://open.spotify.com/album/6tcsMZC2aZNXWymJNghFyi"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 158441,
       "name": "VUELA",
       "url": "https://open.spotify.com/track/6ryIAZUcqNrMi5D9kVaU7x"
-    },
-    {
-      "added_at": "2026-02-27 14:00:21",
-      "album": {
-        "name": "10 A\u00f1os",
-        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Chica del Este",
-      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "Grupo Play (La poes\u00eda musical)",
-        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Llora me llama",
-      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
-    },
-    {
-      "added_at": "2026-02-27 14:00:21",
-      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 243920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
+    },
+    {
+      "added_at": "2026-02-27 14:00:21",
+      "album": {
+        "name": "Grupo Play (La poes\u00eda musical)",
+        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Llora me llama",
+      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
-        "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
-      "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
-    },
-    {
-      "added_at": "2026-02-27 14:00:21",
-      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 178453,
       "name": "Tengo la Primicia",
       "url": "https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj"
+    },
+    {
+      "added_at": "2026-02-27 14:00:21",
+      "album": {
+        "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
+        "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
+      "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
       "artists": [
         {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
       "artists": [
         {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
         }
       ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
+      "duration_ms": 240080,
+      "name": "Trampas",
+      "url": "https://open.spotify.com/track/3OBXS3Tgtj7OQVzLA0BFKY"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Trampas",
-      "url": "https://open.spotify.com/track/3OBXS3Tgtj7OQVzLA0BFKY"
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
-        "name": "Despu\u00e9s de T\u00ed, Que",
-        "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Si Me Ves Llorar por Ti",
-      "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
-    },
-    {
-      "added_at": "2026-02-27 14:00:21",
-      "album": {
         "name": "Y la cumbia se baila as\u00ed...",
         "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 198066,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+    },
+    {
+      "added_at": "2026-02-27 14:00:21",
+      "album": {
+        "name": "Despu\u00e9s de T\u00ed, Que",
+        "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Si Me Ves Llorar por Ti",
+      "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
     },
     {
       "added_at": "2026-02-27 14:00:21",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-02-27 14:00:21",
       "album": {
+        "name": "Revoluci\u00f3n Fatal",
+        "url": "https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd"
+      },
+      "artists": [
+        {
+          "name": "Los Fatales",
+          "url": "https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "Comadre Compadre",
+      "url": "https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr"
+    },
+    {
+      "added_at": "2026-02-27 14:00:21",
+      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
-    },
-    {
-      "added_at": "2026-02-27 14:00:21",
-      "album": {
-        "name": "Revoluci\u00f3n Fatal",
-        "url": "https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd"
-      },
-      "artists": [
-        {
-          "name": "Los Fatales",
-          "url": "https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "Comadre Compadre",
-      "url": "https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr"
     },
     {
       "added_at": "2026-02-27 14:00:21",

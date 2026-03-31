@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,317 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,403 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 5 | [El Doctor](https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 3:54 |
 | 6 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
 | 7 | [Solo Me Dejaste](https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5) | 3:06 |
-| 8 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
-| 9 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
+| 8 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
+| 9 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 10 | [La Guerita](https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi) | 3:04 |
 | 11 | [El Rescate](https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin) | 2:34 |
 | 12 | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 25 | [Eres Mi Crush](https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ) | 2:40 |
 | 26 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 27 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
-| 28 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
-| 29 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
+| 28 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
+| 29 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
 | 30 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
 | 31 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
 | 32 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Así Nací](https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:47 |
 | 50 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 |
 
-Snapshot ID: `accaAAAAAAAjuHD24zteC1IRpXO7q2G2`
+Snapshot ID: `achrgAAAAAAXF0HjjBoQ0tlI6z3cLS+P`

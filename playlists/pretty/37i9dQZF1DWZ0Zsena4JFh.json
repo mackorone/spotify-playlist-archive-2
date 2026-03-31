@@ -1,6 +1,6 @@
 {
   "description": "lo alt, raro y cool. Death Cab For Cutie en portada.",
-  "num_followers": 686628,
+  "num_followers": 686597,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,38 @@
     {
       "added_at": "2026-03-20 06:00:12",
       "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2026-03-20 06:00:12",
+      "album": {
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Min vita kanin",
+      "url": "https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa"
+    },
+    {
+      "added_at": "2026-03-20 06:00:12",
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
       },
@@ -255,38 +287,6 @@
       "duration_ms": 297787,
       "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
       "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
-    },
-    {
-      "added_at": "2026-03-20 06:00:12",
-      "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Min vita kanin",
-      "url": "https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa"
-    },
-    {
-      "added_at": "2026-03-20 06:00:12",
-      "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2026-03-20 06:00:12",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-20 06:00:12",
       "album": {
-        "name": "Vampire Bat",
-        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 206652,
-      "name": "Vampire Bat",
-      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
-    },
-    {
-      "added_at": "2026-03-20 06:00:12",
-      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+    },
+    {
+      "added_at": "2026-03-20 06:00:12",
+      "album": {
+        "name": "Vampire Bat",
+        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 206652,
+      "name": "Vampire Bat",
+      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
     }
   ],
   "unique_name": "el indie no es un g\u00e9nero ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,078 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,119 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 59 | [Rainforest Life](https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:38 |
 | 60 | [Nap In The Rainforest](https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
 | 61 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
-| 62 | [Late Night In The Rainforest](https://open.spotify.com/track/6neg4vRWipQEtwmvVyzqaY) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
-| 63 | [Tranquil Rainforest](https://open.spotify.com/track/5SYhok0pJrIqZQ0lRes91I) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:50 |
+| 62 | [Tranquil Rainforest](https://open.spotify.com/track/5SYhok0pJrIqZQ0lRes91I) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:50 |
+| 63 | [Late Night In The Rainforest](https://open.spotify.com/track/6neg4vRWipQEtwmvVyzqaY) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
 | 64 | [Ambience Within](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Clayton Calm](https://open.spotify.com/artist/0nZQHwKfuzDyeTwiMDCzbn) | [A Rain Forest Walk](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
 | 65 | [Rain Forest Birds](https://open.spotify.com/track/2yX5Adexq0JukUGJvqlkYA) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 2:40 |
 | 66 | [Pouring River & Forest Sounds](https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa) | [Reikini](https://open.spotify.com/artist/41EYcaGVBz9149nNS89YYJ) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 4:33 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 72 | [Relaxing Crickets And Waterfall](https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 4:24 |
 | 73 | [Morning in the Wet Tropical Forest](https://open.spotify.com/track/1UhDET2ZIaRs15fb3DHbOT) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Morning in the Wet Tropical Forest](https://open.spotify.com/album/1yljOnXzPodIsHlICJp0ec) | 2:06 |
 | 74 | [Jungle Dusk](https://open.spotify.com/track/1zmrYMq41ft2IABVvP4FOs) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Columbian Jungle Noise](https://open.spotify.com/album/6YGCYq6zWBhvecdc9Ozn3d) | 2:00 |
-| 75 | [Melodic Nature Chorus](https://open.spotify.com/track/34OOT0ckCDlGQ7c3mo2rl9) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 3:27 |
-| 76 | [Safari Monkey Calls](https://open.spotify.com/track/1B3Xinpm6B2lr8aPar5fXv) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 3:20 |
+| 75 | [Safari Monkey Calls](https://open.spotify.com/track/1B3Xinpm6B2lr8aPar5fXv) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 3:20 |
+| 76 | [Melodic Nature Chorus](https://open.spotify.com/track/34OOT0ckCDlGQ7c3mo2rl9) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 3:27 |
 | 77 | [Alive in the Jungle](https://open.spotify.com/track/45lw3z8FeUxEZgEaLPXHx9) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Alive in the Jungle](https://open.spotify.com/album/00KplVJavSuMak3v3QDfxo) | 2:57 |
 | 78 | [Forest for rest](https://open.spotify.com/track/09ivEmCidtMHce7mS2XInL) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Forest Rain Sounds](https://open.spotify.com/album/0u5LVWFnf1IB2fXEhg2WkO) | 2:44 |
 | 79 | [Under the Trees Post\-Rain](https://open.spotify.com/track/2coAfwD47g55OaKZ4tgcyI) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Under the Trees Post\-Rain](https://open.spotify.com/album/6ClJCbOLsOZ6ZEya83Xdrc) | 2:18 |
-| 80 | [Rainforest](https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:55 |
-| 81 | [Whispering Nature Harmony](https://open.spotify.com/track/1rWyQsyX5vqqSMXZyrtQqW) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Whispering Nature Harmony](https://open.spotify.com/album/28CXo52EEFsQF1yMBi8iXo) | 3:15 |
+| 80 | [Whispering Nature Harmony](https://open.spotify.com/track/1rWyQsyX5vqqSMXZyrtQqW) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Whispering Nature Harmony](https://open.spotify.com/album/28CXo52EEFsQF1yMBi8iXo) | 3:15 |
+| 81 | [Rainforest](https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:55 |
 | 82 | [Fugue of the Forest](https://open.spotify.com/track/0Do11qV3N7Wo1ZPoGjkE27) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Peaceful Nature Melodies](https://open.spotify.com/album/0TFmJQQqxdHlLcGz5MNnZE) | 3:32 |
 | 83 | [Amazing Rainforest](https://open.spotify.com/track/08aNuS6gpy9KjZ65uP5EaM) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Rain Is A Beautiful Thing](https://open.spotify.com/album/1zrFylUbEzedemFnZH4oUT) | 2:51 |
 | 84 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |

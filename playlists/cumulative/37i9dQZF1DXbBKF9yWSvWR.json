@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: BLUAI",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Sarah Julia (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artist)",
   "name": "Indie Update",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 216426,
       "name": "Against The Current",
       "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
+      "album": {
         "name": "Back Of My Hand",
         "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 225513,
       "name": "Built To Collide",
       "url": "https://open.spotify.com/track/69saRCWp2ov8jBLOprFAfE"
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 234150,
       "name": "Cold",
       "url": "https://open.spotify.com/track/2mvK0PyeLd2KXy13Wq7QTE"
@@ -2814,6 +2832,42 @@
       "duration_ms": 208111,
       "name": "Confused Kids - Alternate",
       "url": "https://open.spotify.com/track/2ZWOX0cB7odheL4vKAjomS"
+    },
+    {
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "album": {
+        "name": "counsel me !",
+        "url": "https://open.spotify.com/album/7j5HLJUCYsHlKoJkL4gcFf"
+      },
+      "artists": [
+        {
+          "name": "gala dragot",
+          "url": "https://open.spotify.com/artist/5bec6G42etdHwqurstmocM"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249791,
+      "name": "counsel me !",
+      "url": "https://open.spotify.com/track/09uKZrsSmoqPelzI6NqRXW"
     },
     {
       "album": {
@@ -3244,7 +3298,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 233093,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG"
@@ -3605,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/63QUlS0KX5pEE6ghaxBC03"
+      },
+      "artists": [
+        {
+          "name": "LAKSHMI",
+          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249875,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/0gXMDFR8g6tp7TTxBI4ypW"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/5QakQ4plBNqVLff9B2eLFY"
       },
@@ -3854,6 +3926,24 @@
       "duration_ms": 162266,
       "name": "Etna",
       "url": "https://open.spotify.com/track/5uiHSIXQr88vlfPPditJMJ"
+    },
+    {
+      "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "album": {
@@ -4998,6 +5088,24 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "album": {
+        "name": "Spring Forward",
+        "url": "https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212538,
+      "name": "Hanging Out To Dry",
+      "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
     },
     {
       "album": {
@@ -6730,7 +6838,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 233486,
       "name": "Lean",
       "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
@@ -8526,7 +8634,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 170533,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/4OM1Ljxiq04Ma2noNGsXTB"
@@ -11221,6 +11329,24 @@
     },
     {
       "album": {
+        "name": "The Sky Knows I Exist",
+        "url": "https://open.spotify.com/album/1ttJZ747kyYB8pUg7LTJiO"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/2s4HwWVEdmUKWUSWcGScS2"
+    },
+    {
+      "album": {
         "name": "Patch",
         "url": "https://open.spotify.com/album/7xwXXKv5bsAmeISpytBJvr"
       },
@@ -13868,7 +13994,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 220080,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0645\u0631 \u0643\u064a\u0641\u060c \u0632\u064a\u0627\u062f \u0638\u0627\u0638\u0627",
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0628\u064a\u0648\u0633\u0641",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 184196,
       "name": "333",
       "url": "https://open.spotify.com/track/4UBQg7ZxU1hrAaNFvzS10C"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 135757,
       "name": "Ana",
       "url": "https://open.spotify.com/track/2h0LTnWBlRSasKmgOS2DLH"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 94925,
       "name": "AURA",
       "url": "https://open.spotify.com/track/3M4DRqS84IvGSmAH7BTDuF"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 192000,
       "name": "B.B. King (feat. Dhom Altlasy)",
       "url": "https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 113142,
       "name": "BONO",
       "url": "https://open.spotify.com/track/5uwxUgvc7YMESf745i8wyx"
@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6l7XOSo5G7ojctbfquMChn"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185341,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/6gDd7m57FDznq1nSj57gr0"
+    },
+    {
+      "album": {
         "name": "Madina",
         "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
       },
@@ -2142,6 +2160,24 @@
       "duration_ms": 165511,
       "name": "DKHOOL\\\\KHROOG",
       "url": "https://open.spotify.com/track/7bHLhelEYKQPnRPFmyzOyH"
+    },
+    {
+      "album": {
+        "name": "MAFIA",
+        "url": "https://open.spotify.com/album/4PbcFg08rKsFnESVcBnDwH"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "DON'T CALL ME TODAY",
+      "url": "https://open.spotify.com/track/14nb4zJx6gSeqtBEQ3JfHa"
     },
     {
       "album": {
@@ -5396,7 +5432,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 148645,
       "name": "Money Man",
       "url": "https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x"
@@ -5786,6 +5822,28 @@
       "duration_ms": 138000,
       "name": "No Problema",
       "url": "https://open.spotify.com/track/5AjsPhrcGQdRdkqLRalRfw"
+    },
+    {
+      "album": {
+        "name": "Aqareb (Side B)",
+        "url": "https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Humood Al Semah",
+          "url": "https://open.spotify.com/artist/7wqfvkzzqiZy9ooItf0n9h"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Noor Ainy (feat. Humood Al Semah)",
+      "url": "https://open.spotify.com/track/7uIZXZsGhD45EPW2ddLlqV"
     },
     {
       "album": {
@@ -6614,6 +6672,24 @@
       "duration_ms": 181090,
       "name": "SHOGHLA",
       "url": "https://open.spotify.com/track/1KHa1gCcw1OV9GVSt1guUo"
+    },
+    {
+      "album": {
+        "name": "Shoghle (From EgyBest Movie: The Soundtrack)",
+        "url": "https://open.spotify.com/album/29PqmOPZJ5rLw1lYTy5Dja"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157122,
+      "name": "Shoghle - From EgyBest Movie: The Soundtrack",
+      "url": "https://open.spotify.com/track/10UsF6m8elvZ64YQ0XUpU8"
     },
     {
       "album": {
@@ -7717,6 +7793,28 @@
     },
     {
       "album": {
+        "name": "Yatawaghal Yatasarab",
+        "url": "https://open.spotify.com/album/2DctvSQS3wmnDX4CQ2KlD6"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Swag Lee",
+          "url": "https://open.spotify.com/artist/23IHxo80tw2UOGdO8HRgdt"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186758,
+      "name": "Yatawaghal Yatasarab",
+      "url": "https://open.spotify.com/track/1MsGlwop6jPy6iaxrNKJim"
+    },
+    {
+      "album": {
         "name": "Ya Kahera",
         "url": "https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm"
       },
@@ -7862,7 +7960,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 209993,
       "name": "\u0627\u0644\u0628\u0648\u0635\u0644\u0629 \u0636\u0627\u0639\u062a",
       "url": "https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2"

@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 43130,
+  "num_followers": 43143,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABq+5TOzMmaet3lD5FOdgIH",
+  "snapshot_id": "achrgAAAAAAzXlrd5oXb1K0fl0jJBi4+",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Ahora Resulta",
         "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 177704,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Empec\u00e9",
-        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 197051,
-      "name": "Cuando Empec\u00e9",
-      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 223743,
-      "name": "Habemus Conciliaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
+      "duration_ms": 178500,
+      "name": "Mexican Flan",
+      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Mexican Flan",
-      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+      "duration_ms": 223743,
+      "name": "Habemus Conciliaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Compas Vol. 1",
-        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 196031,
-      "name": "Ant\u00eddoto de Amor",
-      "url": "https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA"
+      "duration_ms": 217200,
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
     },
     {
       "added_at": null,
@@ -751,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Hermanos",
-        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Los Hermanos",
-      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
+      "duration_ms": 196031,
+      "name": "Ant\u00eddoto de Amor",
+      "url": "https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA"
     },
     {
       "added_at": null,

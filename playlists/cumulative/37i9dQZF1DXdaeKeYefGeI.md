@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-255 songs - 15 hr 27 min
+258 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Kijk Niet Achterom](https://open.spotify.com/track/0QL7jSoLircjh2hLC0SYAi) | [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Kijk Niet Achterom](https://open.spotify.com/album/53sBljvd4P6foQ3p9RZZ46) | 3:49 | 2023-02-10 | 2023-09-15 |
 | [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2023-02-10 | 2024-03-20 |
 | [Kom Hier](https://open.spotify.com/track/6NFDCjTgNVlhVCeNGTAuYh) | [Manuëla Kemp](https://open.spotify.com/artist/0zpaARjlrBqGeMtzn2Y6XI) | [Slapeloze nachten](https://open.spotify.com/album/2OaBag8Hc7E3UnerZNY7xD) | 4:07 | 2025-01-24 |  |
+| [Kom Maar Bij Me](https://open.spotify.com/track/7FVUFUp9MRsV9eWHzvk2w5) | [Marlijn](https://open.spotify.com/artist/16fziKlvEinEhQRH8qx1Qu) | [Kom Maar Bij Me](https://open.spotify.com/album/0jgiARhaa77wUzIY91QxQb) | 4:02 | 2026-03-30 |  |
 | [Kom Terug](https://open.spotify.com/track/4ovxUTMs3Mi7ntZS2tJojk) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [tot ziens, Justine Keller](https://open.spotify.com/album/2aeLBdqU5aMNt5TPKuDHRg) | 3:50 | 2023-02-10 | 2023-04-26 |
 | [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2025-03-13 | 2025-09-05 |
 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 | 2023-02-10 |  |
@@ -176,6 +177,7 @@
 | [Noem Mij Bij Jouw Naam](https://open.spotify.com/track/5UymQJVIxkBRKEod5Hpltf) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Noem Mij Bij Jouw Naam](https://open.spotify.com/album/3Gxm8zzoZqGvr94wgbL7CA) | 3:07 | 2025-08-28 |  |
 | [Nooit meer van God los](https://open.spotify.com/track/7wJsXhYmhctZfCYqV4ape3) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO), [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Nooit meer van God los](https://open.spotify.com/album/3jKnaMHuS5aXneVwSnLarK) | 3:06 | 2023-04-06 | 2024-05-10 |
 | [Nu jij dan bent geboren](https://open.spotify.com/track/441HNWL3Vau3QAL9XHMeiw) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 4:11 | 2024-11-07 | 2026-01-23 |
+| [Nu Nog Niet \- Josephine Odhil versie](https://open.spotify.com/track/0H4jonrXvaYd2jZHuCmR1N) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d), [Josephine Odhil](https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl) | [Nu Nog Niet \- Josephine Odhil versie](https://open.spotify.com/album/7CGFASyw6vLfX2AdpoY7l4) | 2:42 | 2026-03-30 |  |
 | [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 | 2023-02-10 | 2023-03-18 |
 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 | 2023-12-05 | 2024-03-30 |
 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2023-02-10 |  |
@@ -201,6 +203,7 @@
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-05 |  |
 | [Slaap](https://open.spotify.com/track/03uUxpinGNtYRgQn8w84a1) | [Eva van Manen](https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj) | [Slaap](https://open.spotify.com/album/5aFdLxtMs8LfxiTmV5kSnP) | 3:51 | 2026-03-05 |  |
+| [Soms weet je niet meer](https://open.spotify.com/track/1LKwFfhWW1dqIdF0Dsr4yB) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Soms weet je niet meer](https://open.spotify.com/album/2HqYBpHRolImkk7d3JKtq3) | 2:59 | 2026-03-30 |  |
 | [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 | 2025-10-22 |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte](https://open.spotify.com/track/4NT1xPFPqQfjVgPgNifPBY) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Stilte](https://open.spotify.com/album/0UupZY6rtG3oVXVwUksxCL) | 2:30 | 2025-11-20 |  |

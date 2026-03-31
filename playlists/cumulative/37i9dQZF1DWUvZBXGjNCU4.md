@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-423 songs - 18 hr 59 min
+431 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 | 2022-05-13 | 2024-04-06 |
 | [Con Amore](https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Con Amore](https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE) | 2:54 | 2024-06-07 |  |
 | [Confianza](https://open.spotify.com/track/0l110LCnGDPOlbiePvONwN) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Confianza](https://open.spotify.com/album/6gKoezS6y9GGDzZFhNKIx9) | 2:11 | 2024-05-10 |  |
+| [Cradlesong](https://open.spotify.com/track/6Me7tLvCIWDgx4ZF43C1Bi) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Cradlesong](https://open.spotify.com/album/4rAv9BBVO1JvUX25iBZ1LA) | 1:54 | 2026-03-30 |  |
 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 | 2022-05-27 | 2024-05-10 |
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 |  |
 | [Daily Rituals](https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Daily Rituals](https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB) | 2:22 | 2024-07-19 |  |
@@ -122,6 +123,7 @@
 | [Fall in Lisbon](https://open.spotify.com/track/400mUf0vQjFyKoOa5kfsHg) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Fall in Lisbon](https://open.spotify.com/album/5U5Wxwu8bhvZLEyni6nxIT) | 2:26 | 2022-10-28 | 2025-11-25 |
 | [Fall into Comfort](https://open.spotify.com/track/1qxD4Jw9pprF9hLTA01Pp7) | [Michael Mucklow](https://open.spotify.com/artist/7mobALd60kwSNrm2cFfzXI) | [Fall into Comfort](https://open.spotify.com/album/3z9zqed83nqwy6mk80i1u2) | 3:31 | 2022-05-13 | 2022-06-10 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
+| [Falling For You](https://open.spotify.com/track/6uXuIOzllHn8VZkW0uijpN) | [Jorge Huksos](https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7) | [Falling For You](https://open.spotify.com/album/06YWGGpEpZdWuzQrDP6JeM) | 2:22 | 2026-03-30 |  |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-05-13 | 2024-04-06 |
 | [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 | 2025-05-13 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-06 |
@@ -162,11 +164,14 @@
 | [High Tide](https://open.spotify.com/track/5vpRsRSqIETB8HiHzoJ9lV) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/5yLqVDYBeB03t52Nm0myXi) | 1:49 | 2022-05-13 | 2022-06-10 |
 | [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 | 2025-05-28 |  |
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 |  |
+| [Hitch Hike](https://open.spotify.com/track/44o70d4Nyyr5KIUdk6Qm2V) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [Hitch Hike](https://open.spotify.com/album/64FOVL8tso3COrTBicJ3Kn) | 2:03 | 2026-03-30 |  |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2024-06-15 |
 | [Hold That Thought](https://open.spotify.com/track/0scTOazaMpMEgSkrZFKYtH) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Hold That Thought](https://open.spotify.com/album/2yMZCc5zdd98Z4E4Iz56zp) | 2:46 | 2025-08-26 |  |
 | [Homestead](https://open.spotify.com/track/7qYUD2UF8MOfUcNVG11EEi) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Homestead](https://open.spotify.com/album/66UkkdvSmgLSC2wk5X3wdO) | 3:00 | 2025-11-24 |  |
 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 | 2022-05-13 | 2022-10-07 |
+| [Homeward Bound](https://open.spotify.com/track/0lYg3OQQYSoN4Nb9eoiul9) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Homeward Bound](https://open.spotify.com/album/45HAU1pimjqNplCRelIKHG) | 2:51 | 2026-03-30 |  |
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 |  |
+| [Humanity](https://open.spotify.com/track/63fUv69s1wq0R9YiK4Yu7w) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Humanity](https://open.spotify.com/album/4rGxFiqITTWo4UgyReM3vA) | 2:14 | 2026-03-30 |  |
 | [Hummingbirds](https://open.spotify.com/track/2810NQ7JzSiWNnw4FR2wcG) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Hummingbirds](https://open.spotify.com/album/6Y8ZwQynXvimAfa6r1qZdp) | 2:16 | 2022-12-23 | 2024-04-06 |
 | [Hügel des Nordens](https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Hügel des Nordens](https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn) | 2:03 | 2022-05-13 | 2024-04-20 |
 | [I Can See Your Tracks \(Instrumental\)](https://open.spotify.com/track/0JAYbuDv6aPzLCAhuhgCFH) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/3KLh2kSBl64Wa0ygg4agyC) | 2:58 | 2022-05-13 | 2022-06-10 |
@@ -263,6 +268,7 @@
 | [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 | 2025-04-02 | 2025-05-14 |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 |  |
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2022-05-13 | 2022-05-27 |
+| [Open Eyes, Open Arms](https://open.spotify.com/track/3hiQpbFbKepAx6zjcy4uvL) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Open Eyes, Open Arms](https://open.spotify.com/album/4B2u4Ffj4St4GqqCng9Y82) | 2:46 | 2026-03-30 |  |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-05-13 | 2024-05-10 |
 | [Opus](https://open.spotify.com/track/1A4Hmte4jyPqiocYQtFRwT) | [Velvet Pines](https://open.spotify.com/artist/2LD1CbmqGxPI5l13pMDITB) | [Opus](https://open.spotify.com/album/4KMcz0Oe9JrpAchuQcfB7o) | 2:37 | 2024-11-20 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2022-05-13 | 2023-09-16 |
@@ -365,6 +371,7 @@
 | [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 | 2025-04-29 | 2025-05-29 |
 | [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 | 2025-05-13 |  |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 | 2025-11-25 |
+| [The narrow road](https://open.spotify.com/track/3r9SHTWUUCZWRvBCsTdgGN) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The narrow road](https://open.spotify.com/album/0l6FhK8rFSJspT1yTpAQLa) | 2:12 | 2026-03-30 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 | 2024-05-25 |
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-05-13 | 2023-04-28 |
@@ -397,6 +404,7 @@
 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-05-13 | 2024-07-19 |
 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 | 2023-09-29 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-05-13 | 2023-06-10 |
+| [Vicinity](https://open.spotify.com/track/5k40DYe9ZLMyVkAo0PaV16) | [Muray Ailis](https://open.spotify.com/artist/0smUzhouQgR5N9B3mhOtCW) | [Vicinity](https://open.spotify.com/album/25cn5lyWuPQm4usrqdzg2W) | 2:04 | 2026-03-30 |  |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
 | [Violet Fog](https://open.spotify.com/track/3E5sK3kvpTuUBQDQ8fvIes) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Violet Fog](https://open.spotify.com/album/0jQZ7IEH8y10fgOheXeGVq) | 2:58 | 2022-07-08 | 2022-07-15 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-05-13 | 2023-08-18 |

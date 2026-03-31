@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,156 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,166 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 29 | [Không Phải Tại Chúng Mình](https://open.spotify.com/track/5Hfl18W3tEIalf5Uh83BPA) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Hà My](https://open.spotify.com/artist/0g9Vm9WKX2PrVfpscQCoMV) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 4:54 |
 | 30 | [Hoa Mười Giờ](https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:58 |
 | 31 | [Đắp Mộ Cuộc Tình](https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tạ Từ Trong Đêm](https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs) | 5:48 |
-| 32 | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 6:41 |
-| 33 | [Đêm Tóc Rối](https://open.spotify.com/track/18tM1Iwp0HZpxGJnB6Tk40) | [Khánh Bình](https://open.spotify.com/artist/5pz8kleDDPd1Zf19PZO3JO) | [Đêm Tóc Rối](https://open.spotify.com/album/1UFF5tQTFhLF8ULrxOBFmO) | 4:48 |
+| 32 | [Đêm Tóc Rối](https://open.spotify.com/track/18tM1Iwp0HZpxGJnB6Tk40) | [Khánh Bình](https://open.spotify.com/artist/5pz8kleDDPd1Zf19PZO3JO) | [Đêm Tóc Rối](https://open.spotify.com/album/1UFF5tQTFhLF8ULrxOBFmO) | 4:48 |
+| 33 | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 6:41 |
 | 34 | [Những đồi hoa sim](https://open.spotify.com/track/5RWImsPAjdpJucoMXRmpCU) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Có Tin Vui Giữa Giờ Tuyệt Vọng](https://open.spotify.com/album/32JYrF4w3zEFKUGMHlG3HI) | 6:12 |
 | 35 | [Liên khúc Em là tất cả \- Hai vì sao lạc](https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 5:15 |
 | 36 | [Người yêu cô đơn](https://open.spotify.com/track/0pM2UmaeVqgWuxJciBKmGz) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 5:27 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 47 | [Tình Chàng Ý Thiếp](https://open.spotify.com/track/3AF7iZrrmE5Tb1Tw9WnrFT) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Tình Chàng Ý Thiếp](https://open.spotify.com/album/70jAa1F8ItR0NerYSmmMpi) | 5:55 |
 | 48 | [Qua Ngõ Nhà Anh](https://open.spotify.com/track/41t4yWDcIa4vQQ5NIwL7Rk) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 3:55 |
 | 49 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
-| 50 | [Trăng Tỏ Hai Miền](https://open.spotify.com/track/1v9FCQ3Vs2hD58XXZR5H12) | [Hồ Phương Liên](https://open.spotify.com/artist/1xqw6I7JGeyBPQNJIwYaXU) | [Tuyển Tập Bolero Trữ Tình Hay Nhất](https://open.spotify.com/album/3GyeIN5z4FqciMQAXyuh7i) | 5:06 |
+| 50 | [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 |
 
 Snapshot ID: `AAAAAOWKQlfiEnH4wOxSansQNxmY8OrH`

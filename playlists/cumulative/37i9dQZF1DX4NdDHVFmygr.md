@@ -4,7 +4,7 @@
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-507 songs - 1 day 2 hr 59 min
+508 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-17 | 2025-12-23 |
 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 | 2023-01-04 | 2023-01-14 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-25 | 2025-05-27 |
-| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
+| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 | 2026-03-31 |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-08-28 | 2025-11-05 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-22 |  |
 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-12-03 |  |
@@ -447,6 +447,7 @@
 | [Thunes](https://open.spotify.com/track/6aPXfQSEApJPZ6fXzkleF7) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 4:12 | 2026-03-06 |  |
 | [TILL WE MEET AGAIN](https://open.spotify.com/track/3IcTApVclbIMFnxxeDVxag) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6U2c7rMdwV93aZe7T22rPP) | 4:51 | 2024-12-05 | 2024-12-22 |
 | [Tititi](https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:36 | 2023-06-08 | 2023-06-11 |
+| [TJENENY](https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:52 | 2026-03-30 |  |
 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 | 2023-12-08 | 2023-12-15 |
 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 | 2024-01-26 | 2024-08-29 |
 | [Tsswirtek](https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tsswirtek](https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO) | 2:27 | 2025-10-06 |  |

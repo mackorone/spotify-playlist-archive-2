@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 329445,
+  "num_followers": 329675,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "burnout",
         "url": "https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI"
       },
@@ -499,22 +483,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "i was always there for you",
-        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
       "artists": [
         {
-          "name": "rareeast",
-          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
-        },
-        {
-          "name": "idontno",
-          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 119600,
-      "name": "i was always there for you",
-      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -531,6 +511,26 @@
       "duration_ms": 221813,
       "name": "of folded photographs",
       "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "i was always there for you",
+        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
+      },
+      "artists": [
+        {
+          "name": "rareeast",
+          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
+        },
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+        }
+      ],
+      "duration_ms": 119600,
+      "name": "i was always there for you",
+      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -835,6 +851,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "do you love me?",
+        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
+      },
+      "artists": [
+        {
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "do you love me?",
+      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -859,6 +891,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "a long road",
+        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "a long road",
+      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -875,22 +923,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
-      },
-      "artists": [
-        {
-          "name": "Blu Velvet",
-          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -943,34 +975,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "do you love me?",
-        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
+        "name": "CROW! (after the snowfall)",
+        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
       },
       "artists": [
         {
-          "name": "Money Flip",
-          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
         }
       ],
-      "duration_ms": 99428,
-      "name": "do you love me?",
-      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "a long road",
-        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "a long road",
-      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
+      "duration_ms": 176000,
+      "name": "antihistamine. - instrumental",
+      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -987,22 +1003,6 @@
       "duration_ms": 146064,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "CROW! (after the snowfall)",
-        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "antihistamine. - instrumental",
-      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+        "name": "the hardest part",
+        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
       },
       "artists": [
         {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
         }
       ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+      "duration_ms": 101052,
+      "name": "the hardest part",
+      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Nebel",
         "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 194077,
       "name": "Nebel",
       "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "the hardest part",
-        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
-      },
-      "artists": [
-        {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "the hardest part",
-      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "thoughts inside my head",
-        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 134314,
-      "name": "thoughts inside my head",
-      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 417142,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "thoughts inside my head",
+        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 134314,
+      "name": "thoughts inside my head",
+      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
     },
     {
       "added_at": "2026-03-20 04:00:38",

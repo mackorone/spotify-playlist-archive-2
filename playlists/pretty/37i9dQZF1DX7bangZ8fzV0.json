@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Rooksein",
-  "num_followers": 144097,
+  "num_followers": 144136,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -535,8 +535,8 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Kyk",
-        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
       "artists": [
         {
@@ -544,29 +544,9 @@
           "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Kyk",
-      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        },
-        {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
-        }
-      ],
-      "duration_ms": 192375,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -587,6 +567,26 @@
       "duration_ms": 213461,
       "name": "Sterre",
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        },
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 192375,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+        "name": "Kyk",
+        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+      "duration_ms": 208000,
+      "name": "Kyk",
+      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Hallo My Maatjie",
-        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Hallo My Maatjie",
-      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Vlerke",
         "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 192567,
       "name": "Vlerke",
       "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Hallo My Maatjie",
+        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Hallo My Maatjie",
+      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "Carina",
+        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 196208,
+      "name": "Carina",
+      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "Boertjie Voor My Deur",
         "url": "https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 205107,
       "name": "Boertjie Voor My Deur",
       "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Meisie wat kan Vasdans",
-        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Meisie wat kan Vasdans",
-      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Carina",
-        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
+        "name": "Meisie wat kan Vasdans",
+        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
       },
       "artists": [
         {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
         }
       ],
-      "duration_ms": 196208,
-      "name": "Carina",
-      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
+      "duration_ms": 199593,
+      "name": "Meisie wat kan Vasdans",
+      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "Kan 'N Man",
+        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "duration_ms": 169164,
+      "name": "Kan 'N Man",
+      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "Kroeg Cowboys",
         "url": "https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc"
       },
@@ -1251,22 +1283,6 @@
       "duration_ms": 187617,
       "name": "Kroeg Cowboys",
       "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Kan 'N Man",
-        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
-      },
-      "artists": [
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        }
-      ],
-      "duration_ms": 169164,
-      "name": "Kan 'N Man",
-      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Diepseeduiker 17",
-        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 165149,
-      "name": "Diepseeduiker 17",
-      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Dik Stukke",
-        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "Dik Stukke",
-      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1367,6 +1351,22 @@
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Dik Stukke",
+        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "Dik Stukke",
+      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     }
   ],
   "unique_name": "Afrikaanse Hits",

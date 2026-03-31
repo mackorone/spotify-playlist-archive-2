@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 218533,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
@@ -4754,6 +4754,28 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
       "album": {

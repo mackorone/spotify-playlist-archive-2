@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: RB Gujjar
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,143 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,160 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 29 | [Cash Cash](https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Cash Cash](https://open.spotify.com/album/4s9fLpsGNYr0OlD8oJRvbS) | 2:19 |
 | 30 | [Toli Bharke](https://open.spotify.com/track/3HfTleEPEWxYpJ4FKKltFC) | [CHIEF](https://open.spotify.com/artist/0t1gnA1eTYSS8YBUKigWPh), [ANGAD](https://open.spotify.com/artist/3ojizZ99bJhmsO9zvsQktj) | [Racks & Bars](https://open.spotify.com/album/3wdLWNPf2ZNLyhF4aSQ3p7) | 2:51 |
 | 31 | [Dacoit](https://open.spotify.com/track/2yfYHSThClcMOzlcceswBp) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 3:19 |
-| 32 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 |
+| 32 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 |
 | 33 | [Paradox](https://open.spotify.com/track/1VV95ihwv6YL69VvlP86jU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Paradox](https://open.spotify.com/album/4Yy0f3JBC1WAtJRXAqb6Tn) | 3:07 |
 | 34 | [Naagan](https://open.spotify.com/track/5va1oy2vW0q80rkiMSPaBC) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Roy](https://open.spotify.com/artist/6IQ8VEXyt6vQBN1AVsgLTR) | [Naagan](https://open.spotify.com/album/4PYtoPhByvkXy6orZLg43G) | 4:08 |
 | 35 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 36 | [FARIDA DRIP](https://open.spotify.com/track/07tKXov8dK1y2pS1DbfreN) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 4:20 |
-| 37 | [Smack Down](https://open.spotify.com/track/1qn0uDVnMgPTEWxedEIlVq) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8) | [Timeless](https://open.spotify.com/album/7aWCbuY23zycacncetVfSj) | 2:09 |
+| 37 | [Smack Down](https://open.spotify.com/track/1qn0uDVnMgPTEWxedEIlVq) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Timeless](https://open.spotify.com/album/7aWCbuY23zycacncetVfSj) | 2:09 |
 | 38 | [AFLATOON](https://open.spotify.com/track/4kpIkjqNGznjFEWyq9XxU0) | [RB Gujjar](https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0), [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf) | [AFLATOON](https://open.spotify.com/album/7vOPxsvdqOLhmDx6H3UkoT) | 2:43 |
 | 39 | [Mafia Style](https://open.spotify.com/track/1qDTcxH7VLfacEOmiZUn39) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Mafia Style](https://open.spotify.com/album/00SOmWIrOmPUIWlWbScf2a) | 2:47 |
 | 40 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 |

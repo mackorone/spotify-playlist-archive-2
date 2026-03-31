@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,453 songs - 5 day 23 hr 20 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,464 songs - 6 day 0 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -340,7 +340,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 330 | [Winter](https://open.spotify.com/track/6wouIFZan1Utt74DZ0LFar) | [Pale Light Versus](https://open.spotify.com/artist/2tsn79j2wcAL9iR42gPAdW) | [Alone Under an Altar](https://open.spotify.com/album/3OEt67XtalYh2PtUvNhIp1) | 4:12 |
 | 331 | [Down Low](https://open.spotify.com/track/5h2bSFTmNySCj2xIuP5gO7) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [Katherine Bruzzese](https://open.spotify.com/artist/0YlZwU4Y4yAdViLLZCcpNC) | [Down Low](https://open.spotify.com/album/1gXqzMq992zfQDsy27QkGj) | 4:30 |
 | 332 | [Missed Calls](https://open.spotify.com/track/3cS2V59Qbb1l6RVl4SNoZ8) | [Mellow](https://open.spotify.com/artist/5p821SHXHFzghN58FwgUhh), [Nika Chokheli](https://open.spotify.com/artist/4QRC5q5npalK85mIpdh5oB) | [Missed Calls](https://open.spotify.com/album/0kldJQn9AzJBdqz7Toft2t) | 4:19 |
-| 333 | [Train](https://open.spotify.com/track/1Te57mH5b6NY5im8yi3xBE) | [Lord Vanger](https://open.spotify.com/artist/7F6RsAQKRYEcaroe2DHCOg) | [Train](https://open.spotify.com/album/2qxWVYUUaFfL7yos8OTWtN) | 4:22 |
+| 333 | [Train](https://open.spotify.com/track/1Te57mH5b6NY5im8yi3xBE) | [Vanger](https://open.spotify.com/artist/1UD0dTtdMHuT1uVylFOH14) | [Train](https://open.spotify.com/album/2qxWVYUUaFfL7yos8OTWtN) | 4:22 |
 | 334 | [Mahogany](https://open.spotify.com/track/21Odj33WB50l9rGWXZeQ3k) | [Young Sea](https://open.spotify.com/artist/4xAAkJOR4YULGQv3OwDDSj) | [And the Birds Will Sing](https://open.spotify.com/album/1uRwIV5x9nRAV5eA8YZf5Z) | 4:22 |
 | 335 | [Si t'es pas là](https://open.spotify.com/track/42zPCJhPE4zcogEaEuVDWJ) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [Si t'es pas là](https://open.spotify.com/album/0SZwGINwZeO0AObiDFVV4c) | 3:19 |
 | 336 | [Summer Afternoon \- Original Mix](https://open.spotify.com/track/3n6e9lsRfL5ruVW3K6XnVV) | [Riaan Nieuwenhuis](https://open.spotify.com/artist/6P2KIWNgU0KhtW2X6maP1e) | [Happy Vibes: Acoustic Music Laid\-Back & Mood Uplifting, Vol\. 09](https://open.spotify.com/album/7rNhbRc4ikc0mDr4nBfJCl) | 3:31 |
@@ -2461,5 +2461,16 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2451 | [Everybody Does](https://open.spotify.com/track/5rjdzNR8XR5OeNoBnkzEu6) | [Neon Trace](https://open.spotify.com/artist/3H3dnLHdnGFfto918KeiAf) | [New Days//Lost Days](https://open.spotify.com/album/0SqT4DaeXdkZpCwYJKj0Ay) | 4:31 |
 | 2452 | [All the Silver Seems to Know](https://open.spotify.com/track/56ia5HcIMlIY65EY0DSOda) | [Seabairy](https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh) | [Harbour Songs & Other Promises](https://open.spotify.com/album/2Gzc8LK9V5UcqMgx1edus1) | 3:34 |
 | 2453 | [Ruggine](https://open.spotify.com/track/1t58FTses5JRuX2dsnmrbi) | [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Ruggine](https://open.spotify.com/album/5eVNXYdOasuOVn3QwgOI2z) | 3:31 |
+| 2454 | [Na Outra Margem](https://open.spotify.com/track/64HjUpaKosJdsoStgY6MfT) | [SevenShadows](https://open.spotify.com/artist/178U22U6maut0EDjZf5HTU) | [Na Outra Margem](https://open.spotify.com/album/13AqUq8CYe06zSNkoAoDci) | 3:26 |
+| 2455 | [Treetops](https://open.spotify.com/track/0djOxIPCkgHvy9NZ66uH7k) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 1:40 |
+| 2456 | [Mercy](https://open.spotify.com/track/0xzVW0d3DRQ0oKjFU2JU08) | [Vaughn Velvet](https://open.spotify.com/artist/6pYBVLW10Qq3JX0oSaJOBG) | [Black Velvet Burn Rumble Edition](https://open.spotify.com/album/6zMI0xFLVn7607QjxNIrtt) | 3:37 |
+| 2457 | [No soy suficiente](https://open.spotify.com/track/33fSPjTxTLPh3bf27j49AJ) | [belu03](https://open.spotify.com/artist/2XBnDNY0ZlPh2bSmH9uJ91) | [No soy suficiente](https://open.spotify.com/album/4tKAMOWnVS8aeWUvq1GDy8) | 4:01 |
+| 2458 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 |
+| 2459 | [You'll Always Be With Me](https://open.spotify.com/track/01kbHZF4NeHeKmKqjLcG5Z) | [Ira Rogen](https://open.spotify.com/artist/5IWAkTuu32Vf9DmGd1r8tj) | [Beneath The Starlit Skies](https://open.spotify.com/album/2yKECnlqK5i8PVpLL0mPiP) | 5:00 |
+| 2460 | [La nave arca](https://open.spotify.com/track/1cRZa5F7b4FAzBrRZxQH1j) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 5:49 |
+| 2461 | [Old Fashioned Love](https://open.spotify.com/track/0s0PWuHKbqW7gGOhDXVkPR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 4:43 |
+| 2462 | [West Coast](https://open.spotify.com/track/7L3vq9xm27Jvd0yxVEl4Wx) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [West Coast](https://open.spotify.com/album/2NjlHgejNKPtTAFPpKfKYn) | 3:35 |
+| 2463 | [Roosters](https://open.spotify.com/track/6SPv408aAfbsGqb2Fvic8B) | [Travis Feutz and The Stardust Cowboys](https://open.spotify.com/artist/5prevHb6g0UVn5uIoLqbjs) | [Country Gold](https://open.spotify.com/album/3NgPR3THQboh5Uc9pAowOK) | 4:27 |
+| 2464 | [Home](https://open.spotify.com/track/3X4rv70OsNzQmQ4viTgwC8) | [Midnite](https://open.spotify.com/artist/2dOwO9pZoe3qI0EWoXmCC6), [Donja](https://open.spotify.com/artist/42N8gqPCAOmpTtSpINYQYr) | [Home](https://open.spotify.com/album/7fE6iOCOIxKC77Gno7UHlR) | 3:58 |
 
-Snapshot ID: `AAAKLBv5b9Nc//N9cB4Zr0GhEtLnMY5U`
+Snapshot ID: `AAAKN8929lrhqORm6fbrxBQK30QTgfPl`

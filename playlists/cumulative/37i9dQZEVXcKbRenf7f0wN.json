@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 240882,
       "name": "1,2, Ultraviolento",
       "url": "https://open.spotify.com/track/7xIJUWPzYnwqg9T1pFpHrf"
@@ -788,6 +788,24 @@
     {
       "album": {
         "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/6J04LiLpVWGT7nNElcg77v"
+      },
+      "artists": [
+        {
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "A Romper la Calma",
+      "url": "https://open.spotify.com/track/0r3cmt9gDDTeF9UD3v1i8R"
+    },
+    {
+      "album": {
+        "name": "Pateando Craneos",
         "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
       },
       "artists": [
@@ -1381,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s General, Adi\u00f3s Carnaval. En Vivo!!",
+        "url": "https://open.spotify.com/album/6KSZWh6nVxCprAtySVRj63"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276773,
+      "name": "Adios General... Adios Carnaval (En Vivo)",
+      "url": "https://open.spotify.com/track/4KBWjHfAh55QOazl6QQ4O5"
+    },
+    {
+      "album": {
         "name": "Radetzky y Otras Marchas",
         "url": "https://open.spotify.com/album/0nVVHulneZbNkzt0JexGvh"
       },
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 263960,
       "name": "Adi\u00f3s al S\u00e9ptimo de la L\u00ednea",
       "url": "https://open.spotify.com/track/6pmhdyuPqOCF9JsVmwNBpU"
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 179040,
       "name": "Adi\u00f3s Pueblo de Ayacucho",
       "url": "https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe"
@@ -3972,7 +4008,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 175986,
       "name": "Ay Cari\u00f1o",
       "url": "https://open.spotify.com/track/4VWXmUYzHPXDdLeMCDG6dC"
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 246240,
       "name": "Baila Caporal",
       "url": "https://open.spotify.com/track/2tl8w8UHPj5b5MjBYlIer4"
@@ -7626,7 +7662,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 179933,
       "name": "Cacharpaya Del Pasiri",
       "url": "https://open.spotify.com/track/1DNOOcZPUgzwH73TtQwNxJ"
@@ -7792,6 +7828,24 @@
       "duration_ms": 180320,
       "name": "Calla y Espera",
       "url": "https://open.spotify.com/track/1UJK0babSL6f8K1Vd3XETP"
+    },
+    {
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/2BKlkoaGUS15dGN6Z7UX8p"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/5f5NyaNM7jmskh8d6FbMfe"
     },
     {
       "album": {
@@ -9312,7 +9366,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "Chupacabras",
       "url": "https://open.spotify.com/track/1ZZXuEFC87l047nDRLVmG7"
@@ -10148,7 +10202,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 169664,
       "name": "Conductor",
       "url": "https://open.spotify.com/track/6KFtD3Ik5ESG35G7p0ArSL"
@@ -10328,7 +10382,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 140400,
       "name": "Coraz\u00f3n Desilucionado",
       "url": "https://open.spotify.com/track/7tuACuijPSvfCR78bRY5Lh"
@@ -11842,7 +11896,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "De Coquimbo Soy",
       "url": "https://open.spotify.com/track/1dq2KsiAXK5Yoy99Pswd81"
@@ -14925,6 +14979,28 @@
     },
     {
       "album": {
+        "name": "Puros Temas Sueltos",
+        "url": "https://open.spotify.com/album/2yaPw2ODN7CcAwwFwZD5xb"
+      },
+      "artists": [
+        {
+          "name": "Lechero Mon",
+          "url": "https://open.spotify.com/artist/5M9hvwevD5Aax121KCeKPd"
+        },
+        {
+          "name": "ZKT1 TRIBU",
+          "url": "https://open.spotify.com/artist/5lU8pGcPYGbSRxuCi5wDWI"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169743,
+      "name": "El Almuerzo Familiar",
+      "url": "https://open.spotify.com/track/24FeMLH5QYt3A8UQhjHsyo"
+    },
+    {
+      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -15408,7 +15484,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 239412,
       "name": "El Gale\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/4mDkv0hS00YL3UhGy81IVJ"
@@ -15462,7 +15538,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 135546,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/5hbprTqXilqPGuytq83451"
@@ -15542,6 +15618,24 @@
     {
       "album": {
         "name": "M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/4W8ihMUCs6adgqP9zrzmns"
+      },
+      "artists": [
+        {
+          "name": "Hector Pavez",
+          "url": "https://open.spotify.com/artist/6NjkTRIh5imScWuozdBpVO"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177736,
+      "name": "El Lobo Chilote",
+      "url": "https://open.spotify.com/track/6ekVndOsQ0mTDhSi042fBM"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Chilena",
         "url": "https://open.spotify.com/album/4amd4eCAJb5Zqdc0S4t0j1"
       },
       "artists": [
@@ -15592,6 +15686,24 @@
       "duration_ms": 251386,
       "name": "El Mercado Testaccio (Instrumental) - En Vivo",
       "url": "https://open.spotify.com/track/7pMn9LcH9l2e7JtkGByLvX"
+    },
+    {
+      "album": {
+        "name": "Rey Mambo",
+        "url": "https://open.spotify.com/album/1lXSki5lp2xfyga7tUmK3s"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "El Ni\u00f1o Maravilla",
+      "url": "https://open.spotify.com/track/2HB5AGS14KNjTriLEGx1ww"
     },
     {
       "album": {
@@ -15758,7 +15870,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 163723,
       "name": "El Rock del Mundial",
       "url": "https://open.spotify.com/track/4GxsXEhvOhmp2M2aAtKMRl"
@@ -16478,7 +16590,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 262880,
       "name": "En un Largo Tour",
       "url": "https://open.spotify.com/track/7KJr365Ld0o8ajIfR0wIpV"
@@ -20898,7 +21010,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 198791,
       "name": "Guau Dice Mi Perro",
       "url": "https://open.spotify.com/track/0W0RzDJBCYhnHL1lwfiufv"
@@ -22170,7 +22282,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 296693,
       "name": "Hijos de la Tierra",
       "url": "https://open.spotify.com/track/32NczfSMSbB340CEvtwYhq"
@@ -25490,7 +25602,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 177764,
       "name": "Iorana",
       "url": "https://open.spotify.com/track/7Ky3mZO0628C8J1RimUWyP"
@@ -26178,6 +26290,24 @@
       "duration_ms": 185226,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+    },
+    {
+      "album": {
+        "name": "Disco Kast Vol: 5",
+        "url": "https://open.spotify.com/album/1xV8JmMzN7MRIdZ5F4mcni"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Antonio Kast",
+          "url": "https://open.spotify.com/artist/5tKs6OSim6VqkSwTjhxB4U"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170747,
+      "name": "Jingle Oficial (Vota 5 Vota Kast)",
+      "url": "https://open.spotify.com/track/4XzQAjsOXn17qV0uSmIPJH"
     },
     {
       "album": {
@@ -27280,7 +27410,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 211591,
       "name": "Ko Matou Nei",
       "url": "https://open.spotify.com/track/384R4j6ff3a7mRkFvAypW9"
@@ -27662,7 +27792,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -27680,7 +27810,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 187266,
       "name": "La Corbata de Mi T\u00edo",
       "url": "https://open.spotify.com/track/6C9EyEJDlOXRRHM8PluVfH"
@@ -27738,6 +27868,24 @@
       "duration_ms": 212044,
       "name": "La C\u00e1bala",
       "url": "https://open.spotify.com/track/21uzt35KM8q5r3fSnSwJrs"
+    },
+    {
+      "album": {
+        "name": "Cumbia Chilombiana",
+        "url": "https://open.spotify.com/album/2L6i9Q71M18abOGe4tdYVo"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166782,
+      "name": "La Escoba",
+      "url": "https://open.spotify.com/track/3vetDywMqutXxUGxpXwfks"
     },
     {
       "album": {
@@ -27842,7 +27990,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 226826,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/1YwV5exHom240IG2pHNGks"
@@ -27914,7 +28062,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 154746,
       "name": "La Guaracha del Fay Fay",
       "url": "https://open.spotify.com/track/6OOwMZGthsX6fDTKoNinB7"
@@ -28210,6 +28358,24 @@
       "duration_ms": 186840,
       "name": "La Parabolica",
       "url": "https://open.spotify.com/track/2pWb1A0niYkehbNzncNcue"
+    },
+    {
+      "album": {
+        "name": "Los Grandes \u00c9xitos de Tommy Rey",
+        "url": "https://open.spotify.com/album/5yfdbMch6HQ0IQBbhe7Gid"
+      },
+      "artists": [
+        {
+          "name": "La Sonora De Tommy Rey",
+          "url": "https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187794,
+      "name": "La Parab\u00f3lica",
+      "url": "https://open.spotify.com/track/15flr4ERWIsYVrSbS4ykH3"
     },
     {
       "album": {
@@ -28608,7 +28774,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 248225,
       "name": "La Voz de los '80",
       "url": "https://open.spotify.com/track/68fQEYthnIBfASh33O0jXA"
@@ -28788,7 +28954,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 174000,
       "name": "Las Flores de Tu Florero",
       "url": "https://open.spotify.com/track/0CNSRaTX8mECRuSV1hsjoQ"
@@ -29717,6 +29883,24 @@
     },
     {
       "album": {
+        "name": "Santiago del Nuevo Extremo, Vol. 1",
+        "url": "https://open.spotify.com/album/7uc3LW0xR9S4vkedCFvTcZ"
+      },
+      "artists": [
+        {
+          "name": "Santiago del Nuevo Extremo",
+          "url": "https://open.spotify.com/artist/2WVBKsWLyEcWY1z5SxIDry"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Linda la Minga",
+      "url": "https://open.spotify.com/track/02OSeNKAV4aUSZkyf8JAqj"
+    },
+    {
+      "album": {
         "name": "Lindo Momento Frente al Caos",
         "url": "https://open.spotify.com/album/6E0fRundeyRShr06fLSVs4"
       },
@@ -30389,6 +30573,24 @@
     },
     {
       "album": {
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321226,
+      "name": "Los Chicos Buenos (Bomberos)",
+      "url": "https://open.spotify.com/track/3HXcorf1qphGlENTHT8J0T"
+    },
+    {
+      "album": {
         "name": "El Vuelo del Pill\u00e1n",
         "url": "https://open.spotify.com/album/6wFPa70iiQTG5MwWUqbJvp"
       },
@@ -30508,7 +30710,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 240493,
       "name": "Los Paraguas",
       "url": "https://open.spotify.com/track/4rNyJQTMPrqIuwSnxo1hAg"
@@ -30544,7 +30746,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 170840,
       "name": "Los Que Toman Como Rey",
       "url": "https://open.spotify.com/track/0T03Cxd6xVROMyzF1Wjc0q"
@@ -30602,7 +30804,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 105266,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/04oOiHoIqUkNbCnURxK3un"
@@ -31702,7 +31904,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 296026,
       "name": "Mambo de Machaguay",
       "url": "https://open.spotify.com/track/0Rcdp0qyqZN5peE2hg8rH5"
@@ -32861,6 +33063,24 @@
     },
     {
       "album": {
+        "name": "Mi Chile",
+        "url": "https://open.spotify.com/album/5GUYoD10LkpTmoWmdu2V6I"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "Mi Chile",
+      "url": "https://open.spotify.com/track/7kaeM8wOyRFnZX3oebSwp1"
+    },
+    {
+      "album": {
         "name": "Gusanos",
         "url": "https://open.spotify.com/album/61qVOgrE1c3UPx5eJsYoSc"
       },
@@ -33972,7 +34192,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 264000,
       "name": "Mujeres y Cerveza",
       "url": "https://open.spotify.com/track/4OQFEhBjUxb8BgS22p0VAU"
@@ -37396,7 +37616,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 215866,
       "name": "Ou D\u00e1 Ou Desce",
       "url": "https://open.spotify.com/track/3wSpUP4TgZWDxAw5HOEmrB"
@@ -41598,7 +41818,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 156426,
       "name": "Reina del Tamarugal",
       "url": "https://open.spotify.com/track/1Kj78kt0yKKNeDOyVgubXF"
@@ -43042,7 +43262,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 234280,
       "name": "Sakate Uno",
       "url": "https://open.spotify.com/track/06fawjV5hKobNhHF82dKMl"
@@ -45670,7 +45890,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 184426,
       "name": "Sindrome Camboya",
       "url": "https://open.spotify.com/track/0dFZjxL6drxK9oupqmF773"
@@ -46430,7 +46650,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 182520,
       "name": "Socoroma",
       "url": "https://open.spotify.com/track/2Fr2gC8nGVoPCFpi7jbHeA"
@@ -48888,7 +49108,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 272085,
       "name": "Supermandoneao",
       "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
@@ -50040,7 +50260,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 169986,
       "name": "Te Enojai por Todo",
       "url": "https://open.spotify.com/track/5927nKbonEX4UV9ehEZG7S"
@@ -50354,7 +50574,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 802405,
       "name": "Teorema Vs El Menor - Final - Live",
       "url": "https://open.spotify.com/track/0ABs7TWVShNUiLzQy61c0j"
@@ -54640,7 +54860,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 243826,
       "name": "Tusuykusun",
       "url": "https://open.spotify.com/track/5jY5DSjBzDzVnRzXFsf1mG"

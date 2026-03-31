@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-220 songs - 9 hr 50 min
+222 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Crash Dummy](https://open.spotify.com/track/2CIBj8sa8gdqKWNvfVqp1o) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE \(Something Happen\)](https://open.spotify.com/album/7AjqeviBfyH4re7CWXuvtE) | 2:47 | 2025-02-11 | 2025-09-30 |
 | [DAT BOY DEN](https://open.spotify.com/track/25uHS9sdrhZecYFfSRnz1k) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [DAT BOY DEN](https://open.spotify.com/album/20AweIUmetnWYC7YdxCmir) | 2:24 | 2023-08-11 | 2025-03-05 |
 | [Demons In The Dark](https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Demons In The Dark](https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw) | 2:36 | 2024-10-10 |  |
+| [DHS Inc\. \(feat\. Lil Yee & ZayBang\)](https://open.spotify.com/track/1HS0SlJ269bUV4HLh47C9L) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [DHS Inc\. \(feat\. Lil Yee & ZayBang\)](https://open.spotify.com/album/3q6kPxAotO5hloywhU4kQJ) | 2:39 | 2026-03-30 |  |
 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 | 2025-05-30 | 2025-09-30 |
 | [Different Music](https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [F.L.I.N.T\. \(Feeling Like I'm Not Through\)](https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7) | 2:51 | 2025-08-18 |  |
 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 | 2025-10-27 |  |
@@ -145,6 +146,7 @@
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |
 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-24 |  |
 | [Netflix & Chill](https://open.spotify.com/track/6XRgm5ugonEcPhwKqCTiQa) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Netflix & Chill](https://open.spotify.com/album/2RqOufNzPUbK79GrGdUrnm) | 3:46 | 2025-07-15 | 2025-08-19 |
+| [Never Felt Love](https://open.spotify.com/track/2KCBMLVim2hQ1LR9x4bzF6) | [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [Never Felt Love](https://open.spotify.com/album/0SBrq5bkZqBtlnvVSv7rac) | 1:52 | 2026-03-30 |  |
 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-03-09 |  |
 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 | 2023-08-28 | 2025-02-01 |
 | [Nobody But Us](https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Nobody But Us](https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9) | 3:14 | 2025-09-15 |  |

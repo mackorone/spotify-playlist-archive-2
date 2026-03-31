@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 81 | [Throw It Down](https://open.spotify.com/track/5HSncYIiSbQ7BQbhKBoHQh) | [Dominique Young Unique](https://open.spotify.com/artist/6e9YXVneoNtzARrkVUauiz) | [Throw It Down](https://open.spotify.com/album/288UGY9vHGwSEzz95hJYKp) | 3:16 |
 | 82 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 | 83 | [Kite \(with Olly Alexander\)](https://open.spotify.com/track/6AN0wDN46SCN5TA3MRVFoD) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Kite \(with Olly Alexander\)](https://open.spotify.com/album/0zy151IhoJGNdB8crkkKiQ) | 2:46 |
-| 84 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
-| 85 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
+| 84 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 |
+| 85 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
 | 86 | [Take a Shot](https://open.spotify.com/track/1l3LtyjVDyavUhZJNZKTe4) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:28 |
 | 87 | [Curve](https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:44 |
 | 88 | [Joyride](https://open.spotify.com/track/1nWLk91OyxUSJNYNNExTkK) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 193 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 | 194 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcNdYAAAAAD04ew2o55dmWFeVqjFHG47`
+Snapshot ID: `AcNjAAAAAADHxwlVOLOZMm2Td8GwQPvz`

@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-975 songs - 2 day 0 hr 12 min
+976 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Erase You](https://open.spotify.com/track/6js5FBs8LuYvcoPvqhf0fz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MILLENNIAL](https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp) | [Erase You](https://open.spotify.com/album/7isSUrAlXbx0VQANPi37oQ) | 3:29 | 2022-12-01 | 2022-12-20 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-21 | 2024-04-26 |
 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 | 2025-01-02 | 2026-01-03 |
+| [Euro Dollar Yen](https://open.spotify.com/track/3ANnIrR04vDdQ3yRpmpV5R) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Euro Dollar Yen](https://open.spotify.com/album/4q7Gg46v8LBTkKMyMZM1rf) | 2:36 | 2026-03-26 |  |
 | [Every Battle](https://open.spotify.com/track/1LzCBjvOTj1vKFo8GduP3h) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Every Battle](https://open.spotify.com/album/2FYVe0lquh5aLgbT9aB6uz) | 3:32 | 2020-08-14\* | 2021-10-24 |
 | [Every Way](https://open.spotify.com/track/4xxyCh7xkK30LVBO81poif) | [Antonio Giacca](https://open.spotify.com/artist/0Nv2nsd3JNOZMWJoxIRWnO) | [Every Way](https://open.spotify.com/album/28kXv0cJnTbHJGCJYnugnq) | 2:46 | 2021-03-08 | 2021-03-23 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-09 | 2024-05-09 |

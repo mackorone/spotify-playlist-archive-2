@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,910 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,900 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 14 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 |
 | 15 | [Andorran Forest River](https://open.spotify.com/track/6RybNJHwhOCOWUfih3xIek) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Streaming Waters](https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A) | 3:21 |
 | 16 | [Noise Of The Forest](https://open.spotify.com/track/3archW4qVggMhQVrWnnYje) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Noise Of The Forest](https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS) | 2:18 |
-| 17 | [Forest Rain](https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Peaceful Rain Recordings](https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM) | 2:50 |
-| 18 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
+| 17 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
+| 18 | [Forest Rain](https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Peaceful Rain Recordings](https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM) | 2:50 |
 | 19 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
 | 20 | [Suburban Forest Rain 2](https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:09 |
 | 21 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 43 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
 | 44 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
 | 45 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
-| 46 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
-| 47 | [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 |
+| 46 | [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 |
+| 47 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
 | 48 | [Storm in the Distance](https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:30 |
 | 49 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 |
 | 50 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |

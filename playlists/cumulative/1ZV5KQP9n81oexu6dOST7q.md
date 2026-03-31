@@ -4,11 +4,12 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-132 songs - 6 hr 46 min
+133 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ACID](https://open.spotify.com/track/6j3SjLAuZntLvBCrxKbEbZ) | [GLINTSAL](https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1), [Glints](https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta) | [ACID](https://open.spotify.com/album/0kCqQwMjVwkzjlRXYM3jGX) | 3:48 | 2025-07-04 | 2025-09-13 |
+| [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-03-30 |  |
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-07 |  |
 | [All Around The World \(La La La\)](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ) | 2:27 | 2025-07-04 |  |
 | [All My Life](https://open.spotify.com/track/5tjfXXQOYRD9ouvAVTn3XF) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/2mBgCtL1Tm0TChhAXUHW98) | 2:07 | 2025-07-04 |  |

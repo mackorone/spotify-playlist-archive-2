@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 616161,
+  "num_followers": 616330,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -899,18 +899,22 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+        "name": "Walking the Line",
+        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
       },
       "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
         {
           "name": "Merle Haggard",
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+      "duration_ms": 286066,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -931,22 +935,18 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Walking the Line",
-        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
       "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
         {
           "name": "Merle Haggard",
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 286066,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2026-02-11 22:45:47",

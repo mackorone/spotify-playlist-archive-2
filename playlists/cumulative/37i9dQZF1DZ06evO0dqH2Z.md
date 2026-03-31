@@ -4,7 +4,7 @@
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 39 min
+92 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,11 +72,12 @@
 | [Old Clothes](https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 3:11 | 2026-01-25 | 2026-03-29 |
 | [Plane Vs\. Tank Vs\. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:02 | 2022-09-16 |  |
 | [Primary Colors](https://open.spotify.com/track/2OutAudDrNtFfLqrzed2UD) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Primary Colors](https://open.spotify.com/album/2nCLtvl6yrfO52EbgKO8mL) | 3:37 | 2026-02-06 | 2026-03-06 |
-| [Primary Colors](https://open.spotify.com/track/6SWFl2FvTy2j4JJyHZ87CN) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Primary Colors](https://open.spotify.com/album/6m8HloBBOV8cd5evEUTY4U) | 3:37 | 2026-03-06 |  |
+| [Primary Colors](https://open.spotify.com/track/6SWFl2FvTy2j4JJyHZ87CN) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Primary Colors](https://open.spotify.com/album/6m8HloBBOV8cd5evEUTY4U) | 3:37 | 2026-03-06 | 2026-03-31 |
+| [Primary Colors](https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 3:37 | 2026-03-31 |  |
 | [Reckless](https://open.spotify.com/track/4HMwxrEa9kRd4guVQZy9Cp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 3:38 | 2022-10-29 | 2025-05-26 |
 | [Return](https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:42 | 2025-06-28 |  |
 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 | 2022-09-16 | 2025-03-08 |
-| [Roses + Thorns](https://open.spotify.com/track/5l1ppR6xx32fEJimPNGdeJ) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 4:35 | 2026-03-29 |  |
+| [Roses + Thorns](https://open.spotify.com/track/5l1ppR6xx32fEJimPNGdeJ) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 4:35 | 2026-03-29 | 2026-03-31 |
 | [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/12173Lz2GcUGc64Ki6f300) | 4:12 | 2025-11-13 |  |
 | [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK) | 4:12 | 2022-09-16 | 2025-11-13 |
 | [Same Stone](https://open.spotify.com/track/5jOOZRXH9CBuaHsYekcTRh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:36 | 2022-10-01 | 2022-10-05 |

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59878,
+  "num_followers": 59880,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA0YvWylVF7Czvs4Vlc77yDmKs+Y5ok",
+  "snapshot_id": "AAA0Z0oK6sefm4S1e044kNwAWwvlx3fv",
   "tracks": [
     {
       "added_at": "2026-03-28 09:51:22",
@@ -55,6 +55,26 @@
       "duration_ms": 151093,
       "name": "Zoe",
       "url": "https://open.spotify.com/track/70IcVAKpBXfd6HU3wEws0Q"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/56MnYQTmkgObZTcFsyg868"
+      },
+      "artists": [
+        {
+          "name": "Johnny Elsewhere",
+          "url": "https://open.spotify.com/artist/5XXsXTE2u5MxGb5g9yqefL"
+        },
+        {
+          "name": "PYNKIE",
+          "url": "https://open.spotify.com/artist/45GkpefZW8F5td5gkU8f29"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/0J7SCOXWsHxjoTTGA7jq4J"
     },
     {
       "added_at": "2026-03-28 09:51:22",
@@ -123,54 +143,6 @@
     {
       "added_at": "2026-03-28 09:51:22",
       "album": {
-        "name": "Pentagram",
-        "url": "https://open.spotify.com/album/4BsJco0hUiukejUe52lIJq"
-      },
-      "artists": [
-        {
-          "name": "Rex Laurent",
-          "url": "https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2"
-        }
-      ],
-      "duration_ms": 147724,
-      "name": "Pentagram",
-      "url": "https://open.spotify.com/track/6Nlt2TvAtxpdfLRtyHklA0"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/2coBK5wHmSA0PYbsDXbFvr"
-      },
-      "artists": [
-        {
-          "name": "Spilly Cave",
-          "url": "https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l"
-        }
-      ],
-      "duration_ms": 192079,
-      "name": "Shelf",
-      "url": "https://open.spotify.com/track/6uxT7YpfzT6vYzmrPc5rzv"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "my early years, your spiral arms",
-        "url": "https://open.spotify.com/album/4OIUQbMmZ85UzTp2273vVU"
-      },
-      "artists": [
-        {
-          "name": "Yasu Cub",
-          "url": "https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "en",
-      "url": "https://open.spotify.com/track/4qbbkRbyOq4VOH7Z8kVarj"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
         "name": "Wind that makes the subway sound",
         "url": "https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a"
       },
@@ -187,22 +159,34 @@
     {
       "added_at": "2026-03-28 09:51:22",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/56MnYQTmkgObZTcFsyg868"
+        "name": "Postinternetfame / Self Tape",
+        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
       },
       "artists": [
         {
-          "name": "Johnny Elsewhere",
-          "url": "https://open.spotify.com/artist/5XXsXTE2u5MxGb5g9yqefL"
-        },
-        {
-          "name": "PYNKIE",
-          "url": "https://open.spotify.com/artist/45GkpefZW8F5td5gkU8f29"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/0J7SCOXWsHxjoTTGA7jq4J"
+      "duration_ms": 216774,
+      "name": "Self Tape",
+      "url": "https://open.spotify.com/track/15EyyGbPuix6c4NrJ01V9K"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Klouds Will Carry Me To Sleep",
+        "url": "https://open.spotify.com/album/0u83U5CEuZ8UWuzQxFmIKQ"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 224418,
+      "name": "Klouds Will Carry Me To Sleep",
+      "url": "https://open.spotify.com/track/3IdaTGnIie33x1MIZQ5frN"
     },
     {
       "added_at": "2026-03-28 09:51:22",
@@ -267,6 +251,54 @@
       "duration_ms": 203312,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Pentagram",
+        "url": "https://open.spotify.com/album/4BsJco0hUiukejUe52lIJq"
+      },
+      "artists": [
+        {
+          "name": "Rex Laurent",
+          "url": "https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2"
+        }
+      ],
+      "duration_ms": 147724,
+      "name": "Pentagram",
+      "url": "https://open.spotify.com/track/6Nlt2TvAtxpdfLRtyHklA0"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/2coBK5wHmSA0PYbsDXbFvr"
+      },
+      "artists": [
+        {
+          "name": "Spilly Cave",
+          "url": "https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l"
+        }
+      ],
+      "duration_ms": 192079,
+      "name": "Shelf",
+      "url": "https://open.spotify.com/track/6uxT7YpfzT6vYzmrPc5rzv"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "my early years, your spiral arms",
+        "url": "https://open.spotify.com/album/4OIUQbMmZ85UzTp2273vVU"
+      },
+      "artists": [
+        {
+          "name": "Yasu Cub",
+          "url": "https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "en",
+      "url": "https://open.spotify.com/track/4qbbkRbyOq4VOH7Z8kVarj"
     },
     {
       "added_at": "2026-03-28 09:51:22",
@@ -459,6 +491,22 @@
     {
       "added_at": "2026-03-28 09:51:22",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1fHWkNcFCZEbWVOfC3e0B7"
+      },
+      "artists": [
+        {
+          "name": "SSAANN",
+          "url": "https://open.spotify.com/artist/5gUgiP68XnkGzxrb49yFQk"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/3ZJqedtdlKFJ7YSsb4CU0t"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
         "name": "Centipede",
         "url": "https://open.spotify.com/album/306oi8APNwiekj6ui6baLH"
       },
@@ -571,22 +619,6 @@
       "duration_ms": 202808,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/59XiVoN7d899OOn1Izy7pi"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1fHWkNcFCZEbWVOfC3e0B7"
-      },
-      "artists": [
-        {
-          "name": "SSAANN",
-          "url": "https://open.spotify.com/artist/5gUgiP68XnkGzxrb49yFQk"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/3ZJqedtdlKFJ7YSsb4CU0t"
     },
     {
       "added_at": "2026-03-28 09:51:22",
@@ -2103,38 +2135,6 @@
       "duration_ms": 197937,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/1pBZQQiw1QbghZup1cjGa3"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "Postinternetfame / Self Tape",
-        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Self Tape",
-      "url": "https://open.spotify.com/track/15EyyGbPuix6c4NrJ01V9K"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "Klouds Will Carry Me To Sleep",
-        "url": "https://open.spotify.com/album/0u83U5CEuZ8UWuzQxFmIKQ"
-      },
-      "artists": [
-        {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
-        }
-      ],
-      "duration_ms": 224418,
-      "name": "Klouds Will Carry Me To Sleep",
-      "url": "https://open.spotify.com/track/3IdaTGnIie33x1MIZQ5frN"
     },
     {
       "added_at": "2026-03-28 09:51:22",
@@ -7307,22 +7307,6 @@
     {
       "added_at": "2026-03-28 09:51:22",
       "album": {
-        "name": "Valmue",
-        "url": "https://open.spotify.com/album/09jgvziuGfcArOJ8cTbUCH"
-      },
-      "artists": [
-        {
-          "name": "Hvor Er Skygge",
-          "url": "https://open.spotify.com/artist/3vQPGdAOoWtCySAOJThDKx"
-        }
-      ],
-      "duration_ms": 261262,
-      "name": "Valmue",
-      "url": "https://open.spotify.com/track/1YXNeYRjvVt1mqAA9jH2SR"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/5lmiQyrCVgTIwgN3YxqUKk"
       },
@@ -7335,6 +7319,22 @@
       "duration_ms": 220083,
       "name": "In Flux",
       "url": "https://open.spotify.com/track/1fgIonWIZz2ejxkCHFMZce"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Valmue",
+        "url": "https://open.spotify.com/album/09jgvziuGfcArOJ8cTbUCH"
+      },
+      "artists": [
+        {
+          "name": "Hvor Er Skygge",
+          "url": "https://open.spotify.com/artist/3vQPGdAOoWtCySAOJThDKx"
+        }
+      ],
+      "duration_ms": 261262,
+      "name": "Valmue",
+      "url": "https://open.spotify.com/track/1YXNeYRjvVt1mqAA9jH2SR"
     },
     {
       "added_at": "2026-03-28 09:51:22",

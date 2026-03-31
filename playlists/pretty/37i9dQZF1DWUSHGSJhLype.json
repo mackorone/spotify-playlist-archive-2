@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: L\u00e9o Santana",
-  "num_followers": 761022,
+  "num_followers": 760999,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "Turma no Quintal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
       },
@@ -283,22 +303,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Turma no Quintal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
+        "name": "Nem Pagando",
+        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
         },
         {
           "name": "Grupo Menos \u00c9 Mais",
           "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 216818,
-      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
+      "duration_ms": 142286,
+      "name": "Nem Pagando",
+      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -319,26 +339,6 @@
       "duration_ms": 92585,
       "name": "Resenha Na Laje",
       "url": "https://open.spotify.com/track/3EJ78dvkCtcUmydRkulQMl"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Nem Pagando",
-        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
-      },
-      "artists": [
-        {
-          "name": "Henrique Casttro",
-          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 142286,
-      "name": "Nem Pagando",
-      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Rebolando",
         "url": "https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 362713,
       "name": "Medley Mu\u00eddo de Vaquejada - Desce do Cavalo / Balada do Vaqueiro / Monta Logo Vai / Calma / Senta No Fazendeiro / Deixa Ela Montar Na Minha Garupa / Botad\u00e3o Do GW",
       "url": "https://open.spotify.com/track/7pzD7EudQxP4EhT5UeQjc7"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 180832,
-      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
-      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
+        "name": "Maravilhosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 115909,
+      "name": "Maravilhosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg"
+    },
+    {
+      "added_at": "2026-03-27 03:00:30",
+      "album": {
         "name": "Pega Pega",
         "url": "https://open.spotify.com/album/5hbmDXVfBit3tgCCidiZlx"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 184250,
       "name": "Pega Pega",
       "url": "https://open.spotify.com/track/1q75dfmlgQYqaR9X0slTI3"
-    },
-    {
-      "added_at": "2026-03-27 03:00:30",
-      "album": {
-        "name": "Maravilhosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 115909,
-      "name": "Maravilhosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg"
     },
     {
       "added_at": "2026-03-27 03:00:30",

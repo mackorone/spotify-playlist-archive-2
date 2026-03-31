@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,262 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,398 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 37 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |
 | 38 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 |
 | 39 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
-| 40 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
-| 41 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 40 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 41 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
 | 42 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 43 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
 | 44 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |

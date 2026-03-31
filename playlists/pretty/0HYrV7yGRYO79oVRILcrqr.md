@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,763 likes - 122 songs - 8 hr 2 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,766 likes - 124 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 120 | [Pasadena](https://open.spotify.com/track/49pZFYgeo8gRIpmbar1iqs) | [Jeff Butler](https://open.spotify.com/artist/6hWNFESgxwPMms42T2Fu9x) | [Pasadena](https://open.spotify.com/album/2A3Q7e5APcgUwQexc95GBZ) | 4:35 |
 | 121 | [See The Fun](https://open.spotify.com/track/5Usry4IsZuNFBNSjUE6DUb) | [Park Crescent](https://open.spotify.com/artist/0eH4YPI7CuV9eWHgjxvqwH) | [See The Fun](https://open.spotify.com/album/2DrEO9bJMAeqNVHCkpcw4y) | 3:11 |
 | 122 | [Run Like Hell](https://open.spotify.com/track/73P4RnHmHOtwYI3nSIueR7) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Run Like Hell](https://open.spotify.com/album/0YpOLzprIMHKTDPFoOmMdb) | 3:14 |
+| 123 | [Esploratore](https://open.spotify.com/track/1WC9lEhr79UeT1rV9c0mOC) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Claudia / Esploratore](https://open.spotify.com/album/1qs6f1FbQuFIoXuH1KeF4v) | 4:50 |
+| 124 | [Barroom Brawl on a Friday Night](https://open.spotify.com/track/4Yblk5pDY4rZaWTyocDsWW) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:54 |
 
-Snapshot ID: `AAAK9Qh4sftf9wZIn3zBElS51eGufX/H`
+Snapshot ID: `AAAK96kic3tnRv1wUHmoIBKVsLN4U3fB`

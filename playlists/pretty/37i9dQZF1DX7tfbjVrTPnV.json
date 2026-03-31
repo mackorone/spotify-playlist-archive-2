@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Melissa Etheridge",
-  "num_followers": 235623,
+  "num_followers": 235652,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
+        "name": "The River & The Thread",
+        "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "A Feather's Not A Bird",
+      "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "The River & The Thread",
-        "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
+        "name": "Shouted, Written Down & Quoted",
+        "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 198200,
-      "name": "A Feather's Not A Bird",
-      "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+      "duration_ms": 207841,
+      "name": "Merely Avoiding",
+      "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -843,22 +859,6 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
-        "name": "Shouted, Written Down & Quoted",
-        "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 207841,
-      "name": "Merely Avoiding",
-      "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
         "name": "Killin' Uncle Buzzy",
         "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 246373,
       "name": "Learning How to Live Alone",
       "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "Place in My Heart",
-        "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 313857,
-      "name": "Place in My Heart",
-      "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+        "name": "Place in My Heart",
+        "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
+      "duration_ms": 313857,
+      "name": "Place in My Heart",
+      "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1607,6 +1591,22 @@
       "duration_ms": 174720,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -2035,6 +2035,22 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/3sFyLeLs38eyzBtBnJoHN7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 329653,
+      "name": "California (Cast Iron Soul)",
+      "url": "https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -2503,22 +2519,6 @@
       "duration_ms": 178706,
       "name": "Custer",
       "url": "https://open.spotify.com/track/10BnuprYRPLfly2WVgFSGE"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/3sFyLeLs38eyzBtBnJoHN7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 329653,
-      "name": "California (Cast Iron Soul)",
-      "url": "https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt"
     },
     {
       "added_at": "2026-03-27 04:00:09",

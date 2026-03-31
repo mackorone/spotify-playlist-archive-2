@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143398,
+  "num_followers": 143420,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 204400,
       "name": "Frisbee & marmelade",
       "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 138026,
       "name": "Rosier-douleur",
       "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Saving Face",
-        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Khoury",
-          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "Saving Face",
-      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "Altogether Unaccompanied, Vol. V",
         "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 305185,
       "name": "Bigger Pieces",
       "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "Bright Green Vibrant Gray",
         "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1075,8 +1075,8 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "\u00c0 toi",
-        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 264580,
-      "name": "\u00c0 toi",
-      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1127,70 +1127,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "I Came Here to Leave You",
-      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
-        "name": "Ici",
-        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
-      },
-      "artists": [
-        {
-          "name": "La Steppe",
-          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
-        }
-      ],
-      "duration_ms": 168358,
-      "name": "Ici",
-      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1211,34 +1147,34 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Disparition",
-        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
       "artists": [
         {
-          "name": "Guillaume Beauregard",
-          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 272910,
-      "name": "Nos larmes",
-      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+      "duration_ms": 264580,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1259,6 +1195,70 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Disparition",
+        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Beauregard",
+          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
+        }
+      ],
+      "duration_ms": 272910,
+      "name": "Nos larmes",
+      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Ici",
+        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "duration_ms": 168358,
+      "name": "Ici",
+      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "tout me quitte / tout vient \u00e0 moi",
-        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
-      },
-      "artists": [
-        {
-          "name": "Nana Quinn",
-          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
-        }
-      ],
-      "duration_ms": 277461,
-      "name": "Oiseau migrateur",
-      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 279417,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "tout me quitte / tout vient \u00e0 moi",
+        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
+      },
+      "artists": [
+        {
+          "name": "Nana Quinn",
+          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
+        }
+      ],
+      "duration_ms": 277461,
+      "name": "Oiseau migrateur",
+      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "Bras solaires",
-        "url": "https://open.spotify.com/album/6YRzehbBP1Pv1DU2XpRz6o"
+        "name": "Dans une autre cour",
+        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
       },
       "artists": [
         {
-          "name": "H\u00e9ron",
-          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
-        },
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
         }
       ],
-      "duration_ms": 223663,
-      "name": "Bras solaires",
-      "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
+      "duration_ms": 144173,
+      "name": "Dans une autre cour",
+      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1387,6 +1383,26 @@
       "duration_ms": 141509,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Bras solaires",
+        "url": "https://open.spotify.com/album/6YRzehbBP1Pv1DU2XpRz6o"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "duration_ms": 223663,
+      "name": "Bras solaires",
+      "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
-        "name": "_dec carte de no\u00ebl",
-        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 124960,
-      "name": "_dec carte de no\u00ebl",
-      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
-        "name": "Jacques",
-        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
-      },
-      "artists": [
-        {
-          "name": "Louis-Charles",
-          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Jacques",
-      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2026-03-27 04:01:04",
       "album": {
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
         "name": "Velours et Acide",
         "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 215815,
       "name": "\u00c9thanol",
       "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
+    },
+    {
+      "added_at": "2026-03-27 04:01:04",
+      "album": {
+        "name": "Jacques",
+        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
+      },
+      "artists": [
+        {
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Jacques",
+      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
     },
     {
       "added_at": "2026-03-27 04:01:04",
@@ -1635,22 +1651,6 @@
       "duration_ms": 202823,
       "name": "A Brand New Color",
       "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
-    },
-    {
-      "added_at": "2026-03-27 04:01:04",
-      "album": {
-        "name": "Dans une autre cour",
-        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
-      },
-      "artists": [
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        }
-      ],
-      "duration_ms": 144173,
-      "name": "Dans une autre cour",
-      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
     },
     {
       "added_at": "2026-03-27 04:01:04",

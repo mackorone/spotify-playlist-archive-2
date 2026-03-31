@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,655 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,665 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 16 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
 | 17 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
 | 18 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 |
-| 19 | [El Ciego Y La Sorda](https://open.spotify.com/track/5Gmw8NXSc2ZlwNjctMCoUS) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [El Ciego Y La Sorda](https://open.spotify.com/album/39ZxtXEAVaime1bFdmpQ5h) | 3:10 |
-| 20 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 |
+| 19 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 |
+| 20 | [El Ciego Y La Sorda](https://open.spotify.com/track/5Gmw8NXSc2ZlwNjctMCoUS) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [El Ciego Y La Sorda](https://open.spotify.com/album/39ZxtXEAVaime1bFdmpQ5h) | 3:10 |
 | 21 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 |
 | 22 | [La Receta](https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [La Receta](https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v) | 3:26 |
 | 23 | [Mijo… ¿y la novia?](https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mijo… ¿y la novia?](https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
 | 50 | [Miercolitros](https://open.spotify.com/track/1wWKyurZ9zQum4xmLD93yM) | [Luis Carrillo](https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Miercolitros](https://open.spotify.com/album/1ACn7xjvgbj1pFtGUEfFT2) | 3:14 |
 
-Snapshot ID: `accaAAAAAACSyjVzGNqNWZqdtwDXCDOK`
+Snapshot ID: `achrgAAAAAA0137PM+gLEhgcYDpkf+Ni`

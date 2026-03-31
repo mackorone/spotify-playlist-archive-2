@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2117976,
+  "num_followers": 2117945,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-27 04:01:07",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 208083,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
-    },
-    {
-      "added_at": "2026-03-27 04:01:07",
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 208083,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
     },
     {
       "added_at": "2026-03-27 04:01:07",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-03-27 04:01:07",
       "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 219725,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
-    },
-    {
-      "added_at": "2026-03-27 04:01:07",
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
       "added_at": "2026-03-27 04:01:07",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-27 04:01:07",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
-    },
-    {
-      "added_at": "2026-03-27 04:01:07",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-03-27 04:01:07",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-03-27 04:01:07",
       "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/5vhWPJmfv17WuWHpmMtbUb"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 229000,
       "name": "Adeline (feat. Kathleen)",
       "url": "https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k"
-    },
-    {
-      "added_at": "2026-03-27 04:01:07",
-      "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2026-03-27 04:01:07",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-03-27 04:01:07",
       "album": {
-        "name": "Special Occasion",
-        "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8"
-    },
-    {
-      "added_at": "2026-03-27 04:01:07",
-      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2026-03-27 04:01:07",
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 194575,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8"
     },
     {
       "added_at": "2026-03-27 04:01:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,477 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,534 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 53 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 54 | [It's My Life](https://open.spotify.com/track/6m7fhJkK6TbuGDFhBNpgyn) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Very Best Of](https://open.spotify.com/album/2sVePugUVnYAPEyIlGP6Hx) | 3:52 |
 | 55 | [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 |
-| 56 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
-| 57 | [Destination Unknown](https://open.spotify.com/track/0QyMDyosGai50pjaFbC1NO) | [Missing Persons](https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ) | [Spring Session M.](https://open.spotify.com/album/08GAuXkchZVoRsnKdcihxs) | 3:36 |
+| 56 | [Destination Unknown](https://open.spotify.com/track/0QyMDyosGai50pjaFbC1NO) | [Missing Persons](https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ) | [Spring Session M.](https://open.spotify.com/album/08GAuXkchZVoRsnKdcihxs) | 3:36 |
+| 57 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
 | 58 | [People Are Strange \- New Stereo Mix](https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 2:10 |
 | 59 | [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 |
 | 60 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 64 | [Never Say Never](https://open.spotify.com/track/02RkunUrCBLE5J6jY56QH3) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 5:53 |
 | 65 | [Los Angeles](https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles \(2019 Remaster\)](https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn) | 2:24 |
 | 66 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 |
-| 67 | [Space Age Love Song](https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 3:47 |
-| 68 | [Rise](https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Public Image Ltd.](https://open.spotify.com/album/51UsBsFjLhVVTAa8xXmyI3) | 6:18 |
+| 67 | [Rise](https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Public Image Ltd.](https://open.spotify.com/album/51UsBsFjLhVVTAa8xXmyI3) | 6:18 |
+| 68 | [Space Age Love Song](https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 3:47 |
 | 69 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
 | 70 | [Da Da Da I Don't Love You You Don't Love Me Aha Aha Aha](https://open.spotify.com/track/5XZkMrlZsAqY9ltgN1cN4b) | [Trio](https://open.spotify.com/artist/417rMeQ1e1B90lsiS1iMZ1) | [Triologie \- The Best Of Trio](https://open.spotify.com/album/2FXOLpR73ev7FPg6aHK1fJ) | 3:26 |
 | 71 | [Lola](https://open.spotify.com/track/17GMg1ZyQJtm3HkXQFZ31f) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 4:03 |

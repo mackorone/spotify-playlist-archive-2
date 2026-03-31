@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,806 likes - 19 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,818 likes - 19 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 4 | [You & I](https://open.spotify.com/track/54ZUT13x6aO366youOmO9p) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [You & I](https://open.spotify.com/album/5EqHH76hnNUIAgogAD4elv) | 3:31 |
 | 5 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 |
 | 6 | [Disappear](https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:25 |
-| 7 | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed) | 3:20 |
-| 8 | [Hollow](https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hollow](https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3) | 3:23 |
+| 7 | [Hollow](https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hollow](https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3) | 3:23 |
+| 8 | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed) | 3:20 |
 | 9 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 |
 | 10 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
 | 11 | [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 |
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 18 | [A Little Less Lonely](https://open.spotify.com/track/1bgIZITln5cavD4ucPMXYL) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:16 |
 | 19 | [Popcorn and a Smoothie](https://open.spotify.com/track/3o5Mx627Y6626k2eKcoZnJ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:24 |
 
-Snapshot ID: `accaAAAAAABS0Cvo3xJzO8jim2pyyEVd`
+Snapshot ID: `achrgAAAAADPHRNV0VWzLDLmpt1bq9Qo`

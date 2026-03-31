@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 211560,
+  "num_followers": 211617,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "No Place Left to Leave (2006)",
-        "url": "https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K"
+        "name": "Family Tradition",
+        "url": "https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Black Creek",
-      "url": "https://open.spotify.com/track/4jB3Mw900goYibsFAueHph"
+      "duration_ms": 242960,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Family Tradition",
-        "url": "https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4"
+        "name": "No Place Left to Leave (2006)",
+        "url": "https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 242960,
-      "name": "Family Tradition",
-      "url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ"
+      "duration_ms": 212453,
+      "name": "Black Creek",
+      "url": "https://open.spotify.com/track/4jB3Mw900goYibsFAueHph"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "If They Come Lookin'",
-      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 238211,
       "name": "Drunk Driving",
       "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "If They Come Lookin'",
+      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
     },
     {
       "added_at": "2026-02-04 05:00:17",

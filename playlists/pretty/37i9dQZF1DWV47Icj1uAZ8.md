@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,816 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,823 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 20 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
 | 21 | [Southside](https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Southside](https://open.spotify.com/album/317R21F7calEn6gpLnHEkb) | 4:37 |
 | 22 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 |
-| 23 | [Dreams Money Can Buy](https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:13 |
-| 24 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 23 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 24 | [Dreams Money Can Buy](https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:13 |
 | 25 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
 | 26 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 |
 | 27 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 40 | [Recognize Real \(with Gunna\)](https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:51 |
 | 41 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 |
 | 42 | [Mutual Butterflies](https://open.spotify.com/track/531MBHrtGF6nAkK4zUafi9) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [august](https://open.spotify.com/album/7h1xc7a0GqmwkzOu29YbjD) | 3:03 |
-| 43 | [Picture Me Rollin'](https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:13 |
-| 44 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
+| 43 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
+| 44 | [Picture Me Rollin'](https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:13 |
 | 45 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 |
 | 46 | [Since I Seen't You](https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:15 |
 | 47 | [Lovely](https://open.spotify.com/track/2yb8xWLdEaDsUMOFsWr09q) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 4:51 |
-| 48 | [One Hunnit](https://open.spotify.com/track/5xAGavHxt4u1zstIsG4DAb) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:40 |
-| 49 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
+| 48 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
+| 49 | [One Hunnit](https://open.spotify.com/track/5xAGavHxt4u1zstIsG4DAb) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:40 |
 | 50 | [Blue Magic](https://open.spotify.com/track/3E8mkgsexzpLBGd6o4iCGC) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 4:08 |
 
 Snapshot ID: `AAAAAHz/41XJuoLoCG6eXx5F2QPhrwR5`

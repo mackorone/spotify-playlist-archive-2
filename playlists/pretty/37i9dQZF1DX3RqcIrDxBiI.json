@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 154653,
+  "num_followers": 154647,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "Sans plus attendre",
+        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 270000,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
     },
     {
       "added_at": "2026-02-06 18:20:07",

@@ -882,7 +882,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 219654,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/2Iuoz2Q3MK4zuvyRYceVnT"
@@ -2886,10 +2886,32 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 135967,
       "name": "Chase The Sun (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+    },
+    {
+      "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
+      },
+      "artists": [
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156003,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
     },
     {
       "album": {
@@ -5712,7 +5734,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
@@ -7134,6 +7156,28 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+    },
+    {
+      "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv"
     },
     {
       "album": {
@@ -10104,7 +10148,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 147375,
       "name": "KICKS",
       "url": "https://open.spotify.com/track/6HcakYUdMutjzfnAS0QX1q"
@@ -10678,6 +10722,24 @@
       "duration_ms": 172800,
       "name": "Let The Beat",
       "url": "https://open.spotify.com/track/7aYbliTeQd5Jgq9e4qf8cQ"
+    },
+    {
+      "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173516,
+      "name": "Let Yourself Go",
+      "url": "https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN"
     },
     {
       "album": {
@@ -15310,7 +15372,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 129332,
       "name": "Remember The Name",
       "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
@@ -15574,6 +15636,28 @@
       "duration_ms": 174967,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7aoMTCPDdw4pTlWG5mwima"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188245,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3rgc96C9Ou7qA32hS2FZ6x"
     },
     {
       "album": {
@@ -15916,6 +16000,28 @@
       "duration_ms": 223659,
       "name": "Running up That Hill",
       "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
+    },
+    {
+      "album": {
+        "name": "Sacred Oath (Defqon.1 2026 Anthem)",
+        "url": "https://open.spotify.com/album/7r4jQKMJPEQkPhRZbvL5Fc"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298838,
+      "name": "Sacred Oath (Defqon.1 2026 Anthem)",
+      "url": "https://open.spotify.com/track/0S9f4Q3EpMzK7oqJRgLER1"
     },
     {
       "album": {
@@ -19153,6 +19259,24 @@
     },
     {
       "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
+    },
+    {
+      "album": {
         "name": "Till I Collapse",
         "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
@@ -19686,7 +19810,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 188800,
       "name": "Turn The Tide Revisited",
       "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"

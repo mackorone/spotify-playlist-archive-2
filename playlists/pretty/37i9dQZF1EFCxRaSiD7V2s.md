@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 279 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 542 likes - 279 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 168 | [Buffy vs\. Dracula](https://open.spotify.com/track/36gjXqUHDaWtOoex8dlYSM) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:14 |
 | 169 | [The Prom](https://open.spotify.com/track/7fDI3J0JdSiE2STKsqDXXr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 0:54 |
 | 170 | [tannery falls](https://open.spotify.com/track/2n7dURhL0nAGjKTOXtYhBv) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 2:29 |
-| 171 | [The Initiative](https://open.spotify.com/track/3ChsPDG9Ir3nF4CET3nkLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:14 |
-| 172 | [blue hour](https://open.spotify.com/track/08p5wIZA2TLNWYgMdBXEFy) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 1:32 |
+| 171 | [blue hour](https://open.spotify.com/track/08p5wIZA2TLNWYgMdBXEFy) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 1:32 |
+| 172 | [The Initiative](https://open.spotify.com/track/3ChsPDG9Ir3nF4CET3nkLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:14 |
 | 173 | [The Freshman](https://open.spotify.com/track/3xjszbOcOwKwpuKyAwIkU9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:39 |
 | 174 | [hemlock shade](https://open.spotify.com/track/2HdIcJ4k0yVVeVjNXIc1ct) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 2:27 |
 | 175 | [King Size Bed](https://open.spotify.com/track/5otwN9Mn79pn7POXm5vZFk) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [Katie Wighton](https://open.spotify.com/album/1Py4Muj45TeIkRsfDjFDVn) | 2:58 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 278 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 279 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AcNdYAAAAACWMGm+fzXmU+2kPWjxhUvr`
+Snapshot ID: `AcNjFAAAAABytBhEjNYu4rq0SBzud9hK`

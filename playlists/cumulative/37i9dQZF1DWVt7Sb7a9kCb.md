@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano\. J Balvin y Ryan Castro en portada
 
-591 songs - 1 day 6 hr 4 min
+592 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Al Revés](https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E), [Pascal](https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu) | [Al Revés](https://open.spotify.com/album/4jiWU7w7CXSn56IPKdLH5T) | 2:47 | 2022-05-28 | 2022-07-29 |
 | [ALL TIME](https://open.spotify.com/track/1z6VYGFSFhGoY0PLhhpvOE) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/5axCFUuprKXWFT1zpbv4sQ) | 2:54 | 2025-12-05 | 2025-12-20 |
 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 | 2026-01-16 |  |
-| [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 | 2024-12-20 |  |
+| [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 | 2024-12-20 | 2026-03-31 |
 | [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-17 |  |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2022-05-25 |  |
 | [Amantes y Amigos](https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Amantes y Amigos](https://open.spotify.com/album/1ymAOPs0Z1p78Me8UbddOK) | 3:02 | 2022-06-03 | 2023-07-08 |
@@ -552,6 +552,7 @@
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2022-07-23 | 2023-02-25 |
 | [TUDO](https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:34 | 2024-08-30 | 2025-04-26 |
 | [TULUM](https://open.spotify.com/track/2V7elj6Cvr4CbPinmemkRT) | [Ana Simg](https://open.spotify.com/artist/7nXdrq8t22HH3fouDSBBla) | [TULUM](https://open.spotify.com/album/1yTaRj6e49wN32NHA8UeU8) | 3:10 | 2025-08-01 | 2025-08-30 |
+| [TUTUTU](https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [TUTUTU](https://open.spotify.com/album/3kFpwjt0z3L2mRM0ms38sT) | 2:16 | 2026-03-27 |  |
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-09 | 2025-05-10 |
 | [Té De Piña](https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:22 | 2022-12-07 | 2023-05-20 |
 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 | 2022-05-25 | 2023-07-01 |

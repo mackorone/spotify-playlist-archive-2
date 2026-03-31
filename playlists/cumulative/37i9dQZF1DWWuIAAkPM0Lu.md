@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra Rosa, Artigeardit, Gobs,  Pil og maaange flere  ❤️‍🔥
 
-9,830 songs - 21 day 6 hr 41 min
+9,831 songs - 21 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -993,7 +993,7 @@
 | [Blir Her](https://open.spotify.com/track/1W7TNg6bgyHptwcFUm8TNE) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Blir Her](https://open.spotify.com/album/1GJPOt8M6vJLvhht7OdhPN) | 3:02 | 2024-05-16 | 2024-05-24 |
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 | 2025-05-16 |
 | [Blisters & Sunburn](https://open.spotify.com/track/3pTPIi9dpiFlUGtDxth4Vh) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/2DqmwinrAEOEPYoS1p63qu) | 2:31 | 2025-06-05 | 2025-06-13 |
-| [Bliv hvor du er](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 | 2026-03-26 |  |
+| [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 | 2026-03-26 |  |
 | [Blive Ligesom Dig](https://open.spotify.com/track/3Q7nUFxQRbVKB9du87cZqd) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e) | [Blive Ligesom Dig](https://open.spotify.com/album/3R3Q4N0moRsjPQhcDvWLYS) | 2:40 | 2025-02-13 | 2025-02-21 |
 | [Blockbuster Stereotypes](https://open.spotify.com/track/5tdhZOFvk4RKixIDx4Qtxb) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Blockbuster Stereotypes](https://open.spotify.com/album/4X7idbpXjBQnk5VXvof32T) | 2:29 | 2024-11-21 | 2024-11-29 |
 | [Blodigt \(feat\. Annika\)](https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Blodigt \(feat\. Annika\)](https://open.spotify.com/album/2a4DFqBDsOnLkeyJWQtNtI) | 3:02 | 2025-01-23 | 2025-01-31 |
@@ -8598,6 +8598,7 @@
 | [The Suburbs](https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw) | 3:08 | 2025-08-21 | 2025-08-29 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 | 2025-08-08 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-09-26 | 2024-10-04 |
+| [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 | 2026-03-27 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-09 | 2024-08-16 |
 | [THE THING](https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [THE THING](https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI) | 5:38 | 2026-01-15 | 2026-01-23 |
 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 | 2024-06-27 | 2024-07-05 |

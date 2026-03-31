@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌟 featuring MAYV
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,519 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,585 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 12 | [Free](https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [Free](https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl) | 3:56 |
 | 13 | [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 |
 | 14 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
-| 15 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
-| 16 | [k\_i\_s\_s\_i\_n\_g.wav](https://open.spotify.com/track/5d4qt2LPwtyOEHmWkFvIrz) | [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [k\_i\_s\_s\_i\_n\_g.wav](https://open.spotify.com/album/6TCLFfCXQXpSze0ncBNpZU) | 3:06 |
+| 15 | [Shadow](https://open.spotify.com/track/0C6kGnMDhdKre3kkODrGap) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Shadow](https://open.spotify.com/album/082BFZZXhPeRRigSZhwdEN) | 2:36 |
+| 16 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 17 | [One More Night](https://open.spotify.com/track/115vPHfuBdih0Mbu09a7V5) | [Polezsky](https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL), [dg.](https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6) | [One More Night](https://open.spotify.com/album/0gKuiLcC7WUBRzbs9WQIrW) | 3:51 |
 | 18 | [ON MY OWN](https://open.spotify.com/track/5LF0HcriJbkj0YU6Phe834) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn) | [ON MY OWN](https://open.spotify.com/album/3hGUvVXaYHdDZ4jHDZikhR) | 2:27 |
 | 19 | [Asking 4](https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Asking 4](https://open.spotify.com/album/4UWOCBtyqvmsZ6NIa49tCM) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 99 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 100 | [PUT IT DOWN \- Jkyl & Hyde Remix](https://open.spotify.com/track/46WqNBxyjLaxbHMM4BKTA2) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [PUT IT DOWN \(Jkyl & Hyde Remix\)](https://open.spotify.com/album/5DjMcPsSEQpWcECwAT0mKp) | 3:14 |
 
-Snapshot ID: `AAAAAGtn0hKwdx+sf+G9RpFO91ULbLYM`
+Snapshot ID: `AAAAAPgV+sX1M558TXPQt6W9SciKHhuR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Dry Cleaning
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,797 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,801 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 52 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
 | 53 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 54 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
-| 55 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
-| 56 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
+| 55 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
+| 56 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
 | 57 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 58 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 |
 | 59 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 61 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
 | 62 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
 | 63 | [Deep Clay](https://open.spotify.com/track/0BsFIzlsXRmseeQ44iHATK) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Sunshine and Balance Beams](https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4) | 4:13 |
-| 64 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
-| 65 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
+| 64 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
+| 65 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
 | 66 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
 | 67 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 |
 | 68 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |

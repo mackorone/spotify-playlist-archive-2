@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3247,
+  "num_followers": 3248,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACRXYfbpJjmqlyH9GpZBpnr",
+  "snapshot_id": "achrgAAAAACtYvyx/2TuGdDuM5ioGqBj",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 312624,
-      "name": "No Reason To Fear - Live",
-      "url": "https://open.spotify.com/track/1yj5JBz7haqcGjp5mExBQm"
+      "duration_ms": 340431,
+      "name": "Blood Still Works - Live",
+      "url": "https://open.spotify.com/track/57h3LktWWbNJAgyYPEy3ep"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 340431,
-      "name": "Blood Still Works - Live",
-      "url": "https://open.spotify.com/track/57h3LktWWbNJAgyYPEy3ep"
+      "duration_ms": 312624,
+      "name": "No Reason To Fear - Live",
+      "url": "https://open.spotify.com/track/1yj5JBz7haqcGjp5mExBQm"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
       },
       "artists": [
         {
@@ -640,17 +640,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Demarcus Kelly",
-          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         },
         {
-          "name": "JaNae Jones",
-          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
         }
       ],
-      "duration_ms": 292276,
-      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
-      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+      "duration_ms": 502359,
+      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
       "artists": [
         {
@@ -712,61 +712,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Demarcus Kelly",
+          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
         },
         {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+          "name": "JaNae Jones",
+          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
         }
       ],
-      "duration_ms": 201765,
-      "name": "Praise To The Rock - Live",
-      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Donishisa Ballard",
-          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
-        }
-      ],
-      "duration_ms": 502359,
-      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Deserve It (Deluxe / Live)",
-        "url": "https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 330558,
-      "name": "Lord You're Mighty - Live",
-      "url": "https://open.spotify.com/track/0GOksRkGSxmh0ZepLZpz6g"
+      "duration_ms": 292276,
+      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
+      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
     },
     {
       "added_at": null,
@@ -795,6 +751,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Deserve It (Deluxe / Live)",
+        "url": "https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty - Live",
+      "url": "https://open.spotify.com/track/0GOksRkGSxmh0ZepLZpz6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+        }
+      ],
+      "duration_ms": 201765,
+      "name": "Praise To The Rock - Live",
+      "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joy Is Here (Live)",
         "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
       },
@@ -815,6 +815,50 @@
       "duration_ms": 499448,
       "name": "We Adore You - Live",
       "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+        }
+      ],
+      "duration_ms": 267626,
+      "name": "It Pushed Me",
+      "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve It (Deluxe / Live)",
+        "url": "https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "Deliver - Live",
+      "url": "https://open.spotify.com/track/7sDHOQpUKkdS6nH1y2ozj8"
     },
     {
       "added_at": null,
@@ -863,30 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "It Pushed Me",
-      "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
@@ -907,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe / Live)",
-        "url": "https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk"
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 210181,
-      "name": "Awesome God - Live",
-      "url": "https://open.spotify.com/track/5OaR7aPSOyODhdyb5mvIWc"
+      "duration_ms": 219360,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi"
     },
     {
       "added_at": null,
@@ -947,22 +963,6 @@
       "duration_ms": 348755,
       "name": "Stretch Out - Live",
       "url": "https://open.spotify.com/track/7jK7b2h7B6INaJTcogXFBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "You Are Awesome",
+      "url": "https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After This",
         "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
       },
@@ -1027,42 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "You Are Awesome",
-      "url": "https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 180784,
-      "name": "I Shall Praise - Live",
-      "url": "https://open.spotify.com/track/1ApLJEbcGPgBFOV4qhwC7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exalted...Live In Baltimore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
@@ -1079,6 +1059,30 @@
       "duration_ms": 373826,
       "name": "Jesus Reigns - Live",
       "url": "https://open.spotify.com/track/6W32Quvo1qpHDFooIoeFEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Reunion: Washington, DC (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "David McClure",
+          "url": "https://open.spotify.com/artist/5f5PYElfobGAfkAzmnVWxB"
+        }
+      ],
+      "duration_ms": 164966,
+      "name": "Incredible God - Live",
+      "url": "https://open.spotify.com/track/0yI42IhNtDeYCWSmUkRwNZ"
     }
   ],
   "unique_name": "This Is JJ Hairston",

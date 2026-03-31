@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 242017,
+  "num_followers": 242038,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAACpHqhhqPPJBTxg5kytAHpf",
+  "snapshot_id": "achrgAAAAAA+C6uBxLf/J09nlF5aSvOv",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 206343,
       "name": "Lo Siento BB:/",
       "url": "https://open.spotify.com/track/04x1x0L8BYyIv1XlcJxWfi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2KyntP9bkdZzyA4DBZXJP3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2KyntP9bkdZzyA4DBZXJP3"
     },
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 192760,
       "name": "Eres para M\u00ed",
       "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Ese Camino",
+      "url": "https://open.spotify.com/track/5gR1hNKjMjJwXNONX38FK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Ese Camino",
-      "url": "https://open.spotify.com/track/5gR1hNKjMjJwXNONX38FK8"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Dorados",
-        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193015,
-      "name": "Tiempos Dorados",
-      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar Dulce",
         "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 218920,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193015,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
     },
     {
       "added_at": null,

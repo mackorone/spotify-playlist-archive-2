@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Usted Señalemelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,948 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,917 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 35 | [¿Qué Hora Es Allá?](https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 2:51 |
 | 36 | [Vidas Felices](https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Vidas Felices](https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7) | 3:54 |
 | 37 | [INVESTIDO](https://open.spotify.com/track/2BJS8zYnk91hYVpX2m9OMz) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:23 |
-| 38 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
-| 39 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
+| 38 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
+| 39 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
 | 40 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
 | 41 | [Úsame](https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Úsame](https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6) | 3:03 |
 | 42 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 60 | [Lo Siento](https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Lo Siento](https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ) | 3:33 |
 | 61 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
 | 62 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 |
-| 63 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
-| 64 | [Invulnerables](https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Invulnerables](https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg) | 4:02 |
+| 63 | [Invulnerables](https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Invulnerables](https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg) | 4:02 |
+| 64 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 | 65 | [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 |
 | 66 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
 | 67 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 |

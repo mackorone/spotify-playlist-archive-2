@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 80 | [Dazed](https://open.spotify.com/track/0yvzGLzdyJIJ294lbt5ESc) | [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [Dazed](https://open.spotify.com/album/7bjaG4ZyFG9VaAlQLr9xBj) | 2:08 |
 | 81 | [feel like home](https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:40 |
 | 82 | [BNYX Da Reaper](https://open.spotify.com/track/1EDUzgblPIrZpUipr95S5u) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BNYX Da Reaper](https://open.spotify.com/album/1kSBFgU4PeCxLDYbK4xGwM) | 3:24 |
-| 83 | [Live Up To the Hype](https://open.spotify.com/track/7K0MmOeYgozw9Y5y9V5K3R) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Fully Loaded](https://open.spotify.com/album/6nakKOO8Qfv0xU24BvEXnn) | 3:01 |
-| 84 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 83 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 84 | [Live Up To the Hype](https://open.spotify.com/track/7K0MmOeYgozw9Y5y9V5K3R) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Fully Loaded](https://open.spotify.com/album/6nakKOO8Qfv0xU24BvEXnn) | 3:01 |
 | 85 | [Bob and Weave](https://open.spotify.com/track/3asben67kRSobuDjUPaWZB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:44 |
 | 86 | [i'm fine](https://open.spotify.com/track/2Ff84Bm75EdzfM0KOT3pn7) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:40 |
 | 87 | [For a While](https://open.spotify.com/track/1Oi984iJVQNJsMCr3LGIkM) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 4:37 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 166 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 167 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcNdYAAAAADmfCn0aLQtdYWkK/R+j5sB`
+Snapshot ID: `AcNjFAAAAABhVXFp/Evmfg9IvSAGHzhb`

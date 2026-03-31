@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/47fyLfH2IG7XEdaCcWP2vP"
+      },
+      "artists": [
+        {
+          "name": "Noiseflow",
+          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
+        },
+        {
+          "name": "Schlot",
+          "url": "https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198145,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/0hgjQZ6QC1dQjyFoUjlrFy"
+    },
+    {
+      "album": {
         "name": "Another Love (Hardstyle - Sped Up)",
         "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
       },
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 189000,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t"

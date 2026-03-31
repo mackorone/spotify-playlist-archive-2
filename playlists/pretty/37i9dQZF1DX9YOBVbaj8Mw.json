@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19299,
+  "num_followers": 19300,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
-      },
-      "artists": [
-        {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
-        },
-        {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
-        }
-      ],
-      "duration_ms": 361016,
-      "name": "F Jak Samolot",
-      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "W\u0119druj\u0105cy Ptak",
         "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 157780,
       "name": "Letila zozula czerez moju chatu",
       "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 361016,
+      "name": "F Jak Samolot",
+      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "No Soloing, Please",
+        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
+      },
+      "artists": [
+        {
+          "name": "Adam J\u0119drysik",
+          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
+        }
+      ],
+      "duration_ms": 125412,
+      "name": "the right place to be (dzieksa)",
+      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 338031,
       "name": "Bonzer",
       "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "No Soloing, Please",
-        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
-      },
-      "artists": [
-        {
-          "name": "Adam J\u0119drysik",
-          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
-        }
-      ],
-      "duration_ms": 125412,
-      "name": "the right place to be (dzieksa)",
-      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
     },
     {
       "added_at": "2025-04-06 08:27:45",

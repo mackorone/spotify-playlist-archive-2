@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAABG87cM+LYzeMUiPzJ4/hdt",
+  "snapshot_id": "achrgAAAAABvGDy6zsrI4xB/TfA4fXwt",
   "tracks": [
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 102000,
-      "name": "5th Chakra",
-      "url": "https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID"
+      "duration_ms": 157575,
+      "name": "Straight",
+      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 157575,
-      "name": "Straight",
-      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
+      "duration_ms": 102000,
+      "name": "5th Chakra",
+      "url": "https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID"
     },
     {
       "added_at": null,
@@ -871,18 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+        "name": "WukiWorld",
+        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
       "artists": [
         {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Stoppa",
+          "url": "https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ"
         }
       ],
-      "duration_ms": 182709,
-      "name": "Baecation",
-      "url": "https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x"
+      "duration_ms": 168094,
+      "name": "Hey Ladies",
+      "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
     },
     {
       "added_at": null,
@@ -935,26 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WukiWorld",
-        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Stoppa",
-          "url": "https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ"
         }
       ],
-      "duration_ms": 168094,
-      "name": "Hey Ladies",
-      "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
+      "duration_ms": 182709,
+      "name": "Baecation",
+      "url": "https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 
 > Dim the lights and chill with these classic slow jamz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,583 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,623 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 39 | [Nice & Slow \- Radio Version](https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:47 |
 | 40 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 41 | [Freek'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 6:19 |
-| 42 | [I Need a Girl \(Pt\. 1\) \[feat\. Usher & Loon\]](https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:28 |
-| 43 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 |
+| 42 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 |
+| 43 | [I Need a Girl \(Pt\. 1\) \[feat\. Usher & Loon\]](https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:28 |
 | 44 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
 | 45 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 46 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |

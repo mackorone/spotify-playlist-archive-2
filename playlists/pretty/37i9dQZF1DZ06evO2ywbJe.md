@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,708 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,718 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 2 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 |
 | 3 | [Get Better](https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:15 |
 | 4 | [Escaladizzy II](https://open.spotify.com/track/02f69ZvOxhR4Uo6xXsicfT) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 3:33 |
-| 5 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
-| 6 | [14DRoad](https://open.spotify.com/track/2rkKR9JLqCNdAC4swOmAbv) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:47 |
+| 5 | [14DRoad](https://open.spotify.com/track/2rkKR9JLqCNdAC4swOmAbv) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:47 |
+| 6 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
 | 7 | [Genesis](https://open.spotify.com/track/1MynOK123K3zlPeeGXK3v9) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:07 |
 | 8 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 |
 | 9 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 49 | [Agege](https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Agege](https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR) | 3:16 |
 | 50 | [Elon Musk \(Remix\)](https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd) | 3:24 |
 
-Snapshot ID: `accaAAAAAACQF1cRTaqvNdTPt+Q+RLT5`
+Snapshot ID: `achrgAAAAAADHfBbehAYlHZwu+k1TlTu`

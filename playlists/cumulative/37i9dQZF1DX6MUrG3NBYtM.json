@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De beste Indie releases. Cover: Hiqpy ",
+  "description": "De beste Indie releases. Cover: Naaz ",
   "name": "Indie XL",
   "tracks": [
     {
@@ -348,6 +348,24 @@
       "duration_ms": 216880,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
+    },
+    {
+      "album": {
+        "name": "Bark",
+        "url": "https://open.spotify.com/album/5x3TAHhEQoDNsNu2onC5mn"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235136,
+      "name": "Bark",
+      "url": "https://open.spotify.com/track/4uuoM3cpAJYuR8qCuf6DfT"
     },
     {
       "album": {
@@ -3159,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248109,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH"
+    },
+    {
+      "album": {
         "name": "Our Part of Town",
         "url": "https://open.spotify.com/album/5cH4Ls7MGVkc1sJrmDEoqX"
       },
@@ -3498,7 +3534,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 236229,
       "name": "Reflections Of Lessons Left",
       "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
@@ -3870,7 +3906,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-31",
       "duration_ms": 209306,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ"

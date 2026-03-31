@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,478 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,481 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Só Os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
 | 2 | [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 |
-| 3 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 |
-| 4 | [Seja Para Mim \- Acústico](https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Seja Para Mim \(Acústico\)](https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w) | 3:01 |
+| 3 | [Seja Para Mim \- Acústico](https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Seja Para Mim \(Acústico\)](https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w) | 3:01 |
+| 4 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 |
 | 5 | [Girassol \(Acústico\)](https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:09 |
 | 6 | [Eu Sei](https://open.spotify.com/track/5YQPOIAt3U7DMAswTVvzax) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 3:52 |
 | 7 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |

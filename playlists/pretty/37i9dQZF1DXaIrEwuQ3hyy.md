@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > wenn du mal kurz durchatmen musst 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,386 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,398 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 29 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 30 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
 | 31 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 |
-| 32 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
+| 32 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 33 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
-| 34 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
+| 34 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
 | 35 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
 | 36 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
-| 37 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
-| 38 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
-| 39 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
+| 37 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
+| 38 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
+| 39 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 40 | [Trust Myself](https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tell Me How You Really Feel](https://open.spotify.com/album/68VnJqtwbk7vmAuyYYsiZa) | 3:03 |
 | 41 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 42 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 71 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
 | 72 | [Mary](https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:19 |
 | 73 | [Feel The Rush](https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Feel The Rush](https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0) | 3:13 |
-| 74 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
-| 75 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 74 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 75 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 76 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
 | 77 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 78 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 90 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
 | 91 | [Again](https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Again](https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ) | 3:49 |
 | 92 | [Make me think of you](https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw) | [ELIS NOA](https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf) | [Make me think of you](https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ) | 3:19 |
-| 93 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
-| 94 | [Easy](https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Easy](https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4) | 4:27 |
+| 93 | [Easy](https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Easy](https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4) | 4:27 |
+| 94 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
 | 95 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
-| 96 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 |
-| 97 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 |
-| 98 | [Barefoot](https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy) | [Jacob Leo](https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA) | [Barefoot](https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7) | 2:36 |
-| 99 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 |
+| 96 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 |
+| 97 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 |
+| 98 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 |
+| 99 | [Barefoot](https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy) | [Jacob Leo](https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA) | [Barefoot](https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7) | 2:36 |
 | 100 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 |
 
 Snapshot ID: `AAAAAJUwhk1BBdhX4Sns1+Hj2PmFRWzW`

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-757 songs - 2 day 16 hr 40 min
+758 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 | 2025-06-20 |
 | [Apala Medley](https://open.spotify.com/track/2yAnrqd6q7P8GFV89PRH5b) | [Bisi Davids](https://open.spotify.com/artist/5VKhbjC1Y2GcmYPybOOZyv) | [Apala Medley](https://open.spotify.com/album/6iWHRCBAoqjEi7CpnwPlvA) | 9:03 | 2025-12-19 | 2026-02-02 |
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 | 2025-06-27 |
+| [Arise \(Over the Nations\) \- Live](https://open.spotify.com/track/5rlI8fiWdU4LQER9uzOHY7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Arise \(Over the Nations\) \[Live\]](https://open.spotify.com/album/0vOm5gVUrLOJH8sbNzORgc) | 6:50 | 2026-03-20 |  |
 | [As we look](https://open.spotify.com/track/3g2GzaINUedLa9alWfMT2M) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [As we look](https://open.spotify.com/album/0dGMDH7mo6O8isPMiMrmzU) | 7:46 | 2026-01-09 | 2026-03-11 |
 | [Asante](https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Asante](https://open.spotify.com/album/6y8LWCcXI7BK7tlV8f3WVF) | 3:26 | 2026-01-30 |  |
 | [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 | 2025-10-10 |
@@ -692,7 +693,7 @@
 | [Wabwino](https://open.spotify.com/track/2CnBRKSQmsH87eU0nZylci) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [Wabwino](https://open.spotify.com/album/1qgfsNnYLjJRs6tQk5HjKL) | 3:39 | 2025-06-27 | 2025-07-14 |
 | [Wait](https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Wait](https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU) | 9:20 | 2025-08-01 |  |
 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 | 2024-04-05 | 2024-05-24 |
-| [Walk on Water](https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT), [Fresera](https://open.spotify.com/artist/2nShmM3otHhrl43ju76gJ5), [Joel Bunjo Annointed](https://open.spotify.com/artist/40qFQ34iu2llYyyir6ZGAO) | [Kairos](https://open.spotify.com/album/429zY8VzGTrilGTR3zsfg4) | 6:35 | 2026-03-13 |  |
+| [Walk on Water](https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT), [Fresera](https://open.spotify.com/artist/2nShmM3otHhrl43ju76gJ5), [Joel Bunjo Annointed](https://open.spotify.com/artist/40qFQ34iu2llYyyir6ZGAO) | [Kairos](https://open.spotify.com/album/429zY8VzGTrilGTR3zsfg4) | 6:35 | 2026-03-13 | 2026-03-31 |
 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 | 2026-01-30 |  |
 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 | 2024-06-28 | 2025-05-30 |
 | [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 | 2025-11-28 | 2026-02-20 |

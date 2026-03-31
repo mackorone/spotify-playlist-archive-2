@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159707,
+  "num_followers": 159710,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,38 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "Trist Masochist",
+        "url": "https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 181237,
+      "name": "Trist Masochist",
+      "url": "https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Gro Harlem Brundtland",
         "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
@@ -451,22 +483,6 @@
       "duration_ms": 168390,
       "name": "Gro Harlem Brundtland",
       "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -535,26 +551,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Lykke til pappa",
-        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
-      },
-      "artists": [
-        {
-          "name": "Musti",
-          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 159472,
-      "name": "Lykke til pappa",
-      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Det g\u00e5r bra",
         "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
       },
@@ -575,6 +571,26 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Lykke til pappa",
+        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 159472,
+      "name": "Lykke til pappa",
+      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Trist Masochist",
-        "url": "https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6"
+        "name": "Jeg sp\u00f8r for en venn",
+        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
       },
       "artists": [
         {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
         }
       ],
-      "duration_ms": 181237,
-      "name": "Trist Masochist",
-      "url": "https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh"
+      "duration_ms": 193148,
+      "name": "Jeg sp\u00f8r for en venn",
+      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -619,22 +635,6 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Jeg sp\u00f8r for en venn",
-        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Jeg sp\u00f8r for en venn",
-      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -763,18 +763,22 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "jeg holder pusten til du drar",
-        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
+        "name": "Venter du",
+        "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        },
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
         }
       ],
-      "duration_ms": 185338,
-      "name": "jeg holder pusten til du drar",
-      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+      "duration_ms": 157360,
+      "name": "Venter du",
+      "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -795,22 +799,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Venter du",
-        "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
+        "name": "jeg holder pusten til du drar",
+        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
       },
       "artists": [
         {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        },
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Venter du",
-      "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
+      "duration_ms": 185338,
+      "name": "jeg holder pusten til du drar",
+      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Koffor dro du fra m\u00e6",
+        "url": "https://open.spotify.com/album/0GI8CvoLRIjHlznbXAIjtd"
+      },
+      "artists": [
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "duration_ms": 151505,
+      "name": "Koffor dro du fra m\u00e6",
+      "url": "https://open.spotify.com/track/2k9WYtZ33F5lJUubsya6a7"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Can't Get the Hang of It",
         "url": "https://open.spotify.com/album/46ilRFIfzaCTSALgNnsr9E"
       },
@@ -1275,6 +1291,22 @@
       "duration_ms": 172343,
       "name": "never did",
       "url": "https://open.spotify.com/track/3ZSI6HlscZTVy86ToS8HPW"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -1311,38 +1343,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "25",
-      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Koffor dro du fra m\u00e6",
-        "url": "https://open.spotify.com/album/0GI8CvoLRIjHlznbXAIjtd"
-      },
-      "artists": [
-        {
-          "name": "Erika Norwich",
-          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
-        }
-      ],
-      "duration_ms": 151505,
-      "name": "Koffor dro du fra m\u00e6",
-      "url": "https://open.spotify.com/track/2k9WYtZ33F5lJUubsya6a7"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Learning as I go",
         "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 167280,
       "name": "Learning as I go",
       "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "The Flood",
-        "url": "https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

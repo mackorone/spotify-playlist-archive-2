@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546922,
+  "num_followers": 546927,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 3809026,
-      "name": "Dopesmoker - 2022 Remastered Version",
-      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Tumuli Schroomaroom",
         "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 599683,
       "name": "Heavy Feather",
       "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 3809026,
+      "name": "Dopesmoker - 2022 Remastered Version",
+      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
     },
     {
       "added_at": "2026-03-13 04:00:13",

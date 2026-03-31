@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,422 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,415 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 43 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 |
 | 44 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
 | 45 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
-| 46 | [Look At The Time](https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Look At The Time](https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1) | 4:20 |
-| 47 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
+| 46 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
+| 47 | [Look At The Time](https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Look At The Time](https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1) | 4:20 |
 | 48 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
 | 49 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 |
 | 50 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 116 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 |
 | 117 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 |
 | 118 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
-| 119 | [CLOSE ONE!](https://open.spotify.com/track/7DArJNtpFZrFQxb3o2arJe) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [MARCH](https://open.spotify.com/album/0My709th5LtXCtWpTfqhLp) | 3:31 |
-| 120 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 |
+| 119 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 |
+| 120 | [CLOSE ONE!](https://open.spotify.com/track/7DArJNtpFZrFQxb3o2arJe) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [MARCH](https://open.spotify.com/album/0My709th5LtXCtWpTfqhLp) | 3:31 |
 | 121 | [Flagstaff](https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Flagstaff](https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM) | 2:47 |
-| 122 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
-| 123 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
+| 122 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
+| 123 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 124 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
 | 125 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
 

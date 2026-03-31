@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,292 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,305 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 20 | [That Old Feeling](https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 2:43 |
 | 21 | [Love Is Here To Stay](https://open.spotify.com/track/63qs0QjDLhV22OMdAxGaMQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:57 |
 | 22 | [Stars Fell On Alabama](https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 3:34 |
-| 23 | [C'est si bon](https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:03 |
+| 23 | [Can Anyone Explain?](https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:11 |
 | 24 | [You Go To My Head](https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 6:25 |
-| 25 | [Can Anyone Explain?](https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:11 |
+| 25 | [C'est si bon](https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:03 |
 | 26 | [A Foggy Day](https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:32 |
 | 27 | [I'm In The Mood For Love \- Single Version](https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Volume 1: Rhythm Saved The World \(1935\-1936\)](https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4) | 3:10 |
 | 28 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/5s9tKuZkMiDxY1b6WIzHtL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 7:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 49 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
 | 50 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
 
-Snapshot ID: `accaAAAAAAALFbgKr45y6idklxF63ugh`
+Snapshot ID: `achrgAAAAADjGuR6XD82yYTXN+VVWVHc`

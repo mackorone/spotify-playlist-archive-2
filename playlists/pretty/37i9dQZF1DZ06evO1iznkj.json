@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 199289,
+  "num_followers": 199393,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "accaAAAAAADmeNSNoXeJz+aVe5JLCp86",
+  "snapshot_id": "achrgAAAAACf1nyOgmG6AawuAIRLmL/Z",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown 2",
-        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 151539,
-      "name": "Who You Foolin",
-      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Drip or Drown 2",
+        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
       },
       "artists": [
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+      "duration_ms": 151539,
+      "name": "Who You Foolin",
+      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
     },
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sold Out Dates (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 166368,
-      "name": "Sold Out Dates (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
+      "duration_ms": 122693,
+      "name": "south to west",
+      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
       },
       "artists": [
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 122693,
-      "name": "south to west",
-      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
+      "duration_ms": 166368,
+      "name": "Sold Out Dates (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
     },
     {
       "added_at": null,
