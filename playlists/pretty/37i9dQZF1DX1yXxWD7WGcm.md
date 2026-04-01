@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,355 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,384 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 45 | [Maldòn \- Version originale](https://open.spotify.com/track/6YoBe1FqFL5w10bQbemW16) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Maldòn \(La musique dans la peau\)](https://open.spotify.com/album/7zrPW2t1vhy9fjOfopjQYN) | 4:05 |
 | 46 | [Inmew' en secre](https://open.spotify.com/track/14usZZgfvUCisR6BUfLraq) | [Leila Chicot](https://open.spotify.com/artist/30BfcSJWzhUo4QIlBVJ6PK) | [Excess](https://open.spotify.com/album/0AMyF5cW8VmbRGbMxiECtg) | 4:15 |
 | 47 | [Femmes fatales, vol\. 3](https://open.spotify.com/track/7q9zssoBwzepWhmP6z98uj) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71), [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Femmes fatales, vol\. 3](https://open.spotify.com/album/5s4IeohOHunBRHFWhAopKk) | 4:27 |
-| 48 | [Amélia](https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx) | [Richard Birman](https://open.spotify.com/artist/2voWjJRm5QFln1Rve9xvbs) | [Zouker, Vol\. 1](https://open.spotify.com/album/7wvjwgc0vxdZESnX0fkIgC) | 4:45 |
+| 48 | [Amélia](https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx) | [Richard Birman](https://open.spotify.com/artist/5CdPGFgtfN127lnLJHIQxH) | [Zouker, Vol\. 1](https://open.spotify.com/album/7wvjwgc0vxdZESnX0fkIgC) | 4:45 |
 | 49 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 |
 | 50 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \(Deluxe edition\)](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 |
 

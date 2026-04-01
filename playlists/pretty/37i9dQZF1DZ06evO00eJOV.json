@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37251,
+  "num_followers": 37257,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAAAs227svZzHenUCQ1aWa676",
+  "snapshot_id": "acm9AAAAAADxfLo7iQb+XTm9xOTc2vQ5",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuli Ndlela",
         "url": "https://open.spotify.com/album/0PoVjEm9WTgOXjlUE0wMrA"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 203874,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/5I4rknDPn9lYRACi80RbbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > MUY PIOLA<br/>📷 Joaco Burgos
 
-591 songs - 1 day 7 hr 1 min
+592 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/75XpK1eCoq48JeDt8r0Lfk) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [DUMBAI \(Live at NPR MUSIC's Tiny Desk\)](https://open.spotify.com/album/3UA0ftXwo4zg0qPDrsQhrB) | 2:41 | 2025-03-07 | 2025-09-02 |
 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2023-10-13 | 2023-12-16 |
 | [ECLIPSE](https://open.spotify.com/track/6EICWMbW2OBWtfYUVtn9tv) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ATLAS](https://open.spotify.com/album/1L8lVA3b8DpRZqjGZLoLbO) | 3:08 | 2025-10-24 | 2025-11-20 |
+| [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 | 2026-03-31 |  |
 | [El Cielo](https://open.spotify.com/track/2byqdQCSM7RLq7J97BpD8B) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [El Cielo](https://open.spotify.com/album/4ItQlfDHnru0cP5zlfqtEn) | 4:19 | 2023-10-13 | 2024-01-20 |
 | [El fin](https://open.spotify.com/track/7uS5cwaPY5QqIf5U21oOew) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [El fin](https://open.spotify.com/album/7fh5YlpCehNSXuEaSs1pMG) | 3:03 | 2023-12-15 | 2024-04-06 |
 | [El francés](https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [El francés](https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA) | 2:17 | 2025-05-30 | 2025-11-20 |

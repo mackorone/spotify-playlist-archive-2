@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
-  "num_followers": 38000,
+  "num_followers": 38008,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Vivos",
-        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "PIRRI",
         "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 192214,
       "name": "PIRRI",
       "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Vivos",
+        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -983,18 +983,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "La vida de Nadie",
-        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
+        "name": "La \u00daltima Noche (con Estopa)",
+        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
       },
       "artists": [
         {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 167943,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+      "duration_ms": 229247,
+      "name": "La \u00daltima Noche - con Estopa",
+      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "La \u00daltima Noche (con Estopa)",
-        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
+        "name": "La vida de Nadie",
+        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
         }
       ],
-      "duration_ms": 229247,
-      "name": "La \u00daltima Noche - con Estopa",
-      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
+      "duration_ms": 167943,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Dando vueltas",
-        "url": "https://open.spotify.com/album/6Oaupt2r7rUsDlF8YlPfmv"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 176781,
-      "name": "Dando vueltas",
-      "url": "https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 228911,
       "name": "Todo est\u00e1 pasando ahora",
       "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Dando vueltas",
+        "url": "https://open.spotify.com/album/6Oaupt2r7rUsDlF8YlPfmv"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 176781,
+      "name": "Dando vueltas",
+      "url": "https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Cuando Estamos T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 159342,
-      "name": "Cuando Estamos T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "Alta Fidelidad",
         "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 162210,
       "name": "Prayer in C",
       "url": "https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Cuando Estamos T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 159342,
+      "name": "Cuando Estamos T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
     },
     {
       "added_at": "2026-03-27 06:00:11",

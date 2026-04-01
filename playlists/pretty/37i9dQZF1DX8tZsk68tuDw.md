@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with Fcukers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,838,635 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,838,532 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 28 | [Never Alone \(feat\. Lizzy Land\)](https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Never Alone \(feat\. Lizzy Land\)](https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8) | 3:24 |
 | 29 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
 | 30 | [All This Love](https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [All This Love](https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3) | 3:15 |
-| 31 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
+| 31 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 32 | [Picking Up The Pace](https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Picking Up The Pace](https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547) | 2:58 |
 | 33 | [million angels](https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [SYNCHRONICITY](https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX) | 4:17 |
 | 34 | [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 |

@@ -4,7 +4,7 @@
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-93 songs - 3 hr 5 min
+94 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Making New Friends](https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Ezra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky) | 1:32 | 2024-06-22 | 2024-09-24 |
 | [Marcus And Wilson](https://open.spotify.com/track/38KL6ie7NlCpJnw27cyuNT) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Hacks: Season 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI) | 1:01 | 2023-06-13 | 2023-06-18 |
 | [Marguerite](https://open.spotify.com/track/4F2pkHXBCYJucVQI7d1TRl) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:29 | 2024-02-11 | 2024-04-09 |
+| [Maria Reeves](https://open.spotify.com/track/051RWMYpTL1ZYjZR3C9rGa) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [They Will Kill You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU) | 1:56 | 2026-04-01 |  |
 | [Mary Agnes & Callie](https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:21 | 2023-04-19 | 2026-03-26 |
 | [Mcnue Leaves](https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:04 | 2023-05-08 |  |
 | [MEDELLÍN](https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 5:17 | 2024-07-08 | 2024-09-25 |

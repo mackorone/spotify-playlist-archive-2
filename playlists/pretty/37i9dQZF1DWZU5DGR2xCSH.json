@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1126265,
+  "num_followers": 1126219,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
       },
       "artists": [
         {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 398222,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
+      "duration_ms": 195573,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/1im6qBIKkKI74toy5Htaur"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Obras Cumbres",
-        "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Los Viejos Vinagres",
-      "url": "https://open.spotify.com/track/1im6qBIKkKI74toy5Htaur"
+      "duration_ms": 398222,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

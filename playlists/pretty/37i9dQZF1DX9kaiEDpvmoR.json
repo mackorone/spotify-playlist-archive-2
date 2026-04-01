@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93846,
+  "num_followers": 93844,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 198796,
+      "name": "Sagolik",
+      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 181440,
       "name": "Glasshouse",
       "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 198796,
-      "name": "Sagolik",
-      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -439,18 +439,18 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+        "name": "Face The Unknown",
+        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
       },
       "artists": [
         {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+      "duration_ms": 210416,
+      "name": "Face The Unknown",
+      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "Face The Unknown",
-        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
         }
       ],
-      "duration_ms": 210416,
-      "name": "Face The Unknown",
-      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
-    },
-    {
-      "added_at": "2026-03-26 23:00:19",
-      "album": {
         "name": "Gullmar Gospel",
         "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 272575,
       "name": "Gullmar Gospel",
       "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
+    },
+    {
+      "added_at": "2026-03-26 23:00:19",
+      "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2026-03-26 23:00:19",
@@ -647,8 +647,8 @@
     {
       "added_at": "2026-03-26 23:00:19",
       "album": {
-        "name": "In Your Grace",
-        "url": "https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 327480,
-      "name": "In Your Grace",
-      "url": "https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx"
+      "duration_ms": 190584,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
     },
     {
       "added_at": "2026-03-26 23:00:19",

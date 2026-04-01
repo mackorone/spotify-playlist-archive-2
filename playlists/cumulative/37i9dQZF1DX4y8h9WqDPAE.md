@@ -4,7 +4,7 @@
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Wale
 
-1,242 songs - 2 day 16 hr 17 min
+1,243 songs - 2 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,7 +977,7 @@
 | [So Much Sense](https://open.spotify.com/track/1B097Fd1NEbI1QfPzI9a0G) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 2:48 | 2025-07-25 | 2026-02-21 |
 | [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 | 2023-03-03 | 2023-03-18 |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-07-01 |
-| [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 | 2026-01-23 |  |
+| [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 | 2026-01-23 | 2026-04-01 |
 | [Soft Girl Era](https://open.spotify.com/track/1Jk072eWqMwDQwvI7R8fff) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Soft Girl Era](https://open.spotify.com/album/5jBlZoU6wTgDDsNyr8PZwO) | 3:06 | 2025-03-28 | 2025-07-19 |
 | [Soft Spot](https://open.spotify.com/track/6aYEwkZlOr8MREZR0Mu9md) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/2pCt0prKaMAcwNljIZezCJ) | 4:22 | 2023-09-08 | 2023-09-23 |
 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 | 2024-12-06 | 2025-06-07 |
@@ -1084,6 +1084,7 @@
 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 | 2026-02-01 |  |
 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 | 2023-04-28 | 2023-12-02 |
 | [thing u do](https://open.spotify.com/track/5lib0mrfrKl6yqxKTSP2Gc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 4:05 | 2024-04-05 | 2024-09-21 |
+| [this girl wants everything](https://open.spotify.com/track/1HTT4w6QtSmIw1Xkeieqe9) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [this girl wants everything](https://open.spotify.com/album/621lV9XJCaTYbnZKQtkCYb) | 3:33 | 2026-03-27 |  |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-03 | 2023-09-23 |
 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 | 2025-08-01 | 2025-09-07 |
 | [this!](https://open.spotify.com/track/0TpZlEJiAgYGCLIQSCNiSL) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po) | 3:04 | 2024-06-28 | 2025-05-10 |

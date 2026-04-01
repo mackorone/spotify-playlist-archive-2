@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Fcukers✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,781 likes - 208 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,777 likes - 208 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

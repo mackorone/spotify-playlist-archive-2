@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,583 likes - 72 songs - 3 hr 52 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,583 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,8 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 70 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
 | 71 | [Rage](https://open.spotify.com/track/4WAWPLY7EBPmtjg4X4X1HD) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Rage](https://open.spotify.com/album/2tmHGkMjCXggqKE2XvoC6I) | 3:13 |
 | 72 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |
+| 73 | [Buffalo 66](https://open.spotify.com/track/2z0kgKZro0Ul8DtORoGoGe) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/3fES6NnJmf7xuDnCEH2foO) | 4:27 |
+| 74 | [Rabbits Can Swim](https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Rabbits Can Swim](https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n) | 4:13 |
+| 75 | [Sideways \(feat\. Coco Jones\)](https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 3:55 |
 
-Snapshot ID: `AAAH1UZzov+aqJ8whLi6ms+Um9mTu6sl`
+Snapshot ID: `AAAH2GQ/9NLEnnH/w7gio27B7rYkY1KC`

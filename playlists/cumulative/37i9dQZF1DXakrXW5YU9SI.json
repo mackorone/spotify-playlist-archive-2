@@ -13583,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "Tak ma by\u0107",
+        "url": "https://open.spotify.com/album/3SbTCoBrCfFQOKuiAgP7yQ"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285164,
+      "name": "Tak ma by\u0107",
+      "url": "https://open.spotify.com/track/2dMyKIP1j1IFt84XFt0Cno"
+    },
+    {
+      "album": {
         "name": "Siniaki i cekiny ci\u0105g dalszy",
         "url": "https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1"
       },
@@ -14486,7 +14504,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 223333,
       "name": "To nie m\u00f3j dzie\u0144",
       "url": "https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg"

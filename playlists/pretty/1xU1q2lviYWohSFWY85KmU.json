@@ -6,8 +6,112 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHB0TGyfZi1R+gH2SFn23UkW8oQtDw",
+  "snapshot_id": "AAAHF+GgRhPtbM0jWyYBLDhUH0JW9CYb",
   "tracks": [
+    {
+      "added_at": "2026-03-31 07:48:31",
+      "album": {
+        "name": "\u3053\u305f\u3048\u3066",
+        "url": "https://open.spotify.com/album/0RkdPYlDEqJZQ7JDTEcplF"
+      },
+      "artists": [
+        {
+          "name": "imie",
+          "url": "https://open.spotify.com/artist/6rSwyi7JxgruDv7qBcHupi"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 252667,
+      "name": "\u3053\u305f\u3048\u3066 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
+      "url": "https://open.spotify.com/track/3lca3oPJceoWwcRgT0OpPv"
+    },
+    {
+      "added_at": "2026-03-31 07:49:02",
+      "album": {
+        "name": "Miku-sture",
+        "url": "https://open.spotify.com/album/2BR7l8FLRe1yieVbveXGXL"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u6728\u30ab\u30ec\u30ad",
+          "url": "https://open.spotify.com/artist/23VSPVWfZJ8RuMKD0wiHaj"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 162438,
+      "name": "\u5168\u90e8\u58ca\u3057\u3061\u3083\u3048\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/5FxDWbZgSGLRFRkkMNmmGy"
+    },
+    {
+      "added_at": "2026-03-31 07:49:15",
+      "album": {
+        "name": "\u30aa\u30fc\u30eb\u30e6\u30fc\u30cb\u30fc\u30c9\u30a4\u30ba\u30aa\u30fc\u30c7\u30a3\u30ca\u30ea\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/1vPsWjbqiCxxMpRuBdWYsR"
+      },
+      "artists": [
+        {
+          "name": "TOKOTOKO",
+          "url": "https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "\u30aa\u30fc\u30eb\u30e6\u30fc\u30cb\u30fc\u30c9\u30a4\u30ba\u30aa\u30fc\u30c7\u30a3\u30ca\u30ea\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/28BbDaRvVIleHJfdaYNphR"
+    },
+    {
+      "added_at": "2026-03-31 07:49:29",
+      "album": {
+        "name": "\u4e00\u5104\u5e74\u604b\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/5DdGkMRvdtWvYTR1sROBJg"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u306e\u3046\u3064\u306fSA",
+          "url": "https://open.spotify.com/artist/2Zii5BFEZYyQzexIXWgUbs"
+        },
+        {
+          "name": "\u3064\u3044\u306a\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/3vPcT3CImfoL2ix3MbcsZ2"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "\u4e00\u5104\u5e74\u604b\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/30lpFMtGZ94BnuUqkHYCSD"
+    },
+    {
+      "added_at": "2026-03-31 07:49:43",
+      "album": {
+        "name": "\u4e16\u754c\u6700\u5f8c\u306e\u97f3\u697d\u968a",
+        "url": "https://open.spotify.com/album/307NvqZ16waH7UB9LKnhIX"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5c71\u3088\u3064\u304e",
+          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
+        },
+        {
+          "name": "\u3069~\u3071\u307f\u3093",
+          "url": "https://open.spotify.com/artist/0RquwXNEyrEvmC1hhkiyj6"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "\u4e16\u754c\u6700\u5f8c\u306e\u97f3\u697d\u968a (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6Dj3KclYAVISnNSrprlnvS"
+    },
     {
       "added_at": "2026-03-17 08:02:32",
       "album": {
@@ -699,106 +803,6 @@
       "duration_ms": 265000,
       "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7szhYsCx1lqZ7p3mCqqGYq"
-    },
-    {
-      "added_at": "2026-01-27 07:57:12",
-      "album": {
-        "name": "\u5927\u8ca7\u6c11",
-        "url": "https://open.spotify.com/album/2FSMm5oC3QjM9VyFof3u6C"
-      },
-      "artists": [
-        {
-          "name": "\u30d2\u30ed\u30e2\u30c8 \u30d2\u30e9\u30a4\u30b7\u30f3",
-          "url": "https://open.spotify.com/artist/1LkJol7BsMqy9OPQTPuUbD"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 242853,
-      "name": "\u5927\u8ca7\u6c11 (feat. \u91cd\u97f3\u30c6\u30c8SV)",
-      "url": "https://open.spotify.com/track/3NWJGKJA3A5QjzXksdP88g"
-    },
-    {
-      "added_at": "2026-01-27 07:57:31",
-      "album": {
-        "name": "DEcorAtion boX",
-        "url": "https://open.spotify.com/album/1QPXz7wVLOqTCLqBzYm4Yp"
-      },
-      "artists": [
-        {
-          "name": "\u30e1\u30c9\u30df\u30a2",
-          "url": "https://open.spotify.com/artist/1o2y1QAdMMp0qLp6m267KP"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "\u76ee\u7dda\u3082\u304f\u3060\u3055\u3044\u304a\u59eb\u69d8\uff01",
-      "url": "https://open.spotify.com/track/0Dql3OBrwPr8R9Tu9qbONP"
-    },
-    {
-      "added_at": "2026-01-27 07:58:02",
-      "album": {
-        "name": "\u5927\u4eba\u306b\u306a\u308b\u3053\u3068\u306f\u7d42\u308f\u308a\u3067\u306f\u306a\u3044",
-        "url": "https://open.spotify.com/album/3CGIqDkoY9C7wLdeWs1ko5"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
-          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        }
-      ],
-      "duration_ms": 192635,
-      "name": "\u5927\u4eba\u306b\u306a\u308b\u3053\u3068\u306f\u7d42\u308f\u308a\u3067\u306f\u306a\u3044 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/6H9X8bDMOru1W4izgVMahG"
-    },
-    {
-      "added_at": "2026-01-27 07:58:16",
-      "album": {
-        "name": "Evanescent",
-        "url": "https://open.spotify.com/album/0okwPc8KUnt25Z7gMC95nq"
-      },
-      "artists": [
-        {
-          "name": "Lucevitous",
-          "url": "https://open.spotify.com/artist/2zMppC7MK20J3LX5lwQNvo"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Evanescent (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u304c\u304f\u3063\u307d\u3044\u3069)",
-      "url": "https://open.spotify.com/track/0XBlpYmuLYZPs9UrNd1S08"
-    },
-    {
-      "added_at": "2026-01-27 07:58:29",
-      "album": {
-        "name": "\u30ad\u30fc\u30d7\u30a2\u30a6\u30c8",
-        "url": "https://open.spotify.com/album/31bdi9yzlaEbSLbxegSQ5i"
-      },
-      "artists": [
-        {
-          "name": "\u6cb9\u6027",
-          "url": "https://open.spotify.com/artist/0AxUCpQCsjgVZaMOcsgbcj"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 203550,
-      "name": "\u30ad\u30fc\u30d7\u30a2\u30a6\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/01CGF3QSbWv1vq49RKoREV"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

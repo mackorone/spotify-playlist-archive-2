@@ -4,7 +4,7 @@
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-287 songs - 16 hr 37 min
+288 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [LA LUNA \- En Vivo Estadio Delmi](https://open.spotify.com/track/479OJeeg9SHxiVxEW4WaN9) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [LA LUNA \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/1nxsK5uDGMfrQHIURyx0Qn) | 5:35 | 2025-02-28 |  |
 | [La López Pereira](https://open.spotify.com/track/2DeqxMwUvnrzmSznRnCICh) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Folklore argentino](https://open.spotify.com/album/0JeMoZFYDaXQbLRALuByvr) | 4:04 | 2021-07-23 |  |
 | [La Malvada](https://open.spotify.com/track/1slQGKMnJZdwYwDsVSWtb3) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Malvada](https://open.spotify.com/album/1gwhRoMByDMJhRKYMvjG0P) | 2:56 | 2021-07-23 | 2024-11-26 |
+| [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2026-03-31 |  |
 | [La Nochera](https://open.spotify.com/track/3cMzShrqtSRaEbdTP8nWl9) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:40 | 2024-05-03 | 2024-11-14 |
 | [La Olvidada](https://open.spotify.com/track/6yllGuh3Tsh4LiKMO17tgU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Veinte Exitos del Zorzal Chacosalteño](https://open.spotify.com/album/5eU8Ip7TXFT1SJ3CpPyiaQ) | 3:02 | 2021-07-23 | 2024-11-26 |
 | [La olvidada](https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune 18 temas](https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k) | 2:13 | 2021-07-23 | 2025-08-05 |
@@ -206,7 +207,7 @@
 | [Mi Última Carta](https://open.spotify.com/track/43WqH65SJnBZThYmkQ7qzE) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Mi Última Carta](https://open.spotify.com/album/11O74gRggmfrtEYoNAem0U) | 3:05 | 2024-07-12 | 2024-10-12 |
 | [Milonga Del Solitario](https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Guitarra, Dímelo Tu](https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx) | 4:14 | 2022-02-21 | 2024-11-12 |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/1qCfOZFOcZCHF6d3wxIHgS) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Ni Una Sola Palabra](https://open.spotify.com/album/19RFziCPrvqOvLQmdxdS8x) | 3:30 | 2026-01-23 |  |
-| [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 | 2025-09-26 |  |
+| [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 | 2025-09-26 | 2026-04-01 |
 | [No saber de ti](https://open.spotify.com/track/2b0UgHgZIz8rDEZLI1P7ob) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [No saber de ti](https://open.spotify.com/album/4oa60ZayATHVLj8cCJxbik) | 4:46 | 2025-04-25 |  |
 | [No Te Puedo Olvidar](https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Grandes Del Folklore](https://open.spotify.com/album/10sMUx7o8wqKvctxvatyi3) | 3:01 | 2021-07-23 | 2024-11-14 |
 | [No Te Puedo Olvidar](https://open.spotify.com/track/79hua0r80o37LqICjNIY85) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Ando Cantándole al Viento y No Sólo por Cantar ...](https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm) | 3:02 | 2022-02-21 | 2024-04-19 |

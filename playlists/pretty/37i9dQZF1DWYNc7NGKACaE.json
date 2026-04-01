@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83773,
+  "num_followers": 83778,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,26 @@
       "duration_ms": 139807,
       "name": "Si No Est\u00e1s - Sped Up",
       "url": "https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
+        "url": "https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs"
+      },
+      "artists": [
+        {
+          "name": "MC Teuzin PV",
+          "url": "https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ"
+        },
+        {
+          "name": "MC Skcot",
+          "url": "https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb"
+        }
+      ],
+      "duration_ms": 115807,
+      "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
+      "url": "https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -55,26 +75,6 @@
       "duration_ms": 130254,
       "name": "Ultimamente Speed",
       "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
-        "url": "https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs"
-      },
-      "artists": [
-        {
-          "name": "MC Teuzin PV",
-          "url": "https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ"
-        },
-        {
-          "name": "MC Skcot",
-          "url": "https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb"
-        }
-      ],
-      "duration_ms": 115807,
-      "name": "Faz Striptease (Vers\u00e3o Tik Tok)",
-      "url": "https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Kill Bill - Speed",
-        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
-      },
-      "artists": [
-        {
-          "name": "Cabrxlzin",
-          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 88068,
-      "name": "Kill Bill - Speed",
-      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Virgulado",
         "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Kill Bill - Speed",
+        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
+      },
+      "artists": [
+        {
+          "name": "Cabrxlzin",
+          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 88068,
+      "name": "Kill Bill - Speed",
+      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
     },
     {
       "added_at": "2024-07-08 19:10:57",

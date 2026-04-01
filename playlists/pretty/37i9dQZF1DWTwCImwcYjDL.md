@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,042 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,039 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 4 | [Beautiful Places](https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Beautiful Places](https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi) | 2:59 |
 | 5 | [Rave Kid](https://open.spotify.com/track/6KZsffg6OXQPOXOIszb5HK) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Kid](https://open.spotify.com/album/4bmleREWHhjbxCviUJ6F12) | 3:24 |
 | 6 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 |
-| 7 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
+| 7 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 8 | [Missing You](https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Missing You](https://open.spotify.com/album/6LYLOQazeVSk4nkh1ekbdp) | 3:06 |
 | 9 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
 | 10 | [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 |

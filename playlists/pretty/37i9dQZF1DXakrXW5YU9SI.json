@@ -1,6 +1,6 @@
 {
   "description": "B\u0142ogie d\u017awi\u0119ki na powitanie s\u0142onecznych dni \ud83c\udf37",
-  "num_followers": 342095,
+  "num_followers": 342082,
   "original_name": "Wiosenny chill",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-03-27 09:34:58",
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 377003,
+      "name": "I Know You're Hurting.",
+      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+    },
+    {
+      "added_at": "2026-03-27 09:34:58",
+      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
-    },
-    {
-      "added_at": "2026-03-27 09:34:58",
-      "album": {
-        "name": "How I Get",
-        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "How I Get",
-      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "added_at": "2026-03-27 09:34:58",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-03-27 09:34:58",
       "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 377003,
-      "name": "I Know You're Hurting.",
-      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "added_at": "2026-03-27 09:34:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-27 09:34:58",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8"
-    },
-    {
-      "added_at": "2026-03-27 09:34:58",
-      "album": {
         "name": "HADES",
         "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 196371,
       "name": "UNCANNY VALLEY",
       "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
+    },
+    {
+      "added_at": "2026-03-27 09:34:58",
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8"
     },
     {
       "added_at": "2026-03-27 09:34:58",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-03-27 09:34:58",
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 251861,
+      "name": "Echo From The Flames",
+      "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
+    },
+    {
+      "added_at": "2026-03-27 09:34:58",
+      "album": {
         "name": "Trzy razy bardziej",
         "url": "https://open.spotify.com/album/3HEVadnUPopLxU5O0Mhdbl"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 149210,
       "name": "Trzy razy bardziej",
       "url": "https://open.spotify.com/track/6tYIWwVAC9xTnG9RaO7hG5"
-    },
-    {
-      "added_at": "2026-03-27 09:34:58",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 251861,
-      "name": "Echo From The Flames",
-      "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
     },
     {
       "added_at": "2026-03-27 09:34:58",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
     },
     {
+      "added_at": "2026-03-27 09:48:22",
+      "album": {
+        "name": "ILU NAS JEST",
+        "url": "https://open.spotify.com/album/2spGZawF0CXXIlckgPsbS9"
+      },
+      "artists": [
+        {
+          "name": "Grubson",
+          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
+        }
+      ],
+      "duration_ms": 182716,
+      "name": "ILU NAS JEST",
+      "url": "https://open.spotify.com/track/1Oe9VmxzM7ErbPq8PrSKxV"
+    },
+    {
       "added_at": "2026-03-27 09:34:58",
       "album": {
         "name": "paint me like one of your fav american girls",
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2026-03-27 09:34:58",
       "album": {
+        "name": "Tak ma by\u0107",
+        "url": "https://open.spotify.com/album/3SbTCoBrCfFQOKuiAgP7yQ"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 285164,
+      "name": "Tak ma by\u0107",
+      "url": "https://open.spotify.com/track/2dMyKIP1j1IFt84XFt0Cno"
+    },
+    {
+      "added_at": "2026-03-27 09:34:58",
+      "album": {
         "name": "Zakr\u0119ty",
         "url": "https://open.spotify.com/album/483zNSprSHlPgrz7PNsxD9"
       },
@@ -1075,38 +1107,6 @@
       "duration_ms": 203936,
       "name": "W snach",
       "url": "https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk"
-    },
-    {
-      "added_at": "2026-03-27 09:48:22",
-      "album": {
-        "name": "ILU NAS JEST",
-        "url": "https://open.spotify.com/album/2spGZawF0CXXIlckgPsbS9"
-      },
-      "artists": [
-        {
-          "name": "Grubson",
-          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
-        }
-      ],
-      "duration_ms": 182716,
-      "name": "ILU NAS JEST",
-      "url": "https://open.spotify.com/track/1Oe9VmxzM7ErbPq8PrSKxV"
-    },
-    {
-      "added_at": "2026-03-27 09:34:58",
-      "album": {
-        "name": "To nie m\u00f3j dzie\u0144",
-        "url": "https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "To nie m\u00f3j dzie\u0144",
-      "url": "https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg"
     }
   ],
   "unique_name": "Wiosenny chill",

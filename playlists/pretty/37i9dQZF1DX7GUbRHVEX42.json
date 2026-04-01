@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Tessellated",
-  "num_followers": 1104691,
+  "num_followers": 1104619,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-02-20 11:25:43",
       "album": {
-        "name": "Til A Mawnin (feat. Sting)",
-        "url": "https://open.spotify.com/album/3cl3ypsAyDFKiXzrVwhjIe"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 207878,
-      "name": "Til A Mawnin (feat. Sting)",
-      "url": "https://open.spotify.com/track/6A5NpmHIyU2WJ2nwgEhJrv"
-    },
-    {
-      "added_at": "2026-02-20 11:25:43",
-      "album": {
         "name": "The Kalling",
         "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 213977,
       "name": "The Kalling",
       "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
+    },
+    {
+      "added_at": "2026-02-20 11:25:43",
+      "album": {
+        "name": "Til A Mawnin (feat. Sting)",
+        "url": "https://open.spotify.com/album/3cl3ypsAyDFKiXzrVwhjIe"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 207878,
+      "name": "Til A Mawnin (feat. Sting)",
+      "url": "https://open.spotify.com/track/6A5NpmHIyU2WJ2nwgEhJrv"
     },
     {
       "added_at": "2026-02-20 11:25:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-02-20 11:25:43",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 264965,
-      "name": "Good Over Evil",
-      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
-    },
-    {
-      "added_at": "2026-02-20 11:25:43",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/5H8lZKP8gKPxdLVYDCXZmO"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 188570,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0qVi78o4X4gi3jHpDaLhED"
+    },
+    {
+      "added_at": "2026-02-20 11:25:43",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 264965,
+      "name": "Good Over Evil",
+      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
     },
     {
       "added_at": "2026-02-20 11:25:43",

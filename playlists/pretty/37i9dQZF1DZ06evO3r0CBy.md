@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,500 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,505 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 5 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
 | 6 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
 | 7 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 |
-| 8 | [Sugar Man](https://open.spotify.com/track/6ZSaR6SkzKNuBvU1bRziYA) | [SA for Sugar Man](https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka), [Ross Learmonth](https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd), [Sandra Rodriguez](https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb), [Marc Skarda](https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye), [Mark Beling](https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX), [Graham Gillot](https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD), [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [For Rodriguez](https://open.spotify.com/album/2E2KQbNjw96S8Wf8pNXOzJ) | 4:01 |
+| 8 | [Sugar Man](https://open.spotify.com/track/6ZSaR6SkzKNuBvU1bRziYA) | [SA for Sugar Man](https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka), [Ross Learmonth](https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd), [Sandra Rodriguez](https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb), [Marc Skarda](https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye), [Mark Beling](https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX), [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF), [Graham Gillot Band](https://open.spotify.com/artist/2T0GPk6Gv4b4pJS4Q9ChrK) | [For Rodriguez](https://open.spotify.com/album/2E2KQbNjw96S8Wf8pNXOzJ) | 4:01 |
 | 9 | [Sugar Man](https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:49 |
 | 10 | [Climb Up On My Music](https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 4:54 |
 | 11 | [Street Boy](https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:47 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 22 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
 | 23 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 
-Snapshot ID: `achrgAAAAABzPH8vmZgDPi5qgbDFwoOa`
+Snapshot ID: `acm9AAAAAAAxKlvhyuvWnkXi2e+D5bSS`

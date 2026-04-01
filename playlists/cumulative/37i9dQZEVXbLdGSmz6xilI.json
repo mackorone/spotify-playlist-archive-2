@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 245750,
       "name": "Anh \u0110\u00e3 Kh\u00f4ng Bi\u1ebft C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/1hPbWyZnUPaeAWbOSKwkXJ"
@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 214158,
       "name": "CH\u1edc ANH V\u1ec0",
       "url": "https://open.spotify.com/track/7dlgEjrK3lHbP786dshKDV"
@@ -6106,7 +6106,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 174000,
       "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
       "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
@@ -9690,7 +9690,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/58ZlEBxBrzISXtmcOPo476"
@@ -10760,7 +10760,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -10840,6 +10840,24 @@
       "duration_ms": 204137,
       "name": "ho\u00e1 ra\u2026",
       "url": "https://open.spotify.com/track/06Jxxbxy5xMPI2M74t7xBa"
+    },
+    {
+      "album": {
+        "name": "\u00c1NH S\u00c1NG \u2022 M\u00c0N \u0110\u00caM (side A)",
+        "url": "https://open.spotify.com/album/4w6hrJBHXEpFvKg6bwyzSi"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "ho\u00e1 ra\u2026",
+      "url": "https://open.spotify.com/track/42AOwjuMmIN1ioyyWB60Lw"
     },
     {
       "album": {
@@ -13038,7 +13056,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -17952,7 +17970,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -18006,7 +18024,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -18458,7 +18476,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 260488,
       "name": "N\u1ebfu Nh\u1eefng Ti\u1ebfc Nu\u1ed1i",
       "url": "https://open.spotify.com/track/2dPJtlvoa3GDowCh035M8P"
@@ -25316,7 +25334,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/2DrLqMSO89napGpafkcvM4"
@@ -25950,7 +25968,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 225882,
       "name": "T\u1eebng Ng\u00e0y Y\u00eau Em",
       "url": "https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB"
@@ -27935,6 +27953,24 @@
     },
     {
       "album": {
+        "name": "\u00c1NH S\u00c1NG \u2022 M\u00c0N \u0110\u00caM (side A)",
+        "url": "https://open.spotify.com/album/4w6hrJBHXEpFvKg6bwyzSi"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160897,
+      "name": "y\u00eau em nh\u01b0\u2026",
+      "url": "https://open.spotify.com/track/1FUdEz4fX1DxPcVAARlu6A"
+    },
+    {
+      "album": {
         "name": "Y\u00eau M\u1ed9t Ng\u01b0\u1eddi C\u00f3 L\u1ebd",
         "url": "https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb"
       },
@@ -28616,7 +28652,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 261105,
       "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW"
@@ -28706,6 +28742,28 @@
       "duration_ms": 267272,
       "name": "\u0110\u00f4i Mi Em \u0110ang U S\u1ea7u",
       "url": "https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4"
+    },
+    {
+      "album": {
+        "name": "\u00c1NH S\u00c1NG \u2022 M\u00c0N \u0110\u00caM (side A)",
+        "url": "https://open.spotify.com/album/4w6hrJBHXEpFvKg6bwyzSi"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198145,
+      "name": "\u0111\u00f4i m\u1eaft k\u1ebb t\u00ecnh si",
+      "url": "https://open.spotify.com/track/3vSmjbKFByNM6l31NmFlmB"
     },
     {
       "album": {

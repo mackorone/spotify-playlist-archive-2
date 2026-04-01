@@ -5533,6 +5533,28 @@
     },
     {
       "album": {
+        "name": "Day Dreaming",
+        "url": "https://open.spotify.com/album/1rog0DwuVSc5KkZXmfNWpK"
+      },
+      "artists": [
+        {
+          "name": "Robyn Sandhu",
+          "url": "https://open.spotify.com/artist/5qriOnlHCVSvIteHpsgV2o"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/0IleklZg4xcQ0QIg2XTmEv"
+    },
+    {
+      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -6400,7 +6422,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 152448,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/7i7y0CQd6RVdiT7a6WoMpa"
@@ -7318,7 +7340,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 149604,
       "name": "Fielding",
       "url": "https://open.spotify.com/track/5vKNkrH1UeGN1kWIlWmJ3p"
@@ -10046,7 +10068,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 140000,
       "name": "HUMANDOGS",
       "url": "https://open.spotify.com/track/6O6afGqxxJhPcw2ySDEFhd"
@@ -10146,10 +10168,32 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 167944,
       "name": "HUNT",
       "url": "https://open.spotify.com/track/2QBGmcVhHvHK0Sxd0JsrRM"
+    },
+    {
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/12OWJdONMVdH5oPRm392ma"
+      },
+      "artists": [
+        {
+          "name": "Rawaab Del Rey",
+          "url": "https://open.spotify.com/artist/7BVIb0pTD1r8tEZfU5mNKD"
+        },
+        {
+          "name": "Jee Pro Beats",
+          "url": "https://open.spotify.com/artist/05hXkdZe2i2rwXjnHsgChz"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174269,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/4fiYAkEowoEX9Z9OuK89oe"
     },
     {
       "album": {
@@ -10784,6 +10828,28 @@
       "duration_ms": 157297,
       "name": "It's Beginning",
       "url": "https://open.spotify.com/track/0DVOAOs91N9IzQqs4k5Qsc"
+    },
+    {
+      "album": {
+        "name": "It's Beginning",
+        "url": "https://open.spotify.com/album/5lrP54xR6FBcZSRVDU295E"
+      },
+      "artists": [
+        {
+          "name": "Deep Money",
+          "url": "https://open.spotify.com/artist/6t6D6drTfOF08Jp4w9wY2J"
+        },
+        {
+          "name": "Muzik Amy",
+          "url": "https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "It's Beginning",
+      "url": "https://open.spotify.com/track/3BkSN76PwzRpOyYZgGt5zt"
     },
     {
       "album": {
@@ -12300,7 +12366,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 157996,
       "name": "LET EM KNOW",
       "url": "https://open.spotify.com/track/4nkjSNHvZPzPIwVUBsUfpp"
@@ -13218,7 +13284,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 145837,
       "name": "Makaveli",
       "url": "https://open.spotify.com/track/42kETwBjSEnCAG5mJ4hyuq"
@@ -15723,6 +15789,32 @@
     },
     {
       "album": {
+        "name": "ONE DAY",
+        "url": "https://open.spotify.com/album/4TJ73xgSQ8g5fBIbOXiicD"
+      },
+      "artists": [
+        {
+          "name": "Asim Riaz",
+          "url": "https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V"
+        },
+        {
+          "name": "Jaan",
+          "url": "https://open.spotify.com/artist/2PdYbaAmRftmCLbaiEqI2h"
+        },
+        {
+          "name": "Shera Dhaliwal",
+          "url": "https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144220,
+      "name": "ONE DAY",
+      "url": "https://open.spotify.com/track/1T0leYjd3KhvpgjUmbg5zw"
+    },
+    {
+      "album": {
         "name": "Never Too Late",
         "url": "https://open.spotify.com/album/1QIfOmEfvFxvOah9PlrJ0I"
       },
@@ -15940,6 +16032,24 @@
       "duration_ms": 162000,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0giTvelU5V0NgTCIPXmCFb"
+    },
+    {
+      "album": {
+        "name": "Out of Hibernation",
+        "url": "https://open.spotify.com/album/7zqPtZGJ8wNfVpYrA0c50Q"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pareek",
+          "url": "https://open.spotify.com/artist/57xkRsZVDwA8zRxrh4fQ4j"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173679,
+      "name": "Out of Hibernation",
+      "url": "https://open.spotify.com/track/2LQKR9k41NOFLdgiX8ZV1R"
     },
     {
       "album": {
@@ -16764,7 +16874,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 139350,
       "name": "Puff",
       "url": "https://open.spotify.com/track/26lBKwkwv7kASiNp2yi3j8"
@@ -17368,7 +17478,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 197093,
       "name": "REBELLIOUS",
       "url": "https://open.spotify.com/track/7GlI10cd8TH4XjhKOIKQOb"
@@ -17556,6 +17666,28 @@
       "duration_ms": 172000,
       "name": "Reshami Rumal",
       "url": "https://open.spotify.com/track/1hl4SS4AirxcDk7DAjFKQX"
+    },
+    {
+      "album": {
+        "name": "REVOLUTION",
+        "url": "https://open.spotify.com/album/5I0QNxgotgIQ473S1EHQ0l"
+      },
+      "artists": [
+        {
+          "name": "ELLSD",
+          "url": "https://open.spotify.com/artist/6J1HFvOdrP1INFuKgoPyqz"
+        },
+        {
+          "name": "KAABIR Music",
+          "url": "https://open.spotify.com/artist/2Lde58T9iPkn9Fyvdg7mSk"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5jS1XRrY2xQ5EgnARqEhyT"
     },
     {
       "album": {
@@ -19301,6 +19433,32 @@
     },
     {
       "album": {
+        "name": "SOMEONE",
+        "url": "https://open.spotify.com/album/1bNFvPcWfV5sOsR18z1NH8"
+      },
+      "artists": [
+        {
+          "name": "themomin",
+          "url": "https://open.spotify.com/artist/2Phm5uRj7V5taRrxWHeVtO"
+        },
+        {
+          "name": "Mr. Dil",
+          "url": "https://open.spotify.com/artist/1ju6IR7I87DU92mPF6km66"
+        },
+        {
+          "name": "The Soyal Khan",
+          "url": "https://open.spotify.com/artist/4IldIemGlhgXTEPpkv8For"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206718,
+      "name": "SOMEONE",
+      "url": "https://open.spotify.com/track/2tVhcRWaDhn5Q7LyFugtbo"
+    },
+    {
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/0p1aSrmXyJ6jDkN1H9VGI1"
       },
@@ -20330,6 +20488,32 @@
       "duration_ms": 126315,
       "name": "Target",
       "url": "https://open.spotify.com/track/7iBJGUKzu81s7CkPw4T8HD"
+    },
+    {
+      "album": {
+        "name": "ONE DAY",
+        "url": "https://open.spotify.com/album/4TJ73xgSQ8g5fBIbOXiicD"
+      },
+      "artists": [
+        {
+          "name": "Asim Riaz",
+          "url": "https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V"
+        },
+        {
+          "name": "Jaan",
+          "url": "https://open.spotify.com/artist/2PdYbaAmRftmCLbaiEqI2h"
+        },
+        {
+          "name": "Shera Dhaliwal",
+          "url": "https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "TEAR DROP",
+      "url": "https://open.spotify.com/track/7MqATMTRjiG679WDSaesa2"
     },
     {
       "album": {

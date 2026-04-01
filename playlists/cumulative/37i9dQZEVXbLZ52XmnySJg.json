@@ -5848,7 +5848,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 110125,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
@@ -10198,7 +10198,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 208169,
       "name": "Hum Pyaar Karne Wale",
       "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
@@ -16056,12 +16056,12 @@
       },
       "artists": [
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
           "name": "Shashwat Sachdev",
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         },
         {
           "name": "Reble",
@@ -16070,7 +16070,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 210267,
       "name": "Main Aur Tu",
       "url": "https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q"
@@ -16096,7 +16096,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 210267,
       "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/6cYWjvAPGJrb6ZOJn1URn2"
@@ -16816,7 +16816,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
@@ -28654,6 +28654,36 @@
       "duration_ms": 140714,
       "name": "Vaar",
       "url": "https://open.spotify.com/track/3GUKdxhGCMLRO6Cey7V2Dk"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249047,
+      "name": "Vaari Jaavan",
+      "url": "https://open.spotify.com/track/1I7yw0J5KpUaWhdBviGlON"
     },
     {
       "album": {

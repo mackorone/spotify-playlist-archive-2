@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 849,
+  "num_followers": 854,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFk4mm5Y/w0+bhvy7CY5Jqtbd3h48A",
+  "snapshot_id": "AAAFlyhknxsfAliS4k0+T6KWAC3mFINW",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1679,6 +1679,70 @@
       "duration_ms": 181593,
       "name": "Jane",
       "url": "https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd"
+    },
+    {
+      "added_at": "2026-03-31 15:44:15",
+      "album": {
+        "name": "Scenes Of Doubt",
+        "url": "https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 294360,
+      "name": "Scenes Of Doubt",
+      "url": "https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo"
+    },
+    {
+      "added_at": "2026-03-31 16:15:39",
+      "album": {
+        "name": "Unbreakable Love",
+        "url": "https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs"
+      },
+      "artists": [
+        {
+          "name": "Donkey Shots",
+          "url": "https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Unbreakable Love",
+      "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
+    },
+    {
+      "added_at": "2026-03-31 19:33:21",
+      "album": {
+        "name": "May Cause Addiction",
+        "url": "https://open.spotify.com/album/0PqmnazU9h1RqTNiNcUnUo"
+      },
+      "artists": [
+        {
+          "name": "The Magenta",
+          "url": "https://open.spotify.com/artist/7LSEWrAltP8MRqpYwjrc4s"
+        }
+      ],
+      "duration_ms": 202854,
+      "name": "Mr. Ribley",
+      "url": "https://open.spotify.com/track/0CU3vcom9Miiz1qEUAdEkF"
+    },
+    {
+      "added_at": "2026-03-31 19:36:10",
+      "album": {
+        "name": "Heart Don't Beat No Fear",
+        "url": "https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl"
+      },
+      "artists": [
+        {
+          "name": "Your Friend Death",
+          "url": "https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx"
+        }
+      ],
+      "duration_ms": 188785,
+      "name": "Heart Don't Beat No Fear",
+      "url": "https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM"
     }
   ],
   "unique_name": "Unsigned Rock",

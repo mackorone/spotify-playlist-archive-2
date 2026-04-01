@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from RAYE, RnBoi, HUGEL, Louane and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,600 likes - 117 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,597 likes - 117 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

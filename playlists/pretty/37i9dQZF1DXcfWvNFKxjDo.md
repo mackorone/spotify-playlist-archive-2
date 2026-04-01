@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CH4YN
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,371 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,372 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 59 | [nicht allein](https://open.spotify.com/track/6FKCnA9TSnS8EQAKRBV0m8) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [nicht allein](https://open.spotify.com/album/0HSbKYr2nN9Cw9SWb9rpwR) | 2:34 |
 | 60 | [No Stress \(feat\. 163Margs\)](https://open.spotify.com/track/1sw1JO5em44e2tyPLGFe3M) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [No Stress \(feat\. 163Margs\)](https://open.spotify.com/album/4xl7bLWIwqLDSVnh8zQgaL) | 2:29 |
 | 61 | [You'll Always Find Your Way Back Home](https://open.spotify.com/track/0YX2xlt7wwXS0xnU2bFG0n) | [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [ANVEE](https://open.spotify.com/artist/1G8RTaCyfbl9e4EasQL6gw), [TMBR](https://open.spotify.com/artist/5plpiK7SIq617Sd4WBOaCW) | [You'll Always Find Your Way Back Home](https://open.spotify.com/album/2cwlMby4neJiC8Bwa6mCEh) | 3:36 |
-| 62 | [Keep on Running](https://open.spotify.com/track/0X1qnsBYnwzProGH49Rik3) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Lizabelle](https://open.spotify.com/artist/0JjOT3sZr95xt6sKTSqJ5o) | [Keep on Running](https://open.spotify.com/album/5dMZ3K3MXZQFntdA5RLnaq) | 2:09 |
+| 62 | [Keep on Running](https://open.spotify.com/track/0X1qnsBYnwzProGH49Rik3) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Lizabelle](https://open.spotify.com/artist/2RVfCF4TUJYPVeH7wNeMA1) | [Keep on Running](https://open.spotify.com/album/5dMZ3K3MXZQFntdA5RLnaq) | 2:09 |
 | 63 | [Lose Your Mind](https://open.spotify.com/track/4pgdtymCT9C5hwTkANFt59) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Lose Your Mind](https://open.spotify.com/album/3v3QVRipiSbQNfksfglqLv) | 2:29 |
 | 64 | [Break The Loop](https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Break The Loop](https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7) | 3:46 |
 | 65 | [Drauf Gehn](https://open.spotify.com/track/1oInZfHh2xFY4TF9bD1jUR) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [Drauf Gehn](https://open.spotify.com/album/4YYW9NHriUkre72CiM493C) | 2:31 |

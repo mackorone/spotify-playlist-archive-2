@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
+    },
+    {
+      "album": {
         "name": "For Your Consideration",
         "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
       },
@@ -642,28 +664,6 @@
       "duration_ms": 201733,
       "name": "Kiss Me (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/1ltDjZ5arFZ41ohXF37Yjt"
-    },
-    {
-      "album": {
-        "name": "Kiss Me (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "date_added": "2023-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201733,
-      "name": "Kiss Me (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
     },
     {
       "album": {

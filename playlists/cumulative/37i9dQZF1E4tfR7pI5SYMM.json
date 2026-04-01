@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Locus Noir, AlligatorX, Lockjaw and more",
+  "description": "With Locus Noir, Lockjaw, AlligatorX and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 281024,
       "name": "Der Brandtaucher",
       "url": "https://open.spotify.com/track/38UpY1Y40BUufYoLVLTUE0"
@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Night Whispers",
+        "url": "https://open.spotify.com/album/4zpinCCO5l97oNxHeJoZYr"
+      },
+      "artists": [
+        {
+          "name": "Plasma Driver",
+          "url": "https://open.spotify.com/artist/0T4v1HQ9j57LgOuSppBvK1"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174269,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/4W20hsjRf54J0cM8oNY78A"
+    },
+    {
+      "album": {
         "name": "DOWN IN THE DIRT",
         "url": "https://open.spotify.com/album/1RKioH0VIysXB6LXQ22LK1"
       },
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 244508,
       "name": "Drag Me Under",
       "url": "https://open.spotify.com/track/6dVPnr1wql334QkuGLzJfZ"
@@ -1938,6 +1956,24 @@
       "duration_ms": 269673,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5HCQR5iEOqSL7ksKK896GC"
+    },
+    {
+      "album": {
+        "name": "Drunk Blue Eyes",
+        "url": "https://open.spotify.com/album/3Ghzabj99s9nU8FtA1Gyo8"
+      },
+      "artists": [
+        {
+          "name": "Zeroy Cruciatum",
+          "url": "https://open.spotify.com/artist/0dztNyUklT7HE8OhLG3jrb"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198458,
+      "name": "Drunk Blue Eyes",
+      "url": "https://open.spotify.com/track/2U3Cui7VgS5Qt2FudpVN7z"
     },
     {
       "album": {
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "El Teide",
       "url": "https://open.spotify.com/track/4u4SD3OKFu2u7W6mYAuB8r"
@@ -2258,7 +2294,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 241060,
       "name": "Enough",
       "url": "https://open.spotify.com/track/3UhS1QFeAcVZHDIOTNAdEz"
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 253333,
       "name": "Fade to Grey",
       "url": "https://open.spotify.com/track/7CFVcKhTQ7d7UowkThKQah"
@@ -2824,7 +2860,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -3196,7 +3232,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -4592,7 +4628,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 272732,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3UOVbtjP7Sp5eB6N7Gi973"
@@ -5058,7 +5094,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 211145,
       "name": "My Empire Of Fire - The Fire Trilogy Part II",
       "url": "https://open.spotify.com/track/5aBzAXo3q7DQQ7W1V75SjY"
@@ -5797,6 +5833,24 @@
     },
     {
       "album": {
+        "name": "Zedz MI P\u00e4ty",
+        "url": "https://open.spotify.com/album/7CmtIonq0LiHsvCDDKuh5d"
+      },
+      "artists": [
+        {
+          "name": "Plese\u0148",
+          "url": "https://open.spotify.com/artist/6ZfW4h9FjYyZi79hQ8fMMf"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139410,
+      "name": "Paragraf",
+      "url": "https://open.spotify.com/track/0UngYJ7z9v6ONANGqNZnby"
+    },
+    {
+      "album": {
         "name": "Pardo",
         "url": "https://open.spotify.com/album/0gOsFyb75gCg3kMfDki2qF"
       },
@@ -5902,7 +5956,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -6574,7 +6628,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 228960,
       "name": "Security",
       "url": "https://open.spotify.com/track/5LwTuvI3LKOXhik614TlqS"
@@ -7089,6 +7143,24 @@
     },
     {
       "album": {
+        "name": "Spasm Prayer",
+        "url": "https://open.spotify.com/album/0WU5Z9Jwi2MppQ0d0kTZYJ"
+      },
+      "artists": [
+        {
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Spasm Prayer",
+      "url": "https://open.spotify.com/track/5zH5qcz2LOR6dhKvC0IGj6"
+    },
+    {
+      "album": {
         "name": "Hyenaz!",
         "url": "https://open.spotify.com/album/2ZUV1Xyd2mxao4lclWYEnU"
       },
@@ -7100,7 +7172,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 251586,
       "name": "Speaking In Smoke",
       "url": "https://open.spotify.com/track/1DtjHQOd7iF8LuLn1rja36"
@@ -7172,7 +7244,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
@@ -7782,7 +7854,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 368253,
       "name": "The Great Replacement",
       "url": "https://open.spotify.com/track/6RAcTglUaypJX3WLrRxgbV"
@@ -8223,6 +8295,24 @@
     },
     {
       "album": {
+        "name": "There she goes",
+        "url": "https://open.spotify.com/album/307Lt4U0GQxRHZOB1I3tqd"
+      },
+      "artists": [
+        {
+          "name": "Relieved in Black",
+          "url": "https://open.spotify.com/artist/31QITbd52sbklbUpjOTU45"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "There she goes",
+      "url": "https://open.spotify.com/track/3XAjYWF73gnHcScCpPm7ne"
+    },
+    {
+      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/5MggaTiX0Le89gRoBV1fPA"
       },
@@ -8368,7 +8458,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 190006,
       "name": "To Die And I",
       "url": "https://open.spotify.com/track/1jxbjZSaH6HBD6ld0ycfaI"
@@ -8502,7 +8592,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "TO\u0143",
       "url": "https://open.spotify.com/track/0Q0eVjlRJIFzMkL1NbJawP"
@@ -9248,7 +9338,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"
@@ -9288,7 +9378,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"

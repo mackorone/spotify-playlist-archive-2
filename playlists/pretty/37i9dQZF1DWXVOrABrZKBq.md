@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,733 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,737 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 12 | [Shawty](https://open.spotify.com/track/3nkVSeaL5M6II2uHQHRuYM) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Shawty](https://open.spotify.com/album/1BOcfpzanvhwblouD5Fa3m) | 2:57 |
 | 13 | [BOHÈME](https://open.spotify.com/track/2GObLHNW4Dq1jioI4LCnEG) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [BOHÈME](https://open.spotify.com/album/0wnWO9EOzcUDJp3jYOPjkN) | 3:26 |
 | 14 | [Tranchées](https://open.spotify.com/track/4ojWmrrprVbyVU2zc7lOqf) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Dieu Donne, J'utilise part.2](https://open.spotify.com/album/6vA5LeB2ybi78YZpqhg1yN) | 3:00 |
-| 15 | [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 |
+| 15 | [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [LOU FRE$H](https://open.spotify.com/artist/57uDLvB9OultBUM7mkjzyQ) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 |
 | 16 | [Timide](https://open.spotify.com/track/07VCHR1MatmWTmVSfxB5pe) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Apothicaire](https://open.spotify.com/album/0XGEvmKvqa0l66PiyFyE8p) | 3:50 |
 | 17 | [NINTENDO \(feat\. Cash Crime\)](https://open.spotify.com/track/59mFNcQ4w1ivAexgua99F0) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:21 |
 | 18 | [risk](https://open.spotify.com/track/0BnFZYKfuxHDazunCJ7sXK) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO), [Meech20x50](https://open.spotify.com/artist/6HaK8FDVTViIvrl4CwWzGV) | [risk](https://open.spotify.com/album/2d5oOjmP6kLukYqGhHObIf) | 2:22 |

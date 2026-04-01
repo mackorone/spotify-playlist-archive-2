@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "The Love Album",
+        "url": "https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238440,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3dVTwiTpjWCdtlq9tcsf91"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0zfK1gyZipv83K4v8phlpH"
       },

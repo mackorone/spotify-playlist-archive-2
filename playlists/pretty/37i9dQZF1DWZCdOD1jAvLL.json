@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 270256,
+  "num_followers": 270305,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
         "name": "Through The Pain (feat. Pozer)",
         "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 180520,
       "name": "Through The Pain (feat. Pozer)",
       "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -843,22 +823,22 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Skepta .. Fred",
-        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 225897,
-      "name": "Last 1s Left",
-      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -891,6 +871,26 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "Skepta .. Fred",
+        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 225897,
+      "name": "Last 1s Left",
+      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
+        "name": "Bad & U Know It",
+        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Bad & U Know It",
+      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
         "name": "SPIRAL",
         "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
       },
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Bad & U Know It",
-        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Bad & U Know It",
-      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Mind Dimension (Adam Sellouk Remix)",
         "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 219692,
       "name": "Mind Dimension - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Entwined (feat. Grimes)",
-      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Let It Go (feat. Nevve)",
         "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 238285,
       "name": "Let It Go (feat. Nevve)",
       "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "TECHY MF",
-        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "TECHY MF",
-      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "dollaz n dollaz",
         "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 144826,
       "name": "dollaz n dollaz",
       "url": "https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "TECHY MF",
+        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "TECHY MF",
+      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Stay With The Tempo",
-        "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 214218,
-      "name": "Stay With The Tempo",
-      "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "Stay With The Tempo",
+        "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "Stay With The Tempo",
+      "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
     },
     {
       "added_at": "2026-03-27 04:00:19",

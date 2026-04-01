@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 94 | [Dolce Amore \(feat\. Anica Russo\)](https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Dolce Amore](https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO) | 2:45 |
 | 95 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
 | 96 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
-| 97 | [Santa, If You're There](https://open.spotify.com/track/4NJ5o0tcV32BWQCoc3OpaW) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:03 |
-| 98 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
+| 97 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
+| 98 | [Santa, If You're There](https://open.spotify.com/track/4NJ5o0tcV32BWQCoc3OpaW) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:03 |
 | 99 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
 | 100 | [Weit, weit weg](https://open.spotify.com/track/5vu4A3HVrkf6kJr0Ik5JSt) | [Versengold](https://open.spotify.com/artist/4tGxWZaAkt50t9VZxSxOGZ) | [Nordlicht](https://open.spotify.com/album/7mHYHavA9Jjop81UQ0iZAz) | 3:33 |
 | 101 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 152 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 153 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcNjFAAAAABohnv6ha/6yM2ON9VFedDO`
+Snapshot ID: `AcNoqgAAAAB2eKMUagX6KIUxrYxNdN8h`

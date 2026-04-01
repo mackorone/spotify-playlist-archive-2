@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,292 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,309 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 3 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
 | 4 | [BESTEIRA](https://open.spotify.com/track/0E465IMxrBKROSkIFpiS20) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [VADIAS IN LOVE](https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p) | 3:24 |
 | 5 | [Pente e Rala](https://open.spotify.com/track/0rziLToFoDPVwBWEYt2lIA) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [ayo white](https://open.spotify.com/artist/4QqroK2g4AEB3FEnSjutjU) | [Pente e Rala](https://open.spotify.com/album/0dWVRvAta9n35DTYIvHQh7) | 2:24 |
-| 6 | [QUEIMA A PÓLVORA](https://open.spotify.com/track/0FusygFcimNwceY0k6sDRY) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [QUEIMA A PÓLVORA](https://open.spotify.com/album/4x08ydWgwv4iLflcSdKNqt) | 2:27 |
+| 6 | [QUEIMA A PÓLVORA](https://open.spotify.com/track/0FusygFcimNwceY0k6sDRY) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [QUEIMA A PÓLVORA](https://open.spotify.com/album/4x08ydWgwv4iLflcSdKNqt) | 2:28 |
 | 7 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
 | 8 | [Gabriela](https://open.spotify.com/track/38P7D5dzZ7l5FSnhd7Ld0b) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Gabriela](https://open.spotify.com/album/3jcJYhr956hPIyMf6xx7BW) | 3:22 |
 | 9 | [Perfil \#129 \- Meiga e Singela](https://open.spotify.com/track/2f9ICEXnqkUyTekTiTkGE9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Perfil \#129 \- Meiga e Singela](https://open.spotify.com/album/0ueO84dd0UdhF3Rgs3CDjx) | 2:10 |

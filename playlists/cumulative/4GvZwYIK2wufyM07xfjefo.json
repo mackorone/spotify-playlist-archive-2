@@ -386,7 +386,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 216000,
       "name": "Bottle Ship (feat. Kagamine Rin)",
       "url": "https://open.spotify.com/track/5xmJqSG6I7OXR6Db6rZTL0"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 174000,
       "name": "moon night (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/45QT4yJFpsdFmY1Ids5ooF"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 222000,
       "name": "\u3053\u306e\u307e\u307e\u547d\u304c\u304a\u308f\u308b\u306a\u3089 (feat. \u6b4c\u611b\u30e6\u30ad)",
       "url": "https://open.spotify.com/track/61nCom6HUMjhAQx1oygttB"
@@ -3425,6 +3425,28 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30ab\u30fc\u30c6\u30f3",
+        "url": "https://open.spotify.com/album/2jtzFPgtlKwcHMkfRNjkY7"
+      },
+      "artists": [
+        {
+          "name": "Rulmry.",
+          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260678,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30ab\u30fc\u30c6\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/16gbQzaiUw7rH4jaBOsEyy"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30c4\u30a1\u30a4\u30b9",
         "url": "https://open.spotify.com/album/6sehkyCjkWbV9eLdA1QOsm"
       },
@@ -4119,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e5\u30ac\u30fc\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3b6Ht8mhJHNWbhaP0kxs9l"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3053\u306b\u3053\u3082\u304b\u308c\u30fc",
+          "url": "https://open.spotify.com/artist/0Sfql4L2dw8C7YqQTw3CkZ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284500,
+      "name": "\u30b7\u30e5\u30ac\u30fc\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/3escJ0BN4ZzHCRjt6wg47h"
+    },
+    {
+      "album": {
         "name": "prototype",
         "url": "https://open.spotify.com/album/7nmU6rpBWa56ym4G3nrPZh"
       },
@@ -4314,6 +4354,28 @@
       "duration_ms": 185863,
       "name": "\u30c6\u30ed\u30e1\u30a2\u306e\u706f (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/6LKrIpeEjsEosFRVjFGj17"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30ea\u30c4\u30af\u30ed\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/6t1JgWeUZJME2VKYeIdBEk"
+      },
+      "artists": [
+        {
+          "name": "\u9db4\u4e09",
+          "url": "https://open.spotify.com/artist/0shSCC9xQVgFuD7Pqre8aq"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140386,
+      "name": "\u30c8\u30ea\u30c4\u30af\u30ed\u30b8\u30fc (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3mF7Z1Pe5HXD5QcKGoiOZc"
     },
     {
       "album": {
@@ -4764,6 +4826,28 @@
       "duration_ms": 170344,
       "name": "\u30d4\u30fc\u30d7",
       "url": "https://open.spotify.com/track/4lU32UdLjpAsgFFGs5GAu8"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30af\u30c8\u30c1\u30a7\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1j5gWQE0lOWPZEJ2h9N9pw"
+      },
+      "artists": [
+        {
+          "name": "\u96f2\u4e39",
+          "url": "https://open.spotify.com/artist/2n6XWhZaj4eIij2sH19zV9"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159827,
+      "name": "\u30d5\u30a1\u30af\u30c8\u30c1\u30a7\u30c3\u30af (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/7k7OD7fqazeHrq3zQCS7cH"
     },
     {
       "album": {
@@ -6906,7 +6990,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 265562,
       "name": "\u661f\u964d\u308b\u591c\u3092\u65c5\u3059\u308b\u5c11\u5973",
       "url": "https://open.spotify.com/track/0aONroQe05CjLBnMW4JISZ"
@@ -7754,7 +7838,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 161818,
       "name": "\u7bb1\u5ead\u30d1\u30ec\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1x1lx8HXDMdekv49Qk12EQ"
@@ -8372,6 +8456,28 @@
       "duration_ms": 252000,
       "name": "\u9cf3\u68a8\u306e\u7a2e (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/1Uz3RNHv3DmLen7CHUgN6q"
+    },
+    {
+      "album": {
+        "name": "\uff0c\u661f",
+        "url": "https://open.spotify.com/album/5bmu4Ik0yNFGE6EgEnKD9j"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30a6\u30ad\u30e7\u30a6",
+          "url": "https://open.spotify.com/artist/1FngzSsckjFKWwUgcxqTo1"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203847,
+      "name": "\uff0c\u661f (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6AGdLzllP9YujBEke5mpHA"
     }
   ],
   "url": "https://open.spotify.com/playlist/4GvZwYIK2wufyM07xfjefo"

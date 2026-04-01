@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 248788,
+  "num_followers": 248770,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "MAR\u00c9",
+        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 168650,
+      "name": "MAR\u00c9",
+      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 131076,
       "name": "Safado",
       "url": "https://open.spotify.com/track/2x1BjX69aGNixLSVuah05k"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "MAR\u00c9",
-        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 168650,
-      "name": "MAR\u00c9",
-      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
       },
       "artists": [
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
         }
       ],
-      "duration_ms": 152000,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -715,26 +715,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "MUCHO SEXY",
-        "url": "https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV"
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
-          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 185864,
-      "name": "GASOLINA",
-      "url": "https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy"
+      "duration_ms": 152000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -779,6 +771,30 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "MUCHO SEXY",
+        "url": "https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
+          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
+        }
+      ],
+      "duration_ms": 185864,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "NOVA ERA Part. I",
         "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 188976,
       "name": "Mal\u00edcia",
       "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -819,34 +851,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS LIVE",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+        "name": "nada s\u00e9rio",
+        "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         }
       ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
+      "duration_ms": 166153,
+      "name": "nada s\u00e9rio",
+      "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -867,26 +887,6 @@
       "duration_ms": 197100,
       "name": "De Quinta A Domingo",
       "url": "https://open.spotify.com/track/3DPpnsH5S0269NXaD2uZ3v"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "nada s\u00e9rio",
-        "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "nada s\u00e9rio",
-      "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
-        }
-      ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "18 dias / 13 cm",
         "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
       },
@@ -999,18 +979,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
         }
       ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1027,6 +1011,22 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
       "added_at": "2026-03-27 03:00:31",

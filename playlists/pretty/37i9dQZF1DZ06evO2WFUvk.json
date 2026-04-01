@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 4119,
+  "num_followers": 4122,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAADf+zHwBCVbj4la5V0XzSMz",
+  "snapshot_id": "acm9AAAAAABF6nyHFxZuKPoLYiAbabLZ",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning to Climb",
-        "url": "https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 184830,
-      "name": "Learning to Climb",
-      "url": "https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not From This Neighborhood",
         "url": "https://open.spotify.com/album/2qIfAO5AwiqtJoIHAJMGJv"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 273418,
       "name": "Not From This Neighborhood",
       "url": "https://open.spotify.com/track/32FIj8Ff7mkjC0P2Art9GX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Learning to Climb",
+        "url": "https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 184830,
+      "name": "Learning to Climb",
+      "url": "https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

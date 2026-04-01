@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,424 likes - 63 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,427 likes - 63 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [no pienses que me da igual](https://open.spotify.com/track/6nTCraTVQYUmWNvLUbk8Ei) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no pienses que me da igual](https://open.spotify.com/album/3ggOl1Y3LwTTzkQ93Que5E) | 2:38 |
 | 2 | [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 |
-| 3 | [Flores de febrero](https://open.spotify.com/track/4tJ5C4RSWXGnuRcBcC5mIV) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Flores de febrero](https://open.spotify.com/album/0npRtFiWTlvwrwwh0CHvbA) | 3:23 |
+| 3 | [Flores de febrero](https://open.spotify.com/track/4tJ5C4RSWXGnuRcBcC5mIV) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [flores de febrero](https://open.spotify.com/album/0npRtFiWTlvwrwwh0CHvbA) | 3:23 |
 | 4 | [DATE CUENTA](https://open.spotify.com/track/6pSo6xFiXAl9hNbYT64SFn) | [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [VALKIRIA](https://open.spotify.com/album/3tZz2VreBTSSmv8RADz0Zh) | 2:55 |
 | 5 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
 | 6 | [Tatú](https://open.spotify.com/track/2VqcqkwQU8hnHF8PeNpP12) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tatú](https://open.spotify.com/album/0VjuWZitVeqZ0BnzKESw6k) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1086111,
+  "num_followers": 1086016,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "baby, get your ticket",
-        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
-      },
-      "artists": [
-        {
-          "name": "Tarune",
-          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
-        }
-      ],
-      "duration_ms": 155431,
-      "name": "baby, get your ticket",
-      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 231200,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "baby, get your ticket",
+        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
+      },
+      "artists": [
+        {
+          "name": "Tarune",
+          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
+        }
+      ],
+      "duration_ms": 155431,
+      "name": "baby, get your ticket",
+      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Lighten Up",
         "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 231226,
       "name": "Mind/Heart",
       "url": "https://open.spotify.com/track/0s1mJLXycS02GAPs95tbcy"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-08-23 14:59:54",

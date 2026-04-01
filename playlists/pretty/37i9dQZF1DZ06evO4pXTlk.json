@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAAAEDIsvz26gR1jtQ+3M7zQO",
+  "snapshot_id": "acm9AAAAAACI7GHBEAniEWMm/Muho4Yi",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 174620,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/4wRqt53Z6CQamU6cXrnVvT"
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
+      "duration_ms": 174620,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/4wRqt53Z6CQamU6cXrnVvT"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 170883,
+      "name": "Nightschool",
+      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 170883,
-      "name": "Nightschool",
-      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 254106,
-      "name": "He Sinks. He Sleeps",
-      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
+      "duration_ms": 59693,
+      "name": "Tar Ok",
+      "url": "https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 59693,
-      "name": "Tar Ok",
-      "url": "https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a"
+      "duration_ms": 254106,
+      "name": "He Sinks. He Sleeps",
+      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
     }
   ],
   "unique_name": "This Is The XCERTS",

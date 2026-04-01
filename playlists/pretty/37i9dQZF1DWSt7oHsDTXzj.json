@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 274225,
+  "num_followers": 274201,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "This Christmas I'm Coming Home",
         "url": "https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 180974,
       "name": "This Christmas I'm Coming Home",
       "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 182788,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 134320,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Deck The Halls",
         "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 124000,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Another Sappy Xmas Love Song",
-        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC"
       },
       "artists": [
         {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        },
+        {
+          "name": "Laura-Mary Carter",
+          "url": "https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ"
         }
       ],
-      "duration_ms": 144654,
-      "name": "Another Sappy Xmas Love Song",
-      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
+      "duration_ms": 181464,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC"
+        "name": "Another Sappy Xmas Love Song",
+        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
       },
       "artists": [
         {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        },
-        {
-          "name": "Laura-Mary Carter",
-          "url": "https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ"
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
         }
       ],
-      "duration_ms": 181464,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7"
+      "duration_ms": 144654,
+      "name": "Another Sappy Xmas Love Song",
+      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
     },
     {
       "added_at": "2025-12-17 22:42:18",

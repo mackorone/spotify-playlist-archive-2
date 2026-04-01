@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 130909,
       "name": "Angioletto & Ivan",
       "url": "https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h"
@@ -21642,6 +21642,28 @@
       "duration_ms": 148598,
       "name": "KITSCH",
       "url": "https://open.spotify.com/track/765J3gX9vSabx6ALavokHU"
+    },
+    {
+      "album": {
+        "name": "KLANDESTINO",
+        "url": "https://open.spotify.com/album/4AVXGactsIZUAjtDuNHcaX"
+      },
+      "artists": [
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj"
+        },
+        {
+          "name": "Cripo",
+          "url": "https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "KLANDESTINO",
+      "url": "https://open.spotify.com/track/3ki4qg5o4FIodRsZ07ga5k"
     },
     {
       "album": {

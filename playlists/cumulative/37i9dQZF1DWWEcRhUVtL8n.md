@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcolm Todd
 
-2,353 songs - 5 day 5 hr 19 min
+2,354 songs - 5 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-17 | 2024-10-26 |
 | [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-14 | 2024-01-20 |
 | [a House is not a Home](https://open.spotify.com/track/6lutezh0veNlcMaHyFId73) | [Luke Chappell](https://open.spotify.com/artist/4TDrPLkCWxWt7FRCZ9h10U) | [a House is not a Home](https://open.spotify.com/album/04ZoLXMOUKgANljo2EvIRQ) | 2:32 | 2022-03-18 | 2022-05-14 |
-| [A Man Written by a Woman](https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [A Man Written by a Woman](https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E) | 2:47 | 2026-02-06 |  |
+| [A Man Written by a Woman](https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [A Man Written by a Woman](https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E) | 2:47 | 2026-02-06 | 2026-04-01 |
 | [a message to myself](https://open.spotify.com/track/4IhZ4D5UMHq1CqjYPlXtlD) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [a message to myself](https://open.spotify.com/album/7tibvRsJAiviQUzI5TKUJI) | 2:08 | 2021-06-03 | 2021-06-04 |
 | [A Million Times](https://open.spotify.com/track/4pGoT7HzVjVZQ3VqHRV924) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 | 2020-10-13\* | 2021-10-16 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-11-06 | 2024-10-26 |
@@ -2355,6 +2355,7 @@
 | [Your Drugs](https://open.spotify.com/track/6PPxKutSxVks6WoVHGvXDs) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Your Drugs](https://open.spotify.com/album/4llATXF3wt0UJuQKlg7iqc) | 3:23 | 2020-10-13\* | 2020-11-13 |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2021-02-24 | 2021-05-24 |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 | 2025-05-13 |
+| [Your Turn Now](https://open.spotify.com/track/6TOqKF7YDBwUqIsJnJSNWi) | [Imani Graham](https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA) | [Your Turn Now](https://open.spotify.com/album/2DbPkr1polKSxyWCX4R4w3) | 2:22 | 2026-03-31 |  |
 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 | 2020-10-20 | 2021-06-03 |
 | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY) | 3:42 | 2023-09-22 | 2024-02-10 |
 | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/track/0rmyzkvYsf8BTIUbZqzh3r) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/album/0OFkJ9OmLuLHhMMx6c50Zq) | 3:10 | 2021-11-12 | 2022-04-07 |

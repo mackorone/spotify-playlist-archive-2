@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 283854,
       "name": "4:00 A.M. (2025 Re-edit Version)",
       "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
@@ -4849,6 +4849,28 @@
     },
     {
       "album": {
+        "name": "Kinetic",
+        "url": "https://open.spotify.com/album/1SyHS4LYAqtA3WC0n18kpQ"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        },
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200539,
+      "name": "Kinetic",
+      "url": "https://open.spotify.com/track/5tRuxhSW4ENtZI1sr63Xwg"
+    },
+    {
+      "album": {
         "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
         "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
       },
@@ -9356,7 +9378,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
@@ -11303,6 +11325,24 @@
     },
     {
       "album": {
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
+    },
+    {
+      "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
@@ -12838,6 +12878,24 @@
       "duration_ms": 232776,
       "name": "\u3053\u308c\u306f\u604b\u3067\u306f\u306a\u3044",
       "url": "https://open.spotify.com/track/5LidPwvEt1Sml6JD0rymGR"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202881,
+      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
     },
     {
       "album": {
@@ -17232,7 +17290,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 243341,
       "name": "\u714c\u3081\u304d\u30ef\u30f3\u30c0\u30fc",
       "url": "https://open.spotify.com/track/1yZSXbYPKxVRVsxXpQy7oy"

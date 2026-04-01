@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Statzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,521 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,526 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 52 | [Comme avant](https://open.spotify.com/track/5fQLWRtjVQsCKNFOgsbhns) | [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe) | [Comme avant](https://open.spotify.com/album/14mWbIRuu2W20drB5ToJ3s) | 2:13 |
 | 53 | [Le Monstre](https://open.spotify.com/track/5JCkJaMwK4TR9D9MBH0aqH) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Le Monstre](https://open.spotify.com/album/7rtHoWvUA7jRdzpSvw83Yi) | 3:03 |
 | 54 | [Super\-Héros](https://open.spotify.com/track/0HG6b6YvPFEEjkuGW8n9DT) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Super\-Héros](https://open.spotify.com/album/7J7NMJss4LErd9oF3YBWtM) | 2:59 |
-| 55 | [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 |
+| 55 | [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [LOU FRE$H](https://open.spotify.com/artist/57uDLvB9OultBUM7mkjzyQ) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 |
 | 56 | [STAMINA](https://open.spotify.com/track/4Wh73crms9SnJrYm3dczc7) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [STAMINA](https://open.spotify.com/album/4B1s8ZQAMJWHhAQBLfeMww) | 2:47 |
 | 57 | [Kinam](https://open.spotify.com/track/0SJHVbex7qU8LZjaR8jCD0) | [Richy Jay](https://open.spotify.com/artist/1tzsk4xoWgfCkOO5dpR486) | [Caribbean Love](https://open.spotify.com/album/77p54iJTw61neFaEXyV242) | 2:48 |
 | 58 | [Déplacement](https://open.spotify.com/track/6hdfa16VWPN4qVD7QPKI9b) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Déplacement](https://open.spotify.com/album/5D0iPd2dEVjN8bsmefXdDf) | 3:17 |

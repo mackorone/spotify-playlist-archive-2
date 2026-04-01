@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-215 songs - 10 hr 19 min
+216 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Spring Approaches](https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Warmer Seasons](https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv) | 1:44 | 2023-03-03 | 2023-06-20 |
 | [Spring Birds Calling](https://open.spotify.com/track/5JTIydAbaixj7wuulxKbKd) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 4:23 | 2022-03-25 | 2024-03-27 |
 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 | 2022-03-25 | 2025-12-20 |
+| [Spring Water](https://open.spotify.com/track/7aJXnm3DmT78vQRwSZ1xMw) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Spring Water](https://open.spotify.com/album/7oisHqE4VKBxhSl7BwU9Rz) | 3:10 | 2025-11-11 |  |
 | [Springtime \(Birds and Rain\)](https://open.spotify.com/track/0QOriHCerZiKVDkPTRmKjM) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:51 | 2022-03-25 | 2023-10-12 |
 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 | 2022-03-25 |  |
 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 | 2023-03-03 |  |
@@ -221,7 +222,7 @@
 | [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-21 |  |
 | [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 |  |
-| [Woodland Reverie](https://open.spotify.com/track/3QwgHRh1IO6EztjJBgL0jq) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Woodland Reverie](https://open.spotify.com/album/0Ml0x9lt98lmMXyrsHJuQv) | 2:21 | 2024-12-03 |  |
+| [Woodland Reverie](https://open.spotify.com/track/3QwgHRh1IO6EztjJBgL0jq) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Woodland Reverie](https://open.spotify.com/album/0Ml0x9lt98lmMXyrsHJuQv) | 2:21 | 2024-12-03 | 2026-04-01 |
 | [Zen Forest Serenade](https://open.spotify.com/track/7I4BBYAPTQZqdX6aPXxRtg) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 4:32 | 2023-09-20 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

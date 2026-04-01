@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 112782,
+  "num_followers": 112834,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-03-27 17:36:05",
       "album": {
-        "name": "La bohemia",
-        "url": "https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 228764,
-      "name": "La bohemia",
-      "url": "https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK"
-    },
-    {
-      "added_at": "2026-03-27 17:36:05",
-      "album": {
         "name": "Baila Le Digo",
         "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 139702,
       "name": "Baila Le Digo",
       "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
+    },
+    {
+      "added_at": "2026-03-27 17:36:05",
+      "album": {
+        "name": "La bohemia",
+        "url": "https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 228764,
+      "name": "La bohemia",
+      "url": "https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK"
     },
     {
       "added_at": "2026-03-27 17:36:05",

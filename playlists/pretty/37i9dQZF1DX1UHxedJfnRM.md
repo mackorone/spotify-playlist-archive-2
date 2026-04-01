@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Elsa y Elmar
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,388 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,413 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 64 | [Lo Que Tengo Yo](https://open.spotify.com/track/3Af6NLEVmK2mKyLyGEavu2) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 4:49 |
 | 65 | [Tu Falta de Querer](https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/4BBYd00knrYeFnPDSwQ23l) | 5:01 |
 | 66 | [No Sé](https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ) | 4:06 |
-| 67 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 |
+| 67 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Tomate Barraza y Orquesta](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 |
 | 68 | [Si Tu Te Atreves](https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Si Tu Te Atreves](https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG) | 3:46 |
 | 69 | [Dejame un Beso](https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame Un Beso](https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP) | 3:53 |
 | 70 | [Amiga Mía](https://open.spotify.com/track/6Hst0kxjKNtjq9cUqH2kzB) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Amiga Mía](https://open.spotify.com/album/7EaTPnzWgkb8Lz8CRtmrdw) | 4:32 |

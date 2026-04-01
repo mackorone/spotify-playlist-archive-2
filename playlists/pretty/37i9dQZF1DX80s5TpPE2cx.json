@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 20209,
+  "num_followers": 20216,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        }
+      ],
+      "duration_ms": 153548,
+      "name": "Unruly",
+      "url": "https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 196603,
       "name": "Air",
       "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T"
-      },
-      "artists": [
-        {
-          "name": "Rukmani",
-          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
-        }
-      ],
-      "duration_ms": 153548,
-      "name": "Unruly",
-      "url": "https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2"
     },
     {
       "added_at": "2025-06-20 07:45:33",

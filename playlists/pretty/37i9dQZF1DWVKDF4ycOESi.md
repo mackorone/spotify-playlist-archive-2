@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di RAYE, Madame, BLANCO con Elisa, Fred De Palma con Emis Killa e Anitta, Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,006 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,004 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

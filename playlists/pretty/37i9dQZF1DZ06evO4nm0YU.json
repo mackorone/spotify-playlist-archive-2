@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 187328,
+  "num_followers": 187363,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABZ3ZaNXq4YFLDYfcdHaVWe",
+  "snapshot_id": "acm9AAAAAADrruuhciJtwjX29ck2wRmh",
   "tracks": [
     {
       "added_at": null,
@@ -235,50 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Band And Their Music: Campeones",
-        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        },
-        {
-          "name": "Santos Col\u00f3n",
-          "url": "https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 331720,
-      "name": "Qu\u00edtate T\u00fa - Live",
-      "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+      "duration_ms": 326067,
+      "name": "Mi Gente - Remastered 2023",
+      "url": "https://open.spotify.com/track/0r8zch0A7te0NiM0yDhoXF"
     },
     {
       "added_at": null,
@@ -335,18 +303,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz (Remastered 2023)",
-        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
       "artists": [
         {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Santos Col\u00f3n",
+          "url": "https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 326067,
-      "name": "Mi Gente - Remastered 2023",
-      "url": "https://open.spotify.com/track/0r8zch0A7te0NiM0yDhoXF"
+      "duration_ms": 331720,
+      "name": "Qu\u00edtate T\u00fa - Live",
+      "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 392131,
+      "name": "Rompe Sarag\u00fcey - Remastered 2023",
+      "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
       },
@@ -647,26 +663,6 @@
       "duration_ms": 223040,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz (Remastered 2023)",
-        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
       "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 392131,
-      "name": "Rompe Sarag\u00fcey - Remastered 2023",
-      "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ti Depende (Remastered 2024)",
+        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 400529,
+      "name": "Mentira - Remastered 2024",
+      "url": "https://open.spotify.com/track/7ygq3AB87X2t0UwXIVuFIc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 205320,
       "name": "Tu No Puedes Conmigo",
       "url": "https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Depende (Remastered 2024)",
-        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 400529,
-      "name": "Mentira - Remastered 2024",
-      "url": "https://open.spotify.com/track/7ygq3AB87X2t0UwXIVuFIc"
     },
     {
       "added_at": null,

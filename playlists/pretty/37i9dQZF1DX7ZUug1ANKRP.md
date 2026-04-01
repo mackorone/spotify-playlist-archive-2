@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833,013 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,833,256 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Fast Cars & Superstars](https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW), [Reverend Haus](https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ) | [Fast Cars & Superstars](https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR) | 1:58 |
 | 50 | [What If You Fly \(Sweet Disposition\)](https://open.spotify.com/track/6M23kyZO0uXfD1pZzsFNQE) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [What If You Fly \(Sweet Disposition\)](https://open.spotify.com/album/6y8oWt1t9Ktrv1nH7Tqxcu) | 5:23 |
 
-Snapshot ID: `AAAAAMSekYTglSRKMl+L4okmfiPrl+j7`
+Snapshot ID: `AAAAAA+k2kaP1oDhFjCSsfohnzdYBCsO`

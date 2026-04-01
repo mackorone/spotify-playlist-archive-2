@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 38222,
+  "num_followers": 38228,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABt6LdITauREVjM4TLiPpbq",
+  "snapshot_id": "acm9AAAAAACJzljmuHiS7pumW9FtS6Z8",
   "tracks": [
     {
       "added_at": null,
@@ -915,22 +915,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
       "artists": [
         {
-          "name": "The Rance Allen Group",
-          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 449882,
-      "name": "Something About The Name Jesus (feat. Kirk Franklin) - Producer's Remix",
-      "url": "https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf"
+      "duration_ms": 406983,
+      "name": "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",
+      "url": "https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

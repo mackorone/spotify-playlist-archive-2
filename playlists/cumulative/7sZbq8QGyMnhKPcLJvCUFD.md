@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-841 songs - 1 day 17 hr 45 min
+842 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [misunderstood](https://open.spotify.com/track/1E0IXWXtlqRjO46cfMXIRJ) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl) | [misunderstood](https://open.spotify.com/album/0NUdAPurIahjbvjmlAdk6K) | 2:09 | 2024-01-18 | 2024-08-28 |
 | [Models](https://open.spotify.com/track/7xUNCA7dezcwtlo7IOYgdC) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Models](https://open.spotify.com/album/3UW07KJKOcewzC2V6XIjfM) | 2:32 | 2024-09-05 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 | 2023-04-28 |
+| [Money Mouth](https://open.spotify.com/track/2CBGAWXIixNj5eOALTPBav) | [Oxlo](https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK) | [Money Mouth](https://open.spotify.com/album/6DS3vb7jFJRqcqmXd9zB5f) | 1:17 | 2026-03-31 |  |
 | [money talks right](https://open.spotify.com/track/3ZZC2cg9dwlkZCFUc2dSia) | [AIM](https://open.spotify.com/artist/7FrkV4i4f3vpfIyLOTTeuk) | [money talks right](https://open.spotify.com/album/4Sr3JFrI3Vqfe3Vb0U5Wl7) | 2:07 | 2026-02-12 |  |
 | [MONTAGEM FAVELA](https://open.spotify.com/track/0hMmei0Cpl0nT46rxdBb46) | [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [MONTAGEM FAVELA](https://open.spotify.com/album/06cAtsno0kOvTwmxTUofyD) | 1:33 | 2025-08-22 |  |
 | [MONTAGEM INDIA](https://open.spotify.com/track/16matJ7CrtpN4idpsLjNHo) | [GxL](https://open.spotify.com/artist/6KnPKZlqBfzQvBu2eELF6S) | [MONTAGEM INDIA](https://open.spotify.com/album/185SSipe4ZC6gYLUNt66uj) | 1:43 | 2025-09-26 |  |

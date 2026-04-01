@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 390051,
+  "num_followers": 390243,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
-    },
-    {
-      "added_at": "2026-03-19 23:01:49",
-      "album": {
         "name": "Magico\u2026 di notte (Pekka Remix)",
         "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 183515,
       "name": "Magico\u2026 di notte - Pekka Remix",
       "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
+    },
+    {
+      "added_at": "2026-03-19 23:01:49",
+      "album": {
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2026-03-19 23:01:49",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2026-03-19 23:01:49",
+      "album": {
         "name": "Croccante",
         "url": "https://open.spotify.com/album/0K95zImK465Wa8M0AZLcPJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 153193,
       "name": "Croccante",
       "url": "https://open.spotify.com/track/4GFe5vaZYjORRV0pBt66Ya"
-    },
-    {
-      "added_at": "2026-03-19 23:01:49",
-      "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
-      },
-      "artists": [
-        {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2026-03-19 23:01:49",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
-        "name": "Gary Low: The Best of",
-        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
       },
       "artists": [
         {
-          "name": "Gary Low",
-          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
         }
       ],
-      "duration_ms": 509240,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
     },
     {
       "added_at": "2026-03-19 23:01:49",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+        "name": "Gary Low: The Best of",
+        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
       "artists": [
         {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+          "name": "Gary Low",
+          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
         }
       ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+      "duration_ms": 509240,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
     },
     {
       "added_at": "2026-03-19 23:01:49",

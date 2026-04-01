@@ -4,7 +4,7 @@
 
 > For the caffeinated Christians!
 
-410 songs - 1 day 2 hr 22 min
+411 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [I Remind Myself \- Live](https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [I Remind Myself \(Live\)](https://open.spotify.com/album/3YQj4UXmkPQ6d46bfXa0ob) | 4:05 | 2025-10-10 |  |
 | [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 | 2023-07-28 | 2026-03-24 |
 | [I See the Birds](https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [I See the Birds](https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz) | 4:03 | 2025-08-06 |  |
-| [I Smile \- Neo\-Soul Version](https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [I Smile \(Neo\-Soul Version\)](https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe) | 2:17 | 2025-08-06 |  |
+| [I Smile \- Neo\-Soul Version](https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [I Smile \(Neo\-Soul Version\)](https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe) | 2:17 | 2025-08-06 | 2026-04-01 |
 | [I Surrender All \(reimagined\)](https://open.spotify.com/track/6voEoqZGWL69eZODjoVwkl) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [I Surrender All \(reimagined\)](https://open.spotify.com/album/5K31OWi27YzTGzchaIv3na) | 3:31 | 2023-07-28 | 2024-06-24 |
 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 | 2024-08-03 | 2026-03-24 |
 | [I Trust You](https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [I Trust You](https://open.spotify.com/album/56nxYWU99mGNr0nSlOQhzR) | 4:17 | 2025-08-06 |  |
@@ -305,6 +305,7 @@
 | [Simple Phrase](https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Simple Phrase](https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0) | 3:28 | 2025-08-06 |  |
 | [Simple Song](https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Simple Song](https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS) | 3:22 | 2023-07-28 |  |
 | [Skin And Bone](https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [You Hold It All](https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ) | 3:33 | 2025-12-12 |  |
+| [Slow Burn \(Take Your Time\)](https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken) | [darthy](https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr) | [Slow Burn \(Take Your Time\)](https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg) | 3:03 | 2026-03-23 |  |
 | [So Much Better](https://open.spotify.com/track/7GfigsBzSyuDsrnbsoE301) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [So Much Better](https://open.spotify.com/album/1YCA346hKtzVMVuQrDH2fr) | 2:45 | 2026-03-23 |  |
 | [Something Beautiful](https://open.spotify.com/track/2lV9YvVyqSFGo7wnbWz69n) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Something Beautiful](https://open.spotify.com/album/0ZMBVloAiTLRrV6bkyR1a6) | 3:47 | 2020-08-31 | 2022-07-29 |
 | [Something Beautiful](https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:47 | 2020-08-31 | 2024-04-19 |

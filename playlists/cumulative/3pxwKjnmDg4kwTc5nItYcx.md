@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-886 songs - 1 day 23 hr 38 min
+889 songs - 1 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 | 2024-02-09 | 2025-08-27 |
 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 | 2022-05-06 | 2025-08-27 |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-07-06 | 2021-01-18 |
+| [Buffalo 66](https://open.spotify.com/track/2z0kgKZro0Ul8DtORoGoGe) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/3fES6NnJmf7xuDnCEH2foO) | 4:27 | 2026-04-01 |  |
 | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/track/3OmKuGbtu4U2UnQpDqLXHi) | [Feki](https://open.spotify.com/artist/3oZDqlOiOQTolPJZsxivaN), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/album/0kxZB0MTOz0PIUfHGrVRIj) | 2:45 | 2019-08-27\* | 2020-02-12 |
 | [BULLET TO THE HEART](https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [BULLET TO THE HEART](https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO) | 2:25 | 2019-09-27 | 2020-02-12 |
 | [Burn](https://open.spotify.com/track/1f28i2xBtCv1L053hFvNPt) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [SAINT \(Deluxe EP\)](https://open.spotify.com/album/0fq6wER0iJ958hiL1SqAzE) | 3:10 | 2024-11-15 | 2025-08-27 |
@@ -634,6 +635,7 @@
 | [Pyro](https://open.spotify.com/track/7ckuHj7l00XSxPHjBzvVGD) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Budjerah](https://open.spotify.com/album/5oG8dofJtCly2McfPlL445) | 3:02 | 2021-03-26 | 2025-07-17 |
 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-04-13 | 2025-08-27 |
 | [R&B All Night](https://open.spotify.com/track/6MrVXeEMf0MULWdclDk4sI) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ) | [Mr\. Enjoy Da Money](https://open.spotify.com/album/1AVwD6m0CZJLMTzcZangei) | 3:53 | 2019-12-16 | 2020-05-19 |
+| [Rabbits Can Swim](https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Rabbits Can Swim](https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n) | 4:13 | 2026-04-01 |  |
 | [Racecar](https://open.spotify.com/track/6vQma4Znxv7o0CQFSBUYfI) | [Adam Faybrem](https://open.spotify.com/artist/6GM4wtI74Hm34hTUtNbtKt) | [Racecar](https://open.spotify.com/album/5vuKN7qk7Gh0jrKFfdVu1L) | 3:04 | 2019-08-27\* | 2019-11-11 |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-08-27 |  |
 | [Rage](https://open.spotify.com/track/4WAWPLY7EBPmtjg4X4X1HD) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Rage](https://open.spotify.com/album/2tmHGkMjCXggqKE2XvoC6I) | 3:13 | 2026-02-25 |  |
@@ -696,6 +698,7 @@
 | [Should I Give It All Up \(demo\)](https://open.spotify.com/track/5drxAfMsNi3NUs2rhZp8ag) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Once Upon A Mind \(Time Suspended Edition\)](https://open.spotify.com/album/05GbnFVxNSdnWdAOlc78NQ) | 3:27 | 2020-07-01 | 2021-05-12 |
 | [Shoulda Coulda](https://open.spotify.com/track/16gwQCz3zlj6u9NOMDB9wI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Budjerah](https://open.spotify.com/album/5oG8dofJtCly2McfPlL445) | 2:56 | 2021-03-26 | 2025-08-27 |
 | [Sick Thoughts](https://open.spotify.com/track/4uxJICczweCIPZkIA6AN5k) | [Lewis Blissett](https://open.spotify.com/artist/5SrdmCdwa3qLV6EObwuEW7) | [Sick Thoughts](https://open.spotify.com/album/7mx1CvOT0GIK2e3h6X6q0Z) | 3:20 | 2019-08-27\* | 2020-02-12 |
+| [Sideways \(feat\. Coco Jones\)](https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 3:55 | 2026-04-01 |  |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-09-25 |  |
 | [Simple Things](https://open.spotify.com/track/1pTIxaK8mVQdj53bdy2Njp) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things](https://open.spotify.com/album/7HmGFt3YEGHbxvZj49s3DF) | 2:59 | 2021-08-28 | 2025-07-17 |
 | [SIP](https://open.spotify.com/track/76J2ooWlkPUABii0WX8AbS) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SIP](https://open.spotify.com/album/01xiJBCzJQZfC3ynOBiq6H) | 3:25 | 2023-11-10 | 2025-08-27 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Sunset In San Francisco",
+        "url": "https://open.spotify.com/album/0fgq9K0Kzn4dBPk6ZErPK0"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160630,
+      "name": "A Sunset In San Francisco",
+      "url": "https://open.spotify.com/track/35FhdbTFTNjwL8lgJ8BHx2"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/5xMB9NEfwoWIdoL00KX8Wj"
       },
@@ -220,6 +238,24 @@
       "duration_ms": 184000,
       "name": "Baby Please",
       "url": "https://open.spotify.com/track/5zfeTBFRDJPcNn6vpep3UD"
+    },
+    {
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7tpL70OEQCNTunTga3l8a7"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185233,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3KyoqNgmHE4uSp8PKXqhlL"
     },
     {
       "album": {
@@ -2704,6 +2740,28 @@
       "duration_ms": 172269,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/29ckDhEsLydghxneMmTBLa"
+    },
+    {
+      "album": {
+        "name": "Love Dancing",
+        "url": "https://open.spotify.com/album/64uzPfOUSgZ24f3AzKG86K"
+      },
+      "artists": [
+        {
+          "name": "Mixed Signals 021",
+          "url": "https://open.spotify.com/artist/7BTZcyNK5kt9aR3JYXb0Tl"
+        },
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "Love Dancing",
+      "url": "https://open.spotify.com/track/0tan5hoOP782l2RqMUmCy3"
     },
     {
       "album": {

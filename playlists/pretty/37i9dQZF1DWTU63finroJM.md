@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Tegi Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,123 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,118 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 9 | [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 |
 | 10 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
 | 11 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
-| 12 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
-| 13 | [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 |
+| 12 | [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 |
+| 13 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
 | 14 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
 | 15 | [CENT PER CENT](https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [CENT PER CENT](https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH) | 3:12 |
 | 16 | [steer](https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [steer](https://open.spotify.com/album/6eV82gYdpWpoQVbBJjqTIK) | 2:58 |

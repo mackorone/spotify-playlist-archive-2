@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 319500,
       "name": "changed it all",
       "url": "https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 203100,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/2Ic32TM1WzzVXeCG9E1eom"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 212552,
       "name": "Dance with Somebody",
       "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 208706,
       "name": "Gentleman Blue",
       "url": "https://open.spotify.com/track/3lV07aYA51LIEH2egLXyV7"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 261139,
       "name": "Good Luck, Good Night",
       "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 203710,
       "name": "Good Ol' Days",
       "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 240266,
       "name": "greener",
       "url": "https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 207254,
       "name": "Gunslinger",
       "url": "https://open.spotify.com/track/3sktlLWaTQykBQ7EzceDP3"
@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 153839,
       "name": "i should've known",
       "url": "https://open.spotify.com/track/2gU51XW3fQZnMT9v7VAYhe"
@@ -3914,6 +3914,24 @@
       "duration_ms": 163813,
       "name": "My Heart is Drowning",
       "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
+    },
+    {
+      "album": {
+        "name": "Stars and Teeth",
+        "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "My Kind of Freak",
+      "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
     },
     {
       "album": {
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 222860,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp"

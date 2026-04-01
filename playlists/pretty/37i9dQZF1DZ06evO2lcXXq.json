@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368396,
+  "num_followers": 368408,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAACvKq40niKnro4pI8uEEYOc",
+  "snapshot_id": "acm9AAAAAAC/+bcWnCPOkcLGa4dVsX/E",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hear (Live)",
         "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 308920,
       "name": "Close - Live",
       "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
-        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "HARD LOVE (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "North Point Music: Beginnings",
         "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
+        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "HARD LOVE (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
     },
     {
       "added_at": null,

@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 200035,
       "name": "ANH L\u00c0 TH\u1eb0NG T\u1ed2I",
       "url": "https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 211111,
       "name": "Ch\u0103m Hoa",
       "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 275820,
       "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
       "url": "https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2"
@@ -5067,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
+    },
+    {
+      "album": {
         "name": "Ng\u01b0\u1eddi L\u1ea1 Trong Danh B\u1ea1 (feat. Ph\u00fac Du)",
         "url": "https://open.spotify.com/album/58VYZEMuhqP4PPhQCqzbjR"
       },
@@ -6300,7 +6318,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 206315,
       "name": "Say S\u00f3ng",
       "url": "https://open.spotify.com/track/4rIBbB1vt0lEKDG2UTmfP0"
@@ -7792,7 +7810,7 @@
       },
       "artists": [
         {
-          "name": "Bao Anh",
+          "name": "B\u1ea3o Anh",
           "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
         },
         {
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"

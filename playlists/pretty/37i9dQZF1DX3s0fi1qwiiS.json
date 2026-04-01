@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8078,
+  "num_followers": 8084,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 225407,
-      "name": "Dangote",
-      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
+      "duration_ms": 188717,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 188717,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q"
+      "duration_ms": 225407,
+      "name": "Dangote",
+      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -855,42 +855,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Otoolege",
-        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 400960,
-      "name": "Otoolege",
-      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "AKWAABA",
         "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
@@ -915,6 +879,42 @@
       "duration_ms": 206829,
       "name": "AKWAABA",
       "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Oofeets",
+        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Oofeets",
+      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
       },
@@ -1239,22 +1259,6 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "After the Storm",
-        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Mahama Paper",
-      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
     }
   ],
   "unique_name": "Best of Detty December",

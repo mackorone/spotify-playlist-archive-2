@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover:  Andi Rianto, Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,751 likes - 101 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,796 likes - 101 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 50 | [Apanya Dong](https://open.spotify.com/track/4kMvDpPbuOaHznBY9TY1Wo) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8) | [Apanya Dong](https://open.spotify.com/album/3OsPzTNk3HoTRQp2qOuvnC) | 4:32 |
 | 51 | [Negoro Angin](https://open.spotify.com/track/3kfVlzPUsy7x1MiPHRuFr0) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Negoro Angin](https://open.spotify.com/album/473skY7alrmJfasO5CIeDm) | 5:12 |
 | 52 | [Artificial Grass](https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Artificial Grass](https://open.spotify.com/album/6zrKX85vdTchx5H2oSMDhU) | 3:02 |
-| 53 | [Manusia Favorit](https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo), [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud) | [Manusia Favorit](https://open.spotify.com/album/3zy41NOYR94APnywJqYYd3) | 3:45 |
+| 53 | [Manusia Favorit](https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Manusia Favorit](https://open.spotify.com/album/3zy41NOYR94APnywJqYYd3) | 3:45 |
 | 54 | [Relung Hati](https://open.spotify.com/track/5vpmeiK7i9nidygPbH9C8C) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Relung Hati](https://open.spotify.com/album/3P12OHZC2rdGekRQvtxECP) | 4:13 |
 | 55 | [Tak Setara](https://open.spotify.com/track/4B5Qq74hrUf7fehRFm9RlO) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Tak Setara](https://open.spotify.com/album/7B31BZ7UMBCEnDgtbo6Kvq) | 4:56 |
 | 56 | [Babel](https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Babel](https://open.spotify.com/album/7CQlDmBxDZeDW0RSP9dTP7) | 3:42 |

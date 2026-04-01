@@ -1,12 +1,12 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 277288,
+  "num_followers": 277303,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAh3zTcn8s5GMdWCyG1dVd3OWShV",
+  "snapshot_id": "AAAAAM8qHPCIJ9qo9+R11ir/TXIBGNp4",
   "tracks": [
     {
       "added_at": "2026-03-20 04:00:46",
@@ -59,6 +59,38 @@
     {
       "added_at": "2026-03-06 05:00:07",
       "album": {
+        "name": "Burial (from Mother Mary)",
+        "url": "https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq"
+      },
+      "artists": [
+        {
+          "name": "Anne Hathaway",
+          "url": "https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x"
+        }
+      ],
+      "duration_ms": 189859,
+      "name": "Burial (from Mother Mary)",
+      "url": "https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6"
+    },
+    {
+      "added_at": "2026-03-31 14:57:52",
+      "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 199323,
+      "name": "UNKNOWN LOVERZ",
+      "url": "https://open.spotify.com/track/5GgxJ8afPLKHg4MHIxP0av"
+    },
+    {
+      "added_at": "2026-03-06 05:00:07",
+      "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
@@ -71,6 +103,38 @@
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
+    },
+    {
+      "added_at": "2026-03-31 14:57:52",
+      "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
+    },
+    {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "Dance The Pain Away",
+        "url": "https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Dance The Pain Away",
+      "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -103,22 +167,6 @@
       "duration_ms": 143789,
       "name": "Feel Like I Died",
       "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
-    },
-    {
-      "added_at": "2026-03-06 05:00:07",
-      "album": {
-        "name": "Burial (from Mother Mary)",
-        "url": "https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq"
-      },
-      "artists": [
-        {
-          "name": "Anne Hathaway",
-          "url": "https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "Burial (from Mother Mary)",
-      "url": "https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -269,22 +317,6 @@
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
     },
     {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "Dance The Pain Away",
-        "url": "https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Dance The Pain Away",
-      "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
-    },
-    {
       "added_at": "2025-11-21 05:00:33",
       "album": {
         "name": "Are You Bored Yet?",
@@ -427,30 +459,6 @@
       "duration_ms": 253751,
       "name": "808 HYMN",
       "url": "https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Thrill Of The Night",
-        "url": "https://open.spotify.com/album/0UpC6w0g5VZIYt2B0diLMU"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 172497,
-      "name": "Thrill of the Night",
-      "url": "https://open.spotify.com/track/2PpHVDPumqhwDtnz1cx6bL"
     },
     {
       "added_at": "2025-11-07 05:16:58",
@@ -775,22 +783,6 @@
       "duration_ms": 272803,
       "name": "Dancing2",
       "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
-    },
-    {
-      "added_at": "2025-09-27 19:03:23",
-      "album": {
-        "name": "EDUCATION",
-        "url": "https://open.spotify.com/album/57HQVSPN0DT6xR91nLxoVS"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 230117,
-      "name": "EDUCATION",
-      "url": "https://open.spotify.com/track/1ARemleYLCZjVZRSVq8SxF"
     },
     {
       "added_at": "2025-08-08 04:00:33",

@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
+    },
+    {
+      "album": {
         "name": "Beautiful James",
         "url": "https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b"
       },
@@ -9073,6 +9091,24 @@
     },
     {
       "album": {
+        "name": "Things I've Killed",
+        "url": "https://open.spotify.com/album/1xVxEwOcDyW3zIZ8x3eYej"
+      },
+      "artists": [
+        {
+          "name": "Telehealth",
+          "url": "https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170920,
+      "name": "Things I've Killed",
+      "url": "https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR"
+    },
+    {
+      "album": {
         "name": "THINK ABOUT ME",
         "url": "https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx"
       },
@@ -9920,6 +9956,24 @@
       "duration_ms": 145171,
       "name": "Where Did She Go",
       "url": "https://open.spotify.com/track/6GtgLMKmrmICSUUdOHeTUS"
+    },
+    {
+      "album": {
+        "name": "Where There's Smoke, There's Fire",
+        "url": "https://open.spotify.com/album/50yjrQvcvaw6M17RKAVZoh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300623,
+      "name": "Where There's Smoke, There's Fire",
+      "url": "https://open.spotify.com/track/2fmKTXjj8zPinrBwswwTjI"
     },
     {
       "album": {

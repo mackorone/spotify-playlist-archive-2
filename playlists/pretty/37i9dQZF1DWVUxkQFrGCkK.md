@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: oskar med k
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,924 likes - 428 songs - 1 day 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,970 likes - 428 songs - 1 day 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

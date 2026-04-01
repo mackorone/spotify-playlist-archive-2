@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 612582,
+  "num_followers": 612636,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 218492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm"
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 218492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD"
+      "duration_ms": 225493,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1551,22 +1567,6 @@
       "duration_ms": 201093,
       "name": "There's Nothing Holdin' Me Back - Acoustic",
       "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W"
     },
     {
       "added_at": "2026-01-26 17:25:39",

@@ -1,6 +1,6 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1068575,
+  "num_followers": 1068524,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 337546,
+      "name": "B\u00e9same Mucho - Live",
+      "url": "https://open.spotify.com/track/04YCoK8SspDy9Gv52aUrz8"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
         "name": "Estrella De Mar",
         "url": "https://open.spotify.com/album/61ubSwllNCZJux3IG7G83T"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 245520,
       "name": "Te necesito - Ac\u00fastico",
       "url": "https://open.spotify.com/track/61ZvRYNgX7WliB1kgQB32a"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 337546,
-      "name": "B\u00e9same Mucho - Live",
-      "url": "https://open.spotify.com/track/04YCoK8SspDy9Gv52aUrz8"
     },
     {
       "added_at": "2026-02-12 19:18:10",

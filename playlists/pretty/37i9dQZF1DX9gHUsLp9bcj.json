@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 47714,
+  "num_followers": 47728,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
-        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Recordar\u00e9 tu amor (remastered)",
-      "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 183560,
       "name": "Quinto Patio",
       "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
+        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Recordar\u00e9 tu amor (remastered)",
+      "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
     },
     {
       "added_at": "2024-04-24 22:38:01",

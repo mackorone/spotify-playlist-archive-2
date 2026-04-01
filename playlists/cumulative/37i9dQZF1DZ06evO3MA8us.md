@@ -4,7 +4,7 @@
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-134 songs - 12 hr 43 min
+135 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [There’s Nothing That Our God Can’t Do \- Live](https://open.spotify.com/track/0KigSoVvXDoiuCr1NcEU1k) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:03 | 2025-08-24 |  |
 | [There’s Nothing That Our God Can’t Do \- Live](https://open.spotify.com/track/7jQpjGSWuxXT84p00VF9EH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [There’s Nothing That Our God Can’t Do \(Live\)](https://open.spotify.com/album/1jvZlWc0ey7irzdsJkZlEg) | 5:03 | 2023-03-10 | 2025-08-24 |
 | [Waiting Here For You \- Live](https://open.spotify.com/track/3oSQOGiP2Zl0NukkKJOgwx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 6:06 | 2023-07-08 | 2024-07-24 |
-| [Watch Him Work](https://open.spotify.com/track/6L5z4CiRIrnoNrlB32vQyI) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [What A Worthy Name](https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v) | 3:59 | 2026-02-18 |  |
+| [Watch Him Work](https://open.spotify.com/track/5Yu1ghPPjavo7yAOuBpng9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 3:59 | 2026-04-01 |  |
+| [Watch Him Work](https://open.spotify.com/track/6L5z4CiRIrnoNrlB32vQyI) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [What A Worthy Name](https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v) | 3:59 | 2026-02-18 | 2026-04-01 |
 | [Way Maker \- Live From Passion 2020](https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 6:52 | 2023-03-10 |  |
 | [We Fall Down \- Live](https://open.spotify.com/track/6at7v0kxzVTPtqKVJTtIMt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Even So Come \(Deluxe Edition/Live\)](https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg) | 2:48 | 2024-05-10 | 2024-07-20 |
 | [We Fall Down \- Live](https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 4:44 | 2025-05-29 |  |

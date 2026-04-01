@@ -1,6 +1,6 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Sinaka & Marcianeke",
-  "num_followers": 555638,
+  "num_followers": 555628,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
       "duration_ms": 160000,
       "name": "Texteando",
       "url": "https://open.spotify.com/track/3rKpnMQ8ko9X116yIj5V9S"
+    },
+    {
+      "added_at": "2026-03-27 16:23:05",
+      "album": {
+        "name": "Vuele",
+        "url": "https://open.spotify.com/album/4lUosWvC95VN2HsUdE1SCt"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 160473,
+      "name": "Vuele",
+      "url": "https://open.spotify.com/track/4ArEaGCWtc5NMRC8BAGToR"
     },
     {
       "added_at": "2026-03-27 16:23:05",

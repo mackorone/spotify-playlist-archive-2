@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: DEVAURA",
-  "num_followers": 137413,
+  "num_followers": 137423,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -563,18 +579,18 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+        "name": "STAMPEDE",
+        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
+      "duration_ms": 189200,
+      "name": "STAMPEDE",
+      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -599,22 +615,6 @@
       "duration_ms": 201230,
       "name": "System",
       "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "STAMPEDE",
-        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "STAMPEDE",
-      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
+        "name": "The Biggest Dick",
+        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 284339,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
+      "duration_ms": 163296,
+      "name": "The Biggest Dick",
+      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "The Biggest Dick",
-        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 163296,
-      "name": "The Biggest Dick",
-      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
+      "duration_ms": 284339,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
+        "name": "Honora",
+        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        },
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        }
+      ],
+      "duration_ms": 262653,
+      "name": "Wichita Lineman (feat. Nick Cave)",
+      "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
         "name": "My Baby's Place",
         "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
       },
@@ -891,6 +911,38 @@
       "duration_ms": 303130,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Make Us Whole Again",
+        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Make Us Whole Again",
+      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "WARCRY",
+      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -927,38 +979,6 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
-        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "WARCRY",
-      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "Make Us Whole Again",
-        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 232944,
-      "name": "Make Us Whole Again",
-      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
         "name": "A Feeling I Miss",
         "url": "https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 201289,
       "name": "A Feeling I Miss",
       "url": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "Honora",
-        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
-      },
-      "artists": [
-        {
-          "name": "Flea",
-          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-        },
-        {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Wichita Lineman (feat. Nick Cave)",
-      "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1035,6 +1035,38 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
+      },
+      "artists": [
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
+        },
+        {
+          "name": "Tom Coll",
+          "url": "https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC"
+        },
+        {
+          "name": "Antony Genn",
+          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
+        },
+        {
+          "name": "Martin Slattery",
+          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        },
+        {
+          "name": "The Immortal Man",
+          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
+        }
+      ],
+      "duration_ms": 135751,
+      "name": "Nobody's Son",
+      "url": "https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1127,34 +1159,18 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
+        "name": "Steel Town",
+        "url": "https://open.spotify.com/album/6olQXi537DIuAMEa065n4e"
       },
       "artists": [
         {
-          "name": "Amy Taylor",
-          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
-        },
-        {
-          "name": "Tom Coll",
-          "url": "https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC"
-        },
-        {
-          "name": "Antony Genn",
-          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
-        },
-        {
-          "name": "Martin Slattery",
-          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
-        },
-        {
-          "name": "The Immortal Man",
-          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
         }
       ],
-      "duration_ms": 135751,
-      "name": "Nobody's Son",
-      "url": "https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq"
+      "duration_ms": 182264,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Steel Town",
-        "url": "https://open.spotify.com/album/6olQXi537DIuAMEa065n4e"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 182264,
-      "name": "Letting You Go",
-      "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Keith",
-        "url": "https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI"
-      },
-      "artists": [
-        {
-          "name": "Playlunch",
-          "url": "https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u"
-        }
-      ],
-      "duration_ms": 250681,
-      "name": "Keith",
-      "url": "https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
         "name": "Miss You In The Morning",
         "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 205128,
       "name": "Miss You In The Morning",
       "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI"
+      },
+      "artists": [
+        {
+          "name": "Playlunch",
+          "url": "https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u"
+        }
+      ],
+      "duration_ms": 250681,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Goodbye (If You Call That Gone)",
-        "url": "https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 216732,
-      "name": "Last Man On Earth",
-      "url": "https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
         "name": "BLEACH",
         "url": "https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 148071,
       "name": "BLEACH",
       "url": "https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Goodbye (If You Call That Gone)",
+        "url": "https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 216732,
+      "name": "Last Man On Earth",
+      "url": "https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy"
+        "name": "Tripping Over Time",
+        "url": "https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
         }
       ],
-      "duration_ms": 221388,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2"
+      "duration_ms": 176335,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1459,38 +1459,6 @@
       "duration_ms": 252894,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "Tripping Over Time",
-        "url": "https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u"
-      },
-      "artists": [
-        {
-          "name": "Alexandria",
-          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
-        }
-      ],
-      "duration_ms": 165744,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/1ij4ptkOTHNXvRCySVHYrf"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1535,6 +1503,38 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/1ij4ptkOTHNXvRCySVHYrf"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 221388,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
         "name": "Never Alone (feat. Lizzy Land)",
         "url": "https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8"
       },
@@ -1551,26 +1551,6 @@
       "duration_ms": 204179,
       "name": "Never Alone (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "Feel So Good Around U",
-        "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
-      },
-      "artists": [
-        {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 272492,
-      "name": "Feel So Good Around U",
-      "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
     },
     {
       "added_at": "2026-03-26 13:01:31",
@@ -1615,6 +1595,46 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
+        "name": "Feel So Good Around U",
+        "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 272492,
+      "name": "Feel So Good Around U",
+      "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Whistle",
+        "url": "https://open.spotify.com/album/6wdBvLfeROObJGi5nIlyDD"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 142608,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
         "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
         "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
       },
@@ -1655,42 +1675,6 @@
     {
       "added_at": "2026-03-26 13:01:31",
       "album": {
-        "name": "Whistle",
-        "url": "https://open.spotify.com/album/6wdBvLfeROObJGi5nIlyDD"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 142608,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
-        "name": "Please Don't Move To Melbourne",
-        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
-      },
-      "artists": [
-        {
-          "name": "Ball Park Music",
-          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
-        }
-      ],
-      "duration_ms": 291153,
-      "name": "Please Don't Move To Melbourne",
-      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
-    },
-    {
-      "added_at": "2026-03-26 13:01:31",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
+    },
+    {
+      "added_at": "2026-03-26 13:01:31",
+      "album": {
+        "name": "Please Don't Move To Melbourne",
+        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "duration_ms": 291153,
+      "name": "Please Don't Move To Melbourne",
+      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
       "added_at": "2026-03-26 13:01:31",

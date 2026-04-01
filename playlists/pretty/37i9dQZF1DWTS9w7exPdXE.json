@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 159440,
+  "num_followers": 159484,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
+        "name": "Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
+    },
+    {
+      "added_at": "2026-03-09 22:00:04",
+      "album": {
         "name": "De Stad",
         "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
-    },
-    {
-      "added_at": "2026-03-09 22:00:04",
-      "album": {
-        "name": "Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2026-03-09 22:00:04",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
+        "name": "Vlinders Van De Nacht",
+        "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
+      },
+      "artists": [
+        {
+          "name": "Benny Neyman",
+          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Vrijgezel",
+      "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2026-03-09 22:00:04",
+      "album": {
         "name": "Pretty Belinda",
         "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
-    },
-    {
-      "added_at": "2026-03-09 22:00:04",
-      "album": {
-        "name": "Vlinders Van De Nacht",
-        "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
-      },
-      "artists": [
-        {
-          "name": "Benny Neyman",
-          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Vrijgezel",
-      "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
     },
     {
       "added_at": "2026-03-09 22:00:04",

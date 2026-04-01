@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Dacoit
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,099 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,125 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 45 | [Merisi Poye](https://open.spotify.com/track/5Pn2hVl721GNQDwIE0pPXx) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Sanare](https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl) | [With Love \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7MnwQqeT6sNmGV58bgjs2O) | 3:17 |
 | 46 | [Choodu Choodu \(Side A\) \(From "Godari Gattupaina"\)](https://open.spotify.com/track/7bNOfrWzcfi3FrQ9CfhMyu) | [Naga Vamshi](https://open.spotify.com/artist/3aCf2BjucUTbsyTR6GcnVc), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Dinesh Kakkerla](https://open.spotify.com/artist/5ws3wwMW5ZFO3zzol8v5hc) | [Choodu Choodu \(Side A\) \(From "Godari Gattupaina"\)](https://open.spotify.com/album/4xNtTdOiSM6NvAdMBhQAyF) | 2:51 |
 | 47 | [Bhalle Bhalle \(From "Nari Nari Naduma Murari"\) \(Telugu\)](https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Bhalle Bhalle \(From "Nari Nari Naduma Murari"\) \(Telugu\)](https://open.spotify.com/album/4fUeGMIYVi22stROdyMxEr) | 4:16 |
-| 48 | [Alalai Egise](https://open.spotify.com/track/7IMy6SqkgbIDg0tsNM3Fs1) | [Nikkhil Bareli](https://open.spotify.com/artist/4qe3u7JRknAx2vAM8E6BMm), [Pritam Wath](https://open.spotify.com/artist/35pAMT6KMB0UvU9lfI5d3s) | [Alalai Egise](https://open.spotify.com/album/0h3eypk6BfTytKLKSP2e5f) | 3:52 |
-| 49 | [Dhum Thakum \(From "Psych Siddhartha"\)](https://open.spotify.com/track/7DFaNgMboQuV8nrVisLrd0) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Dhum Thakum \(From "Psych Siddhartha"\)](https://open.spotify.com/album/4U74fjabNK8LyAX9gFYjOA) | 3:56 |
-| 50 | [Seetha Kalyanam \(From "Vaibhavam Thanyasmi"\)](https://open.spotify.com/track/4HzhEvOCzOBDGRcsnpwG9z) | [Gayatri Narayanan](https://open.spotify.com/artist/2OsaxOFmhhlIYVaEP2jfpU), [Bhanu sarma Machavolu](https://open.spotify.com/artist/3uOdZ5G9T3bzosaVWXNWQg), [Bhargav Rana Mungara](https://open.spotify.com/artist/2Hh4CmxSWuV2NMgN4btdBO) | [Seetha Kalyanam \(From "Vaibhavam Thanyasmi"\)](https://open.spotify.com/album/6JZN4AHqO8cSmYPgS2y0K5) | 3:40 |
+| 48 | [Dhum Thakum \(From "Psych Siddhartha"\)](https://open.spotify.com/track/7DFaNgMboQuV8nrVisLrd0) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Dhum Thakum \(From "Psych Siddhartha"\)](https://open.spotify.com/album/4U74fjabNK8LyAX9gFYjOA) | 3:56 |
+| 49 | [Seetha Kalyanam \(From "Vaibhavam Thanyasmi"\)](https://open.spotify.com/track/4HzhEvOCzOBDGRcsnpwG9z) | [Gayatri Narayanan](https://open.spotify.com/artist/2OsaxOFmhhlIYVaEP2jfpU), [Bhanu sarma Machavolu](https://open.spotify.com/artist/3uOdZ5G9T3bzosaVWXNWQg), [Bhargav Rana Mungara](https://open.spotify.com/artist/2Hh4CmxSWuV2NMgN4btdBO) | [Seetha Kalyanam \(From "Vaibhavam Thanyasmi"\)](https://open.spotify.com/album/6JZN4AHqO8cSmYPgS2y0K5) | 3:40 |
 
-Snapshot ID: `AAAAAFJwi8TdSFQfXXKb4kN55EachZiD`
+Snapshot ID: `AAAAAGa5TYfQhBG2Dj5i97zmEa6LSM5o`

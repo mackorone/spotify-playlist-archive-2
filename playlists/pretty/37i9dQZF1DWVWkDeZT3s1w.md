@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,873 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,919 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 26 | [Singular \(feat\. El Chojin\)](https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 4:36 |
 | 27 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 |
 | 28 | [Escaleras y Serpientes](https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH) | [Metrik Vader](https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T) | [Escaleras y Serpientes](https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j) | 3:12 |
-| 29 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
-| 30 | [Tantas Veces](https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj) | [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Dj Peche](https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s), [Barbatos Beats](https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [Tantas Veces](https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM) | 2:29 |
-| 31 | [Rap da Rap quita](https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Rap da Rap quita](https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P) | 4:49 |
+| 29 | [Tantas Veces](https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj) | [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Dj Peche](https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s), [Barbatos Beats](https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [Tantas Veces](https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM) | 2:29 |
+| 30 | [Rap da Rap quita](https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Rap da Rap quita](https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P) | 4:49 |
+| 31 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
 | 32 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:45 |
 | 33 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 |
 | 34 | [Sistema \- Remix](https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ) | [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [Sistema \(Remix\)](https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP) | 4:00 |

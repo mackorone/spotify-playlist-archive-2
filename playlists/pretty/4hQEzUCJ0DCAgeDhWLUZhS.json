@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAH5Xke3MJLhc+N2KmCTmGCZtNQJnNS",
+  "snapshot_id": "AAAH6N8Ho5ASWMgoPEDVm2k1edYLdyMM",
   "tracks": [
     {
       "added_at": "2026-02-26 04:11:06",
@@ -1767,6 +1767,54 @@
       "duration_ms": 166866,
       "name": "Receive",
       "url": "https://open.spotify.com/track/4egnOyXh0OVgWmDiWOTHGM"
+    },
+    {
+      "added_at": "2026-04-01 00:04:30",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
+    },
+    {
+      "added_at": "2026-04-01 00:15:58",
+      "album": {
+        "name": "Where There's Smoke, There's Fire",
+        "url": "https://open.spotify.com/album/50yjrQvcvaw6M17RKAVZoh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 300623,
+      "name": "Where There's Smoke, There's Fire",
+      "url": "https://open.spotify.com/track/2fmKTXjj8zPinrBwswwTjI"
+    },
+    {
+      "added_at": "2026-04-01 00:44:36",
+      "album": {
+        "name": "Things I've Killed",
+        "url": "https://open.spotify.com/album/1xVxEwOcDyW3zIZ8x3eYej"
+      },
+      "artists": [
+        {
+          "name": "Telehealth",
+          "url": "https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Things I've Killed",
+      "url": "https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR"
     }
   ],
   "unique_name": "Plugged In",

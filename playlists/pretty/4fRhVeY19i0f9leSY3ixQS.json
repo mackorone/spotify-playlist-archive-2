@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1307,
+  "num_followers": 1309,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAANMd8hOeGJTLSoCDg4xAJ/91zf3Xoi",
+  "snapshot_id": "AAANPeVPmj68MAw1HGgTT7S1/3z1WBsH",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,118 @@
       "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-03-31 12:30:53",
+      "album": {
+        "name": "Too Many Clunkers",
+        "url": "https://open.spotify.com/album/6n7HB9DwrPxFZUsRyoUruy"
+      },
+      "artists": [
+        {
+          "name": "Painist",
+          "url": "https://open.spotify.com/artist/2SVJfASujlJVczVl9shlt2"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Crustaccato",
+      "url": "https://open.spotify.com/track/2dF0qR3yZVNudzmPtuEw9m"
+    },
+    {
+      "added_at": "2026-03-31 12:25:44",
+      "album": {
+        "name": "Fool's Paradise",
+        "url": "https://open.spotify.com/album/2YOe6yPybwnOvHFmX9C622"
+      },
+      "artists": [
+        {
+          "name": "Must Be Wrong",
+          "url": "https://open.spotify.com/artist/4mtGv11gxPe8Fwg7g5CbDn"
+        }
+      ],
+      "duration_ms": 170891,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5tfIhhM5zuqjuLwgKotbTX"
+    },
+    {
+      "added_at": "2026-03-31 12:21:30",
+      "album": {
+        "name": "over you",
+        "url": "https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE"
+      },
+      "artists": [
+        {
+          "name": "Darro",
+          "url": "https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG"
+        }
+      ],
+      "duration_ms": 177552,
+      "name": "over you",
+      "url": "https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic"
+    },
+    {
+      "added_at": "2026-03-31 12:17:44",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6I88rvbCkKwldSENVvGEdK"
+      },
+      "artists": [
+        {
+          "name": "Breach Of Peace",
+          "url": "https://open.spotify.com/artist/70yWPGMkMSB0q1doH42TQC"
+        }
+      ],
+      "duration_ms": 136544,
+      "name": "Watch Your Mouth",
+      "url": "https://open.spotify.com/track/7iJjMFwGWY5Ju0i8nMg4mk"
+    },
+    {
+      "added_at": "2026-03-31 11:28:30",
+      "album": {
+        "name": "Vol",
+        "url": "https://open.spotify.com/album/5Qyw4TOofsb72ugtW79oXE"
+      },
+      "artists": [
+        {
+          "name": "Alex Hracan",
+          "url": "https://open.spotify.com/artist/6CxXl1R0xQczyGfj6Rz8RT"
+        }
+      ],
+      "duration_ms": 312500,
+      "name": "Vol",
+      "url": "https://open.spotify.com/track/7DHcBXahtXoUNx2W3QK1cV"
+    },
+    {
+      "added_at": "2026-03-31 11:19:08",
+      "album": {
+        "name": "Let's Make Tomorrow Today",
+        "url": "https://open.spotify.com/album/6jVREr3AwF80ktlpm4PG69"
+      },
+      "artists": [
+        {
+          "name": "Vincent Moss",
+          "url": "https://open.spotify.com/artist/5tBVhmSvHVarDhBe56Fkd2"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Let's Make Tomorrow Today",
+      "url": "https://open.spotify.com/track/18GZyETm2tLsGBcktCQlKL"
+    },
+    {
+      "added_at": "2026-03-31 09:35:34",
+      "album": {
+        "name": "BORN 2 ROT",
+        "url": "https://open.spotify.com/album/5wTGDxSg914lqCRp2S2gEK"
+      },
+      "artists": [
+        {
+          "name": "Crash Valentine",
+          "url": "https://open.spotify.com/artist/0nBySb6p0rqQu4JNrSXUvw"
+        }
+      ],
+      "duration_ms": 110571,
+      "name": "BORN 2 ROT",
+      "url": "https://open.spotify.com/track/2VMotXyDfDjZDxwxxfThtv"
     },
     {
       "added_at": "2026-03-30 15:27:33",
@@ -1627,38 +1739,6 @@
       "duration_ms": 224605,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1aE42XhA3l8qpX23oxLfoM"
-    },
-    {
-      "added_at": "2026-02-28 10:57:44",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/71cTC1mD5o4PpWsFLTw21s"
-      },
-      "artists": [
-        {
-          "name": "Empired",
-          "url": "https://open.spotify.com/artist/1ktOD59jIqHniqPFgmHNOr"
-        }
-      ],
-      "duration_ms": 232935,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7sVpYaGW7qZxbBs9tx52AC"
-    },
-    {
-      "added_at": "2026-02-28 07:14:14",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/3Ci9lnpfoobOGL3XIS12Y7"
-      },
-      "artists": [
-        {
-          "name": "King-Mob",
-          "url": "https://open.spotify.com/artist/6AtM0lknJzg2W9TXmSqhks"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Pendulum Days",
-      "url": "https://open.spotify.com/track/1qZ6g0mIS1mPOtMsNAwhQU"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -4683,6 +4763,54 @@
       "duration_ms": 266851,
       "name": "Was ich will",
       "url": "https://open.spotify.com/track/6uEjOiR5SiWa3N7Xnp9v3c"
+    },
+    {
+      "added_at": "2026-03-31 06:31:31",
+      "album": {
+        "name": "Songs Of Perdition",
+        "url": "https://open.spotify.com/album/5aZZuCPgpsuW2gi6iEzI9q"
+      },
+      "artists": [
+        {
+          "name": "Abitha",
+          "url": "https://open.spotify.com/artist/6pMO4cinc5UyFjIBo8dC2r"
+        }
+      ],
+      "duration_ms": 270285,
+      "name": "Great Men",
+      "url": "https://open.spotify.com/track/1mdzkQ2EUUypxayYTnVGg9"
+    },
+    {
+      "added_at": "2026-03-31 06:40:31",
+      "album": {
+        "name": "EASY TO THE CORE",
+        "url": "https://open.spotify.com/album/7rkdp03pYRUNOA1mdrjIyB"
+      },
+      "artists": [
+        {
+          "name": "Homesick",
+          "url": "https://open.spotify.com/artist/4BugzXr3GBpFd1ZAPtmxLQ"
+        }
+      ],
+      "duration_ms": 92065,
+      "name": "COUSINS",
+      "url": "https://open.spotify.com/track/2QaOL88QSB8GoFxnD1KJQ7"
+    },
+    {
+      "added_at": "2026-03-31 21:06:00",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/5K5dZbunzeo7fJOGe8nymX"
+      },
+      "artists": [
+        {
+          "name": "MASSA",
+          "url": "https://open.spotify.com/artist/5T9XzZfDTS0Md8zGDQx7ZF"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Intermassa",
+      "url": "https://open.spotify.com/track/6BRVOobJ8KsfolaQJnnqRB"
     }
   ],
   "unique_name": "Shuffle Roulette",

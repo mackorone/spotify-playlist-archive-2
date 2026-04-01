@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 160 songs - 9 hr 25 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 168 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,5 +168,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 158 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 |
 | 159 | [Headphones](https://open.spotify.com/track/551z98Cw2FxiY9Wnm4SGpw) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Headphones](https://open.spotify.com/album/3vMg7qx8oSwJJfjwMRfW1L) | 3:35 |
 | 160 | [I Might Be An Alien](https://open.spotify.com/track/1AkOkTeSG7FwD5gIc8gnmI) | [Lee Switzer\-Woolf](https://open.spotify.com/artist/39FQMAp2C86W7yagW3n43h) | [I Might Be An Alien](https://open.spotify.com/album/0frOpLxlwSl0yT1vNOVtLt) | 3:54 |
+| 161 | [Straßenkinder im Herzen](https://open.spotify.com/track/1as05FGgInqFZCcsdQNqrT) | [Yung NaHLa](https://open.spotify.com/artist/6OnXfA6nlQrKpUDYnBFONU), [ELMO](https://open.spotify.com/artist/60lew9ztVJt4bLPe7Iagxz) | [Straßenkinder im Herzen](https://open.spotify.com/album/1eSdGuevvrP7FuBNYFs4Ud) | 3:14 |
+| 162 | [Run away](https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1) | [AILEX](https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7) | [Run away](https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M) | 2:48 |
+| 163 | [Holy Light](https://open.spotify.com/track/5sO8Q4Yii3v3JCneozayy3) | [Yade Ivy](https://open.spotify.com/artist/0VZtxz6FOhkurLOPdUH9CW) | [Holy Light](https://open.spotify.com/album/2g2GdOAFgY5WFIDT6ouNmM) | 5:08 |
+| 164 | [Dreaming](https://open.spotify.com/track/4oanX17e4dDfaxuaVGu9ZL) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 4:21 |
+| 165 | [PACIENTE](https://open.spotify.com/track/4aQ9RR2rdQR7Gg3P8TS4gd) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [XØ/LØVE I](https://open.spotify.com/album/3ttz8byYnKlDGYwmESpeTH) | 2:40 |
+| 166 | [A Dove Divine](https://open.spotify.com/track/4q753ZqObBusNbYLHfHg8w) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc) | [A Dove Divine](https://open.spotify.com/album/5NYVnWCaHVwLwdZIRHjQPc) | 2:57 |
+| 167 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 |
+| 168 | [Alive](https://open.spotify.com/track/1gKY8KxcwNtdYRF8H0gxh1) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Alive](https://open.spotify.com/album/69Zi6K575DePRoq5tWHwCZ) | 3:44 |
 
-Snapshot ID: `AAASZO1K0J2CoyGoLjxgv7wWZIOyHH7p`
+Snapshot ID: `AAASbIvpxsOSVM8yAgA0zOuPDPwoYqlF`

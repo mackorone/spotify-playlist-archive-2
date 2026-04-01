@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 53 min
+70 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 | 2025-07-15 |  |
 | [Away](https://open.spotify.com/track/2vaoIwtz1wOrP6DUEPhgn5) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 2:58 | 2025-12-30 | 2025-12-31 |
 | [Billion Words](https://open.spotify.com/track/7fk2maOyYbRVEM9UL4QhmH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/2ua3yE01TSHBvZ8aAMywD2) | 7:44 | 2025-07-15 | 2025-09-13 |
-| [Blow My Mind](https://open.spotify.com/track/0vQc3gUbXHAF4FDlzhfaJL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Blow My Mind](https://open.spotify.com/album/4fyl086gcUeMo0euTMYWde) | 3:07 | 2025-07-15 |  |
+| [Blow My Mind](https://open.spotify.com/track/0vQc3gUbXHAF4FDlzhfaJL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Blow My Mind](https://open.spotify.com/album/4fyl086gcUeMo0euTMYWde) | 3:07 | 2025-07-15 | 2026-04-01 |
 | [Brighter Day](https://open.spotify.com/track/3IQGgI3YOn3HGlrZECYs0K) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pilgrim's Road](https://open.spotify.com/album/3NtuWd8mZObFRl6JyIhyy0) | 2:35 | 2025-07-15 |  |
 | [Cadeau](https://open.spotify.com/track/2tefVnRRqYsjqMRGii5cSX) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [1er Amour](https://open.spotify.com/album/5qacTmr57fIbthd4Q85nBK) | 2:51 | 2025-07-15 | 2026-03-30 |
 | [Calling \(Bless Me\)](https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Calling \(Bless Me\)](https://open.spotify.com/album/6tgGEm8JciW3omq5q6kJKB) | 3:00 | 2025-07-15 |  |
@@ -66,6 +66,7 @@
 | [Put It On God](https://open.spotify.com/track/631M9FKCXEdoBAgtCrrhbE) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:37 | 2025-07-15 |  |
 | [Rest](https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:45 | 2025-07-15 |  |
 | [Segunda Vida](https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv) | [Kingdom & Culture](https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Segunda Vida](https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD) | 2:37 | 2025-08-15 | 2025-12-27 |
+| [Solid Ground \(Princeton’s Interlude\)](https://open.spotify.com/track/4x5Mak6vUYa8Zg0bGx18Ap) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:18 | 2026-04-01 |  |
 | [Sound of Victory](https://open.spotify.com/track/2UaaxShFAXOYTVUD36skZP) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Bridges](https://open.spotify.com/album/1Zvcflfmrg0zSuSQENKr8y) | 3:32 | 2025-07-15 | 2026-02-18 |
 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-20 |  |
 | [Super Power](https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:34 | 2026-03-31 |  |

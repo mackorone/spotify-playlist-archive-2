@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92165,
+  "num_followers": 92166,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Ma\u00f1ana Hablamos (1154)",
-        "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Ma\u00f1ana Hablamos (1154)",
-      "url": "https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "so\u00f1\u00e9 que me llevabas",
         "url": "https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 177686,
       "name": "me olvidar\u00e1s (como lo haces ya)",
       "url": "https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Ma\u00f1ana Hablamos (1154)",
+        "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Ma\u00f1ana Hablamos (1154)",
+      "url": "https://open.spotify.com/track/4LNmjN9PJZkr9oWkaP8sDv"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "veranito2k",
-        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "veranito2k",
-      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Cumbia Psic\u00f3pata",
         "url": "https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 180908,
       "name": "Cumbia Psic\u00f3pata",
       "url": "https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "veranito2k",
+        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "veranito2k",
+      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Cabello Rojo",
-        "url": "https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38"
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
       },
       "artists": [
         {
-          "name": "Nova Club",
-          "url": "https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
         }
       ],
-      "duration_ms": 194286,
-      "name": "Cabello Rojo",
-      "url": "https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks"
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1043,6 +1027,22 @@
       "duration_ms": 143617,
       "name": "MAMI D\u00d3NDEST\u00c1S?",
       "url": "https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Cabello Rojo",
+        "url": "https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38"
+      },
+      "artists": [
+        {
+          "name": "Nova Club",
+          "url": "https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA"
+        }
+      ],
+      "duration_ms": 194286,
+      "name": "Cabello Rojo",
+      "url": "https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Viento Feroz",
+        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
+      },
+      "artists": [
+        {
+          "name": "Mermelada de Pepino",
+          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
+        }
+      ],
+      "duration_ms": 196107,
+      "name": "Viento Feroz",
+      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 158250,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Viento Feroz",
-        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
-      },
-      "artists": [
-        {
-          "name": "Mermelada de Pepino",
-          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
-        }
-      ],
-      "duration_ms": 196107,
-      "name": "Viento Feroz",
-      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CATARSIS",
-        "url": "https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP"
+        "name": "REGGAETON CUTE (VOL. 2)",
+        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
       },
       "artists": [
         {
-          "name": "Cross MX",
-          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
-        },
-        {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
         }
       ],
-      "duration_ms": 149413,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV"
+      "duration_ms": 158571,
+      "name": "MI D",
+      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

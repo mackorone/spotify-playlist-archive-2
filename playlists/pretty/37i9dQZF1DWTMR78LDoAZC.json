@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Perfume Genius",
-  "num_followers": 185184,
+  "num_followers": 185195,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
-    },
-    {
-      "added_at": "2025-05-30 04:00:14",
-      "album": {
         "name": "Little Rope",
         "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 224840,
       "name": "Say It Like You Mean It",
       "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
+    },
+    {
+      "added_at": "2025-05-30 04:00:14",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2025-05-30 04:00:14",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
-        "name": "Maggot",
-        "url": "https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S"
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
       },
       "artists": [
         {
-          "name": "Dazey and the Scouts",
-          "url": "https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ"
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
         }
       ],
-      "duration_ms": 269328,
-      "name": "Sweet Cis Teen",
-      "url": "https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc"
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     }
   ],
   "unique_name": "Alternative Pride",

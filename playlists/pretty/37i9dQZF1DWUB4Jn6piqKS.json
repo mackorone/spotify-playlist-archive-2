@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 149132,
+  "num_followers": 149152,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "For Northern Soul Collectors: Volume 1",
-        "url": "https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9"
-      },
-      "artists": [
-        {
-          "name": "Dean Parrish",
-          "url": "https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV"
-        }
-      ],
-      "duration_ms": 159906,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "After Hours The Collection: Northern Soul Masters",
         "url": "https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 125693,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/0tRUmgZigd9uWdAF37oWNG"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "For Northern Soul Collectors: Volume 1",
+        "url": "https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9"
+      },
+      "artists": [
+        {
+          "name": "Dean Parrish",
+          "url": "https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV"
+        }
+      ],
+      "duration_ms": 159906,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Northern Soul 45's",
-        "url": "https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9"
-      },
-      "artists": [
-        {
-          "name": "Roy Redmond",
-          "url": "https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Ain't That Terrible",
-      "url": "https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Soul Satisfaction",
         "url": "https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 159040,
       "name": "Love Runs Out",
       "url": "https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Northern Soul 45's",
+        "url": "https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9"
+      },
+      "artists": [
+        {
+          "name": "Roy Redmond",
+          "url": "https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Ain't That Terrible",
+      "url": "https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT"
     },
     {
       "added_at": "2024-03-22 16:05:01",

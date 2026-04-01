@@ -1572,24 +1572,6 @@
     {
       "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G"
-      },
-      "artists": [
-        {
-          "name": "Los Barraza",
-          "url": "https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs"
-        }
-      ],
-      "date_added": "2022-05-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 269290,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn"
-    },
-    {
-      "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ"
       },
       "artists": [
@@ -1604,6 +1586,24 @@
       "duration_ms": 269351,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6"
+    },
+    {
+      "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G"
+      },
+      "artists": [
+        {
+          "name": "Tomate Barraza y Orquesta",
+          "url": "https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269290,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn"
     },
     {
       "album": {

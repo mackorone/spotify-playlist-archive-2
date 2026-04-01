@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAACfrhs1gCI4zLYCiez0Aqku",
+  "snapshot_id": "acm9AAAAAABGF2Xz4h7pWWr92M5sbv5g",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "They Will Kill You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 116411,
+      "name": "Maria Reeves",
+      "url": "https://open.spotify.com/track/051RWMYpTL1ZYjZR3C9rGa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
       },
@@ -220,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Mcnue Leaves",
-      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
+      "duration_ms": 184000,
+      "name": "Mcnue Leaves",
+      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
     },
     {
       "added_at": null,

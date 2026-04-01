@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Ra.D\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,712 songs - 4 day 15 hr 16 min
+1,714 songs - 4 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 | 2022-04-12 | 2022-05-02 |
 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 | 2023-05-31 | 2023-10-20 |
 | [Diary of A Broken Heart \(feat\. Dongha\)](https://open.spotify.com/track/5wd9yJPcMWH1oO5bKdC3km) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dongha](https://open.spotify.com/artist/21lne80DCBNegTOiqPBweb) | [New Edition 47](https://open.spotify.com/album/5Dun8NFVoQ3JNIjy8gdoBb) | 5:31 | 2023-01-20 | 2023-02-15 |
-| [Did We Really Love \- Change Street Version](https://open.spotify.com/track/0VygxhsyvZiF3xkZsPvl0O) | [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8) | [Change Street Episode 2](https://open.spotify.com/album/2fTTNZphQDEx6lGdelCIOd) | 4:34 | 2026-01-02 |  |
+| [Did We Really Love \- Change Street Version](https://open.spotify.com/track/0VygxhsyvZiF3xkZsPvl0O) | [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8) | [Change Street Episode 2](https://open.spotify.com/album/2fTTNZphQDEx6lGdelCIOd) | 4:34 | 2026-01-02 | 2026-04-01 |
 | [didn't say anything](https://open.spotify.com/track/0GPtizf5j73g2KuHa4ZdRb) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [ONG SEONG WU](https://open.spotify.com/artist/01APAUkFb3XB5exrmi8tkQ) | [didn't say anything](https://open.spotify.com/album/3Gu1G42hDfGVVcHYZlawbt) | 3:43 | 2022-03-31 | 2022-04-21 |
 | [Diet](https://open.spotify.com/track/1JWoCqa9EemntyyCmMIAUo) | [ZOIN](https://open.spotify.com/artist/6piQESINjWBSElYa126dD7) | [Diet](https://open.spotify.com/album/5zBFFxmJKjaNPCiNqdkeTJ) | 3:27 | 2022-03-29 | 2022-04-11 |
 | [Distant Fate](https://open.spotify.com/track/6cwog2cadHETvgU9wJWAs3) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/3I7EdLTSuWmTxaUdB28Xu7) | 4:03 | 2022-01-17 | 2022-07-08 |
@@ -1034,6 +1034,7 @@
 | [One Late Night In 1994](https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [One Late Night In 1994](https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85) | 3:50 | 2023-07-20 | 2023-11-03 |
 | [One Man](https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [One Man](https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6) | 4:08 | 2023-11-13 | 2024-05-01 |
 | [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 | 2025-05-13 | 2025-10-23 |
+| [One More Day](https://open.spotify.com/track/2z2lzx9VaFePE319fcwSAj) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [One More Day](https://open.spotify.com/album/1ldrGIZYGIeFvf0gU15fgm) | 3:40 | 2026-03-31 |  |
 | [One More Drink](https://open.spotify.com/track/3sgY0rXSs0QwS1iDCC7Lne) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Woody.zip](https://open.spotify.com/album/0HtAugtHRJt3DHVMsBf2kp) | 3:33 | 2026-02-13 |  |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-15 | 2022-08-19 |
 | [One more time, One more chance](https://open.spotify.com/track/1V6FlzgHwOzTyuoqS87jvT) | [SUNGHO](https://open.spotify.com/artist/36TC1IlwzK0h0gTKlttCvy) | [5 centimeters per second X SUNGHO \(BOYNEXTDOOR\)](https://open.spotify.com/album/33aSFd3l9ZjAftV9LsOq1m) | 5:09 | 2026-02-25 |  |
@@ -1271,6 +1272,7 @@
 | [Still](https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Still](https://open.spotify.com/album/0dS3PtdYqB4uboBYWRln6H) | 3:43 | 2024-07-22 | 2024-11-29 |
 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-11-12 |  |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
+| [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SEEYA](https://open.spotify.com/artist/4FTNfLt89vROIPOad8i6S6) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 | 2026-03-31 |  |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still In The Dream](https://open.spotify.com/track/3bGqReIYmdiHYoUfMDQAKX) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/7r1FskUKyAYGVfw1u3b4MD) | 4:01 | 2026-01-29 |  |
 | [Still Missing You](https://open.spotify.com/track/7e2H1iYMW6j5bnBEBjRIWH) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Still Missing You](https://open.spotify.com/album/28fEzVIrsZ8MH7OeCpFzG4) | 3:28 | 2026-03-26 |  |
@@ -1529,7 +1531,7 @@
 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 | 2021-12-23 | 2022-06-18 |
 | [Where are you](https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Where are you \(The Last 10 Years X Heize\)](https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI) | 3:53 | 2024-05-08 | 2024-10-17 |
 | [WHERE GOODBYE STOPS](https://open.spotify.com/track/7w5VUPT3Vcci4WkpS6MG3P) | [Kwon Euibin](https://open.spotify.com/artist/2jzzW4w2JlDd1GIP0MSlv8) | [WHERE GOODBYE STOPS](https://open.spotify.com/album/7F5sYAwhgQSHEEmDe5RckX) | 4:02 | 2025-11-02 | 2025-12-03 |
-| [Where I Need To Be](https://open.spotify.com/track/2C151QUNLM45qeIBdsOmGR) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:37 | 2025-12-16 |  |
+| [Where I Need To Be](https://open.spotify.com/track/2C151QUNLM45qeIBdsOmGR) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:37 | 2025-12-16 | 2026-04-01 |
 | [Where Love Ends](https://open.spotify.com/track/1ODbcxWMBv9yicmDsVhI2O) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Where Love Ends](https://open.spotify.com/album/22nMeOyALadtozfYJeXAVQ) | 3:51 | 2026-01-29 |  |
 | [Where Love Stays](https://open.spotify.com/track/4qqGAdsC1b8W9k7R30h0sG) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Where Love Stays](https://open.spotify.com/album/5SxmexvqG0zsQZmYT1kX0d) | 4:15 | 2025-04-11 | 2025-08-04 |
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-13 | 2023-09-19 |

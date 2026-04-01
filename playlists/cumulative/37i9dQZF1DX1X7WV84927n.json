@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 209426,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/7HFSVYp0PEsDpTkwoG7eZe"
@@ -10524,7 +10524,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 202800,
       "name": "Heart Said No",
       "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
@@ -15256,6 +15256,32 @@
       "duration_ms": 164630,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/3v3oBCz5bf9BsY65oETFTX"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel (with elijah & Downswing)",
+        "url": "https://open.spotify.com/album/75wUpktijRtL91qevIANKt"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        },
+        {
+          "name": "Downswing",
+          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164630,
+      "name": "Make Me Feel (with elijah & Downswing)",
+      "url": "https://open.spotify.com/track/5uqHCGJ1f6pPJh3QIjnTvQ"
     },
     {
       "album": {
@@ -24722,7 +24748,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 241480,
       "name": "The Real You",
       "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"

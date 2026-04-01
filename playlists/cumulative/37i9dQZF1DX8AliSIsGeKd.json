@@ -115773,6 +115773,28 @@
     },
     {
       "album": {
+        "name": "The Phunk Biz",
+        "url": "https://open.spotify.com/album/2KwGjlNahtj8hObWq1sNkf"
+      },
+      "artists": [
+        {
+          "name": "Arpy Brown",
+          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219739,
+      "name": "The Phunk Biz",
+      "url": "https://open.spotify.com/track/0ibY9KphT28vSKHTNAj7gW"
+    },
+    {
+      "album": {
         "name": "The Pill",
         "url": "https://open.spotify.com/album/2PUOWMSdMxgLrWZQrBsNbu"
       },

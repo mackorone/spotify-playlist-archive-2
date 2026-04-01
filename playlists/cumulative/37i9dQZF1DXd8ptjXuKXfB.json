@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1-2 FEKV\u0150",
+        "url": "https://open.spotify.com/album/2q9K0FnThnSnztMrNlBtD7"
+      },
+      "artists": [
+        {
+          "name": "Kolg8eight",
+          "url": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175874,
+      "name": "1-2 FEKV\u0150",
+      "url": "https://open.spotify.com/track/62HlB3NU0B4u5Go2jVYxid"
+    },
+    {
+      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV"
       },
@@ -2561,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "elterel\u00e9s",
+        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168953,
+      "name": "erotika",
+      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
+    },
+    {
+      "album": {
         "name": "Esk\u00fcsz\u00fcnk",
         "url": "https://open.spotify.com/album/1HYnOeKKNvuQ7c4d0TKUOZ"
       },
@@ -2580,7 +2616,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 299500,
       "name": "Esk\u00fcsz\u00fcnk",
       "url": "https://open.spotify.com/track/4WPvasPuvVBeAuTifNljFd"
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 187951,
       "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
       "url": "https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ"
@@ -3479,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Gyerekek",
+        "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
+      },
+      "artists": [
+        {
+          "name": "Halott P\u00e9nz",
+          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156678,
+      "name": "Gyerekek",
+      "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
+    },
+    {
+      "album": {
         "name": "Gyufa a l\u00e1ngon",
         "url": "https://open.spotify.com/album/5Q6M1tY1pBE7tcqHMGO6h4"
       },
@@ -3548,7 +3602,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 227874,
       "name": "Ha egyszer",
       "url": "https://open.spotify.com/track/52xW7Zv1mOfaoodqgPKbfG"
@@ -5495,6 +5549,28 @@
     },
     {
       "album": {
+        "name": "Magyarok",
+        "url": "https://open.spotify.com/album/6ZZRyjFnxvSYrO1ksOyqeF"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "H\u0151s\u00f6k",
+          "url": "https://open.spotify.com/artist/5XWViNOFsgtYypFYRIEY9Y"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182418,
+      "name": "Magyarok",
+      "url": "https://open.spotify.com/track/1wS6hC3kgiGZqfxsTwC6QI"
+    },
+    {
+      "album": {
         "name": "Majdnem mindig baj van",
         "url": "https://open.spotify.com/album/2mZw7z6P4izsfEECt5FGT3"
       },
@@ -6005,6 +6081,28 @@
     },
     {
       "album": {
+        "name": "Mint a viharmad\u00e1r",
+        "url": "https://open.spotify.com/album/3Ra5LS1nD5mqLYdaiE568W"
+      },
+      "artists": [
+        {
+          "name": "Horv\u00e1th Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz"
+        },
+        {
+          "name": "N\u00f3t\u00e1r Mary",
+          "url": "https://open.spotify.com/artist/6YyFqdyYBAylLQK6Eemz94"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "Mint a viharmad\u00e1r",
+      "url": "https://open.spotify.com/track/6sbLrBuKPGVaSzXSVxCIlW"
+    },
+    {
+      "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
@@ -6428,6 +6526,28 @@
       "duration_ms": 209805,
       "name": "Ne s\u00edrj\u00e1l \u00e9rtem any\u00e1m",
       "url": "https://open.spotify.com/track/4LPTriHOHMluOh2M4Gl5Vw"
+    },
+    {
+      "album": {
+        "name": "Ne Tov\u00e1bb!",
+        "url": "https://open.spotify.com/album/5Qlo28gN6AD9JpVTblkmZx"
+      },
+      "artists": [
+        {
+          "name": "Aza",
+          "url": "https://open.spotify.com/artist/2WLKFllDVAhtb60gNHJGUH"
+        },
+        {
+          "name": "Tirpa",
+          "url": "https://open.spotify.com/artist/0JKuWiUU9NSMX6aHa2hX6S"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "Ne Tov\u00e1bb!",
+      "url": "https://open.spotify.com/track/62HRgQi6E84qPnQU2njJPg"
     },
     {
       "album": {
@@ -7347,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "Phralipe",
+        "url": "https://open.spotify.com/album/3YBcc0V6usk3HfP2053nJw"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171011,
+      "name": "Phralipe",
+      "url": "https://open.spotify.com/track/40dgzzcO3h7pHHC56mkfSq"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/5miqZaQUpzPk1M29BtXv4y"
       },
@@ -7776,6 +7914,24 @@
       "duration_ms": 176969,
       "name": "Rajosan 3",
       "url": "https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP"
+    },
+    {
+      "album": {
+        "name": "RAKRAK",
+        "url": "https://open.spotify.com/album/5ekMb1cAj9ffBJJX7nJWc9"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "RAKRAK",
+      "url": "https://open.spotify.com/track/6FJzE356NYVmZbY5fv8Td3"
     },
     {
       "album": {
@@ -9492,7 +9648,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 168260,
       "name": "televana",
       "url": "https://open.spotify.com/track/1hhCT2t9WDHyrrPpgdQwaz"
@@ -9564,7 +9720,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 193333,
       "name": "Testv\u00e9rem",
       "url": "https://open.spotify.com/track/1nLmTIGzbm7OKaZo17cDoC"
@@ -9846,7 +10002,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 178946,
       "name": "Turn The Lights Off - Radio Edit",
       "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
@@ -10096,7 +10252,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 167368,
       "name": "VALHALLA",
       "url": "https://open.spotify.com/track/48JCe33GOssmhr5nVonHdY"
@@ -10136,7 +10292,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 382000,
       "name": "Van Egy H\u00e1z - N\u00e9pzenei \u00c1tdolgoz\u00e1s",
       "url": "https://open.spotify.com/track/44EDgYy4Hp56mIzT906RdC"

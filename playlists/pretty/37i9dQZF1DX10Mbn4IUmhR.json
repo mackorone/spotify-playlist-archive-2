@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Lloyiso",
-  "num_followers": 5429,
+  "num_followers": 5428,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-03-26 23:59:22",
       "album": {
-        "name": "How To Be Human",
-        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 192157,
-      "name": "There's Just Something About Her",
-      "url": "https://open.spotify.com/track/7Ae3TUjIzn3gIHPMpZKhot"
-    },
-    {
-      "added_at": "2026-03-26 23:59:22",
-      "album": {
         "name": "PARADISE LOST",
         "url": "https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 196958,
       "name": "MY EVERYTHING",
       "url": "https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8"
+    },
+    {
+      "added_at": "2026-03-26 23:59:22",
+      "album": {
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 192157,
+      "name": "There's Just Something About Her",
+      "url": "https://open.spotify.com/track/7Ae3TUjIzn3gIHPMpZKhot"
     },
     {
       "added_at": "2026-03-26 23:59:22",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-26 23:59:22",
       "album": {
-        "name": "Popstar Party",
-        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Popstar Party",
-      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
-    },
-    {
-      "added_at": "2026-03-26 23:59:22",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 254115,
       "name": "If U Love Me Now",
       "url": "https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi"
+    },
+    {
+      "added_at": "2026-03-26 23:59:22",
+      "album": {
+        "name": "Popstar Party",
+        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Popstar Party",
+      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
     },
     {
       "added_at": "2026-03-26 23:59:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-03-26 23:59:22",
       "album": {
-        "name": "WHAT'S THE RUSH?!",
-        "url": "https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR"
-      },
-      "artists": [
-        {
-          "name": "Ben Reid",
-          "url": "https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "WHAT'S THE RUSH?!",
-      "url": "https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8"
-    },
-    {
-      "added_at": "2026-03-26 23:59:22",
-      "album": {
         "name": "180\u00b0",
         "url": "https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 169671,
       "name": "180\u00b0",
       "url": "https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL"
+    },
+    {
+      "added_at": "2026-03-26 23:59:22",
+      "album": {
+        "name": "WHAT'S THE RUSH?!",
+        "url": "https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR"
+      },
+      "artists": [
+        {
+          "name": "Ben Reid",
+          "url": "https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "WHAT'S THE RUSH?!",
+      "url": "https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8"
     },
     {
       "added_at": "2026-03-26 23:59:22",

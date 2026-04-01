@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Rachel Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,141 likes - 64 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,146 likes - 64 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 9 | [Sugar Rush](https://open.spotify.com/track/26NHpTXnxwSkxR8MqRDNNr) | [Sanan Khalid](https://open.spotify.com/artist/0NDyAM1Wxd2yKhm5XAybTN), [Arham.](https://open.spotify.com/artist/0SYh0lnzuzRES5L2Sr6CQY) | [Sugar Rush](https://open.spotify.com/album/0fBuoUL9oMpEpVKD8Ayf3a) | 2:18 |
 | 10 | [Badtameez Haramkhor](https://open.spotify.com/track/76s5sPDlN1lcAIOz6Vm9gi) | [Dulhay Mian](https://open.spotify.com/artist/5r5kyp8SEFSYHJCJvbwi1c) | [Badtameez Haramkhor](https://open.spotify.com/album/40ZRjwdc75JAA0hzp4Nw9l) | 2:50 |
 | 11 | [Piya Kahay](https://open.spotify.com/track/4LezAe4UTsNCgnMHASman8) | [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR), [Roshaan](https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3) | [Limitless](https://open.spotify.com/album/1HiXFehB6UwEqeEc8MsoNs) | 3:00 |
-| 12 | [Kahani](https://open.spotify.com/track/3TF5QEUU9lVrYALuWdz8Xc) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Kahani](https://open.spotify.com/album/2KaQsHtuID8cd3aG2CBF31) | 2:41 |
+| 12 | [Kahani](https://open.spotify.com/track/3TF5QEUU9lVrYALuWdz8Xc) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70), [Mankasha](https://open.spotify.com/artist/4gzTgGYYwy22Soo2ApIAWb) | [Kahani](https://open.spotify.com/album/2KaQsHtuID8cd3aG2CBF31) | 2:41 |
 | 13 | [Naraaziyan](https://open.spotify.com/track/6g3DARPrw8YBvmTr8MaOo1) | [Awais Amjad](https://open.spotify.com/artist/0E88xbJhwY36tkrrBGXN3p) | [Naraaziyan](https://open.spotify.com/album/73xLZwrQDojwpr876iYvLr) | 3:03 |
 | 14 | [No Forever](https://open.spotify.com/track/7IMPkV5TkQo6LDTeRi00lC) | [Salaar Iseave](https://open.spotify.com/artist/2s1w42G02GxKANhHIaVA1q), [It's Zaaka](https://open.spotify.com/artist/3lNs1LBYDA91UbCguOMOBj), [Team Dark](https://open.spotify.com/artist/1Be5wDUOHPjt9HopLOsVoX) | [No Forever](https://open.spotify.com/album/6MocrzG6bwzsiNygnWInWZ) | 2:20 |
 | 15 | [duniya ka rang](https://open.spotify.com/track/01N0kO26RYIQrivkjQtvH1) | [Kaalak](https://open.spotify.com/artist/3q9iWsaB90kIfXL5yzoD4j), [Saadan](https://open.spotify.com/artist/0JZe8MquTlD7aeWsMWMF9w) | [duniya ka rang](https://open.spotify.com/album/4eMOhAUHpx44WV188heT7m) | 2:41 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Sabah.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Izah.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -2604,6 +2604,24 @@
       "duration_ms": 226401,
       "name": "6 de Enero",
       "url": "https://open.spotify.com/track/0Xm3BWqOONZzngE78dWd3o"
+    },
+    {
+      "album": {
+        "name": "610",
+        "url": "https://open.spotify.com/album/48PvI4P9rfLvWEnR9bJVmT"
+      },
+      "artists": [
+        {
+          "name": "Izah",
+          "url": "https://open.spotify.com/artist/5lj6WIS8ebOX9jd7Dr0R0s"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214632,
+      "name": "610",
+      "url": "https://open.spotify.com/track/1TRTnSEpyBY3fiCszjLXlE"
     },
     {
       "album": {
@@ -8548,6 +8566,24 @@
       "duration_ms": 152068,
       "name": "ALGUIEN COMO YO",
       "url": "https://open.spotify.com/track/4ph5v2PkTaCBaOOXt3FXQp"
+    },
+    {
+      "album": {
+        "name": "Alguien especial",
+        "url": "https://open.spotify.com/album/5Y9vYd2Alq7pXGO6xuSjCS"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214170,
+      "name": "Alguien especial",
+      "url": "https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt"
     },
     {
       "album": {
@@ -18642,7 +18678,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 178536,
       "name": "Birkin",
       "url": "https://open.spotify.com/track/1VfGyovRLXjurxN6uxoeU6"
@@ -45780,7 +45816,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 179284,
       "name": "El Nudo",
       "url": "https://open.spotify.com/track/04x0zHP509bFpBD5pTRvnV"
@@ -47200,7 +47236,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 239306,
       "name": "El tiempo en que te vas",
       "url": "https://open.spotify.com/track/4jEPLg82tsyjSYy7H61FXQ"
@@ -88644,6 +88680,24 @@
     {
       "album": {
         "name": "Mejor",
+        "url": "https://open.spotify.com/album/4nLZuftYdzPjq8i1LclGSM"
+      },
+      "artists": [
+        {
+          "name": "CARO CAXI",
+          "url": "https://open.spotify.com/artist/2l3I6o9jYGKXHtN5GB4VgJ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134150,
+      "name": "Mejor",
+      "url": "https://open.spotify.com/track/2gPGKV3pAgHTuqoZQugRH6"
+    },
+    {
+      "album": {
+        "name": "Mejor",
         "url": "https://open.spotify.com/album/5MXdFsThAILyBkS812jJSE"
       },
       "artists": [
@@ -88862,6 +88916,24 @@
       "duration_ms": 180923,
       "name": "mejor que yo",
       "url": "https://open.spotify.com/track/2fmWXDek8ODiqjJvWjoCb8"
+    },
+    {
+      "album": {
+        "name": "MEJOR QUE YO (Acto I: Leviat\u00e1n)",
+        "url": "https://open.spotify.com/album/0HXxgj4mR748H6qZBQwBjB"
+      },
+      "artists": [
+        {
+          "name": "st. PAVLO",
+          "url": "https://open.spotify.com/artist/2OPWBFqZpn9A45V0r0nj1K"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "MEJOR QUE YO (Acto I: Leviat\u00e1n)",
+      "url": "https://open.spotify.com/track/0hnR8D0MFxHe74ZT3hWgky"
     },
     {
       "album": {
@@ -116204,7 +116276,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 215391,
       "name": "Por los barbechos",
       "url": "https://open.spotify.com/track/3T9NAGhF5Ybk15grX6KPNz"
@@ -118098,7 +118170,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 231329,
       "name": "Proxy",
       "url": "https://open.spotify.com/track/3QSGbIWB4yNHiu3eisxp4A"
@@ -135172,7 +135244,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 165517,
       "name": "SO\u00d1AR",
       "url": "https://open.spotify.com/track/4fFJwjZQDcNk6vPx9fydRs"

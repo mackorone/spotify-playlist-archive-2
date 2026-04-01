@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,533 likes - 43 songs - 2 hr 31 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,546 likes - 44 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 41 | [Turn into You](https://open.spotify.com/track/6Lz1tAR0AMy1lxPxwWkOnL) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Turn into You](https://open.spotify.com/album/17ccZ72JqjSYFi6MjGmEXm) | 3:43 |
 | 42 | [Everybody Needs Love](https://open.spotify.com/track/1VGurATUB0A5j4OdVS3Kzi) | [Lewdale Canyon](https://open.spotify.com/artist/5vYKvlJefPcoPfJOYy6iCH) | [Everybody Needs Love](https://open.spotify.com/album/72HSq0tAxKHm86zBerZOgB) | 4:09 |
 | 43 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 |
+| 44 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
 
-Snapshot ID: `AAACfd1ei0FePRMbPf91Z22gLuVS+d1z`
+Snapshot ID: `AAACfvuDuH9nYhlez140dbRVBatjKzdl`

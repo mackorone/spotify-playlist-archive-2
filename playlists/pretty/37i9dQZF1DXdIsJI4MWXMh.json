@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80304,
+  "num_followers": 80320,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
       "artists": [
         {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
+      "duration_ms": 337535,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -343,22 +347,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
       },
       "artists": [
         {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
         }
       ],
-      "duration_ms": 337535,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Una Hora para Bailar",
         "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Micaela",
-        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "La Micaela",
-      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "La Vida No Vale Nada",
         "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 204255,
       "name": "La Vida No Vale Nada",
       "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Micaela",
+        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "La Micaela",
+      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 221680,
-      "name": "Charros para Rato",
-      "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "La Sustancia",
         "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 206949,
       "name": "La Sustancia",
       "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 221680,
+      "name": "Charros para Rato",
+      "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "C\u00f3mo Quisiera",
-        "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
-      },
-      "artists": [
-        {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
-        },
-        {
-          "name": "Toly Fu",
-          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
-        }
-      ],
-      "duration_ms": 230542,
-      "name": "C\u00f3mo Quisiera",
-      "url": "https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Vivo en Tinieblas",
         "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
@@ -1659,8 +1639,8 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Solovino",
-        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
+        "name": "Los Mandados",
+        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
       },
       "artists": [
         {
@@ -1668,9 +1648,29 @@
           "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 183525,
-      "name": "El Solovino",
-      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
+      "duration_ms": 197110,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "C\u00f3mo Quisiera",
+        "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
+      },
+      "artists": [
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        },
+        {
+          "name": "Toly Fu",
+          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
+        }
+      ],
+      "duration_ms": 230542,
+      "name": "C\u00f3mo Quisiera",
+      "url": "https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Picaito",
-        "url": "https://open.spotify.com/album/22JwYPWzu2pKj8LEEv8GY6"
+        "name": "El Solovino",
+        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
       },
       "artists": [
         {
-          "name": "GARA\u00d1ON",
-          "url": "https://open.spotify.com/artist/4vuZOPfxOGM02V8rp7m9VA"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 156281,
-      "name": "El Caballo Blanco",
-      "url": "https://open.spotify.com/track/6dyy250Elf7UUjL5p6m84R"
+      "duration_ms": 183525,
+      "name": "El Solovino",
+      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
     }
   ],
   "unique_name": "Ranchera Chilena",

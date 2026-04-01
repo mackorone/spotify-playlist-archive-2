@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,634 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,664 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 13 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz) | [Capitol Kids!](https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt) | [Capitol Kids! Hits](https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3) | 4:14 |
 | 14 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 |
 | 15 | [I'm So Blessed \(Kids Version\)](https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I'm So Blessed \(Kids Version\)](https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ) | 3:48 |
-| 16 | [Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Temree Miller](https://open.spotify.com/artist/11gZoyWLqqzejm5tmoDZke) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 |
-| 17 | [Christ The Lord Is Risen Today](https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Spring Songs](https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR) | 3:12 |
+| 16 | [Christ The Lord Is Risen Today](https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Spring Songs](https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR) | 3:12 |
+| 17 | [Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Temree Miller](https://open.spotify.com/artist/11gZoyWLqqzejm5tmoDZke) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 |
 | 18 | [God Be With You Til We Meet Again](https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0) | [Sing Hosanna](https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4) | [God Be With You Til We Meet Again](https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg) | 3:12 |
 | 19 | [That's My King](https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [That's My King](https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU) | 3:48 |
 | 20 | [Blessed Be Your Name](https://open.spotify.com/track/1QctzVu5HOS1wJounaXEmb) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 99 | [The Lord Is My Shepherd \(Psalm 23:1\)](https://open.spotify.com/track/1yjzLKL3Oa2UEnMLoYIa0X) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:30 |
 | 100 | [I Will Worship The Lord](https://open.spotify.com/track/5qkAd5c8LJ54kmi3ihvm2B) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [I Will Worship The Lord](https://open.spotify.com/album/0D6VPX4ae3Pzk0guruvSCa) | 2:03 |
 
-Snapshot ID: `AAAAAAEDnkzwNnHsMgfolOnN4J5TRKQ9`
+Snapshot ID: `AAAAAO2StCo0l76tYYmXIg4Vf2fu3kFP`

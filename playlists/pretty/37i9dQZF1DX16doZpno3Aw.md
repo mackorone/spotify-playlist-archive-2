@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,115 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,348 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 99 | [Mother's Love](https://open.spotify.com/track/25iPLrlogdTHS9ZYnUEtxw) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [A Plane Over Woods](https://open.spotify.com/album/4Z7lelxEoQzIl8Zi9rjsVi) | 3:41 |
 | 100 | [Freeze III](https://open.spotify.com/track/1pSUv8DIGUxeKL0IALx844) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Ghost Woods](https://open.spotify.com/album/3hrQZTPngV1oBhXWV72hRp) | 21:27 |
 
-Snapshot ID: `AAAAAJEsz5jbTKSqExjfx2tm58NThKB/`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

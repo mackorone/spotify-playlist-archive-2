@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 736 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 20 | [a veces casi siempre](https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [BLANCOMEZCLILLA](https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ) | 3:07 |
 | 21 | [FUKUOKA](https://open.spotify.com/track/02v2CNsatRvxz7lNpHNIXQ) | [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K), [Stayleave](https://open.spotify.com/artist/16Z8TUYeqzVd82zjNPaZOZ) | [COMPLICOSO](https://open.spotify.com/album/7vry793ce2jEA19WueQpkv) | 2:43 |
 | 22 | [Umami](https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 3:59 |
-| 23 | [Libros Y Libretas](https://open.spotify.com/track/082Lk8mUhSVJYfHP8XpC9z) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Libros y Libretas](https://open.spotify.com/album/3PzriIQshM2XnxGqO37uvj) | 2:52 |
+| 23 | [Libros y Libretas](https://open.spotify.com/track/082Lk8mUhSVJYfHP8XpC9z) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Libros y Libretas](https://open.spotify.com/album/3PzriIQshM2XnxGqO37uvj) | 2:52 |
 | 24 | [Palenque del Diablo](https://open.spotify.com/track/3oM7LojCQuJjYLgXQxWzIy) | [Ehekatl Arizmendi](https://open.spotify.com/artist/2ygy1rjEI0F2A0TBEZHQVB) | [Vengo da te](https://open.spotify.com/album/7JMyUKbal10AjmB5b8ewjX) | 2:34 |
 | 25 | [Hasta Nunca](https://open.spotify.com/track/1XQTJT0zz8wLPPETxOad9H) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Autogol](https://open.spotify.com/album/3xiQQRyi2I4vsjvwYp0yEj) | 2:54 |
 | 26 | [Lluvias de Mayo](https://open.spotify.com/track/5IMyx2Xtze7pivWP42kDx4) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [Lluvias de Mayo](https://open.spotify.com/album/5LLprNRf1qrIX377J9gwhq) | 4:28 |

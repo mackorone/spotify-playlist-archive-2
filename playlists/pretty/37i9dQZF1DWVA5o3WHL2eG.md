@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,516 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,500 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [99 Probleme](https://open.spotify.com/track/5kzcodJVFIui6nCRAfKw3O) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:33 |
 | 14 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 |
 | 15 | [Aftermath](https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:31 |
-| 16 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 |
-| 17 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
+| 16 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
+| 17 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 |
 | 18 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
 | 19 | [Moje Sve](https://open.spotify.com/track/1LBWVVGfTCr8EYNSd92W81) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Moje Sve](https://open.spotify.com/album/5k44BwZZocI0dnbgy3vyQk) | 2:42 |
 | 20 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Melody](https://open.spotify.com/track/0kdpQ3yq9JDvpiuOlMBqzs) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Melody](https://open.spotify.com/album/3m4FDyJe4YiXuQt4b5PxKb) | 2:46 |
 | 41 | [Frei](https://open.spotify.com/track/2YtSRsWYbmXibPDiyfg47K) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Madonna Whore Komplex](https://open.spotify.com/album/4W33bBRbpEkrd8yQhiubqX) | 2:37 |
 | 42 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
-| 43 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
-| 44 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |
+| 43 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |
+| 44 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 45 | [BLICKE](https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [BLICKE](https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O) | 2:11 |
 | 46 | [Real Face](https://open.spotify.com/track/3iP0ip5Z4P8s9SXiSECPZs) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Chasing Dreams](https://open.spotify.com/album/25DsF8SFndSpdjjGT9zEc4) | 2:51 |
 | 47 | [switch places](https://open.spotify.com/track/5f9lBYomdenoiOavfabNjO) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [switch places](https://open.spotify.com/album/4ew6fl7tuoj0xxq6NZtEzN) | 3:02 |

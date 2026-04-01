@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Melissa Etheridge",
-  "num_followers": 235652,
+  "num_followers": 235670,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "Can't Be There Today",
-        "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Can't Be There Today",
-      "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
         "name": "Carter Girl",
         "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
+        "name": "Can't Be There Today",
+        "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
+      },
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Can't Be There Today",
+      "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
         "name": "Robby Hecht",
         "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
       },
@@ -1771,22 +1771,6 @@
       "duration_ms": 221213,
       "name": "New York City",
       "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
-    },
-    {
-      "added_at": "2026-03-27 04:00:09",
-      "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1811,22 +1795,18 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "In Spite of Ourselves",
-        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Iris DeMent",
-          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
         }
       ],
-      "duration_ms": 213600,
-      "name": "In Spite of Ourselves (feat. Iris DeMent)",
-      "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1843,6 +1823,26 @@
       "duration_ms": 169586,
       "name": "Little Black Train",
       "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
+    },
+    {
+      "added_at": "2026-03-27 04:00:09",
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "In Spite of Ourselves (feat. Iris DeMent)",
+      "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -1943,8 +1943,8 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
       "artists": [
         {
@@ -1952,9 +1952,9 @@
           "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -2023,8 +2023,8 @@
     {
       "added_at": "2026-03-27 04:00:09",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
       "artists": [
         {
@@ -2032,9 +2032,9 @@
           "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2026-03-27 04:00:09",

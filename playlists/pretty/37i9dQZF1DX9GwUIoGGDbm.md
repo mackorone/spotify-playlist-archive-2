@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. ©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,468 likes - 81 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,480 likes - 81 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
+| 1 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Airi Suzuki](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
 | 2 | [赤と青](https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9) | [四宮かぐや\(CV:古賀葵\)](https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay) | [赤と青](https://open.spotify.com/album/2KNtCxiHwzQiXAez1ATpjO) | 3:58 |
 | 3 | [My Nonfiction](https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV) | [白銀御行\(CV:古川慎\)](https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp), [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [My Nonfiction](https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R) | 2:35 |
 | 4 | [私立秀知院学園](https://open.spotify.com/track/0Y8NRL95mkeQRJ4otH7l5t) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:22 |
 | 5 | [告白](https://open.spotify.com/track/08Hcz6DxSUsvJo13dsvyI1) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:22 |
-| 6 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
+| 6 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [Airi Suzuki](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
 | 7 | [かぐや様](https://open.spotify.com/track/2t4GTlU94UjdYcSP8Fol3Q) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:13 |
 | 8 | [敗北](https://open.spotify.com/track/0Tbllp57D0nvcu6TpaSk44) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:15 |
 | 9 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 29 | [Love is Show](https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [高城れに](https://open.spotify.com/artist/2CxNK0ldwLmusTYWs11geL) | [Love is Show](https://open.spotify.com/album/2bcEQN6dTexArpv0SqCpL5) | 4:02 |
 | 30 | [やさしさの記憶](https://open.spotify.com/track/1dKN4gUy9GaUMn0p0IBtxB) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 4:14 |
 | 31 | [この１年](https://open.spotify.com/track/5JEZbjLnsCrRDoXbRe1U0c) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:08 |
-| 32 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 |
+| 32 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [Airi Suzuki](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 |
 | 33 | [つばめ先輩](https://open.spotify.com/track/45BOFzgDNrfExqVHywmryX) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:36 |
 | 34 | [間接キ……](https://open.spotify.com/track/5nq7LH2smwREjrQtUziT6d) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:09 |
 | 35 | [まさに地獄](https://open.spotify.com/track/6Tn20BToN4tjK32BH2fdEe) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:06 |

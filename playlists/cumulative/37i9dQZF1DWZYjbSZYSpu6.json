@@ -64,7 +64,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 183000,
       "name": "10,000km (feat. Solji)",
       "url": "https://open.spotify.com/track/1Xq0CyUtWqrp0yUjBXAQ5O"
@@ -5710,6 +5710,28 @@
       "duration_ms": 194093,
       "name": "You & Love (feat. Kate Kim)",
       "url": "https://open.spotify.com/track/4IO7iRsmxWNlSX4RVJgxkU"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-126 songs - 7 hr 17 min
+127 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-04 | 2025-12-09 |
 | [My Friend](https://open.spotify.com/track/60tEe3FD5InMNCDJBSOAZi) | [postcard](https://open.spotify.com/artist/3SW3Kv43pKoTu9HwN4rhSj) | [Postcard](https://open.spotify.com/album/4XcJSh9lkIQkexyxQQLoqf) | 3:25 | 2025-10-29 | 2025-12-09 |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-03 | 2025-12-09 |
+| [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-03-31 |  |
 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2025-12-06 |  |
 | [Noche Salvaje](https://open.spotify.com/track/2hKsTIIIv4MvrAmIy4sWWX) | [Break.Out](https://open.spotify.com/artist/5QYRdCdd7IpHlwrh5v2PPT) | [Noche Salvaje](https://open.spotify.com/album/5XQB8rZPholnVJusb803uP) | 3:21 | 2025-10-29 | 2025-12-09 |
 | [Not Real](https://open.spotify.com/track/2h0rNNxfeN6n18zEhb1uOA) | [FAIA LYN](https://open.spotify.com/artist/0PIi7hsIDjKPYH66SOko0H) | [Not Real](https://open.spotify.com/album/4kGbXFHPB46aYEtQTJ22HD) | 3:17 | 2025-12-12 |  |

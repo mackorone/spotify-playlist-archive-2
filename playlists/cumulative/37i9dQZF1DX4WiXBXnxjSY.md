@@ -4,7 +4,7 @@
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-145 songs - 6 hr 43 min
+149 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Green Wavy Noise](https://open.spotify.com/track/7282LS7giJRPFVJUnXfUCh) | [Inverted Noise](https://open.spotify.com/artist/161UkB7gyd1nQMVFLwUrDP) | [Green Ocean Spray](https://open.spotify.com/album/1Y0iPYHEo4Wj5HwkZMppZz) | 2:09 | 2024-02-13 |  |
 | [Harmonic Oasis \- Green Noise](https://open.spotify.com/track/3yJn5MHbhqJoN7GsuFVnyu) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Emerald Meadows \(Green Noise\)](https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO) | 3:04 | 2023-10-05 |  |
 | [Heavy Noise](https://open.spotify.com/track/13EVtBX4UEXL060vNyB0wA) | [Scientific Noise](https://open.spotify.com/artist/0DH931C5uJzm7OceDNh41S) | [Soothing Green Noise](https://open.spotify.com/album/5TNoeP6xKaZElUHFlkeYGh) | 2:25 | 2023-10-05 |  |
+| [Kelp Tide Green Noise](https://open.spotify.com/track/5Aqrp0Ys7XgQSRj7FkOXle) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Kelp Tide Green Noise](https://open.spotify.com/album/34O6jiNyNPG2hQ6ZIeRIWP) | 2:52 | 2026-03-31 |  |
 | [Lush Lullaby \- Green Noise](https://open.spotify.com/track/1rO8WZPwV6OKEKVhRWfsXS) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 2:52 | 2023-10-05 |  |
 | [Meditating with Green Noise and the Waves](https://open.spotify.com/track/37ZcgTeQclPJU8Jdirivod) | [Ozeanus](https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB) | [Waves of Green Noise](https://open.spotify.com/album/4or1sbutGrnDPUjpkCQwXG) | 2:51 | 2023-10-05 |  |
 | [Mind Focus on Crashing Waves](https://open.spotify.com/track/336sY1nMt3a2HgyDJIi1j3) | [Pil Grims](https://open.spotify.com/artist/7zzDyDEf4TxmSAPfmDB3aD) | [Mind Focus \- Green Noise](https://open.spotify.com/album/7zwa2mYAIbJqSkZEJ1zint) | 2:08 | 2023-10-05 |  |
@@ -143,6 +144,7 @@
 | [The Green Ocean](https://open.spotify.com/track/3dlzOQTsVKxyz2hFQgCAQY) | [Sleep White Noise](https://open.spotify.com/artist/7ohMIf7cEsbM1KajDrHGoY) | [Green Noise Waves](https://open.spotify.com/album/2v7Al6TGgVAUYIF8U2bgJ9) | 2:23 | 2024-02-13 |  |
 | [The Sleep \(500 Hz LP, 100 Hz HP\)](https://open.spotify.com/track/2EZmdpnq1dViZ8FMmYUtyo) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Green Noise For Sleep](https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK) | 3:20 | 2023-10-05 |  |
 | [Verdigris \(Green Noise\)](https://open.spotify.com/track/3eDCjGdm8Wl2qyo52XzSNL) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Epitome of Green Noise](https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko) | 2:44 | 2023-10-05 |  |
+| [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 1:39 | 2026-03-31 |  |
 | [Waves](https://open.spotify.com/track/7wOuuxbQB0kP3ggX03icUs) | [Sleep White Noise](https://open.spotify.com/artist/7ohMIf7cEsbM1KajDrHGoY) | [Green Noise Waves](https://open.spotify.com/album/2v7Al6TGgVAUYIF8U2bgJ9) | 2:51 | 2024-02-13 |  |
 | [Waves Hitting Rocks](https://open.spotify.com/track/5149jZeDqwWPrJ0jrW3SKI) | [Surf & Turf](https://open.spotify.com/artist/50629oufjz881d0uHfUC3n) | [Coastline Chorus](https://open.spotify.com/album/2neOlMvrCBU5uGyTDNA9A7) | 3:12 | 2023-10-05 |  |
 | [Waves of Green Noise](https://open.spotify.com/track/73iRAmayzszVW9RtQbmKFW) | [Ozeanus](https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB) | [Waves of Green Noise](https://open.spotify.com/album/4or1sbutGrnDPUjpkCQwXG) | 3:24 | 2024-02-13 |  |
@@ -152,6 +154,8 @@
 | [Wide Green Noise Sweeping Panorama \- Extended Version](https://open.spotify.com/track/6vxvD6BgrDQnvoesz24Qxp) | [White Noise Workshop](https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI) | [Green Noise \(Extended Version\)](https://open.spotify.com/album/1k7TCRIOKLwN8hOGrscUKe) | 2:04 | 2024-02-13 |  |
 | [Wide Stereo Bright Green Noise](https://open.spotify.com/track/3bfcBdUPwPkF4fl9nD1QpW) | [Green Noise Deep Sleep](https://open.spotify.com/artist/4tns5cCeDNeFVHyediVGSy) | [Green Noise Deep Sleep](https://open.spotify.com/album/56QixlGj8zSI1APM8R0PDn) | 2:24 | 2024-02-13 |  |
 | [Willow Whispers \- Green Noise](https://open.spotify.com/track/7MEdVlzuF4kr6MI6dpPg4W) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Willow Whispers \(Green Noise\)](https://open.spotify.com/album/2NPrj910o3GxzQYF3zeRTQ) | 3:10 | 2023-10-05 |  |
+| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-03-31 |  |
+| [Windy Ocean Green Noise](https://open.spotify.com/track/3xifPSyioFK60gLWlxvCGJ) | [Tonality X](https://open.spotify.com/artist/7rFRyQGntyqOr103TOqVwx) | [Wide Waves & Wind](https://open.spotify.com/album/4r4P2oLJrQLGS5IWsXgTDU) | 1:46 | 2026-03-31 |  |
 | [Windy Waves](https://open.spotify.com/track/7DARDOK8wSQsdtDyWAZbEZ) | [Sonic Focuz](https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j) | [Green Color Noise](https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6) | 2:34 | 2023-10-05 |  |
 
 \*This playlist was first scraped on 2023-10-07. Prior content cannot be recovered.

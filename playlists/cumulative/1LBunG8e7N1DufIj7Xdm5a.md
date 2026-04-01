@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,192 songs - 9 day 7 hr 18 min
+4,194 songs - 9 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2733,6 +2733,7 @@
 | [Panic Attack](https://open.spotify.com/track/09hVCP186IellGdBu2IYuz) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 3:08 | 2025-06-30 |  |
 | [Panic Attacks](https://open.spotify.com/track/6zGrEcrSqc9Oif35EOGLVu) | [Brittany Mackie](https://open.spotify.com/artist/0LgTBAM4hYH6tlqaDXPTc2) | [Panic Attacks](https://open.spotify.com/album/22HRJh3DnSkYr2HLHGl48a) | 2:32 | 2025-09-01 |  |
 | [Panopticon](https://open.spotify.com/track/1FZY79GTgKZvI1v805ZoAD) | [Unità di Produzione](https://open.spotify.com/artist/0rRsE3wADulMq6yY14Ef4z) | [Panopticon](https://open.spotify.com/album/5V7Ppc4ITW2ZxCXa5X2pFb) | 4:17 | 2025-11-12 |  |
+| [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 | 2026-03-31 |  |
 | [Paper Wings](https://open.spotify.com/track/2WlmA9KXlNwaDa5Dryf9B7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 4:19 | 2025-09-13 |  |
 | [Paper Wings \(another\)](https://open.spotify.com/track/58I9cMIVVYscZsW1OwXOpG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 3:08 | 2025-09-13 |  |
 | [Papers \- 2021 Remastered Version](https://open.spotify.com/track/4blDef9xHLFrMyXR85DOcj) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [Papers \(2021 Remastered Version\)](https://open.spotify.com/album/5jHmOSJfzyVE6XGj9lHhPe) | 4:35 | 2025-06-05 |  |
@@ -3179,7 +3180,7 @@
 | [Shiny Lights](https://open.spotify.com/track/3cOymZkuua7XyKZU02aPqc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Disco Pop](https://open.spotify.com/album/3YPMZbyyiuAblLkyUMiixm) | 3:07 | 2025-09-19 |  |
 | [Shiny Lights \(another\)](https://open.spotify.com/track/0Omm52IPL0bjIQrzZWyymw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Disco Pop](https://open.spotify.com/album/3YPMZbyyiuAblLkyUMiixm) | 2:26 | 2025-09-19 |  |
 | [Shouting Aloud](https://open.spotify.com/track/1upWPjPzqOcd6pcTy9B8oS) | [Fran Squadrito](https://open.spotify.com/artist/2FD9tfsKOSAqcuCsGGOErr) | [Shouting Aloud](https://open.spotify.com/album/72na7CDxMITNivb60N2N3C) | 3:37 | 2025-05-26 |  |
-| [Show U Da World](https://open.spotify.com/track/0BAMN2JvxrAFuXDiTlwyAh) | [BabyBoy1N3](https://open.spotify.com/artist/3I7oak9z3Ucz3zyXHkPrOh), [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj), [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [She Love Binx](https://open.spotify.com/album/0aT80cXiVytpfOQc27Ng9a) | 1:42 | 2025-06-23 |  |
+| [Show U Da World](https://open.spotify.com/track/0BAMN2JvxrAFuXDiTlwyAh) | [BabyBoy1N3](https://open.spotify.com/artist/3I7oak9z3Ucz3zyXHkPrOh), [user00xman](https://open.spotify.com/artist/5jHEV2nmLvDyu6MwUU9ftS), [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [She Love Binx](https://open.spotify.com/album/0aT80cXiVytpfOQc27Ng9a) | 1:42 | 2025-06-23 |  |
 | [Show Your Kitty](https://open.spotify.com/track/0UsABwYUIog7ZYMOl0OvQJ) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Show Your Kitty](https://open.spotify.com/album/2dUEwogLQjdo9y5ZG6be6Y) | 1:52 | 2025-06-04 |  |
 | [Shut Up](https://open.spotify.com/track/7iZGpuboJPQQGH07EprPnR) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:05 | 2025-07-28 |  |
 | [Shut Up!](https://open.spotify.com/track/2baQAJ0lYx79W9US6biBdj) | [The Strangerz](https://open.spotify.com/artist/0niCQXNv1iSIQlc9mgsAIZ) | [Shut Up!](https://open.spotify.com/album/7ejPbYPdXUr9xNXp7bRQFz) | 2:34 | 2025-11-05 |  |
@@ -4167,6 +4168,7 @@
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-06-30 |  |
 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 | 2025-05-23 |  |
 | [До...](https://open.spotify.com/track/5m6XWAJqh5JIASKzflxibL) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [До...](https://open.spotify.com/album/5DSJDeiaxavP4mZnoyqWC0) | 4:28 | 2025-05-15 |  |
+| [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2025-11-15 |  |
 | [Космос ждёт!](https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:44 | 2026-02-23 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-15 |  |

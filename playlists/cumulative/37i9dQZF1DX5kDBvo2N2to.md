@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-529 songs - 1 day 4 hr 7 min
+530 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Buddy](https://open.spotify.com/track/1TX5YEqG0GQH5zdA6y4GzQ) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Buddy](https://open.spotify.com/album/2UqdYHuCN9P2STSMaMlVm8) | 4:10 | 2026-02-26 |  |
 | [Butterflies](https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Butterflies](https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH) | 3:08 | 2024-08-08 | 2024-09-20 |
 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 | 2024-09-13 | 2025-02-23 |
-| [Byta efternamn](https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Byta efternamn](https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF) | 3:13 | 2025-10-23 |  |
+| [Byta efternamn](https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Byta efternamn](https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF) | 3:13 | 2025-10-23 | 2026-04-01 |
 | [Bäst](https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Bäst](https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz) | 2:36 | 2025-01-16 | 2025-05-30 |
 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-29 |
 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 | 2024-06-28 | 2024-09-13 |
@@ -292,6 +292,7 @@
 | [Känslostyrd](https://open.spotify.com/track/2uehAVAiwspd3OlukIw100) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [Känslostyrd](https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe) | 2:28 | 2026-01-12 |  |
 | [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 |  |
+| [Ladder](https://open.spotify.com/track/3vRVeGYoJGYSkbka121cx2) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Ladder](https://open.spotify.com/album/4v1tuyoBHh0F60UbAo7NcZ) | 3:14 | 2026-03-26 |  |
 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 | 2026-01-30 |
 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 | 2025-09-05 |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |

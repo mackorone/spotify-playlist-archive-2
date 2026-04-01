@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61808,
+  "num_followers": 61807,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "I'll Give You My Heartache",
-        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "I'll Give You My Heartache",
-      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Ordet",
         "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 118400,
       "name": "Forenet",
       "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "I'll Give You My Heartache",
+        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "I'll Give You My Heartache",
+      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Plays Ballads",
         "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 555320,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Out Here",
         "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 507534,
       "name": "I Have Dreamed",
       "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 555320,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1295,26 +1295,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Gone With The Wind",
-        "url": "https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r"
+        "name": "Frank Morgan",
+        "url": "https://open.spotify.com/album/162jPZpTRfIildg4fMWtHK"
       },
       "artists": [
         {
-          "name": "Martin Wind",
-          "url": "https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT"
-        },
-        {
-          "name": "Bill Mays",
-          "url": "https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ"
-        },
-        {
-          "name": "Keith Copeland",
-          "url": "https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe"
+          "name": "Frank Morgan",
+          "url": "https://open.spotify.com/artist/65HhcbtTjbjB81u37nzaeP"
         }
       ],
-      "duration_ms": 499600,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym"
+      "duration_ms": 286533,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/3r9JK2n0ERWNO6NeXGDbDw"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

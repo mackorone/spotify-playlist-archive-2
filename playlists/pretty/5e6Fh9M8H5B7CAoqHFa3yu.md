@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 300 likes - 2,116 songs - 5 day 5 hr 34 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 300 likes - 2,118 songs - 5 day 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2124,5 +2124,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2114 | [No Me Faltes](https://open.spotify.com/track/6vRrzftD5VPE97cASRGDO6) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Me Faltes](https://open.spotify.com/album/3hCoH6JUGGzoiihYLssRVu) | 3:18 |
 | 2115 | [No Estas Cerca](https://open.spotify.com/track/6wJgxcP6uexZ65xhyk2vyk) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Estas Cerca](https://open.spotify.com/album/2FYr0svN8acYaK0wID61rT) | 3:17 |
 | 2116 | [El Que Nunca Se Fue](https://open.spotify.com/track/3kG23PaOrePhCnp80mPPEi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [El Que Nunca Se Fue](https://open.spotify.com/album/1b1sZkyLXjfm1FtIYdJTUU) | 2:24 |
+| 2117 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 |
+| 2118 | [Psychedelic \- Band Version](https://open.spotify.com/track/2IKjfnfs0Bji4vr6NnQ9Rb) | [Kayleigh Walker](https://open.spotify.com/artist/5GKQQUenHbZ5qmohHqMBCd) | [Who is she ? \(Band Version\)](https://open.spotify.com/album/16b7kK0q5bR4Olemf8x4NG) | 3:37 |
 
-Snapshot ID: `AAAI5knZ/SCtrZaLA45AgXEhzKSF2VFo`
+Snapshot ID: `AAAI6Ef+4OhAEOnimH6OubCGrE89I7ly`

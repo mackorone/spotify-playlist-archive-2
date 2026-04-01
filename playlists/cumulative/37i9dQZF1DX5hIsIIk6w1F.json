@@ -24939,6 +24939,28 @@
     },
     {
       "album": {
+        "name": "Vuele",
+        "url": "https://open.spotify.com/album/4lUosWvC95VN2HsUdE1SCt"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160473,
+      "name": "Vuele",
+      "url": "https://open.spotify.com/track/4ArEaGCWtc5NMRC8BAGToR"
+    },
+    {
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Paris Paloma",
-  "num_followers": 325744,
+  "num_followers": 325777,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Old Holy Feeling",
-        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
-      },
-      "artists": [
-        {
-          "name": "Josephine Illingworth",
-          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
-        }
-      ],
-      "duration_ms": 306852,
-      "name": "Old Holy Feeling",
-      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Old Holy Feeling",
+        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "duration_ms": 306852,
+      "name": "Old Holy Feeling",
+      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 302600,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Quiet the Room",
-        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Whatever Fits Together",
-      "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Highway 101, Vol. 2",
         "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 220586,
       "name": "(Do You Love Me) Just Say Yes",
       "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Quiet the Room",
+        "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Whatever Fits Together",
+      "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Anna with the Silver Arrow",
-        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
-      },
-      "artists": [
-        {
-          "name": "Ellie O'Neill",
-          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
-        }
-      ],
-      "duration_ms": 224234,
-      "name": "Anna with the Silver Arrow",
-      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Not Dark Yet",
         "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Anna with the Silver Arrow",
+        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "Anna with the Silver Arrow",
+      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Wreck You",
-      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Lighten Up",
         "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Wreck You",
+      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
         "name": "I Could Drive You Crazy",
         "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Home Plate (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
-      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Birdseye",
         "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Home Plate (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
+      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 287439,
       "name": "Broken Harvest",
       "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "baja bird",
-        "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 228681,
-      "name": "baja bird",
-      "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Polaroid Lovers",
         "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 180524,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "baja bird",
+        "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 228681,
+      "name": "baja bird",
+      "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
     },
     {
       "added_at": "2026-03-08 15:33:31",

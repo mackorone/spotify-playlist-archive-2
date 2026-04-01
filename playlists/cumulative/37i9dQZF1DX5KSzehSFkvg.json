@@ -1409,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "Ghir Ana",
+        "url": "https://open.spotify.com/album/5BiUm5dEENGHri4Wu0XfYj"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        },
+        {
+          "name": "Bachir Zairi",
+          "url": "https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Ghir Ana",
+      "url": "https://open.spotify.com/track/5pPBbSleU1nnknHrGqADep"
+    },
+    {
+      "album": {
         "name": "Ghir Ntiya",
         "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
       },
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 202191,
       "name": "Lmouje",
       "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"

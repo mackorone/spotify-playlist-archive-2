@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,280 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,328 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [SUERTE](https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [SUERTE](https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz) | 3:13 |
 | 50 | [SRT](https://open.spotify.com/track/0osiZhf6IeCHkx56wnftxU) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [SRT](https://open.spotify.com/album/1U8YkZUdFb9hhZPXOcBvzO) | 2:15 |
 
-Snapshot ID: `AAAAAIOQjAUf7rFL4fFR7PrOshNj3BrX`
+Snapshot ID: `AAAAAIhzXv/LhR746AyTVe9ZewZmaJdO`

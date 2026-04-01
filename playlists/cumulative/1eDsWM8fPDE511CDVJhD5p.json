@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 209454,
       "name": "BAD@ENGLISH (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/2D6xlWkr5jYQHG5gd2bOpc"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 183333,
       "name": "Breathless Silence (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4Z1sfWQApns0g0AJUERoB5"
@@ -1600,6 +1600,28 @@
       "duration_ms": 76520,
       "name": "Happy Pills (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7vm2daujpz2C7MSSiqoUMm"
+    },
+    {
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/1kOsi6L0svMQToZijPMusn"
+      },
+      "artists": [
+        {
+          "name": "Snarewaves",
+          "url": "https://open.spotify.com/artist/0Hb4Csp68W2ZZHMylxyiov"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116039,
+      "name": "HEAVEN (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/11RqjQIWMC61NP3rg4Pj12"
     },
     {
       "album": {
@@ -3579,6 +3601,36 @@
     },
     {
       "album": {
+        "name": "SUGARCRUSH",
+        "url": "https://open.spotify.com/album/495g5WTxy2ZR7pyrbXXuu6"
+      },
+      "artists": [
+        {
+          "name": "Eccentric",
+          "url": "https://open.spotify.com/artist/575gveAPGZRLDKnpRNNU3d"
+        },
+        {
+          "name": "Infowler",
+          "url": "https://open.spotify.com/artist/79PAbVrbCsSuRuJC80cwZG"
+        },
+        {
+          "name": "Mizu",
+          "url": "https://open.spotify.com/artist/2uG7JQabfDCuvHwboW4wit"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "SUGARCRUSH (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6yztWzBXbo7tHxOuAD1uuL"
+    },
+    {
+      "album": {
         "name": "Summer Driver",
         "url": "https://open.spotify.com/album/1xZ5ecNrluNsojAWPyXrkh"
       },
@@ -3733,6 +3785,28 @@
     },
     {
       "album": {
+        "name": "TAKEOVER",
+        "url": "https://open.spotify.com/album/4LCjxIOCd4CI2pNJpVruwA"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237257,
+      "name": "TAKEOVER (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7oS3dXFiA3nOLvAKU4KAYz"
+    },
+    {
+      "album": {
         "name": "Ten Thousand Stars",
         "url": "https://open.spotify.com/album/1QdN32vrSu3AARvPWhVVz4"
       },
@@ -3850,7 +3924,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 191305,
       "name": "Tokyo Future Girl (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/4jVRXPKONZDHOEo65E1yVx"
@@ -5120,7 +5194,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 199384,
       "name": "\u30a2\u30f3\u30c0\u30fc\u30c9\u30c3\u30b0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0EV9WDrLmk5d8zdyYgHQwv"
@@ -5776,6 +5850,32 @@
       "duration_ms": 147986,
       "name": "\u30b7\u30e1\u2606\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30ca\u30a4\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2oFpHjBARIauTGRKIkbLX7"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/4nzIAaAItO5ucj1qxKfH6K"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
+          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/4czJTr7YtRW8HTZiBXl6OM"
     },
     {
       "album": {
@@ -8106,7 +8206,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 249000,
       "name": "\u5f69\u3063\u3066\u304f\u3002 (feat. IA)",
       "url": "https://open.spotify.com/track/2rneTvdIV6hfSn5E7YJ1y5"
@@ -8686,6 +8786,32 @@
       "duration_ms": 217200,
       "name": "\u7948\u3089\u305a\u884c\u811a",
       "url": "https://open.spotify.com/track/23POfOR7fzHb7pFl1V2nNn"
+    },
+    {
+      "album": {
+        "name": "Kamioshi Neru-sama - From \"Princess Miku: The Musical\"",
+        "url": "https://open.spotify.com/album/3ghDfYZMDfGCyQBVMswWPf"
+      },
+      "artists": [
+        {
+          "name": "WUNDER RiKU",
+          "url": "https://open.spotify.com/artist/0HG6vVTU6aGNO0F3Bug23k"
+        },
+        {
+          "name": "StarlightDaryl",
+          "url": "https://open.spotify.com/artist/5eHl0uWcFb81n3zJA8442h"
+        },
+        {
+          "name": "\u4e9e\u5317\u30cd\u30eb",
+          "url": "https://open.spotify.com/artist/4s4wO4v1LhuQus9vDG6z0y"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "\u795e\u63a8\u3057\u30cd\u30eb\u69d8 - From \"Princess Miku: The Musical\" (feat. \u4e9e\u5317\u30cd\u30eb)",
+      "url": "https://open.spotify.com/track/4ljKY0mpqBcXrgXJ4O06oI"
     },
     {
       "album": {

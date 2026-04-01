@@ -6,7 +6,7 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAR5mJgQdv/89pvzWuvy/PKiOUPLWaf",
+  "snapshot_id": "AAAR56l/Qo26pQ+4P3LAJM8Ka8BzmyCv",
   "tracks": [
     {
       "added_at": "2026-03-09 16:52:18",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-03-09 16:52:18",
       "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Ov6kqbKq0PpmyWwMRgrcT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 339053,
+      "name": "Rein Me In",
+      "url": "https://open.spotify.com/track/6SSqDbvaAFQdxzOMC7g3JV"
+    },
+    {
+      "added_at": "2026-03-09 16:52:18",
+      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/7yMAQkI1bG1zT1yvBxGxe0"
-    },
-    {
-      "added_at": "2026-03-09 16:52:18",
-      "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Ov6kqbKq0PpmyWwMRgrcT"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 339053,
-      "name": "Rein Me In",
-      "url": "https://open.spotify.com/track/6SSqDbvaAFQdxzOMC7g3JV"
     },
     {
       "added_at": "2026-03-09 16:52:18",

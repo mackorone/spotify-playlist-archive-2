@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 43500,
+  "num_followers": 43505,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABzPH8vmZgDPi5qgbDFwoOa",
+  "snapshot_id": "acm9AAAAAAAxKlvhyuvWnkXi2e+D5bSS",
   "tracks": [
     {
       "added_at": null,
@@ -152,12 +152,12 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         },
         {
-          "name": "Graham Gillot",
-          "url": "https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD"
-        },
-        {
           "name": "Kahn Morbee",
           "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
+        },
+        {
+          "name": "Graham Gillot Band",
+          "url": "https://open.spotify.com/artist/2T0GPk6Gv4b4pJS4Q9ChrK"
         }
       ],
       "duration_ms": 241836,

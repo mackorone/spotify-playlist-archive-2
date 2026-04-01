@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Sedef  Seb\u00fcktekin on cover.",
-  "num_followers": 575383,
+  "num_followers": 575443,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Camina",
         "url": "https://open.spotify.com/album/3IrD7IpDBy3psoDWWpIubo"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
-      },
-      "artists": [
-        {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
-        }
-      ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Music For Film: Tramps!",
         "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 125973,
       "name": "Boudicaaa",
       "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Ring Tail",
-        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 118883,
-      "name": "Ring Tail",
-      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Stung!",
         "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 209717,
       "name": "Constant Picnic",
       "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Ring Tail",
+        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 118883,
+      "name": "Ring Tail",
+      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
       "artists": [
         {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
         }
       ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1283,6 +1267,22 @@
       "duration_ms": 239263,
       "name": "Dune",
       "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+        "name": "Distant Restart",
+        "url": "https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
         }
       ],
-      "duration_ms": 214466,
-      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
-      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
+      "duration_ms": 201422,
+      "name": "Distant Restart",
+      "url": "https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

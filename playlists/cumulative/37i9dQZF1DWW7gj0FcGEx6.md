@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-874 songs - 1 day 17 hr 31 min
+876 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Heart of Invictus \(Opening Titles\)](https://open.spotify.com/track/3mBBkUukNCxiiHuU0UTnSz) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl), [Richard Collins](https://open.spotify.com/artist/0hFIRIeQXr4h867zMh3qlp), [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Heart of Invictus \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jiunm0ZpEDTza7AdnBlY0) | 3:04 | 2023-09-15 | 2024-11-21 |
 | [Hell of a Summer](https://open.spotify.com/track/3tZpDh7OTAoMSS3Qm9aSrE) | [Jay McCarrol](https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7) | [Hell of a Summer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oI4Ho3pOqavaWlGJQmhKh) | 3:38 | 2025-04-25 | 2025-10-25 |
 | [Hero Dad\-Uh Oh](https://open.spotify.com/track/2oAk77Cy8up1CwM5ZnliEO) | [Christopher Lennertz](https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5) | [The Pickup \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56Q3yCtZHiu4v5oW6kzFAM) | 2:30 | 2025-08-08 |  |
+| [His Burden Is Mine Alone \(from "Rosemead"\)](https://open.spotify.com/track/2idkSEsgLf0GfTbkz5GQs3) | [Will Bates](https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN) | [His Burden Is Mine Alone \(from "Rosemead"\)](https://open.spotify.com/album/5paBgB5R7f0zSFGx05D9IE) | 2:21 | 2026-03-31 |  |
 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/album/1C9g1hrvjlKvwRSU9kUWxJ) | 3:32 | 2023-11-17 | 2025-03-22 |
 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 | 2023-12-15 | 2024-04-19 |
 | [Home](https://open.spotify.com/track/52xDg0M5k738bEuyIS2gaA) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO) | [65 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZqpbHqafFKFuAF5g9wYB7) | 3:06 | 2023-03-10 | 2024-10-12 |
@@ -280,6 +281,7 @@
 | [Hotel Reverie](https://open.spotify.com/track/01E5YbXlfg4RmJMj8LbkvW) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [Black Mirror: Season 7 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NwJYMdAG8j7kvicBKFRKb) | 1:12 | 2025-04-14 | 2025-10-25 |
 | [House of Guinness](https://open.spotify.com/track/5vNcpenIYib3U8i81x3Ua2) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [House of Guinness \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/35fp6lkLNJQrSi9VdyTxpl) | 3:08 | 2025-09-26 |  |
 | [How Long \- From "North of Normal" Soundtrack](https://open.spotify.com/track/6XA54VzMKBFEYNvO0JkNSk) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [North of Normal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wOPq2fledpaaa8SQsVsoH) | 2:30 | 2025-06-06 | 2025-11-29 |
+| [How we met](https://open.spotify.com/track/2TydeAQyLmbsrhAsNKRcol) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Something Very Bad is Going to Happen \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0chVHDmCZWDKLtvCRgpNnH) | 1:02 | 2026-03-31 |  |
 | [HUMAN Suite](https://open.spotify.com/track/2650MdzBYaOLwPOPnP69Ga) | [Paul Saunderson](https://open.spotify.com/artist/6LvqXE4N4n5il7gLQLuu9g) | [Human \(Original Television Soundtrack\)](https://open.spotify.com/album/1mKHzkkiR7lMvoym0lwNXm) | 3:22 | 2025-08-01 |  |
 | [Hunger & Thirst](https://open.spotify.com/track/7pxaa0shTlQzEVHvkLQykX) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Hunger & Thirst \(from "The Testament of Ann Lee" Soundtrack\)](https://open.spotify.com/album/4rk3FuCj1H5KtHDyf6bWrr) | 3:40 | 2025-12-19 |  |
 | [Hymn 1](https://open.spotify.com/track/1iIMZMqkSkgm58xUJz2iXZ) | [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Devil In Disguise: John Wayne Gacy \(Original Series Soundtrack\)](https://open.spotify.com/album/5Xlc8rlJNTOSkHtaTeAERg) | 2:23 | 2025-10-17 |  |

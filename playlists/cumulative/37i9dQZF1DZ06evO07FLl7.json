@@ -897,7 +897,7 @@
         },
         {
           "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/3bclhYVfuJQ7HxygWNO72R"
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
         }
       ],
       "date_added": "2025-11-20",
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 235893,
       "name": "Flor Laranja",
       "url": "https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4"
@@ -1798,6 +1798,24 @@
       "duration_ms": 165333,
       "name": "Ostenta\u00e7\u00e3o da Cultura",
       "url": "https://open.spotify.com/track/2BbyxwImZ3hcW2wnDVfY3Q"
+    },
+    {
+      "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234206,
+      "name": "Ou\u00e7a-Me R M X",
+      "url": "https://open.spotify.com/track/0YH8930FX7C87DUMZIIpii"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 165199,
+  "num_followers": 165296,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Bukan Lagi Kita",
+        "url": "https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv"
+      },
+      "artists": [
+        {
+          "name": "Nadeera",
+          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Bukan Lagi Kita",
+      "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Bukan Lagi Kita",
-        "url": "https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv"
+        "name": "Sayang Orang Sama",
+        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
       },
       "artists": [
         {
-          "name": "Nadeera",
-          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
+          "name": "Adira Suhaimi",
+          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Bukan Lagi Kita",
-      "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
+      "duration_ms": 202191,
+      "name": "Sayang Orang Sama",
+      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -699,22 +715,6 @@
       "duration_ms": 232880,
       "name": "Bukan Untukku",
       "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Sayang Orang Sama",
-        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
-      },
-      "artists": [
-        {
-          "name": "Adira Suhaimi",
-          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
-        }
-      ],
-      "duration_ms": 202191,
-      "name": "Sayang Orang Sama",
-      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
       "added_at": "2026-02-20 05:28:17",

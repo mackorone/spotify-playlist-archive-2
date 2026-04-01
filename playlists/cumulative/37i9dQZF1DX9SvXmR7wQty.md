@@ -4267,6 +4267,6 @@
 | [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 | 2024-01-26 | 2024-02-03 |
 | [Île\-montagne](https://open.spotify.com/track/4LlMYWDn8F0PyufgL0V1la) | [Oktoplut](https://open.spotify.com/artist/3JhCTaasUfomDsJQk0SYpj) | [Île\-montagne](https://open.spotify.com/album/3Bw7iOnObBG7fSnnF1VBru) | 3:51 | 2026-03-20 |  |
 | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/album/1s6iknRE2vRWB91XnmaUnm) | 2:54 | 2022-11-11 | 2022-12-03 |
-| [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 | 2026-03-20 |  |
+| [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [LOU FRE$H](https://open.spotify.com/artist/57uDLvB9OultBUM7mkjzyQ) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 | 2026-03-20 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIGnRvs6JST3d+FqWXljJlJuK9frRT",
+  "snapshot_id": "AAAIHaD0wM4LpK0DijH7r5gBGQQLfBzf",
   "tracks": [
     {
       "added_at": "2026-03-30 10:29:01",
@@ -21749,7 +21749,7 @@
         },
         {
           "name": "user00xman",
-          "url": "https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj"
+          "url": "https://open.spotify.com/artist/5jHEV2nmLvDyu6MwUU9ftS"
         },
         {
           "name": "Ceru",
@@ -69355,6 +69355,54 @@
       "duration_ms": 143906,
       "name": "I Think You Dropped This",
       "url": "https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy"
+    },
+    {
+      "added_at": "2026-03-31 09:01:41",
+      "album": {
+        "name": "About a Girl",
+        "url": "https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm"
+    },
+    {
+      "added_at": "2026-03-31 23:35:31",
+      "album": {
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa"
+      },
+      "artists": [
+        {
+          "name": "Woytinek AI Music",
+          "url": "https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO"
+        }
+      ],
+      "duration_ms": 227004,
+      "name": "Paper Crown",
+      "url": "https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu"
+    },
+    {
+      "added_at": "2026-03-31 23:36:08",
+      "album": {
+        "name": "\u041a\u043e\u0441\u043c\u043e\u0441",
+        "url": "https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 179269,
+      "name": "\u0414\u043e\u0440\u043e\u0433\u0438 \u0441\u043d\u0435\u0433\u043e\u043c \u0437\u0430\u043c\u0435\u043b\u043e",
+      "url": "https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -1,6 +1,6 @@
 {
   "description": "\u00e9 cabelo preto \u00e9 cabelo loiro os cara n tem nem a\u00ed pra NADA",
-  "num_followers": 1451945,
+  "num_followers": 1451892,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,34 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "Bolad\u00e3o Escutando Orochi",
+        "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 206017,
+      "name": "Bolad\u00e3o Escutando Orochi",
+      "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "QUASE QUE FALEI TE AMO",
         "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
       },
@@ -603,30 +631,6 @@
       "duration_ms": 166058,
       "name": "QUASE QUE FALEI TE AMO",
       "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "COLAPSO GLOBAL",
-        "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199685,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -663,6 +667,30 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "COLAPSO GLOBAL",
+        "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 199685,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "KayBlack & Burna Boy - Spotify Sessions",
         "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
       },
@@ -679,34 +707,6 @@
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "Bolad\u00e3o Escutando Orochi",
-        "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 206017,
-      "name": "Bolad\u00e3o Escutando Orochi",
-      "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -779,30 +779,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "ISSO AQUI \u00c9 BRASIL",
-        "url": "https://open.spotify.com/album/59OA3HDl9xSnvRbjeaACLz"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 138022,
-      "name": "ISSO AQUI \u00c9 BRASIL",
-      "url": "https://open.spotify.com/track/02peqoxG8Z0Avbn6l5mzSf"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/1O6473FQ4oOmVhgHMtCiJY"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 196626,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5nNScs8d0L55YlrPepJi7C"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "ISSO AQUI \u00c9 BRASIL",
+        "url": "https://open.spotify.com/album/59OA3HDl9xSnvRbjeaACLz"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 138022,
+      "name": "ISSO AQUI \u00c9 BRASIL",
+      "url": "https://open.spotify.com/track/02peqoxG8Z0Avbn6l5mzSf"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -943,30 +943,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
-      },
-      "artists": [
-        {
-          "name": "DJ JHOW BEATS",
-          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ J2",
-          "url": "https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD"
-        }
-      ],
-      "duration_ms": 159634,
-      "name": "Solo Paulista",
-      "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "M.P.B",
         "url": "https://open.spotify.com/album/7y1FJ9AGymKo3qbLKpVM4p"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 178317,
       "name": "M.P.B",
       "url": "https://open.spotify.com/track/6BZT61t4kVGC9lL5931vZv"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
+      },
+      "artists": [
+        {
+          "name": "DJ JHOW BEATS",
+          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ J2",
+          "url": "https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD"
+        }
+      ],
+      "duration_ms": 159634,
+      "name": "Solo Paulista",
+      "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
     },
     {
       "added_at": "2026-03-27 03:01:06",

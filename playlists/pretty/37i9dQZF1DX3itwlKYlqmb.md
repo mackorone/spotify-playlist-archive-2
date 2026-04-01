@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alegres de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,818 likes - 97 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,850 likes - 97 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

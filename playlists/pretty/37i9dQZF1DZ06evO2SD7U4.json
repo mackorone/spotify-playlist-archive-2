@@ -1,12 +1,12 @@
 {
   "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
-  "num_followers": 4412,
+  "num_followers": 4413,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABJqoNJ8JTIDO/IJjlNCDob",
+  "snapshot_id": "acm9AAAAAACHjF75X6URxdXNhMYkFiXp",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "Ropavejero",
-      "url": "https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Botellita De Jerez",
         "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 186226,
       "name": "Guacarrock",
       "url": "https://open.spotify.com/track/2YwMzdQvUYoZZX1WX8ezc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "Ropavejero",
+      "url": "https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+        "name": "Botellita De Jerez",
+        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Laberinto de la Soledad",
-      "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
+      "duration_ms": 157133,
+      "name": "Heavy Metro",
+      "url": "https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botellita De Jerez",
-        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "Heavy Metro",
-      "url": "https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forjando Patria",
         "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
       },
@@ -292,9 +276,25 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 365240,
-      "name": "El Santos Contra la Tetona Mendoza",
-      "url": "https://open.spotify.com/track/5TbnhVJds6alLcGTzzbRVA"
+      "duration_ms": 194066,
+      "name": "Laberinto de la Soledad",
+      "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Botellita De Jerez",
+        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Oh Dennis",
+      "url": "https://open.spotify.com/track/6IuDGQx94luOJpJ5f1Z8us"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "El Santos Contra la Tetona Mendoza",
+      "url": "https://open.spotify.com/track/5TbnhVJds6alLcGTzzbRVA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Botellita De Jerez",
         "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
       },
@@ -340,25 +356,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Oh Dennis",
-      "url": "https://open.spotify.com/track/6IuDGQx94luOJpJ5f1Z8us"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Pior Del Estuche De Peluche",
-        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Ton\u00b4s Que Mi Reina",
-      "url": "https://open.spotify.com/track/1a0PheKw63o5te70iI4uD0"
+      "duration_ms": 219306,
+      "name": "San Jorge Y El Dragon",
+      "url": "https://open.spotify.com/track/5aPJSGuxgdVqXjUNs2dX4n"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 233133,
       "name": "\u00bfTe Gusta a Ti Ese Son?",
       "url": "https://open.spotify.com/track/0xo20TzPU8fo8ZI0Re8vUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Pior Del Estuche De Peluche",
+        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Ton\u00b4s Que Mi Reina",
+      "url": "https://open.spotify.com/track/1a0PheKw63o5te70iI4uD0"
     },
     {
       "added_at": null,
@@ -404,25 +420,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 219306,
-      "name": "San Jorge Y El Dragon",
-      "url": "https://open.spotify.com/track/5aPJSGuxgdVqXjUNs2dX4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naco Es Chido",
-        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "El Zarco",
-      "url": "https://open.spotify.com/track/0J548pc7r0povSagoEJj0A"
+      "duration_ms": 255960,
+      "name": "Saca!",
+      "url": "https://open.spotify.com/track/0z2I0JSmWDzPDTexaXv1kn"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+        "name": "Naco Es Chido",
+        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
       },
       "artists": [
         {
@@ -452,41 +452,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Botellita De Jerez",
-        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 255960,
-      "name": "Saca!",
-      "url": "https://open.spotify.com/track/0z2I0JSmWDzPDTexaXv1kn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Pior Del Estuche De Peluche",
-        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "De Tripas Cuajo Y Corazon",
-      "url": "https://open.spotify.com/track/5G6yMRyuN38MnnHgeD0ayZ"
+      "duration_ms": 208906,
+      "name": "El Zarco",
+      "url": "https://open.spotify.com/track/0J548pc7r0povSagoEJj0A"
     },
     {
       "added_at": null,
@@ -507,6 +475,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Pior Del Estuche De Peluche",
+        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "De Tripas Cuajo Y Corazon",
+      "url": "https://open.spotify.com/track/5G6yMRyuN38MnnHgeD0ayZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naco Es Chido",
         "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Todos Tienen Tortita",
-      "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
+      "duration_ms": 247253,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5"
     },
     {
       "added_at": null,
@@ -580,15 +580,15 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5"
+      "duration_ms": 213986,
+      "name": "Todos Tienen Tortita",
+      "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Botellita De Jerez",
-        "url": "https://open.spotify.com/album/70fvCgWSkOQRABSSJP6xAg"
+        "name": "El \u00daltimo Guacarrock (En Vivo)",
+        "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 376013,
-      "name": "La Valona de la Conquista",
-      "url": "https://open.spotify.com/track/4f54pNca6BKqgNcHmIPweY"
+      "duration_ms": 250906,
+      "name": "El Ropavejero - En Vivo",
+      "url": "https://open.spotify.com/track/4V8nGYcSfYSYepkCklI7lq"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Botellita De Jerez",
+        "url": "https://open.spotify.com/album/70fvCgWSkOQRABSSJP6xAg"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 376013,
+      "name": "La Valona de la Conquista",
+      "url": "https://open.spotify.com/track/4f54pNca6BKqgNcHmIPweY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#Nopinchesmames",
         "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 253533,
       "name": "Domingo, Mi Vida",
       "url": "https://open.spotify.com/track/7gkibpWBSlSKnsR2mo0K1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00daltimo Guacarrock (En Vivo)",
-        "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "El Ropavejero - En Vivo",
-      "url": "https://open.spotify.com/track/4V8nGYcSfYSYepkCklI7lq"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 120426,
-      "name": "Guaca Rocker",
-      "url": "https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00daltimo Guacarrock (En Vivo)",
         "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 185840,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/05YPPPyLrIkuwkjqYPf8Tm"
+      "duration_ms": 120426,
+      "name": "Guaca Rocker",
+      "url": "https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 174600,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
+      "duration_ms": 185840,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/05YPPPyLrIkuwkjqYPf8Tm"
     },
     {
       "added_at": null,
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Nopinchesmames",
-        "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 91853,
-      "name": "Chichis Pa la Banda",
-      "url": "https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O"
+      "duration_ms": 174600,
+      "name": "La Sorpresa",
+      "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 205746,
       "name": "La Calaca",
       "url": "https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Nopinchesmames",
+        "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 91853,
+      "name": "Chichis Pa la Banda",
+      "url": "https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O"
     }
   ],
   "unique_name": "This Is Botellita De Jerez",

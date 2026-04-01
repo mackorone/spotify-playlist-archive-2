@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31617,
+  "num_followers": 31622,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAADxTHBpURhte2eb+9iwmP8l",
+  "snapshot_id": "acm9AAAAAAD6XPuEVzeH1uyKYOoAnUaA",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daily Dosage",
-        "url": "https://open.spotify.com/album/5Z8atjvIoRzj19Gn97sbJj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Puryear El",
-          "url": "https://open.spotify.com/artist/5CBkKbKmXR8vcvqxWg4Sb3"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 131151,
-      "name": "Tejana",
-      "url": "https://open.spotify.com/track/4utx3o6K9hFuGfoauBLKZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 206066,
       "name": "Cuando Me Dejes De Amar",
       "url": "https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbia Vallenata (En Vivo)",
         "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 217402,
       "name": "Cumbia Vallenata - En Vivo",
       "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daily Dosage",
+        "url": "https://open.spotify.com/album/5Z8atjvIoRzj19Gn97sbJj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Puryear El",
+          "url": "https://open.spotify.com/artist/5CBkKbKmXR8vcvqxWg4Sb3"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 131151,
+      "name": "Tejana",
+      "url": "https://open.spotify.com/track/4utx3o6K9hFuGfoauBLKZ3"
     },
     {
       "added_at": null,

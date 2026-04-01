@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,782 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,834 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 71 | [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 |
 | 72 | [Cuando Te Veo](https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Cuando Te Veo](https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e) | 3:43 |
 | 73 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
-| 74 | [La bohemia](https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [La bohemia](https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p) | 3:48 |
-| 75 | [Baila Le Digo](https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Baila Le Digo](https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B) | 2:19 |
+| 74 | [Baila Le Digo](https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Baila Le Digo](https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B) | 2:19 |
+| 75 | [La bohemia](https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [La bohemia](https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p) | 3:48 |
 | 76 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 |
 | 77 | [Pegao](https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pegao](https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB) | 3:38 |
 | 78 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |

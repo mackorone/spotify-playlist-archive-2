@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-410 songs - 23 hr 54 min
+411 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2023-06-16 | 2025-11-10 |
 | [El Pasito de Monterrey](https://open.spotify.com/track/0QTHRYvvhhYPWNmy9NtU6C) | [Los Colombinos](https://open.spotify.com/artist/53KlwkpvOp3HFXNqy2xJPA) | [Nacio la Cumbia](https://open.spotify.com/album/3tt2S0MOGeYHkkVcMLsOiZ) | 2:57 | 2024-07-02 | 2025-06-18 |
 | [El Retén](https://open.spotify.com/track/1YWy4nUHysy7EhTbldcMmH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Retén](https://open.spotify.com/album/6POuZHyrJbMslvhuFwprTF) | 3:40 | 2024-07-02 | 2025-06-18 |
-| [El Rosario \- Bonus Track](https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Rosario \(Bonus Track\)](https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg) | 3:54 | 2025-11-09 |  |
+| [El Rosario \- Bonus Track](https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Rosario \(Bonus Track\)](https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg) | 3:54 | 2025-11-09 | 2026-04-01 |
 | [El Silencio de Tu Adios](https://open.spotify.com/track/5c1NFm7xGou1sDkCN32fXI) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Imperfecto](https://open.spotify.com/album/6CT0IjzheKdquZPESJLGx8) | 3:59 | 2024-07-15 | 2025-06-18 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/6RtZYoM4rNdoDVgbwfOK2V) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 2:50 | 2023-11-08 | 2024-07-03 |
 | [Eleazar del Fierro](https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:10 | 2024-07-02 | 2025-03-09 |
@@ -392,6 +392,7 @@
 | [Tú Me Quieres Lastimar](https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [A Pesar De Todo \(15 Super Temas\)](https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp) | 3:35 | 2025-06-17 | 2025-11-10 |
 | [Un Amor Bonito](https://open.spotify.com/track/1yoOO071BcqGCbvcw7j55E) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Un Amor Bonito](https://open.spotify.com/album/1kNpeJ3X2HW5VYcnVxACPq) | 3:11 | 2023-11-08 | 2025-06-18 |
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2025-11-09 |  |
+| [Una Vida](https://open.spotify.com/track/4e3o6V532LdEuBtr3WEPDQ) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 2:57 | 2025-11-09 |  |
 | [Uva](https://open.spotify.com/track/13xHnzlKyluHPyJpIwbaME) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Uva](https://open.spotify.com/album/37N6PCKBZou2qmfGlbm4VY) | 3:17 | 2025-11-09 |  |
 | [Va Que Va](https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO) | [El Kombo Kolombia](https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu) | [Para Siempre](https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0) | 3:05 | 2023-11-08 | 2024-04-19 |
 | [Vas A Perrear Como Nunca Has Perreado](https://open.spotify.com/track/2bKVmT0K33VdKgKxrRhU9I) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Vas A Perrear Como Nunca Has Perreado](https://open.spotify.com/album/1y9iZhEA1xlPbG8gYFPCbb) | 2:16 | 2025-11-09 |  |

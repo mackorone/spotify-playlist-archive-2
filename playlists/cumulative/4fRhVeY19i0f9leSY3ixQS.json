@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "BORN 2 ROT",
+        "url": "https://open.spotify.com/album/5wTGDxSg914lqCRp2S2gEK"
+      },
+      "artists": [
+        {
+          "name": "Crash Valentine",
+          "url": "https://open.spotify.com/artist/0nBySb6p0rqQu4JNrSXUvw"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110571,
+      "name": "BORN 2 ROT",
+      "url": "https://open.spotify.com/track/2VMotXyDfDjZDxwxxfThtv"
+    },
+    {
+      "album": {
         "name": "Born in the wrong time",
         "url": "https://open.spotify.com/album/5VMPdJyEL2vuEt5k8JgdTT"
       },
@@ -3729,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "EASY TO THE CORE",
+        "url": "https://open.spotify.com/album/7rkdp03pYRUNOA1mdrjIyB"
+      },
+      "artists": [
+        {
+          "name": "Homesick",
+          "url": "https://open.spotify.com/artist/4BugzXr3GBpFd1ZAPtmxLQ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92065,
+      "name": "COUSINS",
+      "url": "https://open.spotify.com/track/2QaOL88QSB8GoFxnD1KJQ7"
+    },
+    {
+      "album": {
         "name": "Let's Get Weird",
         "url": "https://open.spotify.com/album/3KveBk3jR1fOlbyGzdTo0D"
       },
@@ -3892,6 +3928,24 @@
       "duration_ms": 161720,
       "name": "Cromo6",
       "url": "https://open.spotify.com/track/23xOlZsEiCVIRMsRhYf71O"
+    },
+    {
+      "album": {
+        "name": "Too Many Clunkers",
+        "url": "https://open.spotify.com/album/6n7HB9DwrPxFZUsRyoUruy"
+      },
+      "artists": [
+        {
+          "name": "Painist",
+          "url": "https://open.spotify.com/artist/2SVJfASujlJVczVl9shlt2"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Crustaccato",
+      "url": "https://open.spotify.com/track/2dF0qR3yZVNudzmPtuEw9m"
     },
     {
       "album": {
@@ -7781,6 +7835,24 @@
     },
     {
       "album": {
+        "name": "Songs Of Perdition",
+        "url": "https://open.spotify.com/album/5aZZuCPgpsuW2gi6iEzI9q"
+      },
+      "artists": [
+        {
+          "name": "Abitha",
+          "url": "https://open.spotify.com/artist/6pMO4cinc5UyFjIBo8dC2r"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Great Men",
+      "url": "https://open.spotify.com/track/1mdzkQ2EUUypxayYTnVGg9"
+    },
+    {
+      "album": {
         "name": "Greatness Abandoned",
         "url": "https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo"
       },
@@ -9699,6 +9771,24 @@
     },
     {
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/5K5dZbunzeo7fJOGe8nymX"
+      },
+      "artists": [
+        {
+          "name": "MASSA",
+          "url": "https://open.spotify.com/artist/5T9XzZfDTS0Md8zGDQx7ZF"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Intermassa",
+      "url": "https://open.spotify.com/track/6BRVOobJ8KsfolaQJnnqRB"
+    },
+    {
+      "album": {
         "name": "Into The Abyss",
         "url": "https://open.spotify.com/album/6mFmaXf3aTwmLFUPasr0Dc"
       },
@@ -10672,6 +10762,24 @@
       "duration_ms": 268933,
       "name": "Let's Do It Again",
       "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
+    },
+    {
+      "album": {
+        "name": "Let's Make Tomorrow Today",
+        "url": "https://open.spotify.com/album/6jVREr3AwF80ktlpm4PG69"
+      },
+      "artists": [
+        {
+          "name": "Vincent Moss",
+          "url": "https://open.spotify.com/artist/5tBVhmSvHVarDhBe56Fkd2"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Let's Make Tomorrow Today",
+      "url": "https://open.spotify.com/track/18GZyETm2tLsGBcktCQlKL"
     },
     {
       "album": {
@@ -12116,7 +12224,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 232935,
       "name": "Money",
       "url": "https://open.spotify.com/track/7sVpYaGW7qZxbBs9tx52AC"
@@ -13691,6 +13799,24 @@
     },
     {
       "album": {
+        "name": "over you",
+        "url": "https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE"
+      },
+      "artists": [
+        {
+          "name": "Darro",
+          "url": "https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177552,
+      "name": "over you",
+      "url": "https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic"
+    },
+    {
+      "album": {
         "name": "Pale Face",
         "url": "https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5"
       },
@@ -13835,6 +13961,24 @@
     },
     {
       "album": {
+        "name": "Fool's Paradise",
+        "url": "https://open.spotify.com/album/2YOe6yPybwnOvHFmX9C622"
+      },
+      "artists": [
+        {
+          "name": "Must Be Wrong",
+          "url": "https://open.spotify.com/artist/4mtGv11gxPe8Fwg7g5CbDn"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170891,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5tfIhhM5zuqjuLwgKotbTX"
+    },
+    {
+      "album": {
         "name": "Pass The Pulse",
         "url": "https://open.spotify.com/album/2ZAlTMXdRK2e7hFyUpNImo"
       },
@@ -13954,7 +14098,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 276426,
       "name": "Pendulum Days",
       "url": "https://open.spotify.com/track/1qZ6g0mIS1mPOtMsNAwhQU"
@@ -20501,6 +20645,24 @@
     },
     {
       "album": {
+        "name": "Vol",
+        "url": "https://open.spotify.com/album/5Qyw4TOofsb72ugtW79oXE"
+      },
+      "artists": [
+        {
+          "name": "Alex Hracan",
+          "url": "https://open.spotify.com/artist/6CxXl1R0xQczyGfj6Rz8RT"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312500,
+      "name": "Vol",
+      "url": "https://open.spotify.com/track/7DHcBXahtXoUNx2W3QK1cV"
+    },
+    {
+      "album": {
         "name": "Vorbild",
         "url": "https://open.spotify.com/album/0mLLVgzVZeo9WPC4Xp66NS"
       },
@@ -20740,6 +20902,24 @@
       "duration_ms": 255936,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/1esf4MKhQ8Ps1EcYqxNprR"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6I88rvbCkKwldSENVvGEdK"
+      },
+      "artists": [
+        {
+          "name": "Breach Of Peace",
+          "url": "https://open.spotify.com/artist/70yWPGMkMSB0q1doH42TQC"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136544,
+      "name": "Watch Your Mouth",
+      "url": "https://open.spotify.com/track/7iJjMFwGWY5Ju0i8nMg4mk"
     },
     {
       "album": {

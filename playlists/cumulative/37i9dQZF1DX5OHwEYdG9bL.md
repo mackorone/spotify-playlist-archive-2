@@ -210,6 +210,6 @@
 | [YELLOW](https://open.spotify.com/track/75ff7jktGI5qU7qWIQfiIa) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [YELLOW](https://open.spotify.com/album/78pnF56CQLOwnl4NHk7hZz) | 3:47 | 2025-07-15 | 2025-08-20 |
 | [YES](https://open.spotify.com/track/4cGS4U8XLzgBTCeo2UN4MA) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [YES](https://open.spotify.com/album/3RNowSUboaZkZF8ifShTs4) | 3:06 | 2025-08-13 |  |
 | [YOU AND I](https://open.spotify.com/track/3sSyfg5iyw2LGK3mEMkoJN) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/7yypCvtYwlmx6kL6MTZNCR) | 2:59 | 2025-08-13 |  |
-| [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 | 2026-03-30 |  |
+| [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 | 2026-03-30 |  |
 
 \*This playlist was first scraped on 2025-03-15. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mirella, AHTI, Lauri Haav..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,142 likes - 108 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,152 likes - 108 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,20 +101,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 91 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 |
 | 92 | [Ultraviolet \(feat\. Katy Alex\)](https://open.spotify.com/track/7G7wJskGrNr6R2zXDopkre) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Ultraviolet \(feat\. Katy Alex\)](https://open.spotify.com/album/72Rg8jYouc4mwTuKMjCBKF) | 3:37 |
 | 93 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
-| 94 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
-| 95 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
-| 96 | [Working On It](https://open.spotify.com/track/5OvP9Gtnk2zEuy7q4cxiLx) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Working On It](https://open.spotify.com/album/51lHh1YbnV4PMww52y2A0L) | 3:06 |
-| 97 | [Syntax error](https://open.spotify.com/track/0drKfmYLzvqiedctG4BRWj) | [Kai Nuu](https://open.spotify.com/artist/1nM46vhERU1vkuD7Obhxol) | [Syntax error](https://open.spotify.com/album/4Atl1rDWnQzoCGBGAYpgqo) | 2:32 |
-| 98 | [Everything](https://open.spotify.com/track/7AmakdXISMLUqYr1MWMahK) | [WHOKNOWS](https://open.spotify.com/artist/49CP1Oj52jww6pbuG9cl5y) | [Everything](https://open.spotify.com/album/7bar10nkJpdubAqTHJ4ApD) | 2:04 |
-| 99 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
-| 100 | [MARATHON](https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [MARATHON](https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1) | 2:49 |
-| 101 | [From the Underworld](https://open.spotify.com/track/5nvqkEGiSam9YzdP6spvf1) | [Matias and the Canyons](https://open.spotify.com/artist/7EsSTUXhBjDzco862nIphR) | [From the Underworld](https://open.spotify.com/album/4fibBZ5zFW1PxhT3N3GzzB) | 3:04 |
-| 102 | [No Going Back](https://open.spotify.com/track/4Xav8Xx9ck8Ki2GoL4quNR) | [The Pistones](https://open.spotify.com/artist/37nhGhkQM1Gvgms9xngnop) | [No Going Back](https://open.spotify.com/album/4vGkukhnN2ILHGwlzprTwh) | 3:04 |
-| 103 | [Suola kyynelten, suola elämän](https://open.spotify.com/track/7phYwfrrM1auZgH0n7SOcS) | [Johanna Rantsi](https://open.spotify.com/artist/0cegm29wJMv1WDRVIOJCd4) | [Suola kyynelten, suola elämän](https://open.spotify.com/album/5dQ0d1YcDJHdviPx1q70XS) | 3:12 |
-| 104 | [Kuulen sun äänen mun pääs](https://open.spotify.com/track/639fd5ASPJ7432cIOJSHoT) | [BLONDI](https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b) | [Kuulen sun äänen mun pääs](https://open.spotify.com/album/4rM1NpIGLZZDiW7OISXSMt) | 3:03 |
-| 105 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
-| 106 | [True Love](https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [WILDFIRE](https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN) | 3:40 |
+| 94 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 95 | [Working On It](https://open.spotify.com/track/5OvP9Gtnk2zEuy7q4cxiLx) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Working On It](https://open.spotify.com/album/51lHh1YbnV4PMww52y2A0L) | 3:06 |
+| 96 | [Syntax error](https://open.spotify.com/track/0drKfmYLzvqiedctG4BRWj) | [Kai Nuu](https://open.spotify.com/artist/1nM46vhERU1vkuD7Obhxol) | [Syntax error](https://open.spotify.com/album/4Atl1rDWnQzoCGBGAYpgqo) | 2:32 |
+| 97 | [Everything](https://open.spotify.com/track/7AmakdXISMLUqYr1MWMahK) | [WHOKNOWS](https://open.spotify.com/artist/49CP1Oj52jww6pbuG9cl5y) | [Everything](https://open.spotify.com/album/7bar10nkJpdubAqTHJ4ApD) | 2:04 |
+| 98 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
+| 99 | [MARATHON](https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [MARATHON](https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1) | 2:49 |
+| 100 | [From the Underworld](https://open.spotify.com/track/5nvqkEGiSam9YzdP6spvf1) | [Matias and the Canyons](https://open.spotify.com/artist/7EsSTUXhBjDzco862nIphR) | [From the Underworld](https://open.spotify.com/album/4fibBZ5zFW1PxhT3N3GzzB) | 3:04 |
+| 101 | [No Going Back](https://open.spotify.com/track/4Xav8Xx9ck8Ki2GoL4quNR) | [The Pistones](https://open.spotify.com/artist/37nhGhkQM1Gvgms9xngnop) | [No Going Back](https://open.spotify.com/album/4vGkukhnN2ILHGwlzprTwh) | 3:04 |
+| 102 | [Suola kyynelten, suola elämän](https://open.spotify.com/track/7phYwfrrM1auZgH0n7SOcS) | [Johanna Rantsi](https://open.spotify.com/artist/0cegm29wJMv1WDRVIOJCd4) | [Suola kyynelten, suola elämän](https://open.spotify.com/album/5dQ0d1YcDJHdviPx1q70XS) | 3:12 |
+| 103 | [Kuulen sun äänen mun pääs](https://open.spotify.com/track/639fd5ASPJ7432cIOJSHoT) | [BLONDI](https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b) | [Kuulen sun äänen mun pääs](https://open.spotify.com/album/4rM1NpIGLZZDiW7OISXSMt) | 3:03 |
+| 104 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
+| 105 | [True Love](https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [WILDFIRE](https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN) | 3:40 |
+| 106 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 |
 | 107 | [Backseat](https://open.spotify.com/track/3vjHprAZlF1x3OgsjBTG0S) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Backseat](https://open.spotify.com/album/3QmVaQTUcHCXebPUSseFcG) | 2:33 |
 | 108 | [Hehkulamppu](https://open.spotify.com/track/6Aaiy7RIjwwM1m1g6d6oc5) | [Kuusumun Profeetta](https://open.spotify.com/artist/5x7ifjuqGmTmF9bqyIXALa) | [Hehkulamppu](https://open.spotify.com/album/7EtW6n6AES1HytwTarycKz) | 6:26 |
 
-Snapshot ID: `AAAAABjPmP5f2WaWCkNIpf183FB6g6Em`
+Snapshot ID: `AAAAADu1Z6smFhEO/gUYIxpAYAUSB3D9`

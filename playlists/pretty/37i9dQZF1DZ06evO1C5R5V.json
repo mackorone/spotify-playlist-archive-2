@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 37509,
+  "num_followers": 37508,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABJHbxXHKMu0XN6oAyW570p",
+  "snapshot_id": "acm9AAAAAADITOBUUvCplwp4ETWRRfMU",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos de Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Sobrevivi",
-      "url": "https://open.spotify.com/track/2Sn5IUotjtSlx8G0I9Q1Gy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
         "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 264150,
       "name": "Y Es por Eso Que Me Voy",
       "url": "https://open.spotify.com/track/4fZEwW4lSFMm6l6PL5bfT4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 182694,
+      "name": "Sobrevivi",
+      "url": "https://open.spotify.com/track/2Sn5IUotjtSlx8G0I9Q1Gy"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 267059,
-      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1nimas",
         "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 205893,
       "name": "Una Oportunidad",
       "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 267059,
+      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
     },
     {
       "added_at": null,

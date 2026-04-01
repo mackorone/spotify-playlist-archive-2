@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  Mannywellz",
-  "num_followers": 262188,
+  "num_followers": 262210,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Stick to the Plan",
-        "url": "https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 117362,
-      "name": "Stick to the Plan",
-      "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -907,6 +891,46 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
+        "name": "Stick to the Plan",
+        "url": "https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 117362,
+      "name": "Stick to the Plan",
+      "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "GINGER U",
+        "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
+      },
+      "artists": [
+        {
+          "name": "Mack H.D",
+          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 141704,
+      "name": "GINGER U",
+      "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
       },
@@ -923,6 +947,30 @@
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 155004,
+      "name": "Love Sick Crazy",
+      "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -967,54 +1015,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "GINGER U",
-        "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
-      },
-      "artists": [
-        {
-          "name": "Mack H.D",
-          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 141704,
-      "name": "GINGER U",
-      "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
-        "name": "Agaba Romantic",
-        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 155004,
-      "name": "Love Sick Crazy",
-      "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "ADDICTED (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1095,22 +1075,22 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "MENU",
-        "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
       "artists": [
         {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 159183,
-      "name": "MENU",
-      "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
+      "duration_ms": 232500,
+      "name": "ADDICTED (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1131,6 +1111,26 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "MENU",
+        "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "MENU",
+      "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Anini (Thief)",
-        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "Anini (Thief)",
-      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Day By Day (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 135671,
       "name": "Day By Day (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Anini (Thief)",
+        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "Anini (Thief)",
+      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "Letter to My Ex",
-        "url": "https://open.spotify.com/album/2bCNfulxnhjiJf5tpnCawO"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Letter to My Ex",
-      "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
         "name": "Where You Dey",
         "url": "https://open.spotify.com/album/3UwvuwtlVtrmnpb8jPubXf"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 137142,
       "name": "Black Girl Magic",
       "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
+        "name": "Letter to My Ex",
+        "url": "https://open.spotify.com/album/2bCNfulxnhjiJf5tpnCawO"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Letter to My Ex",
+      "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
     },
     {
       "added_at": "2026-03-27 00:01:11",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
+        "name": "WILL I EVER",
+        "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 174050,
+      "name": "WILL I EVER",
+      "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
+    },
+    {
+      "added_at": "2026-03-27 00:01:11",
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -1495,34 +1511,18 @@
     {
       "added_at": "2026-03-27 00:01:11",
       "album": {
-        "name": "WILL I EVER",
-        "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
+        "name": "Baami",
+        "url": "https://open.spotify.com/album/5TtQNinKYN1pwJ2aJ4RtLe"
       },
       "artists": [
         {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 174050,
-      "name": "WILL I EVER",
-      "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
-    },
-    {
-      "added_at": "2026-03-27 00:01:11",
-      "album": {
-        "name": "Kontrollah",
-        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
-      },
-      "artists": [
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 155924,
-      "name": "Kontrollah",
-      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
+      "duration_ms": 189714,
+      "name": "Baami",
+      "url": "https://open.spotify.com/track/5P8pUsmXV23EcLGLF15mG8"
     }
   ],
   "unique_name": "Ginja",

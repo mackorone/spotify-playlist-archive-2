@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 
 > The best of anime, honored\. Listen to the music behind previous Anime Award winners, from 2017\-2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,009 likes - 93 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,079 likes - 93 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 | 52 | [REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [ULTRA FLASH](https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES) | 4:03 |
 | 53 | [プリズム](https://open.spotify.com/track/12ZIRTS8x9RBgasDg3q27J) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [プリズム](https://open.spotify.com/album/3Ud2OrKusc7FiNytIiH1Br) | 3:58 |
 | 54 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 |
-| 55 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
+| 55 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Airi Suzuki](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
 | 56 | [No.7](https://open.spotify.com/track/1MEJ1Lj7X9UUEs0yW4JEoA) | [Jibaku Shonen Band](https://open.spotify.com/artist/60HheWijgsmP7fCYV3wPwm) | [No.7](https://open.spotify.com/album/6Vq3a5orz8krlfCmljpo92) | 3:52 |
 | 57 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 |
 | 58 | [Easy Breezy](https://open.spotify.com/track/5Zjge6yCThuBMdnJdOBp9A) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Easy Breezy](https://open.spotify.com/album/2vkXnSLOX1bp1Ue7ZWJ6T4) | 3:28 |

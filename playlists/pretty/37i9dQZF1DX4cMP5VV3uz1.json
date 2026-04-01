@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166266,
+  "num_followers": 166263,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Go Down Low",
         "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 112140,
       "name": "Go Down Low",
       "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -931,34 +931,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "DAY ONE (Edits)",
-        "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        },
-        {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
-        },
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        }
-      ],
-      "duration_ms": 211885,
-      "name": "CHARGIE - Rendah Edit",
-      "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
       },
@@ -991,6 +963,34 @@
       "duration_ms": 158069,
       "name": "Different Style",
       "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "DAY ONE (Edits)",
+        "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        },
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        }
+      ],
+      "duration_ms": 211885,
+      "name": "CHARGIE - Rendah Edit",
+      "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Timestretch: Future",
-        "url": "https://open.spotify.com/album/6vvGllFziUygPqlOmiDcIu"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Tian",
-          "url": "https://open.spotify.com/artist/5J7i9b3aysHtFRzjvJ19kK"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Hibernate",
-      "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Timestretch: Future",
+        "url": "https://open.spotify.com/album/6vvGllFziUygPqlOmiDcIu"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Tian",
+          "url": "https://open.spotify.com/artist/5J7i9b3aysHtFRzjvJ19kK"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "Hibernate",
+      "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Big Enough Reason",
-        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Stab Parade",
         "url": "https://open.spotify.com/album/5AQtEk7sZiBIkK79IaX9a3"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 216214,
       "name": "Count That",
       "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Big Enough Reason",
+        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6xpvo4YTTH53G0UQ2NDein"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/3XztDLSsUifW8WxTc3mzi2"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Scream My Name",
         "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
       },
@@ -1515,26 +1495,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Ravers Anonymous",
-        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/6xpvo4YTTH53G0UQ2NDein"
       },
       "artists": [
         {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
         },
         {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        },
-        {
-          "name": "Leanne Louise",
-          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 231529,
-      "name": "Ravers Anonymous",
-      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
+      "duration_ms": 188586,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/3XztDLSsUifW8WxTc3mzi2"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1559,6 +1535,30 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Ravers Anonymous",
+        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        },
+        {
+          "name": "Leanne Louise",
+          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Ravers Anonymous",
+      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Stay The Night",
         "url": "https://open.spotify.com/album/6cxNU0yLOIDn6yR5Yb3a6U"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 193138,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
       },
       "artists": [
         {
-          "name": "Majistrate",
-          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
-        },
-        {
-          "name": "Weejii",
-          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+      "duration_ms": 193138,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1671,6 +1651,26 @@
       "duration_ms": 225856,
       "name": "Rigid Lord",
       "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+      },
+      "artists": [
+        {
+          "name": "Majistrate",
+          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
+        },
+        {
+          "name": "Weejii",
+          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "3AM EP",
         "url": "https://open.spotify.com/album/547NePDWh0BlRwjwR1rbqx"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 226000,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1dDJuthIcbYQMkybQFjH5U"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
     },
     {
       "added_at": "2026-03-13 00:00:07",

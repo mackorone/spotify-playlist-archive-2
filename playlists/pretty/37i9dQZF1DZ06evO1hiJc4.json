@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 153932,
+  "num_followers": 153954,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAAD3ESeMN0LM+6Asj7d2hoGi",
+  "snapshot_id": "acm9AAAAAABWQwatnBcUF/MySs0wvrRy",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Spoke",
-        "url": "https://open.spotify.com/album/4CVuionlpJerZ5CQmdWyke"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 74050,
-      "name": "God Spoke",
-      "url": "https://open.spotify.com/track/7LonAeydU2VQZwtiq3Z1ED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Spoke",
+        "url": "https://open.spotify.com/album/4CVuionlpJerZ5CQmdWyke"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 74050,
+      "name": "God Spoke",
+      "url": "https://open.spotify.com/track/7LonAeydU2VQZwtiq3Z1ED"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 184158,
-      "name": "I Keep My Promises",
-      "url": "https://open.spotify.com/track/747UqV4c6NOgRXqKCFRtrx"
+      "duration_ms": 174672,
+      "name": "Orchestra",
+      "url": "https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 174672,
-      "name": "Orchestra",
-      "url": "https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM"
+      "duration_ms": 184158,
+      "name": "I Keep My Promises",
+      "url": "https://open.spotify.com/track/747UqV4c6NOgRXqKCFRtrx"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MARBLE ZONE (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4MrxvRXDmRFSfHwsz5PWX7"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 159186,
+      "name": "MARBLE ZONE - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ExEyYveJq0222GvTrWMGb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 150320,
       "name": "Elliot's Song (with Dominic Fike, Zendaya & Labrinth)",
       "url": "https://open.spotify.com/track/5BjcI61j62j5lDmJowxcRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MARBLE ZONE (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4MrxvRXDmRFSfHwsz5PWX7"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "MARBLE ZONE - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ExEyYveJq0222GvTrWMGb"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 142848,
-      "name": "Skeletons (Lexi Needed a Break)",
-      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -891,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prelude",
-        "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
       "artists": [
         {
@@ -900,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Pull Me In",
-      "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
+      "duration_ms": 142848,
+      "name": "Skeletons (Lexi Needed a Break)",
+      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 102603,
       "name": "Accepted By The Crew",
       "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Pull Me In",
+      "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
     },
     {
       "added_at": null,

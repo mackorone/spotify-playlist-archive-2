@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1060232,
+  "num_followers": 1060321,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-03-27 04:00:10",
       "album": {
-        "name": "Take Care Of Business (Solomun Mix)",
-        "url": "https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Take Care Of Business - Solomun Mix",
-      "url": "https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh"
-    },
-    {
-      "added_at": "2026-03-27 04:00:10",
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:10",
+      "album": {
+        "name": "Take Care Of Business (Solomun Mix)",
+        "url": "https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Take Care Of Business - Solomun Mix",
+      "url": "https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh"
     },
     {
       "added_at": "2026-03-27 04:00:10",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-27 04:00:10",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 455040,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
-    },
-    {
-      "added_at": "2026-03-27 04:00:10",
-      "album": {
         "name": "EVERYTHING IN ITS RIGHT PLACE",
         "url": "https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 302044,
       "name": "EVERYTHING IN ITS RIGHT PLACE",
       "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:10",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 455040,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
     },
     {
       "added_at": "2026-03-27 04:00:10",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2026-03-27 04:00:10",
       "album": {
-        "name": "Dancing Penguins",
-        "url": "https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT"
+        "name": "Lily At The Valley",
+        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
       },
       "artists": [
         {
@@ -1124,25 +1124,9 @@
           "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 478080,
-      "name": "Dancing Penguins",
-      "url": "https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G"
-    },
-    {
-      "added_at": "2026-03-27 04:00:10",
-      "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 224731,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+      "duration_ms": 238080,
+      "name": "Lily At The Valley",
+      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "added_at": "2026-03-27 04:00:10",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-03-27 04:00:10",
       "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 224731,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+    },
+    {
+      "added_at": "2026-03-27 04:00:10",
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-03-27 04:00:10",
       "album": {
+        "name": "Dancing Penguins",
+        "url": "https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 478080,
+      "name": "Dancing Penguins",
+      "url": "https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G"
+    },
+    {
+      "added_at": "2026-03-27 04:00:10",
+      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 207619,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:10",
-      "album": {
-        "name": "Lily At The Valley",
-        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Lily At The Valley",
-      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "added_at": "2026-03-27 04:00:10",

@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 24 min
+82 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [El Desquite \- Versión Banda En Vivo](https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:09 | 2023-12-29 | 2026-03-19 |
 | [El Hubiera No Existe](https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:48 | 2023-03-10 |  |
 | [En Mi Destino Estabas Tu](https://open.spotify.com/track/6tyczwNk5TqYt9WdSZcZ1x) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [En Mi Destino Estabas Tu](https://open.spotify.com/album/4DAa9X3K3EywDoKc7Z3LS2) | 3:19 | 2023-03-10 |  |
+| [Eres Mi Necesidad \- En Vivo](https://open.spotify.com/track/1MTcoNVAlaYdsXAoA0yLQW) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:08 | 2026-04-01 |  |
 | [Es Demasiado Tarde \- En Vivo](https://open.spotify.com/track/0e2RjIK50zfagXtG00riZB) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 4:31 | 2024-01-05 | 2026-03-27 |
 | [Extraña Manera \- En Vivo](https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 | 2023-03-10 | 2026-03-23 |
 | [Golpes En El Corazon \(En Vivo\)](https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo \(En Vivo\)](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:55 | 2023-03-10 |  |
@@ -71,7 +72,7 @@
 | [Pero Que Mal Me Fue](https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:13 | 2023-03-10 |  |
 | [Por Una Mujer Bonita \- En Vivo](https://open.spotify.com/track/0bNdcn9TC4hYPRdRAemYPn) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:23 | 2025-12-22 | 2025-12-25 |
 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 | 2023-03-10 |  |
-| [Se Me Olvidó Otra Vez \- En Vivo](https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:42 | 2023-03-10 |  |
+| [Se Me Olvidó Otra Vez \- En Vivo](https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:42 | 2023-03-10 | 2026-04-01 |
 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:36 | 2023-03-10 |  |
 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Algún Día Te Encuentro](https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz) | 3:36 | 2023-06-14 | 2025-01-02 |
 | [Si Quieres](https://open.spotify.com/track/1RhHzJxQQcmg3ON1GzqlPQ) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Si Quieres](https://open.spotify.com/album/0e1fGfeuU2Qj2fKyjvmcu1) | 4:18 | 2025-11-22 |  |

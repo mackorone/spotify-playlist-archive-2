@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Snail Mail
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,167,235 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167,174 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 72 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
 | 73 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 |
 | 74 | [Imitation \(how to become you\)](https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Imitation \(how to become you\)](https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz) | 4:16 |
-| 75 | [Brush Me Like A Horse](https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio) | [Brush Me Like A Horse](https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU) | 3:24 |
+| 75 | [Brush Me Like A Horse](https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Brush Me Like A Horse](https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU) | 3:24 |
 | 76 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 |
 | 77 | [\(easily\) moved](https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [other ways of landing](https://open.spotify.com/album/6hixxzEVFqx8PvdE0mDz3a) | 3:35 |
 | 78 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 |

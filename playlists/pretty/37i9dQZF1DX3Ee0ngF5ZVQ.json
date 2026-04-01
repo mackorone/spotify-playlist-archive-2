@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 403071,
+  "num_followers": 403061,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Start at the End",
-        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
         "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 287400,
       "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
       "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Start at the End",
+        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Live From Cheatham Street",
-        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 254013,
-      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
-      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
+      "duration_ms": 175973,
+      "name": "I'm The One (feat. Marty Stuart)",
+      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
+        "name": "Live From Cheatham Street",
+        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 175973,
-      "name": "I'm The One (feat. Marty Stuart)",
-      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
+      "duration_ms": 254013,
+      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
+      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Pontiac (So Tell Me Momma)",
-        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
         }
       ],
-      "duration_ms": 225379,
-      "name": "Pontiac (So Tell Me Momma)",
-      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Where 90's Meets Now",
-        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+        "name": "Pontiac (So Tell Me Momma)",
+        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
       },
       "artists": [
         {
-          "name": "Jake Bush",
-          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 203861,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
+      "duration_ms": 225379,
+      "name": "Pontiac (So Tell Me Momma)",
+      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1435,26 +1435,6 @@
       "duration_ms": 206266,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        },
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1487,6 +1467,26 @@
       "duration_ms": 153125,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Just Call My Number",
         "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
       },
@@ -1555,6 +1539,38 @@
       "duration_ms": 194920,
       "name": "Just Call My Number",
       "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
+      },
+      "artists": [
+        {
+          "name": "Graham St. Clair Band",
+          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1595,22 +1611,6 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
-      },
-      "artists": [
-        {
-          "name": "Graham St. Clair Band",
-          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1703,18 +1703,30 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Hunt You Down",
-        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+        "name": "Running out of Time",
+        "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+      "duration_ms": 217899,
+      "name": "Running out of Time",
+      "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
     }
   ],
   "unique_name": "Texas Country Now",

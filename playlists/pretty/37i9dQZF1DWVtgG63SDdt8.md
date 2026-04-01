@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,780 likes - 98 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,790 likes - 98 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 53 | [Everything on GLO](https://open.spotify.com/track/5na7U0ZwemnkGtCwl4VHUD) | [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ) | [Everything on GLO](https://open.spotify.com/album/4VEzm8mJQulXbeKCKOr800) | 2:39 |
 | 54 | [CHRIST OR CASH](https://open.spotify.com/track/6h4coXubVJYIYFTBTwCuIE) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [CHRIST OR CASH](https://open.spotify.com/album/4pLjaVPSJw6gIKAYWlWnWD) | 2:20 |
 | 55 | [ME NO FEAR \(Badmon\)](https://open.spotify.com/track/4QMdEmWFn1q8muIPLGDalP) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1) | [ME NO FEAR \(Badmon\)](https://open.spotify.com/album/1yTbJvyvSVFe3xNmKWoMgL) | 2:24 |
-| 56 | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, Tukool Tiff & Anike\) \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, Tukool Tiff & Anike\)](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
+| 56 | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, Anike & TuKool Tiff\) \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, TuKool Tiff & Anike\)](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
 | 57 | [KINGS](https://open.spotify.com/track/5TSAIjrJlvKvxEx5YJ8Ss9) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [I CAME IN GOD'S NAME](https://open.spotify.com/album/7yYj0ksa1eURkx503HaxLM) | 1:30 |
 | 58 | [Driver's Seat](https://open.spotify.com/track/3qAnwDi5Wz8Yb2HzWLISAF) | [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Driver's Seat](https://open.spotify.com/album/2kCqJqsWBqoPFzDXDcAhVU) | 3:19 |
 | 59 | [Casting Bolders](https://open.spotify.com/track/00kVOss36ecosHwSv0Fog9) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Casting Bolders](https://open.spotify.com/album/4b5dfxg2MBMKiyHL5qIxXK) | 2:12 |

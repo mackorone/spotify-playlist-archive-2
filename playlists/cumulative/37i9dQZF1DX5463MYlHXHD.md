@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-368 songs - 20 hr 30 min
+369 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [La Morocha](https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [La Morocha](https://open.spotify.com/album/059QWHlbZgszSAf3rQ50Ag) | 2:17 | 2024-03-08 | 2024-03-16 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 | 2024-03-06 |
 | [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 | 2025-07-25 |  |
-| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 |  |
+| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 | 2026-04-01 |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-03-05 |  |
 | [La Que Quiero](https://open.spotify.com/track/1H69uZDuS45Am8HF5CFXnx) | [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [La Que Quiero](https://open.spotify.com/album/4asWvx1PseI23skzfVbDkr) | 2:43 | 2023-11-17 | 2023-11-25 |
 | [La Ranchada](https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [La Ranchada](https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH) | 7:33 | 2023-09-22 | 2023-09-30 |
@@ -291,6 +291,7 @@
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2023-05-26 | 2024-04-19 |
 | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY) | 2:51 | 2023-05-26 | 2023-11-25 |
 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 | 2023-05-26 |  |
+| [Se Me Va la Voz](https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL) | [La Fase Buk](https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg) | [Conecta 2](https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s) | 3:16 | 2026-02-13 |  |
 | [Se te nota en la cara \- Remix](https://open.spotify.com/track/4PtgaoEyK9F7nuIADfkth4) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [Se te nota en la cara \(Remix\)](https://open.spotify.com/album/3J9EGVPFIor89QVGn3gJwZ) | 2:50 | 2024-12-13 | 2025-05-21 |
 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 | 2024-04-27 | 2026-03-03 |
 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 | 2023-05-26 |  |

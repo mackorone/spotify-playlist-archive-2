@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: NOISEMAKER
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: SiM
 
-477 songs - 1 day 3 hr 27 min
+478 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Botanical Dance Club](https://open.spotify.com/track/1OIcnzPAAU0ymTNmKV1R7C) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Botanical Dance Club](https://open.spotify.com/album/7AEy6qfbauDknxgypT3nNY) | 1:58 | 2025-01-21 | 2025-02-05 |
 | [BRAINWASH](https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [BRAINWASH](https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ) | 3:04 | 2024-12-24 | 2025-02-28 |
 | [BREAK IT DOWN](https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [BREAK IT DOWN](https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH) | 4:04 | 2024-11-12 | 2025-07-24 |
-| [BREAK OUT](https://open.spotify.com/track/4iJ1jIkyN50gBy66noBWSw) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [BREAK OUT](https://open.spotify.com/album/6TuXVHqNMu5tk4bcUcyAWe) | 4:16 | 2026-03-10 |  |
+| [BREAK OUT](https://open.spotify.com/track/4iJ1jIkyN50gBy66noBWSw) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [BREAK OUT](https://open.spotify.com/album/6TuXVHqNMu5tk4bcUcyAWe) | 4:16 | 2026-03-10 | 2026-04-01 |
 | [breakout](https://open.spotify.com/track/2p3oY7YCPiAr5EBtP6xFZc) | [THE FROGLETS](https://open.spotify.com/artist/31kWXrEdHomiyrPrZhoXhc) | [THE FROGLETS](https://open.spotify.com/album/0cND80hJtxdUgVkJP8Sh5s) | 2:30 | 2023-12-26 | 2024-02-28 |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-12-13 |
 | [Breath of Air](https://open.spotify.com/track/6mnVy50A74hVxzGOiReg7k) | [Sailing Before The Wind](https://open.spotify.com/artist/2vqxAyqkpAngDDrjjNawov), [Matt Sosa](https://open.spotify.com/artist/2W5WiwytW6Pq24pIEGjWg3), [Across The White Water Tower](https://open.spotify.com/artist/69INHlGPwKDzfamLIgICDK) | [Breath of Air](https://open.spotify.com/album/3k4sOlIP8IYvG3FxgX1wLT) | 4:14 | 2024-02-06 | 2024-02-28 |
@@ -118,6 +118,7 @@
 | [Falling Down](https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Falling Down](https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ) | 2:40 | 2023-07-20 | 2024-06-22 |
 | [Find the Color](https://open.spotify.com/track/76Mhc08jUzIyAAa6CuL0is) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Find the Color](https://open.spotify.com/album/3dkrBUezNTBmQqvtQjqW3i) | 4:16 | 2026-02-17 | 2026-03-30 |
 | [Fist for the New Era](https://open.spotify.com/track/2JrGuqTBMB9lxh1w3gICPl) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Fist for the New Era](https://open.spotify.com/album/63S1oYeHHKjODjMIMmHxUk) | 3:53 | 2024-07-09 | 2025-04-14 |
+| [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY) | 3:24 | 2026-03-31 |  |
 | [Flower Bed](https://open.spotify.com/track/04qHub06DBGakVjjIYq5Bd) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [Flower Bed](https://open.spotify.com/album/5CTmcgYjdFdRR7tAhKLnCZ) | 3:34 | 2024-02-27 | 2024-05-01 |
 | [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 | 2025-03-12 |
 | [FREEDOM](https://open.spotify.com/track/5Ar1pSMJ6wG8zhWMeuYlJy) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [SLEEPLESS](https://open.spotify.com/album/66VUhMXoi6ED9kfbJyFMMB) | 3:14 | 2025-04-03 | 2025-05-21 |

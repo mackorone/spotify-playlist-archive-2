@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 193176,
+  "num_followers": 193182,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
-      },
-      "artists": [
-        {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Acuarela",
-      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Celesteacustica",
         "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Mundo Agradable (feat. Ricardo Mollo)",
-        "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
       },
       "artists": [
         {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
         }
       ],
-      "duration_ms": 273985,
-      "name": "Mundo Agradable (feat. Ricardo Mollo)",
-      "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
+      "duration_ms": 242784,
+      "name": "Acuarela",
+      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1167,6 +1147,26 @@
       "duration_ms": 144272,
       "name": "Superpoder",
       "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Mundo Agradable (feat. Ricardo Mollo)",
+        "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 273985,
+      "name": "Mundo Agradable (feat. Ricardo Mollo)",
+      "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "No Estes Triste (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 178000,
       "name": "No Estes Triste - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Es Broma, En Serio",
-        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Es Broma, En Serio",
-      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "AC\u00daSTICO Vol.1",
-        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Amor Roto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Ninja Mental - Unplugged MTV",
         "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 277733,
       "name": "Hermoza From Heaven",
       "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "AC\u00daSTICO Vol.1",
+        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Amor Roto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Love Song - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Vuela Lejos",
         "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 307414,
       "name": "Vuela Lejos",
       "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Love Song - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
     },
     {
       "added_at": "2026-01-23 03:00:06",

@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-242 songs - 19 hr 44 min
+243 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Nensak Dra3](https://open.spotify.com/track/4M4sHSOBAIlqtPkFikUcMo) | [Abdelkader Belabbes](https://open.spotify.com/artist/5TwUxKiLvqL7Ux6dTqVdhu) | [Nensak Dra3](https://open.spotify.com/album/1rpCdaXwkDNYvwu2dwFtPh) | 4:05 | 2022-09-20 | 2022-12-27 |
 | [Neti Tbghini wana nbghik](https://open.spotify.com/track/0VKSQKJiB6x9KB5tPxjuM5) | [Houari Djazira](https://open.spotify.com/artist/1tSjYFjDNkjUMAgWrhsC3o) | [Neti Tbghini wana nbghik](https://open.spotify.com/album/3jcuNJID5VmFP73WtNF0fT) | 7:44 | 2025-04-21 | 2025-11-18 |
 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 | 2023-10-11 |  |
+| [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/track/1Ow2vMG9QM0hybymrRJkuH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/album/2uiJd0EbfzH2hMUB97BSVL) | 5:09 | 2026-03-31 |  |
 | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/track/5yqlKsyNTsJ9FyneSZVIbm) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno) | 5:16 | 2022-09-20 | 2022-12-27 |
 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 | 2021-10-19 | 2024-02-17 |
 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 | 2024-11-29 |  |
@@ -248,7 +249,7 @@
 | [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |
 | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/track/5NHNsu2SFsEJ06zPbRTomb) | [RaiJdid](https://open.spotify.com/artist/6eARrgJK4IDBeFTHcHIQwM) | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/album/44eg9fpdAVZwEMmNDCYXD8) | 7:56 | 2023-05-08 | 2023-10-03 |
 | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/track/0IiDI1jF6bmERRxsaPNyAe) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/album/3Y6L5aPp1EGEbZ2hyHypoa) | 5:54 | 2021-10-19 | 2022-09-21 |
-| [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 | 2023-05-25 |  |
+| [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 | 2023-05-25 | 2026-04-01 |
 | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/track/2XccMlUe2DuW4YLrjFghki) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/album/5Zyjk5uDs9yYlQFMSR5MvU) | 4:14 | 2023-09-25 | 2023-11-10 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -5212,7 +5212,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 207396,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/1aODaFKkuiysjOQ9Y8shn2"
@@ -7028,6 +7028,24 @@
       "duration_ms": 314322,
       "name": "Trip To Fantasy",
       "url": "https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a"
+    },
+    {
+      "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf"
+      },
+      "artists": [
+        {
+          "name": "KX CHR",
+          "url": "https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153004,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0"
     },
     {
       "album": {

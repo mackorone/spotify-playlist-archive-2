@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,846 likes - 89 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,844 likes - 89 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 13 | [Himlen är oskyldigt blå](https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Himlen är oskyldigt blå](https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl) | 4:22 |
 | 14 | [Oxygen](https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN) | [Laila Adèle](https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ) | [Oxygen](https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq) | 3:05 |
 | 15 | [På egna ben \(feat\. Carola\)](https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [På egna ben \(feat\. Carola\)](https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U) | 3:22 |
-| 16 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
-| 17 | [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 |
+| 16 | [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 |
+| 17 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 |
 | 18 | [Göteborg](https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Göteborg](https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK) | 3:48 |
 | 19 | [You](https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [You](https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt) | 4:48 |
 | 20 | [All My Life](https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [All My Life](https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO) | 3:53 |
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 23 | [Mannen i spegeln](https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Mannen i spegeln](https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L) | 3:32 |
 | 24 | [All These Years](https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [All These Years](https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1) | 3:48 |
 | 25 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC) | 3:20 |
-| 26 | [RANSOMS](https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [RANSOMS](https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7) | 3:03 |
+| 26 | [Face The Unknown](https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Face The Unknown](https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz) | 3:30 |
 | 27 | [Tonårsland](https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tonårsland](https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9) | 3:10 |
-| 28 | [Face The Unknown](https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Face The Unknown](https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz) | 3:30 |
+| 28 | [RANSOMS](https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [RANSOMS](https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7) | 3:03 |
 | 29 | [Pillar of Davidson](https://open.spotify.com/track/39VGpgVZbYDPd4MxYYtYJv) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Pillar of Davidson](https://open.spotify.com/album/4SA8y0q3M0Dfk3M4I3G99r) | 4:57 |
-| 30 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [jaywalking](https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x) | 2:50 |
-| 31 | [Gullmar Gospel](https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Gullmar Gospel](https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9) | 4:32 |
+| 30 | [Gullmar Gospel](https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Gullmar Gospel](https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9) | 4:32 |
+| 31 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [jaywalking](https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x) | 2:50 |
 | 32 | [Bad Bones](https://open.spotify.com/track/6cq5OjkTCwKp2HiEXfHcsu) | [Erik Grönwall](https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG) | [Bad Bones](https://open.spotify.com/album/5YycljN03RNlQlBQN6nI2W) | 3:20 |
 | 33 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 |
 | 34 | [About Nothing](https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [About Nothing](https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z) | 3:13 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 36 | [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 |
 | 37 | [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 5:00 |
 | 38 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 |
-| 39 | [In Your Grace](https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [In Your Grace](https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN) | 5:27 |
+| 39 | [Echoes](https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Echoes](https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX) | 3:10 |
 | 40 | [Prinsessa](https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY) | [Naomi Wiehe](https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2) | [Prinsessa](https://open.spotify.com/album/4GumTSRgywolC98wanKLun) | 4:01 |
 | 41 | [Give and Take](https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Give and Take](https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO) | 3:22 |
 | 42 | [Can't Frame the Moonlight](https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Can't Frame the Moonlight](https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP) | 3:25 |

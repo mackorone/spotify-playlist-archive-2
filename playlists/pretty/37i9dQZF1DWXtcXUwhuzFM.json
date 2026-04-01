@@ -1,12 +1,12 @@
 {
   "description": "Uutta musaa tarjoilevat Mirella, AHTI, Lauri Haav... ja moni muu  \ud83c\udfb6",
-  "num_followers": 106142,
+  "num_followers": 106152,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjPmP5f2WaWCkNIpf183FB6g6Em",
+  "snapshot_id": "AAAAADu1Z6smFhEO/gUYIxpAYAUSB3D9",
   "tracks": [
     {
       "added_at": "2026-03-26 22:00:27",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-03-26 22:00:27",
       "album": {
-        "name": "POSSESSION",
-        "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 187483,
-      "name": "POSSESSION",
-      "url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
-    },
-    {
-      "added_at": "2026-03-26 22:00:27",
-      "album": {
         "name": "Kingdom of Fear",
         "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 220000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs"
+    },
+    {
+      "added_at": "2026-03-31 09:53:37",
+      "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 196371,
+      "name": "UNCANNY VALLEY",
+      "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
     },
     {
       "added_at": "2026-03-26 22:00:27",

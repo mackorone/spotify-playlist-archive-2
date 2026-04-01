@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 
 > This is Éliane Radigue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 15 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 15 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 | 14 | [Musique pour l'image](https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:48 |
 | 15 | [Le reflet](https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:40 |
 
-Snapshot ID: `achrgAAAAACDfRxRVM7gamjZSKZG7xfv`
+Snapshot ID: `acm9AAAAAACQ/swpsiaFtFhHPKVFAF0C`

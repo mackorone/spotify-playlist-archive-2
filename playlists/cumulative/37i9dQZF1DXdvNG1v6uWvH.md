@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Daði Freyr, RAYE og mörgum fleiri!
 
-10,220 songs - 22 day 21 hr 28 min
+10,221 songs - 22 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2104,7 +2104,7 @@
 | [Demon Time](https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Demon Time](https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg) | 3:21 | 2025-01-17 | 2025-01-24 |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-06 | 2025-06-13 |
 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 | 2025-08-29 | 2025-09-06 |
-| [Den om en mand \(Haline Bak\)](https://open.spotify.com/track/7zbfDQFLporuqARvjI3BOr) | [AySay](https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE) | [Mal](https://open.spotify.com/album/1d867tm9UuJt9wtJE0n8G8) | 2:35 | 2026-03-27 |  |
+| [Den om en mand \(Haline Bak\)](https://open.spotify.com/track/7zbfDQFLporuqARvjI3BOr) | [AySay](https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE) | [Mal](https://open.spotify.com/album/1d867tm9UuJt9wtJE0n8G8) | 2:35 | 2026-03-27 | 2026-04-01 |
 | [Denpasar til Bangkok](https://open.spotify.com/track/4rjV5wrSXTAzIybaNVBKsN) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Thomas Moen Hermansen](https://open.spotify.com/album/5f5UR1KWqw3nsshaYDtJP8) | 5:57 | 2025-12-05 | 2025-12-12 |
 | [depend on you](https://open.spotify.com/track/6QFXGdUD1qObRJ8TLNebjj) | [sleepy turtle](https://open.spotify.com/artist/0Izi9quSIBBUyjV3Ur0RCY), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [depend on you](https://open.spotify.com/album/6gQ2ZULqteHHA2uJxq7xdu) | 2:14 | 2025-09-12 | 2025-09-20 |
 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-19 | 2025-09-27 |
@@ -8898,6 +8898,7 @@
 | [The Suburbs](https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw) | 3:08 | 2025-08-22 | 2025-08-30 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 | 2025-08-09 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-09-27 | 2024-10-04 |
+| [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 | 2026-03-27 |  |
 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 | 2025-05-16 | 2025-05-23 |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-09 | 2024-08-16 |
 | [The Theory of Everything \(From "The Theory of Everything"\) \[Performed on Piano\]](https://open.spotify.com/track/3Kf7vFB10SHN9UAXjAzEvM) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Jóhannsson: The Theory of Everything \(from "The Theory of Everything"\) \[Performed on Piano\]](https://open.spotify.com/album/45MZ4glrJWAmfLTCfeMcmT) | 1:31 | 2025-10-17 | 2025-10-25 |
@@ -10084,7 +10085,7 @@
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-21 | 2025-03-28 |
 | [You In The Sea](https://open.spotify.com/track/5LnvAYgZNPsaFG2bt03Z5j) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [You In The Sea](https://open.spotify.com/album/79smqI7DUTVVenASjbVpdz) | 3:42 | 2025-07-25 | 2025-08-01 |
 | [You Know I Hate it \(How The World Moves On\)](https://open.spotify.com/track/0d7Gjq2qwvcaoXpeLWFtnf) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO) | 3:58 | 2025-11-07 | 2025-11-14 |
-| [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 | 2026-03-27 |  |
+| [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 | 2026-03-27 |  |
 | [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 | 2025-04-25 | 2025-05-02 |
 | [You Make All the Right Things Hard](https://open.spotify.com/track/3ryifQ0G32p56Mhu2Lxp80) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [You Make All the Right Things Hard](https://open.spotify.com/album/5wDyRPqxc1Sc3HPgt7yb49) | 2:49 | 2025-08-15 | 2025-08-23 |
 | [You Might Be Gone](https://open.spotify.com/track/4WqVgZ1PA63p2zgV7rogAM) | [MELLA](https://open.spotify.com/artist/4y7r8NNpPFEKar9dD6zSoL) | [We Were Floating, Now We're Drifting](https://open.spotify.com/album/2uPx4XBeScTF5zhgeUgiWh) | 3:52 | 2025-02-28 | 2025-03-07 |

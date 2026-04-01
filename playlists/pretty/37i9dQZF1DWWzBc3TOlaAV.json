@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 998847,
+  "num_followers": 998975,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Gold (International Version)",
-        "url": "https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH"
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
       },
       "artists": [
         {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 156106,
-      "name": "Gloria - Stereo Version",
-      "url": "https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC"
+      "duration_ms": 201800,
+      "name": "Sweet Caroline - Single Version",
+      "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "Gold (International Version)",
+        "url": "https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH"
+      },
+      "artists": [
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Gloria - Stereo Version",
+      "url": "https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Hit Single Anthology",
         "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 158250,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "In My Lifetime",
-        "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Sweet Caroline - Single Version",
-      "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
     },
     {
       "added_at": "2024-07-05 23:26:53",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 528697,
+  "num_followers": 528744,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Pupy y Los que Son Son Best Of",
+        "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
+      },
+      "artists": [
+        {
+          "name": "Pupy y Los Que Son Son",
+          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
+        }
+      ],
+      "duration_ms": 341394,
+      "name": "La borrachera",
+      "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Yo Vengo de Cuba",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Pupy y Los que Son Son Best Of",
-        "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
-      },
-      "artists": [
-        {
-          "name": "Pupy y Los Que Son Son",
-          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
-        }
-      ],
-      "duration_ms": 341394,
-      "name": "La borrachera",
-      "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -803,18 +803,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
+        "name": "La Maquinaria (Remasterizado)",
+        "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
       },
       "artists": [
         {
-          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
-          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
+          "name": "Juan Formell",
+          "url": "https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27"
+        },
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
         }
       ],
-      "duration_ms": 310079,
-      "name": "Arriba de la bola",
-      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
+      "duration_ms": 313260,
+      "name": "Eso Que Anda - Remasterizado",
+      "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
     },
     {
       "added_at": "2025-03-07 06:00:25",

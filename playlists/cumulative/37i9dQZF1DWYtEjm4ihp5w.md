@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Inkonnu
+> Cover: Shobee
 
 495 songs - 1 day 1 hr 50 min
 

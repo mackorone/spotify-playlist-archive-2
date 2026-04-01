@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53999,
+  "num_followers": 54008,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAAB10/xbI6Mp2wYRnFay0PIZ",
+  "snapshot_id": "acm9AAAAAADIdr36U0k7ovF9HwYYoQBT",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 251120,
       "name": "Summer Cannibals",
       "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 72226,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 235810,
       "name": "Farewell Reel",
       "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 72226,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 194002,
-      "name": "Snowball",
-      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
+      "duration_ms": 377240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampin'",
         "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 246640,
       "name": "Looking for You (I Was)",
       "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 174503,
-      "name": "The Hunter Gets Captured by The Game",
-      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 238546,
       "name": "1959",
       "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 174503,
+      "name": "The Hunter Gets Captured by The Game",
+      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
     },
     {
       "added_at": null,

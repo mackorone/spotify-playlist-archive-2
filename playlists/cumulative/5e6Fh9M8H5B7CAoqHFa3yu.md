@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,043 songs - 5 day 1 hr 14 min
+2,045 songs - 5 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1391,6 +1391,7 @@
 | [Psalm 103](https://open.spotify.com/track/7ukxzQRe1Mc3aPH6HBaRgv) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC), [Kasia](https://open.spotify.com/artist/29qQXkeJ7QhNmubpz5DTJp) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 5:16 | 2024-05-01 |  |
 | [Pseudo Armacao Ltda](https://open.spotify.com/track/1qZkAeIXFFpFrndRHhVk9y) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 3:35 | 2026-03-16 |  |
 | [Pseudo Armacao Ltda](https://open.spotify.com/track/5iu0hf47OCX3lEPOmEmBYJ) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 3:35 | 2025-06-16 |  |
+| [Psychedelic \- Band Version](https://open.spotify.com/track/2IKjfnfs0Bji4vr6NnQ9Rb) | [Kayleigh Walker](https://open.spotify.com/artist/5GKQQUenHbZ5qmohHqMBCd) | [Who is she ? \(Band Version\)](https://open.spotify.com/album/16b7kK0q5bR4Olemf8x4NG) | 3:37 | 2026-03-31 |  |
 | [Public Enemy](https://open.spotify.com/track/1DgEZbbuwwqneDCZ7YflvG) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed) | [Public Enemy](https://open.spotify.com/album/1NhMCwZmAFq53mRQDYgwRG) | 4:43 | 2024-05-17 |  |
 | [Puedo](https://open.spotify.com/track/4GGzJWQeNHPg1sHDNwuNIY) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:31 | 2026-03-15 |  |
 | [Pulse Power](https://open.spotify.com/track/6iGEscu38OpGeMvcxzDo4I) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Pulse Power](https://open.spotify.com/album/3hVZWCJq7gd7kVYojZMGIM) | 2:00 | 2024-12-25 |  |
@@ -2033,6 +2034,7 @@
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-07-01 |  |
 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 | 2025-05-12 |  |
 | [Доля захисників](https://open.spotify.com/track/2zKfUnKigpUkyxONpTExev) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Доля захисників](https://open.spotify.com/album/5EEfpr8epng3N8NHHkrVyt) | 3:40 | 2025-10-05 |  |
+| [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
 | [Ещё вчера](https://open.spotify.com/track/3oEnRkfBvcDogSQhOpVYWB) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Ещё вчера](https://open.spotify.com/album/154tkH9dGGq42QMywGfwBN) | 4:09 | 2026-02-22 |  |
 | [Лето](https://open.spotify.com/track/56wDXnGmt1k1MG8EpEF7wU) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Лето](https://open.spotify.com/album/0jeEjcRsn33ya6zeIganvz) | 4:24 | 2025-06-18 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-16 |  |

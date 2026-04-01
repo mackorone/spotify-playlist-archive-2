@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,464 songs - 6 day 0 hr 4 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,471 songs - 6 day 0 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2472,5 +2472,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2462 | [West Coast](https://open.spotify.com/track/7L3vq9xm27Jvd0yxVEl4Wx) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [West Coast](https://open.spotify.com/album/2NjlHgejNKPtTAFPpKfKYn) | 3:35 |
 | 2463 | [Roosters](https://open.spotify.com/track/6SPv408aAfbsGqb2Fvic8B) | [Travis Feutz and The Stardust Cowboys](https://open.spotify.com/artist/5prevHb6g0UVn5uIoLqbjs) | [Country Gold](https://open.spotify.com/album/3NgPR3THQboh5Uc9pAowOK) | 4:27 |
 | 2464 | [Home](https://open.spotify.com/track/3X4rv70OsNzQmQ4viTgwC8) | [Midnite](https://open.spotify.com/artist/2dOwO9pZoe3qI0EWoXmCC6), [Donja](https://open.spotify.com/artist/42N8gqPCAOmpTtSpINYQYr) | [Home](https://open.spotify.com/album/7fE6iOCOIxKC77Gno7UHlR) | 3:58 |
+| 2465 | [When I Fall](https://open.spotify.com/track/7gMLfb1NbOeDgmWZ6qZt7V) | [Hudson Murray](https://open.spotify.com/artist/64Ytpz9KrL0P7WQaMVPPy3) | [Stars Aligned](https://open.spotify.com/album/2IWGP4nPo5BcBuUTNEZzWG) | 2:54 |
+| 2466 | [13th July 1975](https://open.spotify.com/track/5LmKiqJGxCVGpaPfjgCo3f) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [13th July 1975](https://open.spotify.com/album/5WJ4DOrKpLClqtGPuoXhNK) | 4:28 |
+| 2467 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 |
+| 2468 | [If You Only Knew](https://open.spotify.com/track/3gqhbkvHl6j8nO2kkEN8FA) | [The Imaginary Band](https://open.spotify.com/artist/6C07tFlxuK6Aq1aQBMExrm), [Andrew Christopher](https://open.spotify.com/artist/2v5uSfzONW5ws0uRnD7UPv) | [The Imaginary Band](https://open.spotify.com/album/5JaO7u4lzGQPfWuBKwt0ES) | 3:42 |
+| 2469 | [Soledad](https://open.spotify.com/track/6rIAEIWjZEtlRm4dmZRgyJ) | [Jorge Trez](https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq) | [Amor Imposible](https://open.spotify.com/album/2F6Mp4cFVoDYn8VZamya5A) | 3:07 |
+| 2470 | [GIRLS](https://open.spotify.com/track/2WquMdtFVpyJv5U4kJMDSJ) | [TAKY](https://open.spotify.com/artist/21HEtny7SdsVUIjviGpGrY) | [GIRLS](https://open.spotify.com/album/63PULggAWg0TS3V72invPp) | 2:24 |
+| 2471 | [Unafraid \- Remastered 2026](https://open.spotify.com/track/2A0jKp2bkr7LKTgv2SnLDw) | [Andrew Spice](https://open.spotify.com/artist/5ZnQOkwMsUYXfrnTNFtcgY) | [Pretty Demons \(Remastered 2026\)](https://open.spotify.com/album/5BGpZwnoZzUBKGLuNsSklb) | 3:16 |
 
-Snapshot ID: `AAAKN8929lrhqORm6fbrxBQK30QTgfPl`
+Snapshot ID: `AAAKPqwATX5P08NkHftWHmrPUQ1DanFF`

@@ -4,7 +4,7 @@
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-452 songs - 1 day 4 hr 50 min
+453 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [The Witch of the North](https://open.spotify.com/track/4Bsaetsm0Ov8D7RvmFckVy) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/6SQ4rGkdF2xqaBfLWj78Nn) | 5:29 | 2021-05-15 | 2022-07-28 |
 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 | 2024-09-20 | 2025-03-08 |
 | [This Is the End](https://open.spotify.com/track/1EjkGol5hmZXC0ac5SI62l) | [Dust in Mind](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [This Is the End](https://open.spotify.com/album/0cB3Pi8DpvNGbdpgHfc4b0) | 4:21 | 2020-12-07\* | 2020-12-11 |
-| [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 | 2025-03-07 |  |
+| [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 | 2025-03-07 | 2026-04-01 |
 | [Throne](https://open.spotify.com/track/3FrBWZ5A44JTlowzHrydLa) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Throne](https://open.spotify.com/album/5qlC51M6oE1JXumk2noo7r) | 2:59 | 2020-12-07\* | 2020-12-11 |
 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 | 2026-03-02 |  |
 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 | 2020-12-07\* | 2022-07-29 |
@@ -428,6 +428,7 @@
 | [Vakuum](https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Feberdröm](https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w) | 5:02 | 2022-10-28 | 2022-11-13 |
 | [Vertigo](https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Initiation](https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M) | 3:09 | 2022-03-11 | 2022-11-13 |
 | [Vertigo](https://open.spotify.com/track/1glkXrrq1qC6lhcNijksWb) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Vertigo](https://open.spotify.com/album/2zx6YAkUgWJDY1EyLF28Jc) | 3:09 | 2021-04-10 | 2022-07-29 |
+| [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv) | 2:56 | 2026-03-31 |  |
 | [Viral](https://open.spotify.com/track/1iqgx6BkWYRorWDLwkpMJZ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Viral](https://open.spotify.com/album/4yaARCXEEPrYUpdHFP45Aq) | 3:01 | 2020-12-07\* | 2020-12-11 |
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-03-07 | 2026-03-03 |
 | [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 | 2025-03-07 | 2026-03-03 |

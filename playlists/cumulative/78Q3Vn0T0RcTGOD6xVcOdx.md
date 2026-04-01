@@ -4,7 +4,7 @@
 
 > 
 
-281 songs - 16 hr 5 min
+282 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2025-01-24 |  |
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2025-01-24 |  |
 | [Suspiria](https://open.spotify.com/track/7oLacx4RYXSWmG5zFSQr7S) | [Planeta Lasal](https://open.spotify.com/artist/2hYGQGf32WS9BITb6UPuFV), [Symphony of the Spirit](https://open.spotify.com/artist/2fnmOoVzlUnkdeeh25jlb5) | [Suspiria](https://open.spotify.com/album/2mNz0xTOmb0pN41LHheJQJ) | 2:41 | 2025-08-16 |  |
+| [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/track/0j3whSznT03ACSBL0XLvak) | [Planeta Luna](https://open.spotify.com/artist/5bZIFH7GHHt0BvGFhLgonS) | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/album/72QiHOhEGwuD4mX0SuraLH) | 2:44 | 2026-03-31 |  |
 | [T HACE MAL](https://open.spotify.com/track/6K11rw2zA1nR77PBL9YDDj) | [CocoWash](https://open.spotify.com/artist/3zxFr108CK2XWyqPi48cqF), [NABU](https://open.spotify.com/artist/1laHadJeHgkvbIjDEjNx2n), [Roki Fernandez](https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6) | [T HACE MAL](https://open.spotify.com/album/2eQ6lXbL5CrfDg1577JEkL) | 2:59 | 2025-03-02 |  |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2025-01-24 |  |
 | [Te traigo flores](https://open.spotify.com/track/1SjMQAJlwptaKoROgg5yJH) | [Fran Torrella](https://open.spotify.com/artist/7bFXH7TevOccNpWYQjmMc6) | [Te traigo flores](https://open.spotify.com/album/5Di1I75DrCvgr0zRuxXM16) | 3:04 | 2025-09-13 |  |

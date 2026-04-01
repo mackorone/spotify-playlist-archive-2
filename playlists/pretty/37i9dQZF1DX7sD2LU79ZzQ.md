@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Naufal Syachreza
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,285 likes - 114 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,448 likes - 114 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 21 | [Sesuai Alamat](https://open.spotify.com/track/6o0UKm6wVgT05UF7bIaICA) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sesuai Alamat](https://open.spotify.com/album/1AP00EY3tql8UUmsalTx48) | 2:44 |
 | 22 | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:29 |
 | 23 | [Merindukanmu](https://open.spotify.com/track/3EDHh1W0wnk7voXNUf2lQ5) | [Janita Gabriela](https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7), [Putri Sashi](https://open.spotify.com/artist/4iUvDxXt7alOb7xME0zhLS) | [Merindukanmu](https://open.spotify.com/album/3wdR0SWZ1rdo1BipbFEgI1) | 4:27 |
-| 24 | [Manusia Favorit](https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo), [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud) | [Manusia Favorit](https://open.spotify.com/album/3zy41NOYR94APnywJqYYd3) | 3:45 |
+| 24 | [Manusia Favorit](https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Manusia Favorit](https://open.spotify.com/album/3zy41NOYR94APnywJqYYd3) | 3:45 |
 | 25 | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/track/5PtqAzYdYvaLhPz8ytODnH) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU), [Meltho](https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs), [Rayen Pono](https://open.spotify.com/artist/19rdG4N7SsX2jtbCndgeK5) | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/album/2PhzFP5vLutV5gUkaHjAol) | 4:34 |
 | 26 | [Jantung Samudra \(Haya \- Nyi Roro Kidul Theme Song\)](https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX), [Honor of Kings Indonesia](https://open.spotify.com/artist/5aXtu4HI1PMk7Wqwm70lvh) | [Jantung Samudra](https://open.spotify.com/album/0zFdnteznJblNnXZhi71mn) | 3:21 |
 | 27 | [Tak Setara](https://open.spotify.com/track/4B5Qq74hrUf7fehRFm9RlO) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Tak Setara](https://open.spotify.com/album/7B31BZ7UMBCEnDgtbo6Kvq) | 4:56 |

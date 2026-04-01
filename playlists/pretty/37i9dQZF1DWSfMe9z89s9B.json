@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: rum.gold",
-  "num_followers": 1323280,
+  "num_followers": 1323209,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
       "added_at": "2026-03-27 06:30:33",
       "album": {
         "name": "idk idk",
@@ -883,6 +867,22 @@
       "duration_ms": 146526,
       "name": "idk idk",
       "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1389,26 +1389,6 @@
       "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
-      "added_at": "2025-11-07 07:39:57",
-      "album": {
-        "name": "Beck n Call",
-        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
-          "name": "ttoh",
-          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Beck n Call",
-      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
       "added_at": "2024-08-16 04:08:50",
       "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
@@ -1445,6 +1425,26 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
+      "added_at": "2025-11-07 07:39:57",
+      "album": {
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
+    },
+    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "don't text me back",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "brother and sister",
-        "url": "https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 175963,
-      "name": "brother and sister",
-      "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "Aeon",
@@ -1507,6 +1491,22 @@
       "duration_ms": 110000,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
+    },
+    {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "brother and sister",
+        "url": "https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 175963,
+      "name": "brother and sister",
+      "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Low End Love Songs",
-        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210957,
-      "name": "Spend More Time With Your Friends",
-      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
-    },
-    {
       "added_at": "2026-03-13 08:17:11",
       "album": {
         "name": "A Rush To Nowhere",
@@ -1671,6 +1655,22 @@
       "duration_ms": 185506,
       "name": "Heard What You Said",
       "url": "https://open.spotify.com/track/5rX8YRB4QrwKX1Gdneg57a"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Low End Love Songs",
+        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210957,
+      "name": "Spend More Time With Your Friends",
+      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1703,6 +1703,22 @@
       "duration_ms": 143102,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
+      "added_at": "2025-04-11 05:53:52",
+      "album": {
+        "name": "a million faces",
+        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 102068,
+      "name": "a million faces",
+      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
       "added_at": "2024-06-21 07:44:39",
@@ -1771,22 +1787,6 @@
       "duration_ms": 178902,
       "name": "be with ya",
       "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
-    },
-    {
-      "added_at": "2025-04-11 05:53:52",
-      "album": {
-        "name": "a million faces",
-        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 102068,
-      "name": "a million faces",
-      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -2253,22 +2253,6 @@
       "url": "https://open.spotify.com/track/2qGqtuUr4eUqxIuMt8TbEZ"
     },
     {
-      "added_at": "2025-11-07 07:39:57",
-      "album": {
-        "name": "Is There Anybody Home? (Part 2)",
-        "url": "https://open.spotify.com/album/2Oz6kdTU95cJ6hm39moLER"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Act of God / Force Majeure",
-      "url": "https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "RUFF RIDE",
@@ -2321,20 +2305,20 @@
       "url": "https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
+      "added_at": "2025-11-07 07:39:57",
       "album": {
-        "name": "way 2 paradise",
-        "url": "https://open.spotify.com/album/3MIL2etNxMIjQIX8glmjni"
+        "name": "Is There Anybody Home? (Part 2)",
+        "url": "https://open.spotify.com/album/2Oz6kdTU95cJ6hm39moLER"
       },
       "artists": [
         {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 165838,
-      "name": "way 2 paradise",
-      "url": "https://open.spotify.com/track/3sgoRhmVZj3wtkzFd6hcZb"
+      "duration_ms": 164306,
+      "name": "Act of God / Force Majeure",
+      "url": "https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2353,20 +2337,20 @@
       "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
     },
     {
-      "added_at": "2025-09-26 19:38:36",
+      "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "skin!",
-        "url": "https://open.spotify.com/album/3GUmmOqPRyswzZpcICXhcx"
+        "name": "way 2 paradise",
+        "url": "https://open.spotify.com/album/3MIL2etNxMIjQIX8glmjni"
       },
       "artists": [
         {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
         }
       ],
-      "duration_ms": 160626,
-      "name": "skin!",
-      "url": "https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS"
+      "duration_ms": 165838,
+      "name": "way 2 paradise",
+      "url": "https://open.spotify.com/track/3sgoRhmVZj3wtkzFd6hcZb"
     },
     {
       "added_at": "2025-08-08 06:41:07",
@@ -2399,6 +2383,22 @@
       "duration_ms": 200000,
       "name": "dazed",
       "url": "https://open.spotify.com/track/6gSbVCL3fVK8TFq2WCheXI"
+    },
+    {
+      "added_at": "2025-09-26 19:38:36",
+      "album": {
+        "name": "skin!",
+        "url": "https://open.spotify.com/album/3GUmmOqPRyswzZpcICXhcx"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "skin!",
+      "url": "https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS"
     },
     {
       "added_at": "2024-09-13 09:09:19",
@@ -2465,22 +2465,6 @@
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "me rn",
-        "url": "https://open.spotify.com/album/68aKP6gmpMFgu3Fuw3YDmK"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 118956,
-      "name": "Matrimony",
-      "url": "https://open.spotify.com/track/5UNWVxlaSSvGAiOrvtFmsw"
-    },
-    {
       "added_at": "2025-10-10 08:11:09",
       "album": {
         "name": "CAOS",
@@ -2511,6 +2495,22 @@
       "duration_ms": 263513,
       "name": "2:35 AM",
       "url": "https://open.spotify.com/track/3b3MgbQskkpBb6rSkoIAoh"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "me rn",
+        "url": "https://open.spotify.com/album/68aKP6gmpMFgu3Fuw3YDmK"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 118956,
+      "name": "Matrimony",
+      "url": "https://open.spotify.com/track/5UNWVxlaSSvGAiOrvtFmsw"
     },
     {
       "added_at": "2025-03-21 05:31:12",

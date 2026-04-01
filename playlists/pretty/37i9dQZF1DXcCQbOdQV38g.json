@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60410,
+  "num_followers": 60420,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -87,38 +87,6 @@
     {
       "added_at": "2026-03-12 23:00:57",
       "album": {
-        "name": "Betaalbare Romantiek",
-        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
-      },
-      "artists": [
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 214383,
-      "name": "Noodgeval",
-      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
-        "name": "Alles Kan Kapot",
-        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 172211,
-      "name": "Alles Kan Kapot",
-      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
         "name": "Ze Komt Uit Amsterdam",
         "url": "https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx"
       },
@@ -139,6 +107,38 @@
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
+        "name": "Alles Kan Kapot",
+        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "duration_ms": 172211,
+      "name": "Alles Kan Kapot",
+      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
+        "name": "Betaalbare Romantiek",
+        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "duration_ms": 214383,
+      "name": "Noodgeval",
+      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
     },
     {
       "added_at": "2026-03-12 23:00:57",
@@ -187,6 +187,30 @@
     {
       "added_at": "2026-03-12 23:00:57",
       "album": {
+        "name": "Vanavond (Uit M'n Bol)",
+        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Vanavond (Uit M'n Bol)",
+      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 150741,
       "name": "Nooit Meer Voorbij",
       "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
-        "name": "Vanavond (Uit M'n Bol)",
-        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Vanavond (Uit M'n Bol)",
-      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
     },
     {
       "added_at": "2026-03-12 23:00:57",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-03-12 23:00:57",
       "album": {
+        "name": "Aan het strand van Porto Rico",
+        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 195249,
+      "name": "Aan het strand van Porto Rico",
+      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
         "name": "Faka",
         "url": "https://open.spotify.com/album/64ydkS99TJ8y9409oNwnWS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 157500,
       "name": "Faka",
       "url": "https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
-        "name": "Aan het strand van Porto Rico",
-        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 195249,
-      "name": "Aan het strand van Porto Rico",
-      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
     },
     {
       "added_at": "2026-03-12 23:00:57",

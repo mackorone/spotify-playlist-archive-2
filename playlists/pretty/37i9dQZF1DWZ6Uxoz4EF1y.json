@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 245234,
+  "num_followers": 245273,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-03-29 07:09:09",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
+      },
+      "artists": [
+        {
+          "name": "Alex Rodriguez",
+          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Merecedor de Alabanza",
+      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
+    },
+    {
+      "added_at": "2026-03-29 07:09:09",
+      "album": {
         "name": "Vivo Est\u00e1s",
         "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 392026,
       "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
-    },
-    {
-      "added_at": "2026-03-29 07:09:09",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
-      },
-      "artists": [
-        {
-          "name": "Alex Rodriguez",
-          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Merecedor de Alabanza",
-      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2026-03-29 07:09:09",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-03-29 07:09:09",
       "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
+    },
+    {
+      "added_at": "2026-03-29 07:09:09",
+      "album": {
         "name": "Nunca Fallas",
         "url": "https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 339202,
       "name": "Nunca Fallas",
       "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
-    },
-    {
-      "added_at": "2026-03-29 07:09:09",
-      "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
     },
     {
       "added_at": "2026-03-29 07:09:09",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2026-03-29 07:09:09",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
+        },
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "duration_ms": 444330,
+      "name": "Digno",
+      "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
+    },
+    {
+      "added_at": "2026-03-29 07:09:09",
+      "album": {
         "name": "Mi Shalom",
         "url": "https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz"
       },
@@ -1479,26 +1503,18 @@
     {
       "added_at": "2026-03-29 07:09:09",
       "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
-        },
-        {
-          "name": "Yvonne Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 444330,
-      "name": "Digno",
-      "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
+      "duration_ms": 279457,
+      "name": "Exagerado Amor",
+      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
     },
     {
       "added_at": "2026-03-29 07:09:09",
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2026-03-29 07:09:09",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+        "name": "Me rindo a ti",
+        "url": "https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 279457,
-      "name": "Exagerado Amor",
-      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
+      "duration_ms": 291428,
+      "name": "Me rindo a ti",
+      "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
     },
     {
       "added_at": "2026-03-29 07:09:09",
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2026-03-29 07:09:09",
       "album": {
-        "name": "Me rindo a ti",
-        "url": "https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa"
+        "name": "Colecci\u00f3n de Danilo Montero",
+        "url": "https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 291428,
-      "name": "Me rindo a ti",
-      "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
+      "duration_ms": 360071,
+      "name": "Cantar\u00e9 de Tu Amor",
+      "url": "https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG"
     },
     {
       "added_at": "2026-03-29 07:09:09",
@@ -1719,22 +1735,6 @@
       "duration_ms": 309400,
       "name": "El justo vivir\u00e1 por fe",
       "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2026-03-29 07:09:09",
-      "album": {
-        "name": "Colecci\u00f3n de Danilo Montero",
-        "url": "https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Cantar\u00e9 de Tu Amor",
-      "url": "https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG"
     },
     {
       "added_at": "2026-03-29 07:09:09",

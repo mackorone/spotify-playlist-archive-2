@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: FOCUS & Jack, Mooney11,  Vurr Flashy en meer\u2026",
-  "num_followers": 159156,
+  "num_followers": 159154,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
@@ -103,10 +103,14 @@
     {
       "added_at": "2026-03-30 12:00:12",
       "album": {
-        "name": "Vuurgevecht",
+        "name": "VUURGEVECHT",
         "url": "https://open.spotify.com/album/0qG0fw8cpR3O4D4qLw3jVx"
       },
       "artists": [
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        },
         {
           "name": "C7",
           "url": "https://open.spotify.com/artist/479mu7Ex7VuSufnGgqZreO"
@@ -114,14 +118,10 @@
         {
           "name": "YSL",
           "url": "https://open.spotify.com/artist/2EnQOw92OmWXnytTX1ZaJG"
-        },
-        {
-          "name": "HB The Plug",
-          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
         }
       ],
       "duration_ms": 157500,
-      "name": "Vuurgevecht",
+      "name": "VUURGEVECHT",
       "url": "https://open.spotify.com/track/00eGkNQGDHQbmcL9qqYKUo"
     },
     {

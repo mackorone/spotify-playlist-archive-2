@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-352 songs - 16 hr 43 min
+353 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 |  |
 | [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 |  |
 | [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 |  |
+| [Fethgar](https://open.spotify.com/track/3yZmhuvcDfAE1jHKYe3aov) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Fethgar](https://open.spotify.com/album/69XqY6lqmzx9K1lOTkHhez) | 2:15 | 2026-02-23 |  |
 | [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-11 |  |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 | 2025-05-22 |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 | 2025-05-22 |
@@ -136,7 +137,7 @@
 | [Garden of Calm](https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Garden of Calm](https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq) | 2:58 | 2025-03-19 |  |
 | [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-17 |  |
 | [Gentle Morning](https://open.spotify.com/track/0vHQ59NmH6o1ThlSKxmkX7) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Gentle Morning](https://open.spotify.com/album/4z04eUA80PQF3NXsRqvSrC) | 2:37 | 2026-01-08 |  |
-| [Gentle River Flow](https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Gentle River Flow](https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r) | 2:58 | 2025-05-21 |  |
+| [Gentle River Flow](https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Gentle River Flow](https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r) | 2:58 | 2025-05-21 | 2026-04-01 |
 | [Gentle Streams](https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Gentle Streams](https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV) | 3:19 | 2023-11-24 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-12 |  |

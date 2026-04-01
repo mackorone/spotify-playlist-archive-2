@@ -1,12 +1,12 @@
 {
   "description": "Sing-along to your favorite songs from Disney Jr. shows including music from Mickey Mouse Clubhouse+",
-  "num_followers": 59924,
+  "num_followers": 59920,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJqWk4awhRzJ38xls/7LG1gMgur",
+  "snapshot_id": "AAAAACPyLc1G/HE8r51sXuvgdWYavH6q",
   "tracks": [
     {
       "added_at": "2026-03-12 18:08:27",
@@ -91,6 +91,22 @@
       "duration_ms": 169062,
       "name": "Welcome to the Clubhouse (Hot Dog!)",
       "url": "https://open.spotify.com/track/6N2wunwQewiaDXB0ZsOmky"
+    },
+    {
+      "added_at": "2026-03-12 18:08:27",
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "duration_ms": 53568,
+      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
+      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
     },
     {
       "added_at": "2026-03-12 18:08:27",
@@ -2175,22 +2191,6 @@
       "duration_ms": 116020,
       "name": "Minnie's Bow-Toons: Camp Minnie Theme Song",
       "url": "https://open.spotify.com/track/1UjC5QOkVcVnTP7J4RHxZp"
-    },
-    {
-      "added_at": "2026-03-12 18:08:27",
-      "album": {
-        "name": "Disney Junior Music: Fancy Nancy",
-        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
-      },
-      "artists": [
-        {
-          "name": "Fancy Nancy - Cast",
-          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
-        }
-      ],
-      "duration_ms": 53568,
-      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
-      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
     },
     {
       "added_at": "2026-03-12 18:08:27",

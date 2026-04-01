@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: FOCUS & Jack, Mooney11,  Vurr Flashy en meer…
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,156 likes - 65 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,154 likes - 65 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 3 | [Tranen van geluk](https://open.spotify.com/track/69simOdMpHxNHZbzUCVr1V) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Tranen van geluk](https://open.spotify.com/album/5b5QGAlnmhpB1ymUyZaAI3) | 2:25 |
 | 4 | [MET JOU](https://open.spotify.com/track/7F7yVvEO8QVfGKOOlhPxnV) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [domchasing](https://open.spotify.com/artist/5iHkjPYXxGnRAhjJ8ZvQi6) | [MET JOU](https://open.spotify.com/album/7oXsSaQwH5BcvOg8FbyMmp) | 2:02 |
 | 5 | [Deja Vu](https://open.spotify.com/track/4fttKLb5Y7RJHi18Q3rNpk) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Luxe problemen](https://open.spotify.com/album/4cHJVRvyiUPjYvz5w7YBpr) | 2:56 |
-| 6 | [Vuurgevecht](https://open.spotify.com/track/00eGkNQGDHQbmcL9qqYKUo) | [C7](https://open.spotify.com/artist/479mu7Ex7VuSufnGgqZreO), [YSL](https://open.spotify.com/artist/2EnQOw92OmWXnytTX1ZaJG), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Vuurgevecht](https://open.spotify.com/album/0qG0fw8cpR3O4D4qLw3jVx) | 2:37 |
+| 6 | [VUURGEVECHT](https://open.spotify.com/track/00eGkNQGDHQbmcL9qqYKUo) | [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T), [C7](https://open.spotify.com/artist/479mu7Ex7VuSufnGgqZreO), [YSL](https://open.spotify.com/artist/2EnQOw92OmWXnytTX1ZaJG) | [VUURGEVECHT](https://open.spotify.com/album/0qG0fw8cpR3O4D4qLw3jVx) | 2:37 |
 | 7 | [BURU](https://open.spotify.com/track/6M1elLyOzDmwfyF6d5Og4P) | [Wouter](https://open.spotify.com/artist/7faVdEFUS3TRDLpSQyPzNN) | [BURU](https://open.spotify.com/album/0Xd1sl1vhZ4iR44YhOtdtO) | 2:05 |
 | 8 | [Money Related](https://open.spotify.com/track/3EHUSR2MMIjlffuQXqwY9z) | [Hos](https://open.spotify.com/artist/7ifVl6NLsutQy73RYugPwo), [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Money Related](https://open.spotify.com/album/4CdlDQzsXipQab8Wgb3oIT) | 2:41 |
 | 9 | [Snooze](https://open.spotify.com/track/68lYiSE17dvm2bjGvubIuD) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN) | [Snooze](https://open.spotify.com/album/5LuSmu1fBUY2pUCqZbX0So) | 1:55 |

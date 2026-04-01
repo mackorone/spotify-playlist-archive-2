@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 125 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 125 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 28 | [Dance To My Heartbeat](https://open.spotify.com/track/0G76SXZghtnNuDyoggumuO) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Dance To My Heartbeat](https://open.spotify.com/album/5dxhrW4edw8rhQKwmkE00X) | 2:25 |
 | 29 | [lose touch](https://open.spotify.com/track/6XhyqmBQDLFPaqF4fnVPun) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [lose touch](https://open.spotify.com/album/5692gCDFSwKNVAs9PGfdwn) | 2:58 |
 | 30 | [Something I Said](https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/41nxQC0tLiUmELqgc5Grbx) | 4:08 |
-| 31 | [Don't You Worry \- From The Voice Of Germany](https://open.spotify.com/track/3OTsWUJC0WGd6wZlz5AQcG) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Don't You Worry \(From The Voice Of Germany\)](https://open.spotify.com/album/5VcRQkloKPbkJbsf13UxJS) | 2:54 |
-| 32 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
+| 31 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
+| 32 | [Don't You Worry \- From The Voice Of Germany](https://open.spotify.com/track/3OTsWUJC0WGd6wZlz5AQcG) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Don't You Worry \(From The Voice Of Germany\)](https://open.spotify.com/album/5VcRQkloKPbkJbsf13UxJS) | 2:54 |
 | 33 | [Erase](https://open.spotify.com/track/4Ak5fQbKiNLFoi4MHGIi0Y) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/4VC1vcqYAFhRJnc1v4wLML) | 3:59 |
 | 34 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 |
 | 35 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/5oSJP58Y84CLGZgJor08Jl), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 124 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 125 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcNjFAAAAADBSyn5mOo0eSqTd1fjhihH`
+Snapshot ID: `AcNoqgAAAAAzXTk5yF7xoROj2wnq/Hc8`

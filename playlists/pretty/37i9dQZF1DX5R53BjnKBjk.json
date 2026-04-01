@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Iuna Falc\u00e3o",
-  "num_followers": 21320,
+  "num_followers": 21324,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "PRESSA OU PRESS\u00c3O",
-        "url": "https://open.spotify.com/album/7txyne3q7vRMYe4mdiUY9m"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 154925,
-      "name": "PRESSA OU PRESS\u00c3O",
-      "url": "https://open.spotify.com/track/6B77VMLRmKIpWlODfetOoC"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "Ponta da L\u00edngua",
         "url": "https://open.spotify.com/album/3OrPZPPPMiAg0D98rQScmi"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 194144,
       "name": "Ponta da L\u00edngua",
       "url": "https://open.spotify.com/track/5Kv93KsZcIUqTFnzXINjdT"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "PRESSA OU PRESS\u00c3O",
+        "url": "https://open.spotify.com/album/7txyne3q7vRMYe4mdiUY9m"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 154925,
+      "name": "PRESSA OU PRESS\u00c3O",
+      "url": "https://open.spotify.com/track/6B77VMLRmKIpWlODfetOoC"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
-        }
-      ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "Fumando Kunk",
         "url": "https://open.spotify.com/album/21XuubrEf8CB0ARxdmqMZ4"
       },
@@ -391,18 +371,22 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "Diaba",
-        "url": "https://open.spotify.com/album/5RbiJAOmmGZDw2xAUEqjYk"
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
       "artists": [
         {
-          "name": "Menezes",
-          "url": "https://open.spotify.com/artist/24liufelUADyp5HWUML5jm"
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
         }
       ],
-      "duration_ms": 184137,
-      "name": "Diaba",
-      "url": "https://open.spotify.com/track/6xqVNn5QMYAqTcrBH2jDdM"
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -427,26 +411,18 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "N\u00e3o Perde",
-        "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
+        "name": "Diaba",
+        "url": "https://open.spotify.com/album/5RbiJAOmmGZDw2xAUEqjYk"
       },
       "artists": [
         {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        },
-        {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+          "name": "Menezes",
+          "url": "https://open.spotify.com/artist/24liufelUADyp5HWUML5jm"
         }
       ],
-      "duration_ms": 140869,
-      "name": "N\u00e3o Perde",
-      "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
+      "duration_ms": 184137,
+      "name": "Diaba",
+      "url": "https://open.spotify.com/track/6xqVNn5QMYAqTcrBH2jDdM"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -471,6 +447,30 @@
       "duration_ms": 179509,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/2Yn2NlS3CZilpqaZqC7SHC"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "N\u00e3o Perde",
+        "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        },
+        {
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "N\u00e3o Perde",
+      "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
+        "name": "Telejornal Animal",
+        "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Telejornal Animal",
+      "url": "https://open.spotify.com/track/74FqY7lGAMYPdz2Wogl5GY"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
         "name": "Bloco na Rua",
         "url": "https://open.spotify.com/album/6fZ0tPpa5oU0X6qotDArHu"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 214928,
       "name": "Dend\u00ea",
       "url": "https://open.spotify.com/track/5ENaxM7C9909sE1eyIAueQ"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
-        "name": "Telejornal Animal",
-        "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
-      },
-      "artists": [
-        {
-          "name": "clara bicho",
-          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Telejornal Animal",
-      "url": "https://open.spotify.com/track/74FqY7lGAMYPdz2Wogl5GY"
     },
     {
       "added_at": "2026-03-09 19:20:59",

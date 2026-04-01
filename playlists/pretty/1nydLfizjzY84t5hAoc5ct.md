@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,350 likes - 113 songs - 7 hr 21 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,350 likes - 118 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Can't Sleep](https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR) | [Diving Horse](https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9) | [I Can't Sleep](https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB) | 4:35 |
-| 2 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 |
+| 1 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 |
+| 2 | [I Can't Sleep](https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR) | [Diving Horse](https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9) | [I Can't Sleep](https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB) | 4:35 |
 | 3 | [Darius](https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8) | [Animal Animal](https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn) | [Darius](https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ) | 3:36 |
 | 4 | [Portals](https://open.spotify.com/track/4AV3czCZP4cT0ybTfn5fVG) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Portals](https://open.spotify.com/album/02MVKCOqzKb0HoWxAWoSSk) | 5:19 |
 | 5 | [I Can't Sleep](https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR) | [Diving Horse](https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9) | [I Can't Sleep](https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB) | 4:35 |
@@ -121,5 +121,10 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 111 | [I Can't Sleep](https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR) | [Diving Horse](https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9) | [I Can't Sleep](https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB) | 4:35 |
 | 112 | [Clover Honey](https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N) | [Myshkin's Ruby Warblers](https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF) | [Clover Honey](https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq) | 4:08 |
 | 113 | [Stronger](https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje) | [The Cosmic Dead](https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE) | [Stronger](https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8) | 3:46 |
+| 114 | [Patsy Kensit](https://open.spotify.com/track/6rWaw5oGNDOcT52Zsysjx9) | [Lemon Drink](https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6) | [Patsy Kensit](https://open.spotify.com/album/1v7UVDJSxPwaApJG6GKQju) | 3:48 |
+| 115 | [South Paw](https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [South Paw](https://open.spotify.com/album/1P8DoNtgyvlmBT6EvWQShz) | 3:19 |
+| 116 | [Day After Day](https://open.spotify.com/track/3xtFNPUmFR9XuKZvKZ5uXI) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Day After Day](https://open.spotify.com/album/0he1t5hbzSVjjYnlKpdnnd) | 5:44 |
+| 117 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 |
+| 118 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 |
 
-Snapshot ID: `AAB3JCslqKnx5KtBGrqBXEH9pVYsgnpr`
+Snapshot ID: `AAB3K5KmEg0cHUpY1HUKzSSQn5QpbkXV`

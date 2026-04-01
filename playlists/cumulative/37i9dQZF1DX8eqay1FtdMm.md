@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 허각 \(Huh Gak\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 씨야 \(SEEYA\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-647 songs - 1 day 18 hr 18 min
+648 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,8 +477,9 @@
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-02-20 | 2024-04-24 |
 | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 | 2025-09-01 | 2025-10-30 |
-| [Stayed](https://open.spotify.com/track/6I9V6KfO1ACRpak2MiN1Fk) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Stayed](https://open.spotify.com/album/2GBeJmmTz91x8CHiK4C6qC) | 3:39 | 2026-03-03 |  |
+| [Stayed](https://open.spotify.com/track/6I9V6KfO1ACRpak2MiN1Fk) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Stayed](https://open.spotify.com/album/2GBeJmmTz91x8CHiK4C6qC) | 3:39 | 2026-03-03 | 2026-04-01 |
 | [Still](https://open.spotify.com/track/0BhkiHwAXhZlNwqZAOonMp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [ALAL \#3](https://open.spotify.com/album/7fh1VfRnuVyNYI1QpMmIc2) | 4:08 | 2022-03-29 | 2022-04-17 |
+| [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SEEYA](https://open.spotify.com/artist/4FTNfLt89vROIPOad8i6S6) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 | 2026-03-31 |  |
 | [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 | 2024-08-09 | 2025-05-22 |
 | [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 | 2024-05-09 | 2024-05-21 |
 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 | 2024-10-30 | 2025-02-10 |

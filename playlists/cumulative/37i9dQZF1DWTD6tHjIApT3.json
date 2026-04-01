@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3068\u305f Tota",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: adieu",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -18025,6 +18025,24 @@
     },
     {
       "album": {
+        "name": "Kanpaisanka",
+        "url": "https://open.spotify.com/album/2RRtOWnJHF9JIXgOKf8hJl"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252580,
+      "name": "Kanpaisanka",
+      "url": "https://open.spotify.com/track/28IX7SJRKlrJk4TRzL2pAX"
+    },
+    {
+      "album": {
         "name": "karakara",
         "url": "https://open.spotify.com/album/0At5gcOBR68qZAMin5jINu"
       },
@@ -21068,7 +21086,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 193000,
       "name": "Lullaby - Kan Sano Remix",
       "url": "https://open.spotify.com/track/60H4j333e66XoPm7WbsuMO"
@@ -22560,7 +22578,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 149760,
       "name": "MINE",
       "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
@@ -25782,7 +25800,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 237418,
       "name": "One more smile",
       "url": "https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0"
@@ -33974,7 +33992,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 270405,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR"
@@ -41046,7 +41064,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 237316,
       "name": "\u221e",
       "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
@@ -43380,6 +43398,24 @@
       "duration_ms": 292490,
       "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
       "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202881,
+      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
     },
     {
       "album": {
@@ -51689,6 +51725,24 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30eb\u30fc\u30a2\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/1oypYyn282Hdl2eUmC7tmH"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257220,
+      "name": "\u30d6\u30eb\u30fc\u30a2\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/7Lh5M0RD6X6GL3PnIwrZqo"
+    },
+    {
+      "album": {
         "name": "FELT SENSE",
         "url": "https://open.spotify.com/album/5hJNtMxujDKLRfdPF8YEyn"
       },
@@ -56150,6 +56204,24 @@
       "duration_ms": 358666,
       "name": "\u5287\u5834",
       "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
+    },
+    {
+      "album": {
+        "name": "\u529b\u8aac",
+        "url": "https://open.spotify.com/album/0tfLUSiyhCQBzTUiwVPDaN"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290323,
+      "name": "\u529b\u8aac",
+      "url": "https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI"
     },
     {
       "album": {
@@ -64816,6 +64888,24 @@
       "duration_ms": 202469,
       "name": "\u732b\u5410\u6975\u697d\u97f3\u982d",
       "url": "https://open.spotify.com/track/4ZRO75GFwFiOiDAHDz20Sq"
+    },
+    {
+      "album": {
+        "name": "\u734f",
+        "url": "https://open.spotify.com/album/6xwoSRnPMCN6OpAYLjFHPT"
+      },
+      "artists": [
+        {
+          "name": "\u307e\u304a\u305f",
+          "url": "https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216461,
+      "name": "\u734f",
+      "url": "https://open.spotify.com/track/1b3wqxuGJUAMboYp9BEMDc"
     },
     {
       "album": {

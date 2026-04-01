@@ -9837,6 +9837,24 @@
     },
     {
       "album": {
+        "name": "Money Mouth",
+        "url": "https://open.spotify.com/album/6DS3vb7jFJRqcqmXd9zB5f"
+      },
+      "artists": [
+        {
+          "name": "Oxlo",
+          "url": "https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77241,
+      "name": "Money Mouth",
+      "url": "https://open.spotify.com/track/2CBGAWXIixNj5eOALTPBav"
+    },
+    {
+      "album": {
         "name": "money talks right",
         "url": "https://open.spotify.com/album/4Sr3JFrI3Vqfe3Vb0U5Wl7"
       },

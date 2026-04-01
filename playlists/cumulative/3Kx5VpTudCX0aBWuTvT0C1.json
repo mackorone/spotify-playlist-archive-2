@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203765,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp"
+    },
+    {
+      "album": {
         "name": "EQUINOCCIO",
         "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
       },

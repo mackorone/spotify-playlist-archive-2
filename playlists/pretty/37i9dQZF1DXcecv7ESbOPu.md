@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Robyn, Victor Leksell och RAYE med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,977 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,964 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 50 | [Nikotin](https://open.spotify.com/track/4UCOYE2I5owZn6CnmXQOG7) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Nikotin](https://open.spotify.com/album/2g2ExRNo04LVH9JL049Nol) | 3:06 |
 | 51 | [Stora ord / Problem](https://open.spotify.com/track/1HV8ZSF7S6vHS7KHsXdXS0) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tillbaka till dig](https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO) | 2:17 |
 | 52 | [Annie \(Är du ok?\)](https://open.spotify.com/track/2HDtAZVtBGH2LyHZSEHt68) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Annie \(Är du ok?\)](https://open.spotify.com/album/1PE3h9IYn7R4oS7t1GK6oX) | 3:02 |
-| 53 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 |
+| 53 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 |
 | 54 | [Backseat](https://open.spotify.com/track/3vjHprAZlF1x3OgsjBTG0S) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Backseat](https://open.spotify.com/album/3QmVaQTUcHCXebPUSseFcG) | 2:33 |
 | 55 | [Centipede](https://open.spotify.com/track/36BjBIofJXDQZ0zm3dAIO4) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Centipede](https://open.spotify.com/album/306oi8APNwiekj6ui6baLH) | 2:55 |
 | 56 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 |

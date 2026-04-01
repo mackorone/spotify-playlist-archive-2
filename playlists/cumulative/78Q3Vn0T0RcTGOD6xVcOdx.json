@@ -4415,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "Suspiro el\u00e9ctrico (dance with me)",
+        "url": "https://open.spotify.com/album/72QiHOhEGwuD4mX0SuraLH"
+      },
+      "artists": [
+        {
+          "name": "Planeta Luna",
+          "url": "https://open.spotify.com/artist/5bZIFH7GHHt0BvGFhLgonS"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164376,
+      "name": "Suspiro el\u00e9ctrico (dance with me)",
+      "url": "https://open.spotify.com/track/0j3whSznT03ACSBL0XLvak"
+    },
+    {
+      "album": {
         "name": "T HACE MAL",
         "url": "https://open.spotify.com/album/2eQ6lXbL5CrfDg1577JEkL"
       },

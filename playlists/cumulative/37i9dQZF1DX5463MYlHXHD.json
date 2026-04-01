@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 201346,
       "name": "La pata sucia",
       "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
@@ -5924,6 +5924,24 @@
       "duration_ms": 212210,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
+    },
+    {
+      "album": {
+        "name": "Conecta 2",
+        "url": "https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s"
+      },
+      "artists": [
+        {
+          "name": "La Fase Buk",
+          "url": "https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "Se Me Va la Voz",
+      "url": "https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL"
     },
     {
       "album": {

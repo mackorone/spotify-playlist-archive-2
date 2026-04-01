@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: \) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,161 songs - 2 day 22 hr 32 min
+1,163 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Love All](https://open.spotify.com/track/2FdiNuYFBptEI7vvZ9Nm84) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [SONGOLMAE REMAKE RE:FLY](https://open.spotify.com/album/4RF7blBPLyoj9gMhin10cx) | 3:38 | 2022-07-08 | 2022-07-23 |
 | [Love Crash!](https://open.spotify.com/track/7H61vBAGi62KrbCmGj04Yj) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Love Crash!](https://open.spotify.com/album/4N1W8yYStgmtd7T99DGlyg) | 2:55 | 2025-04-18 | 2025-05-08 |
 | [Love Cut](https://open.spotify.com/track/2q8YdrYy0Qyx1jpkSzXtfC) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [WANTED](https://open.spotify.com/album/4rJBZiHzCUcVsj9yu5UCCD) | 2:53 | 2022-04-12 | 2022-07-12 |
+| [Love in the Margins](https://open.spotify.com/track/2OmVwpG8LhocNIshacN5IZ) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Love in the Margins](https://open.spotify.com/album/7EpWc3KUzkMjB9SiDssnIT) | 2:58 | 2026-03-31 |  |
 | [Love Is All Around](https://open.spotify.com/track/17KIiHXJ4PRo1s0x5SpHTf) | [Wetter](https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq) | [Love Is All Around](https://open.spotify.com/album/5rGj57soCUAuXAdiptCTYl) | 4:25 | 2022-04-22 | 2022-07-29 |
 | [Love is Dangerous](https://open.spotify.com/track/24OvvcCFiI2ah2z5jQsm64) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Love is Dangerous](https://open.spotify.com/album/1yk0KslOua9rexBiY9pdJV) | 3:32 | 2022-04-22 | 2022-06-06 |
 | [Love is No Sin](https://open.spotify.com/track/1kpRu51hGlJmBbJoQMchoJ) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [DREAM](https://open.spotify.com/album/1MlNC3YWsy0afgtXfmRXaU) | 3:03 | 2025-10-20 | 2025-10-22 |
@@ -693,7 +694,7 @@
 | [O2](https://open.spotify.com/track/3gE6fZuOsBCOoIWONBtd2T) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:48 | 2022-04-22 | 2022-07-23 |
 | [OCEAN](https://open.spotify.com/track/76HdYXlpceoc0N2P6E4oGW) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [OCEAN](https://open.spotify.com/album/4rOhOYOy9Arjaula5XaBlg) | 4:38 | 2022-05-11 | 2022-07-07 |
 | [OffCourse](https://open.spotify.com/track/3gwtdR9M1DpKn6Ejsfax5L) | [RecordTheVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [OffCourse](https://open.spotify.com/album/10oASQp25ZGiM1Ad1V1oxU) | 3:45 | 2025-03-06 | 2025-03-18 |
-| [Oh Perfect!](https://open.spotify.com/track/3LKZCLEnspadu6UQIOTPVD) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [RUN RUN RUN](https://open.spotify.com/album/6Vt0Kc0kEMII0c0nHBZrjN) | 3:11 | 2026-03-11 |  |
+| [Oh Perfect!](https://open.spotify.com/track/3LKZCLEnspadu6UQIOTPVD) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [RUN RUN RUN](https://open.spotify.com/album/6Vt0Kc0kEMII0c0nHBZrjN) | 3:11 | 2026-03-11 | 2026-04-01 |
 | [Ohio](https://open.spotify.com/track/4m1yAglyrf4tCJqFrIkRMA) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ohio](https://open.spotify.com/album/2ZJ2iiGnv7d8J4IOO0YmKx) | 2:46 | 2022-04-22 | 2022-06-26 |
 | [ON MY OWN](https://open.spotify.com/track/1mnw7B1EQPalqnY3u4QqUy) | [THE MIDNIGHT ROMANCE](https://open.spotify.com/artist/0oD9KiqTgoOgEYyL5kIC6v) | [ON MY OWN](https://open.spotify.com/album/7Iiyw5TWZCZxfuAWEKyDIr) | 3:56 | 2022-04-12 | 2022-07-29 |
 | [On\-Air](https://open.spotify.com/track/4Z7tPcXoeP0JJ6Qyve84aC) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [On\-Air](https://open.spotify.com/album/5oHhTiPxMWyfp3A21IlgxW) | 3:16 | 2022-05-02 | 2022-07-23 |
@@ -917,7 +918,7 @@
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
 | [Still, a Flower](https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Still, a Flower](https://open.spotify.com/album/3N5X7dF6350QVWQUYWX4SV) | 3:43 | 2026-01-02 | 2026-01-15 |
 | [STOP IT](https://open.spotify.com/track/23rtmmIgcIsCEiIPDwxPrd) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [TOP NOTE](https://open.spotify.com/album/3JX0mIUcLLvvaye1HjFINP) | 3:23 | 2025-07-03 | 2025-07-10 |
-| [Stress](https://open.spotify.com/track/0t9srJUjz6sRGkNFvWIURT) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Stress](https://open.spotify.com/album/3aJUh5tIlrXDfIfyOKQqAu) | 2:35 | 2026-03-26 |  |
+| [Stress](https://open.spotify.com/track/0t9srJUjz6sRGkNFvWIURT) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Stress](https://open.spotify.com/album/3aJUh5tIlrXDfIfyOKQqAu) | 2:35 | 2026-03-26 | 2026-04-01 |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
 | [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-01 | 2026-02-20 |
 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-10-19 |
@@ -1153,6 +1154,7 @@
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
 | [밤이 깊었네 Oh! What a Shiny Night \(25th Anniv\. Ver.\)](https://open.spotify.com/track/0sY4hsa7Xd3I4dUNho8tti) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [밤이 깊었네 Oh! What a Shiny Night \(25th Anniv\. Ver.\)](https://open.spotify.com/album/6LK325AvLUydBNuhnPUsDG) | 4:15 | 2022-06-09 | 2022-07-03 |
 | [불꽃놀이](https://open.spotify.com/track/6s4CfimDTNqCWAkTCgYmRD) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:05 | 2022-08-12 | 2022-08-19 |
+| [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 | 2026-03-31 |  |
 | [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 | 2023-04-26 | 2023-05-13 |
 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 | 2022-10-19 |
 | [세션맨](https://open.spotify.com/track/17Zyp5evNDU8i3A21bX7ii) | [AMHO](https://open.spotify.com/artist/5HletaYAQGurTXlY0WfFHs) | [SESSION MAN](https://open.spotify.com/album/4uVMcFU1GiebB352eAsI6p) | 3:42 | 2023-01-26 | 2023-02-15 |

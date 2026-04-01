@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Looking Around",
+        "url": "https://open.spotify.com/album/4hV2bO3zsWbnwKEv1aCFCV"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180027,
+      "name": "If you love me (Acoustic ver.)",
+      "url": "https://open.spotify.com/track/6yWDEvC0PoCoeRGM1DwmQj"
+    },
+    {
+      "album": {
         "name": "Hello - Special Album",
         "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
       },
@@ -946,6 +964,24 @@
       "duration_ms": 251370,
       "name": "look at me",
       "url": "https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp"
+    },
+    {
+      "album": {
+        "name": "Love beyond words (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Love beyond words",
+      "url": "https://open.spotify.com/track/40c4m7jV3UFTaqCxdm6AFB"
     },
     {
       "album": {
@@ -1138,7 +1174,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 195631,
       "name": "Meaning of you",
       "url": "https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2"
@@ -1763,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/3z1Wf05O960hlh7GBuqm6A"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189970,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE"
+    },
+    {
+      "album": {
         "name": "With you",
         "url": "https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi"
       },
@@ -1880,7 +1934,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 230346,
       "name": "\uac10\uc0ac (FEAT. \uc18c\ud5a5)",
       "url": "https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx"
@@ -1952,7 +2006,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 292179,
       "name": "\uadf8\ub300\uc640 \uc601\uc6d0\ud788",
       "url": "https://open.spotify.com/track/7892nseZUevcJGZDG21xNn"

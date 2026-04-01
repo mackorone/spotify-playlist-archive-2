@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 143505,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/419bdMkIYCMrQ9MHvT60JV"
@@ -1038,6 +1038,24 @@
     {
       "album": {
         "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Man of The Year",
+      "url": "https://open.spotify.com/track/0xRF2p0f5FOOF6tiCG9L6x"
+    },
+    {
+      "album": {
+        "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
       },
       "artists": [
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 144000,
       "name": "Man of The Year",
       "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 168138,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"

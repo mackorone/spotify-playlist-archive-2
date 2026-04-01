@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,384 songs - 5 day 3 hr 16 min
+2,385 songs - 5 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,7 +1206,7 @@
 | [KARAVANE \(LAMIGLIGFORTÆLDIG\) \(feat\. Marwan\)](https://open.spotify.com/track/18g8NfcRITYQDhOWPrQGzw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Marwan](https://open.spotify.com/artist/485qSJLm5xb3tWRG9N7O4h) | [KARAVANE \(LAMIGLIGFORTÆLDIG\) \(feat\. Marwan\)](https://open.spotify.com/album/66eHLlycawbg45ovc4uSX7) | 3:13 | 2025-04-05 | 2025-04-07 |
 | [Karma](https://open.spotify.com/track/5vmXcTWx3tzSApIE8pRmAU) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 2:28 | 2024-08-09 | 2024-08-18 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-24 | 2022-10-30 |
-| [Kaster Mig Ud I](https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Kaster Mig Ud I](https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL) | 2:48 | 2026-03-28 |  |
+| [Kaster Mig Ud I](https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Kaster Mig Ud I](https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL) | 2:48 | 2026-03-28 | 2026-04-01 |
 | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/track/2jBvbnYDmG01ocNv1AZhHM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/album/7FG45mLhsw5ejuaCg6Folx) | 2:10 | 2025-06-28 | 2025-07-04 |
 | [Kawasaki \(feat\. Sivas\)](https://open.spotify.com/track/220dE38G3g9iQ0i2Bmdxfl) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Kawasaki \(feat\. Sivas\)](https://open.spotify.com/album/7vGLTc5YIhuAInYNuInHzg) | 2:08 | 2021-06-06 | 2021-06-13 |
 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 | 2025-05-31 | 2025-06-15 |
@@ -2257,6 +2257,7 @@
 | [Vi pumper hjertet op](https://open.spotify.com/track/1cfMhTjfBjnnTkbs2chWzD) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [VILD UNGDOM](https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM) | 5:05 | 2026-02-28 | 2026-03-29 |
 | [Vi pumper hjertet op](https://open.spotify.com/track/62ZQfNv9W5HlIOYEjsrc33) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Vi pumper hjertet op](https://open.spotify.com/album/4F0Vp7gGV2GQMUfS1PqGaw) | 5:05 | 2025-09-27 | 2026-01-23 |
 | [Vi Ta'r Guldet Med Hjem](https://open.spotify.com/track/6RazLJaAtjvIbtOsfmejv2) | [8Ball](https://open.spotify.com/artist/6g2VFISr826urqgxtD0uXX) | [Vi Ta'r Guldet Med Hjem](https://open.spotify.com/album/3NgTNbyIXVNCA8miXpbBXD) | 3:21 | 2021-07-09 | 2021-07-10 |
+| [Vi To](https://open.spotify.com/track/7iMHrq78z4ue6li3p8QKRr) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Velkommen Til Medina](https://open.spotify.com/album/3flSwxGfLdPtCnnVWaSyK0) | 3:59 | 2026-03-31 |  |
 | [Vi Vandt I Dag](https://open.spotify.com/track/3tHFe0HGcuTo6wTHO4faij) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr), [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf) | [Vi Vandt I Dag](https://open.spotify.com/album/2HsbbqPnSUZ6IElrDhFIO3) | 3:21 | 2021-06-14 | 2024-06-23 |
 | [VI VARME](https://open.spotify.com/track/3tOSaJiCUTFhSzWG3GoF2S) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [VI VARME](https://open.spotify.com/album/4DQATe1XrogEwkfbWONkgd) | 3:07 | 2022-07-02 | 2022-07-17 |
 | [VI VARME](https://open.spotify.com/track/6Ig8oKFBOseEULJGC6nl07) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [JAMO](https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa) | 3:07 | 2022-07-16 | 2023-01-16 |

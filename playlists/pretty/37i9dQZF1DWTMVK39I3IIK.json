@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  lucca",
-  "num_followers": 47076,
+  "num_followers": 47078,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "Ring, n\u00e5r du har tid",
         "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 394340,
       "name": "Ring, n\u00e5r du har tid",
       "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "Kaster Mig Ud I",
+        "url": "https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 168694,
+      "name": "Kaster Mig Ud I",
+      "url": "https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "Mandag Til Fredag",
         "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 173442,
       "name": "Uendelighed",
       "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "Kaster Mig Ud I",
-        "url": "https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 168694,
-      "name": "Kaster Mig Ud I",
-      "url": "https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Folk Forsvinder",
         "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 173041,
       "name": "Folk Forsvinder",
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "Livet Er For Kort",
+        "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 170738,
+      "name": "Livet Er For Kort",
+      "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 184444,
       "name": "Stay 4 U",
       "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "Livet Er For Kort",
-        "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 170738,
-      "name": "Livet Er For Kort",
-      "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "S\u00f8vnl\u00f8s",
-        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
-      },
-      "artists": [
-        {
-          "name": "Fri\u00f0a Saiya",
-          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
-        }
-      ],
-      "duration_ms": 149304,
-      "name": "S\u00f8vnl\u00f8s",
-      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Minute Nothing",
         "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 218998,
       "name": "Big Solo",
       "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "S\u00f8vnl\u00f8s",
+        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+        }
+      ],
+      "duration_ms": 149304,
+      "name": "S\u00f8vnl\u00f8s",
+      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "hun m\u00e6rker aldrig smerten.",
-        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
-      },
-      "artists": [
-        {
-          "name": "JONATHAN",
-          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
-        }
-      ],
-      "duration_ms": 160105,
-      "name": "hun m\u00e6rker aldrig smerten.",
-      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Lige s\u00e5 fucked som mig",
         "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Ham Med Paraplyen",
+        "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Ham Med Paraplyen",
+      "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Ham Med Paraplyen",
-        "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
+        "name": "hun m\u00e6rker aldrig smerten.",
+        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
       },
       "artists": [
         {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
         }
       ],
-      "duration_ms": 173023,
-      "name": "Ham Med Paraplyen",
-      "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
+      "duration_ms": 160105,
+      "name": "hun m\u00e6rker aldrig smerten.",
+      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
     },
     {
       "added_at": "2026-03-27 09:39:18",

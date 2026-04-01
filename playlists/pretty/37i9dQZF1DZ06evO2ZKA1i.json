@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 301831,
+  "num_followers": 301853,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAADpGH6/qAfEUMOHSPhr74QM",
+  "snapshot_id": "acm9AAAAAAAJj22UvfuKDt869A8mKMgJ",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now What ?!",
-        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Do We Think We Are (Remastered)",
         "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 326906,
       "name": "Rat Bat Blue - Remastered",
       "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now What ?!",
+        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "All the Time in the World",
+      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple",
-        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 305773,
-      "name": "Lalena - 2000 Remaster",
-      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turning to Crime",
         "url": "https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 293213,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple",
+        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 305773,
+      "name": "Lalena - 2000 Remaster",
+      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
     },
     {
       "added_at": null,

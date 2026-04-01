@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa PinkPantheress ja Zara Larsson.",
-  "num_followers": 26704,
+  "num_followers": 26708,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-02-26 22:00:15",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-02-26 22:00:15",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-02-26 22:00:15",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-02-26 22:00:15",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-26 22:00:15",
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj"
-      },
-      "artists": [
-        {
-          "name": "Molly Mae",
-          "url": "https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl"
-        }
-      ],
-      "duration_ms": 122764,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF"
-    },
-    {
-      "added_at": "2026-02-26 22:00:15",
-      "album": {
         "name": "Karhupuisto",
         "url": "https://open.spotify.com/album/2F20BwMJMsizfRTbd5dxOe"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 195750,
       "name": "Karhupuisto",
       "url": "https://open.spotify.com/track/67CEHyZn7yRkgC7A1mkUAo"
+    },
+    {
+      "added_at": "2026-02-26 22:00:15",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj"
+      },
+      "artists": [
+        {
+          "name": "Molly Mae",
+          "url": "https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl"
+        }
+      ],
+      "duration_ms": 122764,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF"
     },
     {
       "added_at": "2026-02-26 22:00:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \ud5c8\uac01 (Huh Gak) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc528\uc57c (SEEYA) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 219687,
       "name": "Stayed",
       "url": "https://open.spotify.com/track/6I9V6KfO1ACRpak2MiN1Fk"
@@ -8836,6 +8836,24 @@
       "duration_ms": 248260,
       "name": "Still",
       "url": "https://open.spotify.com/track/0BhkiHwAXhZlNwqZAOonMp"
+    },
+    {
+      "album": {
+        "name": "Still Here, Still Us",
+        "url": "https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv"
+      },
+      "artists": [
+        {
+          "name": "SEEYA",
+          "url": "https://open.spotify.com/artist/4FTNfLt89vROIPOad8i6S6"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Still Here, Still Us",
+      "url": "https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot"
     },
     {
       "album": {

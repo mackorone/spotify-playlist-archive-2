@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Cole Redding",
+  "description": "Songs from LGBTQIA+ artists. Cover: Snail Mail",
   "name": "GLOW",
   "tracks": [
     {
@@ -5986,7 +5986,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 185834,
       "name": "Contemplating You",
       "url": "https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1"
@@ -9255,6 +9255,24 @@
     },
     {
       "album": {
+        "name": "Feel Your Rain",
+        "url": "https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216910,
+      "name": "Feel Your Rain",
+      "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
+    },
+    {
+      "album": {
         "name": "feelin' low",
         "url": "https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq"
       },
@@ -11496,6 +11514,24 @@
       "duration_ms": 191428,
       "name": "GREEN GRASS",
       "url": "https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC"
+    },
+    {
+      "album": {
+        "name": "Male Validation and Other Drugs",
+        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Griever",
+      "url": "https://open.spotify.com/track/0kGmMyiYwIfkYdDOHPzYiS"
     },
     {
       "album": {
@@ -15445,6 +15481,24 @@
     },
     {
       "album": {
+        "name": "Gold Star Baby",
+        "url": "https://open.spotify.com/album/5f6o1GrIrDjFnuxDd0c4GK"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/6kMwpe62x72ozIAGRLRR0u"
+    },
+    {
+      "album": {
         "name": "jealous of my brother",
         "url": "https://open.spotify.com/album/74fhU0QGKQ3ejHUQ3dVCb0"
       },
@@ -16992,7 +17046,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 125651,
       "name": "LINES",
       "url": "https://open.spotify.com/track/3W24LsoShrk68b0WkeswRx"
@@ -19308,6 +19362,24 @@
       "duration_ms": 230266,
       "name": "Mouth Flash (Kuchinohanabi)",
       "url": "https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl"
+    },
+    {
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/5FuHOjldh7S3B6W8Yb9C5N"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324680,
+      "name": "move",
+      "url": "https://open.spotify.com/track/1JKtH7QlufzDh3qbnudQG9"
     },
     {
       "album": {
@@ -24902,7 +24974,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 193942,
       "name": "Safe Ground",
       "url": "https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV"
@@ -25318,7 +25390,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 220833,
       "name": "Sex, Etc.",
       "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
@@ -29365,6 +29437,24 @@
     },
     {
       "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214381,
+      "name": "Tractor Beam",
+      "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
+    },
+    {
+      "album": {
         "name": "Trainwreck",
         "url": "https://open.spotify.com/album/40BPGWLG5pzVVN1o0DsyzN"
       },
@@ -30108,6 +30198,24 @@
       "duration_ms": 259676,
       "name": "Una llamada de Satan\u00e1s",
       "url": "https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH"
+    },
+    {
+      "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196371,
+      "name": "UNCANNY VALLEY",
+      "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
     },
     {
       "album": {
@@ -31204,7 +31312,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 157934,
       "name": "Whatcha Gonna Do About It",
       "url": "https://open.spotify.com/track/5I4spTUt3vhNVhvM8wVrB8"
@@ -32526,7 +32634,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 212301,
       "name": "\u043c\u0435\u043d\u0456 \u0442\u0430\u043a \u0442\u0440\u0435\u0431\u0430 \u0432\u0456\u0442\u0440\u0438\u043b\u0430!",
       "url": "https://open.spotify.com/track/6pXwuQsJSaUkkGc4LydM8m"

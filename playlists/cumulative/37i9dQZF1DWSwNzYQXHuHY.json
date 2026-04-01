@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "1st EP",
+        "url": "https://open.spotify.com/album/49C8lHGOsCu5ng5EmneUPF"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        },
+        {
+          "name": "Kim Min Seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177426,
+      "name": "5cm (feat. Kim MinSeok)",
+      "url": "https://open.spotify.com/track/3aEfVe4sW4H01k1TaJZVzz"
+    },
+    {
+      "album": {
         "name": "[ MAL ]",
         "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
       },
@@ -1699,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Friends to Lovers",
+        "url": "https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ"
+      },
+      "artists": [
+        {
+          "name": "B.D.U",
+          "url": "https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176203,
+      "name": "Friends to Lovers",
+      "url": "https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU"
+    },
+    {
+      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -2947,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
+    },
+    {
+      "album": {
         "name": "Just a friend",
         "url": "https://open.spotify.com/album/3CulGKEOb6lookKQpe6e6F"
       },
@@ -3204,7 +3262,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 163000,
       "name": "Love Frequency",
       "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
@@ -3244,6 +3302,28 @@
       "duration_ms": 181713,
       "name": "love me only",
       "url": "https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p"
+    },
+    {
+      "album": {
+        "name": "Love Smile (Original Soundtrack from Last Summer)",
+        "url": "https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe"
+      },
+      "artists": [
+        {
+          "name": "YUNAH",
+          "url": "https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2"
+        },
+        {
+          "name": "MINJU",
+          "url": "https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Love Smile",
+      "url": "https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu"
     },
     {
       "album": {
@@ -4468,7 +4548,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 155000,
       "name": "Seesaw",
       "url": "https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE"
@@ -6400,7 +6480,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 156306,
       "name": "\uadf8\ub807\uac8c \ub410\uc5b4 It just happened",
       "url": "https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm"
@@ -6588,7 +6668,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 171964,
       "name": "\uc5f4\uc5b4\ub3c4 \ub418\uc5b4\uc694",
       "url": "https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I"

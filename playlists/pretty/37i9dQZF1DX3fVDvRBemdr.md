@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Donnie & Senna \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,433 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,428 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
-| 2 | [Ideale Schoonzoon](https://open.spotify.com/track/5wRcs5uMy4M2bxNJib8DNH) | [Bram Bongers](https://open.spotify.com/artist/1vsZqaXmk54eViu1kA8FHi) | [Ideale Schoonzoon](https://open.spotify.com/album/7M9hXXISKB2fFkfGwlY35N) | 3:07 |
-| 3 | [Samen Uit Samen Thuis](https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Samen Uit Samen Thuis](https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x) | 2:44 |
-| 4 | [De Kater Duurt Maar Even](https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kater Duurt Maar Even](https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI) | 3:06 |
-| 5 | [Wie Bij Wie](https://open.spotify.com/track/1NvKQiKudIoQHSfYkMsAwJ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Wie Bij Wie](https://open.spotify.com/album/7vXV0996Ms9D9mAYypoZ5d) | 2:18 |
+| 2 | [Wie Bij Wie](https://open.spotify.com/track/1NvKQiKudIoQHSfYkMsAwJ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Wie Bij Wie](https://open.spotify.com/album/7vXV0996Ms9D9mAYypoZ5d) | 2:18 |
+| 3 | [Ideale Schoonzoon](https://open.spotify.com/track/5wRcs5uMy4M2bxNJib8DNH) | [Bram Bongers](https://open.spotify.com/artist/1vsZqaXmk54eViu1kA8FHi) | [Ideale Schoonzoon](https://open.spotify.com/album/7M9hXXISKB2fFkfGwlY35N) | 3:07 |
+| 4 | [Samen Uit Samen Thuis](https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Samen Uit Samen Thuis](https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x) | 2:44 |
+| 5 | [De Kater Duurt Maar Even](https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kater Duurt Maar Even](https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI) | 3:06 |
 | 6 | [Morgen is niet beloofd](https://open.spotify.com/track/7v90Wr8y9y79WatVLBUB0H) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy) | [Morgen is niet beloofd](https://open.spotify.com/album/6wz49GNeftZ5dL3qMefLUo) | 2:44 |
 | 7 | [Gouden Lach](https://open.spotify.com/track/1cRsgsAIU4AMPor92Uk8HX) | [Kelsey Verbrugge](https://open.spotify.com/artist/2tYVaEnYnRjaR6cEeL7HXn) | [Gouden Lach](https://open.spotify.com/album/3Hh4tzTtBMjlTWSenKplVa) | 2:33 |
 | 8 | [Jij Maakt Mij Een Ander Mens](https://open.spotify.com/track/6oPDtkLPH5e4jJISWpW0nQ) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Jij Maakt Mij Een Ander Mens](https://open.spotify.com/album/3LeaFZPC8arqhY2GsQ9SRV) | 2:34 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 23 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
 | 24 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
 | 25 | [We Doen 't Gewoon](https://open.spotify.com/track/01bup6sVPbSxTpE2pZGRuK) | [Jan Witlox](https://open.spotify.com/artist/0C2i7hVaB3C0LpCKIxZhYJ) | [We Doen 't Gewoon](https://open.spotify.com/album/6pGuaKG4txWBzhGIXqIJga) | 3:04 |
-| 26 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
+| 26 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
 | 27 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 28 | [Laat Me](https://open.spotify.com/track/2ICSjoB39njgdAL4wPU5hU) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Laat Me](https://open.spotify.com/album/6lMj8JmW7wUG8HquQfcNYU) | 2:39 |
 | 29 | [Blijf Nog Even](https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Blijf Nog Even](https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Ik Kan Niet Zonder Jou](https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9) | [Bryan Stricker](https://open.spotify.com/artist/3tdgnZyx1pSSe4XrLg7RnB) | [Ik Kan Niet Zonder Jou](https://open.spotify.com/album/3pidvIjA9VGuaBonE9x2d4) | 3:23 |
 | 80 | [Ik Wil Je Kussen 2.0](https://open.spotify.com/track/1uU3iQCiGsR8kq4DCq79KX) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Ik Wil Je Kussen 2.0](https://open.spotify.com/album/5OI189MSn1DB016gIY4Khr) | 3:13 |
 
-Snapshot ID: `AAAAAJxkHP8uqb0oi3zvUYckDB63RkLj`
+Snapshot ID: `AAAAANkkhrYAefgEbDrYpTv5O6HSTYQL`

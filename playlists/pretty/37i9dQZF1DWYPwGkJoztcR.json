@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396843,
+  "num_followers": 396854,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Sit Back Baby",
-        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 234723,
-      "name": "Sit Back Baby",
-      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 189136,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 175844,
       "name": "Saturday Silence",
       "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 237545,
-      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 189064,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 237545,
+      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Here's To Forever",
-        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
-      },
-      "artists": [
-        {
-          "name": "Bart van Liemt",
-          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "Here's To Forever",
-      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "Be My Own",
         "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 219746,
       "name": "Be My Own",
       "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+      },
+      "artists": [
+        {
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
         "name": "I'm Always On Stage",
         "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
-      },
-      "artists": [
-        {
-          "name": "Sisy Fos",
-          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
       },
       "artists": [
         {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
         }
       ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
+      "duration_ms": 229347,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Someone To Lose",
-        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "Someone To Lose",
-      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "Another Year Will Pass",
         "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 195604,
       "name": "Another Year Will Pass",
       "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
+        "name": "Someone To Lose",
+        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "Someone To Lose",
+      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
-      },
-      "artists": [
-        {
-          "name": "Marta Arpini",
-          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 168433,
       "name": "What Makes A King",
       "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+      },
+      "artists": [
+        {
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
+        "name": "Light Over You",
+        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
+      },
+      "artists": [
+        {
+          "name": "Janna",
+          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Light Over You",
+      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
+    },
+    {
+      "added_at": "2026-03-30 12:00:10",
+      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 192442,
       "name": "Trouble Is Me",
       "url": "https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr"
-    },
-    {
-      "added_at": "2026-03-30 12:00:10",
-      "album": {
-        "name": "Light Over You",
-        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
-      },
-      "artists": [
-        {
-          "name": "Janna",
-          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Light Over You",
-      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
     },
     {
       "added_at": "2026-03-30 12:00:10",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2026-03-30 12:00:10",
       "album": {
-        "name": "Distant Rain",
-        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
+        "name": "Just Another Road",
+        "url": "https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6"
       },
       "artists": [
         {
-          "name": "Gis\u00e8le",
-          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
+          "name": "Tim Akkerman",
+          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
+        },
+        {
+          "name": "The Ivy League",
+          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
         }
       ],
-      "duration_ms": 141720,
-      "name": "Distant Rain",
-      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
+      "duration_ms": 180177,
+      "name": "Just Another Road",
+      "url": "https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw"
     }
   ],
   "unique_name": "'t Koffiehuis",

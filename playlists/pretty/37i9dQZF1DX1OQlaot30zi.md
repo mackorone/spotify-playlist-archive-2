@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Promessa, Madame, Artie 5ive, Nerissima Serpe con Night Skinny e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,146 likes - 112 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,148 likes - 112 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

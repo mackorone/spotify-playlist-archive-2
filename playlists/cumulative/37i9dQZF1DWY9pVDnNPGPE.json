@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "All About You (feat. GRAM)",
+        "url": "https://open.spotify.com/album/6IUeI8WJcH80xx4dwfclTf"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "GRAM",
+          "url": "https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "All About You (feat. GRAM)",
+      "url": "https://open.spotify.com/track/3fN9rF5Ax7V039eofbz6yB"
+    },
+    {
+      "album": {
         "name": "IN-OUT",
         "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
       },
@@ -961,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Happy Now!",
+        "url": "https://open.spotify.com/album/34LTGWGrkPcB76jF7MEG92"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Happy Now!",
+      "url": "https://open.spotify.com/track/3PRD0PMUwYZ3V926z5YX3P"
+    },
+    {
+      "album": {
         "name": "Hello, Summer",
         "url": "https://open.spotify.com/album/5KNydkpRR9yos4VzJ17Y9V"
       },
@@ -1168,6 +1208,24 @@
       "duration_ms": 178706,
       "name": "JUST RIGHT (feat. SOLE)",
       "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
+    },
+    {
+      "album": {
+        "name": "From JOY, with Love - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "La Vie En Bleu",
+      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
     },
     {
       "album": {
@@ -1418,7 +1476,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
@@ -2392,7 +2450,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 167733,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
@@ -2534,7 +2592,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 172474,
       "name": "\ub208\uc774 \ubd80\uc2e0\ub0a0\ub4e4",
       "url": "https://open.spotify.com/track/5ERHkavz05B4qxRn5Uoall"

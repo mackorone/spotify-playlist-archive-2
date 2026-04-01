@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 120734,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 182000,
       "name": "Atracci\u00f3n Total",
       "url": "https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv"
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 149750,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 139625,
       "name": "Deep Waters",
       "url": "https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL"
@@ -3384,6 +3384,24 @@
       "duration_ms": 161770,
       "name": "Desencontros",
       "url": "https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4"
+    },
+    {
+      "album": {
+        "name": "Desiduous Forest",
+        "url": "https://open.spotify.com/album/3akGIFQqqRuyvJKgTkeIGg"
+      },
+      "artists": [
+        {
+          "name": "Jonah Heather",
+          "url": "https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Desiduous Forest",
+      "url": "https://open.spotify.com/track/3G7Ku8bRYbkkVhdm8TcnUa"
     },
     {
       "album": {
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 168492,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo"
@@ -4773,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "Fiora Notturna",
+        "url": "https://open.spotify.com/album/4vlNde9zWcbXfvlRgzLWS3"
+      },
+      "artists": [
+        {
+          "name": "Caylee Luna",
+          "url": "https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188068,
+      "name": "Fiora Notturna",
+      "url": "https://open.spotify.com/track/0fCuGlhzbEtKEvBBu9wcIV"
+    },
+    {
+      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb"
       },
@@ -5152,6 +5188,24 @@
       "duration_ms": 104816,
       "name": "F\u00e1ilte",
       "url": "https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm"
+    },
+    {
+      "album": {
+        "name": "Galleon",
+        "url": "https://open.spotify.com/album/2DdsJQO8xpWG8Am4jbi0v3"
+      },
+      "artists": [
+        {
+          "name": "Argun North",
+          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162874,
+      "name": "Galleon",
+      "url": "https://open.spotify.com/track/1mu9bwBZXJNIvLvJ1yxQPz"
     },
     {
       "album": {
@@ -5760,7 +5814,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 145227,
       "name": "Hist\u00f3ria De Vida",
       "url": "https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd"
@@ -6174,7 +6228,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 148154,
       "name": "Il Tramonto",
       "url": "https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd"
@@ -6358,6 +6412,24 @@
       "duration_ms": 150385,
       "name": "In Time's Wake",
       "url": "https://open.spotify.com/track/6RV00RZtUQGMrJfIV44aH3"
+    },
+    {
+      "album": {
+        "name": "In Your Absence",
+        "url": "https://open.spotify.com/album/6tgJ6nnJLNbqHeSP1ct5Me"
+      },
+      "artists": [
+        {
+          "name": "Joey Michels",
+          "url": "https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "In Your Absence",
+      "url": "https://open.spotify.com/track/32u8uyFdwGKNZtXsJg7kri"
     },
     {
       "album": {
@@ -6653,6 +6725,24 @@
     },
     {
       "album": {
+        "name": "Jutland",
+        "url": "https://open.spotify.com/album/4UcnBlznOmGa11SRfd3aN5"
+      },
+      "artists": [
+        {
+          "name": "Jasper Lynx",
+          "url": "https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189625,
+      "name": "Jutland",
+      "url": "https://open.spotify.com/track/4462L6OXuSke9E3IMFK9fw"
+    },
+    {
+      "album": {
         "name": "Kaelyn",
         "url": "https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T"
       },
@@ -6718,7 +6808,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 142029,
       "name": "Kalon",
       "url": "https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6"
@@ -7230,7 +7320,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 140608,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL"
@@ -7252,6 +7342,24 @@
       "duration_ms": 209739,
       "name": "Lavender Fields",
       "url": "https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq"
+    },
+    {
+      "album": {
+        "name": "Lavender Sun",
+        "url": "https://open.spotify.com/album/0WB9nrmow21f2lO1i3LAjf"
+      },
+      "artists": [
+        {
+          "name": "Jules Navarro",
+          "url": "https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129481,
+      "name": "Lavender Sun",
+      "url": "https://open.spotify.com/track/5v0YFbxaEqKd1dMciTxaBR"
     },
     {
       "album": {
@@ -7454,6 +7562,24 @@
       "duration_ms": 156793,
       "name": "Liberty Citadel",
       "url": "https://open.spotify.com/track/5eUiPRtlLZ3RsiueUsEF7c"
+    },
+    {
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2FWjprJYziCZ5yWENy8w1x"
+      },
+      "artists": [
+        {
+          "name": "Jasper Lynx",
+          "url": "https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141669,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/3PxRRsKEKMfbmud87B3Tej"
     },
     {
       "album": {
@@ -8980,7 +9106,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 159509,
       "name": "Nana 1985 (Two Guitars Version)",
       "url": "https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ"
@@ -9761,6 +9887,24 @@
     },
     {
       "album": {
+        "name": "Over the Trees",
+        "url": "https://open.spotify.com/album/0cRpDrC05pDFds1Bwa4r62"
+      },
+      "artists": [
+        {
+          "name": "Jonas Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124226,
+      "name": "Over the Trees",
+      "url": "https://open.spotify.com/track/2C4HhbKedk3F4bhAobueKm"
+    },
+    {
+      "album": {
         "name": "Over Time...",
         "url": "https://open.spotify.com/album/4PNu7Ofbxy2n0Cb7b5slpM"
       },
@@ -9812,6 +9956,24 @@
       "duration_ms": 163426,
       "name": "Pampas",
       "url": "https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s"
+    },
+    {
+      "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/1ouRgWmiR127yR5iyYmeY8"
+      },
+      "artists": [
+        {
+          "name": "Bo Svensson",
+          "url": "https://open.spotify.com/artist/6zWJx2jK0mRPBJEWMWyGTQ"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143415,
+      "name": "Paper Hearts",
+      "url": "https://open.spotify.com/track/5LgSiLbrmYEiN78RZgfGah"
     },
     {
       "album": {
@@ -10204,7 +10366,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 208631,
       "name": "Poetic Tale",
       "url": "https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n"
@@ -11176,7 +11338,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 143464,
       "name": "Sancy",
       "url": "https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz"
@@ -11720,7 +11882,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 165454,
       "name": "Silent Sigh",
       "url": "https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U"
@@ -12480,6 +12642,24 @@
       "duration_ms": 174500,
       "name": "Springwood Ranch",
       "url": "https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD"
+    },
+    {
+      "album": {
+        "name": "Stadsteatern",
+        "url": "https://open.spotify.com/album/1fQwY8bPQxKQ5F9QZiGv2f"
+      },
+      "artists": [
+        {
+          "name": "Lucas Aerin",
+          "url": "https://open.spotify.com/artist/3FXArtoAs58fnWyvuxEbRO"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142720,
+      "name": "Stadsteatern",
+      "url": "https://open.spotify.com/track/1OKOQ5M1KhboUJN4k1dUY3"
     },
     {
       "album": {
@@ -14435,6 +14615,24 @@
     },
     {
       "album": {
+        "name": "Vicinity",
+        "url": "https://open.spotify.com/album/25cn5lyWuPQm4usrqdzg2W"
+      },
+      "artists": [
+        {
+          "name": "Muray Ailis",
+          "url": "https://open.spotify.com/artist/0smUzhouQgR5N9B3mhOtCW"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124130,
+      "name": "Vicinity",
+      "url": "https://open.spotify.com/track/5k40DYe9ZLMyVkAo0PaV16"
+    },
+    {
+      "album": {
         "name": "View From an Ocean Window",
         "url": "https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE"
       },
@@ -14687,6 +14885,24 @@
     },
     {
       "album": {
+        "name": "Wandering River",
+        "url": "https://open.spotify.com/album/2RU8vuyf96eGNrCoRuQL3I"
+      },
+      "artists": [
+        {
+          "name": "Dean Devaux",
+          "url": "https://open.spotify.com/artist/7I3hN3ZYsVtCofZdp8Vque"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164375,
+      "name": "Wandering River",
+      "url": "https://open.spotify.com/track/43tkHdo6E2rMciFMHxdlqH"
+    },
+    {
+      "album": {
         "name": "warm water in the well",
         "url": "https://open.spotify.com/album/1ty4G5zw98T0Wsygo0EGfH"
       },
@@ -14864,6 +15080,24 @@
       "duration_ms": 126575,
       "name": "When You Came Along",
       "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
+    },
+    {
+      "album": {
+        "name": "Where the Cowslips Grow",
+        "url": "https://open.spotify.com/album/2AS53MWTasvuAYKegeTlsE"
+      },
+      "artists": [
+        {
+          "name": "Gideon Strauss",
+          "url": "https://open.spotify.com/artist/6yfie3GIPSrQb2ua7gbpap"
+        }
+      ],
+      "date_added": "2026-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Where the Cowslips Grow",
+      "url": "https://open.spotify.com/track/3uky1ugP4V2I9WsMDpXPLM"
     },
     {
       "album": {

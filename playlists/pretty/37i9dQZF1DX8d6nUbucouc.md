@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,669 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,684 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 58 | [Duivelszoon](https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 5:15 |
 | 59 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
 | 60 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
-| 61 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
+| 61 | [De Flexte](https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 4:02 |
 | 62 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |
 | 63 | [Spraakwater Lest De Dorst!](https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT) | [Extince](https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5) | [De Avonturen...](https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX) | 3:23 |
 | 64 | [Utopia](https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS) | [Sticks & Delic](https://open.spotify.com/artist/6RQVbkxQcRhkvDEtOUc3Pn), [James](https://open.spotify.com/artist/1AJcyFwtpIj2RqsqYVqKKG), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Fakkelteit](https://open.spotify.com/album/5YGJo9Oc4OuSYdKEtUJ2fJ) | 4:10 |
 | 65 | [Time Flies](https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mystery Repeats](https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M) | 4:20 |
-| 66 | [De Flexte](https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 4:02 |
+| 66 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
 | 67 | [Geef 8 \- Remix](https://open.spotify.com/track/7EGDiKgluq7D8DVpnTEy7F) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9), [Alex](https://open.spotify.com/artist/2KbZtIe5VeOU8DnktA5xm9), [Crimson](https://open.spotify.com/artist/5npJP8Zp2y2GGmT9ENARYV), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc), [Millz](https://open.spotify.com/artist/5V67uIX7qMp61jqCCpmazZ), [Lotto](https://open.spotify.com/artist/34gjVaq4Rk9nHhjvjwqBDu), [Eddy Ra](https://open.spotify.com/artist/7z3vpTkzCwGBOCr2U5KXqk), [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Alee Rock](https://open.spotify.com/artist/65hGHII4m8QFqO4dDA0xm4) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 4:35 |
 | 68 | [Hamvraag](https://open.spotify.com/track/1sNi95HnJ68hxTvDUz9Bwv) | [Kubus](https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz) | [Buiten Westen](https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57) | 3:27 |
 | 69 | [Vanaf Nu/Rauwe Hop](https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 4:19 |

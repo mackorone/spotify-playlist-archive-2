@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2148,
+  "num_followers": 2149,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABfX1mC1KgdyC8LoZLjmT/1",
+  "snapshot_id": "acm9AAAAAABuIc07woYK2SF0xLoXFJAy",
   "tracks": [
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 214042,
-      "name": "El R\u00e1pido - En Vivo",
-      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     },
     {
       "added_at": null,
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 214042,
+      "name": "El R\u00e1pido - En Vivo",
+      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
     }
   ],
   "unique_name": "This Is Eugenio Esquivel",

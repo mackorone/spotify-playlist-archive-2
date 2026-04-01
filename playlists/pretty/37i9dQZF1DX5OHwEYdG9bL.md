@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: YUNA\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,706 likes - 156 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,712 likes - 156 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 3 | [SWIM \(Performance Video\)](https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs) | 2:46 |
 | 4 | [SWIM \(Performance Video\)](https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2) | 2:46 |
 | 5 | [MUSEUM](https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM) | 3:17 |
-| 6 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 |
+| 6 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 |
 | 7 | [X room](https://open.spotify.com/track/1QrvItFJXHpGnZBLV4x2Qa) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [X room](https://open.spotify.com/album/70kNjkfecMiiFCKfkvE2sp) | 4:00 |
 | 8 | [SWIM](https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/2Hb9BBHUN5ZDqcWj5ySyZm) | 3:56 |
 | 9 | [SWIM](https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga) | 3:56 |

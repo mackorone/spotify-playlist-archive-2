@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1620134,
+  "num_followers": 1620414,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAGpDgckGU2TwS/3Klq5/G8Odd84u",
   "tracks": [
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
-        "name": "Golden Brown",
-        "url": "https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 248494,
-      "name": "Golden Brown - Slowed Down Version",
-      "url": "https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e"
-    },
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 121739,
       "name": "TIKI TIKI - Slowed",
       "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
+        "name": "Golden Brown",
+        "url": "https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 248494,
+      "name": "Golden Brown - Slowed Down Version",
+      "url": "https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e"
     },
     {
       "added_at": "2026-03-04 00:58:24",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
-        "name": "chess",
-        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
-      },
-      "artists": [
-        {
-          "name": "joyful",
-          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
-        }
-      ],
-      "duration_ms": 142053,
-      "name": "chess - slowed",
-      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 271299,
       "name": "Nevada - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "duration_ms": 142053,
+      "name": "chess - slowed",
+      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
     },
     {
       "added_at": "2026-03-04 00:58:24",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
-        "name": "LOVELY BASTARDS (Slowed)",
-        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 152674,
-      "name": "LOVELY BASTARDS - Slowed",
-      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
         "name": "coldshade",
         "url": "https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 204887,
       "name": "coldshade - Slowed",
       "url": "https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
+        "name": "LOVELY BASTARDS (Slowed)",
+        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 152674,
+      "name": "LOVELY BASTARDS - Slowed",
+      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
     },
     {
       "added_at": "2026-03-04 00:58:24",

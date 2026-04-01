@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Anna Ullrich
 
-6,704 songs - 22 day 23 hr 48 min
+6,705 songs - 22 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5796,6 +5796,7 @@
 | [The Owl from Brigetio](https://open.spotify.com/track/6KDJW97YNotH2Pjslrw8j6) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [The Owl from Brigetio](https://open.spotify.com/album/0lc6oib1tn4X2PjzbURCzm) | 6:14 | 2023-10-20 | 2023-11-10 |
 | [The Paddle](https://open.spotify.com/track/5qcq39w4Z5UbRxGA3Ry0w5) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [The Velvet Edge](https://open.spotify.com/album/6daokXsw1JfOuz2K6h6LLA) | 6:27 | 2024-05-23 | 2024-06-07 |
 | [The Path](https://open.spotify.com/track/4Ect7iDJzzkElWS13ICXmQ) | [Max von Sternberg](https://open.spotify.com/artist/47Jz4Lwu4QGJSp1pxKaXLJ), [Alice Rose](https://open.spotify.com/artist/5cqyYu3GNG0eoqZLZDV8JV) | [The Path](https://open.spotify.com/album/1Vz3xv0BT7IQd7q5vz7Kl9) | 5:54 | 2024-03-21 | 2024-04-12 |
+| [The Phunk Biz](https://open.spotify.com/track/0ibY9KphT28vSKHTNAj7gW) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [The Phunk Biz](https://open.spotify.com/album/2KwGjlNahtj8hObWq1sNkf) | 3:39 | 2026-03-26 |  |
 | [The Pill](https://open.spotify.com/track/6YLm1kEhrpM48rfL1t3tH3) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [The Pill](https://open.spotify.com/album/2PUOWMSdMxgLrWZQrBsNbu) | 4:19 | 2025-07-24 | 2025-08-22 |
 | [The Pills](https://open.spotify.com/track/6mAuRSWi4oDvHIIhS0tFqT) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [The Pills](https://open.spotify.com/album/3gtG8ovZy81NAwrSBaaUC7) | 3:11 | 2024-12-12 | 2025-01-24 |
 | [The Player \- Extended Mix](https://open.spotify.com/track/1dinMYrMmgUwtCar82Usod) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [The Player / Push Me](https://open.spotify.com/album/3rlgtdjDH1XOe6CHbPDHLW) | 6:32 | 2024-03-07 | 2024-03-29 |

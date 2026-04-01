@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Rooksein",
-  "num_followers": 144136,
+  "num_followers": 144172,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Hier Waar Ek Nou Is",
-        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
+        "name": "Francois Van Coke",
+        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
       },
       "artists": [
         {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Koue Hande",
-      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
+      "duration_ms": 246401,
+      "name": "Toe Vind Ek Jou",
+      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -283,22 +287,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Francois Van Coke",
-        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
+        "name": "Hier Waar Ek Nou Is",
+        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
         }
       ],
-      "duration_ms": 246401,
-      "name": "Toe Vind Ek Jou",
-      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
+      "duration_ms": 270000,
+      "name": "Koue Hande",
+      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -335,6 +335,26 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "Dagdrome in Suburbia",
+        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Dagdrome in Suburbia",
+      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "Vanaand",
         "url": "https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 227999,
       "name": "Helemal",
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Dagdrome in Suburbia",
-        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Dagdrome in Suburbia",
-      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Sterre",
-        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        },
-        {
-          "name": "Liezel Pieters",
-          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
-        }
-      ],
-      "duration_ms": 213461,
-      "name": "Sterre",
-      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 192375,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Sterre",
+        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
+        }
+      ],
+      "duration_ms": 213461,
+      "name": "Sterre",
+      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Boertjie Voor My Deur",
-        "url": "https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe"
+        "name": "Meisie wat kan Vasdans",
+        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
       },
       "artists": [
         {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
         }
       ],
-      "duration_ms": 205107,
-      "name": "Boertjie Voor My Deur",
-      "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
+      "duration_ms": 199593,
+      "name": "Meisie wat kan Vasdans",
+      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1187,34 +1187,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Meisie wat kan Vasdans",
-        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
+        "name": "Boertjie Voor My Deur",
+        "url": "https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe"
       },
       "artists": [
         {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
         }
       ],
-      "duration_ms": 199593,
-      "name": "Meisie wat kan Vasdans",
-      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Gee My",
-        "url": "https://open.spotify.com/album/4TEThWYT5kqRB5XjIgHMua"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
-        }
-      ],
-      "duration_ms": 161691,
-      "name": "Gee My",
-      "url": "https://open.spotify.com/track/63RE6HlVTqRxUa1JtWkxD2"
+      "duration_ms": 205107,
+      "name": "Boertjie Voor My Deur",
+      "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Kan 'N Man",
-        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
-      },
-      "artists": [
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        }
-      ],
-      "duration_ms": 169164,
-      "name": "Kan 'N Man",
-      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Diepseeduiker 17",
         "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
       },
@@ -1267,22 +1235,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Kroeg Cowboys",
-        "url": "https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc"
+        "name": "Kan 'N Man",
+        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
       },
       "artists": [
         {
-          "name": "Fran Prins",
-          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
-        },
-        {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
         }
       ],
-      "duration_ms": 187617,
-      "name": "Kroeg Cowboys",
-      "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"
+      "duration_ms": 169164,
+      "name": "Kan 'N Man",
+      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1315,6 +1279,42 @@
       "duration_ms": 198970,
       "name": "Jagtrip",
       "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Gee My",
+        "url": "https://open.spotify.com/album/4TEThWYT5kqRB5XjIgHMua"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
+        }
+      ],
+      "duration_ms": 161691,
+      "name": "Gee My",
+      "url": "https://open.spotify.com/track/63RE6HlVTqRxUa1JtWkxD2"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Kroeg Cowboys",
+        "url": "https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        },
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 187617,
+      "name": "Kroeg Cowboys",
+      "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"
     },
     {
       "added_at": "2026-03-06 00:47:11",

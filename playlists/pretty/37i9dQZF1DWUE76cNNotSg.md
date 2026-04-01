@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,484 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,529 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 37 | [No One Else](https://open.spotify.com/track/7wsn9GRkhsKP4gqs4d8pEP) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [No One Else](https://open.spotify.com/album/6YaE2AHyKuwRhX8yrxYD9P) | 2:17 |
 | 38 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 |
 | 39 | [Hard To Forget U](https://open.spotify.com/track/6cxCO4HIdkf9XLqfuPd7s0) | [Togetherness](https://open.spotify.com/artist/32GNunodYuJPL8C1m3XfQW), [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Hard To Forget U](https://open.spotify.com/album/3EcpbppCZUAZlisLS6Vewv) | 4:16 |
-| 40 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
+| 40 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 41 | [Phase Me](https://open.spotify.com/track/44VCj3l5eMXOnGYL7InBBt) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [PHASES EP](https://open.spotify.com/album/3igN5jB1bX1EydOxd6z5a0) | 2:26 |
 | 42 | [Pull Together](https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Pull Together](https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun) | 4:13 |
 | 43 | [UnU](https://open.spotify.com/track/62Am3H7oSpCBtW1X6DKAFJ) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [A La Mode](https://open.spotify.com/album/5jSouopOBnCqshOijC1ecS) | 3:48 |

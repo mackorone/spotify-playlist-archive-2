@@ -675,6 +675,42 @@
     },
     {
       "album": {
+        "name": "Consumed",
+        "url": "https://open.spotify.com/album/1iCLFZm1emXsdR8kASqJ7N"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saphos Band",
+          "url": "https://open.spotify.com/artist/0AArU8kQuAaBB1f1kpDClR"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227115,
+      "name": "Consumed",
+      "url": "https://open.spotify.com/track/26cBcYBLQJou1rYRzQ3ZXM"
+    },
+    {
+      "album": {
+        "name": "Supermarket Underground",
+        "url": "https://open.spotify.com/album/4z9ZgrunOniEQ64AAP1LYh"
+      },
+      "artists": [
+        {
+          "name": "Supermarket Underground",
+          "url": "https://open.spotify.com/artist/6uABFKFo3LgW834mHlL2S4"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348150,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/48qv827pojV4yv2XdEWTcU"
+    },
+    {
+      "album": {
         "name": "ASK ME IF I'M OKAY",
         "url": "https://open.spotify.com/album/2UNzkfXa2aUPYjE6jsu3cb"
       },
@@ -924,6 +960,24 @@
       "duration_ms": 201750,
       "name": "Different Way Home",
       "url": "https://open.spotify.com/track/6eGTAZZz8DC0ZXDpK0ub87"
+    },
+    {
+      "album": {
+        "name": "Dig It To The Grave",
+        "url": "https://open.spotify.com/album/4wj2VyvU4P8y0HTKp3rbZ5"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS BERG",
+          "url": "https://open.spotify.com/artist/2MqQsfiXjKmpwSMqzc1BHj"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266920,
+      "name": "Dig It To The Grave",
+      "url": "https://open.spotify.com/track/5lDGOi92xSkz905rpTZT4L"
     },
     {
       "album": {
@@ -3033,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Flow.",
+        "url": "https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS"
+      },
+      "artists": [
+        {
+          "name": "SrJ Is DeD",
+          "url": "https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Purple Apology",
+      "url": "https://open.spotify.com/track/43uzmSmFrFWUoysDNeRfVo"
+    },
+    {
+      "album": {
         "name": "Pushing Forty",
         "url": "https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm"
       },
@@ -3156,6 +3228,24 @@
       "duration_ms": 176923,
       "name": "Rooted on the Road",
       "url": "https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip"
+    },
+    {
+      "album": {
+        "name": "Runnin' On Empty",
+        "url": "https://open.spotify.com/album/6zrNLo1HS4qF1d72WfDqiE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Birdwell",
+          "url": "https://open.spotify.com/artist/0AhCptHCR9jOUnM5nYzVSi"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Runnin' On Empty",
+      "url": "https://open.spotify.com/track/4Ak9DIQXtFKsB5xc9u6LTw"
     },
     {
       "album": {
@@ -3390,6 +3480,24 @@
       "duration_ms": 175332,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5W9OaBOexdwAaRcgRwnPIG"
+    },
+    {
+      "album": {
+        "name": "Springtime",
+        "url": "https://open.spotify.com/album/0YxidahcHccoHCAQiUcuSJ"
+      },
+      "artists": [
+        {
+          "name": "The Kiffs",
+          "url": "https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/2w6Dv6rDHlQrUx6XTzznYA"
     },
     {
       "album": {
@@ -3650,6 +3758,24 @@
       "duration_ms": 179848,
       "name": "Sweet Lover",
       "url": "https://open.spotify.com/track/7bV3prZwAoq9mekXMRXm0U"
+    },
+    {
+      "album": {
+        "name": "Blue, Deepest Blue",
+        "url": "https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209596,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN"
     },
     {
       "album": {
@@ -4035,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Under My Own Skin",
+        "url": "https://open.spotify.com/album/3VBfuNs603KbzcCl2J61DQ"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242144,
+      "name": "Under My Own Skin",
+      "url": "https://open.spotify.com/track/3pb2oy4kC9za9LL81Bhxfi"
+    },
+    {
+      "album": {
         "name": "under my skin",
         "url": "https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD"
       },
@@ -4396,6 +4540,32 @@
       "duration_ms": 156609,
       "name": "Why Not Try? (Chill)",
       "url": "https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt"
+    },
+    {
+      "album": {
+        "name": "Wicked Wicked Ways",
+        "url": "https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm"
+      },
+      "artists": [
+        {
+          "name": "DELREI",
+          "url": "https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW"
+        },
+        {
+          "name": "Collin Hegna",
+          "url": "https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab"
+        },
+        {
+          "name": "Federale",
+          "url": "https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224249,
+      "name": "Wicked Wicked Ways",
+      "url": "https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf"
     },
     {
       "album": {

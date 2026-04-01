@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,688 likes - 111 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,691 likes - 111 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 63 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
 | 64 | [What's Chasing You](https://open.spotify.com/track/0R3gqx7lNCJqR85aAIVRO5) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 2:41 |
 | 65 | [Big Sky](https://open.spotify.com/track/0np7TwbqUvlOAz2tgttt1q) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:32 |
-| 66 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 |
+| 66 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0ATf7ceDZ9a11zNnrJ0CS3) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 |
 | 67 | [Bronze \(Desert Mix\)](https://open.spotify.com/track/3YcvFeJbnzDyWNxAFUhziH) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:48 |
 | 68 | [Top Yourself](https://open.spotify.com/track/3ZTScjTJav3Yak0OqLTuAL) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/0OBNtBshpjFPStZGJTGNJr) | 4:25 |
 | 69 | [Rattlesnake](https://open.spotify.com/track/7tckHvN2oEmvDroaNWdt9M) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/0TAMJDUal4tPnHf1Kq2jWe) | 2:30 |

@@ -1,13 +1,29 @@
 {
   "description": "All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63265,
+  "num_followers": 63263,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAAok7sG09x0vHRYxbD44oz/UcrV6ays",
+  "snapshot_id": "AAAomSxAe2wloAM+w50Vl0U08QtmwclI",
   "tracks": [
+    {
+      "added_at": "2026-03-31 10:57:34",
+      "album": {
+        "name": "A Sunset In San Francisco",
+        "url": "https://open.spotify.com/album/0fgq9K0Kzn4dBPk6ZErPK0"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 160630,
+      "name": "A Sunset In San Francisco",
+      "url": "https://open.spotify.com/track/35FhdbTFTNjwL8lgJ8BHx2"
+    },
     {
       "added_at": "2026-03-20 10:30:43",
       "album": {
@@ -195,6 +211,42 @@
       "duration_ms": 208005,
       "name": "Asking 4",
       "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
+    },
+    {
+      "added_at": "2026-03-31 10:55:41",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7tpL70OEQCNTunTga3l8a7"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3KyoqNgmHE4uSp8PKXqhlL"
+    },
+    {
+      "added_at": "2026-03-31 10:55:19",
+      "album": {
+        "name": "Love Dancing",
+        "url": "https://open.spotify.com/album/64uzPfOUSgZ24f3AzKG86K"
+      },
+      "artists": [
+        {
+          "name": "Mixed Signals 021",
+          "url": "https://open.spotify.com/artist/7BTZcyNK5kt9aR3JYXb0Tl"
+        },
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "Love Dancing",
+      "url": "https://open.spotify.com/track/0tan5hoOP782l2RqMUmCy3"
     },
     {
       "added_at": "2026-03-06 14:21:18",

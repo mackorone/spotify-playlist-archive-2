@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 79419,
       "name": "A walk in the Park",
       "url": "https://open.spotify.com/track/4OWfqKPGQoynOr9pn8JDPF"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 213473,
       "name": "All at once",
       "url": "https://open.spotify.com/track/2JdgQ8OrHCN7BbKIGS5c3C"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 62712,
       "name": "Dancing with Death",
       "url": "https://open.spotify.com/track/2cfU9I0toOXiBvPnaqUTPu"
@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vLQ6c6JqndLdiUngPhNVe"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143877,
+      "name": "Leader Stroke - Instrumental",
+      "url": "https://open.spotify.com/track/670fC877bDFyFRXnVcJiAj"
+    },
+    {
+      "album": {
         "name": "Leo Das Entry (From \"Leo\")",
         "url": "https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh"
       },
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 129373,
       "name": "Mathew Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 30753,
       "name": "The Maari Swag",
       "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"

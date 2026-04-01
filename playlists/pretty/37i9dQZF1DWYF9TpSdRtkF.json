@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18538,
+  "num_followers": 18543,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 05",
+        "url": "https://open.spotify.com/album/2vsCygKagHpff8Gha6cdt2"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u9632\u6843\u5b50 (CV.\u6e21\u90e8\u6075\u5b50)",
+          "url": "https://open.spotify.com/artist/5sRdcdaQlrP3woFfzv0ler"
+        }
+      ],
+      "duration_ms": 269226,
+      "name": "MY STYLE! OUR STYLE!!!!",
+      "url": "https://open.spotify.com/track/4FIG9LUiAMrKYEAGYJbZ5T"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07",
         "url": "https://open.spotify.com/album/5dCQJlbaEZcvVCsm2XGPxe"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 300653,
       "name": "\u30ab\u30ef\u30e9\u30ca\u30a4\u30e2\u30ce",
       "url": "https://open.spotify.com/track/6robN2EygEzzv9V40cZrCE"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 05",
-        "url": "https://open.spotify.com/album/2vsCygKagHpff8Gha6cdt2"
-      },
-      "artists": [
-        {
-          "name": "\u5468\u9632\u6843\u5b50 (CV.\u6e21\u90e8\u6075\u5b50)",
-          "url": "https://open.spotify.com/artist/5sRdcdaQlrP3woFfzv0ler"
-        }
-      ],
-      "duration_ms": 269226,
-      "name": "MY STYLE! OUR STYLE!!!!",
-      "url": "https://open.spotify.com/track/4FIG9LUiAMrKYEAGYJbZ5T"
     },
     {
       "added_at": "2025-03-26 16:49:37",

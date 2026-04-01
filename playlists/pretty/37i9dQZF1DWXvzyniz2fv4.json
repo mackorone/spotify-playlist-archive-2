@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158861,
+  "num_followers": 158853,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -683,6 +683,26 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "Bateu Saudade",
+        "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 230581,
+      "name": "Bateu Saudade",
+      "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "Beira do Mar",
         "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 187988,
       "name": "Beira do Mar",
       "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "Bateu Saudade",
-        "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
-      },
-      "artists": [
-        {
-          "name": "Zeus",
-          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 230581,
-      "name": "Bateu Saudade",
-      "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -931,6 +931,26 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "Ari 1",
+        "url": "https://open.spotify.com/album/3Vzml0OZP2ZFey4oFIGo4l"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 176619,
+      "name": "Ainda t\u00f4 Aqui",
+      "url": "https://open.spotify.com/track/3ypnrdHwhsXZzksleWL29W"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -955,22 +975,18 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
-        "name": "Ari 1",
-        "url": "https://open.spotify.com/album/3Vzml0OZP2ZFey4oFIGo4l"
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
       },
       "artists": [
         {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
         }
       ],
-      "duration_ms": 176619,
-      "name": "Ainda t\u00f4 Aqui",
-      "url": "https://open.spotify.com/track/3ypnrdHwhsXZzksleWL29W"
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
         "name": "Eles N\u00e3o Querem",
         "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
       },
@@ -1023,30 +1023,6 @@
       "duration_ms": 226000,
       "name": "Eles N\u00e3o Querem",
       "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -1075,6 +1051,30 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -1315,6 +1315,34 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "Bate A Onda",
+        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
+      },
+      "artists": [
+        {
+          "name": "Rio Santana",
+          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Bate A Onda",
+      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1335,30 +1363,6 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     }
   ],
   "unique_name": "Resenha na Praia",

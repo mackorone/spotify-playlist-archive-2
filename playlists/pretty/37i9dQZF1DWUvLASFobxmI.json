@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Codiciado en portada.",
-  "num_followers": 528843,
+  "num_followers": 528872,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Corridos de Encargo",
-        "url": "https://open.spotify.com/album/0vxaLt1TCd1YpgQDE57Ngv"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Canelo",
-      "url": "https://open.spotify.com/track/1r80Wnya7cvclGK7XhZlKE"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Expectante",
         "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 154656,
       "name": "Expectante",
       "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Corridos de Encargo",
+        "url": "https://open.spotify.com/album/0vxaLt1TCd1YpgQDE57Ngv"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Canelo",
+      "url": "https://open.spotify.com/track/1r80Wnya7cvclGK7XhZlKE"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "El Lunar",
         "url": "https://open.spotify.com/album/5D6JdOEKLfQNWSu4xBI1hK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 257655,
       "name": "El Lunar",
       "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Vicio y Soledad",
-        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
+        "name": "El Gran Elemento",
+        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
       },
       "artists": [
         {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
         }
       ],
-      "duration_ms": 215792,
-      "name": "Vicio y Soledad",
-      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
+      "duration_ms": 165020,
+      "name": "El Gran Elemento",
+      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "El Gran Elemento",
-        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
+        "name": "Vicio y Soledad",
+        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
       },
       "artists": [
         {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
         }
       ],
-      "duration_ms": 165020,
-      "name": "El Gran Elemento",
-      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
+      "duration_ms": 215792,
+      "name": "Vicio y Soledad",
+      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
+      },
+      "artists": [
+        {
+          "name": "D\u00c1MASO",
+          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
+        }
+      ],
+      "duration_ms": 228519,
+      "name": "As\u00ed Soy Yo",
+      "url": "https://open.spotify.com/track/5vJUsAS3TsyTH2yyNMcaUU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Quisiera Decirte",
         "url": "https://open.spotify.com/album/5O5GNBfshFtq6gbeRJFhGc"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 170676,
       "name": "Quisiera Decirte",
       "url": "https://open.spotify.com/track/1F6GDNf0RMQ3alpwLtxS1V"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
-      },
-      "artists": [
-        {
-          "name": "D\u00c1MASO",
-          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
-        }
-      ],
-      "duration_ms": 228519,
-      "name": "As\u00ed Soy Yo",
-      "url": "https://open.spotify.com/track/5vJUsAS3TsyTH2yyNMcaUU"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Cuando Dijiste Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2WKQUyedp7b3torl0iE2o0"
+        "name": "Desde Los Angeles (En Vivo)",
+        "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
       },
       "artists": [
         {
-          "name": "Isaias Lucero",
-          "url": "https://open.spotify.com/artist/41kB6WIP5qNrYKhjSZFEGZ"
-        },
-        {
-          "name": "Los Involucrados De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0OjBNC3kRx6avUPdqaqm9T"
+          "name": "La Atraxion",
+          "url": "https://open.spotify.com/artist/3hMHWpyQ2fgjbN6R3g90mQ"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Cuando Dijiste Adi\u00f3s",
-      "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
+      "duration_ms": 222000,
+      "name": "La vida recia - En Vivo",
+      "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Desde Los Angeles (En Vivo)",
-        "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
+        "name": "Cuando Dijiste Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2WKQUyedp7b3torl0iE2o0"
       },
       "artists": [
         {
-          "name": "La Atraxion",
-          "url": "https://open.spotify.com/artist/3hMHWpyQ2fgjbN6R3g90mQ"
+          "name": "Isaias Lucero",
+          "url": "https://open.spotify.com/artist/41kB6WIP5qNrYKhjSZFEGZ"
+        },
+        {
+          "name": "Los Involucrados De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0OjBNC3kRx6avUPdqaqm9T"
         }
       ],
-      "duration_ms": 222000,
-      "name": "La vida recia - En Vivo",
-      "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
+      "duration_ms": 167000,
+      "name": "Cuando Dijiste Adi\u00f3s",
+      "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
     },
     {
       "added_at": "2026-03-27 06:00:17",

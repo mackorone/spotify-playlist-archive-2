@@ -1,13 +1,45 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1057,
+  "num_followers": 1059,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFIJMAiZZFlq5U3OlEwrKTqhHBv2Ey",
+  "snapshot_id": "AAAFJ9fxw65Gtq7ftpe+koN77x2988jy",
   "tracks": [
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "Shoot Me If You Can",
+        "url": "https://open.spotify.com/album/3oEi6itGs4mFe5Op0QnTPz"
+      },
+      "artists": [
+        {
+          "name": "Kookie",
+          "url": "https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Shoot Me If You Can",
+      "url": "https://open.spotify.com/track/2UkXYrNzmb1edRsMezsu1s"
+    },
+    {
+      "added_at": "2026-03-31 20:24:23",
+      "album": {
+        "name": "When I'm With You / Too Late",
+        "url": "https://open.spotify.com/album/6nBMymUlBdMQXGO36H6RcW"
+      },
+      "artists": [
+        {
+          "name": "WORLDWIDEWOLF",
+          "url": "https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV"
+        }
+      ],
+      "duration_ms": 290879,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/3aZiG45CNmjjKrBisc8hEg"
+    },
     {
       "added_at": "2026-03-29 22:37:40",
       "album": {
@@ -1467,22 +1499,6 @@
       "duration_ms": 138017,
       "name": "TUMMY",
       "url": "https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "Shoot Me If You Can",
-        "url": "https://open.spotify.com/album/3oEi6itGs4mFe5Op0QnTPz"
-      },
-      "artists": [
-        {
-          "name": "Kookie",
-          "url": "https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Shoot Me If You Can",
-      "url": "https://open.spotify.com/track/2UkXYrNzmb1edRsMezsu1s"
     },
     {
       "added_at": "2026-03-05 04:42:47",

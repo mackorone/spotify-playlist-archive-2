@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Nia Archives
 
-848 songs - 2 day 1 hr 6 min
+849 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [As Long As You're Moving](https://open.spotify.com/track/4qHcf1NAYHHXxz41tt7R7v) | [Hex Girlfriend](https://open.spotify.com/artist/5a4wwtDgBVk5RKDQzWxYbE) | [As Long As You're Moving](https://open.spotify.com/album/1RhurYEZIzXF99IZX8O2XD) | 3:40 | 2025-10-16 | 2026-01-30 |
 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 | 2024-12-06 | 2025-03-21 |
 | [Atavista](https://open.spotify.com/track/6Lj4RhwPsVfMn7tsA5i8jW) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:01 | 2024-06-27 | 2024-07-19 |
-| [Automatic Love](https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:02 | 2025-08-28 |  |
+| [Automatic Love](https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:02 | 2025-08-28 | 2026-04-01 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-06-27 | 2024-10-11 |
 | [Babe](https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Babe](https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0) | 3:08 | 2024-08-23 | 2024-10-11 |
 | [BABY BABY](https://open.spotify.com/track/37RNy61lMUr4NoYmSOroHJ) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BABY BABY](https://open.spotify.com/album/0JxcpQDSe6M0TLo5N0l9P1) | 3:17 | 2025-07-31 | 2025-10-10 |
@@ -111,7 +111,7 @@
 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 | 2024-09-01 | 2025-02-14 |
 | [Break The Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break The Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 | 2024-10-03 | 2025-02-14 |
 | [Broken Record](https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Broken Record](https://open.spotify.com/album/7HpmGgVcO09i1LMAqMbFbd) | 3:05 | 2025-06-05 | 2025-07-11 |
-| [Brush Me Like A Horse](https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio) | [Brush Me Like A Horse](https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU) | 3:24 | 2026-01-30 |  |
+| [Brush Me Like A Horse](https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Brush Me Like A Horse](https://open.spotify.com/album/2LE27BnmrOBp4P4GzwBefU) | 3:24 | 2026-01-30 |  |
 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 | 2024-10-24 | 2024-11-29 |
 | [Bubble Wrap](https://open.spotify.com/track/5fcMtHMqoUB5j7nx08XylC) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [BETWEEN2WORLDS](https://open.spotify.com/album/0vU9edLqvX0azxdWwKzCKl) | 2:41 | 2024-07-11 | 2024-08-16 |
 | [BUMP](https://open.spotify.com/track/7guI8oY9iaXgnreh7CDd0D) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [WITH LOVE FROM EVERYWHERE](https://open.spotify.com/album/1MrZtNdrQwWF1nu8HdmNEA) | 1:47 | 2025-04-03 | 2025-06-20 |
@@ -603,6 +603,7 @@
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-11-29 | 2025-03-21 |
 | [PURE LOVE](https://open.spotify.com/track/4zAvLrnmzYAc55qfUG7coN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [PURE LOVE](https://open.spotify.com/album/22AuMsgiDu1rAu7hPAylZE) | 3:24 | 2025-02-21 | 2025-05-23 |
 | [Quick Thrill](https://open.spotify.com/track/0nb762Wwh7xIBykXuIIMzQ) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Quick Thrill](https://open.spotify.com/album/52VGb5JqftUx6tsqDBSstL) | 2:52 | 2024-11-08 | 2025-03-21 |
+| [R3verse](https://open.spotify.com/track/06QzPn91srChnujaOnUN5A) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/7cSg68Tk5OmkfBSviwghnm) | 3:31 | 2026-03-27 |  |
 | [Rabbit Hole](https://open.spotify.com/track/0FxrHtcqdrMsDsUOd8nDSd) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Rabbit Hole](https://open.spotify.com/album/6X0awUTrfO7Mx2s7SeGa3x) | 2:09 | 2024-07-11 | 2024-09-06 |
 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 | 2024-10-03 | 2025-02-14 |
 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 | 2024-07-25 | 2024-09-28 |

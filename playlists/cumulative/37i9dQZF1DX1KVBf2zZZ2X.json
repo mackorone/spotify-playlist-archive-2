@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Calming Rain",
+        "url": "https://open.spotify.com/album/37JB50hVbFaN5RCi12rHzK"
+      },
+      "artists": [
+        {
+          "name": "Vox Lumi",
+          "url": "https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Calming Rain",
+      "url": "https://open.spotify.com/track/3KJ9Sn35Mr78Bza8LOQ6Ny"
+    },
+    {
+      "album": {
         "name": "Canola Morning",
         "url": "https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 154000,
       "name": "Enchanted Sonata",
       "url": "https://open.spotify.com/track/18SdEvypE4zZjqgHiECdXu"
@@ -1882,6 +1900,24 @@
       "duration_ms": 162480,
       "name": "Flod",
       "url": "https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM"
+    },
+    {
+      "album": {
+        "name": "Floe",
+        "url": "https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160077,
+      "name": "Floe",
+      "url": "https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4"
     },
     {
       "album": {
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 176000,
       "name": "Forest Pond",
       "url": "https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57"
@@ -4189,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Rebalanced",
+        "url": "https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L"
+      },
+      "artists": [
+        {
+          "name": "Noah Florence",
+          "url": "https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169190,
+      "name": "Rebalanced",
+      "url": "https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS"
+    },
+    {
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk"
       },
@@ -4726,6 +4780,24 @@
       "duration_ms": 190000,
       "name": "Silva Fabula",
       "url": "https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT"
+    },
+    {
+      "album": {
+        "name": "Skylit Plains",
+        "url": "https://open.spotify.com/album/1eJKDiaX0plhT0hwhOEtTy"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172825,
+      "name": "Skylit Plains",
+      "url": "https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr"
     },
     {
       "album": {
@@ -5658,7 +5730,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 170689,
       "name": "Twilight Ember",
       "url": "https://open.spotify.com/track/5ctfiQGXKTJZzmTLY3kbIN"
@@ -5972,7 +6044,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 158000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"

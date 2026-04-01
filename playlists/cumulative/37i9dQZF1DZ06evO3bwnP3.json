@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 102812,
       "name": "Cumulative Resolution",
       "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
@@ -812,6 +812,24 @@
       "duration_ms": 1210286,
       "name": "Undo",
       "url": "https://open.spotify.com/track/04ulTcYnjXajnw2T3KO6D1"
+    },
+    {
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174895,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/1D4DYYiOlkwmSIuHA0EqdL"
     },
     {
       "album": {

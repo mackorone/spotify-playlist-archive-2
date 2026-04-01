@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "HIJO DEL PA\u00cdS",
+        "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200436,
+      "name": "El Aplauso",
+      "url": "https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY"
+    },
+    {
+      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/4ItQlfDHnru0cP5zlfqtEn"
       },

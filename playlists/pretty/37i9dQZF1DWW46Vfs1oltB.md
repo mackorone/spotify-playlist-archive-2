@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Lil Moshpit & Jay Park’s Top 10 Hip\-Hop Picks\. Catch them first at the top!
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,104 likes - 127 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,070 likes - 127 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

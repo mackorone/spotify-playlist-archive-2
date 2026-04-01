@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,469 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,636 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Ayi Giri](https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Ayi Giri / Dopamine Machine](https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7) | 3:06 |
 | 50 | [Cathedral](https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA) | [Bouras](https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2), [ATLANTE \(FR\)](https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ) | [Cathedral](https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H) | 4:11 |
 
-Snapshot ID: `AAAAAG0+8FXcZrwfhpJWJ0z3ZFA5dzgZ`
+Snapshot ID: `AAAAANnhIK2tk08zXjGA7BBKUgvJjZcJ`

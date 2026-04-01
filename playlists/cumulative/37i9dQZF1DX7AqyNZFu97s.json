@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: FIZA",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Bonnie Kemplay",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -3034,6 +3034,24 @@
       "duration_ms": 213688,
       "name": "Angel Patience",
       "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
+    },
+    {
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/200LAacp5mXwgFAr490iKq"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
     },
     {
       "album": {
@@ -6094,6 +6112,24 @@
       "duration_ms": 159387,
       "name": "Big Light",
       "url": "https://open.spotify.com/track/220qQoAgI13a7hpHlfoMy2"
+    },
+    {
+      "album": {
+        "name": "Big Machine",
+        "url": "https://open.spotify.com/album/56svbyQy7C9Wr1Ul1hpCpS"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Kemplay",
+          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176323,
+      "name": "Big Machine",
+      "url": "https://open.spotify.com/track/64OQZBi3pOfJaoZH99yDis"
     },
     {
       "album": {
@@ -16628,6 +16664,24 @@
       "duration_ms": 152790,
       "name": "dying to see you",
       "url": "https://open.spotify.com/track/7mI9cqbCCc7CLSlvWOFlCm"
+    },
+    {
+      "album": {
+        "name": "Early Bird",
+        "url": "https://open.spotify.com/album/7BJXsAY5xTLNtUXhckvQyk"
+      },
+      "artists": [
+        {
+          "name": "JrodBroccoli",
+          "url": "https://open.spotify.com/artist/0ht1thNgu836B6AYsXbt1K"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Early Bird",
+      "url": "https://open.spotify.com/track/6weiXXC8bJghorfjIaGfBu"
     },
     {
       "album": {
@@ -27198,7 +27252,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 203970,
       "name": "I Am Obsessed",
       "url": "https://open.spotify.com/track/3OEwcMLOSCKljOb180fBRo"
@@ -37220,7 +37274,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 173333,
       "name": "Marked Up",
       "url": "https://open.spotify.com/track/5IwRuwDHqwUEC1k60AATfy"
@@ -38072,7 +38126,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 314000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/7JNuZymSh8gk5E3N6HuKi0"
@@ -45356,7 +45410,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 309973,
       "name": "Picto",
       "url": "https://open.spotify.com/track/2UBRx5bJDivBNBtmmQBZwD"
@@ -50704,7 +50758,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 232000,
       "name": "SELENE",
       "url": "https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg"
@@ -55542,6 +55596,24 @@
       "duration_ms": 199800,
       "name": "sunny side up",
       "url": "https://open.spotify.com/track/6vAdFjljMSaMIO7IO6FY2V"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2kXcnxi134zzN4nmGjJ4Tj"
+      },
+      "artists": [
+        {
+          "name": "Naiyah",
+          "url": "https://open.spotify.com/artist/75EPu5pK1tSyy0d0FATDvB"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/43dTLOTFP9HRBxy9dDV7JG"
     },
     {
       "album": {
@@ -64712,6 +64784,24 @@
       "duration_ms": 146161,
       "name": "Won't Be Waiting",
       "url": "https://open.spotify.com/track/6KCPje9DnWgRse7ss9LbyS"
+    },
+    {
+      "album": {
+        "name": "won't speak again",
+        "url": "https://open.spotify.com/album/5otwUcLBDVYuk4TQU14TAs"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "won't speak again",
+      "url": "https://open.spotify.com/track/1ynfvyFOlaRb3HLC7WMS8c"
     },
     {
       "album": {

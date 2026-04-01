@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-887 songs - 2 day 1 hr 45 min
+888 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,6 +717,7 @@
 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 | 2025-06-20 | 2025-09-16 |
 | [Słownikowa samba](https://open.spotify.com/track/2GYNzdabOU9VzmgK2hLCTv) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn), [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Słownikowa samba](https://open.spotify.com/album/4MZ3T2IYvASAJN1hNr6PED) | 3:18 | 2024-08-23 | 2024-09-13 |
 | [Tacy sami](https://open.spotify.com/track/3BMOhoXlSUa3hOEgX6qxni) | [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Tacy sami](https://open.spotify.com/album/35Xx6b9gx0QywRgl40nVf2) | 4:05 | 2025-06-20 | 2025-10-11 |
+| [Tak ma być](https://open.spotify.com/track/2dMyKIP1j1IFt84XFt0Cno) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Tak ma być](https://open.spotify.com/album/3SbTCoBrCfFQOKuiAgP7yQ) | 4:45 | 2026-03-27 |  |
 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 | 2024-11-21 | 2025-01-27 |
 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-15 | 2025-12-06 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-21 | 2025-06-01 |
@@ -763,7 +764,7 @@
 | [TO KIEDYŚ MINIE](https://open.spotify.com/track/4G5JYGSUKdWOFL4UWRi8xS) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [DZIECI DOKERÓW](https://open.spotify.com/album/4Y1O2OPtH6fuQndU4Sa6qa) | 3:39 | 2025-01-17 | 2025-01-25 |
 | [To nie koniec](https://open.spotify.com/track/7u1mfYq6nRZmD4F9iumOy8) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [To nie koniec](https://open.spotify.com/album/7MJf5dvbXttoVqkcxWxDcM) | 3:11 | 2026-02-27 |  |
 | [To nie koniec](https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [To nie koniec](https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG) | 2:52 | 2026-03-13 | 2026-03-31 |
-| [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 | 2026-02-20 |  |
+| [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 | 2026-02-20 | 2026-04-01 |
 | [To nie powtórzy się](https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik) | [The Dumplings](https://open.spotify.com/artist/1nEmAvnOKMBYCziZQNb5B4) | [To nie powtórzy się](https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf) | 3:12 | 2024-09-12 | 2024-09-29 |
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-09-15 | 2025-10-12 |
 | [To twoja wina](https://open.spotify.com/track/2DwgHIWqT5VHdRLzFwHcCK) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [To twoja wina](https://open.spotify.com/album/4fT0qOby3KOEx2KhlsEc3N) | 3:13 | 2025-08-22 | 2025-09-22 |

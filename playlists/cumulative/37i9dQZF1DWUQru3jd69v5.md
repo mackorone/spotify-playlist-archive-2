@@ -4,7 +4,7 @@
 
 > Khodi in cover della playlist con il futuro del rap italiano 📈
 
-2,330 songs - 4 day 2 hr 26 min
+2,331 songs - 4 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Andando crazy](https://open.spotify.com/track/2wyCk3paSDuKSd0EClnxAU) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Andando crazy](https://open.spotify.com/album/2YAyC3FNowzLbMps7nh4Ek) | 3:08 | 2025-07-10 | 2025-08-01 |
 | [Angel Gabriel](https://open.spotify.com/track/4OEligpS2COR14Plpw8c8f) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Angel Gabriel](https://open.spotify.com/album/5WKGbIZm9JTJCUqmRgl9Wc) | 2:15 | 2022-10-13 | 2022-10-28 |
 | [Angelo \(feat\. Mamma\)](https://open.spotify.com/track/3XZMHVkhPZlihFhgitPzKL) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mamma](https://open.spotify.com/artist/5EIG89FAyRj8fhGtVf4Qg4) | [Angelo \(feat\. Mamma\)](https://open.spotify.com/album/3xdp4IZsZfnvlU5ZUbettS) | 3:39 | 2024-06-20 | 2024-07-05 |
-| [Angioletto & Ivan](https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [Angioletto & Ivan](https://open.spotify.com/album/3sHmICKLEu1zDk2HXSEikH) | 2:10 | 2025-11-13 |  |
+| [Angioletto & Ivan](https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [Angioletto & Ivan](https://open.spotify.com/album/3sHmICKLEu1zDk2HXSEikH) | 2:10 | 2025-11-13 | 2026-04-01 |
 | [Ansia](https://open.spotify.com/track/6CV7yapL2bhEaWKE4p7IoB) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3) | [Ansia](https://open.spotify.com/album/5bQsB7DQ6eRVHsEuGxeSjn) | 2:40 | 2023-01-26 | 2023-03-03 |
 | [Antidoto](https://open.spotify.com/track/61QfuAmJQdIW3n7v68t0WI) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Antidoto](https://open.spotify.com/album/6RUJ0065eh37nhv3uK0wla) | 2:17 | 2025-12-04 | 2026-01-02 |
 | [ANTIPROIETTILE](https://open.spotify.com/track/4SitMb6MMZVkyLQo8MxuTL) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [ANTIPROIETTILE](https://open.spotify.com/album/2pREM66sS1IvUswiqSSYBq) | 2:13 | 2022-12-15 | 2023-01-18 |
@@ -1046,6 +1046,7 @@
 | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/track/7bFnwrQazGOL4vvabrlbEJ) | [Lenny Delicious](https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/album/0aNQyscRPmeCuZ21vzppOM) | 2:34 | 2025-06-19 | 2025-07-18 |
 | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/album/4dGzzSFdxg0hNp4QG1JrmC) | 2:32 | 2024-03-07 | 2024-05-03 |
 | [KITSCH](https://open.spotify.com/track/765J3gX9vSabx6ALavokHU) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [KITSCH](https://open.spotify.com/album/7cEw7HecWEGrAPLRkoK7Jv) | 2:28 | 2025-04-10 | 2025-05-16 |
+| [KLANDESTINO](https://open.spotify.com/track/3ki4qg5o4FIodRsZ07ga5k) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [KLANDESTINO](https://open.spotify.com/album/4AVXGactsIZUAjtDuNHcaX) | 2:31 | 2026-03-31 |  |
 | [Kratos](https://open.spotify.com/track/0cWJZCWkTzMyer8IbBhHbK) | [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Kratos](https://open.spotify.com/album/2yAiosmovv0gFe251Sz8id) | 2:21 | 2023-09-28 | 2023-10-13 |
 | [KRIMINELL](https://open.spotify.com/track/4fywmdizxcc2h9LzQVsN6C) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [KRIMINELL](https://open.spotify.com/album/6sDlXC9wg0sBLOv4kHuCMV) | 3:28 | 2023-12-07 | 2024-01-26 |
 | [Kurt Cobain](https://open.spotify.com/track/5MFOGxWCMMmYwYI1TXi4Qs) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Kurt Cobain](https://open.spotify.com/album/2OhlZbURVdLbN4IikoFicb) | 2:50 | 2023-09-21 | 2023-10-06 |

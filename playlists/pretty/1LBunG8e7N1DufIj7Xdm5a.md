@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,251 songs - 9 day 10 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,254 songs - 9 day 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1321,7 +1321,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 1311 | [Dance!](https://open.spotify.com/track/0CJVVyvxzNHtaNbms2h3TG) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Dance!](https://open.spotify.com/album/1eZiaqxV8DABi40A8iAzHD) | 1:59 |
 | 1312 | [777](https://open.spotify.com/track/145SVncYLnSyQ8OZJehgkB) | [Marzi](https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY) | [777](https://open.spotify.com/album/4v1HYwYOfEMrgSIdndgGqo) | 2:43 |
 | 1313 | [VOTF \- rmx](https://open.spotify.com/track/5FxvTDIxBcuJ2Pb2CzeD1Z) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [VOTF](https://open.spotify.com/album/7svX4hf3T5fwVZ5TuR05Qs) | 2:50 |
-| 1314 | [Show U Da World](https://open.spotify.com/track/0BAMN2JvxrAFuXDiTlwyAh) | [BabyBoy1N3](https://open.spotify.com/artist/3I7oak9z3Ucz3zyXHkPrOh), [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj), [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [She Love Binx](https://open.spotify.com/album/0aT80cXiVytpfOQc27Ng9a) | 1:42 |
+| 1314 | [Show U Da World](https://open.spotify.com/track/0BAMN2JvxrAFuXDiTlwyAh) | [BabyBoy1N3](https://open.spotify.com/artist/3I7oak9z3Ucz3zyXHkPrOh), [user00xman](https://open.spotify.com/artist/5jHEV2nmLvDyu6MwUU9ftS), [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [She Love Binx](https://open.spotify.com/album/0aT80cXiVytpfOQc27Ng9a) | 1:42 |
 | 1315 | [SAY SOMETHIN'](https://open.spotify.com/track/04U6CZTpcrhIHxyrNIWmrZ) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [WISH U WERE HERE](https://open.spotify.com/album/5VykTQitQAIZg9gUFZPIRg) | 3:13 |
 | 1316 | [take it easy](https://open.spotify.com/track/1dvkX4xCUQuIAx683WIcVK) | [da99y](https://open.spotify.com/artist/78p7U6WueOjS7mtvSCBnl2), [Lana Volkov](https://open.spotify.com/artist/01SqRetauLOJPZnZTb6MXQ) | [take it easy](https://open.spotify.com/album/7zkbc2ZF1y5BFVBLZ0muAl) | 2:02 |
 | 1317 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 |
@@ -4259,5 +4259,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4249 | [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 |
 | 4250 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 |
 | 4251 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 |
+| 4252 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 |
+| 4253 | [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 |
+| 4254 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 |
 
-Snapshot ID: `AAAIGnRvs6JST3d+FqWXljJlJuK9frRT`
+Snapshot ID: `AAAIHaD0wM4LpK0DijH7r5gBGQQLfBzf`

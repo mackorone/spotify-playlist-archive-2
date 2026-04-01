@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,300 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,298 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 30 | [Skacz ze mną na bombę](https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN) | [Małpa](https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:38 |
 | 31 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
 | 32 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
-| 33 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
-| 34 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
+| 33 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
+| 34 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
 | 35 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
 | 36 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
 | 37 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 45 | [Ballada o Niej \(Live, 92'\)](https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Ballada o Niej](https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK) | 4:29 |
 | 46 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
 | 47 | [Siwa zezulejko](https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie), [Bassałyki](https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y) | [Sploty](https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV) | 6:21 |
-| 48 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 |
-| 49 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 |
+| 48 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 |
+| 49 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 |
 | 50 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |
 | 51 | [Edi](https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL) | [Grzegorz Kupczyk](https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu) | [Edi](https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv) | 3:23 |
 | 52 | [Better Off](https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:50 |

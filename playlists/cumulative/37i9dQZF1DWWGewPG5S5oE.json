@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Okazaki Brothers",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Marty Holoubek",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -2101,6 +2101,32 @@
     },
     {
       "album": {
+        "name": "Trio IV: The City, It Whispers",
+        "url": "https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA"
+      },
+      "artists": [
+        {
+          "name": "Marty Holoubek",
+          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294344,
+      "name": "Disturbed Utopia",
+      "url": "https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s"
+    },
+    {
+      "album": {
         "name": "dnp",
         "url": "https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6"
       },
@@ -3996,7 +4022,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 262415,
       "name": "Lightning Moment",
       "url": "https://open.spotify.com/track/6AtMvCi9dlzW6baOkLtBn2"
@@ -4718,6 +4744,32 @@
       "duration_ms": 236000,
       "name": "Mr.Kelp",
       "url": "https://open.spotify.com/track/78AsSev9SxDU4H1TNOpeQr"
+    },
+    {
+      "album": {
+        "name": "TEINE",
+        "url": "https://open.spotify.com/album/7z9LSX9STNlRuna6Os4eYJ"
+      },
+      "artists": [
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u5e02\u91ce\u5143\u5f66",
+          "url": "https://open.spotify.com/artist/48TBc7P43abz7TzVyPULhr"
+        },
+        {
+          "name": "\u30ab\u30ce\u30a2\u30fb\u30e1\u30f3\u30c7\u30f3\u30db\u30fc\u30eb",
+          "url": "https://open.spotify.com/artist/3hoPCBJlH3GtV0qFfJPFdf"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225329,
+      "name": "Mt.Teine",
+      "url": "https://open.spotify.com/track/5ZFWqgSVs0cQvQOTTOxsin"
     },
     {
       "album": {
@@ -8272,7 +8324,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 432493,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98"

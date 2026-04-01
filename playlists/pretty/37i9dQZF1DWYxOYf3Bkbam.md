@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,285 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,303 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 37 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 |
 | 38 | [Refugio de Soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt), [Miguel Ángel Porra](https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN) | [Refugio de Soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
 | 39 | [Por Tus Besos](https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr) | [Hermanos Barrios](https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X) | [Las Nuevas Estrellas del Chamamé](https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW) | 2:47 |
-| 40 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 |
-| 41 | [Taipero Poriahu](https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 3:09 |
+| 40 | [Taipero Poriahu](https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 3:09 |
+| 41 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 |
 | 42 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
 | 43 | [Virgencita de Itatí](https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [20 Grandes Exitos](https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0) | 2:35 |
 | 44 | [Enganchados: Al Otro de la Tablada / Crece el Río / El Tapecito](https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6) | [Los Dioses del Chamamé](https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN) | [Con Alma y Corazón](https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ) | 5:39 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 84 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
 | 85 | [La Changa de los Domingos \- Chamamé](https://open.spotify.com/track/1C58csh64wznZj64hwV9gx) | [Anibal Maldonado](https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi), [Silvio Quintana](https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ) | [Si el Campo Crece, Crece el País](https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ) | 4:07 |
 | 86 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 |
-| 87 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
+| 87 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 |
 | 88 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
-| 89 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 |
+| 89 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
 | 90 | [Troja de Amor](https://open.spotify.com/track/4oaloCE4Y8QL1wMyaIIo8s) | [Omar Pineda](https://open.spotify.com/artist/5H0JGPUzSOvn793JjTy90E), [Pitín Zalazar](https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW) | [Pura Sangre](https://open.spotify.com/album/30xKVoMy4ivn5IgYBvwXO7) | 2:28 |
 
 Snapshot ID: `AAAAALyPvP4iQye+hcqHcRJY1gg6vZVi`

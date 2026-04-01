@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/5t6jHinkG4u64DRKkuQhDN"
+      },
+      "artists": [
+        {
+          "name": "Afem Syko",
+          "url": "https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211135,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5gyfPLAkGDs2FG6gVu5Veo"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 228226,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/24ZahOwPra9cPxv6RO1G1R"
@@ -154,7 +172,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 164121,
       "name": "Call Me Babe",
       "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
@@ -190,7 +208,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 211200,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/36SGAVpiCmKVQOFiy79BrP"
@@ -216,6 +234,28 @@
       "duration_ms": 246400,
       "name": "DAS RIGHT",
       "url": "https://open.spotify.com/track/4NnzGz6egrGIiK2cQk9S4m"
+    },
+    {
+      "album": {
+        "name": "Do I Like You Like That?",
+        "url": "https://open.spotify.com/album/1uL0MJ82ZEIJXzBLN7l2in"
+      },
+      "artists": [
+        {
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        },
+        {
+          "name": "EVA",
+          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161152,
+      "name": "Do I Like You Like That?",
+      "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
     },
     {
       "album": {
@@ -394,7 +434,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 248200,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Zv49ZaPJYXFXoHzjTLawQ"
@@ -416,7 +456,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 221896,
       "name": "FREAK UP",
       "url": "https://open.spotify.com/track/0U5SBdVrLtdyYiqzXyMcGX"
@@ -474,7 +514,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 246193,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/3DL0KT0WekM8isuZkMXxsE"
@@ -687,6 +727,46 @@
     },
     {
       "album": {
+        "name": "MOAA",
+        "url": "https://open.spotify.com/album/3xIiBOudLygh9vz75Usw7z"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "MOAA",
+      "url": "https://open.spotify.com/track/7btpAjZH4QHYRBBpcMLPE1"
+    },
+    {
+      "album": {
+        "name": "Music Never Lies",
+        "url": "https://open.spotify.com/album/3fWCoe1RSvMYN1CvFc7SSQ"
+      },
+      "artists": [
+        {
+          "name": "Mika Heggemann",
+          "url": "https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Music Never Lies",
+      "url": "https://open.spotify.com/track/03L7OZovsBbQmCGMf4t8K4"
+    },
+    {
+      "album": {
         "name": "My Favourite Game",
         "url": "https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309"
       },
@@ -698,7 +778,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 203015,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
@@ -763,6 +843,24 @@
     },
     {
       "album": {
+        "name": "No Time In Space",
+        "url": "https://open.spotify.com/album/6ZCUd1PFowM1cjyFNqief1"
+      },
+      "artists": [
+        {
+          "name": "Vespera",
+          "url": "https://open.spotify.com/artist/1rC3ytYxm8NTaVdpD1A7kb"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211354,
+      "name": "No Time In Space",
+      "url": "https://open.spotify.com/track/7y2k0nnWXKBYSZ9Ob6qrXm"
+    },
+    {
+      "album": {
         "name": "BOMBO",
         "url": "https://open.spotify.com/album/4IunGzsxjIQT1kO9AhzGY8"
       },
@@ -778,6 +876,46 @@
       "duration_ms": 321632,
       "name": "NU SWING",
       "url": "https://open.spotify.com/track/4HXwvlwq1PbyDH148kzfTm"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/2Rfl2HwLZOSsRwSPzF6x8e"
+      },
+      "artists": [
+        {
+          "name": "Sonic Rain",
+          "url": "https://open.spotify.com/artist/7kuKQ3YGpserZme7CtZPdI"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214032,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/58LQXnyMCCEUa2vY9OcqdQ"
+    },
+    {
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/0wcEYESK4xAJCEUZlctF6O"
+      },
+      "artists": [
+        {
+          "name": "Bad Boombox",
+          "url": "https://open.spotify.com/artist/6ZisvOKQY2LDItOkbsy2qd"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161756,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/1zG0JvTvPSqp4B8Q6GSV7q"
     },
     {
       "album": {
@@ -992,7 +1130,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 148083,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/0bRzCl937W9PlTCknGfcW8"
@@ -1140,7 +1278,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 346285,
       "name": "To The Spot",
       "url": "https://open.spotify.com/track/5h6v1lOUihccygwqsXEsyc"
@@ -1162,6 +1300,24 @@
       "duration_ms": 417240,
       "name": "Traffic - Original 12\"",
       "url": "https://open.spotify.com/track/1BijHyROXGzByx5j6oS3Wu"
+    },
+    {
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/1TkaArr8Y2mW4Qj40UEJaI"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/2LzEuRdNWNiHdGI1m5ALc5"
     },
     {
       "album": {
@@ -1198,6 +1354,24 @@
       "duration_ms": 269214,
       "name": "TURN UP THE VOLUME",
       "url": "https://open.spotify.com/track/1VLml0u5r1nbqODkyQ0JAl"
+    },
+    {
+      "album": {
+        "name": "Wicked With You",
+        "url": "https://open.spotify.com/album/0T77mYfP5wbmDDUg7rkScz"
+      },
+      "artists": [
+        {
+          "name": "Tom Carroll",
+          "url": "https://open.spotify.com/artist/0HhkKgvROcEteI6vfUjvbv"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232367,
+      "name": "Wicked With You",
+      "url": "https://open.spotify.com/track/1NUrZluiGCRucIvcjiRMCM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7riAhWKXLK0"

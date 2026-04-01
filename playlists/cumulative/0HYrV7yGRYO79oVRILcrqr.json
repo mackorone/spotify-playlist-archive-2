@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Dreamscape Odyssey",
+        "url": "https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD"
+      },
+      "artists": [
+        {
+          "name": "CRAZY PARTY",
+          "url": "https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279673,
+      "name": "A Candle's Night",
+      "url": "https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5"
+    },
+    {
+      "album": {
         "name": "A favor del viento",
         "url": "https://open.spotify.com/album/1l6vAcGBQETIZqsUNmaP7C"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,670 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,690 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Lembrei de Tu](https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Lembrei de Tu](https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq) | 2:53 |
 | 50 | [Saudade do Carai](https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Saudade do Carai](https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn) | 2:50 |
 
-Snapshot ID: `MV3gGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MV82SAAAAAAAAAAAAAAAAAAAAAAAAGVu`

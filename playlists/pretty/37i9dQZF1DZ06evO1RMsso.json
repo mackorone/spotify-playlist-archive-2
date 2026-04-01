@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 230415,
+  "num_followers": 230438,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAAB2KDFtFpxAuTkTs7qclumV",
+  "snapshot_id": "acm9AAAAAADPp3mtBT8LpyGYTZa0Jsr/",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
       "duration_ms": 334426,
       "name": "The Throne Room and End Title",
       "url": "https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 532706,
-      "name": "Journey To The Island",
-      "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
     }
   ],
   "unique_name": "This Is John Williams",

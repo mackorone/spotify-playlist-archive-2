@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 26791,
+  "num_followers": 26810,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAABPTExUOEf46D/Rh91LodbF",
+  "snapshot_id": "acm9AAAAAABiRcKHKn1yS8E6QQU3snIZ",
   "tracks": [
     {
       "added_at": null,
@@ -687,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 227137,
-      "name": "Neighborhood (with Krayzie Bone & Prof)",
-      "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Time Boy (with Zombie Juice & Meechy Darko of Flatbush Zombies)",
         "url": "https://open.spotify.com/album/0uundV8YMao02nkQffZWWq"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 170360,
       "name": "Bad Time Boy (with Zombie Juice & Meechy Darko of Flatbush Zombies)",
       "url": "https://open.spotify.com/track/2evcoCb5jQhY3IKYE4IXMT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 227137,
+      "name": "Neighborhood (with Krayzie Bone & Prof)",
+      "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
     },
     {
       "added_at": null,

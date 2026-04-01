@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-365 songs - 1 day 0 hr 51 min
+366 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Power](https://open.spotify.com/track/3pmVYUybrSXz79BBwL9RWW) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ), [AZYR](https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8) | [Power](https://open.spotify.com/album/0Zd6ZxUrYlt4XpBDivljUO) | 4:14 | 2026-03-20 |  |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 |  |
 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 | 2025-05-16 | 2025-07-31 |
-| [Pretty Face](https://open.spotify.com/track/1aODaFKkuiysjOQ9Y8shn2) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Pretty Face](https://open.spotify.com/album/16IW14hGqvrgYJksfwi0EF) | 3:27 | 2026-02-13 |  |
+| [Pretty Face](https://open.spotify.com/track/1aODaFKkuiysjOQ9Y8shn2) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Pretty Face](https://open.spotify.com/album/16IW14hGqvrgYJksfwi0EF) | 3:27 | 2026-02-13 | 2026-04-01 |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 | 2024-07-15 |
 | [Psycho](https://open.spotify.com/track/1dCZSwjr62Vdt5q8ixO1wz) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [Psycho](https://open.spotify.com/album/6ogh0yQyrZd8tmxSivz96F) | 4:40 | 2025-02-07 | 2025-04-21 |
@@ -349,6 +349,7 @@
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |
 | [Transition](https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Sparkling System](https://open.spotify.com/album/5EtLKjH311CLH0QwS7eSEF) | 5:26 | 2024-04-09 | 2025-07-30 |
 | [Trip To Fantasy](https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:14 | 2024-07-18 | 2024-07-22 |
+| [TUTU](https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0) | [KX CHR](https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU) | [TUTU](https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf) | 2:33 | 2026-03-20 |  |
 | [Two Steps from Heaven](https://open.spotify.com/track/0eRbOJ7nguOh6UCV1Lbpwn) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Disco Inferno 01](https://open.spotify.com/album/2Knz72wmGmCdGPTRqJZWB6) | 9:27 | 2024-04-09 | 2024-12-10 |
 | [Una Hora Más](https://open.spotify.com/track/4h9RbW9SAvfiyq9hsVKUym) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más](https://open.spotify.com/album/6GQFgi1oqmxeM3aDwb8xQY) | 2:43 | 2025-01-24 |  |
 | [Unaccepted Complex](https://open.spotify.com/track/7x9FOsf8u8hKP33uuANICq) | [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:00 | 2024-07-18 | 2024-07-22 |

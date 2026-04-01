@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain]
 
 > Zing mee met al je favoriete Disney hits uit films als Vaiana 2, Encanto, Frozen en nog veel meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,917 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,939 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

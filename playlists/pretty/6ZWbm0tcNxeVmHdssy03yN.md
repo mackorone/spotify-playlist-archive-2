@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 51,487 likes - 99 songs - 4 hr 56 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 51,493 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 6 | [Tomorrow](https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Tomorrow](https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot) | 1:58 |
 | 7 | [Catching Up/YOLO](https://open.spotify.com/track/0QFMAzQFHA1ZQEGUFWzLma) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Catching Up/YOLO](https://open.spotify.com/album/63NRRQGR0wS5eFt1BmMbEf) | 2:42 |
 | 8 | [Rainman](https://open.spotify.com/track/2WuQbARDnVaBP6iwpZPQlQ) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Rainman](https://open.spotify.com/album/3f2ZRPxpYfzsXDdncDs6mD) | 3:20 |
-| 9 | [Five](https://open.spotify.com/track/442DKuImSYK6rV5ksG0wVc) | [KYANTII](https://open.spotify.com/artist/3ATkLfCbfC4Hx4EdtkZbVl) | [Five](https://open.spotify.com/album/2f9ROn9kHstClC5IpEVXjO) | 2:09 |
+| 9 | [5](https://open.spotify.com/track/442DKuImSYK6rV5ksG0wVc) | [KYANTII](https://open.spotify.com/artist/3ATkLfCbfC4Hx4EdtkZbVl) | [5](https://open.spotify.com/album/2f9ROn9kHstClC5IpEVXjO) | 2:09 |
 | 10 | [Right on Time](https://open.spotify.com/track/2UpobfdHJh2I2RnGO0cc1W) | [draigh](https://open.spotify.com/artist/7A89xY5ISF9lS5VDDtfi5K), [Amber Renee](https://open.spotify.com/artist/3SB10RBhQPEMLh4PMd75Km) | [Right on Time](https://open.spotify.com/album/3OZha2jxOxEb15PvAUXFNg) | 3:03 |
 | 11 | [cba](https://open.spotify.com/track/3DuNx8DJYZkae6MVFn8aRz) | [ChuggaBoom](https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3) | [cba](https://open.spotify.com/album/4rhULYdFSMvvOApZsZdgvY) | 3:15 |
 | 12 | [north star](https://open.spotify.com/track/2UXgMPwQyLgVIRwx1OwVzE) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [north star](https://open.spotify.com/album/3h0vGOhHseIMZOY424dmG7) | 2:35 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: eli wan",
+  "description": "The best new music by independent artists and labels. Cover: KSMBA",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -818,7 +818,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 118153,
       "name": "404.wav",
       "url": "https://open.spotify.com/track/06PM0CpXgogcdgOdo6ntzW"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 152012,
       "name": "Again",
       "url": "https://open.spotify.com/track/6P5veN2UbOY827qJZ4tPQf"
@@ -21963,6 +21963,24 @@
     },
     {
       "album": {
+        "name": "Empty Street",
+        "url": "https://open.spotify.com/album/6ajzQsRcUHUTlyq7fC2k8l"
+      },
+      "artists": [
+        {
+          "name": "Mainard Larkin",
+          "url": "https://open.spotify.com/artist/3wSwI2H9Z3Icyf0aypEOJb"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202751,
+      "name": "Empty Street",
+      "url": "https://open.spotify.com/track/2ObYBTcA3g0D98eVFI8fSO"
+    },
+    {
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/2KZc6BUauJzLYtxdAf6c0c"
       },
@@ -34070,7 +34088,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 176083,
       "name": "How I'm Feeling",
       "url": "https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv"
@@ -37856,6 +37874,24 @@
       "duration_ms": 164179,
       "name": "Information Overload",
       "url": "https://open.spotify.com/track/2RyGZxXzjQhsjcuApmpoA9"
+    },
+    {
+      "album": {
+        "name": "my head is a jungle in a deforestation way",
+        "url": "https://open.spotify.com/album/1FscXGFbEu6Aaq7FZqeoqd"
+      },
+      "artists": [
+        {
+          "name": "KCH",
+          "url": "https://open.spotify.com/artist/46uWTUVuDzfIAfiLA8Xfgb"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203141,
+      "name": "ingrained",
+      "url": "https://open.spotify.com/track/0z8c9tITOflVHvum6znURZ"
     },
     {
       "album": {
@@ -47898,6 +47934,24 @@
       "duration_ms": 137739,
       "name": "MOONSHINE",
       "url": "https://open.spotify.com/track/6pT3Bv88R0YJW4qPKIPz1Q"
+    },
+    {
+      "album": {
+        "name": "Moral Compass",
+        "url": "https://open.spotify.com/album/7mFr6GtN9pGWvdLhfPVrTa"
+      },
+      "artists": [
+        {
+          "name": "Chrome Cage",
+          "url": "https://open.spotify.com/artist/6lbhfHSqZZ2Z7DcNg3GKg3"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125989,
+      "name": "Moral Compass",
+      "url": "https://open.spotify.com/track/4RbtHpN1lEWeSkiR81Lf3b"
     },
     {
       "album": {
@@ -59861,6 +59915,24 @@
     },
     {
       "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1KmCB3zdqrH4cxI7c3kyTJ"
+      },
+      "artists": [
+        {
+          "name": "KSMBA",
+          "url": "https://open.spotify.com/artist/6Mlg0F6j2vEBt6d4LqGjoS"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185742,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns"
+    },
+    {
+      "album": {
         "name": "Relief",
         "url": "https://open.spotify.com/album/7b9N6UC8RGPzuvpq6zHbAP"
       },
@@ -69286,7 +69358,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 246906,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/3T7qg8B29yWLRsUaU7DUUi"

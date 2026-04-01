@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학 \(Gogohawk\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,295 songs - 3 day 6 hr 18 min
+1,296 songs - 3 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Girl Scout](https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:57 | 2021-12-21 | 2022-07-06 |
 | [Girl to a Bride](https://open.spotify.com/track/77oYxuIZpbKKRQC2DUtwkt) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [XOXO: Your Wedding Song](https://open.spotify.com/album/1VQ38HctrDL20BpOUHvf0y) | 3:26 | 2022-05-11 | 2022-06-09 |
 | [Girls](https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX) | [Naked Tapes](https://open.spotify.com/artist/0oivAG6IziMRhcAASDbP7p) | [Naked Tapes](https://open.spotify.com/album/1rY30zLb2loNmK4VpzouEY) | 3:11 | 2025-10-23 | 2026-01-27 |
+| [Give me a Sin](https://open.spotify.com/track/1Z7ppeuMBD3yZwSKfl0c1I) | [나잠 수](https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf), [MOONSUN](https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4) | [The Adventure Story of Nahzam and SSun](https://open.spotify.com/album/0ayKvVIM2rUFc1HIM2xn4g) | 3:19 | 2026-03-31 |  |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 | 2025-07-05 |
@@ -1093,7 +1094,7 @@
 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-12 | 2025-06-19 |
 | [THOUGHTS](https://open.spotify.com/track/62jVx6znQJGcqaVXtEfNeq) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [THOUGHTS](https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh) | 3:07 | 2025-01-22 | 2025-03-22 |
 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 | 2024-10-15 | 2024-11-30 |
-| [Three letters](https://open.spotify.com/track/273JKhbzY1OZaOAjhoBOw1) | [zfuul](https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx) | [Three letters](https://open.spotify.com/album/5BeRakAA3UDLcMl9fVGRgH) | 3:42 | 2026-02-23 |  |
+| [Three letters](https://open.spotify.com/track/273JKhbzY1OZaOAjhoBOw1) | [zfuul](https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx) | [Three letters](https://open.spotify.com/album/5BeRakAA3UDLcMl9fVGRgH) | 3:42 | 2026-02-23 | 2026-04-01 |
 | [Through the Lights](https://open.spotify.com/track/3KQHke0IhjnYVCp8TnWS87) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Through the Lights](https://open.spotify.com/album/2uVG48esI9I6jfX56YFb8E) | 3:46 | 2024-06-18 | 2024-12-11 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-04-21 | 2022-07-17 |
 | [Throw it Away](https://open.spotify.com/track/4FV3OjwDEG83ffiCWqVct7) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [galleria](https://open.spotify.com/album/2CUw9S2Iu1QD3mFiWeBtKo) | 3:01 | 2022-09-05 | 2022-09-21 |

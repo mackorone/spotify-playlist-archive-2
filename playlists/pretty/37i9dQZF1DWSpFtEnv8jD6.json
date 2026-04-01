@@ -1,6 +1,6 @@
 {
   "description": "Oficjalna playlista Great September Festival 2026. Pos\u0142uchaj wyj\u0105tkowych artyst\u00f3w, kt\u00f3rzy wyst\u0105pi\u0105 na festiwalu. ",
-  "num_followers": 2450,
+  "num_followers": 2449,
   "original_name": "Great September Festival",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
+        "name": "moon flowers",
+        "url": "https://open.spotify.com/album/35uthfvlUqMkcK88sURMiO"
+      },
+      "artists": [
+        {
+          "name": "lunar trips",
+          "url": "https://open.spotify.com/artist/4spEsPOTLqTB4ahvgrLEsj"
+        }
+      ],
+      "duration_ms": 243138,
+      "name": "float away, forget my name",
+      "url": "https://open.spotify.com/track/4AEMCCp6iz5de2ZUZ30npu"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
         "name": "Bezsenno\u015b\u0107",
         "url": "https://open.spotify.com/album/65gtLhABYfdIUN7OxaaHMd"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 157859,
       "name": "Bezsenno\u015b\u0107",
       "url": "https://open.spotify.com/track/1NNXRzTQsLMpfkcVoDcaUl"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
-        "name": "moon flowers",
-        "url": "https://open.spotify.com/album/35uthfvlUqMkcK88sURMiO"
-      },
-      "artists": [
-        {
-          "name": "lunar trips",
-          "url": "https://open.spotify.com/artist/4spEsPOTLqTB4ahvgrLEsj"
-        }
-      ],
-      "duration_ms": 243138,
-      "name": "float away, forget my name",
-      "url": "https://open.spotify.com/track/4AEMCCp6iz5de2ZUZ30npu"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -715,22 +715,18 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "Raj",
-        "url": "https://open.spotify.com/album/1FZ1OCXKmVz0Gh181um9Ue"
+        "name": "Niebo",
+        "url": "https://open.spotify.com/album/1KilvNbC0WVQ170j3OuEiw"
       },
       "artists": [
         {
-          "name": "INA WEST",
-          "url": "https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo"
-        },
-        {
-          "name": "Bovska",
-          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+          "name": "HELA ME RY",
+          "url": "https://open.spotify.com/artist/0xoFZYnEQDOeZDcs9PGYPO"
         }
       ],
-      "duration_ms": 280868,
-      "name": "S\u0142o\u0144ce",
-      "url": "https://open.spotify.com/track/79BC7DTXsBYQtWneShkz7s"
+      "duration_ms": 222247,
+      "name": "Niebo",
+      "url": "https://open.spotify.com/track/0PiuifdjquXeLD25OCxLX9"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -767,18 +763,22 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "Niebo",
-        "url": "https://open.spotify.com/album/1KilvNbC0WVQ170j3OuEiw"
+        "name": "Raj",
+        "url": "https://open.spotify.com/album/1FZ1OCXKmVz0Gh181um9Ue"
       },
       "artists": [
         {
-          "name": "HELA ME RY",
-          "url": "https://open.spotify.com/artist/0xoFZYnEQDOeZDcs9PGYPO"
+          "name": "INA WEST",
+          "url": "https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo"
+        },
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
         }
       ],
-      "duration_ms": 222247,
-      "name": "Niebo",
-      "url": "https://open.spotify.com/track/0PiuifdjquXeLD25OCxLX9"
+      "duration_ms": 280868,
+      "name": "S\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/79BC7DTXsBYQtWneShkz7s"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "zostawi\u0119 ci listy",
-        "url": "https://open.spotify.com/album/12zKdGw63KcVeRK2fomaOm"
-      },
-      "artists": [
-        {
-          "name": "oda nova",
-          "url": "https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU"
-        }
-      ],
-      "duration_ms": 255345,
-      "name": "zostawi\u0119 ci listy",
-      "url": "https://open.spotify.com/track/1G8fxXQ00tQZ3A6nszo8yD"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
         "name": "musz\u0119 troch\u0119 si\u0119 rozpa\u015b\u0107",
         "url": "https://open.spotify.com/album/2bSS4iqAio3vmeQboU2Frr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 201230,
       "name": "musz\u0119 troch\u0119 si\u0119 rozpa\u015b\u0107",
       "url": "https://open.spotify.com/track/1XJCkfXkcALBRQAzODt1Ku"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
+        "name": "zostawi\u0119 ci listy",
+        "url": "https://open.spotify.com/album/12zKdGw63KcVeRK2fomaOm"
+      },
+      "artists": [
+        {
+          "name": "oda nova",
+          "url": "https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU"
+        }
+      ],
+      "duration_ms": 255345,
+      "name": "zostawi\u0119 ci listy",
+      "url": "https://open.spotify.com/track/1G8fxXQ00tQZ3A6nszo8yD"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "rzeczywisto\u015b\u0107",
-        "url": "https://open.spotify.com/album/5JUfxDGY3AlKXUDuww9VuC"
-      },
-      "artists": [
-        {
-          "name": "Szklane Oczy",
-          "url": "https://open.spotify.com/artist/5mF8842akoil3e7YzQiNUb"
-        }
-      ],
-      "duration_ms": 236678,
-      "name": "Dramatyzm",
-      "url": "https://open.spotify.com/track/4lbJNqP3BrgnliNgv62fFt"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/2oCCDBjVJg3aqJsqhNYsk6"
       },
@@ -903,38 +887,18 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "Pokolenie Dobrobytu",
-        "url": "https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS"
+        "name": "rzeczywisto\u015b\u0107",
+        "url": "https://open.spotify.com/album/5JUfxDGY3AlKXUDuww9VuC"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        },
-        {
-          "name": "Ajman",
-          "url": "https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl"
+          "name": "Szklane Oczy",
+          "url": "https://open.spotify.com/artist/5mF8842akoil3e7YzQiNUb"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Pokolenie Dobrobytu",
-      "url": "https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
-        "name": "Powr\u00f3t z Gwiazd",
-        "url": "https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M"
-      },
-      "artists": [
-        {
-          "name": "Martini Police",
-          "url": "https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Salonowe Lwy",
-      "url": "https://open.spotify.com/track/4b9VXzN77fBM2AXNiKd366"
+      "duration_ms": 236678,
+      "name": "Dramatyzm",
+      "url": "https://open.spotify.com/track/4lbJNqP3BrgnliNgv62fFt"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -959,6 +923,26 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
+        "name": "Pokolenie Dobrobytu",
+        "url": "https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        },
+        {
+          "name": "Ajman",
+          "url": "https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Pokolenie Dobrobytu",
+      "url": "https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
         "name": "Wysokie Napi\u0119cie",
         "url": "https://open.spotify.com/album/0XeZiCLOEhswt7SZAAWQLn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 224347,
       "name": "Wysokie Napi\u0119cie",
       "url": "https://open.spotify.com/track/5OZdvtkxi73Lt9H36Jl6jD"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
+        "name": "Powr\u00f3t z Gwiazd",
+        "url": "https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M"
+      },
+      "artists": [
+        {
+          "name": "Martini Police",
+          "url": "https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Salonowe Lwy",
+      "url": "https://open.spotify.com/track/4b9VXzN77fBM2AXNiKd366"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "Poranki s\u0105 do dupy",
-        "url": "https://open.spotify.com/album/3TecZo5L4k0SYXuHGlqYvD"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Poranki s\u0105 do dupy",
-      "url": "https://open.spotify.com/track/6oLxMtabyKBVpeItMBPSND"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
         "name": "Piosenki z filmu Szko\u0142a uwodzenia Czes\u0142awa M.",
         "url": "https://open.spotify.com/album/4anTtHvOEhkz1PUghJP5vB"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "Powr\u00f3t z Gwiazd",
-        "url": "https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M"
+        "name": "Poranki s\u0105 do dupy",
+        "url": "https://open.spotify.com/album/3TecZo5L4k0SYXuHGlqYvD"
       },
       "artists": [
         {
-          "name": "Martini Police",
-          "url": "https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 191413,
-      "name": "B\u0142\u0119kit",
-      "url": "https://open.spotify.com/track/1qkGA4dZl2YltGAVvDMkAs"
+      "duration_ms": 155454,
+      "name": "Poranki s\u0105 do dupy",
+      "url": "https://open.spotify.com/track/6oLxMtabyKBVpeItMBPSND"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
+        "name": "Powr\u00f3t z Gwiazd",
+        "url": "https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M"
+      },
+      "artists": [
+        {
+          "name": "Martini Police",
+          "url": "https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "B\u0142\u0119kit",
+      "url": "https://open.spotify.com/track/1qkGA4dZl2YltGAVvDMkAs"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/112uxEy0Scj0oMB1OZPe4l"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 225187,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/4zfGaj4ZtKtnQFHhd9tnIH"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
-        "name": "\u015awi\u0119to Narodowe",
-        "url": "https://open.spotify.com/album/5ayyD3opaMhig7b8Cc9CRc"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "\u015awi\u0119to Narodowe",
-      "url": "https://open.spotify.com/track/2isoNskBIlVMFbtxCM7wTH"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -1115,6 +1099,38 @@
       "duration_ms": 187078,
       "name": "zmora",
       "url": "https://open.spotify.com/track/30R6FGR8SPjc0hfzWzLqjF"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
+        "name": "\u015awi\u0119to Narodowe",
+        "url": "https://open.spotify.com/album/5ayyD3opaMhig7b8Cc9CRc"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 115263,
+      "name": "\u015awi\u0119to Narodowe",
+      "url": "https://open.spotify.com/track/2isoNskBIlVMFbtxCM7wTH"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
+        "name": "serce z lukru",
+        "url": "https://open.spotify.com/album/4XHuTMZrWSIKCKIQlLFBYl"
+      },
+      "artists": [
+        {
+          "name": "misia horbatowska",
+          "url": "https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI"
+        }
+      ],
+      "duration_ms": 171415,
+      "name": "serce z lukru",
+      "url": "https://open.spotify.com/track/1vRzVC1jw74OZ6oLJKeKdz"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "lights fade, i can finally see",
-        "url": "https://open.spotify.com/album/6WAQ07gkLRtJsnojxxkEMl"
-      },
-      "artists": [
-        {
-          "name": "lunar trips",
-          "url": "https://open.spotify.com/artist/4spEsPOTLqTB4ahvgrLEsj"
-        }
-      ],
-      "duration_ms": 173784,
-      "name": "trust/lust",
-      "url": "https://open.spotify.com/track/1iAgY6gprMwYVJCg5UGsy3"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
         "name": "Jad\u0119 Jad\u0119",
         "url": "https://open.spotify.com/album/33wuaI5RY0Dt4R9iLskpSs"
       },
@@ -1235,18 +1235,34 @@
     {
       "added_at": "2026-03-26 10:00:06",
       "album": {
-        "name": "serce z lukru",
-        "url": "https://open.spotify.com/album/4XHuTMZrWSIKCKIQlLFBYl"
+        "name": "lights fade, i can finally see",
+        "url": "https://open.spotify.com/album/6WAQ07gkLRtJsnojxxkEMl"
       },
       "artists": [
         {
-          "name": "misia horbatowska",
-          "url": "https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI"
+          "name": "lunar trips",
+          "url": "https://open.spotify.com/artist/4spEsPOTLqTB4ahvgrLEsj"
         }
       ],
-      "duration_ms": 171415,
-      "name": "serce z lukru",
-      "url": "https://open.spotify.com/track/1vRzVC1jw74OZ6oLJKeKdz"
+      "duration_ms": 173784,
+      "name": "trust/lust",
+      "url": "https://open.spotify.com/track/1iAgY6gprMwYVJCg5UGsy3"
+    },
+    {
+      "added_at": "2026-03-26 10:00:06",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/6noc8SeuQD9ixwx5w0Qi6d"
+      },
+      "artists": [
+        {
+          "name": "Kkoki",
+          "url": "https://open.spotify.com/artist/2rqcRm0wthlLsTu9Hq10oz"
+        }
+      ],
+      "duration_ms": 164409,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM"
     },
     {
       "added_at": "2026-03-26 10:00:06",
@@ -1267,22 +1283,6 @@
       "duration_ms": 218659,
       "name": "Goodbye Gienia",
       "url": "https://open.spotify.com/track/1nk7KNjhJXbQS02BROyQGs"
-    },
-    {
-      "added_at": "2026-03-26 10:00:06",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/6noc8SeuQD9ixwx5w0Qi6d"
-      },
-      "artists": [
-        {
-          "name": "Kkoki",
-          "url": "https://open.spotify.com/artist/2rqcRm0wthlLsTu9Hq10oz"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM"
     },
     {
       "added_at": "2026-03-26 10:00:06",

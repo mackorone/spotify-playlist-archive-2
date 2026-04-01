@@ -1,594 +1,34 @@
 {
-  "description": "Celebrating 5 Years of EQUAL Benelux with the Top 10 most streamed Benelux women. Cover: Sevdaliza",
-  "num_followers": 14037,
+  "description": "Listen to women at full volume! April ambassador: <a href=\"spotify:artist:4FAFRhpZUK7DnI1VWX2STP\">Isabel van Gelder</a>",
+  "num_followers": 14036,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7z5SPyyWEPg/oU7pgCMVpositw",
+  "snapshot_id": "AAAAAH3sv3BcX63uUBetlU7iXXBnz9nZ",
   "tracks": [
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd"
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/0VSzTgBV31f6bVRW4emJiN"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv"
+      "duration_ms": 181364,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/40XiAOitWuV9bJKh4DHHpB"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Gece Puslu",
-        "url": "https://open.spotify.com/album/7qySLENb2zHNqTWQ3CgKTw"
-      },
-      "artists": [
-        {
-          "name": "Hadise",
-          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
-        }
-      ],
-      "duration_ms": 159062,
-      "name": "Gece Puslu",
-      "url": "https://open.spotify.com/track/1lzu13s6ag3F9RaZo4aodv"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/1fvZxBgBZ4d2goakbH6np4"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "WTBBA?!",
-        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "WTBBA?!",
-      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "GO BESTFRIEND",
-        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Eclips",
-        "url": "https://open.spotify.com/album/6k4wcGbc7oL8GNHItUtneq"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3jl0X6KiUAWM8YrumN29PQ"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Still Champagne",
-        "url": "https://open.spotify.com/album/7zpeK7KW3wkYhwSVFsl97Y"
-      },
-      "artists": [
-        {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "Still Champagne",
-      "url": "https://open.spotify.com/track/5O2Ut0Ka1wthWEuarwCWSJ"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "NOG 1 KEER",
-        "url": "https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY"
-      },
-      "artists": [
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        }
-      ],
-      "duration_ms": 149702,
-      "name": "NOG 1 KEER",
-      "url": "https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Gedoe",
-        "url": "https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R"
-      },
-      "artists": [
-        {
-          "name": "Pommelien Thijs",
-          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "IK MOET GAAN",
-      "url": "https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/66uED3xG184HSGVqHc83gF"
-      },
-      "artists": [
-        {
-          "name": "JELISA",
-          "url": "https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Bring Me Back To Life",
-      "url": "https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Miss That",
-        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 176316,
-      "name": "Miss That",
-      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Pour Some More",
-        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
-      },
-      "artists": [
-        {
-          "name": "Yas Mayou",
-          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
-        }
-      ],
-      "duration_ms": 207455,
-      "name": "Pour Some More",
-      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "AIN'T 50/50 (GIMME!)",
-        "url": "https://open.spotify.com/album/1Mjv6B1L4My8eodYTGt2J6"
-      },
-      "artists": [
-        {
-          "name": "Yael Daila",
-          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
-        }
-      ],
-      "duration_ms": 152048,
-      "name": "AIN'T 50/50 (GIMME!)",
-      "url": "https://open.spotify.com/track/5xzhfNL0EU8lImndhgpyFL"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Speak Softly",
-        "url": "https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP"
-      },
-      "artists": [
-        {
-          "name": "Lum\u00ef",
-          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Six Missed Calls",
-      "url": "https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "HOE?",
-        "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
-        }
-      ],
-      "duration_ms": 221291,
-      "name": "HOE?",
-      "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Chaos Gedoofd",
-        "url": "https://open.spotify.com/album/46wYcGY5swiNjr5S0Phvl5"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 192181,
-      "name": "Chaos Gedoofd",
-      "url": "https://open.spotify.com/track/6D3xKROcP8dL9ECYNie96G"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Iedereen Gaat Vreemd",
-        "url": "https://open.spotify.com/album/5AUkK4ahh3iAGw257s2iIx"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        }
-      ],
-      "duration_ms": 143168,
-      "name": "Iedereen Gaat Vreemd",
-      "url": "https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 224909,
-      "name": "Of Er Nog Iets Terugkaatst",
-      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Clock That",
-        "url": "https://open.spotify.com/album/75SIWnZZtZavuUB2W1t7LP"
-      },
-      "artists": [
-        {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
-        },
-        {
-          "name": "MADISON B",
-          "url": "https://open.spotify.com/artist/1XQ3jX3mHoD8y32WYCYoYc"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Clock That",
-      "url": "https://open.spotify.com/track/2MyD14fQonDQGb8WxtCWOx"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "uglyyyyy",
-        "url": "https://open.spotify.com/album/6v9LkFaQZzG41vh318wXcW"
-      },
-      "artists": [
-        {
-          "name": "gala dragot",
-          "url": "https://open.spotify.com/artist/5bec6G42etdHwqurstmocM"
-        }
-      ],
-      "duration_ms": 140163,
-      "name": "uglyyyyy",
-      "url": "https://open.spotify.com/track/0aYZQfX2qnHkKPW9s4WspZ"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV"
-      },
-      "artists": [
-        {
-          "name": "Jada Faith",
-          "url": "https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL"
-        },
-        {
-          "name": "Lucky Jones",
-          "url": "https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Aren't You Tired",
-        "url": "https://open.spotify.com/album/59y1ZbClC9mCgUatBmYeaz"
-      },
-      "artists": [
-        {
-          "name": "\u00c3o",
-          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
-        }
-      ],
-      "duration_ms": 312812,
-      "name": "Aren't You Tired",
-      "url": "https://open.spotify.com/track/3HtG86JemAtV2zDIasCeQt"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 216561,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "A Prayer for the Dancefloor",
-        "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Conduit",
-          "url": "https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy"
-        }
-      ],
-      "duration_ms": 414918,
-      "name": "A Prayer for the Dancefloor (feat. Conduit)",
-      "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "La chanson d'amour",
-        "url": "https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "La chanson d'amour",
-      "url": "https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "passenger seat",
-        "url": "https://open.spotify.com/album/2wclbCdkXyGEB5s3aGU96X"
-      },
-      "artists": [
-        {
-          "name": "Marigo Bay",
-          "url": "https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "passenger seat",
-      "url": "https://open.spotify.com/track/2h4q3iFpwLUubKSyxN59gR"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "My Anger Is All Over the Place / The Belly of the Whale",
-        "url": "https://open.spotify.com/album/0x72q6d63TvJ0JOkUo1Jur"
-      },
-      "artists": [
-        {
-          "name": "Kaya",
-          "url": "https://open.spotify.com/artist/6tyCabPUFMlCxB5NxICFtK"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "My Anger Is All Over the Place",
-      "url": "https://open.spotify.com/track/7HDALTk2ZJll63ylOEjpVj"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/6WOxkpJzxMVWT25TVMml1A"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6EWrY9XyCACjuld4xjV67Q"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "See",
-        "url": "https://open.spotify.com/album/0ltH3hoX6VqCHXJMVcAWUF"
-      },
-      "artists": [
-        {
-          "name": "LAKSHMI",
-          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
-        }
-      ],
-      "duration_ms": 225771,
-      "name": "See",
-      "url": "https://open.spotify.com/track/2EYxf3aJTrrGXUJ7zted8q"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Think Straight",
-        "url": "https://open.spotify.com/album/4J4kF36b40mMzbQgeFsoWl"
-      },
-      "artists": [
-        {
-          "name": "Janet Livv",
-          "url": "https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Think Straight",
-      "url": "https://open.spotify.com/track/1UGbGeTBmpkhX4rrGowTqU"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Kill Your Darlings",
-        "url": "https://open.spotify.com/album/741JelYtgxkcFsiuMLhJ2a"
-      },
-      "artists": [
-        {
-          "name": "GUNMOLL",
-          "url": "https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba"
-        }
-      ],
-      "duration_ms": 210646,
-      "name": "Wanna Be A Star",
-      "url": "https://open.spotify.com/track/2LFusirpdr5zhGgEWeRKj0"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
       },
       "artists": [
         {
@@ -596,87 +36,15 @@
           "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/4Ur6nF6IiZp5EMDBiDDMoR"
-      },
-      "artists": [
-        {
-          "name": "Yori",
-          "url": "https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Jardin",
-      "url": "https://open.spotify.com/track/7cjj0K23pHBYL93M1f5w9e"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Rekensom",
-        "url": "https://open.spotify.com/album/2KUG1T7acDMOBpPUazomuR"
-      },
-      "artists": [
-        {
-          "name": "Mus Dam\u00e9",
-          "url": "https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R"
-        }
-      ],
-      "duration_ms": 176366,
-      "name": "Rekensom",
-      "url": "https://open.spotify.com/track/5fP2wbY8JNWrjRmzxdIBlk"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/7d3JVxiJ5QX9zy0uIMmius"
-      },
-      "artists": [
-        {
-          "name": "B O I",
-          "url": "https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1k4upv7m2USXZdXEbXvgzf"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/1zOSBPkglR70Szp3nRheZP"
-      },
-      "artists": [
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
-        },
-        {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/5agOHSvAxOPKvAhvnvfLIl"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Birkin Bag",
-        "url": "https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo"
+        "name": "Just A Girl",
+        "url": "https://open.spotify.com/album/17Cy5j0Oajyx6HwVGh3zh5"
       },
       "artists": [
         {
@@ -684,119 +52,67 @@
           "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
         },
         {
-          "name": "Latifah",
-          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
+          "name": "Sarita Lorena",
+          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Birkin Bag",
-      "url": "https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5"
+      "duration_ms": 154960,
+      "name": "Als Jij Het Weet",
+      "url": "https://open.spotify.com/track/4X0txCyuKYVnJALD2AmFTD"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Voicemail",
-        "url": "https://open.spotify.com/album/281zKhMF6X69jaELmnZyzN"
+        "name": "Komt Goed",
+        "url": "https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs"
       },
       "artists": [
         {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
         }
       ],
-      "duration_ms": 174976,
-      "name": "Voicemail",
-      "url": "https://open.spotify.com/track/3Kig5BQqlNUr1cOIppFM1h"
+      "duration_ms": 148070,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Beautiful Mess",
-        "url": "https://open.spotify.com/album/6bm6T2MRbyeAXxcO4nMmoX"
+        "name": "Rave Kid",
+        "url": "https://open.spotify.com/album/4bmleREWHhjbxCviUJ6F12"
       },
       "artists": [
         {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
         }
       ],
-      "duration_ms": 212160,
-      "name": "Beautiful Mess",
-      "url": "https://open.spotify.com/track/2dZIoulgnRtWqCezUOZWWK"
+      "duration_ms": 204387,
+      "name": "Rave Kid",
+      "url": "https://open.spotify.com/track/6KZsffg6OXQPOXOIszb5HK"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/7606To8GLyeHpaoqYGXHV2"
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
         }
       ],
-      "duration_ms": 186181,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2lMmDkuqE6VkXu8wgecFak"
+      "duration_ms": 201118,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/1O7KY6W9j5cFlKL2fULVu8"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 192995,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/4HNUdzBVdmgplkByXzHlr9"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Na\u00efef",
-        "url": "https://open.spotify.com/album/0LrADygADgUIYkEKaDbCon"
-      },
-      "artists": [
-        {
-          "name": "Ceder",
-          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Na\u00efef",
-      "url": "https://open.spotify.com/track/5p78CX7uVPoy6FOQpRbcyp"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Read your mind",
-        "url": "https://open.spotify.com/album/3Vps5Z3U7Olckaejld1vxX"
-      },
-      "artists": [
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
-        },
-        {
-          "name": "This is Lema",
-          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
-        }
-      ],
-      "duration_ms": 172978,
-      "name": "Read your mind",
-      "url": "https://open.spotify.com/track/6ssin4cnAtYKyU1FupLa6J"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "In Between Station",
-        "url": "https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq"
+        "name": "Loyal Friend Of The Night",
+        "url": "https://open.spotify.com/album/2jtjDxSNYPwYG83iU8LQml"
       },
       "artists": [
         {
@@ -804,651 +120,67 @@
           "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
         }
       ],
-      "duration_ms": 206083,
-      "name": "In Between Station",
-      "url": "https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ"
+      "duration_ms": 202492,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1Xc34ytVqT7oijRyNsoeQh"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "belong together",
-        "url": "https://open.spotify.com/album/49mv0lF7wW45nV193iH1QG"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Love Smith",
-          "url": "https://open.spotify.com/artist/4emTiCvaHi6f9oiK3PhliN"
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
         },
         {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6"
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
         }
       ],
-      "duration_ms": 195528,
-      "name": "belong together",
-      "url": "https://open.spotify.com/track/7JKFNv34czYbvb5FLPtt42"
+      "duration_ms": 118731,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq"
+        "name": "cracks beneath my skin",
+        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
       },
       "artists": [
         {
-          "name": "Felix Hien",
-          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
-        },
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
         }
       ],
-      "duration_ms": 156469,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH"
+      "duration_ms": 185082,
+      "name": "cracks beneath my skin",
+      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Sweet Sixteen",
-        "url": "https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI"
+        "name": "Light Over You",
+        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
       },
       "artists": [
         {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+          "name": "Janna",
+          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
         }
       ],
-      "duration_ms": 241840,
-      "name": "Sweet Sixteen",
-      "url": "https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP"
+      "duration_ms": 176746,
+      "name": "Light Over You",
+      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Gedoemd Te Mislukken",
-        "url": "https://open.spotify.com/album/6veVuNUi2Ges3ZacZzyhUe"
-      },
-      "artists": [
-        {
-          "name": "Sleeq",
-          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Gedoemd Te Mislukken",
-      "url": "https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Polaroid",
-        "url": "https://open.spotify.com/album/5euf6AsCmjTB1upXRmaII0"
-      },
-      "artists": [
-        {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
-        },
-        {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/4jUlyXRwL5C2BhqgZ4UR3Y"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Panther",
-        "url": "https://open.spotify.com/album/43BDqqrw7VfSqxNwvdNMJK"
-      },
-      "artists": [
-        {
-          "name": "Elis Floreen",
-          "url": "https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Panther",
-      "url": "https://open.spotify.com/track/2aMOaIphaddM0Xc4pVeen6"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Malandra",
-        "url": "https://open.spotify.com/album/5azfYN3PqeXTNfC00wvKs1"
-      },
-      "artists": [
-        {
-          "name": "\u00c3o",
-          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
-        }
-      ],
-      "duration_ms": 249564,
-      "name": "Malandra",
-      "url": "https://open.spotify.com/track/5tyZkqjDE7lU5VEU5pFgXZ"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Reste-l\u00e0",
-        "url": "https://open.spotify.com/album/23BSbjW6KM8RvQ3x7aoFNU"
-      },
-      "artists": [
-        {
-          "name": "Marigo Bay",
-          "url": "https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3"
-        }
-      ],
-      "duration_ms": 136077,
-      "name": "Reste-l\u00e0",
-      "url": "https://open.spotify.com/track/7iQERUcVc69LftJ9rXGFkb"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Falling Into Acid Dreams",
-        "url": "https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 244542,
-      "name": "Falling Into Acid Dreams",
-      "url": "https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Forest Road",
-        "url": "https://open.spotify.com/album/08Yr7eMJUYfpQstzKukayu"
-      },
-      "artists": [
-        {
-          "name": "Sophia Ammann",
-          "url": "https://open.spotify.com/artist/2N4R8EDUwfZfdUeaDxdce8"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "Forest Road",
-      "url": "https://open.spotify.com/track/5bju9YmuLASDnDXZjjVTQL"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Victim",
-        "url": "https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lou",
-          "url": "https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ"
-        },
-        {
-          "name": "Jerr",
-          "url": "https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "No stress zone",
-        "url": "https://open.spotify.com/album/0kh2WQprmeAATldxsuum22"
-      },
-      "artists": [
-        {
-          "name": "Nyarko",
-          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "No stress zone",
-      "url": "https://open.spotify.com/track/1Atd9ieir1NXGz9rTBiG5c"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Onderweg naar jou",
-        "url": "https://open.spotify.com/album/2qLtFTUse1S8plx7ZK9ic8"
-      },
-      "artists": [
-        {
-          "name": "Mikki van Wijk",
-          "url": "https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW"
-        }
-      ],
-      "duration_ms": 152598,
-      "name": "Onderweg naar jou",
-      "url": "https://open.spotify.com/track/6zdg8VKwiyqDzwBzBg1cIj"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Midnight Stalker",
-        "url": "https://open.spotify.com/album/54JidJRryMs1ZRD4hR5uDy"
-      },
-      "artists": [
-        {
-          "name": "Sophia",
-          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
-        }
-      ],
-      "duration_ms": 192375,
-      "name": "Midnight Stalker",
-      "url": "https://open.spotify.com/track/53Dkgsp9tpqJvfGJZgpkCv"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Rain On My Skin",
-        "url": "https://open.spotify.com/album/3of09XeGKCht2DLzSxQfnq"
-      },
-      "artists": [
-        {
-          "name": "L.A. Sagne",
-          "url": "https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Rain On My Skin",
-      "url": "https://open.spotify.com/track/3489qGkKIyYB9Gdz7LD5PA"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Winterkind",
-        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
-      },
-      "artists": [
-        {
-          "name": "Lindi",
-          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Winterkind",
-      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Snelle Pattas",
-        "url": "https://open.spotify.com/album/49RQXlYZuaooMrbj0CdtNm"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 158843,
-      "name": "Snelle Pattas",
-      "url": "https://open.spotify.com/track/1vqsu7lwcdpBJRxowZzImX"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Morning Star",
-        "url": "https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT"
-      },
-      "artists": [
-        {
-          "name": "Pitou",
-          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Morning Star",
-      "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Red Sky",
-        "url": "https://open.spotify.com/album/6VJMQTYFVCKgpH0EusvdJX"
-      },
-      "artists": [
-        {
-          "name": "Anneke van Giersbergen",
-          "url": "https://open.spotify.com/artist/6TZqJnkAytY8HFQBEdDF8v"
-        }
-      ],
-      "duration_ms": 239419,
-      "name": "Red Sky",
-      "url": "https://open.spotify.com/track/1UR4QakyLcYXJJLpqbuexD"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/7lPEwMyECa59UAbky7plMi"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/2GQoBWigNKFN0F9l5wkMlX"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Tiny Changes",
-        "url": "https://open.spotify.com/album/3Ai2CBSUsItD7mKcqWWYig"
-      },
-      "artists": [
-        {
-          "name": "Silver Lake",
-          "url": "https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Tiny Changes",
-      "url": "https://open.spotify.com/track/5DyNPFCeW5RGDCpiK5ZwXv"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Neem Me",
-        "url": "https://open.spotify.com/album/4Ng9dLdhxDLOfN1P5nUF6P"
-      },
-      "artists": [
-        {
-          "name": "Sarah Janneh",
-          "url": "https://open.spotify.com/artist/7J68xBU9g7G3C46TE5VZdW"
-        }
-      ],
-      "duration_ms": 204671,
-      "name": "Neem Me",
-      "url": "https://open.spotify.com/track/2a9wO4W7vJHURI1mtBhvcV"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Divine Feminine",
-        "url": "https://open.spotify.com/album/2OquIrh9ivJyYPS5WPSccA"
-      },
-      "artists": [
-        {
-          "name": "Lubiana",
-          "url": "https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q"
-        }
-      ],
-      "duration_ms": 171802,
-      "name": "Divine Feminine",
-      "url": "https://open.spotify.com/track/64S2owqJvL9ScOUhURNThN"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "(K)NOT",
-        "url": "https://open.spotify.com/album/2f55idbVWLlH3yTs04I7GX"
-      },
-      "artists": [
-        {
-          "name": "Blu Samu",
-          "url": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
-        }
-      ],
-      "duration_ms": 142266,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/287Te61w55Oz2OlxCxFRaV"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Rivier",
-        "url": "https://open.spotify.com/album/32xMLOBt7IDTrWiHYxX5uo"
-      },
-      "artists": [
-        {
-          "name": "Elieve",
-          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Rivier",
-      "url": "https://open.spotify.com/track/6CfzdRvHnvo9jcy7Zxd8wC"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Nog Een Keer",
-        "url": "https://open.spotify.com/album/0vVAyMrHBhDruuvBidivip"
-      },
-      "artists": [
-        {
-          "name": "Denise Kroes",
-          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
-        }
-      ],
-      "duration_ms": 164619,
-      "name": "Nog Een Keer",
-      "url": "https://open.spotify.com/track/1JXgCvjhdDrCO2lRm21mw6"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "I Can\u2019t Win",
-        "url": "https://open.spotify.com/album/39FbspoePNxq4byTBM5H6M"
-      },
-      "artists": [
-        {
-          "name": "Caro",
-          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
-        }
-      ],
-      "duration_ms": 210085,
-      "name": "I Can\u2019t Win",
-      "url": "https://open.spotify.com/track/3RR4Wmb9NaHyUPwBac0Pn3"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/60sT1U2Szh3fSlVTFrGWuS"
-      },
-      "artists": [
-        {
-          "name": "Julia Rebi\u00e8re",
-          "url": "https://open.spotify.com/artist/3yiyvhlHgefS4Flk1FUAGK"
-        }
-      ],
-      "duration_ms": 205020,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/0Vzs2KjrNBx7xzAGZPvk5g"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Weather Girl",
-        "url": "https://open.spotify.com/album/4Ic2u3YfKjKkrVZ8RCyW2O"
-      },
-      "artists": [
-        {
-          "name": "Trixie Whitley",
-          "url": "https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Weather Girl",
-      "url": "https://open.spotify.com/track/29syUSVlsAYn4vVj6AOTVn"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "OMG!",
-        "url": "https://open.spotify.com/album/4UjeSKVDDwH50ERpgXPsVa"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs"
-        }
-      ],
-      "duration_ms": 140750,
-      "name": "OMG!",
-      "url": "https://open.spotify.com/track/0JyiYUkQfMEBKLyFvnCh2m"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Skip",
-        "url": "https://open.spotify.com/album/4rDXKzLKq7dg9Z8pKOeAlJ"
-      },
-      "artists": [
-        {
-          "name": "M. Lucky",
-          "url": "https://open.spotify.com/artist/78t0BT9DeKdbggUw16Ghvt"
-        }
-      ],
-      "duration_ms": 137866,
-      "name": "Skip",
-      "url": "https://open.spotify.com/track/7pYrFqnaQxEQiM4phCntG1"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Dancing on the ice",
-        "url": "https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD"
-      },
-      "artists": [
-        {
-          "name": "Essyla",
-          "url": "https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Dancing on the ice",
-      "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Golden Sun",
-        "url": "https://open.spotify.com/album/5be6RMj2mzfppeyNWwhOrq"
-      },
-      "artists": [
-        {
-          "name": "Michelle David & The True-tones",
-          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Golden Sun",
-      "url": "https://open.spotify.com/track/4jGh4qWS3fNstPVGNXGaxR"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/43y4f0ITYpeBsGDBjXbKGL"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 168018,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2BK8eF0egnAhLq8lvG91qq"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "SOAP",
-        "url": "https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9"
-      },
-      "artists": [
-        {
-          "name": "ZYHH",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "SOAP",
-      "url": "https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Where It Hurts",
-        "url": "https://open.spotify.com/album/49DPnEkK6r9FqqkOPp1Eib"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 164267,
-      "name": "Where It Hurts",
-      "url": "https://open.spotify.com/track/2Sqj1K35PogUxvsVALBMRo"
-    },
-    {
-      "added_at": "2026-03-19 14:00:05",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/3EXkmEMlnEh2BfExp4jZOH"
+        "name": "Letters To My Habits",
+        "url": "https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln"
       },
       "artists": [
         {
@@ -1456,153 +188,1241 @@
           "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
         }
       ],
-      "duration_ms": 171339,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2I3dBfT6TKeAz94hK4RmJr"
+      "duration_ms": 165785,
+      "name": "What A Way To Die",
+      "url": "https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6vH4VuIH29cx6laIIbAxtL"
+        "name": "I Am June",
+        "url": "https://open.spotify.com/album/2WGkOXxTTMXnWJuZU3bJuG"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Romy Liz Rose",
+          "url": "https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/2Grp2IRpIyRtCxECP6jkxh"
+      "duration_ms": 283306,
+      "name": "I Am June",
+      "url": "https://open.spotify.com/track/6XVXt2XiXZY0ngdQy7wBTW"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Pittsburgh In The Rain",
-        "url": "https://open.spotify.com/album/5JHW5vMc6vNIJwmrql3yDT"
+        "name": "Je Hoeft Niet Zo Sterk Te Zijn",
+        "url": "https://open.spotify.com/album/2o9jTmxfOzvDsgDSSOcqAq"
       },
       "artists": [
         {
-          "name": "Nadie Reyhani",
-          "url": "https://open.spotify.com/artist/1zlxpftP7EKWTDOdP56xbj"
+          "name": "Claudia De Breij",
+          "url": "https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o"
+        },
+        {
+          "name": "Ramses Shaffy",
+          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
         }
       ],
-      "duration_ms": 177229,
-      "name": "Pittsburgh In The Rain",
-      "url": "https://open.spotify.com/track/3rjbO9E7Fb8UMzgCkGlp0k"
+      "duration_ms": 211597,
+      "name": "Je Hoeft Niet Zo Sterk Te Zijn",
+      "url": "https://open.spotify.com/track/6hhHqKB6yOSTJ6pH68ek3t"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0vH9VutyunUkBNlfSFvY0J"
+        "name": "counsel me !",
+        "url": "https://open.spotify.com/album/7j5HLJUCYsHlKoJkL4gcFf"
       },
       "artists": [
         {
-          "name": "Faye Ven",
-          "url": "https://open.spotify.com/artist/2VDjUeNSg2RDbJB7Tv6gPV"
+          "name": "gala dragot",
+          "url": "https://open.spotify.com/artist/5bec6G42etdHwqurstmocM"
         }
       ],
-      "duration_ms": 172578,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/5ezSSTLbFiK1iZEI2OS3N7"
+      "duration_ms": 249791,
+      "name": "counsel me !",
+      "url": "https://open.spotify.com/track/09uKZrsSmoqPelzI6NqRXW"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Liefde & Lust",
-        "url": "https://open.spotify.com/album/1AG1QVhb9RJZSR02v9N3TI"
+        "name": "Hardop",
+        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
       },
       "artists": [
         {
-          "name": "Renee Rose",
-          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
         }
       ],
-      "duration_ms": 182051,
-      "name": "Liefde & Lust",
-      "url": "https://open.spotify.com/track/0tXly2pbCr5wPpZtT1fqvS"
+      "duration_ms": 149280,
+      "name": "Los Los Vast",
+      "url": "https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Too Much Love To Give",
-        "url": "https://open.spotify.com/album/6C7twQZSwbCHr2WUB7Wtv4"
+        "name": "With Every Heartbeat",
+        "url": "https://open.spotify.com/album/2mJSN9REiMiZyGyYUkdY4g"
       },
       "artists": [
         {
-          "name": "Gis\u00e8le",
-          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
         }
       ],
-      "duration_ms": 172673,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3t4aPmEprGNSSxXfdcmgTe"
+      "duration_ms": 194337,
+      "name": "With Every Heartbeat",
+      "url": "https://open.spotify.com/track/5Y4Wcbq7o4UbNhIOj68BiY"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Diary of a HoodBi$h",
-        "url": "https://open.spotify.com/album/3DDjNnUmTbJ7CQbI36Y3RN"
+        "name": "Rode Seks Feeks",
+        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
       },
       "artists": [
         {
-          "name": "Crystal Chanay",
-          "url": "https://open.spotify.com/artist/6D4VxzGsjglppXf6e32zzd"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 115662,
-      "name": "Money & Fame",
-      "url": "https://open.spotify.com/track/5udPoJ4stCyC5KwzUqRKws"
+      "duration_ms": 167381,
+      "name": "Rode Seks Feeks",
+      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Material Girl",
-        "url": "https://open.spotify.com/album/1jOUvzA5m59zNBjdU5gxvI"
+        "name": "Bought Me A Guitar",
+        "url": "https://open.spotify.com/album/4Vqylkfp1XEmdwx533duY1"
       },
       "artists": [
         {
-          "name": "Twiggii Quinn",
-          "url": "https://open.spotify.com/artist/1C0X7T34PBMni6dDFGkNQY"
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
         }
       ],
-      "duration_ms": 178071,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/2AV3mtpJ1U3oHXJKJUYwGk"
+      "duration_ms": 249360,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/16xeq3pPRpd5tkD57fMJqY"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "paper trails",
-        "url": "https://open.spotify.com/album/4qEXacsXLbLSuf45N5qqGD"
+        "name": "Ik Ben Niet Meer Bang",
+        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
       },
       "artists": [
         {
-          "name": "Jeanna",
-          "url": "https://open.spotify.com/artist/58bAvqDgmWruy0hrJtH3A0"
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 201111,
-      "name": "paper trails",
-      "url": "https://open.spotify.com/track/2BzLXDWP0Og25NFCOPtdM4"
+      "duration_ms": 181326,
+      "name": "Ik Ben Niet Meer Bang",
+      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
     },
     {
-      "added_at": "2026-03-19 14:00:05",
+      "added_at": "2026-03-31 22:00:09",
       "album": {
-        "name": "Dat Kan Toch Niet Verboden Zijn...",
-        "url": "https://open.spotify.com/album/2HwhNojkapxQfOUYFvT1DG"
+        "name": "Ik Zwaai Je Uit",
+        "url": "https://open.spotify.com/album/4YtvLcjAsAS9BFRp35GLTM"
       },
       "artists": [
         {
-          "name": "Jessy Arjaans",
-          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
         }
       ],
-      "duration_ms": 170307,
-      "name": "Dat Kan Toch Niet Verboden Zijn...",
-      "url": "https://open.spotify.com/track/6QO4VE0iVeg3QUPcRKbQji"
+      "duration_ms": 191052,
+      "name": "Ik Zwaai Je Uit",
+      "url": "https://open.spotify.com/track/5Gs7tyCa8PArZ5d8zMK5w3"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "blind",
+        "url": "https://open.spotify.com/album/77LigDv2MjixBi3sh4FNLc"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "duration_ms": 210637,
+      "name": "blind",
+      "url": "https://open.spotify.com/track/2Juuq3nXnKIUziolpB5IaR"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6W0OJwruftgimcKiuLXHD5"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Pa Ti (Bachata Tradicional)",
+        "url": "https://open.spotify.com/album/1Er4eFBRdPnkYbqnf99BAw"
+      },
+      "artists": [
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        },
+        {
+          "name": "Grupo Extra",
+          "url": "https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS"
+        }
+      ],
+      "duration_ms": 153390,
+      "name": "Pa Ti - Bachata Tradicional",
+      "url": "https://open.spotify.com/track/4LmHWm98NogFBfdsxSzJYU"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Ik Wil Je Helemaal",
+        "url": "https://open.spotify.com/album/2ZhPISAto7OhMhu3oNCc8D"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "duration_ms": 167166,
+      "name": "Ik Wil Je Helemaal",
+      "url": "https://open.spotify.com/track/3QxvbBt6GnNZ8AbWNO8CoN"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Bowie's Pressure",
+        "url": "https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "duration_ms": 192365,
+      "name": "Bowie's Pressure",
+      "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Only Water (Feat. Lady Donli)",
+        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Only Water - Feat. Lady Donli",
+      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Eyes Wide",
+        "url": "https://open.spotify.com/album/4sdkGycSaYg4n4O7rCi8a8"
+      },
+      "artists": [
+        {
+          "name": "CUT_",
+          "url": "https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL"
+        }
+      ],
+      "duration_ms": 146083,
+      "name": "Eyes Wide",
+      "url": "https://open.spotify.com/track/3RYnZF3SYTxQ8Mys5daMzd"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Vertrouw Niemand",
+        "url": "https://open.spotify.com/album/6Kkxkrjci5izGVL4q5ekag"
+      },
+      "artists": [
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Vertrouw Niemand",
+      "url": "https://open.spotify.com/track/6OWhm03iyWFTX6UM8FGzcY"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Tales of an Empath",
+        "url": "https://open.spotify.com/album/5RB9iuHKiypfIakhraObNZ"
+      },
+      "artists": [
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "duration_ms": 198730,
+      "name": "Best Side Of You",
+      "url": "https://open.spotify.com/track/0hWcGYJ8zeQ6TtiaTMEiOe"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Fallen Angels",
+        "url": "https://open.spotify.com/album/1dronIYa4y1p9BNHOC9LpC"
+      },
+      "artists": [
+        {
+          "name": "ROSEYE",
+          "url": "https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy"
+        }
+      ],
+      "duration_ms": 260810,
+      "name": "Fallen Angels",
+      "url": "https://open.spotify.com/track/3BlYetXXRSqm5ncpxSsm4R"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "So Bad (bonus track)",
+        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "duration_ms": 120593,
+      "name": "So Bad - bonus track",
+      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Onafgehaald Bundeltje",
+        "url": "https://open.spotify.com/album/33WpOtThuNxsVPu0SmypEd"
+      },
+      "artists": [
+        {
+          "name": "Karsu",
+          "url": "https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB"
+        }
+      ],
+      "duration_ms": 236127,
+      "name": "Onafgehaald Bundeltje",
+      "url": "https://open.spotify.com/track/7HOKv8qLoI4eKACQl4LTE4"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "I Don't Know (feat. LAUD)",
+        "url": "https://open.spotify.com/album/7BJTQf6z0lDqSqgK1iLhED"
+      },
+      "artists": [
+        {
+          "name": "Nina Black",
+          "url": "https://open.spotify.com/artist/4MrM6Zcl4kd5ebBoRoObmO"
+        },
+        {
+          "name": "LAUD",
+          "url": "https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB"
+        }
+      ],
+      "duration_ms": 150021,
+      "name": "I Don't Know (feat. LAUD)",
+      "url": "https://open.spotify.com/track/1qwREk6DrT6AV25E2B7Xx5"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Dreama",
+        "url": "https://open.spotify.com/album/64MrUxf1IdsRCzxIjlnuUE"
+      },
+      "artists": [
+        {
+          "name": "Typh Barrow",
+          "url": "https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM"
+        }
+      ],
+      "duration_ms": 176818,
+      "name": "On My Shoulders",
+      "url": "https://open.spotify.com/track/69Y3iU34zvgsxd8kEltSiS"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Hot Glue",
+        "url": "https://open.spotify.com/album/6GPcWnPSQErEoPSiOmPvc8"
+      },
+      "artists": [
+        {
+          "name": "Maryn Charlie",
+          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
+        }
+      ],
+      "duration_ms": 165571,
+      "name": "Hot Glue",
+      "url": "https://open.spotify.com/track/5bZIqmnOVJaq6z4z5MtZN1"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "SCHADE",
+        "url": "https://open.spotify.com/album/4ARcTjBZuBiYvGZvZk2vvS"
+      },
+      "artists": [
+        {
+          "name": "TJE",
+          "url": "https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb"
+        }
+      ],
+      "duration_ms": 187521,
+      "name": "Stillend",
+      "url": "https://open.spotify.com/track/4krCZu3rQ3tTFpKFp2xTOM"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Met de tijd",
+        "url": "https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW"
+      },
+      "artists": [
+        {
+          "name": "Anouk & Yora",
+          "url": "https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Met de tijd",
+      "url": "https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "La Mort",
+        "url": "https://open.spotify.com/album/0yi5SxLVzScEX8ANSJtUs4"
+      },
+      "artists": [
+        {
+          "name": "Anneke van Giersbergen",
+          "url": "https://open.spotify.com/artist/6TZqJnkAytY8HFQBEdDF8v"
+        }
+      ],
+      "duration_ms": 338669,
+      "name": "Fade In Fade Out",
+      "url": "https://open.spotify.com/track/4O9e2AbelF5IgXzhxKfd19"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Nu Nog Niet - Josephine Odhil versie",
+        "url": "https://open.spotify.com/album/7CGFASyw6vLfX2AdpoY7l4"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        },
+        {
+          "name": "Josephine Odhil",
+          "url": "https://open.spotify.com/artist/3dBiZ9QHHuXQhb1Ni8BAYl"
+        }
+      ],
+      "duration_ms": 162394,
+      "name": "Nu Nog Niet - Josephine Odhil versie",
+      "url": "https://open.spotify.com/track/0H4jonrXvaYd2jZHuCmR1N"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/63QUlS0KX5pEE6ghaxBC03"
+      },
+      "artists": [
+        {
+          "name": "LAKSHMI",
+          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
+        }
+      ],
+      "duration_ms": 249875,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/0gXMDFR8g6tp7TTxBI4ypW"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Rover",
+        "url": "https://open.spotify.com/album/7CTmrkdSxsFGA6XKdxHyTf"
+      },
+      "artists": [
+        {
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+        }
+      ],
+      "duration_ms": 202110,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/1QadzCHYOqNnPORlMOLNbN"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/01chO9HowxXCWl9eZtFFt1"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/4cqK0ZHV9TnQqx2qQHroXy"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Wheel of Life",
+        "url": "https://open.spotify.com/album/4q6FxKitNH7QpWISZN92Kr"
+      },
+      "artists": [
+        {
+          "name": "MOUQI",
+          "url": "https://open.spotify.com/artist/03xGpZtg8s4AkgvFdrem4f"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "Wheel of Life",
+      "url": "https://open.spotify.com/track/2M2HYi8Y7EMFuKn87pahmI"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "tu me manques",
+        "url": "https://open.spotify.com/album/1PqeiuxMzUiRN5RRQlvkKs"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "tu me manques",
+      "url": "https://open.spotify.com/track/05kQsZQjZ20wu3Ku791ie9"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Get it wrong",
+        "url": "https://open.spotify.com/album/6HSvZXxHcg9yy3OVSadSFh"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 194885,
+      "name": "Get it wrong",
+      "url": "https://open.spotify.com/track/1M4p6SpM5H4WcYenCuAbJD"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Movin'",
+        "url": "https://open.spotify.com/album/0oXtQl9dM4b0iqRenoRWDV"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        {
+          "name": "The Gallands",
+          "url": "https://open.spotify.com/artist/3V7kDBsTTCHub0FQBPCzMm"
+        },
+        {
+          "name": "St\u00e9phane Galland",
+          "url": "https://open.spotify.com/artist/1tj1I6guCFUOGJdhB3f5j6"
+        },
+        {
+          "name": "Elvin Galland",
+          "url": "https://open.spotify.com/artist/2cnAbjaRyAYlMqqhcvvppP"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/6U0LFxNdqo8F2oXgGDgR2E"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/4A4WlSzQnX102wvX7Ahukg"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 223568,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/23I0i2MXMFtkDwRHRiHTlX"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "P2",
+        "url": "https://open.spotify.com/album/5iz1rSn6RE71oi9pzvciMu"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Restlessness",
+      "url": "https://open.spotify.com/track/3LNJumfT16lWilnaWb6GUf"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4okBJjcENmo4UG8IoDTRif"
+      },
+      "artists": [
+        {
+          "name": "Nyarko",
+          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0qEVPzmM6ObwAVx7US2hCR"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Bite my Tongue",
+        "url": "https://open.spotify.com/album/3DZLthB6OsGIDkBavRfySj"
+      },
+      "artists": [
+        {
+          "name": "Veya",
+          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Bite my Tongue",
+      "url": "https://open.spotify.com/track/4LXIWFdjyvBFeiRS4gLjNH"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Hands in di Air",
+        "url": "https://open.spotify.com/album/14QIAxL0j1gVVY5fWkSHLB"
+      },
+      "artists": [
+        {
+          "name": "Zanillya",
+          "url": "https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p"
+        },
+        {
+          "name": "Humphrey Dennis",
+          "url": "https://open.spotify.com/artist/6BcgdXb4SkZ1Rusdb8IckU"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Hands in di Air",
+      "url": "https://open.spotify.com/track/6JOSj6JLNmG6MLTrne4YCv"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6pvH9moakzrqZERZFVtzvy"
+      },
+      "artists": [
+        {
+          "name": "Chiara Meloni",
+          "url": "https://open.spotify.com/artist/5xF4ia5WWdSPbkKl9m5Nrq"
+        }
+      ],
+      "duration_ms": 167661,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/5lMqOMFyLJGraGkyQMKLPb"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/3BbZNPbqX20SgKr3aRJrJq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Stone",
+          "url": "https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI"
+        }
+      ],
+      "duration_ms": 170406,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7amxQEY1AzZZOkGPN3azd5"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "My Desire",
+        "url": "https://open.spotify.com/album/2pDyZ9T6kPMKM1JnefN9Pz"
+      },
+      "artists": [
+        {
+          "name": "Janet Livv",
+          "url": "https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "My Desire",
+      "url": "https://open.spotify.com/track/1BxQYeT1Nj0JSYs2n41lVs"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 248019,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "A12",
+        "url": "https://open.spotify.com/album/1sQThsHCsZxdBU8uKvjiiT"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "duration_ms": 149706,
+      "name": "A12",
+      "url": "https://open.spotify.com/track/1Ebwz3WncsNCnK2X3BhfWg"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Uncontrollable",
+        "url": "https://open.spotify.com/album/2alt5DZaz1ASbGT8Hoa2yD"
+      },
+      "artists": [
+        {
+          "name": "Marilu",
+          "url": "https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd"
+        }
+      ],
+      "duration_ms": 169568,
+      "name": "Uncontrollable",
+      "url": "https://open.spotify.com/track/3dTVBSfHOgACsowggjZdyw"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Dat Jij Mij Vindt",
+        "url": "https://open.spotify.com/album/2n8ZZNXIS1QoeDbwUxuBIX"
+      },
+      "artists": [
+        {
+          "name": "Mus Dam\u00e9",
+          "url": "https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R"
+        }
+      ],
+      "duration_ms": 180657,
+      "name": "Dat Jij Mij Vindt",
+      "url": "https://open.spotify.com/track/4aQMM6U0EnJevrsuqXsa1V"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3por55C03yDjC8JvByKjtq"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/5jGvXj4Virggz7GjqBTs9h"
+        }
+      ],
+      "duration_ms": 171134,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0COBroNJyA7erK1gOcQHKo"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Work Out",
+        "url": "https://open.spotify.com/album/2Mu5qrJt6hbkBnILoVE8LN"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/78t04DhBvhmru6Bx9UBVUn"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Limelight",
+        "url": "https://open.spotify.com/album/46okxRwvI93YheFCj3ajnH"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 266270,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/4IYXjnhcY5l6RPoq7Y5wYd"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/2aIv7t4XluBXRDWCVx9vUv"
+      },
+      "artists": [
+        {
+          "name": "Rach\u00e8l Louise",
+          "url": "https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/5HVPQ0G0pimoZwbWdZ19GB"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Say Yes, Before I Do",
+        "url": "https://open.spotify.com/album/5aoDMcTy7L5P0OrGUvx1SR"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/6tyCabPUFMlCxB5NxICFtK"
+        }
+      ],
+      "duration_ms": 231306,
+      "name": "Say Yes, Before I Do",
+      "url": "https://open.spotify.com/track/7nezdzBBV8ulf6igXq73Dd"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Guy From Outer Space",
+        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
+      },
+      "artists": [
+        {
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+        }
+      ],
+      "duration_ms": 163176,
+      "name": "Guy From Outer Space",
+      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Kom Maar Bij Me",
+        "url": "https://open.spotify.com/album/0jgiARhaa77wUzIY91QxQb"
+      },
+      "artists": [
+        {
+          "name": "Marlijn",
+          "url": "https://open.spotify.com/artist/16fziKlvEinEhQRH8qx1Qu"
+        }
+      ],
+      "duration_ms": 242621,
+      "name": "Kom Maar Bij Me",
+      "url": "https://open.spotify.com/track/7FVUFUp9MRsV9eWHzvk2w5"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Wandel Naar Mezelf",
+        "url": "https://open.spotify.com/album/2mPDUAYRN24mMsfH9TCsBR"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 187010,
+      "name": "Oh Het Leven",
+      "url": "https://open.spotify.com/track/70PS56qImgWyqHzUE56R6p"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Door me heen",
+        "url": "https://open.spotify.com/album/3gPLKWbpvw3qq2faXd5AVa"
+      },
+      "artists": [
+        {
+          "name": "Bibi van Ansem",
+          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Door me heen",
+      "url": "https://open.spotify.com/track/5w2ik1kdMwpU5Nhcudy8Px"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Kaartenspel",
+        "url": "https://open.spotify.com/album/21i6gb2GtYc8qTICYo8mxL"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "duration_ms": 189703,
+      "name": "Kaartenspel",
+      "url": "https://open.spotify.com/track/6CUnn1kZU7v9mmADfraQsx"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/61VvhpQDblnuSPpeAZjq3X"
+      },
+      "artists": [
+        {
+          "name": "Sophia Ammann",
+          "url": "https://open.spotify.com/artist/2N4R8EDUwfZfdUeaDxdce8"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/2gvM084Yzk1shNhv7bl7sM"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Alles Met Je Delen",
+        "url": "https://open.spotify.com/album/75lxZsaUzY6KOSaphH57eZ"
+      },
+      "artists": [
+        {
+          "name": "Klazina",
+          "url": "https://open.spotify.com/artist/4cedMmifnKvfZH9DmrSZl5"
+        }
+      ],
+      "duration_ms": 145631,
+      "name": "Alles Met Je Delen",
+      "url": "https://open.spotify.com/track/5wOfgY5XSHqzleKxFgCt3G"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/6ICFA94jPuKY8Ad6SDtT8h"
+      },
+      "artists": [
+        {
+          "name": "Wendy Moore",
+          "url": "https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l"
+        }
+      ],
+      "duration_ms": 163775,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/2lygHwRyo8pKkvjHg1alsC"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/2PEN6uMnfC5XzCgOWqLuHd"
+      },
+      "artists": [
+        {
+          "name": "Isolde Lasoen",
+          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Egoland",
+      "url": "https://open.spotify.com/track/5KCqhuiHQdZT7yClHq6GoM"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Apophenia",
+        "url": "https://open.spotify.com/album/5ALdQn6eUuOmBQqqYlYICN"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Apophenia",
+      "url": "https://open.spotify.com/track/4NYPWFsLQcNOQQc1dykMjI"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Exploding Heart",
+        "url": "https://open.spotify.com/album/2nM9Q3Lh9Jnu6MwZ5ZUgsK"
+      },
+      "artists": [
+        {
+          "name": "Anne-Fay",
+          "url": "https://open.spotify.com/artist/4NKiHTs8h3aJkfya3JC0no"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Exploding Heart",
+      "url": "https://open.spotify.com/track/044JmvEBGsgxJGRbcBEeoH"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Donkere Wolken",
+        "url": "https://open.spotify.com/album/2uLQ1u7EImSvpGq0iFa0aN"
+      },
+      "artists": [
+        {
+          "name": "Iris Penning",
+          "url": "https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G"
+        }
+      ],
+      "duration_ms": 181403,
+      "name": "Donkere Wolken",
+      "url": "https://open.spotify.com/track/7n7kMw9aRdsYv6G6akTwOu"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Donker en Licht",
+        "url": "https://open.spotify.com/album/1dxjp6p2FgQmSEvu9ou6Kc"
+      },
+      "artists": [
+        {
+          "name": "Phillis",
+          "url": "https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Donker en Licht",
+      "url": "https://open.spotify.com/track/4G9Q0AVDnk8tlPMEdsnKiF"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Ur So Good",
+        "url": "https://open.spotify.com/album/0OFDa6EoueDu3fn9xjHgLi"
+      },
+      "artists": [
+        {
+          "name": "Jessmin",
+          "url": "https://open.spotify.com/artist/1EesnryhVOIDDGeqdcaw2y"
+        }
+      ],
+      "duration_ms": 164548,
+      "name": "Ur So Good",
+      "url": "https://open.spotify.com/track/25VLgHQNI9A247V56yqFTX"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/6M0YqAW71yA5Iwu7aDf4pf"
+      },
+      "artists": [
+        {
+          "name": "Miss Angel",
+          "url": "https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi"
+        }
+      ],
+      "duration_ms": 156794,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/7eTWPmkHvRcvkJSXi3Rhwm"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/08ngRtuQ9iHythXhggNrJV"
+      },
+      "artists": [
+        {
+          "name": "ANIQUE",
+          "url": "https://open.spotify.com/artist/3vtjf6C3LPZf3ZwP07fczx"
+        }
+      ],
+      "duration_ms": 150904,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1id4vn9RRKTnfZQmMeksi8"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Between The Head & The Heart",
+        "url": "https://open.spotify.com/album/3actJJAqJrFelw8mh94xt9"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ewbank",
+          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
+        }
+      ],
+      "duration_ms": 181038,
+      "name": "Between The Head & The Heart",
+      "url": "https://open.spotify.com/track/4Vbv9zdFq2wB8yxnaMhoBa"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Voor Eens En Voor Altijd",
+        "url": "https://open.spotify.com/album/6NHCzmgrUetDvbzdGhd7j1"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "duration_ms": 166366,
+      "name": "Voor Eens En Voor Altijd",
+      "url": "https://open.spotify.com/track/1AWW0BLQ9lf2nkyAgXoC0V"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Love Me Like",
+        "url": "https://open.spotify.com/album/6uidII8xhl5yugDqqMR2m9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Cox",
+          "url": "https://open.spotify.com/artist/6jkZw1ZGmPmXSN3CkvCUgj"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "Love Me Like",
+      "url": "https://open.spotify.com/track/1mJYWgp499u7YOZaKTBaAG"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Slaap",
+        "url": "https://open.spotify.com/album/5aFdLxtMs8LfxiTmV5kSnP"
+      },
+      "artists": [
+        {
+          "name": "Eva van Manen",
+          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
+        }
+      ],
+      "duration_ms": 231979,
+      "name": "Slaap",
+      "url": "https://open.spotify.com/track/03uUxpinGNtYRgQn8w84a1"
+    },
+    {
+      "added_at": "2026-03-31 22:00:09",
+      "album": {
+        "name": "Good Riddance & Goodbye",
+        "url": "https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI"
+      },
+      "artists": [
+        {
+          "name": "INA ROSE",
+          "url": "https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA"
+        }
+      ],
+      "duration_ms": 187980,
+      "name": "Good Riddance & Goodbye",
+      "url": "https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e"
     }
   ],
   "unique_name": "EQUAL Benelux",

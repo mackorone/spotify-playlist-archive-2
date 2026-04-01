@@ -228,7 +228,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 154037,
       "name": "10 SEGUNDOS",
       "url": "https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 209908,
       "name": "Ainda Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/0GBsYdxpAPsOd6H8QzGCCU"
@@ -10228,7 +10228,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 147708,
       "name": "Beijei, Bebi",
       "url": "https://open.spotify.com/track/2rQkCMIsfoHhqjIFUBRPRr"
@@ -15533,6 +15533,24 @@
     },
     {
       "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+    },
+    {
+      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -18634,7 +18652,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 319575,
       "name": "Cora\u00e7\u00e3o Novo",
       "url": "https://open.spotify.com/track/3p9pRtdQOYS0WswINSwF9q"
@@ -22226,7 +22244,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 274800,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/18KyJgSmfIPEsimWshBojB"
@@ -33081,6 +33099,32 @@
     },
     {
       "album": {
+        "name": "Fuma\u00e7a do ice",
+        "url": "https://open.spotify.com/album/2XHcLmoIirhNYq8mWB9zGm"
+      },
+      "artists": [
+        {
+          "name": "Mc Menor Rf",
+          "url": "https://open.spotify.com/artist/5rAM4fmlKnxhoAOy04AROC"
+        },
+        {
+          "name": "Mc Vit\u00e3o do Sr",
+          "url": "https://open.spotify.com/artist/7iNTDbHwxTyYxCr5JbhBQC"
+        },
+        {
+          "name": "DJ GUIZIN DA SERRA",
+          "url": "https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224076,
+      "name": "Fuma\u00e7a do ice",
+      "url": "https://open.spotify.com/track/7dAysHF8T5wxVR4nW1Snas"
+    },
+    {
+      "album": {
         "name": "Fumo 2 Bal\u00e3o",
         "url": "https://open.spotify.com/album/0nlmwBbM9MYzb4ytvCz38R"
       },
@@ -34182,7 +34226,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -39524,7 +39568,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 130285,
       "name": "JA FAZEM HORAS",
       "url": "https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC"
@@ -39630,6 +39674,24 @@
       "duration_ms": 208397,
       "name": "James Harden",
       "url": "https://open.spotify.com/track/0dlDz5kY2g6j0CO5i7WZjN"
+    },
+    {
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
     },
     {
       "album": {
@@ -49156,7 +49218,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 205403,
       "name": "Mel\u00f4 De Pra N\u00e3o Dar K.O - Reggae Funk",
       "url": "https://open.spotify.com/track/13tEaXv72jvgRcR81akpNo"
@@ -55210,7 +55272,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 202304,
       "name": "NEM ERA PRA EU T\u00c1 AQUI (Deus Que Me Escolheu)",
       "url": "https://open.spotify.com/track/5JYIcuUNEVhy57xY8M1eHh"
@@ -55254,7 +55316,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-01",
       "duration_ms": 142286,
       "name": "Nem Pagando",
       "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
@@ -57801,6 +57863,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Me Deixe Esquecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380477,
+      "name": "N\u00e3o Me Deixe Esquecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Namora (Ao Vivo)",
         "url": "https://open.spotify.com/album/5kruHqqKGLGBQzYE8zXKBA"
       },
@@ -59116,6 +59200,36 @@
       "duration_ms": 146666,
       "name": "O Que Sobrou Do Amor?",
       "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
+    },
+    {
+      "album": {
+        "name": "O QUE TU QUER?",
+        "url": "https://open.spotify.com/album/0cm5zBv1VrQkV7sBOgb3zU"
+      },
+      "artists": [
+        {
+          "name": "DJ ALGUS ZL",
+          "url": "https://open.spotify.com/artist/18iXllw5RiVqGnMBl2Eny2"
+        },
+        {
+          "name": "Yunmaho",
+          "url": "https://open.spotify.com/artist/3rOCaO21OZT7Q2pLs1joqq"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149911,
+      "name": "O QUE TU QUER?",
+      "url": "https://open.spotify.com/track/0INAfXEmfn4LwXPGka1Teo"
     },
     {
       "album": {
@@ -65391,6 +65505,28 @@
     },
     {
       "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/7l7raLom44PryiVdnviwcA"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101995,
+      "name": "playboy",
+      "url": "https://open.spotify.com/track/2uNzlkOcqZLpoo25F1C19Y"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -66914,6 +67050,28 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
+    },
+    {
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181599,
+      "name": "PREACHER MAN",
+      "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
     },
     {
       "album": {
@@ -78128,6 +78286,32 @@
       "duration_ms": 81273,
       "name": "Sou Gangstar - Oruam, Salvador da Rima",
       "url": "https://open.spotify.com/track/6m3iuM4KH0uZGG4ymN7FIf"
+    },
+    {
+      "album": {
+        "name": "Sou Grato Por Seu Amor",
+        "url": "https://open.spotify.com/album/0LA7WSnJyjxq1AYFf8vgsw"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Records",
+          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311946,
+      "name": "Sou Grato Por Seu Amor",
+      "url": "https://open.spotify.com/track/0uV1U1d1qOCcmRjJbNgHJT"
     },
     {
       "album": {
@@ -92929,6 +93113,24 @@
     },
     {
       "album": {
+        "name": "Disney 2000s, Vol. 1",
+        "url": "https://open.spotify.com/album/6IaStDegtGslQ7C2PQRfgl"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "You'll Always Find Your Way Back Home",
+      "url": "https://open.spotify.com/track/5MK1I5GUnP0Bfppb50ftP9"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -93440,6 +93642,24 @@
       "duration_ms": 150000,
       "name": "zumzumzum",
       "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
+    },
+    {
+      "album": {
+        "name": "Maquiagem Borrada",
+        "url": "https://open.spotify.com/album/6xKDplxmyEmG4tMLKpzaGl"
+      },
+      "artists": [
+        {
+          "name": "Canal Do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/7pJ0NAjDCpdXCWabWAnXG5"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163282,
+      "name": "Z\u00e9 Vaqueiro - Ficar Por Ficar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4wHZtXB0neijWwmW1KJ03p"
     },
     {
       "album": {

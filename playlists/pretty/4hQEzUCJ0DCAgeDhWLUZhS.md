@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,514 likes - 109 songs - 6 hr 2 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,514 likes - 112 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,8 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 107 | [Back To Dust](https://open.spotify.com/track/0lS4xb7lMHwuFtNR0Y3aX9) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Back To Dust](https://open.spotify.com/album/13bRXVAR8WFuorplVHwjON) | 3:00 |
 | 108 | [Attention](https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Attention](https://open.spotify.com/album/086U7cmrWRR6StP7Xt4GZw) | 2:59 |
 | 109 | [Receive](https://open.spotify.com/track/4egnOyXh0OVgWmDiWOTHGM) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Receive](https://open.spotify.com/album/0YFi4LYMktyKtNYtPL4gkz) | 2:46 |
+| 110 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
+| 111 | [Where There's Smoke, There's Fire](https://open.spotify.com/track/2fmKTXjj8zPinrBwswwTjI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Where There's Smoke, There's Fire](https://open.spotify.com/album/50yjrQvcvaw6M17RKAVZoh) | 5:00 |
+| 112 | [Things I've Killed](https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR) | [Telehealth](https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX) | [Things I've Killed](https://open.spotify.com/album/1xVxEwOcDyW3zIZ8x3eYej) | 2:50 |
 
-Snapshot ID: `AAAH5Xke3MJLhc+N2KmCTmGCZtNQJnNS`
+Snapshot ID: `AAAH6N8Ho5ASWMgoPEDVm2k1edYLdyMM`

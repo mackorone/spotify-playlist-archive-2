@@ -4,7 +4,7 @@
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-539 songs - 1 day 20 hr 44 min
+540 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Here I Am To Worship](https://open.spotify.com/track/0au5u99zsQ6yunHfywDX8a) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Here I Am To Worship](https://open.spotify.com/album/74ObUKF38uL86v2uAnSy1f) | 5:15 | 2021-04-04 |  |
 | [Here I Am To Worship](https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Ultimate Collection](https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn) | 5:17 | 2022-04-17 | 2024-04-19 |
 | [High & Lowly](https://open.spotify.com/track/3JJ0ir0D41tww1n28pBWEV) | [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [A Better Word](https://open.spotify.com/album/2SHolEGtQ0budBudf8LYaZ) | 5:01 | 2021-04-04 | 2025-06-18 |
+| [Hill Of Grace](https://open.spotify.com/track/2B0F33PmOf3uc52uxnjLj8) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Hill Of Grace](https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4) | 3:55 | 2026-03-29 |  |
 | [His Tomb Is Empty Now](https://open.spotify.com/track/4Sx1vVgoMaRPzxTJWtfJFh) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Moxie and Mettle](https://open.spotify.com/album/1kyZS7aXOPfpWbhpv4vRJy) | 2:38 | 2022-04-02 | 2022-07-23 |
 | [Hollow Grave](https://open.spotify.com/track/2BLwU4wimlaVNUtgUshRne) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Hollow Grave](https://open.spotify.com/album/4yNbmNxjROUUaZcjQMa57p) | 3:40 | 2026-03-29 |  |
 | [Holy Ground \- Live](https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 5:28 | 2022-04-02 | 2025-04-12 |
@@ -515,7 +516,7 @@
 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 | 2021-04-04 | 2023-04-03 |
 | [Wonderful, Merciful Savior](https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Greatest Hymns, Vol\. 2](https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP) | 3:51 | 2021-04-04 |  |
 | [Worthy](https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [Worthy](https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe) | 7:39 | 2026-03-29 |  |
-| [Worthy Is The Lamb \- Easter Version](https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Easter](https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh) | 5:33 | 2025-04-06 |  |
+| [Worthy Is The Lamb \- Easter Version](https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Easter](https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh) | 5:33 | 2025-04-06 | 2026-04-01 |
 | [Worthy Is The Lamb \- Live / The Very Best Of Hillsong Live Album Version](https://open.spotify.com/track/13UEvo5GzRpjLWxq949anQ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [The Very Best Of Hillsong Live](https://open.spotify.com/album/7q1lO2aZ4AJaUJlhljUfst) | 6:00 | 2021-04-04 | 2022-07-28 |
 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 | 2022-04-02 | 2022-06-10 |
 | [Worthy One](https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR) | [CLINE](https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Worthy One](https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R) | 3:56 | 2023-04-09 | 2024-06-27 |

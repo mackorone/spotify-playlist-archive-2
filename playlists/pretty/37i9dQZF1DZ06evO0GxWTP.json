@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 23911,
+  "num_followers": 23924,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "achrgAAAAAAVjTy3fp62Ph4ejZPoAvA5",
+  "snapshot_id": "acm9AAAAAADUaAzqPL/u6tc9Lhu3hPmX",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baldadig",
+        "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 143542,
+      "name": "Baldadig",
+      "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vader & zoon (Remix)",
         "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 140202,
       "name": "Vader & zoon - Remix",
       "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baldadig",
-        "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 143542,
-      "name": "Baldadig",
-      "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
     },
     {
       "added_at": null,
